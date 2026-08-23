@@ -35269,7 +35269,7 @@
   },
   "greenhouse:Carvana:8130357": {
     "company": "Carvana",
-    "enriched_at": "2026-08-14T23:13:54.812668+00:00",
+    "enriched_at": "2026-08-23T18:58:34.226895+00:00",
     "external_id": "8130357",
     "h1b_mentioned": false,
     "h1b_status": "does_not_support_h1b",
@@ -35284,7 +35284,7 @@
     "salary_period": "",
     "salary_text": "",
     "source": "greenhouse",
-    "source_updated_at": "2026-08-14T12:28:33-04:00",
+    "source_updated_at": "2026-08-23T11:32:58-04:00",
     "sponsorship_evidence": "&nbsp;</p> <p>This position is not eligible for visa sponsorship."
   },
   "greenhouse:Carvana:8130379": {
@@ -35950,7 +35950,7 @@
   },
   "greenhouse:Carvana:8130905": {
     "company": "Carvana",
-    "enriched_at": "2026-08-14T23:13:54.131264+00:00",
+    "enriched_at": "2026-08-23T18:58:34.217996+00:00",
     "external_id": "8130905",
     "h1b_mentioned": false,
     "h1b_status": "does_not_support_h1b",
@@ -35965,7 +35965,7 @@
     "salary_period": "",
     "salary_text": "",
     "source": "greenhouse",
-    "source_updated_at": "2026-08-14T15:26:00-04:00",
+    "source_updated_at": "2026-08-23T11:32:56-04:00",
     "sponsorship_evidence": "&nbsp;</p> <p>This position is not eligible for visa sponsorship."
   },
   "greenhouse:Carvana:8130917": {
@@ -172174,6 +172174,46 @@
     "source_updated_at": "",
     "sponsorship_evidence": ""
   },
+  "workday:Micron Technology:/job/Boise-ID---Main-Site/Intern---Product-Yield-Enhancement-Eng_JR108605": {
+    "company": "Micron Technology",
+    "enriched_at": "2026-08-23T18:50:19.381627+00:00",
+    "external_id": "/job/Boise-ID---Main-Site/Intern---Product-Yield-Enhancement-Eng_JR108605",
+    "h1b_mentioned": false,
+    "h1b_status": "unknown",
+    "keywords": [
+      "Python",
+      "electrical engineering"
+    ],
+    "salary_currency": "",
+    "salary_max": null,
+    "salary_min": null,
+    "salary_period": "",
+    "salary_text": "",
+    "source": "workday",
+    "source_updated_at": "",
+    "sponsorship_evidence": ""
+  },
+  "workday:Micron Technology:/job/Boise-ID---Main-Site/Intern---TD-Site-Industrial-Engineer_JR108729": {
+    "company": "Micron Technology",
+    "enriched_at": "2026-08-23T18:50:19.373418+00:00",
+    "external_id": "/job/Boise-ID---Main-Site/Intern---TD-Site-Industrial-Engineer_JR108729",
+    "h1b_mentioned": false,
+    "h1b_status": "unknown",
+    "keywords": [
+      "Python",
+      "SQL",
+      "Excel",
+      "supply chain"
+    ],
+    "salary_currency": "",
+    "salary_max": null,
+    "salary_min": null,
+    "salary_period": "",
+    "salary_text": "",
+    "source": "workday",
+    "source_updated_at": "",
+    "sponsorship_evidence": ""
+  },
   "workday:Micron Technology:/job/Boise-ID---Main-Site/Intern---Wafer-Bonding-Process-Development_JR108074": {
     "company": "Micron Technology",
     "enriched_at": "2026-08-22T01:54:54.541317+00:00",
@@ -182739,7 +182779,7 @@
   },
   "workday:NVIDIA:/job/US-CA-Santa-Clara/Manager--Software-TPM---Server-Firmware-and-System-Software_JR2007277-1": {
     "company": "NVIDIA",
-    "enriched_at": "2026-08-15T12:58:31.148002+00:00",
+    "enriched_at": "2026-08-23T18:47:54.785773+00:00",
     "external_id": "/job/US-CA-Santa-Clara/Manager--Software-TPM---Server-Firmware-and-System-Software_JR2007277-1",
     "h1b_mentioned": false,
     "h1b_status": "unknown",
@@ -182759,7 +182799,7 @@
   },
   "workday:NVIDIA:/job/US-CA-Santa-Clara/Manager--System-Software-Engineering---Factory_JR2021001": {
     "company": "NVIDIA",
-    "enriched_at": "2026-08-16T06:58:10.036015+00:00",
+    "enriched_at": "2026-08-23T18:47:54.793784+00:00",
     "external_id": "/job/US-CA-Santa-Clara/Manager--System-Software-Engineering---Factory_JR2021001",
     "h1b_mentioned": false,
     "h1b_status": "unknown",
@@ -183867,7 +183907,7 @@
   },
   "workday:NVIDIA:/job/US-CA-Santa-Clara/Senior-Firmware-Engineer_JR2007787": {
     "company": "NVIDIA",
-    "enriched_at": "2026-08-15T18:46:58.819971+00:00",
+    "enriched_at": "2026-08-23T18:47:54.807485+00:00",
     "external_id": "/job/US-CA-Santa-Clara/Senior-Firmware-Engineer_JR2007787",
     "h1b_mentioned": false,
     "h1b_status": "unknown",
@@ -184094,6 +184134,27 @@
     "h1b_status": "unknown",
     "keywords": [
       "Python",
+      "electrical engineering",
+      "recruiting"
+    ],
+    "salary_currency": "",
+    "salary_max": null,
+    "salary_min": null,
+    "salary_period": "",
+    "salary_text": "",
+    "source": "workday",
+    "source_updated_at": "",
+    "sponsorship_evidence": ""
+  },
+  "workday:NVIDIA:/job/US-CA-Santa-Clara/Senior-Platform-and-EngOps-Engineer---Cluster-Operations_JR2014633": {
+    "company": "NVIDIA",
+    "enriched_at": "2026-08-23T18:47:54.814652+00:00",
+    "external_id": "/job/US-CA-Santa-Clara/Senior-Platform-and-EngOps-Engineer---Cluster-Operations_JR2014633",
+    "h1b_mentioned": false,
+    "h1b_status": "unknown",
+    "keywords": [
+      "Python",
+      "artificial intelligence",
       "electrical engineering",
       "recruiting"
     ],
@@ -327627,7 +327688,7 @@
   },
   "workday:RTX:/job/US-MD-FORT-MEADE-9800-CUST--9800-Savage-Rd--SAVAGE-External-Site/Lowband-Software-Support-Engineer--Onsite-_01865111": {
     "company": "RTX",
-    "enriched_at": "2026-08-16T18:51:24.677920+00:00",
+    "enriched_at": "2026-08-23T18:52:35.190357+00:00",
     "external_id": "/job/US-MD-FORT-MEADE-9800-CUST--9800-Savage-Rd--SAVAGE-External-Site/Lowband-Software-Support-Engineer--Onsite-_01865111",
     "h1b_mentioned": false,
     "h1b_status": "unknown",
@@ -351871,6 +351932,25 @@
     "source_updated_at": "",
     "sponsorship_evidence": ""
   },
+  "workday:Sysco:/job/Sygma-Florida/Fleet-Technician-II---SYGMA---Florida_R250734": {
+    "company": "Sysco",
+    "enriched_at": "2026-08-23T18:56:47.932860+00:00",
+    "external_id": "/job/Sygma-Florida/Fleet-Technician-II---SYGMA---Florida_R250734",
+    "h1b_mentioned": false,
+    "h1b_status": "unknown",
+    "keywords": [
+      "sales",
+      "legal"
+    ],
+    "salary_currency": "",
+    "salary_max": null,
+    "salary_min": null,
+    "salary_period": "",
+    "salary_text": "",
+    "source": "workday",
+    "source_updated_at": "",
+    "sponsorship_evidence": ""
+  },
   "workday:Sysco:/job/Sygma-Florida/SYGMA---Warehouse-Equipment-Technician_R263619": {
     "company": "Sysco",
     "enriched_at": "2026-08-18T19:07:04.422280+00:00",
@@ -364221,6 +364301,25 @@
     "source_updated_at": "",
     "sponsorship_evidence": ""
   },
+  "workday:Thermo Fisher Scientific:/job/Middleton-Wisconsin-USA/Sample-Management-Supervisor_R-01364687": {
+    "company": "Thermo Fisher Scientific",
+    "enriched_at": "2026-08-23T18:58:24.824925+00:00",
+    "external_id": "/job/Middleton-Wisconsin-USA/Sample-Management-Supervisor_R-01364687",
+    "h1b_mentioned": false,
+    "h1b_status": "does_not_support_h1b",
+    "keywords": [
+      "logistics",
+      "compliance"
+    ],
+    "salary_currency": "",
+    "salary_max": null,
+    "salary_min": null,
+    "salary_period": "",
+    "salary_text": "",
+    "source": "workday",
+    "source_updated_at": "",
+    "sponsorship_evidence": "Must be legally authorized to work in the United States without sponsorship."
+  },
   "workday:Thermo Fisher Scientific:/job/Middleton-Wisconsin-USA/Scientist-I---Entry-Level_R-01360023": {
     "company": "Thermo Fisher Scientific",
     "enriched_at": "2026-08-18T19:09:02.938178+00:00",
@@ -364314,6 +364413,27 @@
     "keywords": [
       "Excel",
       "compliance"
+    ],
+    "salary_currency": "",
+    "salary_max": null,
+    "salary_min": null,
+    "salary_period": "",
+    "salary_text": "",
+    "source": "workday",
+    "source_updated_at": "",
+    "sponsorship_evidence": ""
+  },
+  "workday:Thermo Fisher Scientific:/job/Middleton-Wisconsin-USA/Senior-Study-Lead--Cell-and-Gene-Therapy_R-01364864": {
+    "company": "Thermo Fisher Scientific",
+    "enriched_at": "2026-08-23T18:58:24.835813+00:00",
+    "external_id": "/job/Middleton-Wisconsin-USA/Senior-Study-Lead--Cell-and-Gene-Therapy_R-01364864",
+    "h1b_mentioned": false,
+    "h1b_status": "unknown",
+    "keywords": [
+      "Excel",
+      "audit",
+      "compliance",
+      "contracts"
     ],
     "salary_currency": "",
     "salary_max": null,
@@ -378091,6 +378211,27 @@
     "source_updated_at": "",
     "sponsorship_evidence": ""
   },
+  "workday:U.S. Bancorp:/job/Charlotte-NC/Corp-Trust-Financial-Mgmt-Analyst-3_2026-0024605": {
+    "company": "U.S. Bancorp",
+    "enriched_at": "2026-08-23T18:58:27.503608+00:00",
+    "external_id": "/job/Charlotte-NC/Corp-Trust-Financial-Mgmt-Analyst-3_2026-0024605",
+    "h1b_mentioned": false,
+    "h1b_status": "unknown",
+    "keywords": [
+      "Excel",
+      "accounting",
+      "compliance",
+      "legal"
+    ],
+    "salary_currency": "",
+    "salary_max": null,
+    "salary_min": null,
+    "salary_period": "",
+    "salary_text": "",
+    "source": "workday",
+    "source_updated_at": "",
+    "sponsorship_evidence": ""
+  },
   "workday:U.S. Bancorp:/job/Charlotte-NC/Small-Business-Specialist-3---Pineville-Matthew-Office_2026-0021376": {
     "company": "U.S. Bancorp",
     "enriched_at": "2026-08-18T02:01:44.984361+00:00",
@@ -381277,6 +381418,24 @@
     "source_updated_at": "",
     "sponsorship_evidence": ""
   },
+  "workday:U.S. Bancorp:/job/Saint-Paul-MN/Custodial-Records-Associate-2_2026-0023391-1": {
+    "company": "U.S. Bancorp",
+    "enriched_at": "2026-08-23T18:58:27.492683+00:00",
+    "external_id": "/job/Saint-Paul-MN/Custodial-Records-Associate-2_2026-0023391-1",
+    "h1b_mentioned": false,
+    "h1b_status": "unknown",
+    "keywords": [
+      "Excel"
+    ],
+    "salary_currency": "",
+    "salary_max": null,
+    "salary_min": null,
+    "salary_period": "",
+    "salary_text": "",
+    "source": "workday",
+    "source_updated_at": "",
+    "sponsorship_evidence": ""
+  },
   "workday:U.S. Bancorp:/job/Saint-Paul-MN/Custodial-Records-Associate-2_2026-0024637": {
     "company": "U.S. Bancorp",
     "enriched_at": "2026-08-20T19:13:56.057084+00:00",
@@ -383242,6 +383401,46 @@
     "keywords": [
       "AWS",
       "Azure",
+      "Kubernetes"
+    ],
+    "salary_currency": "",
+    "salary_max": null,
+    "salary_min": null,
+    "salary_period": "",
+    "salary_text": "",
+    "source": "workday",
+    "source_updated_at": "",
+    "sponsorship_evidence": ""
+  },
+  "workday:Visa:/job/IN---Bengaluru-India/Software-Engineer-2_REF081481W": {
+    "company": "Visa",
+    "enriched_at": "2026-08-23T18:49:40.612987+00:00",
+    "external_id": "/job/IN---Bengaluru-India/Software-Engineer-2_REF081481W",
+    "h1b_mentioned": false,
+    "h1b_status": "unknown",
+    "keywords": [
+      "Java",
+      "Azure"
+    ],
+    "salary_currency": "",
+    "salary_max": null,
+    "salary_min": null,
+    "salary_period": "",
+    "salary_text": "",
+    "source": "workday",
+    "source_updated_at": "",
+    "sponsorship_evidence": ""
+  },
+  "workday:Visa:/job/IN---Bengaluru-India/Software-Engineer_REF081660W": {
+    "company": "Visa",
+    "enriched_at": "2026-08-23T18:49:40.621312+00:00",
+    "external_id": "/job/IN---Bengaluru-India/Software-Engineer_REF081660W",
+    "h1b_mentioned": false,
+    "h1b_status": "unknown",
+    "keywords": [
+      "Java",
+      "SQL",
+      "Docker",
       "Kubernetes"
     ],
     "salary_currency": "",

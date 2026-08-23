@@ -1,12 +1,12 @@
 # F500Tracker internships
 
-Last updated: August 23, 2026 at 13:11 UTC
+Last updated: August 23, 2026 at 18:58 UTC
 
-Current internships: 111
+Current internships: 113
 
 ## Categories
 
-[Software & IT (5)](#software-it) · [Data & AI (2)](#data-ai) · [Engineering (4)](#engineering) · [Finance & Accounting (5)](#finance-accounting) · [Sales & Marketing (1)](#sales-marketing) · [Operations & Supply Chain (7)](#operations-supply-chain) · [People & Legal (3)](#people-legal) · [Other (84)](#other)
+[Software & IT (5)](#software-it) · [Data & AI (2)](#data-ai) · [Engineering (5)](#engineering) · [Finance & Accounting (5)](#finance-accounting) · [Sales & Marketing (1)](#sales-marketing) · [Operations & Supply Chain (7)](#operations-supply-chain) · [People & Legal (3)](#people-legal) · [Other (85)](#other)
 
 <a id="software-it"></a>
 
@@ -41,11 +41,12 @@ Open positions: 2
 
 ## Engineering
 
-Open positions: 4
+Open positions: 5
 
 | Rank | Company | Position | Location | Category | Salary | Keywords | Sponsorship | Apply |
 |---:|---|---|---|---|---|---|---|---|
 | 84 | HP | Technology & Innovation Organization Electrical Engineering Internship | Corvallis, Oregon, United States of America | Engineering | $29–$35/hr | electrical engineering | Not specified | [Apply](https://hp.wd5.myworkdayjobs.com/en-US/ExternalCareerSite/job/Corvallis-Oregon-United-States-of-America/Technology---Innovation-Organization-Electrical-Engineering-Internship_3167270-1) |
+| 125 | Micron Technology | Intern - TD Site Industrial Engineer | Boise, ID - Main Site | Engineering | Not disclosed | Python · SQL · Excel · supply chain | Not specified | [Apply](https://micron.wd1.myworkdayjobs.com/en-US/External/job/Boise-ID---Main-Site/Intern---TD-Site-Industrial-Engineer_JR108729) |
 | 49 | RTX | Stage - Hiver 2027 – Ingénieur Qualité / Internship - Winter 2027 - Quality Engineer | CA-QC-LONGUEUIL-J01 ~ 1000 Blvd Marie-Victorin ~ J01 BLDG | Engineering | Not disclosed | — | Not specified | [Apply](https://globalhr.wd5.myworkdayjobs.com/en-US/REC_RTX_Ext_Gateway/job/CA-QC-LONGUEUIL-J01--1000-Blvd-Marie-Victorin--J01-BLDG/XMLNAME--Stage---Hiver-2027---Ingnieur-Qualit---Internship---Winter-2027---Quality-Engineer_01864619) |
 | 49 | RTX | Stage - Hiver 2027 - Bureau de la Règlementation sur les Produits / Internship  Winter 2027 - Global Chemical Regulations Office | CA-QC-LONGUEUIL-J01 ~ 1000 Blvd Marie-Victorin ~ J01 BLDG | Engineering | Not disclosed | compliance | Not specified | [Apply](https://globalhr.wd5.myworkdayjobs.com/en-US/REC_RTX_Ext_Gateway/job/CA-QC-LONGUEUIL-J01--1000-Blvd-Marie-Victorin--J01-BLDG/Stage---Hiver-2027---Bureau-de-la-Rglementation-sur-les-Produits---Internship--Winter-2027---Global-Chemical-Regulations-Office_01864165) |
 | 49 | RTX | 2027 Stage Hiver - Stagiaire en Hygiene industrielle / 2027 Winter Internship - Industrial Hygiene intern | CA-QC-LONGUEUIL-J01 ~ 1000 Blvd Marie-Victorin ~ J01 BLDG | Engineering | Not disclosed | — | Not specified | [Apply](https://globalhr.wd5.myworkdayjobs.com/en-US/REC_RTX_Ext_Gateway/job/CA-QC-LONGUEUIL-J01--1000-Blvd-Marie-Victorin--J01-BLDG/XMLNAME-2027-Stage-Hiver---Stagiaire-en-Hygiene-industrielle---2027-Winter-Internship---Industrial-Hygiene-intern_01864096) |
@@ -116,7 +117,7 @@ Open positions: 3
 
 ## Other
 
-Open positions: 84
+Open positions: 85
 
 | Rank | Company | Position | Location | Category | Salary | Keywords | Sponsorship | Apply |
 |---:|---|---|---|---|---|---|---|---|
@@ -124,6 +125,7 @@ Open positions: 84
 | 63 | Capital One | Strategy Consulting Intern - Summer 2027 | McLean, VA | Other | Not disclosed | recruiting · compliance | No sponsorship for this position | [Apply](https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/McLean-VA/Strategy-Consulting-Intern---Summer-2027_R244315-1) |
 | 112 | Northrop Grumman | 2027 Spring/Summer Chemistry Co-Op- Redondo Beach CA | United States-California-Redondo Beach | Other | $26.75–$32.5/hr | — | Not specified | [Apply](https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-California-Redondo-Beach/XMLNAME-2027-Spring-Summer-Chemistry-Co-Op--Redondo-Beach-CA_R10246391) |
 | 112 | Northrop Grumman | 2027 Guidance Navigation and Control Intern Dulles VA | United States-Virginia-Dulles | Other | Not disclosed | mechanical engineering · electrical engineering · supply chain | Not specified | [Apply](https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-Virginia-Dulles/XMLNAME-2027-Guidance-Navigation-and-Control-Intern-Dulles-VA_R10246322) |
+| 125 | Micron Technology | Intern - Product Yield Enhancement Eng | Boise, ID - Main Site | Other | Not disclosed | Python · electrical engineering | Not specified | [Apply](https://micron.wd1.myworkdayjobs.com/en-US/External/job/Boise-ID---Main-Site/Intern---Product-Yield-Enhancement-Eng_JR108605) |
 | 125 | Micron Technology | Intern - Yield Enhancement, Data Analysis | Boise, ID - Main Site | Other | Not disclosed | machine learning · artificial intelligence · data science · electrical engineering | Not specified | [Apply](https://micron.wd1.myworkdayjobs.com/en-US/External/job/Boise-ID---Main-Site/Intern---Yield-Enhancement--Data-Analysis_JR109076) |
 | 125 | Micron Technology | Intern - Metrology Process Development Engineer | Boise, ID - Main Site | Other | Not disclosed | Python · machine learning · artificial intelligence · data science · analytics | Not specified | [Apply](https://micron.wd1.myworkdayjobs.com/en-US/External/job/Boise-ID---Main-Site/Intern---Metrology-Process-Development-Engineer_JR108851) |
 | 125 | Micron Technology | Intern - Yield Technology Equipment | Boise, ID - Main Site | Other | Not disclosed | data science · electrical engineering | Not specified | [Apply](https://micron.wd1.myworkdayjobs.com/en-US/External/job/Boise-ID---Main-Site/Intern---Yield-Technology-Equipment_JR109069) |

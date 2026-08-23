@@ -317,25 +317,6 @@
   {
     "company": "Coupang",
     "title": "Senior Executive Assistant",
-    "location": "Mountain View, USA",
-    "employment_type": "full-time",
-    "category": "Other",
-    "salary": "$89k/yr",
-    "salary_min": 89000.0,
-    "keywords": [
-      "Excel",
-      "tax",
-      "logistics",
-      "recruiting"
-    ],
-    "sponsorship_evidence": "",
-    "h1b_status": "unknown",
-    "sponsorship_label": "Not specified",
-    "url": "https://www.coupang.jobs/en/jobs/?gh_jid=8143394"
-  },
-  {
-    "company": "Coupang",
-    "title": "Senior Executive Assistant",
     "location": "Seattle, USA",
     "employment_type": "full-time",
     "category": "Other",
@@ -351,6 +332,25 @@
     "h1b_status": "unknown",
     "sponsorship_label": "Not specified",
     "url": "https://www.coupang.jobs/en/jobs/?gh_jid=8089206"
+  },
+  {
+    "company": "Coupang",
+    "title": "Senior Executive Assistant",
+    "location": "Mountain View, USA",
+    "employment_type": "full-time",
+    "category": "Other",
+    "salary": "$89k/yr",
+    "salary_min": 89000.0,
+    "keywords": [
+      "Excel",
+      "tax",
+      "logistics",
+      "recruiting"
+    ],
+    "sponsorship_evidence": "",
+    "h1b_status": "unknown",
+    "sponsorship_label": "Not specified",
+    "url": "https://www.coupang.jobs/en/jobs/?gh_jid=8143394"
   },
   {
     "company": "Coupang",
@@ -396,29 +396,6 @@
   {
     "company": "Coupang",
     "title": "Senior Staff Backend Engineer - Cloud Infrastructure",
-    "location": "Seattle, USA",
-    "employment_type": "full-time",
-    "category": "Software & IT",
-    "salary": "$174k/yr",
-    "salary_min": 174000.0,
-    "keywords": [
-      "Python",
-      "AWS",
-      "Azure",
-      "GCP",
-      "Docker",
-      "Kubernetes",
-      "Terraform",
-      "tax"
-    ],
-    "sponsorship_evidence": "",
-    "h1b_status": "unknown",
-    "sponsorship_label": "Not specified",
-    "url": "https://www.coupang.jobs/en/jobs/?gh_jid=7438944"
-  },
-  {
-    "company": "Coupang",
-    "title": "Senior Staff Backend Engineer - Cloud Infrastructure",
     "location": "Mountain View, USA",
     "employment_type": "full-time",
     "category": "Software & IT",
@@ -438,6 +415,29 @@
     "h1b_status": "unknown",
     "sponsorship_label": "Not specified",
     "url": "https://www.coupang.jobs/en/jobs/?gh_jid=7962133"
+  },
+  {
+    "company": "Coupang",
+    "title": "Senior Staff Backend Engineer - Cloud Infrastructure",
+    "location": "Seattle, USA",
+    "employment_type": "full-time",
+    "category": "Software & IT",
+    "salary": "$174k/yr",
+    "salary_min": 174000.0,
+    "keywords": [
+      "Python",
+      "AWS",
+      "Azure",
+      "GCP",
+      "Docker",
+      "Kubernetes",
+      "Terraform",
+      "tax"
+    ],
+    "sponsorship_evidence": "",
+    "h1b_status": "unknown",
+    "sponsorship_label": "Not specified",
+    "url": "https://www.coupang.jobs/en/jobs/?gh_jid=7438944"
   },
   {
     "company": "Coupang",
@@ -15326,7 +15326,7 @@
   },
   {
     "company": "NVIDIA",
-    "title": "Senior Software Engineer, NCCL",
+    "title": "Director, Software TPM - Server Firmware and System Software",
     "location": "US, CA, Santa Clara",
     "employment_type": "full-time",
     "category": "Software & IT",
@@ -15334,16 +15334,17 @@
     "salary_min": null,
     "keywords": [
       "artificial intelligence",
+      "electrical engineering",
       "recruiting"
     ],
     "sponsorship_evidence": "",
     "h1b_status": "unknown",
     "sponsorship_label": "Not specified",
-    "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Software-Engineer--GPU-Communications-and-Networking_JR1997186"
+    "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Manager--Software-TPM---Server-Firmware-and-System-Software_JR2007277-1"
   },
   {
     "company": "NVIDIA",
-    "title": "Senior Systems Software Engineer, Data Center Platform Enablement",
+    "title": "Manager, System Software Engineering - Factory",
     "location": "US, CA, Santa Clara",
     "employment_type": "full-time",
     "category": "Software & IT",
@@ -15351,17 +15352,17 @@
     "salary_min": null,
     "keywords": [
       "Python",
-      "electrical engineering",
-      "recruiting"
+      "recruiting",
+      "compliance"
     ],
     "sponsorship_evidence": "",
     "h1b_status": "unknown",
     "sponsorship_label": "Not specified",
-    "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Systems-Software-Engineer--Data-Center-Platform-Enablement_JR2019870"
+    "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Manager--System-Software-Engineering---Factory_JR2021001"
   },
   {
     "company": "NVIDIA",
-    "title": "Architecture Energy Modeling Engineer - New College Grad 2026",
+    "title": "Senior Firmware Engineer -\u00a0 Development, Verification and Infrastructure",
     "location": "US, CA, Santa Clara",
     "employment_type": "full-time",
     "category": "Other",
@@ -15369,109 +15370,32 @@
     "salary_min": null,
     "keywords": [
       "Python",
-      "machine learning",
+      "electrical engineering",
+      "recruiting"
+    ],
+    "sponsorship_evidence": "",
+    "h1b_status": "unknown",
+    "sponsorship_label": "Not specified",
+    "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Firmware-Engineer_JR2007787"
+  },
+  {
+    "company": "NVIDIA",
+    "title": "Senior Platform and EngOps Engineer - Cluster Operations",
+    "location": "US, CA, Santa Clara",
+    "employment_type": "full-time",
+    "category": "Operations & Supply Chain",
+    "salary": "Not disclosed",
+    "salary_min": null,
+    "keywords": [
+      "Python",
       "artificial intelligence",
-      "analytics",
       "electrical engineering",
       "recruiting"
     ],
     "sponsorship_evidence": "",
     "h1b_status": "unknown",
     "sponsorship_label": "Not specified",
-    "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Architecture-Energy-Modeling-Engineer---New-College-Grad-2026_JR2023398"
-  },
-  {
-    "company": "NVIDIA",
-    "title": "Systems Software Engineer - AI and Cloud",
-    "location": "US, CA, Santa Clara",
-    "employment_type": "full-time",
-    "category": "Software & IT",
-    "salary": "Not disclosed",
-    "salary_min": null,
-    "keywords": [
-      "Python",
-      "JavaScript",
-      "Kubernetes",
-      "electrical engineering",
-      "recruiting"
-    ],
-    "sponsorship_evidence": "",
-    "h1b_status": "unknown",
-    "sponsorship_label": "Not specified",
-    "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Systems-Software-Engineer---AI-and-Cloud_JR2024087"
-  },
-  {
-    "company": "NVIDIA",
-    "title": "Senior Architecture Energy Modeling Engineer",
-    "location": "US, CA, Santa Clara",
-    "employment_type": "full-time",
-    "category": "Other",
-    "salary": "Not disclosed",
-    "salary_min": null,
-    "keywords": [
-      "Python",
-      "machine learning",
-      "artificial intelligence",
-      "analytics",
-      "electrical engineering",
-      "recruiting"
-    ],
-    "sponsorship_evidence": "",
-    "h1b_status": "unknown",
-    "sponsorship_label": "Not specified",
-    "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Architecture-Energy-Modeling-Engineer_JR2022457"
-  },
-  {
-    "company": "NVIDIA",
-    "title": "Research Engineer, Interactive World Models - New College Grad 2026",
-    "location": "US, CA, Santa Clara",
-    "employment_type": "full-time",
-    "category": "Other",
-    "salary": "Not disclosed",
-    "salary_min": null,
-    "keywords": [
-      "Python",
-      "electrical engineering",
-      "recruiting"
-    ],
-    "sponsorship_evidence": "",
-    "h1b_status": "unknown",
-    "sponsorship_label": "Not specified",
-    "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Research-Engineer--Interactive-World-Models---New-College-Grad-2026_JR2023950"
-  },
-  {
-    "company": "NVIDIA",
-    "title": "Senior Account Manager, Consumer Internet and Digital Natives",
-    "location": "US, CA, Santa Clara",
-    "employment_type": "full-time",
-    "category": "Other",
-    "salary": "Not disclosed",
-    "salary_min": null,
-    "keywords": [
-      "sales",
-      "recruiting"
-    ],
-    "sponsorship_evidence": "",
-    "h1b_status": "unknown",
-    "sponsorship_label": "Not specified",
-    "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Account-Manager--Consumer-Internet-and-Digital-Natives_JR2022721"
-  },
-  {
-    "company": "NVIDIA",
-    "title": "Senior DFT - Silicon Validation Engineer",
-    "location": "US, CA, Santa Clara",
-    "employment_type": "full-time",
-    "category": "Other",
-    "salary": "Not disclosed",
-    "salary_min": null,
-    "keywords": [
-      "Python",
-      "recruiting"
-    ],
-    "sponsorship_evidence": "",
-    "h1b_status": "unknown",
-    "sponsorship_label": "Not specified",
-    "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-DFT-Engineer_JR2019303"
+    "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Platform-and-EngOps-Engineer---Cluster-Operations_JR2014633"
   },
   {
     "company": "Salesforce",
@@ -15682,26 +15606,6 @@
     "h1b_status": "unknown",
     "sponsorship_label": "Not specified",
     "url": "https://salesforce.wd12.myworkdayjobs.com/en-US/External_Career_Site/job/Arizona---Phoenix/Business-Operations-Analyst_JR355436"
-  },
-  {
-    "company": "Salesforce",
-    "title": "VP, Software Engineering",
-    "location": "California - San Francisco",
-    "employment_type": "full-time",
-    "category": "Software & IT",
-    "salary": "$257.5k\u2013$451.7k/yr",
-    "salary_min": 257500.0,
-    "keywords": [
-      "artificial intelligence",
-      "sales",
-      "CRM",
-      "recruiting",
-      "legal"
-    ],
-    "sponsorship_evidence": "",
-    "h1b_status": "unknown",
-    "sponsorship_label": "Not specified",
-    "url": "https://salesforce.wd12.myworkdayjobs.com/en-US/External_Career_Site/job/California---San-Francisco/VP--Software-Engineering_JR355491-1"
   },
   {
     "company": "Adobe",
@@ -21977,24 +21881,6 @@
   },
   {
     "company": "Capital One",
-    "title": "Assistant Relationship Manager",
-    "location": "Plano, TX",
-    "employment_type": "full-time",
-    "category": "Other",
-    "salary": "Not disclosed",
-    "salary_min": null,
-    "keywords": [
-      "sales",
-      "recruiting",
-      "compliance"
-    ],
-    "sponsorship_evidence": "gree 2+ years of Sales or Customer Service Experience At this time, Capital One will not sponsor a new applicant for employment authorization for this position.",
-    "h1b_status": "does_not_support_h1b",
-    "sponsorship_label": "No sponsorship for this position",
-    "url": "https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/Plano-TX/Assistant-Relationship-Manager_R247357-1"
-  },
-  {
-    "company": "Capital One",
     "title": "Lead Data Engineer",
     "location": "McLean, VA",
     "employment_type": "full-time",
@@ -23615,24 +23501,6 @@
   },
   {
     "company": "Capital One",
-    "title": "Flex Relationship Manager",
-    "location": "Downers Grove, IL",
-    "employment_type": "full-time",
-    "category": "Other",
-    "salary": "Not disclosed",
-    "salary_min": null,
-    "keywords": [
-      "sales",
-      "recruiting",
-      "compliance"
-    ],
-    "sponsorship_evidence": "mer Relations 5+ years experience in Customer Service At this time, Capital One will not sponsor a new applicant for employment authorization for this position.",
-    "h1b_status": "does_not_support_h1b",
-    "sponsorship_label": "No sponsorship for this position",
-    "url": "https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/Downers-Grove-IL/Flex-Relationship-Manager_R245345-1"
-  },
-  {
-    "company": "Capital One",
     "title": "Lead Software Engineer - Full Stack",
     "location": "McLean, VA",
     "employment_type": "full-time",
@@ -25056,6 +24924,42 @@
     "h1b_status": "does_not_support_h1b",
     "sponsorship_label": "No sponsorship for this position",
     "url": "https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/McLean-VA/Lead-Software-Engineer--Full-Stack_R231925-1"
+  },
+  {
+    "company": "Northrop Grumman",
+    "title": "Sr Principal Engineer Hardware (AHT)",
+    "location": "United States-Colorado-Aurora",
+    "employment_type": "full-time",
+    "category": "Other",
+    "salary": "Not disclosed",
+    "salary_min": null,
+    "keywords": [
+      "risk management",
+      "supply chain"
+    ],
+    "sponsorship_evidence": "",
+    "h1b_status": "unknown",
+    "sponsorship_label": "Not specified",
+    "url": "https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-Colorado-Aurora/Sr-Principal-Engineer-Hardware---Evergreen--AHT-_R10244620"
+  },
+  {
+    "company": "Northrop Grumman",
+    "title": "Sr. Principal DevOps Engineer (AHT)",
+    "location": "United States-Colorado-Aurora",
+    "employment_type": "full-time",
+    "category": "Software & IT",
+    "salary": "Not disclosed",
+    "salary_min": null,
+    "keywords": [
+      "Python",
+      "Rust",
+      "Docker",
+      "compliance"
+    ],
+    "sponsorship_evidence": "",
+    "h1b_status": "unknown",
+    "sponsorship_label": "Not specified",
+    "url": "https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-Colorado-Aurora/Sr-Principal-DevOps-Engineer--AHT-_R10244311"
   },
   {
     "company": "Northrop Grumman",
@@ -33002,23 +32906,6 @@
     "h1b_status": "unknown",
     "sponsorship_label": "Not specified",
     "url": "https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-Florida-Melbourne/Principal-or-Sr-Principal-Mass-Properties-Engineer_R10244992-1"
-  },
-  {
-    "company": "Northrop Grumman",
-    "title": "Sr Principal Engineer Hardware (AHT)",
-    "location": "United States-Colorado-Aurora",
-    "employment_type": "full-time",
-    "category": "Other",
-    "salary": "Not disclosed",
-    "salary_min": null,
-    "keywords": [
-      "risk management",
-      "supply chain"
-    ],
-    "sponsorship_evidence": "",
-    "h1b_status": "unknown",
-    "sponsorship_label": "Not specified",
-    "url": "https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-Colorado-Aurora/Sr-Principal-Engineer-Hardware---Evergreen--AHT-_R10244620"
   },
   {
     "company": "Northrop Grumman",
@@ -44115,25 +44002,6 @@
     "h1b_status": "unknown",
     "sponsorship_label": "Not specified",
     "url": "https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-Virginia-Chantilly/Staff-Cyber-Systems-Engineer_R10244315"
-  },
-  {
-    "company": "Northrop Grumman",
-    "title": "Sr. Principal DevOps Engineer (AHT)",
-    "location": "United States-Colorado-Aurora",
-    "employment_type": "full-time",
-    "category": "Software & IT",
-    "salary": "Not disclosed",
-    "salary_min": null,
-    "keywords": [
-      "Python",
-      "Rust",
-      "Docker",
-      "compliance"
-    ],
-    "sponsorship_evidence": "",
-    "h1b_status": "unknown",
-    "sponsorship_label": "Not specified",
-    "url": "https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-Colorado-Aurora/Sr-Principal-DevOps-Engineer--AHT-_R10244311"
   },
   {
     "company": "Northrop Grumman",
@@ -79497,6 +79365,42 @@
   },
   {
     "company": "Visa",
+    "title": "Software Engineer-2",
+    "location": "IN - Bengaluru, India",
+    "employment_type": "full-time",
+    "category": "Software & IT",
+    "salary": "Not disclosed",
+    "salary_min": null,
+    "keywords": [
+      "Java",
+      "Azure"
+    ],
+    "sponsorship_evidence": "",
+    "h1b_status": "unknown",
+    "sponsorship_label": "Not specified",
+    "url": "https://visa.wd5.myworkdayjobs.com/en-US/Visa/job/IN---Bengaluru-India/Software-Engineer-2_REF081481W"
+  },
+  {
+    "company": "Visa",
+    "title": "Software Engineer",
+    "location": "IN - Bengaluru, India",
+    "employment_type": "full-time",
+    "category": "Software & IT",
+    "salary": "Not disclosed",
+    "salary_min": null,
+    "keywords": [
+      "Java",
+      "SQL",
+      "Docker",
+      "Kubernetes"
+    ],
+    "sponsorship_evidence": "",
+    "h1b_status": "unknown",
+    "sponsorship_label": "Not specified",
+    "url": "https://visa.wd5.myworkdayjobs.com/en-US/Visa/job/IN---Bengaluru-India/Software-Engineer_REF081660W"
+  },
+  {
+    "company": "Visa",
     "title": "Accounts Payable Analyst",
     "location": "CO - Bogota, Colombia",
     "employment_type": "full-time",
@@ -80034,6 +79938,42 @@
   },
   {
     "company": "Micron Technology",
+    "title": "Intern - TD Site Industrial Engineer",
+    "location": "Boise, ID - Main Site",
+    "employment_type": "internship",
+    "category": "Engineering",
+    "salary": "Not disclosed",
+    "salary_min": null,
+    "keywords": [
+      "Python",
+      "SQL",
+      "Excel",
+      "supply chain"
+    ],
+    "sponsorship_evidence": "",
+    "h1b_status": "unknown",
+    "sponsorship_label": "Not specified",
+    "url": "https://micron.wd1.myworkdayjobs.com/en-US/External/job/Boise-ID---Main-Site/Intern---TD-Site-Industrial-Engineer_JR108729"
+  },
+  {
+    "company": "Micron Technology",
+    "title": "Intern - Product Yield Enhancement Eng",
+    "location": "Boise, ID - Main Site",
+    "employment_type": "internship",
+    "category": "Other",
+    "salary": "Not disclosed",
+    "salary_min": null,
+    "keywords": [
+      "Python",
+      "electrical engineering"
+    ],
+    "sponsorship_evidence": "",
+    "h1b_status": "unknown",
+    "sponsorship_label": "Not specified",
+    "url": "https://micron.wd1.myworkdayjobs.com/en-US/External/job/Boise-ID---Main-Site/Intern---Product-Yield-Enhancement-Eng_JR108605"
+  },
+  {
+    "company": "Micron Technology",
     "title": "Sr Design Verification Engineer/Architect, HBM",
     "location": "Richardson, TX",
     "employment_type": "full-time",
@@ -80220,25 +80160,6 @@
     "h1b_status": "unknown",
     "sponsorship_label": "Not specified",
     "url": "https://micron.wd1.myworkdayjobs.com/en-US/External/job/Boise-ID---ID1/PCVD-Continuous-Improvement-Engineer_JR105075-1"
-  },
-  {
-    "company": "Micron Technology",
-    "title": "AMHS Equipment Engineer - ID1",
-    "location": "Boise, ID - ID1",
-    "employment_type": "full-time",
-    "category": "Other",
-    "salary": "Not disclosed",
-    "salary_min": null,
-    "keywords": [
-      "artificial intelligence",
-      "analytics",
-      "mechanical engineering",
-      "electrical engineering"
-    ],
-    "sponsorship_evidence": "",
-    "h1b_status": "unknown",
-    "sponsorship_label": "Not specified",
-    "url": "https://micron.wd1.myworkdayjobs.com/en-US/External/job/Boise-ID---ID1/AMHS-Equipment-Engineer---ID1_JR109285"
   },
   {
     "company": "Micron Technology",
@@ -92245,20 +92166,6 @@
     "h1b_status": "unknown",
     "sponsorship_label": "Not specified",
     "url": "https://generalmotors.wd5.myworkdayjobs.com/en-US/Careers_GM/job/Flint-Michigan-United-States-of-America/Business-Manager---GSC-3rd-Shift_JR-202617486-1"
-  },
-  {
-    "company": "General Motors",
-    "title": "Staff Lead Engineer Engineer \u2013 Interior Cockpit",
-    "location": "Warren, Michigan, United States of America",
-    "employment_type": "full-time",
-    "category": "Other",
-    "salary": "Not disclosed",
-    "salary_min": null,
-    "keywords": [],
-    "sponsorship_evidence": "",
-    "h1b_status": "unknown",
-    "sponsorship_label": "Not specified",
-    "url": "https://generalmotors.wd5.myworkdayjobs.com/en-US/Careers_GM/job/Warren-Michigan-United-States-of-America/Staff-Lead-Engineer-Engineer---Interior-Cockpit_JR-202617532"
   },
   {
     "company": "Fannie Mae",
@@ -106645,6 +106552,25 @@
   },
   {
     "company": "RTX",
+    "title": "Analyst \u2013 Digital Software Contracts",
+    "location": "IN-KA-BENGALURU-NORTHGATE ~ Sy No 2/2 Venkatala Village ~ SY NO 2/2 VENKATALA VILLAGE, Yelahanka Hobli",
+    "employment_type": "full-time",
+    "category": "Software & IT",
+    "salary": "Not disclosed",
+    "salary_min": null,
+    "keywords": [
+      "Excel",
+      "procurement",
+      "recruiting",
+      "contracts"
+    ],
+    "sponsorship_evidence": "",
+    "h1b_status": "unknown",
+    "sponsorship_label": "Not specified",
+    "url": "https://globalhr.wd5.myworkdayjobs.com/en-US/REC_RTX_Ext_Gateway/job/IN-KA-BENGALURU-NORTHGATE--Sy-No-22-Venkatala-Village--SY-NO-22-VENKATALA-VILLAGE-Yelahanka-Hobli/Analyst---Digital-Software-Contracts_01853641"
+  },
+  {
+    "company": "RTX",
     "title": "Associate Engineer",
     "location": "IN-TS-HYDERABAD-B3F7 ~ DLF Cybercity Gachibowli ~ DLF CYBERCITY GACHIBOWLI-B3F7, 7th Fl in Block 3",
     "employment_type": "full-time",
@@ -108735,23 +108661,6 @@
     "h1b_status": "unknown",
     "sponsorship_label": "Not specified",
     "url": "https://globalhr.wd5.myworkdayjobs.com/en-US/REC_RTX_Ext_Gateway/job/IN-KA-BENGALURU-NORTHGATE--Sy-No-22-Venkatala-Village--SY-NO-22-VENKATALA-VILLAGE-Yelahanka-Hobli/Lead-engineer_01868644"
-  },
-  {
-    "company": "RTX",
-    "title": "Senior Principal Engineer - Virtual Integration & Verification - Hybrid",
-    "location": "IN-KA-BENGALURU-NORTHGATE ~ Sy No 2/2 Venkatala Village ~ SY NO 2/2 VENKATALA VILLAGE, Yelahanka Hobli",
-    "employment_type": "full-time",
-    "category": "Other",
-    "salary": "Not disclosed",
-    "salary_min": null,
-    "keywords": [
-      "Python",
-      "Java"
-    ],
-    "sponsorship_evidence": "",
-    "h1b_status": "unknown",
-    "sponsorship_label": "Not specified",
-    "url": "https://globalhr.wd5.myworkdayjobs.com/en-US/REC_RTX_Ext_Gateway/job/IN-KA-BENGALURU-NORTHGATE--Sy-No-22-Venkatala-Village--SY-NO-22-VENKATALA-VILLAGE-Yelahanka-Hobli/Principal-Engineer---Virtual-Integration---Verification_01802670-1"
   },
   {
     "company": "RTX",
@@ -119535,27 +119444,6 @@
   },
   {
     "company": "RTX",
-    "title": "Senior Manager, Supply Chain",
-    "location": "IN-KA-BENGALURU-NORTHGATE ~ Sy No 2/2 Venkatala Village ~ SY NO 2/2 VENKATALA VILLAGE, Yelahanka Hobli",
-    "employment_type": "full-time",
-    "category": "Operations & Supply Chain",
-    "salary": "Not disclosed",
-    "salary_min": null,
-    "keywords": [
-      "audit",
-      "supply chain",
-      "logistics",
-      "procurement",
-      "compliance",
-      "contracts"
-    ],
-    "sponsorship_evidence": "",
-    "h1b_status": "unknown",
-    "sponsorship_label": "Not specified",
-    "url": "https://globalhr.wd5.myworkdayjobs.com/en-US/REC_RTX_Ext_Gateway/job/IN-KA-BENGALURU-NORTHGATE--Sy-No-22-Venkatala-Village--SY-NO-22-VENKATALA-VILLAGE-Yelahanka-Hobli/Senior-Manager--Supply-Chain_01867226"
-  },
-  {
-    "company": "RTX",
     "title": "Manager - Commodity - GSS Mechanical Fabrications",
     "location": "IN-KA-BENGALURU-BLDG 1 ~ Hitech, Defence & Aerospace Park ~ HI TECH DEFENSE",
     "employment_type": "full-time",
@@ -121896,24 +121784,6 @@
     "h1b_status": "unknown",
     "sponsorship_label": "Not specified",
     "url": "https://globalhr.wd5.myworkdayjobs.com/en-US/REC_RTX_Ext_Gateway/job/US-IA-CEDAR-RAPIDS-106--400-Collins-Rd-NE--BLDG-106/Principle-Project-Engineer---Test-Engineering-Design-Services--Onsite-_01861282"
-  },
-  {
-    "company": "RTX",
-    "title": "Project Engineer (Onsite)",
-    "location": "US-CT-MIDDLETOWN-130 ~ Aircraft Rd ~ BLDG 130",
-    "employment_type": "full-time",
-    "category": "Other",
-    "salary": "Not disclosed",
-    "salary_min": null,
-    "keywords": [
-      "recruiting",
-      "compliance",
-      "contracts"
-    ],
-    "sponsorship_evidence": "",
-    "h1b_status": "unknown",
-    "sponsorship_label": "Not specified",
-    "url": "https://globalhr.wd5.myworkdayjobs.com/en-US/REC_RTX_Ext_Gateway/job/US-CT-MIDDLETOWN-130--Aircraft-Rd--BLDG-130/Project-Engineer--Onsite-_01866297"
   },
   {
     "company": "RTX",
@@ -143415,25 +143285,6 @@
   },
   {
     "company": "RTX",
-    "title": "Analyst \u2013 Digital Software Contracts",
-    "location": "IN-KA-BENGALURU-NORTHGATE ~ Sy No 2/2 Venkatala Village ~ SY NO 2/2 VENKATALA VILLAGE, Yelahanka Hobli",
-    "employment_type": "full-time",
-    "category": "Software & IT",
-    "salary": "Not disclosed",
-    "salary_min": null,
-    "keywords": [
-      "Excel",
-      "procurement",
-      "recruiting",
-      "contracts"
-    ],
-    "sponsorship_evidence": "",
-    "h1b_status": "unknown",
-    "sponsorship_label": "Not specified",
-    "url": "https://globalhr.wd5.myworkdayjobs.com/en-US/REC_RTX_Ext_Gateway/job/IN-KA-BENGALURU-NORTHGATE--Sy-No-22-Venkatala-Village--SY-NO-22-VENKATALA-VILLAGE-Yelahanka-Hobli/Analyst---Digital-Software-Contracts_01853641"
-  },
-  {
-    "company": "RTX",
     "title": "Principal Radar Systems Engineer",
     "location": "US-AL-HUNTSVILLE-401 ~ 401 Jan Davis Dr NW ~ JAN DAVIS 401",
     "employment_type": "full-time",
@@ -144873,45 +144724,6 @@
     "h1b_status": "unknown",
     "sponsorship_label": "Not specified",
     "url": "https://globalhr.wd5.myworkdayjobs.com/en-US/REC_RTX_Ext_Gateway/job/IN-KA-BENGALURU-NORTHGATE--Sy-No-22-Venkatala-Village--SY-NO-22-VENKATALA-VILLAGE-Yelahanka-Hobli/Sr-Supervisor---Global-Mobility_01859405"
-  },
-  {
-    "company": "RTX",
-    "title": "Senior Analyst - Global Mobility",
-    "location": "IN-KA-BENGALURU-NORTHGATE ~ Sy No 2/2 Venkatala Village ~ SY NO 2/2 VENKATALA VILLAGE, Yelahanka Hobli",
-    "employment_type": "full-time",
-    "category": "Other",
-    "salary": "Not disclosed",
-    "salary_min": null,
-    "keywords": [
-      "Excel",
-      "tax",
-      "compliance",
-      "legal",
-      "contracts"
-    ],
-    "sponsorship_evidence": "",
-    "h1b_status": "unknown",
-    "sponsorship_label": "Not specified",
-    "url": "https://globalhr.wd5.myworkdayjobs.com/en-US/REC_RTX_Ext_Gateway/job/IN-KA-BENGALURU-NORTHGATE--Sy-No-22-Venkatala-Village--SY-NO-22-VENKATALA-VILLAGE-Yelahanka-Hobli/Sr-Analyst---Global-Mobility_01857699"
-  },
-  {
-    "company": "RTX",
-    "title": "Manager - Payroll",
-    "location": "IN-KA-BENGALURU-NORTHGATE ~ Sy No 2/2 Venkatala Village ~ SY NO 2/2 VENKATALA VILLAGE, Yelahanka Hobli",
-    "employment_type": "full-time",
-    "category": "Other",
-    "salary": "Not disclosed",
-    "salary_min": null,
-    "keywords": [
-      "accounting",
-      "tax",
-      "recruiting",
-      "compliance"
-    ],
-    "sponsorship_evidence": "",
-    "h1b_status": "unknown",
-    "sponsorship_label": "Not specified",
-    "url": "https://globalhr.wd5.myworkdayjobs.com/en-US/REC_RTX_Ext_Gateway/job/IN-KA-BENGALURU-NORTHGATE--Sy-No-22-Venkatala-Village--SY-NO-22-VENKATALA-VILLAGE-Yelahanka-Hobli/Manager---Payroll_01845559"
   },
   {
     "company": "RTX",
@@ -160256,24 +160068,6 @@
   },
   {
     "company": "RTX",
-    "title": "Sr Eng, Design Engrg (Onsite)",
-    "location": "US-CT-MIDDLETOWN-130 ~ Aircraft Rd ~ BLDG 130",
-    "employment_type": "full-time",
-    "category": "Other",
-    "salary": "Not disclosed",
-    "salary_min": null,
-    "keywords": [
-      "recruiting",
-      "compliance",
-      "contracts"
-    ],
-    "sponsorship_evidence": "",
-    "h1b_status": "unknown",
-    "sponsorship_label": "Not specified",
-    "url": "https://globalhr.wd5.myworkdayjobs.com/en-US/REC_RTX_Ext_Gateway/job/US-CT-MIDDLETOWN-130--Aircraft-Rd--BLDG-130/Sr-Eng--Design-Engrg--Onsite-_01813733-1"
-  },
-  {
-    "company": "RTX",
     "title": "Machine Operator II - 2nd Shift (onsite)",
     "location": "US-NH-DURHAM-121 ~ 121 Technology Dr ~ BLDG 125",
     "employment_type": "full-time",
@@ -175032,23 +174826,6 @@
   },
   {
     "company": "Lowe's",
-    "title": "Full Time - Fulfillment Associate - Day",
-    "location": "Littleton, CO (Lakewood) 1630",
-    "employment_type": "full-time",
-    "category": "Other",
-    "salary": "$16.5\u2013$17.85/hr",
-    "salary_min": 16.5,
-    "keywords": [
-      "sales",
-      "compliance"
-    ],
-    "sponsorship_evidence": "",
-    "h1b_status": "unknown",
-    "sponsorship_label": "Not specified",
-    "url": "https://lowes.wd5.myworkdayjobs.com/en-US/LWS_External_CS/job/Littleton-CO-Lakewood-1630/Full-Time---Fulfillment-Associate---Day_JR-02618875"
-  },
-  {
-    "company": "Lowe's",
     "title": "Photo Producer-Packaging Operations (*Not Photographer)",
     "location": "Mooresville, NC (Import Sourcing) 0948",
     "employment_type": "full-time",
@@ -184506,6 +184283,23 @@
   },
   {
     "company": "Sysco",
+    "title": "Fleet Technician II - SYGMA - Orlando, Florida",
+    "location": "Sygma Florida",
+    "employment_type": "full-time",
+    "category": "Other",
+    "salary": "Not disclosed",
+    "salary_min": null,
+    "keywords": [
+      "sales",
+      "legal"
+    ],
+    "sponsorship_evidence": "",
+    "h1b_status": "unknown",
+    "sponsorship_label": "Not specified",
+    "url": "https://sysco.wd5.myworkdayjobs.com/en-US/syscocareers/job/Sygma-Florida/Fleet-Technician-II---SYGMA---Florida_R250734"
+  },
+  {
+    "company": "Sysco",
     "title": "Diesel Fleet Mechanic Technician II",
     "location": "Sysco Virginia  -  Main Office",
     "employment_type": "full-time",
@@ -185080,6 +184874,24 @@
     "h1b_status": "unknown",
     "sponsorship_label": "Not specified",
     "url": "https://allstate.wd5.myworkdayjobs.com/en-US/allstate_careers/job/ND---Minot/Field-Auto-Adjuster_R33978"
+  },
+  {
+    "company": "Allstate",
+    "title": "Licensed Insurance Sales Representative (Remote / Home-Based)",
+    "location": "USA - NM (Remote)",
+    "employment_type": "full-time",
+    "category": "Sales & Marketing",
+    "salary": "$52.73k\u2013$76.48k/yr",
+    "salary_min": 52730.0,
+    "keywords": [
+      "sales",
+      "compliance",
+      "contracts"
+    ],
+    "sponsorship_evidence": "Allstate generally does not sponsor individuals for employment-based visas for this position.",
+    "h1b_status": "does_not_support_h1b",
+    "sponsorship_label": "No sponsorship for this position",
+    "url": "https://allstate.wd5.myworkdayjobs.com/en-US/allstate_careers/job/USA---NM-Remote/Licensed-Insurance-Sales-Representative--Remote---Home-Based-Work-_R28348"
   },
   {
     "company": "Caterpillar",
@@ -192801,6 +192613,42 @@
     "h1b_status": "unknown",
     "sponsorship_label": "Not specified",
     "url": "https://geaerospace.wd5.myworkdayjobs.com/en-US/GE_ExternalSite/job/Saint-George-UT-US-1/Site-Quality-Leader--Intergalactic--St-George--UT-_R5036404-1"
+  },
+  {
+    "company": "Thermo Fisher Scientific",
+    "title": "Sample Management Supervisor",
+    "location": "Middleton, Wisconsin, USA",
+    "employment_type": "full-time",
+    "category": "Other",
+    "salary": "Not disclosed",
+    "salary_min": null,
+    "keywords": [
+      "logistics",
+      "compliance"
+    ],
+    "sponsorship_evidence": "Must be legally authorized to work in the United States without sponsorship.",
+    "h1b_status": "does_not_support_h1b",
+    "sponsorship_label": "No sponsorship for this position",
+    "url": "https://thermofisher.wd5.myworkdayjobs.com/en-US/ThermoFisherCareers/job/Middleton-Wisconsin-USA/Sample-Management-Supervisor_R-01364687"
+  },
+  {
+    "company": "Thermo Fisher Scientific",
+    "title": "Senior Study Lead, Cell and Gene Therapy",
+    "location": "Middleton, Wisconsin, USA",
+    "employment_type": "full-time",
+    "category": "Other",
+    "salary": "Not disclosed",
+    "salary_min": null,
+    "keywords": [
+      "Excel",
+      "audit",
+      "compliance",
+      "contracts"
+    ],
+    "sponsorship_evidence": "",
+    "h1b_status": "unknown",
+    "sponsorship_label": "Not specified",
+    "url": "https://thermofisher.wd5.myworkdayjobs.com/en-US/ThermoFisherCareers/job/Middleton-Wisconsin-USA/Senior-Study-Lead--Cell-and-Gene-Therapy_R-01364864"
   },
   {
     "company": "Thermo Fisher Scientific",
@@ -207531,6 +207379,41 @@
   },
   {
     "company": "U.S. Bancorp",
+    "title": "Custodial Records Associate 2",
+    "location": "Saint Paul, MN",
+    "employment_type": "full-time",
+    "category": "Other",
+    "salary": "Not disclosed",
+    "salary_min": null,
+    "keywords": [
+      "Excel"
+    ],
+    "sponsorship_evidence": "",
+    "h1b_status": "unknown",
+    "sponsorship_label": "Not specified",
+    "url": "https://usbank.wd1.myworkdayjobs.com/en-US/US_Bank_Careers/job/Saint-Paul-MN/Custodial-Records-Associate-2_2026-0023391-1"
+  },
+  {
+    "company": "U.S. Bancorp",
+    "title": "Corp Trust Financial Mgmt Analyst 3",
+    "location": "Charlotte, NC",
+    "employment_type": "full-time",
+    "category": "Finance & Accounting",
+    "salary": "Not disclosed",
+    "salary_min": null,
+    "keywords": [
+      "Excel",
+      "accounting",
+      "compliance",
+      "legal"
+    ],
+    "sponsorship_evidence": "",
+    "h1b_status": "unknown",
+    "sponsorship_label": "Not specified",
+    "url": "https://usbank.wd1.myworkdayjobs.com/en-US/US_Bank_Careers/job/Charlotte-NC/Corp-Trust-Financial-Mgmt-Analyst-3_2026-0024605"
+  },
+  {
+    "company": "U.S. Bancorp",
     "title": "Client Relationship Consultant 2 (Banker) - OR-Newberg",
     "location": "Newberg, OR",
     "employment_type": "full-time",
@@ -207975,38 +207858,6 @@
     "h1b_status": "unknown",
     "sponsorship_label": "Not specified",
     "url": "https://usbank.wd1.myworkdayjobs.com/en-US/US_Bank_Careers/job/Thousand-Oaks-CA/Client-Relationship-Consultant-2--Banker----Thousand-Oaks--CA--30hrs-_2026-0024860"
-  },
-  {
-    "company": "U.S. Bancorp",
-    "title": "Relationship Banker I - Sonoma, CA",
-    "location": "Sonoma, CA",
-    "employment_type": "full-time",
-    "category": "Other",
-    "salary": "Not disclosed",
-    "salary_min": null,
-    "keywords": [
-      "Excel"
-    ],
-    "sponsorship_evidence": "",
-    "h1b_status": "unknown",
-    "sponsorship_label": "Not specified",
-    "url": "https://usbank.wd1.myworkdayjobs.com/en-US/US_Bank_Careers/job/Sonoma-CA/Relationship-Banker-I---Sonoma--CA_2026-0025096"
-  },
-  {
-    "company": "U.S. Bancorp",
-    "title": "Client Relationship Consultant 2 (Banker) - Tracy, CA (30hrs)",
-    "location": "Tracy, CA",
-    "employment_type": "full-time",
-    "category": "Other",
-    "salary": "Not disclosed",
-    "salary_min": null,
-    "keywords": [
-      "Excel"
-    ],
-    "sponsorship_evidence": "",
-    "h1b_status": "unknown",
-    "sponsorship_label": "Not specified",
-    "url": "https://usbank.wd1.myworkdayjobs.com/en-US/US_Bank_Careers/job/Tracy-CA/Client-Relationship-Consultant-2--Banker----Tracy--CA--30hrs-_2026-0025099"
   },
   {
     "company": "PNC Financial Services Group",
@@ -225055,20 +224906,6 @@
   {
     "company": "Carvana",
     "title": "Experienced Paintless Dent Repair Technician - $8,000 Bonus",
-    "location": "West Memphis, AR",
-    "employment_type": "full-time",
-    "category": "Other",
-    "salary": "Not disclosed",
-    "salary_min": null,
-    "keywords": [],
-    "sponsorship_evidence": "This role is not eligible for visa sponsorship.",
-    "h1b_status": "does_not_support_h1b",
-    "sponsorship_label": "No sponsorship for this position",
-    "url": "https://www.carvana.com/careers/apply?gh_jid=8123103"
-  },
-  {
-    "company": "Carvana",
-    "title": "Experienced Paintless Dent Repair Technician - $8,000 Bonus",
     "location": "Oklahoma City, OK",
     "employment_type": "full-time",
     "category": "Other",
@@ -225079,6 +224916,20 @@
     "h1b_status": "does_not_support_h1b",
     "sponsorship_label": "No sponsorship for this position",
     "url": "https://www.carvana.com/careers/apply?gh_jid=8055690"
+  },
+  {
+    "company": "Carvana",
+    "title": "Experienced Paintless Dent Repair Technician - $8,000 Bonus",
+    "location": "West Memphis, AR",
+    "employment_type": "full-time",
+    "category": "Other",
+    "salary": "Not disclosed",
+    "salary_min": null,
+    "keywords": [],
+    "sponsorship_evidence": "This role is not eligible for visa sponsorship.",
+    "h1b_status": "does_not_support_h1b",
+    "sponsorship_label": "No sponsorship for this position",
+    "url": "https://www.carvana.com/careers/apply?gh_jid=8123103"
   },
   {
     "company": "Carvana",
@@ -225300,11 +225151,11 @@
   {
     "company": "Carvana",
     "title": "Field Safety Specialist",
-    "location": "Tracy, CA",
+    "location": "Haines City, FL",
     "employment_type": "full-time",
     "category": "Other",
-    "salary": "$85k\u2013$90k/yr",
-    "salary_min": 85000.0,
+    "salary": "$75k\u2013$80k/yr",
+    "salary_min": 75000.0,
     "keywords": [
       "compliance",
       "legal"
@@ -225312,7 +225163,7 @@
     "sponsorship_evidence": "&nbsp; This role is not eligible for visa sponsorship.",
     "h1b_status": "does_not_support_h1b",
     "sponsorship_label": "No sponsorship for this position",
-    "url": "https://www.carvana.com/careers/apply?gh_jid=8107345"
+    "url": "https://www.carvana.com/careers/apply?gh_jid=8089491"
   },
   {
     "company": "Carvana",
@@ -225334,11 +225185,11 @@
   {
     "company": "Carvana",
     "title": "Field Safety Specialist",
-    "location": "Haines City, FL",
+    "location": "Tracy, CA",
     "employment_type": "full-time",
     "category": "Other",
-    "salary": "$75k\u2013$80k/yr",
-    "salary_min": 75000.0,
+    "salary": "$85k\u2013$90k/yr",
+    "salary_min": 85000.0,
     "keywords": [
       "compliance",
       "legal"
@@ -225346,7 +225197,7 @@
     "sponsorship_evidence": "&nbsp; This role is not eligible for visa sponsorship.",
     "h1b_status": "does_not_support_h1b",
     "sponsorship_label": "No sponsorship for this position",
-    "url": "https://www.carvana.com/careers/apply?gh_jid=8089491"
+    "url": "https://www.carvana.com/careers/apply?gh_jid=8107345"
   },
   {
     "company": "Carvana",
@@ -225379,23 +225230,6 @@
   {
     "company": "Carvana",
     "title": "General Manager",
-    "location": "Minneapolis, MN",
-    "employment_type": "full-time",
-    "category": "Other",
-    "salary": "Not disclosed",
-    "salary_min": null,
-    "keywords": [
-      "compliance",
-      "legal"
-    ],
-    "sponsorship_evidence": "&nbsp; This role is not eligible for visa sponsorship.",
-    "h1b_status": "does_not_support_h1b",
-    "sponsorship_label": "No sponsorship for this position",
-    "url": "https://www.carvana.com/careers/apply?gh_jid=8042234"
-  },
-  {
-    "company": "Carvana",
-    "title": "General Manager",
     "location": "Las Vegas, NV",
     "employment_type": "full-time",
     "category": "Other",
@@ -225409,6 +225243,23 @@
     "h1b_status": "does_not_support_h1b",
     "sponsorship_label": "No sponsorship for this position",
     "url": "https://www.carvana.com/careers/apply?gh_jid=8120861"
+  },
+  {
+    "company": "Carvana",
+    "title": "General Manager",
+    "location": "Minneapolis, MN",
+    "employment_type": "full-time",
+    "category": "Other",
+    "salary": "Not disclosed",
+    "salary_min": null,
+    "keywords": [
+      "compliance",
+      "legal"
+    ],
+    "sponsorship_evidence": "&nbsp; This role is not eligible for visa sponsorship.",
+    "h1b_status": "does_not_support_h1b",
+    "sponsorship_label": "No sponsorship for this position",
+    "url": "https://www.carvana.com/careers/apply?gh_jid=8042234"
   },
   {
     "company": "Carvana",
@@ -225863,7 +225714,7 @@
     "sponsorship_evidence": "This role is not eligible for visa sponsorship.",
     "h1b_status": "does_not_support_h1b",
     "sponsorship_label": "No sponsorship for this position",
-    "url": "https://www.carvana.com/careers/apply?gh_jid=8103488"
+    "url": "https://www.carvana.com/careers/apply?gh_jid=8147628"
   },
   {
     "company": "Carvana",
@@ -225877,21 +225728,7 @@
     "sponsorship_evidence": "This role is not eligible for visa sponsorship.",
     "h1b_status": "does_not_support_h1b",
     "sponsorship_label": "No sponsorship for this position",
-    "url": "https://www.carvana.com/careers/apply?gh_jid=8147628"
-  },
-  {
-    "company": "Carvana",
-    "title": "HIRING NOW! Experienced Paintless Dent Repair Technician - $6000 Bonus",
-    "location": "Concord, NC",
-    "employment_type": "full-time",
-    "category": "Other",
-    "salary": "Not disclosed",
-    "salary_min": null,
-    "keywords": [],
-    "sponsorship_evidence": "This role is not eligible for visa sponsorship.",
-    "h1b_status": "does_not_support_h1b",
-    "sponsorship_label": "No sponsorship for this position",
-    "url": "https://www.carvana.com/careers/apply?gh_jid=7927034"
+    "url": "https://www.carvana.com/careers/apply?gh_jid=8103488"
   },
   {
     "company": "Carvana",
@@ -225906,6 +225743,20 @@
     "h1b_status": "does_not_support_h1b",
     "sponsorship_label": "No sponsorship for this position",
     "url": "https://www.carvana.com/careers/apply?gh_jid=7927043"
+  },
+  {
+    "company": "Carvana",
+    "title": "HIRING NOW! Experienced Paintless Dent Repair Technician - $6000 Bonus",
+    "location": "Concord, NC",
+    "employment_type": "full-time",
+    "category": "Other",
+    "salary": "Not disclosed",
+    "salary_min": null,
+    "keywords": [],
+    "sponsorship_evidence": "This role is not eligible for visa sponsorship.",
+    "h1b_status": "does_not_support_h1b",
+    "sponsorship_label": "No sponsorship for this position",
+    "url": "https://www.carvana.com/careers/apply?gh_jid=7927034"
   },
   {
     "company": "Carvana",
@@ -226026,24 +225877,6 @@
   {
     "company": "Carvana",
     "title": "Inside Sales Representative",
-    "location": "Yaphank, NY",
-    "employment_type": "full-time",
-    "category": "Sales & Marketing",
-    "salary": "$22\u2013$25/hr",
-    "salary_min": 22.0,
-    "keywords": [
-      "sales",
-      "CRM",
-      "legal"
-    ],
-    "sponsorship_evidence": "&nbsp; This role is not eligible for visa sponsorship.",
-    "h1b_status": "does_not_support_h1b",
-    "sponsorship_label": "No sponsorship for this position",
-    "url": "https://www.carvana.com/careers/apply?gh_jid=8014544"
-  },
-  {
-    "company": "Carvana",
-    "title": "Inside Sales Representative",
     "location": "Bradenton, FL",
     "employment_type": "full-time",
     "category": "Sales & Marketing",
@@ -226058,24 +225891,6 @@
     "h1b_status": "does_not_support_h1b",
     "sponsorship_label": "No sponsorship for this position",
     "url": "https://www.carvana.com/careers/apply?gh_jid=8068657"
-  },
-  {
-    "company": "Carvana",
-    "title": "Inside Sales Representative",
-    "location": "Fargo, ND",
-    "employment_type": "full-time",
-    "category": "Sales & Marketing",
-    "salary": "$20\u2013$22/hr",
-    "salary_min": 20.0,
-    "keywords": [
-      "sales",
-      "CRM",
-      "legal"
-    ],
-    "sponsorship_evidence": "&nbsp; This role is not eligible for visa sponsorship.",
-    "h1b_status": "does_not_support_h1b",
-    "sponsorship_label": "No sponsorship for this position",
-    "url": "https://www.carvana.com/careers/apply?gh_jid=8068512"
   },
   {
     "company": "Carvana",
@@ -226112,6 +225927,42 @@
     "h1b_status": "does_not_support_h1b",
     "sponsorship_label": "No sponsorship for this position",
     "url": "https://www.carvana.com/careers/apply?gh_jid=8014495"
+  },
+  {
+    "company": "Carvana",
+    "title": "Inside Sales Representative",
+    "location": "Yaphank, NY",
+    "employment_type": "full-time",
+    "category": "Sales & Marketing",
+    "salary": "$22\u2013$25/hr",
+    "salary_min": 22.0,
+    "keywords": [
+      "sales",
+      "CRM",
+      "legal"
+    ],
+    "sponsorship_evidence": "&nbsp; This role is not eligible for visa sponsorship.",
+    "h1b_status": "does_not_support_h1b",
+    "sponsorship_label": "No sponsorship for this position",
+    "url": "https://www.carvana.com/careers/apply?gh_jid=8014544"
+  },
+  {
+    "company": "Carvana",
+    "title": "Inside Sales Representative",
+    "location": "Fargo, ND",
+    "employment_type": "full-time",
+    "category": "Sales & Marketing",
+    "salary": "$20\u2013$22/hr",
+    "salary_min": 20.0,
+    "keywords": [
+      "sales",
+      "CRM",
+      "legal"
+    ],
+    "sponsorship_evidence": "&nbsp; This role is not eligible for visa sponsorship.",
+    "h1b_status": "does_not_support_h1b",
+    "sponsorship_label": "No sponsorship for this position",
+    "url": "https://www.carvana.com/careers/apply?gh_jid=8068512"
   },
   {
     "company": "Carvana",
@@ -226163,22 +226014,6 @@
   {
     "company": "Carvana",
     "title": "Inventory Associate",
-    "location": "Rocklin, CA",
-    "employment_type": "full-time",
-    "category": "Operations & Supply Chain",
-    "salary": "Not disclosed",
-    "salary_min": null,
-    "keywords": [
-      "legal"
-    ],
-    "sponsorship_evidence": "",
-    "h1b_status": "unknown",
-    "sponsorship_label": "Not specified",
-    "url": "https://www.carvana.com/careers/apply?gh_jid=8140277"
-  },
-  {
-    "company": "Carvana",
-    "title": "Inventory Associate",
     "location": "Dallas, TX",
     "employment_type": "full-time",
     "category": "Operations & Supply Chain",
@@ -226191,6 +226026,22 @@
     "h1b_status": "unknown",
     "sponsorship_label": "Not specified",
     "url": "https://www.carvana.com/careers/apply?gh_jid=8139973"
+  },
+  {
+    "company": "Carvana",
+    "title": "Inventory Associate",
+    "location": "Rocklin, CA",
+    "employment_type": "full-time",
+    "category": "Operations & Supply Chain",
+    "salary": "Not disclosed",
+    "salary_min": null,
+    "keywords": [
+      "legal"
+    ],
+    "sponsorship_evidence": "",
+    "h1b_status": "unknown",
+    "sponsorship_label": "Not specified",
+    "url": "https://www.carvana.com/careers/apply?gh_jid=8140277"
   },
   {
     "company": "Carvana",
@@ -226269,20 +226120,6 @@
   {
     "company": "Carvana",
     "title": "Lead Diagnostic Technician (Up to $6k Bonus) \u2013 Paid Training & Tool Allowance",
-    "location": "Bessemer , AL",
-    "employment_type": "full-time",
-    "category": "Other",
-    "salary": "Not disclosed",
-    "salary_min": null,
-    "keywords": [],
-    "sponsorship_evidence": "This role is not eligible for visa sponsorship.",
-    "h1b_status": "does_not_support_h1b",
-    "sponsorship_label": "No sponsorship for this position",
-    "url": "https://www.carvana.com/careers/apply?gh_jid=8144457"
-  },
-  {
-    "company": "Carvana",
-    "title": "Lead Diagnostic Technician (Up to $6k Bonus) \u2013 Paid Training & Tool Allowance",
     "location": "Chesterfield, VA",
     "employment_type": "full-time",
     "category": "Other",
@@ -226307,6 +226144,20 @@
     "h1b_status": "does_not_support_h1b",
     "sponsorship_label": "No sponsorship for this position",
     "url": "https://www.carvana.com/careers/apply?gh_jid=8144489"
+  },
+  {
+    "company": "Carvana",
+    "title": "Lead Diagnostic Technician (Up to $6k Bonus) \u2013 Paid Training & Tool Allowance",
+    "location": "Bessemer , AL",
+    "employment_type": "full-time",
+    "category": "Other",
+    "salary": "Not disclosed",
+    "salary_min": null,
+    "keywords": [],
+    "sponsorship_evidence": "This role is not eligible for visa sponsorship.",
+    "h1b_status": "does_not_support_h1b",
+    "sponsorship_label": "No sponsorship for this position",
+    "url": "https://www.carvana.com/careers/apply?gh_jid=8144457"
   },
   {
     "company": "Carvana",
@@ -226480,7 +226331,7 @@
   {
     "company": "Carvana",
     "title": "Logistics Associate",
-    "location": "Dallas, TX",
+    "location": "Greenfield, IN ",
     "employment_type": "full-time",
     "category": "Operations & Supply Chain",
     "salary": "$16\u2013$18/hr",
@@ -226492,75 +226343,7 @@
     "sponsorship_evidence": "icle maintenance</li> </ul> <p><strong>Legal Stuff</strong><br><em>This role is not eligible for visa sponsorship.",
     "h1b_status": "does_not_support_h1b",
     "sponsorship_label": "No sponsorship for this position",
-    "url": "https://www.carvana.com/careers/apply?gh_jid=8110512"
-  },
-  {
-    "company": "Carvana",
-    "title": "Logistics Associate",
-    "location": "Nashville, TN",
-    "employment_type": "full-time",
-    "category": "Operations & Supply Chain",
-    "salary": "$15\u2013$17/hr",
-    "salary_min": 15.0,
-    "keywords": [
-      "logistics",
-      "legal"
-    ],
-    "sponsorship_evidence": "icle maintenance</li> </ul> <p><strong>Legal Stuff</strong><br><em>This role is not eligible for visa sponsorship.",
-    "h1b_status": "does_not_support_h1b",
-    "sponsorship_label": "No sponsorship for this position",
-    "url": "https://www.carvana.com/careers/apply?gh_jid=8110511"
-  },
-  {
-    "company": "Carvana",
-    "title": "Logistics Associate",
-    "location": "Tracy, CA",
-    "employment_type": "full-time",
-    "category": "Operations & Supply Chain",
-    "salary": "$19\u2013$21/hr",
-    "salary_min": 19.0,
-    "keywords": [
-      "logistics",
-      "legal"
-    ],
-    "sponsorship_evidence": "icle maintenance</li> </ul> <p><strong>Legal Stuff</strong><br><em>This role is not eligible for visa sponsorship.",
-    "h1b_status": "does_not_support_h1b",
-    "sponsorship_label": "No sponsorship for this position",
-    "url": "https://www.carvana.com/careers/apply?gh_jid=8060665"
-  },
-  {
-    "company": "Carvana",
-    "title": "Logistics Associate",
-    "location": "Heath, OH",
-    "employment_type": "full-time",
-    "category": "Operations & Supply Chain",
-    "salary": "$15\u2013$17/hr",
-    "salary_min": 15.0,
-    "keywords": [
-      "logistics",
-      "legal"
-    ],
-    "sponsorship_evidence": "icle maintenance</li> </ul> <p><strong>Legal Stuff</strong><br><em>This role is not eligible for visa sponsorship.",
-    "h1b_status": "does_not_support_h1b",
-    "sponsorship_label": "No sponsorship for this position",
-    "url": "https://www.carvana.com/careers/apply?gh_jid=8083507"
-  },
-  {
-    "company": "Carvana",
-    "title": "Logistics Associate",
-    "location": "Blue Mound, TX",
-    "employment_type": "full-time",
-    "category": "Operations & Supply Chain",
-    "salary": "$16\u2013$18/hr",
-    "salary_min": 16.0,
-    "keywords": [
-      "logistics",
-      "legal"
-    ],
-    "sponsorship_evidence": "icle maintenance</li> </ul> <p><strong>Legal Stuff</strong><br><em>This role is not eligible for visa sponsorship.",
-    "h1b_status": "does_not_support_h1b",
-    "sponsorship_label": "No sponsorship for this position",
-    "url": "https://www.carvana.com/careers/apply?gh_jid=8060294"
+    "url": "https://www.carvana.com/careers/apply?gh_jid=8097905"
   },
   {
     "company": "Carvana",
@@ -226582,6 +226365,159 @@
   {
     "company": "Carvana",
     "title": "Logistics Associate",
+    "location": "Tracy, CA",
+    "employment_type": "full-time",
+    "category": "Operations & Supply Chain",
+    "salary": "$19\u2013$21/hr",
+    "salary_min": 19.0,
+    "keywords": [
+      "logistics",
+      "legal"
+    ],
+    "sponsorship_evidence": "icle maintenance</li> </ul> <p><strong>Legal Stuff</strong><br><em>This role is not eligible for visa sponsorship.",
+    "h1b_status": "does_not_support_h1b",
+    "sponsorship_label": "No sponsorship for this position",
+    "url": "https://www.carvana.com/careers/apply?gh_jid=8060665"
+  },
+  {
+    "company": "Carvana",
+    "title": "Logistics Associate",
+    "location": "Nashville, TN",
+    "employment_type": "full-time",
+    "category": "Operations & Supply Chain",
+    "salary": "$15\u2013$17/hr",
+    "salary_min": 15.0,
+    "keywords": [
+      "logistics",
+      "legal"
+    ],
+    "sponsorship_evidence": "icle maintenance</li> </ul> <p><strong>Legal Stuff</strong><br><em>This role is not eligible for visa sponsorship.",
+    "h1b_status": "does_not_support_h1b",
+    "sponsorship_label": "No sponsorship for this position",
+    "url": "https://www.carvana.com/careers/apply?gh_jid=8110511"
+  },
+  {
+    "company": "Carvana",
+    "title": "Logistics Associate",
+    "location": "Haines City, FL",
+    "employment_type": "full-time",
+    "category": "Operations & Supply Chain",
+    "salary": "$15\u2013$17/hr",
+    "salary_min": 15.0,
+    "keywords": [
+      "logistics",
+      "legal"
+    ],
+    "sponsorship_evidence": "icle maintenance</li> </ul> <p><strong>Legal Stuff</strong><br><em>This role is not eligible for visa sponsorship.",
+    "h1b_status": "does_not_support_h1b",
+    "sponsorship_label": "No sponsorship for this position",
+    "url": "https://www.carvana.com/careers/apply?gh_jid=8097911"
+  },
+  {
+    "company": "Carvana",
+    "title": "Logistics Associate",
+    "location": "Delanco, NJ",
+    "employment_type": "full-time",
+    "category": "Operations & Supply Chain",
+    "salary": "$19/hr",
+    "salary_min": 19.0,
+    "keywords": [
+      "logistics",
+      "legal"
+    ],
+    "sponsorship_evidence": "icle maintenance</li> </ul> <p><strong>Legal Stuff</strong><br><em>This role is not eligible for visa sponsorship.",
+    "h1b_status": "does_not_support_h1b",
+    "sponsorship_label": "No sponsorship for this position",
+    "url": "https://www.carvana.com/careers/apply?gh_jid=8078745"
+  },
+  {
+    "company": "Carvana",
+    "title": "Logistics Associate",
+    "location": "Blue Mound, TX",
+    "employment_type": "full-time",
+    "category": "Operations & Supply Chain",
+    "salary": "$16\u2013$18/hr",
+    "salary_min": 16.0,
+    "keywords": [
+      "logistics",
+      "legal"
+    ],
+    "sponsorship_evidence": "icle maintenance</li> </ul> <p><strong>Legal Stuff</strong><br><em>This role is not eligible for visa sponsorship.",
+    "h1b_status": "does_not_support_h1b",
+    "sponsorship_label": "No sponsorship for this position",
+    "url": "https://www.carvana.com/careers/apply?gh_jid=8060294"
+  },
+  {
+    "company": "Carvana",
+    "title": "Logistics Associate",
+    "location": "Bradenton, FL ",
+    "employment_type": "full-time",
+    "category": "Operations & Supply Chain",
+    "salary": "$15\u2013$17/hr",
+    "salary_min": 15.0,
+    "keywords": [
+      "logistics",
+      "legal"
+    ],
+    "sponsorship_evidence": "icle maintenance</li> </ul> <p><strong>Legal Stuff</strong><br><em>This role is not eligible for visa sponsorship.",
+    "h1b_status": "does_not_support_h1b",
+    "sponsorship_label": "No sponsorship for this position",
+    "url": "https://www.carvana.com/careers/apply?gh_jid=8092537"
+  },
+  {
+    "company": "Carvana",
+    "title": "Logistics Associate",
+    "location": "Heath, OH",
+    "employment_type": "full-time",
+    "category": "Operations & Supply Chain",
+    "salary": "$15\u2013$17/hr",
+    "salary_min": 15.0,
+    "keywords": [
+      "logistics",
+      "legal"
+    ],
+    "sponsorship_evidence": "icle maintenance</li> </ul> <p><strong>Legal Stuff</strong><br><em>This role is not eligible for visa sponsorship.",
+    "h1b_status": "does_not_support_h1b",
+    "sponsorship_label": "No sponsorship for this position",
+    "url": "https://www.carvana.com/careers/apply?gh_jid=8083507"
+  },
+  {
+    "company": "Carvana",
+    "title": "Logistics Associate",
+    "location": "Concord, NC",
+    "employment_type": "full-time",
+    "category": "Operations & Supply Chain",
+    "salary": "$16\u2013$18/hr",
+    "salary_min": 16.0,
+    "keywords": [
+      "logistics",
+      "legal"
+    ],
+    "sponsorship_evidence": "icle maintenance</li> </ul> <p><strong>Legal Stuff</strong><br><em>This role is not eligible for visa sponsorship.",
+    "h1b_status": "does_not_support_h1b",
+    "sponsorship_label": "No sponsorship for this position",
+    "url": "https://www.carvana.com/careers/apply?gh_jid=8092555"
+  },
+  {
+    "company": "Carvana",
+    "title": "Logistics Associate",
+    "location": "Phoenix, AZ",
+    "employment_type": "full-time",
+    "category": "Operations & Supply Chain",
+    "salary": "$16\u2013$18/hr",
+    "salary_min": 16.0,
+    "keywords": [
+      "logistics",
+      "legal"
+    ],
+    "sponsorship_evidence": "icle maintenance</li> </ul> <p><strong>Legal Stuff</strong><br><em>This role is not eligible for visa sponsorship.",
+    "h1b_status": "does_not_support_h1b",
+    "sponsorship_label": "No sponsorship for this position",
+    "url": "https://www.carvana.com/careers/apply?gh_jid=8106794"
+  },
+  {
+    "company": "Carvana",
+    "title": "Logistics Associate",
     "location": "Plainfield, IN",
     "employment_type": "full-time",
     "category": "Operations & Supply Chain",
@@ -226595,40 +226531,6 @@
     "h1b_status": "does_not_support_h1b",
     "sponsorship_label": "No sponsorship for this position",
     "url": "https://www.carvana.com/careers/apply?gh_jid=8060046"
-  },
-  {
-    "company": "Carvana",
-    "title": "Logistics Associate",
-    "location": "Elyria, OH",
-    "employment_type": "full-time",
-    "category": "Operations & Supply Chain",
-    "salary": "$16\u2013$18/hr",
-    "salary_min": 16.0,
-    "keywords": [
-      "logistics",
-      "legal"
-    ],
-    "sponsorship_evidence": "icle maintenance</li> </ul> <p><strong>Legal Stuff</strong><br><em>This role is not eligible for visa sponsorship.",
-    "h1b_status": "does_not_support_h1b",
-    "sponsorship_label": "No sponsorship for this position",
-    "url": "https://www.carvana.com/careers/apply?gh_jid=8140356"
-  },
-  {
-    "company": "Carvana",
-    "title": "Logistics Associate",
-    "location": "University Park, IL",
-    "employment_type": "full-time",
-    "category": "Operations & Supply Chain",
-    "salary": "$17.5\u2013$19.5/hr",
-    "salary_min": 17.5,
-    "keywords": [
-      "logistics",
-      "legal"
-    ],
-    "sponsorship_evidence": "icle maintenance</li> </ul> <p><strong>Legal Stuff</strong><br><em>This role is not eligible for visa sponsorship.",
-    "h1b_status": "does_not_support_h1b",
-    "sponsorship_label": "No sponsorship for this position",
-    "url": "https://www.carvana.com/careers/apply?gh_jid=8148142"
   },
   {
     "company": "Carvana",
@@ -226667,11 +226569,11 @@
   {
     "company": "Carvana",
     "title": "Logistics Associate",
-    "location": "Phoenix, AZ",
+    "location": "University Park, IL",
     "employment_type": "full-time",
     "category": "Operations & Supply Chain",
-    "salary": "$16\u2013$18/hr",
-    "salary_min": 16.0,
+    "salary": "$17.5\u2013$19.5/hr",
+    "salary_min": 17.5,
     "keywords": [
       "logistics",
       "legal"
@@ -226679,41 +226581,7 @@
     "sponsorship_evidence": "icle maintenance</li> </ul> <p><strong>Legal Stuff</strong><br><em>This role is not eligible for visa sponsorship.",
     "h1b_status": "does_not_support_h1b",
     "sponsorship_label": "No sponsorship for this position",
-    "url": "https://www.carvana.com/careers/apply?gh_jid=8106794"
-  },
-  {
-    "company": "Carvana",
-    "title": "Logistics Associate",
-    "location": "Concord, NC",
-    "employment_type": "full-time",
-    "category": "Operations & Supply Chain",
-    "salary": "$16\u2013$18/hr",
-    "salary_min": 16.0,
-    "keywords": [
-      "logistics",
-      "legal"
-    ],
-    "sponsorship_evidence": "icle maintenance</li> </ul> <p><strong>Legal Stuff</strong><br><em>This role is not eligible for visa sponsorship.",
-    "h1b_status": "does_not_support_h1b",
-    "sponsorship_label": "No sponsorship for this position",
-    "url": "https://www.carvana.com/careers/apply?gh_jid=8092555"
-  },
-  {
-    "company": "Carvana",
-    "title": "Logistics Associate",
-    "location": "Bradenton, FL ",
-    "employment_type": "full-time",
-    "category": "Operations & Supply Chain",
-    "salary": "$15\u2013$17/hr",
-    "salary_min": 15.0,
-    "keywords": [
-      "logistics",
-      "legal"
-    ],
-    "sponsorship_evidence": "icle maintenance</li> </ul> <p><strong>Legal Stuff</strong><br><em>This role is not eligible for visa sponsorship.",
-    "h1b_status": "does_not_support_h1b",
-    "sponsorship_label": "No sponsorship for this position",
-    "url": "https://www.carvana.com/careers/apply?gh_jid=8092537"
+    "url": "https://www.carvana.com/careers/apply?gh_jid=8148142"
   },
   {
     "company": "Carvana",
@@ -226752,24 +226620,7 @@
   {
     "company": "Carvana",
     "title": "Logistics Associate",
-    "location": "Haines City, FL",
-    "employment_type": "full-time",
-    "category": "Operations & Supply Chain",
-    "salary": "$15\u2013$17/hr",
-    "salary_min": 15.0,
-    "keywords": [
-      "logistics",
-      "legal"
-    ],
-    "sponsorship_evidence": "icle maintenance</li> </ul> <p><strong>Legal Stuff</strong><br><em>This role is not eligible for visa sponsorship.",
-    "h1b_status": "does_not_support_h1b",
-    "sponsorship_label": "No sponsorship for this position",
-    "url": "https://www.carvana.com/careers/apply?gh_jid=8097911"
-  },
-  {
-    "company": "Carvana",
-    "title": "Logistics Associate",
-    "location": "Greenfield, IN ",
+    "location": "Dallas, TX",
     "employment_type": "full-time",
     "category": "Operations & Supply Chain",
     "salary": "$16\u2013$18/hr",
@@ -226781,41 +226632,7 @@
     "sponsorship_evidence": "icle maintenance</li> </ul> <p><strong>Legal Stuff</strong><br><em>This role is not eligible for visa sponsorship.",
     "h1b_status": "does_not_support_h1b",
     "sponsorship_label": "No sponsorship for this position",
-    "url": "https://www.carvana.com/careers/apply?gh_jid=8097905"
-  },
-  {
-    "company": "Carvana",
-    "title": "Logistics Associate",
-    "location": "Delanco, NJ",
-    "employment_type": "full-time",
-    "category": "Operations & Supply Chain",
-    "salary": "$19/hr",
-    "salary_min": 19.0,
-    "keywords": [
-      "logistics",
-      "legal"
-    ],
-    "sponsorship_evidence": "icle maintenance</li> </ul> <p><strong>Legal Stuff</strong><br><em>This role is not eligible for visa sponsorship.",
-    "h1b_status": "does_not_support_h1b",
-    "sponsorship_label": "No sponsorship for this position",
-    "url": "https://www.carvana.com/careers/apply?gh_jid=8078745"
-  },
-  {
-    "company": "Carvana",
-    "title": "Logistics Associate",
-    "location": "Tooele, Utah",
-    "employment_type": "full-time",
-    "category": "Operations & Supply Chain",
-    "salary": "$17\u2013$19/hr",
-    "salary_min": 17.0,
-    "keywords": [
-      "logistics",
-      "legal"
-    ],
-    "sponsorship_evidence": "icle maintenance</li> </ul> <p><strong>Legal Stuff</strong><br><em>This role is not eligible for visa sponsorship.",
-    "h1b_status": "does_not_support_h1b",
-    "sponsorship_label": "No sponsorship for this position",
-    "url": "https://www.carvana.com/careers/apply?gh_jid=8131193"
+    "url": "https://www.carvana.com/careers/apply?gh_jid=8110512"
   },
   {
     "company": "Carvana",
@@ -226837,6 +226654,40 @@
   {
     "company": "Carvana",
     "title": "Logistics Associate",
+    "location": "Portland, OR",
+    "employment_type": "full-time",
+    "category": "Operations & Supply Chain",
+    "salary": "$18\u2013$20/hr",
+    "salary_min": 18.0,
+    "keywords": [
+      "logistics",
+      "legal"
+    ],
+    "sponsorship_evidence": "icle maintenance</li> </ul> <p><strong>Legal Stuff</strong><br><em>This role is not eligible for visa sponsorship.",
+    "h1b_status": "does_not_support_h1b",
+    "sponsorship_label": "No sponsorship for this position",
+    "url": "https://www.carvana.com/careers/apply?gh_jid=8093167"
+  },
+  {
+    "company": "Carvana",
+    "title": "Logistics Associate",
+    "location": "Elyria, OH",
+    "employment_type": "full-time",
+    "category": "Operations & Supply Chain",
+    "salary": "$16\u2013$18/hr",
+    "salary_min": 16.0,
+    "keywords": [
+      "logistics",
+      "legal"
+    ],
+    "sponsorship_evidence": "icle maintenance</li> </ul> <p><strong>Legal Stuff</strong><br><em>This role is not eligible for visa sponsorship.",
+    "h1b_status": "does_not_support_h1b",
+    "sponsorship_label": "No sponsorship for this position",
+    "url": "https://www.carvana.com/careers/apply?gh_jid=8140356"
+  },
+  {
+    "company": "Carvana",
+    "title": "Logistics Associate",
     "location": "Denver, CO",
     "employment_type": "full-time",
     "category": "Operations & Supply Chain",
@@ -226854,11 +226705,11 @@
   {
     "company": "Carvana",
     "title": "Logistics Associate",
-    "location": "Portland, OR",
+    "location": "Tooele, Utah",
     "employment_type": "full-time",
     "category": "Operations & Supply Chain",
-    "salary": "$18\u2013$20/hr",
-    "salary_min": 18.0,
+    "salary": "$17\u2013$19/hr",
+    "salary_min": 17.0,
     "keywords": [
       "logistics",
       "legal"
@@ -226866,7 +226717,7 @@
     "sponsorship_evidence": "icle maintenance</li> </ul> <p><strong>Legal Stuff</strong><br><em>This role is not eligible for visa sponsorship.",
     "h1b_status": "does_not_support_h1b",
     "sponsorship_label": "No sponsorship for this position",
-    "url": "https://www.carvana.com/careers/apply?gh_jid=8093167"
+    "url": "https://www.carvana.com/careers/apply?gh_jid=8131193"
   },
   {
     "company": "Carvana",
@@ -226945,6 +226796,24 @@
   {
     "company": "Carvana",
     "title": "Logistics Manager",
+    "location": "Chesterfield, VA ",
+    "employment_type": "full-time",
+    "category": "Operations & Supply Chain",
+    "salary": "$60k\u2013$75k/yr",
+    "salary_min": 60000.0,
+    "keywords": [
+      "supply chain",
+      "logistics",
+      "compliance"
+    ],
+    "sponsorship_evidence": "This position is not eligible for visa sponsorship.",
+    "h1b_status": "does_not_support_h1b",
+    "sponsorship_label": "No sponsorship for this position",
+    "url": "https://www.carvana.com/careers/apply?gh_jid=8135050"
+  },
+  {
+    "company": "Carvana",
+    "title": "Logistics Manager",
     "location": "Fairburn, GA",
     "employment_type": "full-time",
     "category": "Operations & Supply Chain",
@@ -226959,24 +226828,6 @@
     "h1b_status": "does_not_support_h1b",
     "sponsorship_label": "No sponsorship for this position",
     "url": "https://www.carvana.com/careers/apply?gh_jid=8120518"
-  },
-  {
-    "company": "Carvana",
-    "title": "Logistics Manager",
-    "location": "Concord, NC",
-    "employment_type": "full-time",
-    "category": "Operations & Supply Chain",
-    "salary": "Not disclosed",
-    "salary_min": null,
-    "keywords": [
-      "supply chain",
-      "logistics",
-      "compliance"
-    ],
-    "sponsorship_evidence": "This position is not eligible for visa sponsorship.",
-    "h1b_status": "does_not_support_h1b",
-    "sponsorship_label": "No sponsorship for this position",
-    "url": "https://www.carvana.com/careers/apply?gh_jid=8141995"
   },
   {
     "company": "Carvana",
@@ -227017,6 +226868,24 @@
   {
     "company": "Carvana",
     "title": "Logistics Manager",
+    "location": "Concord, NC",
+    "employment_type": "full-time",
+    "category": "Operations & Supply Chain",
+    "salary": "Not disclosed",
+    "salary_min": null,
+    "keywords": [
+      "supply chain",
+      "logistics",
+      "compliance"
+    ],
+    "sponsorship_evidence": "This position is not eligible for visa sponsorship.",
+    "h1b_status": "does_not_support_h1b",
+    "sponsorship_label": "No sponsorship for this position",
+    "url": "https://www.carvana.com/careers/apply?gh_jid=8141995"
+  },
+  {
+    "company": "Carvana",
+    "title": "Logistics Manager",
     "location": "Dallas, TX  (Hutchins, TX)",
     "employment_type": "full-time",
     "category": "Operations & Supply Chain",
@@ -227031,24 +226900,6 @@
     "h1b_status": "does_not_support_h1b",
     "sponsorship_label": "No sponsorship for this position",
     "url": "https://www.carvana.com/careers/apply?gh_jid=8130709"
-  },
-  {
-    "company": "Carvana",
-    "title": "Logistics Manager",
-    "location": "Chesterfield, VA ",
-    "employment_type": "full-time",
-    "category": "Operations & Supply Chain",
-    "salary": "$60k\u2013$75k/yr",
-    "salary_min": 60000.0,
-    "keywords": [
-      "supply chain",
-      "logistics",
-      "compliance"
-    ],
-    "sponsorship_evidence": "This position is not eligible for visa sponsorship.",
-    "h1b_status": "does_not_support_h1b",
-    "sponsorship_label": "No sponsorship for this position",
-    "url": "https://www.carvana.com/careers/apply?gh_jid=8135050"
   },
   {
     "company": "Carvana",
@@ -227427,24 +227278,6 @@
   },
   {
     "company": "Carvana",
-    "title": "Lot Driver I - ADESA Sanford",
-    "location": "Sanford, FL",
-    "employment_type": "full-time",
-    "category": "Other",
-    "salary": "$15/hr",
-    "salary_min": 15.0,
-    "keywords": [
-      "sales",
-      "compliance",
-      "legal"
-    ],
-    "sponsorship_evidence": "&nbsp; This role is not eligible for visa sponsorship.",
-    "h1b_status": "does_not_support_h1b",
-    "sponsorship_label": "No sponsorship for this position",
-    "url": "https://www.carvana.com/careers/apply?gh_jid=8130650"
-  },
-  {
-    "company": "Carvana",
     "title": "Lot Driver (PT) - ADESA- Mira Loma   ",
     "location": "Mira Loma, CA",
     "employment_type": "full-time",
@@ -227624,22 +227457,6 @@
   {
     "company": "Carvana",
     "title": "Market Operations Leadership Development Program - New Graduate ",
-    "location": "Chandler, AZ",
-    "employment_type": "full-time",
-    "category": "Operations & Supply Chain",
-    "salary": "Not disclosed",
-    "salary_min": null,
-    "keywords": [
-      "legal"
-    ],
-    "sponsorship_evidence": "This role is not eligible for visa sponsorship.",
-    "h1b_status": "does_not_support_h1b",
-    "sponsorship_label": "No sponsorship for this position",
-    "url": "https://www.carvana.com/careers/apply?gh_jid=8128332"
-  },
-  {
-    "company": "Carvana",
-    "title": "Market Operations Leadership Development Program - New Graduate ",
     "location": "Tolleson, AZ",
     "employment_type": "full-time",
     "category": "Operations & Supply Chain",
@@ -227655,37 +227472,19 @@
   },
   {
     "company": "Carvana",
-    "title": "Market Operations Manager",
-    "location": "Springfield, MO",
+    "title": "Market Operations Leadership Development Program - New Graduate ",
+    "location": "Chandler, AZ",
     "employment_type": "full-time",
     "category": "Operations & Supply Chain",
     "salary": "Not disclosed",
     "salary_min": null,
     "keywords": [
-      "logistics",
       "legal"
     ],
-    "sponsorship_evidence": "",
-    "h1b_status": "unknown",
-    "sponsorship_label": "Not specified",
-    "url": "https://www.carvana.com/careers/apply?gh_jid=8008557"
-  },
-  {
-    "company": "Carvana",
-    "title": "Market Operations Manager",
-    "location": "Fairburn, GA",
-    "employment_type": "full-time",
-    "category": "Operations & Supply Chain",
-    "salary": "Not disclosed",
-    "salary_min": null,
-    "keywords": [
-      "logistics",
-      "legal"
-    ],
-    "sponsorship_evidence": "",
-    "h1b_status": "unknown",
-    "sponsorship_label": "Not specified",
-    "url": "https://www.carvana.com/careers/apply?gh_jid=8016432"
+    "sponsorship_evidence": "This role is not eligible for visa sponsorship.",
+    "h1b_status": "does_not_support_h1b",
+    "sponsorship_label": "No sponsorship for this position",
+    "url": "https://www.carvana.com/careers/apply?gh_jid=8128332"
   },
   {
     "company": "Carvana",
@@ -227707,11 +227506,11 @@
   {
     "company": "Carvana",
     "title": "Market Operations Manager",
-    "location": "Trenton, OH",
+    "location": "Fairburn, GA",
     "employment_type": "full-time",
     "category": "Operations & Supply Chain",
-    "salary": "$70k\u2013$87k/yr",
-    "salary_min": 70000.0,
+    "salary": "Not disclosed",
+    "salary_min": null,
     "keywords": [
       "logistics",
       "legal"
@@ -227719,41 +227518,7 @@
     "sponsorship_evidence": "",
     "h1b_status": "unknown",
     "sponsorship_label": "Not specified",
-    "url": "https://www.carvana.com/careers/apply?gh_jid=8106741"
-  },
-  {
-    "company": "Carvana",
-    "title": "Market Operations Manager",
-    "location": "Tracy, CA",
-    "employment_type": "full-time",
-    "category": "Operations & Supply Chain",
-    "salary": "$80k\u2013$93k/yr",
-    "salary_min": 80000.0,
-    "keywords": [
-      "logistics",
-      "legal"
-    ],
-    "sponsorship_evidence": "",
-    "h1b_status": "unknown",
-    "sponsorship_label": "Not specified",
-    "url": "https://www.carvana.com/careers/apply?gh_jid=8121762"
-  },
-  {
-    "company": "Carvana",
-    "title": "Market Operations Manager",
-    "location": "Colorado Springs, CO ",
-    "employment_type": "full-time",
-    "category": "Operations & Supply Chain",
-    "salary": "$72k\u2013$87k/yr",
-    "salary_min": 72000.0,
-    "keywords": [
-      "logistics",
-      "legal"
-    ],
-    "sponsorship_evidence": "",
-    "h1b_status": "unknown",
-    "sponsorship_label": "Not specified",
-    "url": "https://www.carvana.com/careers/apply?gh_jid=8031227"
+    "url": "https://www.carvana.com/careers/apply?gh_jid=8016432"
   },
   {
     "company": "Carvana",
@@ -227775,11 +227540,11 @@
   {
     "company": "Carvana",
     "title": "Market Operations Manager",
-    "location": "Dallas, TX",
+    "location": "Tracy, CA",
     "employment_type": "full-time",
     "category": "Operations & Supply Chain",
-    "salary": "Not disclosed",
-    "salary_min": null,
+    "salary": "$80k\u2013$93k/yr",
+    "salary_min": 80000.0,
     "keywords": [
       "logistics",
       "legal"
@@ -227787,7 +227552,7 @@
     "sponsorship_evidence": "",
     "h1b_status": "unknown",
     "sponsorship_label": "Not specified",
-    "url": "https://www.carvana.com/careers/apply?gh_jid=8114545"
+    "url": "https://www.carvana.com/careers/apply?gh_jid=8121762"
   },
   {
     "company": "Carvana",
@@ -227805,6 +227570,74 @@
     "h1b_status": "unknown",
     "sponsorship_label": "Not specified",
     "url": "https://www.carvana.com/careers/apply?gh_jid=8059894"
+  },
+  {
+    "company": "Carvana",
+    "title": "Market Operations Manager",
+    "location": "Springfield, MO",
+    "employment_type": "full-time",
+    "category": "Operations & Supply Chain",
+    "salary": "Not disclosed",
+    "salary_min": null,
+    "keywords": [
+      "logistics",
+      "legal"
+    ],
+    "sponsorship_evidence": "",
+    "h1b_status": "unknown",
+    "sponsorship_label": "Not specified",
+    "url": "https://www.carvana.com/careers/apply?gh_jid=8008557"
+  },
+  {
+    "company": "Carvana",
+    "title": "Market Operations Manager",
+    "location": "Trenton, OH",
+    "employment_type": "full-time",
+    "category": "Operations & Supply Chain",
+    "salary": "$70k\u2013$87k/yr",
+    "salary_min": 70000.0,
+    "keywords": [
+      "logistics",
+      "legal"
+    ],
+    "sponsorship_evidence": "",
+    "h1b_status": "unknown",
+    "sponsorship_label": "Not specified",
+    "url": "https://www.carvana.com/careers/apply?gh_jid=8106741"
+  },
+  {
+    "company": "Carvana",
+    "title": "Market Operations Manager",
+    "location": "Dallas, TX",
+    "employment_type": "full-time",
+    "category": "Operations & Supply Chain",
+    "salary": "Not disclosed",
+    "salary_min": null,
+    "keywords": [
+      "logistics",
+      "legal"
+    ],
+    "sponsorship_evidence": "",
+    "h1b_status": "unknown",
+    "sponsorship_label": "Not specified",
+    "url": "https://www.carvana.com/careers/apply?gh_jid=8114545"
+  },
+  {
+    "company": "Carvana",
+    "title": "Market Operations Manager",
+    "location": "Colorado Springs, CO ",
+    "employment_type": "full-time",
+    "category": "Operations & Supply Chain",
+    "salary": "$72k\u2013$87k/yr",
+    "salary_min": 72000.0,
+    "keywords": [
+      "logistics",
+      "legal"
+    ],
+    "sponsorship_evidence": "",
+    "h1b_status": "unknown",
+    "sponsorship_label": "Not specified",
+    "url": "https://www.carvana.com/careers/apply?gh_jid=8031227"
   },
   {
     "company": "Carvana",
@@ -228086,16 +227919,30 @@
   {
     "company": "Carvana",
     "title": "Mid-Level Automotive Parts Associate",
-    "location": "Manville, NJ",
+    "location": "Belton, MO",
     "employment_type": "full-time",
     "category": "Other",
-    "salary": "$18\u2013$20/hr",
-    "salary_min": 18.0,
+    "salary": "$17\u2013$18/hr",
+    "salary_min": 17.0,
     "keywords": [],
     "sponsorship_evidence": "This role is not eligible for visa sponsorship.",
     "h1b_status": "does_not_support_h1b",
     "sponsorship_label": "No sponsorship for this position",
-    "url": "https://www.carvana.com/careers/apply?gh_jid=8139173"
+    "url": "https://www.carvana.com/careers/apply?gh_jid=8128330"
+  },
+  {
+    "company": "Carvana",
+    "title": "Mid-Level Automotive Parts Associate",
+    "location": "Old Hickory, TN",
+    "employment_type": "full-time",
+    "category": "Other",
+    "salary": "Not disclosed",
+    "salary_min": null,
+    "keywords": [],
+    "sponsorship_evidence": "This role is not eligible for visa sponsorship.",
+    "h1b_status": "does_not_support_h1b",
+    "sponsorship_label": "No sponsorship for this position",
+    "url": "https://www.carvana.com/careers/apply?gh_jid=8144731"
   },
   {
     "company": "Carvana",
@@ -228128,30 +227975,16 @@
   {
     "company": "Carvana",
     "title": "Mid-Level Automotive Parts Associate",
-    "location": "Bessemer, AL",
+    "location": "Framingham, MA",
     "employment_type": "full-time",
     "category": "Other",
-    "salary": "Not disclosed",
-    "salary_min": null,
+    "salary": "$19\u2013$22/hr",
+    "salary_min": 19.0,
     "keywords": [],
     "sponsorship_evidence": "This role is not eligible for visa sponsorship.",
     "h1b_status": "does_not_support_h1b",
     "sponsorship_label": "No sponsorship for this position",
-    "url": "https://www.carvana.com/careers/apply?gh_jid=8075956"
-  },
-  {
-    "company": "Carvana",
-    "title": "Mid-Level Automotive Parts Associate",
-    "location": "Heath, OH",
-    "employment_type": "full-time",
-    "category": "Other",
-    "salary": "Not disclosed",
-    "salary_min": null,
-    "keywords": [],
-    "sponsorship_evidence": "This role is not eligible for visa sponsorship.",
-    "h1b_status": "does_not_support_h1b",
-    "sponsorship_label": "No sponsorship for this position",
-    "url": "https://www.carvana.com/careers/apply?gh_jid=8144609"
+    "url": "https://www.carvana.com/careers/apply?gh_jid=8144350"
   },
   {
     "company": "Carvana",
@@ -228170,7 +228003,7 @@
   {
     "company": "Carvana",
     "title": "Mid-Level Automotive Parts Associate",
-    "location": "Blue Mound, TX",
+    "location": "Heath, OH",
     "employment_type": "full-time",
     "category": "Other",
     "salary": "Not disclosed",
@@ -228179,12 +228012,12 @@
     "sponsorship_evidence": "This role is not eligible for visa sponsorship.",
     "h1b_status": "does_not_support_h1b",
     "sponsorship_label": "No sponsorship for this position",
-    "url": "https://www.carvana.com/careers/apply?gh_jid=8047144"
+    "url": "https://www.carvana.com/careers/apply?gh_jid=8144609"
   },
   {
     "company": "Carvana",
     "title": "Mid-Level Automotive Parts Associate",
-    "location": "Old Hickory, TN",
+    "location": "Bessemer, AL",
     "employment_type": "full-time",
     "category": "Other",
     "salary": "Not disclosed",
@@ -228193,63 +228026,7 @@
     "sponsorship_evidence": "This role is not eligible for visa sponsorship.",
     "h1b_status": "does_not_support_h1b",
     "sponsorship_label": "No sponsorship for this position",
-    "url": "https://www.carvana.com/careers/apply?gh_jid=8144731"
-  },
-  {
-    "company": "Carvana",
-    "title": "Mid-Level Automotive Parts Associate",
-    "location": "Colorado Springs, CO",
-    "employment_type": "full-time",
-    "category": "Other",
-    "salary": "$17\u2013$19/hr",
-    "salary_min": 17.0,
-    "keywords": [],
-    "sponsorship_evidence": "This role is not eligible for visa sponsorship.",
-    "h1b_status": "does_not_support_h1b",
-    "sponsorship_label": "No sponsorship for this position",
-    "url": "https://www.carvana.com/careers/apply?gh_jid=8119839"
-  },
-  {
-    "company": "Carvana",
-    "title": "Mid-Level Automotive Parts Associate",
-    "location": "Framingham, MA",
-    "employment_type": "full-time",
-    "category": "Other",
-    "salary": "$19\u2013$22/hr",
-    "salary_min": 19.0,
-    "keywords": [],
-    "sponsorship_evidence": "This role is not eligible for visa sponsorship.",
-    "h1b_status": "does_not_support_h1b",
-    "sponsorship_label": "No sponsorship for this position",
-    "url": "https://www.carvana.com/careers/apply?gh_jid=8144350"
-  },
-  {
-    "company": "Carvana",
-    "title": "Mid-Level Automotive Parts Associate",
-    "location": "Belton, MO",
-    "employment_type": "full-time",
-    "category": "Other",
-    "salary": "$17\u2013$18/hr",
-    "salary_min": 17.0,
-    "keywords": [],
-    "sponsorship_evidence": "This role is not eligible for visa sponsorship.",
-    "h1b_status": "does_not_support_h1b",
-    "sponsorship_label": "No sponsorship for this position",
-    "url": "https://www.carvana.com/careers/apply?gh_jid=8128330"
-  },
-  {
-    "company": "Carvana",
-    "title": "Mid-Level Automotive Parts Associate",
-    "location": "Belton, MO",
-    "employment_type": "full-time",
-    "category": "Other",
-    "salary": "Not disclosed",
-    "salary_min": null,
-    "keywords": [],
-    "sponsorship_evidence": "This role is not eligible for visa sponsorship.",
-    "h1b_status": "does_not_support_h1b",
-    "sponsorship_label": "No sponsorship for this position",
-    "url": "https://www.carvana.com/careers/apply?gh_jid=8108784"
+    "url": "https://www.carvana.com/careers/apply?gh_jid=8075956"
   },
   {
     "company": "Carvana",
@@ -228282,6 +228059,34 @@
   {
     "company": "Carvana",
     "title": "Mid-Level Automotive Parts Associate",
+    "location": "Manville, NJ",
+    "employment_type": "full-time",
+    "category": "Other",
+    "salary": "$18\u2013$20/hr",
+    "salary_min": 18.0,
+    "keywords": [],
+    "sponsorship_evidence": "This role is not eligible for visa sponsorship.",
+    "h1b_status": "does_not_support_h1b",
+    "sponsorship_label": "No sponsorship for this position",
+    "url": "https://www.carvana.com/careers/apply?gh_jid=8139173"
+  },
+  {
+    "company": "Carvana",
+    "title": "Mid-Level Automotive Parts Associate",
+    "location": "Blue Mound, TX",
+    "employment_type": "full-time",
+    "category": "Other",
+    "salary": "Not disclosed",
+    "salary_min": null,
+    "keywords": [],
+    "sponsorship_evidence": "This role is not eligible for visa sponsorship.",
+    "h1b_status": "does_not_support_h1b",
+    "sponsorship_label": "No sponsorship for this position",
+    "url": "https://www.carvana.com/careers/apply?gh_jid=8047144"
+  },
+  {
+    "company": "Carvana",
+    "title": "Mid-Level Automotive Parts Associate",
     "location": "Belton, MO",
     "employment_type": "full-time",
     "category": "Other",
@@ -228292,6 +228097,34 @@
     "h1b_status": "does_not_support_h1b",
     "sponsorship_label": "No sponsorship for this position",
     "url": "https://www.carvana.com/careers/apply?gh_jid=8108782"
+  },
+  {
+    "company": "Carvana",
+    "title": "Mid-Level Automotive Parts Associate",
+    "location": "Belton, MO",
+    "employment_type": "full-time",
+    "category": "Other",
+    "salary": "Not disclosed",
+    "salary_min": null,
+    "keywords": [],
+    "sponsorship_evidence": "This role is not eligible for visa sponsorship.",
+    "h1b_status": "does_not_support_h1b",
+    "sponsorship_label": "No sponsorship for this position",
+    "url": "https://www.carvana.com/careers/apply?gh_jid=8108784"
+  },
+  {
+    "company": "Carvana",
+    "title": "Mid-Level Automotive Parts Associate",
+    "location": "Colorado Springs, CO",
+    "employment_type": "full-time",
+    "category": "Other",
+    "salary": "$17\u2013$19/hr",
+    "salary_min": 17.0,
+    "keywords": [],
+    "sponsorship_evidence": "This role is not eligible for visa sponsorship.",
+    "h1b_status": "does_not_support_h1b",
+    "sponsorship_label": "No sponsorship for this position",
+    "url": "https://www.carvana.com/careers/apply?gh_jid=8119839"
   },
   {
     "company": "Carvana",
@@ -228324,20 +228157,6 @@
   {
     "company": "Carvana",
     "title": "Mid-Level Automotive Parts Associate (2nd Shift)",
-    "location": "Elyria, OH",
-    "employment_type": "full-time",
-    "category": "Other",
-    "salary": "Not disclosed",
-    "salary_min": null,
-    "keywords": [],
-    "sponsorship_evidence": "This role is not eligible for visa sponsorship.",
-    "h1b_status": "does_not_support_h1b",
-    "sponsorship_label": "No sponsorship for this position",
-    "url": "https://www.carvana.com/careers/apply?gh_jid=8125746"
-  },
-  {
-    "company": "Carvana",
-    "title": "Mid-Level Automotive Parts Associate (2nd Shift)",
     "location": "Akron, NY",
     "employment_type": "full-time",
     "category": "Other",
@@ -228348,6 +228167,20 @@
     "h1b_status": "does_not_support_h1b",
     "sponsorship_label": "No sponsorship for this position",
     "url": "https://www.carvana.com/careers/apply?gh_jid=8125707"
+  },
+  {
+    "company": "Carvana",
+    "title": "Mid-Level Automotive Parts Associate (2nd Shift)",
+    "location": "Elyria, OH",
+    "employment_type": "full-time",
+    "category": "Other",
+    "salary": "Not disclosed",
+    "salary_min": null,
+    "keywords": [],
+    "sponsorship_evidence": "This role is not eligible for visa sponsorship.",
+    "h1b_status": "does_not_support_h1b",
+    "sponsorship_label": "No sponsorship for this position",
+    "url": "https://www.carvana.com/careers/apply?gh_jid=8125746"
   },
   {
     "company": "Carvana",
@@ -228408,20 +228241,6 @@
   {
     "company": "Carvana",
     "title": "Mid-Level Paintless Dent Repair Technician",
-    "location": "San Antonio, TX",
-    "employment_type": "full-time",
-    "category": "Other",
-    "salary": "Not disclosed",
-    "salary_min": null,
-    "keywords": [],
-    "sponsorship_evidence": "This role is not eligible for visa sponsorship.",
-    "h1b_status": "does_not_support_h1b",
-    "sponsorship_label": "No sponsorship for this position",
-    "url": "https://www.carvana.com/careers/apply?gh_jid=8082450"
-  },
-  {
-    "company": "Carvana",
-    "title": "Mid-Level Paintless Dent Repair Technician",
     "location": "University Park, IL",
     "employment_type": "full-time",
     "category": "Other",
@@ -228432,6 +228251,20 @@
     "h1b_status": "does_not_support_h1b",
     "sponsorship_label": "No sponsorship for this position",
     "url": "https://www.carvana.com/careers/apply?gh_jid=8126937"
+  },
+  {
+    "company": "Carvana",
+    "title": "Mid-Level Paintless Dent Repair Technician",
+    "location": "San Antonio, TX",
+    "employment_type": "full-time",
+    "category": "Other",
+    "salary": "Not disclosed",
+    "salary_min": null,
+    "keywords": [],
+    "sponsorship_evidence": "This role is not eligible for visa sponsorship.",
+    "h1b_status": "does_not_support_h1b",
+    "sponsorship_label": "No sponsorship for this position",
+    "url": "https://www.carvana.com/careers/apply?gh_jid=8082450"
   },
   {
     "company": "Carvana",
@@ -228976,6 +228809,24 @@
   },
   {
     "company": "Carvana",
+    "title": "Operations Manager - West Memphis",
+    "location": "West Memphis, AR",
+    "employment_type": "full-time",
+    "category": "Operations & Supply Chain",
+    "salary": "Not disclosed",
+    "salary_min": null,
+    "keywords": [
+      "recruiting",
+      "compliance",
+      "legal"
+    ],
+    "sponsorship_evidence": "&nbsp;</p> <p>This position is not eligible for visa sponsorship.",
+    "h1b_status": "does_not_support_h1b",
+    "sponsorship_label": "No sponsorship for this position",
+    "url": "https://www.carvana.com/careers/apply?gh_jid=8130905"
+  },
+  {
+    "company": "Carvana",
     "title": "Operations Recruiter",
     "location": "Tempe, AZ",
     "employment_type": "full-time",
@@ -229027,6 +228878,23 @@
   {
     "company": "Carvana",
     "title": "Outside Sales Representative",
+    "location": "Manville, NJ",
+    "employment_type": "full-time",
+    "category": "Sales & Marketing",
+    "salary": "Not disclosed",
+    "salary_min": null,
+    "keywords": [
+      "sales",
+      "legal"
+    ],
+    "sponsorship_evidence": "&nbsp; This role is not eligible for visa sponsorship.",
+    "h1b_status": "does_not_support_h1b",
+    "sponsorship_label": "No sponsorship for this position",
+    "url": "https://www.carvana.com/careers/apply?gh_jid=7950218"
+  },
+  {
+    "company": "Carvana",
+    "title": "Outside Sales Representative",
     "location": "Moody, AL",
     "employment_type": "full-time",
     "category": "Sales & Marketing",
@@ -229057,23 +228925,6 @@
     "h1b_status": "does_not_support_h1b",
     "sponsorship_label": "No sponsorship for this position",
     "url": "https://www.carvana.com/careers/apply?gh_jid=7785645"
-  },
-  {
-    "company": "Carvana",
-    "title": "Outside Sales Representative",
-    "location": "Manville, NJ",
-    "employment_type": "full-time",
-    "category": "Sales & Marketing",
-    "salary": "Not disclosed",
-    "salary_min": null,
-    "keywords": [
-      "sales",
-      "legal"
-    ],
-    "sponsorship_evidence": "&nbsp; This role is not eligible for visa sponsorship.",
-    "h1b_status": "does_not_support_h1b",
-    "sponsorship_label": "No sponsorship for this position",
-    "url": "https://www.carvana.com/careers/apply?gh_jid=7950218"
   },
   {
     "company": "Carvana",
@@ -229178,20 +229029,6 @@
   {
     "company": "Carvana",
     "title": "Paintless Dent Repair Technician - 2nd Shift - $8,000 Bonus",
-    "location": "Rocklin, CA",
-    "employment_type": "full-time",
-    "category": "Other",
-    "salary": "Not disclosed",
-    "salary_min": null,
-    "keywords": [],
-    "sponsorship_evidence": "This role is not eligible for visa sponsorship.",
-    "h1b_status": "does_not_support_h1b",
-    "sponsorship_label": "No sponsorship for this position",
-    "url": "https://www.carvana.com/careers/apply?gh_jid=8073256"
-  },
-  {
-    "company": "Carvana",
-    "title": "Paintless Dent Repair Technician - 2nd Shift - $8,000 Bonus",
     "location": "Belton, MO",
     "employment_type": "full-time",
     "category": "Other",
@@ -229202,6 +229039,20 @@
     "h1b_status": "does_not_support_h1b",
     "sponsorship_label": "No sponsorship for this position",
     "url": "https://www.carvana.com/careers/apply?gh_jid=8089948"
+  },
+  {
+    "company": "Carvana",
+    "title": "Paintless Dent Repair Technician - 2nd Shift - $8,000 Bonus",
+    "location": "Rocklin, CA",
+    "employment_type": "full-time",
+    "category": "Other",
+    "salary": "Not disclosed",
+    "salary_min": null,
+    "keywords": [],
+    "sponsorship_evidence": "This role is not eligible for visa sponsorship.",
+    "h1b_status": "does_not_support_h1b",
+    "sponsorship_label": "No sponsorship for this position",
+    "url": "https://www.carvana.com/careers/apply?gh_jid=8073256"
   },
   {
     "company": "Carvana",
@@ -229406,20 +229257,6 @@
   {
     "company": "Carvana",
     "title": "Part- Time Car Detailer",
-    "location": "Austin, TX",
-    "employment_type": "full-time",
-    "category": "Other",
-    "salary": "$15\u2013$16/hr",
-    "salary_min": 15.0,
-    "keywords": [],
-    "sponsorship_evidence": "</em></strong><em> This role is not eligible for visa sponsorship.",
-    "h1b_status": "does_not_support_h1b",
-    "sponsorship_label": "No sponsorship for this position",
-    "url": "https://www.carvana.com/careers/apply?gh_jid=8125796"
-  },
-  {
-    "company": "Carvana",
-    "title": "Part- Time Car Detailer",
     "location": "Minneapolis, MN",
     "employment_type": "full-time",
     "category": "Other",
@@ -229444,6 +229281,20 @@
     "h1b_status": "does_not_support_h1b",
     "sponsorship_label": "No sponsorship for this position",
     "url": "https://www.carvana.com/careers/apply?gh_jid=8067979"
+  },
+  {
+    "company": "Carvana",
+    "title": "Part- Time Car Detailer",
+    "location": "Austin, TX",
+    "employment_type": "full-time",
+    "category": "Other",
+    "salary": "$15\u2013$16/hr",
+    "salary_min": 15.0,
+    "keywords": [],
+    "sponsorship_evidence": "</em></strong><em> This role is not eligible for visa sponsorship.",
+    "h1b_status": "does_not_support_h1b",
+    "sponsorship_label": "No sponsorship for this position",
+    "url": "https://www.carvana.com/careers/apply?gh_jid=8125796"
   },
   {
     "company": "Carvana",
@@ -229532,20 +229383,6 @@
   {
     "company": "Carvana",
     "title": "PDR Technician - $8,000 Bonus",
-    "location": "Belton, MO",
-    "employment_type": "full-time",
-    "category": "Other",
-    "salary": "Not disclosed",
-    "salary_min": null,
-    "keywords": [],
-    "sponsorship_evidence": "This role is not eligible for visa sponsorship.",
-    "h1b_status": "does_not_support_h1b",
-    "sponsorship_label": "No sponsorship for this position",
-    "url": "https://www.carvana.com/careers/apply?gh_jid=8089945"
-  },
-  {
-    "company": "Carvana",
-    "title": "PDR Technician - $8,000 Bonus",
     "location": "Rocklin, CA",
     "employment_type": "full-time",
     "category": "Other",
@@ -229556,6 +229393,20 @@
     "h1b_status": "does_not_support_h1b",
     "sponsorship_label": "No sponsorship for this position",
     "url": "https://www.carvana.com/careers/apply?gh_jid=8126155"
+  },
+  {
+    "company": "Carvana",
+    "title": "PDR Technician - $8,000 Bonus",
+    "location": "Belton, MO",
+    "employment_type": "full-time",
+    "category": "Other",
+    "salary": "Not disclosed",
+    "salary_min": null,
+    "keywords": [],
+    "sponsorship_evidence": "This role is not eligible for visa sponsorship.",
+    "h1b_status": "does_not_support_h1b",
+    "sponsorship_label": "No sponsorship for this position",
+    "url": "https://www.carvana.com/careers/apply?gh_jid=8089945"
   },
   {
     "company": "Carvana",
@@ -229602,20 +229453,6 @@
   {
     "company": "Carvana",
     "title": "Post Production Associate",
-    "location": "Winder, GA",
-    "employment_type": "full-time",
-    "category": "Other",
-    "salary": "$16\u2013$17/hr",
-    "salary_min": 16.0,
-    "keywords": [],
-    "sponsorship_evidence": "This role is not eligible for visa sponsorship.",
-    "h1b_status": "does_not_support_h1b",
-    "sponsorship_label": "No sponsorship for this position",
-    "url": "https://www.carvana.com/careers/apply?gh_jid=8146059"
-  },
-  {
-    "company": "Carvana",
-    "title": "Post Production Associate",
     "location": "West Memphis, AR",
     "employment_type": "full-time",
     "category": "Other",
@@ -229629,6 +229466,20 @@
   },
   {
     "company": "Carvana",
+    "title": "Post Production Associate",
+    "location": "Winder, GA",
+    "employment_type": "full-time",
+    "category": "Other",
+    "salary": "$16\u2013$17/hr",
+    "salary_min": 16.0,
+    "keywords": [],
+    "sponsorship_evidence": "This role is not eligible for visa sponsorship.",
+    "h1b_status": "does_not_support_h1b",
+    "sponsorship_label": "No sponsorship for this position",
+    "url": "https://www.carvana.com/careers/apply?gh_jid=8146059"
+  },
+  {
+    "company": "Carvana",
     "title": "Post-Production Auto Technician",
     "location": "Fairburn, GA",
     "employment_type": "full-time",
@@ -229639,7 +229490,49 @@
     "sponsorship_evidence": "This role is not eligible for visa sponsorship.",
     "h1b_status": "does_not_support_h1b",
     "sponsorship_label": "No sponsorship for this position",
-    "url": "https://www.carvana.com/careers/apply?gh_jid=8103387"
+    "url": "https://www.carvana.com/careers/apply?gh_jid=8145268"
+  },
+  {
+    "company": "Carvana",
+    "title": "Post-Production Auto Technician",
+    "location": "Portland, OR",
+    "employment_type": "full-time",
+    "category": "Other",
+    "salary": "$20\u2013$23/hr",
+    "salary_min": 20.0,
+    "keywords": [],
+    "sponsorship_evidence": "This role is not eligible for visa sponsorship.",
+    "h1b_status": "does_not_support_h1b",
+    "sponsorship_label": "No sponsorship for this position",
+    "url": "https://www.carvana.com/careers/apply?gh_jid=8105997"
+  },
+  {
+    "company": "Carvana",
+    "title": "Post-Production Auto Technician",
+    "location": "Blue Mound, TX",
+    "employment_type": "full-time",
+    "category": "Other",
+    "salary": "$17\u2013$19/hr",
+    "salary_min": 17.0,
+    "keywords": [],
+    "sponsorship_evidence": "This role is not eligible for visa sponsorship.",
+    "h1b_status": "does_not_support_h1b",
+    "sponsorship_label": "No sponsorship for this position",
+    "url": "https://www.carvana.com/careers/apply?gh_jid=8106267"
+  },
+  {
+    "company": "Carvana",
+    "title": "Post-Production Auto Technician",
+    "location": "Tolleson, AZ",
+    "employment_type": "full-time",
+    "category": "Other",
+    "salary": "Not disclosed",
+    "salary_min": null,
+    "keywords": [],
+    "sponsorship_evidence": "This role is not eligible for visa sponsorship.",
+    "h1b_status": "does_not_support_h1b",
+    "sponsorship_label": "No sponsorship for this position",
+    "url": "https://www.carvana.com/careers/apply?gh_jid=8082757"
   },
   {
     "company": "Carvana",
@@ -229667,7 +229560,35 @@
     "sponsorship_evidence": "This role is not eligible for visa sponsorship.",
     "h1b_status": "does_not_support_h1b",
     "sponsorship_label": "No sponsorship for this position",
-    "url": "https://www.carvana.com/careers/apply?gh_jid=8145268"
+    "url": "https://www.carvana.com/careers/apply?gh_jid=8103387"
+  },
+  {
+    "company": "Carvana",
+    "title": "Post-Production Auto Technician",
+    "location": "Minneapolis, MN",
+    "employment_type": "full-time",
+    "category": "Other",
+    "salary": "$20\u2013$31/hr",
+    "salary_min": 20.0,
+    "keywords": [],
+    "sponsorship_evidence": "This role is not eligible for visa sponsorship.",
+    "h1b_status": "does_not_support_h1b",
+    "sponsorship_label": "No sponsorship for this position",
+    "url": "https://www.carvana.com/careers/apply?gh_jid=8047430"
+  },
+  {
+    "company": "Carvana",
+    "title": "Post-Production Auto Technician",
+    "location": "Houston, TX",
+    "employment_type": "full-time",
+    "category": "Other",
+    "salary": "Not disclosed",
+    "salary_min": null,
+    "keywords": [],
+    "sponsorship_evidence": "This role is not eligible for visa sponsorship.",
+    "h1b_status": "does_not_support_h1b",
+    "sponsorship_label": "No sponsorship for this position",
+    "url": "https://www.carvana.com/careers/apply?gh_jid=8110210"
   },
   {
     "company": "Carvana",
@@ -229700,48 +229621,6 @@
   {
     "company": "Carvana",
     "title": "Post-Production Auto Technician",
-    "location": "Houston, TX",
-    "employment_type": "full-time",
-    "category": "Other",
-    "salary": "Not disclosed",
-    "salary_min": null,
-    "keywords": [],
-    "sponsorship_evidence": "This role is not eligible for visa sponsorship.",
-    "h1b_status": "does_not_support_h1b",
-    "sponsorship_label": "No sponsorship for this position",
-    "url": "https://www.carvana.com/careers/apply?gh_jid=8110210"
-  },
-  {
-    "company": "Carvana",
-    "title": "Post-Production Auto Technician",
-    "location": "Minneapolis, MN",
-    "employment_type": "full-time",
-    "category": "Other",
-    "salary": "$20\u2013$31/hr",
-    "salary_min": 20.0,
-    "keywords": [],
-    "sponsorship_evidence": "This role is not eligible for visa sponsorship.",
-    "h1b_status": "does_not_support_h1b",
-    "sponsorship_label": "No sponsorship for this position",
-    "url": "https://www.carvana.com/careers/apply?gh_jid=8047430"
-  },
-  {
-    "company": "Carvana",
-    "title": "Post-Production Auto Technician",
-    "location": "Tolleson, AZ",
-    "employment_type": "full-time",
-    "category": "Other",
-    "salary": "Not disclosed",
-    "salary_min": null,
-    "keywords": [],
-    "sponsorship_evidence": "This role is not eligible for visa sponsorship.",
-    "h1b_status": "does_not_support_h1b",
-    "sponsorship_label": "No sponsorship for this position",
-    "url": "https://www.carvana.com/careers/apply?gh_jid=8082757"
-  },
-  {
-    "company": "Carvana",
-    "title": "Post-Production Auto Technician",
     "location": "Oklahoma City, OK",
     "employment_type": "full-time",
     "category": "Other",
@@ -229752,34 +229631,6 @@
     "h1b_status": "does_not_support_h1b",
     "sponsorship_label": "No sponsorship for this position",
     "url": "https://www.carvana.com/careers/apply?gh_jid=8079711"
-  },
-  {
-    "company": "Carvana",
-    "title": "Post-Production Auto Technician",
-    "location": "Portland, OR",
-    "employment_type": "full-time",
-    "category": "Other",
-    "salary": "$20\u2013$23/hr",
-    "salary_min": 20.0,
-    "keywords": [],
-    "sponsorship_evidence": "This role is not eligible for visa sponsorship.",
-    "h1b_status": "does_not_support_h1b",
-    "sponsorship_label": "No sponsorship for this position",
-    "url": "https://www.carvana.com/careers/apply?gh_jid=8105997"
-  },
-  {
-    "company": "Carvana",
-    "title": "Post-Production Auto Technician",
-    "location": "Blue Mound, TX",
-    "employment_type": "full-time",
-    "category": "Other",
-    "salary": "$17\u2013$19/hr",
-    "salary_min": 17.0,
-    "keywords": [],
-    "sponsorship_evidence": "This role is not eligible for visa sponsorship.",
-    "h1b_status": "does_not_support_h1b",
-    "sponsorship_label": "No sponsorship for this position",
-    "url": "https://www.carvana.com/careers/apply?gh_jid=8106267"
   },
   {
     "company": "Carvana",
@@ -229916,24 +229767,6 @@
   {
     "company": "Carvana",
     "title": "Post Production Operations Manager ",
-    "location": "St. Charles, MO ",
-    "employment_type": "full-time",
-    "category": "Operations & Supply Chain",
-    "salary": "Not disclosed",
-    "salary_min": null,
-    "keywords": [
-      "recruiting",
-      "compliance",
-      "legal"
-    ],
-    "sponsorship_evidence": "&nbsp;</p> <p>This position is not eligible for visa sponsorship.",
-    "h1b_status": "does_not_support_h1b",
-    "sponsorship_label": "No sponsorship for this position",
-    "url": "https://www.carvana.com/careers/apply?gh_jid=8022191"
-  },
-  {
-    "company": "Carvana",
-    "title": "Post Production Operations Manager ",
     "location": "Hazelwood, MO ",
     "employment_type": "full-time",
     "category": "Operations & Supply Chain",
@@ -229948,6 +229781,24 @@
     "h1b_status": "does_not_support_h1b",
     "sponsorship_label": "No sponsorship for this position",
     "url": "https://www.carvana.com/careers/apply?gh_jid=8022177"
+  },
+  {
+    "company": "Carvana",
+    "title": "Post Production Operations Manager ",
+    "location": "St. Charles, MO ",
+    "employment_type": "full-time",
+    "category": "Operations & Supply Chain",
+    "salary": "Not disclosed",
+    "salary_min": null,
+    "keywords": [
+      "recruiting",
+      "compliance",
+      "legal"
+    ],
+    "sponsorship_evidence": "&nbsp;</p> <p>This position is not eligible for visa sponsorship.",
+    "h1b_status": "does_not_support_h1b",
+    "sponsorship_label": "No sponsorship for this position",
+    "url": "https://www.carvana.com/careers/apply?gh_jid=8022191"
   },
   {
     "company": "Carvana",
@@ -230410,7 +230261,7 @@
   {
     "company": "Carvana",
     "title": "Quality Assurance Coordinator",
-    "location": "Yaphank, NY",
+    "location": "Hoffman Estates, IL",
     "employment_type": "full-time",
     "category": "Other",
     "salary": "Not disclosed",
@@ -230422,7 +230273,7 @@
     "sponsorship_evidence": "&nbsp; This role is not eligible for visa sponsorship.",
     "h1b_status": "does_not_support_h1b",
     "sponsorship_label": "No sponsorship for this position",
-    "url": "https://www.carvana.com/careers/apply?gh_jid=8089794"
+    "url": "https://www.carvana.com/careers/apply?gh_jid=8089869"
   },
   {
     "company": "Carvana",
@@ -230444,11 +230295,11 @@
   {
     "company": "Carvana",
     "title": "Quality Assurance Coordinator",
-    "location": "Hoffman Estates, IL",
+    "location": "Seattle, WA",
     "employment_type": "full-time",
     "category": "Other",
-    "salary": "Not disclosed",
-    "salary_min": null,
+    "salary": "$21\u2013$22/hr",
+    "salary_min": 21.0,
     "keywords": [
       "sales",
       "legal"
@@ -230456,24 +230307,7 @@
     "sponsorship_evidence": "&nbsp; This role is not eligible for visa sponsorship.",
     "h1b_status": "does_not_support_h1b",
     "sponsorship_label": "No sponsorship for this position",
-    "url": "https://www.carvana.com/careers/apply?gh_jid=8089869"
-  },
-  {
-    "company": "Carvana",
-    "title": "Quality Assurance Coordinator",
-    "location": "Belton, MO",
-    "employment_type": "full-time",
-    "category": "Other",
-    "salary": "Not disclosed",
-    "salary_min": null,
-    "keywords": [
-      "sales",
-      "legal"
-    ],
-    "sponsorship_evidence": "&nbsp; This role is not eligible for visa sponsorship.",
-    "h1b_status": "does_not_support_h1b",
-    "sponsorship_label": "No sponsorship for this position",
-    "url": "https://www.carvana.com/careers/apply?gh_jid=8068393"
+    "url": "https://www.carvana.com/careers/apply?gh_jid=8089955"
   },
   {
     "company": "Carvana",
@@ -230495,24 +230329,7 @@
   {
     "company": "Carvana",
     "title": "Quality Assurance Coordinator",
-    "location": "Seattle, WA",
-    "employment_type": "full-time",
-    "category": "Other",
-    "salary": "$21\u2013$22/hr",
-    "salary_min": 21.0,
-    "keywords": [
-      "sales",
-      "legal"
-    ],
-    "sponsorship_evidence": "&nbsp; This role is not eligible for visa sponsorship.",
-    "h1b_status": "does_not_support_h1b",
-    "sponsorship_label": "No sponsorship for this position",
-    "url": "https://www.carvana.com/careers/apply?gh_jid=8089955"
-  },
-  {
-    "company": "Carvana",
-    "title": "Quality Assurance Coordinator ",
-    "location": "Manville, NJ",
+    "location": "Belton, MO",
     "employment_type": "full-time",
     "category": "Other",
     "salary": "Not disclosed",
@@ -230524,7 +230341,24 @@
     "sponsorship_evidence": "&nbsp; This role is not eligible for visa sponsorship.",
     "h1b_status": "does_not_support_h1b",
     "sponsorship_label": "No sponsorship for this position",
-    "url": "https://www.carvana.com/careers/apply?gh_jid=8089871"
+    "url": "https://www.carvana.com/careers/apply?gh_jid=8068393"
+  },
+  {
+    "company": "Carvana",
+    "title": "Quality Assurance Coordinator",
+    "location": "Yaphank, NY",
+    "employment_type": "full-time",
+    "category": "Other",
+    "salary": "Not disclosed",
+    "salary_min": null,
+    "keywords": [
+      "sales",
+      "legal"
+    ],
+    "sponsorship_evidence": "&nbsp; This role is not eligible for visa sponsorship.",
+    "h1b_status": "does_not_support_h1b",
+    "sponsorship_label": "No sponsorship for this position",
+    "url": "https://www.carvana.com/careers/apply?gh_jid=8089794"
   },
   {
     "company": "Carvana",
@@ -230542,6 +230376,23 @@
     "h1b_status": "does_not_support_h1b",
     "sponsorship_label": "No sponsorship for this position",
     "url": "https://www.carvana.com/careers/apply?gh_jid=8089923"
+  },
+  {
+    "company": "Carvana",
+    "title": "Quality Assurance Coordinator ",
+    "location": "Manville, NJ",
+    "employment_type": "full-time",
+    "category": "Other",
+    "salary": "Not disclosed",
+    "salary_min": null,
+    "keywords": [
+      "sales",
+      "legal"
+    ],
+    "sponsorship_evidence": "&nbsp; This role is not eligible for visa sponsorship.",
+    "h1b_status": "does_not_support_h1b",
+    "sponsorship_label": "No sponsorship for this position",
+    "url": "https://www.carvana.com/careers/apply?gh_jid=8089871"
   },
   {
     "company": "Carvana",
@@ -230795,6 +230646,24 @@
   },
   {
     "company": "Carvana",
+    "title": "Reconditioning Manager - West Memphis",
+    "location": "West Memphis, AR",
+    "employment_type": "full-time",
+    "category": "Other",
+    "salary": "Not disclosed",
+    "salary_min": null,
+    "keywords": [
+      "recruiting",
+      "compliance",
+      "legal"
+    ],
+    "sponsorship_evidence": "&nbsp;</p> <p>This position is not eligible for visa sponsorship.",
+    "h1b_status": "does_not_support_h1b",
+    "sponsorship_label": "No sponsorship for this position",
+    "url": "https://www.carvana.com/careers/apply?gh_jid=8130357"
+  },
+  {
+    "company": "Carvana",
     "title": "Recruiter",
     "location": "Tempe, AZ",
     "employment_type": "full-time",
@@ -230917,22 +230786,6 @@
   {
     "company": "Carvana",
     "title": "Regional Senior Manager, Inventory Quality and Readiness",
-    "location": "Greenfield, IN",
-    "employment_type": "full-time",
-    "category": "Operations & Supply Chain",
-    "salary": "Not disclosed",
-    "salary_min": null,
-    "keywords": [
-      "legal"
-    ],
-    "sponsorship_evidence": "This role is not eligible for visa sponsorship.",
-    "h1b_status": "does_not_support_h1b",
-    "sponsorship_label": "No sponsorship for this position",
-    "url": "https://www.carvana.com/careers/apply?gh_jid=8084190"
-  },
-  {
-    "company": "Carvana",
-    "title": "Regional Senior Manager, Inventory Quality and Readiness",
     "location": "Heath, OH",
     "employment_type": "full-time",
     "category": "Operations & Supply Chain",
@@ -230964,20 +230817,19 @@
   },
   {
     "company": "Carvana",
-    "title": "Registration Processor",
-    "location": "Tempe, AZ",
+    "title": "Regional Senior Manager, Inventory Quality and Readiness",
+    "location": "Greenfield, IN",
     "employment_type": "full-time",
-    "category": "Other",
+    "category": "Operations & Supply Chain",
     "salary": "Not disclosed",
     "salary_min": null,
     "keywords": [
-      "tax",
       "legal"
     ],
     "sponsorship_evidence": "This role is not eligible for visa sponsorship.",
     "h1b_status": "does_not_support_h1b",
     "sponsorship_label": "No sponsorship for this position",
-    "url": "https://www.carvana.com/careers/apply?gh_jid=8055820"
+    "url": "https://www.carvana.com/careers/apply?gh_jid=8084190"
   },
   {
     "company": "Carvana",
@@ -230996,6 +230848,23 @@
     "h1b_status": "does_not_support_h1b",
     "sponsorship_label": "No sponsorship for this position",
     "url": "https://www.carvana.com/careers/apply?gh_jid=8082097"
+  },
+  {
+    "company": "Carvana",
+    "title": "Registration Processor",
+    "location": "Tempe, AZ",
+    "employment_type": "full-time",
+    "category": "Other",
+    "salary": "Not disclosed",
+    "salary_min": null,
+    "keywords": [
+      "tax",
+      "legal"
+    ],
+    "sponsorship_evidence": "This role is not eligible for visa sponsorship.",
+    "h1b_status": "does_not_support_h1b",
+    "sponsorship_label": "No sponsorship for this position",
+    "url": "https://www.carvana.com/careers/apply?gh_jid=8055820"
   },
   {
     "company": "Carvana",
@@ -231257,23 +231126,6 @@
   {
     "company": "Carvana",
     "title": "Security Associate - 1st Shift",
-    "location": "Manville, NJ",
-    "employment_type": "full-time",
-    "category": "Other",
-    "salary": "$18\u2013$19/hr",
-    "salary_min": 18.0,
-    "keywords": [
-      "logistics",
-      "legal"
-    ],
-    "sponsorship_evidence": "&nbsp; This role is not eligible for visa sponsorship.",
-    "h1b_status": "does_not_support_h1b",
-    "sponsorship_label": "No sponsorship for this position",
-    "url": "https://www.carvana.com/careers/apply?gh_jid=8106211"
-  },
-  {
-    "company": "Carvana",
-    "title": "Security Associate - 1st Shift",
     "location": "Memphis, TN",
     "employment_type": "full-time",
     "category": "Other",
@@ -231287,6 +231139,23 @@
     "h1b_status": "does_not_support_h1b",
     "sponsorship_label": "No sponsorship for this position",
     "url": "https://www.carvana.com/careers/apply?gh_jid=8148272"
+  },
+  {
+    "company": "Carvana",
+    "title": "Security Associate - 1st Shift",
+    "location": "Manville, NJ",
+    "employment_type": "full-time",
+    "category": "Other",
+    "salary": "$18\u2013$19/hr",
+    "salary_min": 18.0,
+    "keywords": [
+      "logistics",
+      "legal"
+    ],
+    "sponsorship_evidence": "&nbsp; This role is not eligible for visa sponsorship.",
+    "h1b_status": "does_not_support_h1b",
+    "sponsorship_label": "No sponsorship for this position",
+    "url": "https://www.carvana.com/careers/apply?gh_jid=8106211"
   },
   {
     "company": "Carvana",
@@ -231308,7 +231177,7 @@
   {
     "company": "Carvana",
     "title": "Security Associate - 2nd Shift",
-    "location": "Winder, GA",
+    "location": "Framingham, MA",
     "employment_type": "full-time",
     "category": "Other",
     "salary": "Not disclosed",
@@ -231320,58 +231189,7 @@
     "sponsorship_evidence": "&nbsp; This role is not eligible for visa sponsorship.",
     "h1b_status": "does_not_support_h1b",
     "sponsorship_label": "No sponsorship for this position",
-    "url": "https://www.carvana.com/careers/apply?gh_jid=8089323"
-  },
-  {
-    "company": "Carvana",
-    "title": "Security Associate - 2nd Shift",
-    "location": "Yaphank, NY",
-    "employment_type": "full-time",
-    "category": "Other",
-    "salary": "Not disclosed",
-    "salary_min": null,
-    "keywords": [
-      "logistics",
-      "legal"
-    ],
-    "sponsorship_evidence": "&nbsp; This role is not eligible for visa sponsorship.",
-    "h1b_status": "does_not_support_h1b",
-    "sponsorship_label": "No sponsorship for this position",
-    "url": "https://www.carvana.com/careers/apply?gh_jid=8095306"
-  },
-  {
-    "company": "Carvana",
-    "title": "Security Associate - 2nd Shift",
-    "location": "Blue Mound, TX",
-    "employment_type": "full-time",
-    "category": "Other",
-    "salary": "Not disclosed",
-    "salary_min": null,
-    "keywords": [
-      "logistics",
-      "legal"
-    ],
-    "sponsorship_evidence": "&nbsp; This role is not eligible for visa sponsorship.",
-    "h1b_status": "does_not_support_h1b",
-    "sponsorship_label": "No sponsorship for this position",
-    "url": "https://www.carvana.com/careers/apply?gh_jid=8130773"
-  },
-  {
-    "company": "Carvana",
-    "title": "Security Associate - 2nd Shift",
-    "location": "University Park, IL",
-    "employment_type": "full-time",
-    "category": "Other",
-    "salary": "$18.5\u2013$19.5/hr",
-    "salary_min": 18.5,
-    "keywords": [
-      "logistics",
-      "legal"
-    ],
-    "sponsorship_evidence": "&nbsp; This role is not eligible for visa sponsorship.",
-    "h1b_status": "does_not_support_h1b",
-    "sponsorship_label": "No sponsorship for this position",
-    "url": "https://www.carvana.com/careers/apply?gh_jid=8148264"
+    "url": "https://www.carvana.com/careers/apply?gh_jid=8126537"
   },
   {
     "company": "Carvana",
@@ -231393,6 +231211,23 @@
   {
     "company": "Carvana",
     "title": "Security Associate - 2nd Shift",
+    "location": "Winder, GA",
+    "employment_type": "full-time",
+    "category": "Other",
+    "salary": "Not disclosed",
+    "salary_min": null,
+    "keywords": [
+      "logistics",
+      "legal"
+    ],
+    "sponsorship_evidence": "&nbsp; This role is not eligible for visa sponsorship.",
+    "h1b_status": "does_not_support_h1b",
+    "sponsorship_label": "No sponsorship for this position",
+    "url": "https://www.carvana.com/careers/apply?gh_jid=8089323"
+  },
+  {
+    "company": "Carvana",
+    "title": "Security Associate - 2nd Shift",
     "location": "Delanco, NJ",
     "employment_type": "full-time",
     "category": "Other",
@@ -231410,23 +231245,6 @@
   {
     "company": "Carvana",
     "title": "Security Associate - 2nd Shift",
-    "location": "Framingham, MA",
-    "employment_type": "full-time",
-    "category": "Other",
-    "salary": "Not disclosed",
-    "salary_min": null,
-    "keywords": [
-      "logistics",
-      "legal"
-    ],
-    "sponsorship_evidence": "&nbsp; This role is not eligible for visa sponsorship.",
-    "h1b_status": "does_not_support_h1b",
-    "sponsorship_label": "No sponsorship for this position",
-    "url": "https://www.carvana.com/careers/apply?gh_jid=8126537"
-  },
-  {
-    "company": "Carvana",
-    "title": "Security Associate - 2nd Shift",
     "location": "Charlotte, NC",
     "employment_type": "full-time",
     "category": "Other",
@@ -231440,6 +231258,57 @@
     "h1b_status": "does_not_support_h1b",
     "sponsorship_label": "No sponsorship for this position",
     "url": "https://www.carvana.com/careers/apply?gh_jid=8148612"
+  },
+  {
+    "company": "Carvana",
+    "title": "Security Associate - 2nd Shift",
+    "location": "University Park, IL",
+    "employment_type": "full-time",
+    "category": "Other",
+    "salary": "$18.5\u2013$19.5/hr",
+    "salary_min": 18.5,
+    "keywords": [
+      "logistics",
+      "legal"
+    ],
+    "sponsorship_evidence": "&nbsp; This role is not eligible for visa sponsorship.",
+    "h1b_status": "does_not_support_h1b",
+    "sponsorship_label": "No sponsorship for this position",
+    "url": "https://www.carvana.com/careers/apply?gh_jid=8148264"
+  },
+  {
+    "company": "Carvana",
+    "title": "Security Associate - 2nd Shift",
+    "location": "Blue Mound, TX",
+    "employment_type": "full-time",
+    "category": "Other",
+    "salary": "Not disclosed",
+    "salary_min": null,
+    "keywords": [
+      "logistics",
+      "legal"
+    ],
+    "sponsorship_evidence": "&nbsp; This role is not eligible for visa sponsorship.",
+    "h1b_status": "does_not_support_h1b",
+    "sponsorship_label": "No sponsorship for this position",
+    "url": "https://www.carvana.com/careers/apply?gh_jid=8130773"
+  },
+  {
+    "company": "Carvana",
+    "title": "Security Associate - 2nd Shift",
+    "location": "Yaphank, NY",
+    "employment_type": "full-time",
+    "category": "Other",
+    "salary": "Not disclosed",
+    "salary_min": null,
+    "keywords": [
+      "logistics",
+      "legal"
+    ],
+    "sponsorship_evidence": "&nbsp; This role is not eligible for visa sponsorship.",
+    "h1b_status": "does_not_support_h1b",
+    "sponsorship_label": "No sponsorship for this position",
+    "url": "https://www.carvana.com/careers/apply?gh_jid=8095306"
   },
   {
     "company": "Carvana",
@@ -231478,6 +231347,40 @@
   {
     "company": "Carvana",
     "title": "Security Associate - 3rd Shift",
+    "location": "Blue Mound, TX",
+    "employment_type": "full-time",
+    "category": "Other",
+    "salary": "Not disclosed",
+    "salary_min": null,
+    "keywords": [
+      "logistics",
+      "legal"
+    ],
+    "sponsorship_evidence": "&nbsp; This role is not eligible for visa sponsorship.",
+    "h1b_status": "does_not_support_h1b",
+    "sponsorship_label": "No sponsorship for this position",
+    "url": "https://www.carvana.com/careers/apply?gh_jid=8130779"
+  },
+  {
+    "company": "Carvana",
+    "title": "Security Associate - 3rd Shift",
+    "location": "Hoffman Estates, IL",
+    "employment_type": "full-time",
+    "category": "Other",
+    "salary": "Not disclosed",
+    "salary_min": null,
+    "keywords": [
+      "logistics",
+      "legal"
+    ],
+    "sponsorship_evidence": "&nbsp; This role is not eligible for visa sponsorship.",
+    "h1b_status": "does_not_support_h1b",
+    "sponsorship_label": "No sponsorship for this position",
+    "url": "https://www.carvana.com/careers/apply?gh_jid=8139797"
+  },
+  {
+    "company": "Carvana",
+    "title": "Security Associate - 3rd Shift",
     "location": "Tolleson, AZ",
     "employment_type": "full-time",
     "category": "Other",
@@ -231491,23 +231394,6 @@
     "h1b_status": "does_not_support_h1b",
     "sponsorship_label": "No sponsorship for this position",
     "url": "https://www.carvana.com/careers/apply?gh_jid=8094545"
-  },
-  {
-    "company": "Carvana",
-    "title": "Security Associate - 3rd Shift",
-    "location": "Charlotte, NC",
-    "employment_type": "full-time",
-    "category": "Other",
-    "salary": "Not disclosed",
-    "salary_min": null,
-    "keywords": [
-      "logistics",
-      "legal"
-    ],
-    "sponsorship_evidence": "&nbsp; This role is not eligible for visa sponsorship.",
-    "h1b_status": "does_not_support_h1b",
-    "sponsorship_label": "No sponsorship for this position",
-    "url": "https://www.carvana.com/careers/apply?gh_jid=8148616"
   },
   {
     "company": "Carvana",
@@ -231529,7 +231415,7 @@
   {
     "company": "Carvana",
     "title": "Security Associate - 3rd Shift",
-    "location": "Blue Mound, TX",
+    "location": "Charlotte, NC",
     "employment_type": "full-time",
     "category": "Other",
     "salary": "Not disclosed",
@@ -231541,7 +231427,7 @@
     "sponsorship_evidence": "&nbsp; This role is not eligible for visa sponsorship.",
     "h1b_status": "does_not_support_h1b",
     "sponsorship_label": "No sponsorship for this position",
-    "url": "https://www.carvana.com/careers/apply?gh_jid=8130779"
+    "url": "https://www.carvana.com/careers/apply?gh_jid=8148616"
   },
   {
     "company": "Carvana",
@@ -231559,23 +231445,6 @@
     "h1b_status": "does_not_support_h1b",
     "sponsorship_label": "No sponsorship for this position",
     "url": "https://www.carvana.com/careers/apply?gh_jid=8137978"
-  },
-  {
-    "company": "Carvana",
-    "title": "Security Associate - 3rd Shift",
-    "location": "Hoffman Estates, IL",
-    "employment_type": "full-time",
-    "category": "Other",
-    "salary": "Not disclosed",
-    "salary_min": null,
-    "keywords": [
-      "logistics",
-      "legal"
-    ],
-    "sponsorship_evidence": "&nbsp; This role is not eligible for visa sponsorship.",
-    "h1b_status": "does_not_support_h1b",
-    "sponsorship_label": "No sponsorship for this position",
-    "url": "https://www.carvana.com/careers/apply?gh_jid=8139797"
   },
   {
     "company": "Carvana",
@@ -231648,6 +231517,24 @@
   {
     "company": "Carvana",
     "title": "Security Lead",
+    "location": "Tooele, UT",
+    "employment_type": "full-time",
+    "category": "Other",
+    "salary": "$50\u2013$62k/yr",
+    "salary_min": 50.0,
+    "keywords": [
+      "Excel",
+      "recruiting",
+      "legal"
+    ],
+    "sponsorship_evidence": "&nbsp; This role is not eligible for visa sponsorship.",
+    "h1b_status": "does_not_support_h1b",
+    "sponsorship_label": "No sponsorship for this position",
+    "url": "https://www.carvana.com/careers/apply?gh_jid=8042294"
+  },
+  {
+    "company": "Carvana",
+    "title": "Security Lead",
     "location": "Chesterfield, VA",
     "employment_type": "full-time",
     "category": "Other",
@@ -231662,24 +231549,6 @@
     "h1b_status": "does_not_support_h1b",
     "sponsorship_label": "No sponsorship for this position",
     "url": "https://www.carvana.com/careers/apply?gh_jid=8148294"
-  },
-  {
-    "company": "Carvana",
-    "title": "Security Lead",
-    "location": "Houston, TX",
-    "employment_type": "full-time",
-    "category": "Other",
-    "salary": "$50k\u2013$62k/yr",
-    "salary_min": 50000.0,
-    "keywords": [
-      "Excel",
-      "recruiting",
-      "legal"
-    ],
-    "sponsorship_evidence": "&nbsp; This role is not eligible for visa sponsorship.",
-    "h1b_status": "does_not_support_h1b",
-    "sponsorship_label": "No sponsorship for this position",
-    "url": "https://www.carvana.com/careers/apply?gh_jid=8125962"
   },
   {
     "company": "Carvana",
@@ -231702,11 +231571,11 @@
   {
     "company": "Carvana",
     "title": "Security Lead",
-    "location": "Tooele, UT",
+    "location": "Houston, TX",
     "employment_type": "full-time",
     "category": "Other",
-    "salary": "$50\u2013$62k/yr",
-    "salary_min": 50.0,
+    "salary": "$50k\u2013$62k/yr",
+    "salary_min": 50000.0,
     "keywords": [
       "Excel",
       "recruiting",
@@ -231715,7 +231584,7 @@
     "sponsorship_evidence": "&nbsp; This role is not eligible for visa sponsorship.",
     "h1b_status": "does_not_support_h1b",
     "sponsorship_label": "No sponsorship for this position",
-    "url": "https://www.carvana.com/careers/apply?gh_jid=8042294"
+    "url": "https://www.carvana.com/careers/apply?gh_jid=8125962"
   },
   {
     "company": "Carvana",
@@ -231891,20 +231760,6 @@
   {
     "company": "Carvana",
     "title": "Senior Automotive Technician",
-    "location": "Seattle, WA",
-    "employment_type": "full-time",
-    "category": "Other",
-    "salary": "$31\u2013$39/hr",
-    "salary_min": 31.0,
-    "keywords": [],
-    "sponsorship_evidence": "This role is not eligible for visa sponsorship.",
-    "h1b_status": "does_not_support_h1b",
-    "sponsorship_label": "No sponsorship for this position",
-    "url": "https://www.carvana.com/careers/apply?gh_jid=8060243"
-  },
-  {
-    "company": "Carvana",
-    "title": "Senior Automotive Technician",
     "location": "San Antonio, TX",
     "employment_type": "full-time",
     "category": "Other",
@@ -231918,17 +231773,17 @@
   },
   {
     "company": "Carvana",
-    "title": "Senior Automotive Technician ",
-    "location": "Houston, TX",
+    "title": "Senior Automotive Technician",
+    "location": "Seattle, WA",
     "employment_type": "full-time",
     "category": "Other",
-    "salary": "Not disclosed",
-    "salary_min": null,
+    "salary": "$31\u2013$39/hr",
+    "salary_min": 31.0,
     "keywords": [],
     "sponsorship_evidence": "This role is not eligible for visa sponsorship.",
     "h1b_status": "does_not_support_h1b",
     "sponsorship_label": "No sponsorship for this position",
-    "url": "https://www.carvana.com/careers/apply?gh_jid=8146148"
+    "url": "https://www.carvana.com/careers/apply?gh_jid=8060243"
   },
   {
     "company": "Carvana",
@@ -231943,6 +231798,20 @@
     "h1b_status": "does_not_support_h1b",
     "sponsorship_label": "No sponsorship for this position",
     "url": "https://www.carvana.com/careers/apply?gh_jid=8078023"
+  },
+  {
+    "company": "Carvana",
+    "title": "Senior Automotive Technician ",
+    "location": "Houston, TX",
+    "employment_type": "full-time",
+    "category": "Other",
+    "salary": "Not disclosed",
+    "salary_min": null,
+    "keywords": [],
+    "sponsorship_evidence": "This role is not eligible for visa sponsorship.",
+    "h1b_status": "does_not_support_h1b",
+    "sponsorship_label": "No sponsorship for this position",
+    "url": "https://www.carvana.com/careers/apply?gh_jid=8146148"
   },
   {
     "company": "Carvana",
@@ -232280,6 +232149,40 @@
   {
     "company": "Carvana",
     "title": "Senior Operations Manager",
+    "location": "Rocklin, CA ",
+    "employment_type": "full-time",
+    "category": "Operations & Supply Chain",
+    "salary": "Not disclosed",
+    "salary_min": null,
+    "keywords": [
+      "compliance",
+      "legal"
+    ],
+    "sponsorship_evidence": "This role is not eligible for visa sponsorship.",
+    "h1b_status": "does_not_support_h1b",
+    "sponsorship_label": "No sponsorship for this position",
+    "url": "https://www.carvana.com/careers/apply?gh_jid=7986171"
+  },
+  {
+    "company": "Carvana",
+    "title": "Senior Operations Manager",
+    "location": "San Antonio, Texas",
+    "employment_type": "full-time",
+    "category": "Operations & Supply Chain",
+    "salary": "Not disclosed",
+    "salary_min": null,
+    "keywords": [
+      "compliance",
+      "legal"
+    ],
+    "sponsorship_evidence": "This role is not eligible for visa sponsorship.",
+    "h1b_status": "does_not_support_h1b",
+    "sponsorship_label": "No sponsorship for this position",
+    "url": "https://www.carvana.com/careers/apply?gh_jid=8104405"
+  },
+  {
+    "company": "Carvana",
+    "title": "Senior Operations Manager",
     "location": "Tracy, CA",
     "employment_type": "full-time",
     "category": "Operations & Supply Chain",
@@ -232314,23 +232217,6 @@
   {
     "company": "Carvana",
     "title": "Senior Operations Manager",
-    "location": "San Antonio, Texas",
-    "employment_type": "full-time",
-    "category": "Operations & Supply Chain",
-    "salary": "Not disclosed",
-    "salary_min": null,
-    "keywords": [
-      "compliance",
-      "legal"
-    ],
-    "sponsorship_evidence": "This role is not eligible for visa sponsorship.",
-    "h1b_status": "does_not_support_h1b",
-    "sponsorship_label": "No sponsorship for this position",
-    "url": "https://www.carvana.com/careers/apply?gh_jid=8104405"
-  },
-  {
-    "company": "Carvana",
-    "title": "Senior Operations Manager",
     "location": "Oklahoma City, OK",
     "employment_type": "full-time",
     "category": "Operations & Supply Chain",
@@ -232344,40 +232230,6 @@
     "h1b_status": "does_not_support_h1b",
     "sponsorship_label": "No sponsorship for this position",
     "url": "https://www.carvana.com/careers/apply?gh_jid=8065802"
-  },
-  {
-    "company": "Carvana",
-    "title": "Senior Operations Manager",
-    "location": "Rocklin, CA ",
-    "employment_type": "full-time",
-    "category": "Operations & Supply Chain",
-    "salary": "Not disclosed",
-    "salary_min": null,
-    "keywords": [
-      "compliance",
-      "legal"
-    ],
-    "sponsorship_evidence": "This role is not eligible for visa sponsorship.",
-    "h1b_status": "does_not_support_h1b",
-    "sponsorship_label": "No sponsorship for this position",
-    "url": "https://www.carvana.com/careers/apply?gh_jid=7986171"
-  },
-  {
-    "company": "Carvana",
-    "title": "Senior Operations Manager - Chesterfield",
-    "location": "Chesterfield, VA",
-    "employment_type": "full-time",
-    "category": "Operations & Supply Chain",
-    "salary": "Not disclosed",
-    "salary_min": null,
-    "keywords": [
-      "compliance",
-      "legal"
-    ],
-    "sponsorship_evidence": "This role is not eligible for visa sponsorship.",
-    "h1b_status": "does_not_support_h1b",
-    "sponsorship_label": "No sponsorship for this position",
-    "url": "https://www.carvana.com/careers/apply?gh_jid=8044275"
   },
   {
     "company": "Carvana",
@@ -232395,6 +232247,23 @@
     "h1b_status": "does_not_support_h1b",
     "sponsorship_label": "No sponsorship for this position",
     "url": "https://www.carvana.com/careers/apply?gh_jid=8044276"
+  },
+  {
+    "company": "Carvana",
+    "title": "Senior Operations Manager - Chesterfield",
+    "location": "Chesterfield, VA",
+    "employment_type": "full-time",
+    "category": "Operations & Supply Chain",
+    "salary": "Not disclosed",
+    "salary_min": null,
+    "keywords": [
+      "compliance",
+      "legal"
+    ],
+    "sponsorship_evidence": "This role is not eligible for visa sponsorship.",
+    "h1b_status": "does_not_support_h1b",
+    "sponsorship_label": "No sponsorship for this position",
+    "url": "https://www.carvana.com/careers/apply?gh_jid=8044275"
   },
   {
     "company": "Carvana",
@@ -232434,23 +232303,6 @@
   {
     "company": "Carvana",
     "title": "Senior Operations Manager - Post Production - Elyria",
-    "location": "Anywhere USA",
-    "employment_type": "full-time",
-    "category": "Operations & Supply Chain",
-    "salary": "Not disclosed",
-    "salary_min": null,
-    "keywords": [
-      "compliance",
-      "legal"
-    ],
-    "sponsorship_evidence": "This role is not eligible for visa sponsorship.",
-    "h1b_status": "does_not_support_h1b",
-    "sponsorship_label": "No sponsorship for this position",
-    "url": "https://www.carvana.com/careers/apply?gh_jid=8106254"
-  },
-  {
-    "company": "Carvana",
-    "title": "Senior Operations Manager - Post Production - Elyria",
     "location": "Elyria, OH",
     "employment_type": "full-time",
     "category": "Operations & Supply Chain",
@@ -232464,6 +232316,23 @@
     "h1b_status": "does_not_support_h1b",
     "sponsorship_label": "No sponsorship for this position",
     "url": "https://www.carvana.com/careers/apply?gh_jid=8106253"
+  },
+  {
+    "company": "Carvana",
+    "title": "Senior Operations Manager - Post Production - Elyria",
+    "location": "Anywhere USA",
+    "employment_type": "full-time",
+    "category": "Operations & Supply Chain",
+    "salary": "Not disclosed",
+    "salary_min": null,
+    "keywords": [
+      "compliance",
+      "legal"
+    ],
+    "sponsorship_evidence": "This role is not eligible for visa sponsorship.",
+    "h1b_status": "does_not_support_h1b",
+    "sponsorship_label": "No sponsorship for this position",
+    "url": "https://www.carvana.com/careers/apply?gh_jid=8106254"
   },
   {
     "company": "Carvana",
@@ -232882,20 +232751,6 @@
   {
     "company": "Carvana",
     "title": "State Inspection Technician Post Production",
-    "location": "Dallas, TX",
-    "employment_type": "full-time",
-    "category": "Other",
-    "salary": "$18\u2013$22/hr",
-    "salary_min": 18.0,
-    "keywords": [],
-    "sponsorship_evidence": "This role is not eligible for visa sponsorship.",
-    "h1b_status": "does_not_support_h1b",
-    "sponsorship_label": "No sponsorship for this position",
-    "url": "https://www.carvana.com/careers/apply?gh_jid=8077660"
-  },
-  {
-    "company": "Carvana",
-    "title": "State Inspection Technician Post Production",
     "location": "San Antonio, TX",
     "employment_type": "full-time",
     "category": "Other",
@@ -232906,20 +232761,6 @@
     "h1b_status": "does_not_support_h1b",
     "sponsorship_label": "No sponsorship for this position",
     "url": "https://www.carvana.com/careers/apply?gh_jid=8079820"
-  },
-  {
-    "company": "Carvana",
-    "title": "State Inspection Technician Post Production",
-    "location": "Blue Mound, TX",
-    "employment_type": "full-time",
-    "category": "Other",
-    "salary": "$18\u2013$22/hr",
-    "salary_min": 18.0,
-    "keywords": [],
-    "sponsorship_evidence": "This role is not eligible for visa sponsorship.",
-    "h1b_status": "does_not_support_h1b",
-    "sponsorship_label": "No sponsorship for this position",
-    "url": "https://www.carvana.com/careers/apply?gh_jid=8144236"
   },
   {
     "company": "Carvana",
@@ -232937,17 +232778,31 @@
   },
   {
     "company": "Carvana",
-    "title": "State Inspection Technician, Post Production",
-    "location": "Akron, NY",
+    "title": "State Inspection Technician Post Production",
+    "location": "Dallas, TX",
     "employment_type": "full-time",
     "category": "Other",
-    "salary": "$19\u2013$22/hr",
-    "salary_min": 19.0,
+    "salary": "$18\u2013$22/hr",
+    "salary_min": 18.0,
     "keywords": [],
     "sponsorship_evidence": "This role is not eligible for visa sponsorship.",
     "h1b_status": "does_not_support_h1b",
     "sponsorship_label": "No sponsorship for this position",
-    "url": "https://www.carvana.com/careers/apply?gh_jid=8046673"
+    "url": "https://www.carvana.com/careers/apply?gh_jid=8077660"
+  },
+  {
+    "company": "Carvana",
+    "title": "State Inspection Technician Post Production",
+    "location": "Blue Mound, TX",
+    "employment_type": "full-time",
+    "category": "Other",
+    "salary": "$18\u2013$22/hr",
+    "salary_min": 18.0,
+    "keywords": [],
+    "sponsorship_evidence": "This role is not eligible for visa sponsorship.",
+    "h1b_status": "does_not_support_h1b",
+    "sponsorship_label": "No sponsorship for this position",
+    "url": "https://www.carvana.com/careers/apply?gh_jid=8144236"
   },
   {
     "company": "Carvana",
@@ -232976,6 +232831,20 @@
     "h1b_status": "does_not_support_h1b",
     "sponsorship_label": "No sponsorship for this position",
     "url": "https://www.carvana.com/careers/apply?gh_jid=8092010"
+  },
+  {
+    "company": "Carvana",
+    "title": "State Inspection Technician, Post Production",
+    "location": "Akron, NY",
+    "employment_type": "full-time",
+    "category": "Other",
+    "salary": "$19\u2013$22/hr",
+    "salary_min": 19.0,
+    "keywords": [],
+    "sponsorship_evidence": "This role is not eligible for visa sponsorship.",
+    "h1b_status": "does_not_support_h1b",
+    "sponsorship_label": "No sponsorship for this position",
+    "url": "https://www.carvana.com/careers/apply?gh_jid=8046673"
   },
   {
     "company": "Carvana",
@@ -233166,23 +233035,6 @@
   {
     "company": "Carvana",
     "title": "Team Lead, Market Operations",
-    "location": "Manville, NJ",
-    "employment_type": "full-time",
-    "category": "Operations & Supply Chain",
-    "salary": "Not disclosed",
-    "salary_min": null,
-    "keywords": [
-      "logistics",
-      "legal"
-    ],
-    "sponsorship_evidence": "",
-    "h1b_status": "unknown",
-    "sponsorship_label": "Not specified",
-    "url": "https://www.carvana.com/careers/apply?gh_jid=7842672"
-  },
-  {
-    "company": "Carvana",
-    "title": "Team Lead, Market Operations",
     "location": "Minneapolis, MN",
     "employment_type": "full-time",
     "category": "Operations & Supply Chain",
@@ -233196,6 +233048,23 @@
     "h1b_status": "unknown",
     "sponsorship_label": "Not specified",
     "url": "https://www.carvana.com/careers/apply?gh_jid=8017058"
+  },
+  {
+    "company": "Carvana",
+    "title": "Team Lead, Market Operations",
+    "location": "Framingham, MA",
+    "employment_type": "full-time",
+    "category": "Operations & Supply Chain",
+    "salary": "Not disclosed",
+    "salary_min": null,
+    "keywords": [
+      "logistics",
+      "legal"
+    ],
+    "sponsorship_evidence": "",
+    "h1b_status": "unknown",
+    "sponsorship_label": "Not specified",
+    "url": "https://www.carvana.com/careers/apply?gh_jid=8008436"
   },
   {
     "company": "Carvana",
@@ -233217,7 +233086,7 @@
   {
     "company": "Carvana",
     "title": "Team Lead, Market Operations",
-    "location": "Framingham, MA",
+    "location": "Manville, NJ",
     "employment_type": "full-time",
     "category": "Operations & Supply Chain",
     "salary": "Not disclosed",
@@ -233229,7 +233098,7 @@
     "sponsorship_evidence": "",
     "h1b_status": "unknown",
     "sponsorship_label": "Not specified",
-    "url": "https://www.carvana.com/careers/apply?gh_jid=8008436"
+    "url": "https://www.carvana.com/careers/apply?gh_jid=7842672"
   },
   {
     "company": "Carvana",
@@ -233382,7 +233251,7 @@
     "sponsorship_evidence": "",
     "h1b_status": "unknown",
     "sponsorship_label": "Not specified",
-    "url": "https://www.carvana.com/careers/apply?gh_jid=7527210"
+    "url": "https://www.carvana.com/careers/apply?gh_jid=7833471"
   },
   {
     "company": "Carvana",
@@ -233416,7 +233285,7 @@
     "sponsorship_evidence": "",
     "h1b_status": "unknown",
     "sponsorship_label": "Not specified",
-    "url": "https://www.carvana.com/careers/apply?gh_jid=7833471"
+    "url": "https://www.carvana.com/careers/apply?gh_jid=7527210"
   },
   {
     "company": "Carvana",
@@ -233654,7 +233523,7 @@
     "sponsorship_evidence": "",
     "h1b_status": "unknown",
     "sponsorship_label": "Not specified",
-    "url": "https://www.carvana.com/careers/apply?gh_jid=7414491"
+    "url": "https://www.carvana.com/careers/apply?gh_jid=7414488"
   },
   {
     "company": "Carvana",
@@ -233705,7 +233574,7 @@
     "sponsorship_evidence": "",
     "h1b_status": "unknown",
     "sponsorship_label": "Not specified",
-    "url": "https://www.carvana.com/careers/apply?gh_jid=7414488"
+    "url": "https://www.carvana.com/careers/apply?gh_jid=7414491"
   },
   {
     "company": "Carvana",
@@ -233767,6 +233636,23 @@
     "salary": "Not disclosed",
     "salary_min": null,
     "keywords": [
+      "compliance",
+      "legal"
+    ],
+    "sponsorship_evidence": "This position is not eligible for visa sponsorship.",
+    "h1b_status": "does_not_support_h1b",
+    "sponsorship_label": "No sponsorship for this position",
+    "url": "https://www.carvana.com/careers/apply?gh_jid=8053938"
+  },
+  {
+    "company": "Carvana",
+    "title": "Team Lead, Market Operations - University Park, IL ",
+    "location": "Anywhere, USA",
+    "employment_type": "full-time",
+    "category": "Operations & Supply Chain",
+    "salary": "Not disclosed",
+    "salary_min": null,
+    "keywords": [
       "logistics",
       "legal"
     ],
@@ -233794,23 +233680,6 @@
   },
   {
     "company": "Carvana",
-    "title": "Team Lead, Market Operations - University Park, IL ",
-    "location": "Anywhere, USA",
-    "employment_type": "full-time",
-    "category": "Operations & Supply Chain",
-    "salary": "Not disclosed",
-    "salary_min": null,
-    "keywords": [
-      "compliance",
-      "legal"
-    ],
-    "sponsorship_evidence": "This position is not eligible for visa sponsorship.",
-    "h1b_status": "does_not_support_h1b",
-    "sponsorship_label": "No sponsorship for this position",
-    "url": "https://www.carvana.com/careers/apply?gh_jid=8053938"
-  },
-  {
-    "company": "Carvana",
     "title": "Team Lead Template",
     "location": "Colonial Heights, VA",
     "employment_type": "full-time",
@@ -233829,23 +233698,6 @@
   {
     "company": "Carvana",
     "title": "Technician I/II, Facilities, Property Operations",
-    "location": "Flint, MI",
-    "employment_type": "full-time",
-    "category": "Operations & Supply Chain",
-    "salary": "Not disclosed",
-    "salary_min": null,
-    "keywords": [
-      "compliance",
-      "legal"
-    ],
-    "sponsorship_evidence": "&nbsp; This role is not eligible for visa sponsorship.",
-    "h1b_status": "does_not_support_h1b",
-    "sponsorship_label": "No sponsorship for this position",
-    "url": "https://www.carvana.com/careers/apply?gh_jid=8096866"
-  },
-  {
-    "company": "Carvana",
-    "title": "Technician I/II, Facilities, Property Operations",
     "location": "Mira Loma, CA",
     "employment_type": "full-time",
     "category": "Operations & Supply Chain",
@@ -233859,6 +233711,23 @@
     "h1b_status": "does_not_support_h1b",
     "sponsorship_label": "No sponsorship for this position",
     "url": "https://www.carvana.com/careers/apply?gh_jid=8096820"
+  },
+  {
+    "company": "Carvana",
+    "title": "Technician I/II, Facilities, Property Operations",
+    "location": "Flint, MI",
+    "employment_type": "full-time",
+    "category": "Operations & Supply Chain",
+    "salary": "Not disclosed",
+    "salary_min": null,
+    "keywords": [
+      "compliance",
+      "legal"
+    ],
+    "sponsorship_evidence": "&nbsp; This role is not eligible for visa sponsorship.",
+    "h1b_status": "does_not_support_h1b",
+    "sponsorship_label": "No sponsorship for this position",
+    "url": "https://www.carvana.com/careers/apply?gh_jid=8096866"
   },
   {
     "company": "Carvana",
@@ -233894,23 +233763,6 @@
   {
     "company": "Carvana",
     "title": "Title Administrator ",
-    "location": "Framingham, MA",
-    "employment_type": "full-time",
-    "category": "Other",
-    "salary": "$18\u2013$20/hr",
-    "salary_min": 18.0,
-    "keywords": [
-      "sales",
-      "legal"
-    ],
-    "sponsorship_evidence": "&nbsp; This role is not eligible for visa sponsorship.",
-    "h1b_status": "does_not_support_h1b",
-    "sponsorship_label": "No sponsorship for this position",
-    "url": "https://www.carvana.com/careers/apply?gh_jid=8105931"
-  },
-  {
-    "company": "Carvana",
-    "title": "Title Administrator ",
     "location": "Boise, ID",
     "employment_type": "full-time",
     "category": "Other",
@@ -233924,6 +233776,23 @@
     "h1b_status": "does_not_support_h1b",
     "sponsorship_label": "No sponsorship for this position",
     "url": "https://www.carvana.com/careers/apply?gh_jid=8132319"
+  },
+  {
+    "company": "Carvana",
+    "title": "Title Administrator ",
+    "location": "Framingham, MA",
+    "employment_type": "full-time",
+    "category": "Other",
+    "salary": "$18\u2013$20/hr",
+    "salary_min": 18.0,
+    "keywords": [
+      "sales",
+      "legal"
+    ],
+    "sponsorship_evidence": "&nbsp; This role is not eligible for visa sponsorship.",
+    "h1b_status": "does_not_support_h1b",
+    "sponsorship_label": "No sponsorship for this position",
+    "url": "https://www.carvana.com/careers/apply?gh_jid=8105931"
   },
   {
     "company": "Carvana",
@@ -234011,30 +233880,16 @@
   {
     "company": "Carvana",
     "title": "Vehicle Condition Associate",
-    "location": "Greenfield, IN",
+    "location": "Concord, NC",
     "employment_type": "full-time",
     "category": "Other",
-    "salary": "$18\u2013$19/hr",
-    "salary_min": 18.0,
+    "salary": "Not disclosed",
+    "salary_min": null,
     "keywords": [],
     "sponsorship_evidence": "This position is not eligible for visa sponsorship.",
     "h1b_status": "does_not_support_h1b",
     "sponsorship_label": "No sponsorship for this position",
-    "url": "https://www.carvana.com/careers/apply?gh_jid=8027312"
-  },
-  {
-    "company": "Carvana",
-    "title": "Vehicle Condition Associate",
-    "location": "University Park, IL",
-    "employment_type": "full-time",
-    "category": "Other",
-    "salary": "$20\u2013$21/hr",
-    "salary_min": 20.0,
-    "keywords": [],
-    "sponsorship_evidence": "This position is not eligible for visa sponsorship.",
-    "h1b_status": "does_not_support_h1b",
-    "sponsorship_label": "No sponsorship for this position",
-    "url": "https://www.carvana.com/careers/apply?gh_jid=7977031"
+    "url": "https://www.carvana.com/careers/apply?gh_jid=8128833"
   },
   {
     "company": "Carvana",
@@ -234053,16 +233908,16 @@
   {
     "company": "Carvana",
     "title": "Vehicle Condition Associate",
-    "location": "Concord, NC",
+    "location": "Greenfield, IN",
     "employment_type": "full-time",
     "category": "Other",
-    "salary": "Not disclosed",
-    "salary_min": null,
+    "salary": "$18\u2013$19/hr",
+    "salary_min": 18.0,
     "keywords": [],
     "sponsorship_evidence": "This position is not eligible for visa sponsorship.",
     "h1b_status": "does_not_support_h1b",
     "sponsorship_label": "No sponsorship for this position",
-    "url": "https://www.carvana.com/careers/apply?gh_jid=8128833"
+    "url": "https://www.carvana.com/careers/apply?gh_jid=8027312"
   },
   {
     "company": "Carvana",
@@ -234080,35 +233935,17 @@
   },
   {
     "company": "Carvana",
-    "title": "Vehicle Delivery Driver",
-    "location": "Raleigh, NC",
+    "title": "Vehicle Condition Associate",
+    "location": "University Park, IL",
     "employment_type": "full-time",
     "category": "Other",
-    "salary": "$17\u2013$19/hr",
-    "salary_min": 17.0,
-    "keywords": [
-      "legal"
-    ],
-    "sponsorship_evidence": "</em>This role is not eligible for visa sponsorship.",
+    "salary": "$20\u2013$21/hr",
+    "salary_min": 20.0,
+    "keywords": [],
+    "sponsorship_evidence": "This position is not eligible for visa sponsorship.",
     "h1b_status": "does_not_support_h1b",
     "sponsorship_label": "No sponsorship for this position",
-    "url": "https://www.carvana.com/careers/apply?gh_jid=7985382"
-  },
-  {
-    "company": "Carvana",
-    "title": "Vehicle Delivery Driver",
-    "location": "Hendersonville, NC",
-    "employment_type": "full-time",
-    "category": "Other",
-    "salary": "$17\u2013$19/hr",
-    "salary_min": 17.0,
-    "keywords": [
-      "legal"
-    ],
-    "sponsorship_evidence": "</em>This role is not eligible for visa sponsorship.",
-    "h1b_status": "does_not_support_h1b",
-    "sponsorship_label": "No sponsorship for this position",
-    "url": "https://www.carvana.com/careers/apply?gh_jid=7872592"
+    "url": "https://www.carvana.com/careers/apply?gh_jid=7977031"
   },
   {
     "company": "Carvana",
@@ -234125,6 +233962,22 @@
     "h1b_status": "does_not_support_h1b",
     "sponsorship_label": "No sponsorship for this position",
     "url": "https://www.carvana.com/careers/apply?gh_jid=8048885"
+  },
+  {
+    "company": "Carvana",
+    "title": "Vehicle Delivery Driver",
+    "location": "Hendersonville, NC",
+    "employment_type": "full-time",
+    "category": "Other",
+    "salary": "$17\u2013$19/hr",
+    "salary_min": 17.0,
+    "keywords": [
+      "legal"
+    ],
+    "sponsorship_evidence": "</em>This role is not eligible for visa sponsorship.",
+    "h1b_status": "does_not_support_h1b",
+    "sponsorship_label": "No sponsorship for this position",
+    "url": "https://www.carvana.com/careers/apply?gh_jid=7872592"
   },
   {
     "company": "Carvana",
@@ -234272,6 +234125,22 @@
   },
   {
     "company": "Carvana",
+    "title": "Vehicle Delivery Driver",
+    "location": "Raleigh, NC",
+    "employment_type": "full-time",
+    "category": "Other",
+    "salary": "$17\u2013$19/hr",
+    "salary_min": 17.0,
+    "keywords": [
+      "legal"
+    ],
+    "sponsorship_evidence": "</em>This role is not eligible for visa sponsorship.",
+    "h1b_status": "does_not_support_h1b",
+    "sponsorship_label": "No sponsorship for this position",
+    "url": "https://www.carvana.com/careers/apply?gh_jid=7985382"
+  },
+  {
+    "company": "Carvana",
     "title": "Vehicle Delivery Driver - 4 day work week! ",
     "location": "Minneapolis, MN",
     "employment_type": "full-time",
@@ -234347,6 +234216,42 @@
     "h1b_status": "does_not_support_h1b",
     "sponsorship_label": "No sponsorship for this position",
     "url": "https://www.carvana.com/careers/apply?gh_jid=8014349"
+  },
+  {
+    "company": "Carvana",
+    "title": "Vehicle Inspector ",
+    "location": "San Antonio, TX",
+    "employment_type": "full-time",
+    "category": "Other",
+    "salary": "$18\u2013$20/hr",
+    "salary_min": 18.0,
+    "keywords": [
+      "sales",
+      "legal",
+      "contracts"
+    ],
+    "sponsorship_evidence": "&nbsp; This role is not eligible for visa sponsorship.",
+    "h1b_status": "does_not_support_h1b",
+    "sponsorship_label": "No sponsorship for this position",
+    "url": "https://www.carvana.com/careers/apply?gh_jid=8092621"
+  },
+  {
+    "company": "Carvana",
+    "title": "Vehicle Inspector ",
+    "location": "Bradenton, FL",
+    "employment_type": "full-time",
+    "category": "Other",
+    "salary": "Not disclosed",
+    "salary_min": null,
+    "keywords": [
+      "sales",
+      "legal",
+      "contracts"
+    ],
+    "sponsorship_evidence": "&nbsp; This role is not eligible for visa sponsorship.",
+    "h1b_status": "does_not_support_h1b",
+    "sponsorship_label": "No sponsorship for this position",
+    "url": "https://www.carvana.com/careers/apply?gh_jid=8055289"
   },
   {
     "company": "Carvana",
@@ -234441,11 +234346,11 @@
   {
     "company": "Carvana",
     "title": "Vehicle Inspector ",
-    "location": "Ocala, FL",
+    "location": "Flint, MI",
     "employment_type": "full-time",
     "category": "Other",
-    "salary": "$16\u2013$17/hr",
-    "salary_min": 16.0,
+    "salary": "$18\u2013$20/hr",
+    "salary_min": 18.0,
     "keywords": [
       "sales",
       "legal",
@@ -234454,7 +234359,7 @@
     "sponsorship_evidence": "&nbsp; This role is not eligible for visa sponsorship.",
     "h1b_status": "does_not_support_h1b",
     "sponsorship_label": "No sponsorship for this position",
-    "url": "https://www.carvana.com/careers/apply?gh_jid=8084268"
+    "url": "https://www.carvana.com/careers/apply?gh_jid=8049852"
   },
   {
     "company": "Carvana",
@@ -234477,11 +234382,11 @@
   {
     "company": "Carvana",
     "title": "Vehicle Inspector ",
-    "location": "Bradenton, FL",
+    "location": "Ocala, FL",
     "employment_type": "full-time",
     "category": "Other",
-    "salary": "Not disclosed",
-    "salary_min": null,
+    "salary": "$16\u2013$17/hr",
+    "salary_min": 16.0,
     "keywords": [
       "sales",
       "legal",
@@ -234490,43 +234395,7 @@
     "sponsorship_evidence": "&nbsp; This role is not eligible for visa sponsorship.",
     "h1b_status": "does_not_support_h1b",
     "sponsorship_label": "No sponsorship for this position",
-    "url": "https://www.carvana.com/careers/apply?gh_jid=8055289"
-  },
-  {
-    "company": "Carvana",
-    "title": "Vehicle Inspector ",
-    "location": "San Antonio, TX",
-    "employment_type": "full-time",
-    "category": "Other",
-    "salary": "$18\u2013$20/hr",
-    "salary_min": 18.0,
-    "keywords": [
-      "sales",
-      "legal",
-      "contracts"
-    ],
-    "sponsorship_evidence": "&nbsp; This role is not eligible for visa sponsorship.",
-    "h1b_status": "does_not_support_h1b",
-    "sponsorship_label": "No sponsorship for this position",
-    "url": "https://www.carvana.com/careers/apply?gh_jid=8092621"
-  },
-  {
-    "company": "Carvana",
-    "title": "Vehicle Inspector ",
-    "location": "Flint, MI",
-    "employment_type": "full-time",
-    "category": "Other",
-    "salary": "$18\u2013$20/hr",
-    "salary_min": 18.0,
-    "keywords": [
-      "sales",
-      "legal",
-      "contracts"
-    ],
-    "sponsorship_evidence": "&nbsp; This role is not eligible for visa sponsorship.",
-    "h1b_status": "does_not_support_h1b",
-    "sponsorship_label": "No sponsorship for this position",
-    "url": "https://www.carvana.com/careers/apply?gh_jid=8049852"
+    "url": "https://www.carvana.com/careers/apply?gh_jid=8084268"
   },
   {
     "company": "Carvana",
@@ -241618,40 +241487,6 @@
     "h1b_status": "unknown",
     "sponsorship_label": "Not specified",
     "url": "https://amat.wd1.myworkdayjobs.com/en-US/External/job/KalispellMT/Operations-and-Customer-Quality-Engineer-III_R2626395"
-  },
-  {
-    "company": "Applied Materials",
-    "title": "Quality Engineer",
-    "location": "Santa Clara,CA",
-    "employment_type": "full-time",
-    "category": "Engineering",
-    "salary": "Not disclosed",
-    "salary_min": null,
-    "keywords": [
-      "Python",
-      "electrical engineering",
-      "sales"
-    ],
-    "sponsorship_evidence": "",
-    "h1b_status": "unknown",
-    "sponsorship_label": "Not specified",
-    "url": "https://amat.wd1.myworkdayjobs.com/en-US/External/job/Santa-ClaraCA/Quality-Engineer_R2622282"
-  },
-  {
-    "company": "Applied Materials",
-    "title": "Build Manufacturing Engineer",
-    "location": "Austin,TX",
-    "employment_type": "full-time",
-    "category": "Engineering",
-    "salary": "Not disclosed",
-    "salary_min": null,
-    "keywords": [
-      "sales"
-    ],
-    "sponsorship_evidence": "",
-    "h1b_status": "unknown",
-    "sponsorship_label": "Not specified",
-    "url": "https://amat.wd1.myworkdayjobs.com/en-US/External/job/AustinTX/Build-Manufacturing-Engineer_R2626617"
   },
   {
     "company": "Analog Devices",
