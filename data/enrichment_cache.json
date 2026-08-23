@@ -44857,7 +44857,7 @@
   },
   "greenhouse:Coupang:7919896": {
     "company": "Coupang",
-    "enriched_at": "2026-08-22T01:49:34.473438+00:00",
+    "enriched_at": "2026-08-23T01:58:58.053810+00:00",
     "external_id": "7919896",
     "h1b_mentioned": false,
     "h1b_status": "unknown",
@@ -44873,7 +44873,7 @@
     "salary_period": "year",
     "salary_text": "$114,000/year",
     "source": "greenhouse",
-    "source_updated_at": "2026-08-21T20:54:11-04:00",
+    "source_updated_at": "2026-08-22T20:53:15-04:00",
     "sponsorship_evidence": ""
   },
   "greenhouse:Coupang:7931249": {
@@ -45111,7 +45111,7 @@
   },
   "greenhouse:Coupang:8025195": {
     "company": "Coupang",
-    "enriched_at": "2026-08-22T01:49:34.497083+00:00",
+    "enriched_at": "2026-08-23T01:58:58.084727+00:00",
     "external_id": "8025195",
     "h1b_mentioned": false,
     "h1b_status": "unknown",
@@ -45132,12 +45132,12 @@
     "salary_period": "year",
     "salary_text": "$174,000K/year",
     "source": "greenhouse",
-    "source_updated_at": "2026-08-21T20:54:24-04:00",
+    "source_updated_at": "2026-08-22T20:53:29-04:00",
     "sponsorship_evidence": ""
   },
   "greenhouse:Coupang:8036987": {
     "company": "Coupang",
-    "enriched_at": "2026-08-22T01:49:34.484426+00:00",
+    "enriched_at": "2026-08-23T01:58:58.068195+00:00",
     "external_id": "8036987",
     "h1b_mentioned": false,
     "h1b_status": "unknown",
@@ -45158,7 +45158,7 @@
     "salary_period": "year",
     "salary_text": "$164K/year",
     "source": "greenhouse",
-    "source_updated_at": "2026-08-21T20:54:21-04:00",
+    "source_updated_at": "2026-08-22T20:53:26-04:00",
     "sponsorship_evidence": ""
   },
   "greenhouse:Coupang:8056265": {
@@ -45257,7 +45257,7 @@
   },
   "greenhouse:Coupang:8075427": {
     "company": "Coupang",
-    "enriched_at": "2026-08-22T01:49:34.509440+00:00",
+    "enriched_at": "2026-08-23T01:58:58.100784+00:00",
     "external_id": "8075427",
     "h1b_mentioned": false,
     "h1b_status": "unknown",
@@ -45275,7 +45275,7 @@
     "salary_period": "year",
     "salary_text": "$164/year",
     "source": "greenhouse",
-    "source_updated_at": "2026-08-21T20:54:27-04:00",
+    "source_updated_at": "2026-08-22T20:53:33-04:00",
     "sponsorship_evidence": ""
   },
   "greenhouse:Coupang:8076145": {
@@ -356565,6 +356565,22 @@
     "source_updated_at": "",
     "sponsorship_evidence": ""
   },
+  "workday:Thermo Fisher Scientific:/job/Carlsbad-California-USA/Sr-Inventory-Management-Specialist_R-01364750": {
+    "company": "Thermo Fisher Scientific",
+    "enriched_at": "2026-08-23T02:05:43.633435+00:00",
+    "external_id": "/job/Carlsbad-California-USA/Sr-Inventory-Management-Specialist_R-01364750",
+    "h1b_mentioned": false,
+    "h1b_status": "unknown",
+    "keywords": [],
+    "salary_currency": "",
+    "salary_max": null,
+    "salary_min": null,
+    "salary_period": "",
+    "salary_text": "",
+    "source": "workday",
+    "source_updated_at": "",
+    "sponsorship_evidence": ""
+  },
   "workday:Thermo Fisher Scientific:/job/Carlsbad-California-USA/Sr-Manager--Americas-Regional-Marketing----Clinical-Next-Generation-Sequencing_R-01358226": {
     "company": "Thermo Fisher Scientific",
     "enriched_at": "2026-08-22T02:08:44.615803+00:00",
@@ -362732,6 +362748,26 @@
     "source_updated_at": "",
     "sponsorship_evidence": ""
   },
+  "workday:Thermo Fisher Scientific:/job/Madison-Wisconsin-USA/Sr-Staff-Program-Manager_R-01364521": {
+    "company": "Thermo Fisher Scientific",
+    "enriched_at": "2026-08-23T02:05:43.661004+00:00",
+    "external_id": "/job/Madison-Wisconsin-USA/Sr-Staff-Program-Manager_R-01364521",
+    "h1b_mentioned": false,
+    "h1b_status": "unknown",
+    "keywords": [
+      "Excel",
+      "risk management",
+      "CAD"
+    ],
+    "salary_currency": "",
+    "salary_max": null,
+    "salary_min": null,
+    "salary_period": "",
+    "salary_text": "",
+    "source": "workday",
+    "source_updated_at": "",
+    "sponsorship_evidence": ""
+  },
   "workday:Thermo Fisher Scientific:/job/Madison-Wisconsin-USA/Technical-Sourcing-Mechanical-Engineer-III_R-01348661": {
     "company": "Thermo Fisher Scientific",
     "enriched_at": "2026-08-22T02:08:45.770185+00:00",
@@ -368484,6 +368520,22 @@
     "source_updated_at": "",
     "sponsorship_evidence": ""
   },
+  "workday:Thermo Fisher Scientific:/job/Remote-Oregon-USA/Staff-Scientist--Cell-Biology-_R-01361264": {
+    "company": "Thermo Fisher Scientific",
+    "enriched_at": "2026-08-23T02:05:43.671785+00:00",
+    "external_id": "/job/Remote-Oregon-USA/Staff-Scientist--Cell-Biology-_R-01361264",
+    "h1b_mentioned": false,
+    "h1b_status": "unknown",
+    "keywords": [],
+    "salary_currency": "",
+    "salary_max": null,
+    "salary_min": null,
+    "salary_period": "",
+    "salary_text": "",
+    "source": "workday",
+    "source_updated_at": "",
+    "sponsorship_evidence": ""
+  },
   "workday:Thermo Fisher Scientific:/job/Remote-Pennsylvania-USA/Account-Manager-III_R-01360053": {
     "company": "Thermo Fisher Scientific",
     "enriched_at": "2026-08-22T02:08:44.347264+00:00",
@@ -370432,6 +370484,24 @@
       "logistics",
       "procurement",
       "compliance"
+    ],
+    "salary_currency": "",
+    "salary_max": null,
+    "salary_min": null,
+    "salary_period": "",
+    "salary_text": "",
+    "source": "workday",
+    "source_updated_at": "",
+    "sponsorship_evidence": ""
+  },
+  "workday:Thermo Fisher Scientific:/job/San-Jose-California-USA/Sr-Manager--Electrical-Engineering_R-01363744": {
+    "company": "Thermo Fisher Scientific",
+    "enriched_at": "2026-08-23T02:05:43.651488+00:00",
+    "external_id": "/job/San-Jose-California-USA/Sr-Manager--Electrical-Engineering_R-01363744",
+    "h1b_mentioned": false,
+    "h1b_status": "unknown",
+    "keywords": [
+      "electrical engineering"
     ],
     "salary_currency": "",
     "salary_max": null,
