@@ -146853,7 +146853,7 @@
   },
   "workday:Lowe's:/job/Columbia-SC-NE-Columbia-0433/Sales-Specialist-Flooring_JR-02619874": {
     "company": "Lowe's",
-    "enriched_at": "2026-08-16T13:08:44.975589+00:00",
+    "enriched_at": "2026-08-23T13:09:34.324771+00:00",
     "external_id": "/job/Columbia-SC-NE-Columbia-0433/Sales-Specialist-Flooring_JR-02619874",
     "h1b_mentioned": false,
     "h1b_status": "unknown",
@@ -273988,6 +273988,26 @@
     "h1b_status": "unknown",
     "keywords": [
       "Python",
+      "compliance"
+    ],
+    "salary_currency": "",
+    "salary_max": null,
+    "salary_min": null,
+    "salary_period": "",
+    "salary_text": "",
+    "source": "workday",
+    "source_updated_at": "",
+    "sponsorship_evidence": ""
+  },
+  "workday:RTX:/job/IN-TS-HYDERABAD-B3F7--DLF-Cybercity-Gachibowli--DLF-CYBERCITY-GACHIBOWLI-B3F7-7th-Fl-in-Block-3/Associate-Engineer_01868645": {
+    "company": "RTX",
+    "enriched_at": "2026-08-23T13:06:05.088477+00:00",
+    "external_id": "/job/IN-TS-HYDERABAD-B3F7--DLF-Cybercity-Gachibowli--DLF-CYBERCITY-GACHIBOWLI-B3F7-7th-Fl-in-Block-3/Associate-Engineer_01868645",
+    "h1b_mentioned": false,
+    "h1b_status": "unknown",
+    "keywords": [
+      "Python",
+      "electrical engineering",
       "compliance"
     ],
     "salary_currency": "",
