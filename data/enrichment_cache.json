@@ -45531,6 +45531,27 @@
     "source_updated_at": "2026-08-11T23:37:37-04:00",
     "sponsorship_evidence": ""
   },
+  "greenhouse:Coupang:8143394": {
+    "company": "Coupang",
+    "enriched_at": "2026-08-23T07:00:30.780504+00:00",
+    "external_id": "8143394",
+    "h1b_mentioned": false,
+    "h1b_status": "unknown",
+    "keywords": [
+      "Excel",
+      "tax",
+      "logistics",
+      "recruiting"
+    ],
+    "salary_currency": "USD",
+    "salary_max": 89000.0,
+    "salary_min": 89000.0,
+    "salary_period": "year",
+    "salary_text": "$89,000/year",
+    "source": "greenhouse",
+    "source_updated_at": "2026-08-22T23:21:17-04:00",
+    "sponsorship_evidence": ""
+  },
   "greenhouse:DoorDash:3547200": {
     "company": "DoorDash",
     "enriched_at": "2026-08-19T18:52:32.582570+00:00",
@@ -84500,7 +84521,7 @@
   },
   "workday:Capital One:/job/New-York-NY/Lead-Software-Engineer_R249350": {
     "company": "Capital One",
-    "enriched_at": "2026-08-16T06:58:38.517220+00:00",
+    "enriched_at": "2026-08-23T07:01:06.316080+00:00",
     "external_id": "/job/New-York-NY/Lead-Software-Engineer_R249350",
     "h1b_mentioned": true,
     "h1b_status": "does_not_support_h1b",
@@ -88941,7 +88962,7 @@
   },
   "workday:Capital One:/job/Riverwoods-IL/Lead-Software-Engineer--DevOps--Cloud-Operations-Resilience-Engineering-_R249128-1": {
     "company": "Capital One",
-    "enriched_at": "2026-08-16T06:58:38.508969+00:00",
+    "enriched_at": "2026-08-23T07:01:06.325049+00:00",
     "external_id": "/job/Riverwoods-IL/Lead-Software-Engineer--DevOps--Cloud-Operations-Resilience-Engineering-_R249128-1",
     "h1b_mentioned": true,
     "h1b_status": "does_not_support_h1b",
@@ -98344,6 +98365,26 @@
     "source_updated_at": "",
     "sponsorship_evidence": ""
   },
+  "workday:Cisco Systems:/job/Allentown-Pennsylvania-US/Component-Engineer_2022350": {
+    "company": "Cisco Systems",
+    "enriched_at": "2026-08-23T07:09:52.218706+00:00",
+    "external_id": "/job/Allentown-Pennsylvania-US/Component-Engineer_2022350",
+    "h1b_mentioned": false,
+    "h1b_status": "unknown",
+    "keywords": [
+      "Excel",
+      "supply chain",
+      "sales"
+    ],
+    "salary_currency": "",
+    "salary_max": null,
+    "salary_min": null,
+    "salary_period": "",
+    "salary_text": "",
+    "source": "workday",
+    "source_updated_at": "",
+    "sponsorship_evidence": ""
+  },
   "workday:Cisco Systems:/job/Atlanta-Georgia-US/Account-Executive--Portfolio---Global-Enterprise-Sales--Atlanta_2019918": {
     "company": "Cisco Systems",
     "enriched_at": "2026-08-20T02:02:14.679882+00:00",
@@ -98920,6 +98961,28 @@
     "h1b_status": "unknown",
     "keywords": [
       "Python",
+      "sales"
+    ],
+    "salary_currency": "",
+    "salary_max": null,
+    "salary_min": null,
+    "salary_period": "",
+    "salary_text": "",
+    "source": "workday",
+    "source_updated_at": "",
+    "sponsorship_evidence": ""
+  },
+  "workday:Cisco Systems:/job/Holmdel-New-Jersey-US/Integrated-Photonic-Test-Engineer---Acacia--Hybrid-_2023812": {
+    "company": "Cisco Systems",
+    "enriched_at": "2026-08-23T07:09:52.205623+00:00",
+    "external_id": "/job/Holmdel-New-Jersey-US/Integrated-Photonic-Test-Engineer---Acacia--Hybrid-_2023812",
+    "h1b_mentioned": false,
+    "h1b_status": "unknown",
+    "keywords": [
+      "Python",
+      "C#",
+      "SQL",
+      "analytics",
       "sales"
     ],
     "salary_currency": "",
@@ -101299,6 +101362,25 @@
     "company": "Cisco Systems",
     "enriched_at": "2026-08-22T02:06:32.201340+00:00",
     "external_id": "/job/RTP-North-Carolina-US/Software-Engineering-Technical-Leader_2021005",
+    "h1b_mentioned": false,
+    "h1b_status": "unknown",
+    "keywords": [
+      "Python",
+      "sales"
+    ],
+    "salary_currency": "",
+    "salary_max": null,
+    "salary_min": null,
+    "salary_period": "",
+    "salary_text": "",
+    "source": "workday",
+    "source_updated_at": "",
+    "sponsorship_evidence": ""
+  },
+  "workday:Cisco Systems:/job/RTP-North-Carolina-US/Solution-Test-Engineer_2021232": {
+    "company": "Cisco Systems",
+    "enriched_at": "2026-08-23T07:09:52.232207+00:00",
+    "external_id": "/job/RTP-North-Carolina-US/Solution-Test-Engineer_2021232",
     "h1b_mentioned": false,
     "h1b_status": "unknown",
     "keywords": [
@@ -142981,7 +143063,7 @@
   },
   "workday:Lowe's:/job/Albuquerque-NM-Central-Albuquerque-2539/Full-Time---Sales-Associate---Tools---Day_JR-02619831": {
     "company": "Lowe's",
-    "enriched_at": "2026-08-16T02:05:53.446433+00:00",
+    "enriched_at": "2026-08-23T07:09:29.101514+00:00",
     "external_id": "/job/Albuquerque-NM-Central-Albuquerque-2539/Full-Time---Sales-Associate---Tools---Day_JR-02619831",
     "h1b_mentioned": false,
     "h1b_status": "unknown",
@@ -145658,7 +145740,7 @@
   },
   "workday:Lowe's:/job/Chesapeake-VA-W-Chesapeake-0709/Full-Time---Loader-Cart-Associate---Opening_JR-02619828": {
     "company": "Lowe's",
-    "enriched_at": "2026-08-16T02:05:53.455990+00:00",
+    "enriched_at": "2026-08-23T07:09:29.112981+00:00",
     "external_id": "/job/Chesapeake-VA-W-Chesapeake-0709/Full-Time---Loader-Cart-Associate---Opening_JR-02619828",
     "h1b_mentioned": false,
     "h1b_status": "unknown",
@@ -146644,7 +146726,7 @@
   },
   "workday:Lowe's:/job/Columbia-SC-Irmo-0385/Full-Time---Sales-Specialist---ProServices---Day_JR-02618870-1": {
     "company": "Lowe's",
-    "enriched_at": "2026-08-16T02:05:53.502213+00:00",
+    "enriched_at": "2026-08-23T07:09:29.170107+00:00",
     "external_id": "/job/Columbia-SC-Irmo-0385/Full-Time---Sales-Specialist---ProServices---Day_JR-02618870-1",
     "h1b_mentioned": false,
     "h1b_status": "unknown",
@@ -146753,7 +146835,7 @@
   },
   "workday:Lowe's:/job/Columbia-SC-NE-Columbia-0433/Sales-Floor-Dept-Supervisor---Electrical---Plumbing_JR-02619269-1": {
     "company": "Lowe's",
-    "enriched_at": "2026-08-16T02:05:53.494818+00:00",
+    "enriched_at": "2026-08-23T07:09:29.160891+00:00",
     "external_id": "/job/Columbia-SC-NE-Columbia-0433/Sales-Floor-Dept-Supervisor---Electrical---Plumbing_JR-02619269-1",
     "h1b_mentioned": false,
     "h1b_status": "unknown",
@@ -150061,7 +150143,7 @@
   },
   "workday:Lowe's:/job/Honolulu-HI-Iwilei-2336/Full-Time---Cashier---Day_JR-02619796": {
     "company": "Lowe's",
-    "enriched_at": "2026-08-16T02:05:53.484184+00:00",
+    "enriched_at": "2026-08-23T07:09:29.147688+00:00",
     "external_id": "/job/Honolulu-HI-Iwilei-2336/Full-Time---Cashier---Day_JR-02619796",
     "h1b_mentioned": false,
     "h1b_status": "unknown",
@@ -150098,7 +150180,7 @@
   },
   "workday:Lowe's:/job/Honolulu-HI-Iwilei-2336/Full-Time---Fulfillment-Associate---Day_JR-02619810": {
     "company": "Lowe's",
-    "enriched_at": "2026-08-16T02:05:53.466965+00:00",
+    "enriched_at": "2026-08-23T07:09:29.126408+00:00",
     "external_id": "/job/Honolulu-HI-Iwilei-2336/Full-Time---Fulfillment-Associate---Day_JR-02619810",
     "h1b_mentioned": false,
     "h1b_status": "unknown",
@@ -150154,7 +150236,7 @@
   },
   "workday:Lowe's:/job/Honolulu-HI-Iwilei-2336/Full-Time---Loader-Cart-Associate---Day_JR-02619799": {
     "company": "Lowe's",
-    "enriched_at": "2026-08-16T02:05:53.473842+00:00",
+    "enriched_at": "2026-08-23T07:09:29.135005+00:00",
     "external_id": "/job/Honolulu-HI-Iwilei-2336/Full-Time---Loader-Cart-Associate---Day_JR-02619799",
     "h1b_mentioned": false,
     "h1b_status": "unknown",
@@ -158978,7 +159060,7 @@
   },
   "workday:Lowe's:/job/Phoenix-AZ-N-Phoenix-1204/Sales-Floor-Dept-Supervisor---Pro-Services-Building-Materials_JR-02613725-1": {
     "company": "Lowe's",
-    "enriched_at": "2026-08-16T02:05:53.438894+00:00",
+    "enriched_at": "2026-08-23T07:09:29.091893+00:00",
     "external_id": "/job/Phoenix-AZ-N-Phoenix-1204/Sales-Floor-Dept-Supervisor---Pro-Services-Building-Materials_JR-02613725-1",
     "h1b_mentioned": false,
     "h1b_status": "unknown",
@@ -171755,7 +171837,7 @@
   },
   "workday:Micron Technology:/job/Boise-ID---Main-Site/Intern---DRAM-PI_JR107483": {
     "company": "Micron Technology",
-    "enriched_at": "2026-08-16T07:00:39.462712+00:00",
+    "enriched_at": "2026-08-23T07:03:49.546209+00:00",
     "external_id": "/job/Boise-ID---Main-Site/Intern---DRAM-PI_JR107483",
     "h1b_mentioned": false,
     "h1b_status": "unknown",
@@ -175964,7 +176046,7 @@
   },
   "workday:Micron Technology:/job/Boise-ID---Main-Site/Staff-Security-Engineer_JR108829": {
     "company": "Micron Technology",
-    "enriched_at": "2026-08-16T07:00:39.471394+00:00",
+    "enriched_at": "2026-08-23T07:03:49.535574+00:00",
     "external_id": "/job/Boise-ID---Main-Site/Staff-Security-Engineer_JR108829",
     "h1b_mentioned": false,
     "h1b_status": "unknown",
@@ -177876,7 +177958,7 @@
   },
   "workday:Micron Technology:/job/Manassas-VA----Fab-6/Security-Specialist---Insider-Risk--Threat-Intelligence---Physical-Security--AI---Automation_JR108833": {
     "company": "Micron Technology",
-    "enriched_at": "2026-08-16T07:00:39.479795+00:00",
+    "enriched_at": "2026-08-23T07:03:49.556699+00:00",
     "external_id": "/job/Manassas-VA----Fab-6/Security-Specialist---Insider-Risk--Threat-Intelligence---Physical-Security--AI---Automation_JR108833",
     "h1b_mentioned": false,
     "h1b_status": "unknown",
@@ -349254,6 +349336,26 @@
     "source_updated_at": "",
     "sponsorship_evidence": ""
   },
+  "workday:S&P Global:/job/New-York-NY/Associate-Director--Business-Strategy_330136-1": {
+    "company": "S&P Global",
+    "enriched_at": "2026-08-23T07:03:53.334928+00:00",
+    "external_id": "/job/New-York-NY/Associate-Director--Business-Strategy_330136-1",
+    "h1b_mentioned": false,
+    "h1b_status": "unknown",
+    "keywords": [
+      "supply chain",
+      "sales",
+      "compliance"
+    ],
+    "salary_currency": "",
+    "salary_max": null,
+    "salary_min": null,
+    "salary_period": "",
+    "salary_text": "",
+    "source": "workday",
+    "source_updated_at": "",
+    "sponsorship_evidence": ""
+  },
   "workday:S&P Global:/job/New-York-NY/Associate-Director--Financial-Analysis_331054-1": {
     "company": "S&P Global",
     "enriched_at": "2026-08-19T07:07:39.494410+00:00",
@@ -349619,7 +349721,7 @@
   },
   "workday:S&P Global:/job/New-York-NY/Vice-President--Program-Lead---Agentic-Software---Product-Development-Life-Cycle--ATOM-_331044": {
     "company": "S&P Global",
-    "enriched_at": "2026-08-16T07:00:43.049309+00:00",
+    "enriched_at": "2026-08-23T07:03:53.352414+00:00",
     "external_id": "/job/New-York-NY/Vice-President--Program-Lead---Agentic-Software---Product-Development-Life-Cycle--ATOM-_331044",
     "h1b_mentioned": false,
     "h1b_status": "unknown",
@@ -367025,6 +367127,24 @@
     "h1b_mentioned": false,
     "h1b_status": "does_not_support_h1b",
     "keywords": [],
+    "salary_currency": "",
+    "salary_max": null,
+    "salary_min": null,
+    "salary_period": "",
+    "salary_text": "",
+    "source": "workday",
+    "source_updated_at": "",
+    "sponsorship_evidence": "Must be legally authorized to work in the United States without sponsorship."
+  },
+  "workday:Thermo Fisher Scientific:/job/Remote-Kentucky-USA/Project-Design-Manager--Central-Labs_R-01364356": {
+    "company": "Thermo Fisher Scientific",
+    "enriched_at": "2026-08-23T07:11:05.861243+00:00",
+    "external_id": "/job/Remote-Kentucky-USA/Project-Design-Manager--Central-Labs_R-01364356",
+    "h1b_mentioned": false,
+    "h1b_status": "does_not_support_h1b",
+    "keywords": [
+      "contracts"
+    ],
     "salary_currency": "",
     "salary_max": null,
     "salary_min": null,
