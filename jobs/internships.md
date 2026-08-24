@@ -1,18 +1,18 @@
 # F500Tracker internships
 
-Last updated: August 24, 2026 at 02:07 UTC
+Last updated: August 24, 2026 at 07:31 UTC
 
-Current internships: 113
+Current internships: 155
 
 ## Categories
 
-[Software & IT (5)](#software-it) · [Data & AI (2)](#data-ai) · [Engineering (5)](#engineering) · [Finance & Accounting (5)](#finance-accounting) · [Sales & Marketing (1)](#sales-marketing) · [Operations & Supply Chain (7)](#operations-supply-chain) · [People & Legal (3)](#people-legal) · [Other (85)](#other)
+[Software & IT (6)](#software-it) · [Data & AI (4)](#data-ai) · [Engineering (18)](#engineering) · [Finance & Accounting (6)](#finance-accounting) · [Sales & Marketing (1)](#sales-marketing) · [Operations & Supply Chain (8)](#operations-supply-chain) · [People & Legal (3)](#people-legal) · [Other (109)](#other)
 
 <a id="software-it"></a>
 
 ## Software & IT
 
-Open positions: 5
+Open positions: 6
 
 | Rank | Company | Position | Location | Category | Salary | Keywords | Sponsorship | Apply |
 |---:|---|---|---|---|---|---|---|---|
@@ -21,6 +21,7 @@ Open positions: 5
 | 112 | Northrop Grumman | 2027 Intern Software Engineer | United States-Florida-Melbourne | Software & IT | Not disclosed | — | Not specified | [Apply](https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-Florida-Melbourne/XMLNAME-2027-Intern-Software-Engineer_R10242395) |
 | 84 | HP | Enterprise Operations Software Internship | Spring, Texas, United States of America | Software & IT | $31–$37/hr | Python · Java · SQL · React · AWS | Not specified | [Apply](https://hp.wd5.myworkdayjobs.com/en-US/ExternalCareerSite/job/Spring-Texas-United-States-of-America/Enterprise-Operations-Software-Internship_3167271-2) |
 | 84 | HP | Software Internship Roles - HP Solutions (HPS) | Spring, Texas, United States of America | Software & IT | $31–$37/hr | Python · Java · JavaScript · TypeScript · SQL | Not specified | [Apply](https://hp.wd5.myworkdayjobs.com/en-US/ExternalCareerSite/job/Spring-Texas-United-States-of-America/Software-Internship-Roles---HP-Solutions--HPS-_3167906-1) |
+| 44 | Walt Disney | Glendale System Software Engineering Internship, Spring 2027 | Glendale, CA, USA | Software & IT | Not disclosed | C# · Excel · mechanical engineering · electrical engineering | Not specified | [Apply](https://disney.wd5.myworkdayjobs.com/en-US/disneycareer/job/Glendale-CA-USA/Glendale-System-Software-Engineering-Internship--Spring-2027_10158137) |
 
 [Back to categories](#categories) · [Back to README](../README.md)
 
@@ -28,11 +29,13 @@ Open positions: 5
 
 ## Data & AI
 
-Open positions: 2
+Open positions: 4
 
 | Rank | Company | Position | Location | Category | Salary | Keywords | Sponsorship | Apply |
 |---:|---|---|---|---|---|---|---|---|
 | 26 | Fannie Mae | Campus – Data Science Intern (Analytics & Modeling Program) | Washington, DC | Data & AI | Not disclosed | Python · SQL · artificial intelligence · data science · analytics | No sponsorship for this position | [Apply](https://fanniemae.wd1.myworkdayjobs.com/en-US/FannieMaeCareers/job/Washington-DC/Campus---Data-Science-Intern--Analytics---Modeling-Program-_JR2815) |
+| 44 | Walt Disney | Labor Systems Data Analytics & Integration Intern, Spring 2027 | Lake Buena Vista, FL, USA | Data & AI | $31/hr | data science · analytics | Not specified | [Apply](https://disney.wd5.myworkdayjobs.com/en-US/disneycareer/job/Lake-Buena-Vista-FL-USA/Labor-Systems-Data-Analytics---Integration-Intern--Spring-2027_10157891-1) |
+| 44 | Walt Disney | Walt Disney World Transportation Logistics & Analytics Intern, Spring 2027 | Lake Buena Vista, FL, USA | Data & AI | $31/hr | Python · SQL · data science · analytics · supply chain | Not specified | [Apply](https://disney.wd5.myworkdayjobs.com/en-US/disneycareer/job/Lake-Buena-Vista-FL-USA/Walt-Disney-World-Transportation-Logistics---Analytics-Intern--Spring-2027_10158253-1) |
 | 49 | RTX | Stage – Hiver 2027 – Soutien numérique et intelligence d’affaires (Informatique) / Internship - Winter 2027 Digital Support & Business Intelligence Intern (Computer Science) | CA-QC-LONGUEUIL-J01 ~ 1000 Blvd Marie-Victorin ~ J01 BLDG | Data & AI | Not disclosed | SQL · data science · analytics · Excel | Not specified | [Apply](https://globalhr.wd5.myworkdayjobs.com/en-US/REC_RTX_Ext_Gateway/job/CA-QC-LONGUEUIL-J01--1000-Blvd-Marie-Victorin--J01-BLDG/Stage---Hiver-2027---Soutien-numrique-et-intelligence-d-affaires--Informatique----Internship---Winter-2027-Digital-Support---Business-Intelligence-Intern--Computer-Science-_01866869) |
 
 [Back to categories](#categories) · [Back to README](../README.md)
@@ -41,12 +44,25 @@ Open positions: 2
 
 ## Engineering
 
-Open positions: 5
+Open positions: 18
 
 | Rank | Company | Position | Location | Category | Salary | Keywords | Sponsorship | Apply |
 |---:|---|---|---|---|---|---|---|---|
 | 84 | HP | Technology & Innovation Organization Electrical Engineering Internship | Corvallis, Oregon, United States of America | Engineering | $29–$35/hr | electrical engineering | Not specified | [Apply](https://hp.wd5.myworkdayjobs.com/en-US/ExternalCareerSite/job/Corvallis-Oregon-United-States-of-America/Technology---Innovation-Organization-Electrical-Engineering-Internship_3167270-1) |
 | 125 | Micron Technology | Intern - TD Site Industrial Engineer | Boise, ID - Main Site | Engineering | Not disclosed | Python · SQL · Excel · supply chain | Not specified | [Apply](https://micron.wd1.myworkdayjobs.com/en-US/External/job/Boise-ID---Main-Site/Intern---TD-Site-Industrial-Engineer_JR108729) |
+| 44 | Walt Disney | Disneyland Civil Facilities and Utilities Intern, Spring 2026 | Anaheim, CA, USA | Engineering | Not disclosed | procurement | Not specified | [Apply](https://disney.wd5.myworkdayjobs.com/en-US/disneycareer/job/Anaheim-CA-USA/Disneyland-Civil-Facilities-and-Utilities-Intern--Spring-2026_10158736-2) |
+| 44 | Walt Disney | Disneyland Electrical Engineering Intern, Spring 2027 | Anaheim, CA, USA | Engineering | Not disclosed | Excel · electrical engineering · legal | Not specified | [Apply](https://disney.wd5.myworkdayjobs.com/en-US/disneycareer/job/Anaheim-CA-USA/Disneyland-Electrical-Engineering-Intern--Spring-2027_10158423) |
+| 44 | Walt Disney | Disneyland Facilities Controls Electrical Engineering Intern, Spring 2027 | Anaheim, CA, USA | Engineering | Not disclosed | mechanical engineering · electrical engineering · legal | Not specified | [Apply](https://disney.wd5.myworkdayjobs.com/en-US/disneycareer/job/Anaheim-CA-USA/Disneyland-Facilities-Controls-Electrical-Engineering-Intern--Spring-2027_10158296) |
+| 44 | Walt Disney | Disneyland Facilities Mechanical Engineering Intern, Spring 2027 | Anaheim, CA, USA | Engineering | Not disclosed | mechanical engineering | Not specified | [Apply](https://disney.wd5.myworkdayjobs.com/en-US/disneycareer/job/Anaheim-CA-USA/Disneyland-Facilities-Mechanical-Engineering-Intern--Spring-2027_10158306) |
+| 44 | Walt Disney | Disneyland Mechanical Engineering Intern, Spring 2027 | Anaheim, CA, USA | Engineering | Not disclosed | mechanical engineering · SolidWorks · legal | Not specified | [Apply](https://disney.wd5.myworkdayjobs.com/en-US/disneycareer/job/Anaheim-CA-USA/Disneyland-Mechanical-Engineering-Intern--Spring-2027_10158421-2) |
+| 44 | Walt Disney | Disneyland Power and Facilities Electrical Engineering Intern, Spring 2027 | Anaheim, CA, USA | Engineering | Not disclosed | Excel · electrical engineering | Not specified | [Apply](https://disney.wd5.myworkdayjobs.com/en-US/disneycareer/job/Anaheim-CA-USA/Disneyland-Power-and-Facilities-Electrical-Engineering-Intern--Spring-2027_10158314) |
+| 44 | Walt Disney | WDI Show Mechanical Design & Production Intern, Glendale, Spring 2027 | Glendale, CA, USA | Engineering | $26.5/hr | CAD · SolidWorks | Not specified | [Apply](https://disney.wd5.myworkdayjobs.com/en-US/disneycareer/job/Glendale-CA-USA/WDI-Show-Mechanical-Design---Production-Intern--Glendale--Spring-2027_10158499) |
+| 44 | Walt Disney | WDI Show Mechanical Engineering Intern, Glendale, Spring 2027 | Glendale, CA, USA | Engineering | $31/hr | mechanical engineering · SolidWorks | Not specified | [Apply](https://disney.wd5.myworkdayjobs.com/en-US/disneycareer/job/Glendale-CA-USA/WDI-Show-Mechanical-Engineering-Intern--Glendale--Spring-2027_10158506) |
+| 44 | Walt Disney | WDI Civil Engineering Intern, Orlando, Spring 2027 | Lake Buena Vista, FL, USA | Engineering | $31/hr | electrical engineering · contracts | Not specified | [Apply](https://disney.wd5.myworkdayjobs.com/en-US/disneycareer/job/Lake-Buena-Vista-FL-USA/WDI-Civil-Engineering-Intern--Orlando--Spring-2027_10158161-1) |
+| 44 | Walt Disney | WDI Show Mechanical Design & Production Intern, Orlando, Spring 2027 | Celebration, FL, USA | Engineering | $26.5/hr | CAD · SolidWorks | Not specified | [Apply](https://disney.wd5.myworkdayjobs.com/en-US/disneycareer/job/Celebration-FL-USA/WDI-Show-Mechanical-Design---Production-Intern--Orlando--Spring-2027_10158494-1) |
+| 44 | Walt Disney | WDI Show Mechanical Engineering Intern, Orlando, Spring 2027 | Lake Buena Vista, FL, USA | Engineering | $31/hr | mechanical engineering · SolidWorks | Not specified | [Apply](https://disney.wd5.myworkdayjobs.com/en-US/disneycareer/job/Lake-Buena-Vista-FL-USA/WDI-Show-Mechanical-Engineering-Intern--Orlando--Spring-2027_10158505) |
+| 44 | Walt Disney | WDI Show Mechanical Engineering Intern, Surface Development, Orlando, Spring 2027 | Celebration, FL, USA | Engineering | $31/hr | mechanical engineering · SolidWorks | Not specified | [Apply](https://disney.wd5.myworkdayjobs.com/en-US/disneycareer/job/Celebration-FL-USA/WDI-Show-Mechanical-Engineering-Intern--Surface-Development--Orlando--Spring-2027_10158502) |
+| 44 | Walt Disney | Walt Disney World Workforce Management Industrial Engineering Intern, Spring/Summer 2027 | Lake Buena Vista, FL, USA | Engineering | $31/hr | Python · SQL · data science · analytics · Excel | Not specified | [Apply](https://disney.wd5.myworkdayjobs.com/en-US/disneycareer/job/Lake-Buena-Vista-FL-USA/Walt-Disney-World-Workforce-Management-Industrial-Engineering-Intern--Spring-Summer-2027_10158144) |
 | 49 | RTX | Stage - Hiver 2027 – Ingénieur Qualité / Internship - Winter 2027 - Quality Engineer | CA-QC-LONGUEUIL-J01 ~ 1000 Blvd Marie-Victorin ~ J01 BLDG | Engineering | Not disclosed | — | Not specified | [Apply](https://globalhr.wd5.myworkdayjobs.com/en-US/REC_RTX_Ext_Gateway/job/CA-QC-LONGUEUIL-J01--1000-Blvd-Marie-Victorin--J01-BLDG/XMLNAME--Stage---Hiver-2027---Ingnieur-Qualit---Internship---Winter-2027---Quality-Engineer_01864619) |
 | 49 | RTX | Stage - Hiver 2027 - Bureau de la Règlementation sur les Produits / Internship  Winter 2027 - Global Chemical Regulations Office | CA-QC-LONGUEUIL-J01 ~ 1000 Blvd Marie-Victorin ~ J01 BLDG | Engineering | Not disclosed | compliance | Not specified | [Apply](https://globalhr.wd5.myworkdayjobs.com/en-US/REC_RTX_Ext_Gateway/job/CA-QC-LONGUEUIL-J01--1000-Blvd-Marie-Victorin--J01-BLDG/Stage---Hiver-2027---Bureau-de-la-Rglementation-sur-les-Produits---Internship--Winter-2027---Global-Chemical-Regulations-Office_01864165) |
 | 49 | RTX | 2027 Stage Hiver - Stagiaire en Hygiene industrielle / 2027 Winter Internship - Industrial Hygiene intern | CA-QC-LONGUEUIL-J01 ~ 1000 Blvd Marie-Victorin ~ J01 BLDG | Engineering | Not disclosed | — | Not specified | [Apply](https://globalhr.wd5.myworkdayjobs.com/en-US/REC_RTX_Ext_Gateway/job/CA-QC-LONGUEUIL-J01--1000-Blvd-Marie-Victorin--J01-BLDG/XMLNAME-2027-Stage-Hiver---Stagiaire-en-Hygiene-industrielle---2027-Winter-Internship---Industrial-Hygiene-intern_01864096) |
@@ -57,10 +73,11 @@ Open positions: 5
 
 ## Finance & Accounting
 
-Open positions: 5
+Open positions: 6
 
 | Rank | Company | Position | Location | Category | Salary | Keywords | Sponsorship | Apply |
 |---:|---|---|---|---|---|---|---|---|
+| 45 | Johnson & Johnson | Summer 2027 Finance Internship – El Paso, TX/Juarez, MX | El Paso, Texas, United States of America | Finance & Accounting | $26/hr | analytics · Excel · accounting · supply chain · legal | Not specified | [Apply](https://jj.wd5.myworkdayjobs.com/en-US/JJ/job/El-Paso-Texas-United-States-of-America/Summer-2027-Finance-Internship---El-Paso--TX-Juarez--MX_R-095343) |
 | 49 | RTX | Stage - Hiver 2027 - Analyste en comptabilité financière / Internship - Winter 2027 - Financial Accounting Analyst | CA-QC-LONGUEUIL-J01 ~ 1000 Blvd Marie-Victorin ~ J01 BLDG | Finance & Accounting | Not disclosed | React · Excel · accounting · audit | Not specified | [Apply](https://globalhr.wd5.myworkdayjobs.com/en-US/REC_RTX_Ext_Gateway/job/CA-QC-LONGUEUIL-J01--1000-Blvd-Marie-Victorin--J01-BLDG/Stage---Hiver-2027---Analyste-en-comptabilit-financire---Internship---Winter-2027---Financial-Accounting-Analyst-_01867256) |
 | 49 | RTX | Stage - Hiver 2027 - Département de fiscalité / Internship - Winter 2027 - Tax Department | CA-QC-LONGUEUIL-J01 ~ 1000 Blvd Marie-Victorin ~ J01 BLDG | Finance & Accounting | Not disclosed | accounting · tax | Not specified | [Apply](https://globalhr.wd5.myworkdayjobs.com/en-US/REC_RTX_Ext_Gateway/job/CA-QC-LONGUEUIL-J01--1000-Blvd-Marie-Victorin--J01-BLDG/Stage---Hiver-2027---Dpartement-de-fiscalit---Internship---Winter-2027---Tax-Department_01865926) |
 | 49 | RTX | Stage Hiver 2027 - Analyste financier - Trésorerie / Internship Winter 2027 - Finance Analyst - Treasury | CA-QC-LONGUEUIL-J01 ~ 1000 Blvd Marie-Victorin ~ J01 BLDG | Finance & Accounting | Not disclosed | Excel · accounting | Not specified | [Apply](https://globalhr.wd5.myworkdayjobs.com/en-US/REC_RTX_Ext_Gateway/job/CA-QC-LONGUEUIL-J01--1000-Blvd-Marie-Victorin--J01-BLDG/Stage-Hiver-2027---Analyste-financier---Trsorerie---Internship-Winter-2027---Finance-Analyst---Treasury_01864403) |
@@ -85,12 +102,13 @@ Open positions: 1
 
 ## Operations & Supply Chain
 
-Open positions: 7
+Open positions: 8
 
 | Rank | Company | Position | Location | Category | Salary | Keywords | Sponsorship | Apply |
 |---:|---|---|---|---|---|---|---|---|
 | 84 | HP | Enterprise Operations Business Internship | Spring, Texas, United States of America | Operations & Supply Chain | $23–$32/hr | Python · SQL · artificial intelligence · analytics · Excel | Not specified | [Apply](https://hp.wd5.myworkdayjobs.com/en-US/ExternalCareerSite/job/Spring-Texas-United-States-of-America/Enterprise-Operations-Business-Internship_3166959-2) |
 | 84 | HP | Enterprise Operations Engineering Internship | Spring, Texas, United States of America | Operations & Supply Chain | $29–$35/hr | Python · SQL · machine learning · analytics · Excel | Not specified | [Apply](https://hp.wd5.myworkdayjobs.com/en-US/ExternalCareerSite/job/Spring-Texas-United-States-of-America/Enterprise-Operations-Engineering-Internship_3166958-1) |
+| 44 | Walt Disney | Walt Disney World Procurement Services Intern, Spring 2027 | Lake Buena Vista, FL, USA | Operations & Supply Chain | Not disclosed | Excel · accounting · supply chain · procurement | Not specified | [Apply](https://disney.wd5.myworkdayjobs.com/en-US/disneycareer/job/Lake-Buena-Vista-FL-USA/Walt-Disney-World-Procurement-Services-Intern--Spring-2027_10159048) |
 | 45 | Johnson & Johnson | Operations Co-Op | Athens, Georgia, United States of America | Operations & Supply Chain | Not disclosed | risk management · compliance | Not specified | [Apply](https://jj.wd5.myworkdayjobs.com/en-US/JJ/job/Athens-Georgia-United-States-of-America/Operations-Co-Op_R-093947) |
 | 45 | Johnson & Johnson | Supplier Operations Spring Co-op | Titusville, New Jersey, United States of America | Operations & Supply Chain | $23.5/hr | data science · analytics · Excel · supply chain · recruiting | Not specified | [Apply](https://jj.wd5.myworkdayjobs.com/en-US/JJ/job/Titusville-New-Jersey-United-States-of-America/Supplier-Operations-Spring-Co-op_R-091274) |
 | 49 | RTX | Stagiaire en logistique d'entreposage - Hiver 2027 / Operations Logistics Internship – Winter 2027 | CA-QC-LONGUEUIL-J01 ~ 1000 Blvd Marie-Victorin ~ J01 BLDG | Operations & Supply Chain | Not disclosed | Excel · supply chain · logistics | Not specified | [Apply](https://globalhr.wd5.myworkdayjobs.com/en-US/REC_RTX_Ext_Gateway/job/CA-QC-LONGUEUIL-J01--1000-Blvd-Marie-Victorin--J01-BLDG/Stagiaire-en-logistique-d-entreposage---Hiver-2027---Operations-Logistics-Internship---Winter-2027_01867382) |
@@ -117,13 +135,12 @@ Open positions: 3
 
 ## Other
 
-Open positions: 85
+Open positions: 109
 
 | Rank | Company | Position | Location | Category | Salary | Keywords | Sponsorship | Apply |
 |---:|---|---|---|---|---|---|---|---|
 | 191 | Block | Applied Research Intern, Proactive Intelligence & Customer World Models (PhD / Graduate Co-op) | Bay Area, CA, United States of America | Other | Not disclosed | Python · machine learning · legal | Not specified | [Apply](http://block.xyz/careers/jobs/5108007008?gh_jid=5108007008) |
 | 63 | Capital One | Strategy Consulting Intern - Summer 2027 | McLean, VA | Other | Not disclosed | recruiting · compliance | No sponsorship for this position | [Apply](https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/McLean-VA/Strategy-Consulting-Intern---Summer-2027_R244315-1) |
-| 112 | Northrop Grumman | 2027 Spring/Summer Chemistry Co-Op- Redondo Beach CA | United States-California-Redondo Beach | Other | $26.75–$32.5/hr | — | Not specified | [Apply](https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-California-Redondo-Beach/XMLNAME-2027-Spring-Summer-Chemistry-Co-Op--Redondo-Beach-CA_R10246391) |
 | 112 | Northrop Grumman | 2027 Guidance Navigation and Control Intern Dulles VA | United States-Virginia-Dulles | Other | Not disclosed | mechanical engineering · electrical engineering · supply chain | Not specified | [Apply](https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-Virginia-Dulles/XMLNAME-2027-Guidance-Navigation-and-Control-Intern-Dulles-VA_R10246322) |
 | 125 | Micron Technology | Intern - Product Yield Enhancement Eng | Boise, ID - Main Site | Other | Not disclosed | Python · electrical engineering | Not specified | [Apply](https://micron.wd1.myworkdayjobs.com/en-US/External/job/Boise-ID---Main-Site/Intern---Product-Yield-Enhancement-Eng_JR108605) |
 | 125 | Micron Technology | Intern - Yield Enhancement, Data Analysis | Boise, ID - Main Site | Other | Not disclosed | machine learning · artificial intelligence · data science · electrical engineering | Not specified | [Apply](https://micron.wd1.myworkdayjobs.com/en-US/External/job/Boise-ID---Main-Site/Intern---Yield-Enhancement--Data-Analysis_JR109076) |
@@ -160,6 +177,31 @@ Open positions: 85
 | 39 | Morgan Stanley | Intern | Atlanta, Georgia, United States of America | Other | Not disclosed | sales · recruiting | Not specified | [Apply](https://ms.wd5.myworkdayjobs.com/en-US/External/job/Atlanta-Georgia-United-States-of-America/Intern_JR042337) |
 | 39 | Morgan Stanley | Intern | Jackson, Tennessee, United States of America | Other | Not disclosed | sales · recruiting | Not specified | [Apply](https://ms.wd5.myworkdayjobs.com/en-US/External/job/Jackson-Tennessee-United-States-of-America/Intern_JR042465) |
 | 39 | Morgan Stanley | Intern | Columbus, Ohio, United States of America | Other | Not disclosed | sales · recruiting | Not specified | [Apply](https://ms.wd5.myworkdayjobs.com/en-US/External/job/Columbus-Ohio-United-States-of-America/Intern_JR042395-1) |
+| 44 | Walt Disney | Disneyland Architecture Intern, Spring 2027 | Anaheim, CA, USA | Other | Not disclosed | — | Not specified | [Apply](https://disney.wd5.myworkdayjobs.com/en-US/disneycareer/job/Anaheim-CA-USA/Disneyland-Architecture-Intern--Spring-2027_10158301) |
+| 44 | Walt Disney | Disneyland Design and Construction Strategic Sourcing Intern, Spring 2027 | Anaheim, CA, USA | Other | Not disclosed | Excel · supply chain · compliance · contracts | Not specified | [Apply](https://disney.wd5.myworkdayjobs.com/en-US/disneycareer/job/Anaheim-CA-USA/Disneyland-Design-and-Construction-Strategic-Sourcing-Intern--Spring-2027_10158291) |
+| 44 | Walt Disney | Disneyland Facilities Management Engineering Intern, Spring 2027 | Anaheim, CA, USA | Other | Not disclosed | mechanical engineering | Not specified | [Apply](https://disney.wd5.myworkdayjobs.com/en-US/disneycareer/job/Anaheim-CA-USA/Disneyland-Facilities-Management-Engineering-Intern--Spring-2027_10158737) |
+| 44 | Walt Disney | Disneyland Quality Engineering Intern, Fall 2026 | Anaheim, CA, USA | Other | Not disclosed | data science · analytics · Excel · compliance | Not specified | [Apply](https://disney.wd5.myworkdayjobs.com/en-US/disneycareer/job/Anaheim-CA-USA/Disneyland-Quality-Engineering-Intern--Fall-2026_10158416-2) |
+| 44 | Walt Disney | Disneyland Strategic Sourcing Intern, Spring 2027 | Anaheim, CA, USA | Other | Not disclosed | Excel · supply chain · compliance · contracts | Not specified | [Apply](https://disney.wd5.myworkdayjobs.com/en-US/disneycareer/job/Anaheim-CA-USA/Disneyland-Strategic-Sourcing-Intern--Spring-2027_10158264-2) |
+| 44 | Walt Disney | Geographic Information Systems (GIS) Intern, Spring 2027 | Anaheim, CA, USA | Other | $31/hr | Python · SQL · data science · CAD | Not specified | [Apply](https://disney.wd5.myworkdayjobs.com/en-US/disneycareer/job/Anaheim-CA-USA/Geographic-Information-Systems--GIS--Intern--Spring-2027_10158899) |
+| 44 | Walt Disney | WDI Project Engineering Intern, Spring 2027 | Glendale, CA, USA | Other | $31/hr | — | Not specified | [Apply](https://disney.wd5.myworkdayjobs.com/en-US/disneycareer/job/Glendale-CA-USA/WDI-Project-Engineering-Intern--Spring-2027_10158179) |
+| 44 | Walt Disney | WDI Ride Control Engineering Intern, Glendale, Spring 2027 | Glendale, CA, USA | Other | $31/hr | electrical engineering · CAD | Not specified | [Apply](https://disney.wd5.myworkdayjobs.com/en-US/disneycareer/job/Glendale-CA-USA/WDI-Ride-Control-Hardware-Engineering-Intern--Spring-2027_10158186) |
+| 44 | Walt Disney | WDI Show Control Hardware Intern, Glendale, Spring 2027 | Glendale, CA, USA | Other | $3/hr | SolidWorks | Not specified | [Apply](https://disney.wd5.myworkdayjobs.com/en-US/disneycareer/job/Glendale-CA-USA/WDI-Show-Control-Hardware-Intern--Glendale--Spring-2027_10158467) |
+| 44 | Walt Disney | WDI Show Technical Production Management Intern, Glendale, Spring 2027 | Glendale, CA, USA | Other | $26.5/hr | SolidWorks | Not specified | [Apply](https://disney.wd5.myworkdayjobs.com/en-US/disneycareer/job/Glendale-CA-USA/WDI-Show-Technical-Production-Management-Intern--Glendale--Spring-2027_10158509) |
+| 44 | Walt Disney | WDI Special Effects Designer Intern, Glendale, Spring 2027 | Glendale, CA, USA | Other | $26.5/hr | SolidWorks | Not specified | [Apply](https://disney.wd5.myworkdayjobs.com/en-US/disneycareer/job/Glendale-CA-USA/WDI-Special-Effects-Designer-Intern--Glendale--Spring-2027_10158464) |
+| 44 | Walt Disney | Assistive Technology Intern, Spring 2027 | Lake Buena Vista, FL, USA | Other | $31/hr | Python · audit · mechanical engineering · electrical engineering · CAD | Not specified | [Apply](https://disney.wd5.myworkdayjobs.com/en-US/disneycareer/job/Lake-Buena-Vista-FL-USA/Assistive-Technology-Intern--Spring-2027_10156692-1) |
+| 44 | Walt Disney | Disney Signature Experiences Pricing & Revenue Management Intern, Spring 2027 | Celebration, FL, USA | Other | $31/hr | Python · SQL · data science · analytics · Excel | Not specified | [Apply](https://disney.wd5.myworkdayjobs.com/en-US/disneycareer/job/Celebration-FL-USA/Disney-Signature-Experiences-Pricing---Revenue-Management-Intern--Spring-2027_10158469) |
+| 44 | Walt Disney | Labor Systems Web Integration Intern, Spring 2027 | Lake Buena Vista, FL, USA | Other | $31/hr | Python · JavaScript · SQL · React · AWS | Not specified | [Apply](https://disney.wd5.myworkdayjobs.com/en-US/disneycareer/job/Lake-Buena-Vista-FL-USA/Labor-Systems-Web-Integration-Intern--Spring-2027_10158184) |
+| 44 | Walt Disney | WDI Business Planning and Strategy Intern, Orlando, Spring 2027 | Celebration, FL, USA | Other | $26.5/hr | Python · SQL · data science · analytics | Not specified | [Apply](https://disney.wd5.myworkdayjobs.com/en-US/disneycareer/job/Celebration-FL-USA/WDI-Business-Planning-and-Strategy-Intern--Orlando--Spring-2027_10158474-2) |
+| 44 | Walt Disney | WDI Graphic Fabrication Design Intern, Spring 2027 | Lake Buena Vista, FL, USA | Other | $26.5/hr | mechanical engineering · CAD · contracts | Not specified | [Apply](https://disney.wd5.myworkdayjobs.com/en-US/disneycareer/job/Lake-Buena-Vista-FL-USA/WDI-Graphic-Fabrication-Design-Intern--Spring-2027_10158945) |
+| 44 | Walt Disney | WDI Ride Control Engineering Intern, Orlando, Spring 2027 | Lake Buena Vista, FL, USA | Other | $31/hr | electrical engineering · CAD | Not specified | [Apply](https://disney.wd5.myworkdayjobs.com/en-US/disneycareer/job/Lake-Buena-Vista-FL-USA/WDI-Ride-Control-Engineering-Intern--Orlando--Spring-2027_10159013) |
+| 44 | Walt Disney | WDI Ride Development Engineering Intern, Spring 2027 | Lake Buena Vista, FL, USA | Other | $31/hr | mechanical engineering · CAD · SolidWorks | Not specified | [Apply](https://disney.wd5.myworkdayjobs.com/en-US/disneycareer/job/Lake-Buena-Vista-FL-USA/WDI-Ride-Development-Engineering-Intern--Spring-2027_10158669) |
+| 44 | Walt Disney | WDI Set Decorator Intern, Orlando, Spring 2027 | Lake Buena Vista, FL, USA | Other | $26.5/hr | Excel | Not specified | [Apply](https://disney.wd5.myworkdayjobs.com/en-US/disneycareer/job/Lake-Buena-Vista-FL-USA/WDI-Set-Decorator-Intern--Orlando--Spring-2027_10158463-1) |
+| 44 | Walt Disney | WDI Show Technical Production Management Intern, Orlando, Spring 2027 | Lake Buena Vista, FL, USA | Other | $26.5/hr | SolidWorks | Not specified | [Apply](https://disney.wd5.myworkdayjobs.com/en-US/disneycareer/job/Lake-Buena-Vista-FL-USA/WDI-Show-Technical-Production-Management-Intern--Orlando--Spring-2027_10158619) |
+| 44 | Walt Disney | WDI Special Effects Designer Intern, Orlando, Spring 2027 2026 | Lake Buena Vista, FL, USA | Other | $26.5/hr | SolidWorks | Not specified | [Apply](https://disney.wd5.myworkdayjobs.com/en-US/disneycareer/job/Lake-Buena-Vista-FL-USA/WDI-Special-Effects-Designer-Intern--Orlando--Spring-2027-2026_10158465) |
+| 44 | Walt Disney | WDW Analytical & Strategic Planning Intern, Spring 2027 | Lake Buena Vista, FL, USA | Other | Not disclosed | SQL · analytics · Excel | Not specified | [Apply](https://disney.wd5.myworkdayjobs.com/en-US/disneycareer/job/Lake-Buena-Vista-FL-USA/WDW-Analytical---Strategic-Planning-Intern--Spring-2027_10158138) |
+| 44 | Walt Disney | WDW Architecture Intern, Spring 2027 | Lake Buena Vista, FL, USA | Other | Not disclosed | Excel | Not specified | [Apply](https://disney.wd5.myworkdayjobs.com/en-US/disneycareer/job/Lake-Buena-Vista-FL-USA/WDW-Architecture-Intern--Spring-2027_10158147) |
+| 44 | Walt Disney | WDW Fire Protection Engineering Intern, Spring 2027 | Lake Buena Vista, FL, USA | Other | $31/hr | Excel · compliance | Not specified | [Apply](https://disney.wd5.myworkdayjobs.com/en-US/disneycareer/job/Lake-Buena-Vista-FL-USA/WDW-Fire-Protection-Engineering-Intern--Spring-2027_10158135) |
+| 44 | Walt Disney | Walt Disney World Strategic Sourcing Intern, Spring 2027 | Lake Buena Vista, FL, USA | Other | Not disclosed | Excel · supply chain · logistics · compliance · contracts | Not specified | [Apply](https://disney.wd5.myworkdayjobs.com/en-US/disneycareer/job/Lake-Buena-Vista-FL-USA/Walt-Disney-World-Strategic-Sourcing-Intern--Spring-2027_10158738-1) |
 | 45 | Johnson & Johnson | DePuy Synthes Commercialized Product Development Co-Op Orthopedics | Warsaw, Indiana, United States of America | Other | Not disclosed | Excel · supply chain · recruiting · legal | Not specified | [Apply](https://jj.wd5.myworkdayjobs.com/en-US/JJ/job/Warsaw-Indiana-United-States-of-America/DePuy-Synthes-Commercialized-Product-Development-Co-Op-Orthopedics_R-093662) |
 | 45 | Johnson & Johnson | Materials Engineering Co-Op Spring 2027 | Jacksonville, Florida, United States of America | Other | Not disclosed | — | Not specified | [Apply](https://jj.wd5.myworkdayjobs.com/en-US/JJ/job/Jacksonville-Florida-United-States-of-America/Materials-Engineering-Co-Op_R-093889-1) |
 | 45 | Johnson & Johnson | Materials Engineering Co-Op Fall 2027 | Jacksonville, Florida, United States of America | Other | Not disclosed | — | Not specified | [Apply](https://jj.wd5.myworkdayjobs.com/en-US/JJ/job/Jacksonville-Florida-United-States-of-America/Materials-Engineering-Co-op_R-094380) |

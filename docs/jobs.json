@@ -15105,6 +15105,42 @@
   },
   {
     "company": "Workday",
+    "title": "Product Manager, Integrations",
+    "location": "USA, CA, San Francisco",
+    "employment_type": "full-time",
+    "category": "Product & Design",
+    "salary": "Not disclosed",
+    "salary_min": null,
+    "keywords": [
+      "Python",
+      "JavaScript",
+      "recruiting",
+      "compliance"
+    ],
+    "sponsorship_evidence": "",
+    "h1b_status": "unknown",
+    "sponsorship_label": "Not specified",
+    "url": "https://workday.wd5.myworkdayjobs.com/en-US/Workday/job/USA-CA-San-Francisco/Product-Manager--Integrations_JR-0108770"
+  },
+  {
+    "company": "Workday",
+    "title": "Senior Product Manager, Pipedream",
+    "location": "USA, CA, San Francisco",
+    "employment_type": "full-time",
+    "category": "Product & Design",
+    "salary": "Not disclosed",
+    "salary_min": null,
+    "keywords": [
+      "recruiting",
+      "compliance"
+    ],
+    "sponsorship_evidence": "",
+    "h1b_status": "unknown",
+    "sponsorship_label": "Not specified",
+    "url": "https://workday.wd5.myworkdayjobs.com/en-US/Workday/job/USA-CA-San-Francisco/Senior-Product-Manager--Pipedream_JR-0109100"
+  },
+  {
+    "company": "Workday",
     "title": "Senior Software Development Engineer (US Federal)",
     "location": "USA.VA.Reston",
     "employment_type": "full-time",
@@ -15326,6 +15362,42 @@
     "h1b_status": "unknown",
     "sponsorship_label": "Not specified",
     "url": "https://workday.wd5.myworkdayjobs.com/en-US/Workday/job/USAVAReston/Software-Development-Engineer---US-Federal_JR-0108664"
+  },
+  {
+    "company": "NVIDIA",
+    "title": "Product Marketing Manager, NVIDIA NIM",
+    "location": "US, CA, Santa Clara",
+    "employment_type": "full-time",
+    "category": "Sales & Marketing",
+    "salary": "Not disclosed",
+    "salary_min": null,
+    "keywords": [
+      "sales",
+      "recruiting"
+    ],
+    "sponsorship_evidence": "",
+    "h1b_status": "unknown",
+    "sponsorship_label": "Not specified",
+    "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Product-Marketing-Manager--NVIDIA-NIM_JR2015402"
+  },
+  {
+    "company": "NVIDIA",
+    "title": "Senior Product Manager, NVIDIA Mission Control",
+    "location": "US, CA, Santa Clara",
+    "employment_type": "full-time",
+    "category": "Product & Design",
+    "salary": "Not disclosed",
+    "salary_min": null,
+    "keywords": [
+      "Kubernetes",
+      "artificial intelligence",
+      "sales",
+      "recruiting"
+    ],
+    "sponsorship_evidence": "",
+    "h1b_status": "unknown",
+    "sponsorship_label": "Not specified",
+    "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Product-Manager--NVIDIA-Mission-Control_JR2017360-1"
   },
   {
     "company": "NVIDIA",
@@ -15607,27 +15679,6 @@
     "url": "https://salesforce.wd12.myworkdayjobs.com/en-US/External_Career_Site/job/Illinois---Chicago/CSG-Product-Senior-Manager_JR356257-1"
   },
   {
-    "company": "Salesforce",
-    "title": "Business Operations Analyst",
-    "location": "Arizona - Phoenix",
-    "employment_type": "full-time",
-    "category": "Operations & Supply Chain",
-    "salary": "Not disclosed",
-    "salary_min": null,
-    "keywords": [
-      "artificial intelligence",
-      "sales",
-      "CRM",
-      "recruiting",
-      "compliance",
-      "legal"
-    ],
-    "sponsorship_evidence": "",
-    "h1b_status": "unknown",
-    "sponsorship_label": "Not specified",
-    "url": "https://salesforce.wd12.myworkdayjobs.com/en-US/External_Career_Site/job/Arizona---Phoenix/Business-Operations-Analyst_JR355436"
-  },
-  {
     "company": "Adobe",
     "title": "Senior TPRM Consultant (Partner Engagements)",
     "location": "New York",
@@ -15647,6 +15698,111 @@
     "h1b_status": "unknown",
     "sponsorship_label": "Not specified",
     "url": "https://adobe.wd5.myworkdayjobs.com/en-US/external_experienced/job/New-York/Senior-TPRM-Consultant--Partner-Engagements-_R169646"
+  },
+  {
+    "company": "Capital One",
+    "title": "Manager, Product Management",
+    "location": "Bangalore, In",
+    "employment_type": "full-time",
+    "category": "Product & Design",
+    "salary": "Not disclosed",
+    "salary_min": null,
+    "keywords": [
+      "machine learning",
+      "data science",
+      "analytics",
+      "recruiting",
+      "compliance"
+    ],
+    "sponsorship_evidence": "At this time, Capital One will not sponsor a new applicant for employment authorization for this position.",
+    "h1b_status": "does_not_support_h1b",
+    "sponsorship_label": "No sponsorship for this position",
+    "url": "https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/Bangalore-In/Manager--Product-Management_R248803"
+  },
+  {
+    "company": "Capital One",
+    "title": "Senior Manager, Product Management",
+    "location": "Bangalore, In",
+    "employment_type": "full-time",
+    "category": "Product & Design",
+    "salary": "Not disclosed",
+    "salary_min": null,
+    "keywords": [
+      "machine learning",
+      "data science",
+      "analytics",
+      "risk management",
+      "recruiting",
+      "compliance"
+    ],
+    "sponsorship_evidence": "At this time, Capital One will not sponsor a new applicant for employment authorization for this position.",
+    "h1b_status": "does_not_support_h1b",
+    "sponsorship_label": "No sponsorship for this position",
+    "url": "https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/Bangalore-In/Senior-Manager--Product-Management_R248801"
+  },
+  {
+    "company": "Capital One",
+    "title": "Lead AI Engineer",
+    "location": "Bangalore, In",
+    "employment_type": "full-time",
+    "category": "Data & AI",
+    "salary": "Not disclosed",
+    "salary_min": null,
+    "keywords": [
+      "machine learning",
+      "recruiting",
+      "compliance"
+    ],
+    "sponsorship_evidence": "vironments like CrewAI, Claude Code, and OpenAI Codex At this time, Capital One will not sponsor a new applicant for employment authorization for this position.",
+    "h1b_status": "does_not_support_h1b",
+    "sponsorship_label": "No sponsorship for this position",
+    "url": "https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/Bangalore-In/Lead-AI-Engineer_R248117"
+  },
+  {
+    "company": "Capital One",
+    "title": "Lead Software Engineer, Full Stack (Enterprise Platforms Technology)",
+    "location": "McLean, VA",
+    "employment_type": "full-time",
+    "category": "Software & IT",
+    "salary": "Not disclosed",
+    "salary_min": null,
+    "keywords": [
+      "Python",
+      "Java",
+      "JavaScript",
+      "TypeScript",
+      "SQL",
+      "AWS",
+      "Azure",
+      "GCP"
+    ],
+    "sponsorship_evidence": "experience 2+ years of experience in Agile practices At this time, Capital One will not sponsor a new applicant for employment authorization, or offer any immigration related support for this position (i.",
+    "h1b_status": "does_not_support_h1b",
+    "sponsorship_label": "No sponsorship for this position",
+    "url": "https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/McLean-VA/Lead-Software-Engineer--Full-Stack--Enterprise-Platforms-Technology-_R248630-1"
+  },
+  {
+    "company": "Capital One",
+    "title": "Lead Software Engineer, Full Stack (Cloud Security for Multi Cloud) (Cloud Operations Resilience Engineering)",
+    "location": "McLean, VA",
+    "employment_type": "full-time",
+    "category": "Software & IT",
+    "salary": "Not disclosed",
+    "salary_min": null,
+    "keywords": [
+      "Python",
+      "JavaScript",
+      "AWS",
+      "Azure",
+      "GCP",
+      "Docker",
+      "Kubernetes",
+      "Terraform"
+    ],
+    "sponsorship_evidence": ", utilizing capabilities beyond basic code completion At this time, Capital One will not sponsor a new applicant for employment authorization, or offer any immigration related support for this position (e.",
+    "h1b_status": "does_not_support_h1b",
+    "sponsorship_label": "No sponsorship for this position",
+    "url": "https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/McLean-VA/Lead-Software-Engineer--Full-Stack--Cloud-Security-for-Multi-Cloud---Cloud-Operations-Resilience-Engineering-_R248393-1"
   },
   {
     "company": "Capital One",
@@ -19220,29 +19376,6 @@
   },
   {
     "company": "Capital One",
-    "title": "Lead Software Engineer, Full Stack (Enterprise Platforms Technology)",
-    "location": "McLean, VA",
-    "employment_type": "full-time",
-    "category": "Software & IT",
-    "salary": "Not disclosed",
-    "salary_min": null,
-    "keywords": [
-      "Python",
-      "Java",
-      "JavaScript",
-      "TypeScript",
-      "SQL",
-      "AWS",
-      "Azure",
-      "GCP"
-    ],
-    "sponsorship_evidence": "experience 2+ years of experience in Agile practices At this time, Capital One will not sponsor a new applicant for employment authorization, or offer any immigration related support for this position (i.",
-    "h1b_status": "does_not_support_h1b",
-    "sponsorship_label": "No sponsorship for this position",
-    "url": "https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/McLean-VA/Lead-Software-Engineer--Full-Stack--Enterprise-Platforms-Technology-_R248630-1"
-  },
-  {
-    "company": "Capital One",
     "title": "VP, Structured Products",
     "location": "New York, NY",
     "employment_type": "full-time",
@@ -19755,29 +19888,6 @@
     "h1b_status": "does_not_support_h1b",
     "sponsorship_label": "No sponsorship for this position",
     "url": "https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/Plano-TX/Principal-Associate--Process-Manager--Auto-and-Dealer-Risk_R247857-1"
-  },
-  {
-    "company": "Capital One",
-    "title": "Lead Software Engineer, Full Stack (Cloud Security for Multi Cloud) (Cloud Operations Resilience Engineering)",
-    "location": "McLean, VA",
-    "employment_type": "full-time",
-    "category": "Software & IT",
-    "salary": "Not disclosed",
-    "salary_min": null,
-    "keywords": [
-      "Python",
-      "JavaScript",
-      "AWS",
-      "Azure",
-      "GCP",
-      "Docker",
-      "Kubernetes",
-      "Terraform"
-    ],
-    "sponsorship_evidence": ", utilizing capabilities beyond basic code completion At this time, Capital One will not sponsor a new applicant for employment authorization, or offer any immigration related support for this position (e.",
-    "h1b_status": "does_not_support_h1b",
-    "sponsorship_label": "No sponsorship for this position",
-    "url": "https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/McLean-VA/Lead-Software-Engineer--Full-Stack--Cloud-Security-for-Multi-Cloud---Cloud-Operations-Resilience-Engineering-_R248393-1"
   },
   {
     "company": "Capital One",
@@ -24947,6 +25057,42 @@
   },
   {
     "company": "Northrop Grumman",
+    "title": "Principal / Senior Principal F - 22 Systems Engineer",
+    "location": "United States-Maryland-Baltimore",
+    "employment_type": "full-time",
+    "category": "Software & IT",
+    "salary": "Not disclosed",
+    "salary_min": null,
+    "keywords": [
+      "risk management",
+      "logistics",
+      "compliance"
+    ],
+    "sponsorship_evidence": "",
+    "h1b_status": "unknown",
+    "sponsorship_label": "Not specified",
+    "url": "https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-Maryland-Baltimore/Principal---Senior-Principal-F---22-Systems-Engineer_R10247207"
+  },
+  {
+    "company": "Northrop Grumman",
+    "title": "Radar Modeling Simulation Analysis Systems Engineer",
+    "location": "United States-Maryland-Baltimore",
+    "employment_type": "full-time",
+    "category": "Software & IT",
+    "salary": "Not disclosed",
+    "salary_min": null,
+    "keywords": [
+      "Python",
+      "analytics",
+      "contracts"
+    ],
+    "sponsorship_evidence": "",
+    "h1b_status": "unknown",
+    "sponsorship_label": "Not specified",
+    "url": "https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-Maryland-Baltimore/Radar-Modeling-Simulation-Analysis-Systems-Engineer_R10246973"
+  },
+  {
+    "company": "Northrop Grumman",
     "title": "Manager Supply Chain Programs 3",
     "location": "United States-Utah-Clearfield",
     "employment_type": "full-time",
@@ -26334,22 +26480,6 @@
   },
   {
     "company": "Northrop Grumman",
-    "title": "Engineering Technician (Level 2/3)",
-    "location": "United States-California-Redondo Beach",
-    "employment_type": "full-time",
-    "category": "Other",
-    "salary": "Not disclosed",
-    "salary_min": null,
-    "keywords": [
-      "mechanical engineering"
-    ],
-    "sponsorship_evidence": "",
-    "h1b_status": "unknown",
-    "sponsorship_label": "Not specified",
-    "url": "https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-California-Redondo-Beach/Engineering-Technician--Level-2-3-_R10241027"
-  },
-  {
-    "company": "Northrop Grumman",
     "title": "Sr Principal Program Cost and Schedule Control Analyst",
     "location": "United States-Maryland-Elkton",
     "employment_type": "full-time",
@@ -27217,24 +27347,6 @@
   },
   {
     "company": "Northrop Grumman",
-    "title": "Radar Modeling Simulation Analysis Systems Engineer",
-    "location": "United States-Maryland-Baltimore",
-    "employment_type": "full-time",
-    "category": "Software & IT",
-    "salary": "Not disclosed",
-    "salary_min": null,
-    "keywords": [
-      "Python",
-      "analytics",
-      "contracts"
-    ],
-    "sponsorship_evidence": "",
-    "h1b_status": "unknown",
-    "sponsorship_label": "Not specified",
-    "url": "https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-Maryland-Baltimore/Radar-Modeling-Simulation-Analysis-Systems-Engineer_R10246973"
-  },
-  {
-    "company": "Northrop Grumman",
     "title": "Principal / Sr Principal Aeronautical Engineer",
     "location": "United States-California-Palmdale",
     "employment_type": "full-time",
@@ -27728,23 +27840,6 @@
   },
   {
     "company": "Northrop Grumman",
-    "title": "2026 Associate Tool Engineer - Sunnyvale CA",
-    "location": "United States-California-Sunnyvale",
-    "employment_type": "full-time",
-    "category": "Other",
-    "salary": "Not disclosed",
-    "salary_min": null,
-    "keywords": [
-      "CAD",
-      "procurement"
-    ],
-    "sponsorship_evidence": "",
-    "h1b_status": "unknown",
-    "sponsorship_label": "Not specified",
-    "url": "https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-California-Sunnyvale/XMLNAME-2026-Associate-Tool-Engineer---Sunnyvale-CA_R10246872"
-  },
-  {
-    "company": "Northrop Grumman",
     "title": "Acoustic Analyst Level 5",
     "location": "United States-California-Sunnyvale",
     "employment_type": "full-time",
@@ -28019,27 +28114,6 @@
     "h1b_status": "unknown",
     "sponsorship_label": "Not specified",
     "url": "https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-California-Redondo-Beach/MLI-Design-Engineer-Principal-MLI-Design-Engineer--Level-2-3-_R10246847"
-  },
-  {
-    "company": "Northrop Grumman",
-    "title": "Software Engineer: Automation/AI - Level 2 or 3 (Chandler)",
-    "location": "United States-Arizona-Chandler",
-    "employment_type": "full-time",
-    "category": "Software & IT",
-    "salary": "Not disclosed",
-    "salary_min": null,
-    "keywords": [
-      "Python",
-      "Go",
-      "AWS",
-      "Azure",
-      "GCP",
-      "machine learning"
-    ],
-    "sponsorship_evidence": "",
-    "h1b_status": "unknown",
-    "sponsorship_label": "Not specified",
-    "url": "https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-Arizona-Chandler/Software-Engineer--Automation-AI---Level-2-or-3--Chandler-_R10237384"
   },
   {
     "company": "Northrop Grumman",
@@ -28451,20 +28525,6 @@
     "h1b_status": "unknown",
     "sponsorship_label": "Not specified",
     "url": "https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-Texas-Fort-Worth/Principal-Production-Planner-and-Scheduler_R10241916-1"
-  },
-  {
-    "company": "Northrop Grumman",
-    "title": "2027 Spring/Summer Chemistry Co-Op- Redondo Beach CA",
-    "location": "United States-California-Redondo Beach",
-    "employment_type": "internship",
-    "category": "Other",
-    "salary": "$26.75\u2013$32.5/hr",
-    "salary_min": 26.75,
-    "keywords": [],
-    "sponsorship_evidence": "",
-    "h1b_status": "unknown",
-    "sponsorship_label": "Not specified",
-    "url": "https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-California-Redondo-Beach/XMLNAME-2027-Spring-Summer-Chemistry-Co-Op--Redondo-Beach-CA_R10246391"
   },
   {
     "company": "Northrop Grumman",
@@ -31037,25 +31097,6 @@
   },
   {
     "company": "Northrop Grumman",
-    "title": "Principal Logistics Mgmt Analyst",
-    "location": "United States-Utah-Corinne",
-    "employment_type": "full-time",
-    "category": "Operations & Supply Chain",
-    "salary": "Not disclosed",
-    "salary_min": null,
-    "keywords": [
-      "Excel",
-      "supply chain",
-      "logistics",
-      "procurement"
-    ],
-    "sponsorship_evidence": "",
-    "h1b_status": "unknown",
-    "sponsorship_label": "Not specified",
-    "url": "https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-Utah-Corinne/Principal-Logistics-Mgmt-Analyst_R10246437"
-  },
-  {
-    "company": "Northrop Grumman",
     "title": "Operations Project Management",
     "location": "United States-Oklahoma-Oklahoma City",
     "employment_type": "full-time",
@@ -33151,25 +33192,6 @@
     "h1b_status": "unknown",
     "sponsorship_label": "Not specified",
     "url": "https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-New-York-Buffalo/Manager-of-Software-Engineer-Level-1_R10245942"
-  },
-  {
-    "company": "Northrop Grumman",
-    "title": "Cloud Engineer (AHT)",
-    "location": "United States-Ohio-Wright-Patterson AFB",
-    "employment_type": "full-time",
-    "category": "Software & IT",
-    "salary": "Not disclosed",
-    "salary_min": null,
-    "keywords": [
-      "AWS",
-      "Azure",
-      "Docker",
-      "Kubernetes"
-    ],
-    "sponsorship_evidence": "",
-    "h1b_status": "unknown",
-    "sponsorship_label": "Not specified",
-    "url": "https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-Ohio-Wright-Patterson-AFB/Cloud-Engineer--AHT-_R10246181"
   },
   {
     "company": "Northrop Grumman",
@@ -78238,23 +78260,6 @@
     "url": "https://mastercard.wd1.myworkdayjobs.com/en-US/CorporateCareers/job/OFallon-Missouri/Manager--Site-Reliability-Engineering_R-286678-1"
   },
   {
-    "company": "Mastercard",
-    "title": "Senior Managing Consultant, Advisors & Consulting Services, Strategy & Transformation - P&L Optimization SME",
-    "location": "Arlington, Virginia",
-    "employment_type": "full-time",
-    "category": "Other",
-    "salary": "Not disclosed",
-    "salary_min": null,
-    "keywords": [
-      "analytics",
-      "Excel"
-    ],
-    "sponsorship_evidence": "",
-    "h1b_status": "unknown",
-    "sponsorship_label": "Not specified",
-    "url": "https://mastercard.wd1.myworkdayjobs.com/en-US/CorporateCareers/job/Arlington-Virginia/Senior-Managing-Consultant--Advisors---Consulting-Services--Strategy---Transformation---P-L-Optimization-SME_R-279185"
-  },
-  {
     "company": "Boeing",
     "title": "Supplier Quality Engineer (Experienced or Senior)",
     "location": "USA - Huntsville, AL",
@@ -78790,59 +78795,6 @@
     "h1b_status": "does_not_support_h1b",
     "sponsorship_label": "No sponsorship for this position",
     "url": "https://boeing.wd1.myworkdayjobs.com/en-US/EXTERNAL_CAREERS/job/USA---North-Charleston-SC/Airplane-Electronic-Engineer--Associate-_JR2026522634-4"
-  },
-  {
-    "company": "Boeing",
-    "title": "Supply Chain Analyst Level 2-3 - B-52J CERP",
-    "location": "USA - Oklahoma City, OK",
-    "employment_type": "full-time",
-    "category": "Operations & Supply Chain",
-    "salary": "Not disclosed",
-    "salary_min": null,
-    "keywords": [
-      "Excel",
-      "supply chain",
-      "procurement",
-      "compliance"
-    ],
-    "sponsorship_evidence": "Visa Sponsorship: Employer will not sponsor applicants for employment visa status.",
-    "h1b_status": "does_not_support_h1b",
-    "sponsorship_label": "No sponsorship for this position",
-    "url": "https://boeing.wd1.myworkdayjobs.com/en-US/EXTERNAL_CAREERS/job/USA---Oklahoma-City-OK/Supply-Chain-Analyst-Level-2-3---B-52J-CERP_JR2026522225"
-  },
-  {
-    "company": "Boeing",
-    "title": "Software Quality Engineer  (Associate, Experienced or Senior)",
-    "location": "USA - El Segundo, CA",
-    "employment_type": "full-time",
-    "category": "Software & IT",
-    "salary": "Not disclosed",
-    "salary_min": null,
-    "keywords": [
-      "data science",
-      "compliance"
-    ],
-    "sponsorship_evidence": "n active in the past 24 months is considered active) Visa Sponsorship: Employer will not sponsor applicants for employment visa status.",
-    "h1b_status": "does_not_support_h1b",
-    "sponsorship_label": "No sponsorship for this position",
-    "url": "https://boeing.wd1.myworkdayjobs.com/en-US/EXTERNAL_CAREERS/job/USA---El-Segundo-CA/Software-Quality-Engineer---Associate--Experienced-or-Senior-_JR2026519647-1"
-  },
-  {
-    "company": "Boeing",
-    "title": "Phantom Works Mission Systems Manager",
-    "location": "USA - Berkeley, MO",
-    "employment_type": "full-time",
-    "category": "Other",
-    "salary": "Not disclosed",
-    "salary_min": null,
-    "keywords": [
-      "recruiting",
-      "compliance"
-    ],
-    "sponsorship_evidence": "n active in the past 24 months is considered active) Visa Sponsorship: Employer will not sponsor applicants for employment visa status.",
-    "h1b_status": "does_not_support_h1b",
-    "sponsorship_label": "No sponsorship for this position",
-    "url": "https://boeing.wd1.myworkdayjobs.com/en-US/EXTERNAL_CAREERS/job/USA---Berkeley-MO/Phantom-Works-Mission-Systems-Manager_JR2026522522-1"
   },
   {
     "company": "HP",
@@ -79402,42 +79354,103 @@
     "url": "https://intel.wd1.myworkdayjobs.com/en-US/External/job/US-Oregon-Hillsboro/AutoTEM-technician_JR0286474"
   },
   {
-    "company": "Intel",
-    "title": "Packaging Module Development Engineer",
-    "location": "US, Arizona, Phoenix",
+    "company": "Visa",
+    "title": "Software Engineer (1 year Exp)",
+    "location": "IN - Bengaluru, India",
+    "employment_type": "full-time",
+    "category": "Software & IT",
+    "salary": "Not disclosed",
+    "salary_min": null,
+    "keywords": [
+      "Python",
+      "Java",
+      "JavaScript",
+      "SQL",
+      "React",
+      "analytics"
+    ],
+    "sponsorship_evidence": "",
+    "h1b_status": "unknown",
+    "sponsorship_label": "Not specified",
+    "url": "https://visa.wd5.myworkdayjobs.com/en-US/Visa/job/IN---Bengaluru-India/Software-Engineer--1-year-Exp-_REF087690W"
+  },
+  {
+    "company": "Visa",
+    "title": "Staff Software Engineer",
+    "location": "IN - Bengaluru, India",
+    "employment_type": "full-time",
+    "category": "Software & IT",
+    "salary": "Not disclosed",
+    "salary_min": null,
+    "keywords": [
+      "Python",
+      "JavaScript",
+      "React",
+      "Docker"
+    ],
+    "sponsorship_evidence": "",
+    "h1b_status": "unknown",
+    "sponsorship_label": "Not specified",
+    "url": "https://visa.wd5.myworkdayjobs.com/en-US/Visa/job/IN---Bengaluru-India/Staff-Software-Engineer_REF080552W"
+  },
+  {
+    "company": "Visa",
+    "title": "Manager, Risk Advisory",
+    "location": "IN - Bengaluru, India",
     "employment_type": "full-time",
     "category": "Other",
     "salary": "Not disclosed",
     "salary_min": null,
     "keywords": [
       "Python",
-      "machine learning",
-      "artificial intelligence",
+      "SQL",
       "analytics",
-      "mechanical engineering",
-      "compliance"
+      "risk management"
     ],
     "sponsorship_evidence": "",
     "h1b_status": "unknown",
     "sponsorship_label": "Not specified",
-    "url": "https://intel.wd1.myworkdayjobs.com/en-US/External/job/US-Arizona-Phoenix/Packaging-Module-Development-Engineer_JR0284906"
+    "url": "https://visa.wd5.myworkdayjobs.com/en-US/Visa/job/IN---Bengaluru-India/Manager--Risk-Advisory_REF081996W"
   },
   {
-    "company": "Intel",
-    "title": "AIG Power Delivery Pathfinding Researcher",
-    "location": "US, Oregon, Hillsboro",
+    "company": "Visa",
+    "title": "Data Engineer",
+    "location": "IN - Bengaluru, India",
+    "employment_type": "full-time",
+    "category": "Data & AI",
+    "salary": "Not disclosed",
+    "salary_min": null,
+    "keywords": [
+      "Python",
+      "SQL",
+      "AWS",
+      "Azure",
+      "GCP",
+      "data science",
+      "analytics"
+    ],
+    "sponsorship_evidence": "",
+    "h1b_status": "unknown",
+    "sponsorship_label": "Not specified",
+    "url": "https://visa.wd5.myworkdayjobs.com/en-US/Visa/job/IN---Bengaluru-India/Data-Engineer_REF087496W"
+  },
+  {
+    "company": "Visa",
+    "title": "Sr. Client Care Ops Support",
+    "location": "CO - Bogota, Colombia",
     "employment_type": "full-time",
     "category": "Other",
     "salary": "Not disclosed",
     "salary_min": null,
     "keywords": [
-      "electrical engineering",
-      "compliance"
+      "audit",
+      "compliance",
+      "contracts"
     ],
     "sponsorship_evidence": "",
     "h1b_status": "unknown",
     "sponsorship_label": "Not specified",
-    "url": "https://intel.wd1.myworkdayjobs.com/en-US/External/job/US-Oregon-Hillsboro/AIG-Power-Delivery-Pathfinding-Researcher_JR0286631"
+    "url": "https://visa.wd5.myworkdayjobs.com/en-US/Visa/job/CO---Bogota-Colombia/Sr-Client-Care-Ops-Support_REF087653W"
   },
   {
     "company": "Visa",
@@ -79455,25 +79468,6 @@
     "h1b_status": "unknown",
     "sponsorship_label": "Not specified",
     "url": "https://visa.wd5.myworkdayjobs.com/en-US/Visa/job/IN---Bengaluru-India/Software-Engineer-2_REF081481W"
-  },
-  {
-    "company": "Visa",
-    "title": "Software Engineer",
-    "location": "IN - Bengaluru, India",
-    "employment_type": "full-time",
-    "category": "Software & IT",
-    "salary": "Not disclosed",
-    "salary_min": null,
-    "keywords": [
-      "Java",
-      "SQL",
-      "Docker",
-      "Kubernetes"
-    ],
-    "sponsorship_evidence": "",
-    "h1b_status": "unknown",
-    "sponsorship_label": "Not specified",
-    "url": "https://visa.wd5.myworkdayjobs.com/en-US/Visa/job/IN---Bengaluru-India/Software-Engineer_REF081660W"
   },
   {
     "company": "Visa",
@@ -79924,93 +79918,6 @@
     "h1b_status": "unknown",
     "sponsorship_label": "Not specified",
     "url": "https://visa.wd5.myworkdayjobs.com/en-US/Visa/job/US---Foster-City-CA/Senior-Director_REF087509W"
-  },
-  {
-    "company": "Visa",
-    "title": "Principal Solutions Manager",
-    "location": "US - San Francisco, CA",
-    "employment_type": "full-time",
-    "category": "Other",
-    "salary": "Not disclosed",
-    "salary_min": null,
-    "keywords": [
-      "analytics",
-      "accounting",
-      "sales"
-    ],
-    "sponsorship_evidence": "",
-    "h1b_status": "unknown",
-    "sponsorship_label": "Not specified",
-    "url": "https://visa.wd5.myworkdayjobs.com/en-US/Visa/job/US---San-Francisco-CA/Principal-Solutions-Manager_REF087484W"
-  },
-  {
-    "company": "Visa",
-    "title": "Director, Working Capital Marketing",
-    "location": "US - Atlanta, GA",
-    "employment_type": "full-time",
-    "category": "Sales & Marketing",
-    "salary": "Not disclosed",
-    "salary_min": null,
-    "keywords": [
-      "analytics",
-      "sales"
-    ],
-    "sponsorship_evidence": "",
-    "h1b_status": "unknown",
-    "sponsorship_label": "Not specified",
-    "url": "https://visa.wd5.myworkdayjobs.com/en-US/Visa/job/US---Atlanta-GA/Director--Working-Capital-Marketing_REF082612W"
-  },
-  {
-    "company": "Visa",
-    "title": "Manager, Global People Solutions - Total Rewards",
-    "location": "US - Austin, TX",
-    "employment_type": "full-time",
-    "category": "Other",
-    "salary": "Not disclosed",
-    "salary_min": null,
-    "keywords": [
-      "analytics",
-      "Excel",
-      "sales"
-    ],
-    "sponsorship_evidence": "",
-    "h1b_status": "unknown",
-    "sponsorship_label": "Not specified",
-    "url": "https://visa.wd5.myworkdayjobs.com/en-US/Visa/job/US---Austin-TX/Manager--Global-People-Solutions---Total-Rewards_REF087574W"
-  },
-  {
-    "company": "Visa",
-    "title": "Sr. Director, Global Service Experience Optimization\u2013 VCS and Visa Spend Clarity for Enterprise",
-    "location": "US - Atlanta, GA",
-    "employment_type": "full-time",
-    "category": "Other",
-    "salary": "Not disclosed",
-    "salary_min": null,
-    "keywords": [
-      "Excel",
-      "accounting",
-      "sales"
-    ],
-    "sponsorship_evidence": "",
-    "h1b_status": "unknown",
-    "sponsorship_label": "Not specified",
-    "url": "https://visa.wd5.myworkdayjobs.com/en-US/Visa/job/US---Atlanta-GA/Sr-Director--Global-Service-Experience-Optimization--VCS-and-Visa-Spend-Clarity-for-Enterprise_REF087460W"
-  },
-  {
-    "company": "Visa",
-    "title": "Consultant, People Systems",
-    "location": "US - Austin, TX",
-    "employment_type": "full-time",
-    "category": "Other",
-    "salary": "Not disclosed",
-    "salary_min": null,
-    "keywords": [
-      "sales"
-    ],
-    "sponsorship_evidence": "",
-    "h1b_status": "unknown",
-    "sponsorship_label": "Not specified",
-    "url": "https://visa.wd5.myworkdayjobs.com/en-US/Visa/job/US---Austin-TX/Consultant--People-Systems_REF087069W"
   },
   {
     "company": "Micron Technology",
@@ -89937,64 +89844,6 @@
     "url": "https://paypal.wd1.myworkdayjobs.com/en-US/jobs/job/Chicago-Illinois-United-States-of-America/Sr-Data-Scientist_R0137224"
   },
   {
-    "company": "PayPal",
-    "title": "Machine Learning Engineer",
-    "location": "San Jose, California, United States of America",
-    "employment_type": "full-time",
-    "category": "Data & AI",
-    "salary": "Not disclosed",
-    "salary_min": null,
-    "keywords": [
-      "Python",
-      "SQL",
-      "machine learning",
-      "analytics",
-      "Excel",
-      "compliance"
-    ],
-    "sponsorship_evidence": "without sponsorship.",
-    "h1b_status": "does_not_support_h1b",
-    "sponsorship_label": "No sponsorship for this position",
-    "url": "https://paypal.wd1.myworkdayjobs.com/en-US/jobs/job/San-Jose-California-United-States-of-America/Machine-Learning-Engineer_R0137221"
-  },
-  {
-    "company": "PayPal",
-    "title": "Sr Software Engineer",
-    "location": "San Jose, California, United States of America",
-    "employment_type": "full-time",
-    "category": "Software & IT",
-    "salary": "Not disclosed",
-    "salary_min": null,
-    "keywords": [
-      "Python",
-      "Java",
-      "SQL",
-      "AWS",
-      "Azure",
-      "GCP"
-    ],
-    "sponsorship_evidence": "without sponsorship.",
-    "h1b_status": "does_not_support_h1b",
-    "sponsorship_label": "No sponsorship for this position",
-    "url": "https://paypal.wd1.myworkdayjobs.com/en-US/jobs/job/San-Jose-California-United-States-of-America/Sr-Software-Engineer_R0137222"
-  },
-  {
-    "company": "PayPal",
-    "title": "Sr Software Engineer",
-    "location": "San Jose, California, United States of America",
-    "employment_type": "full-time",
-    "category": "Software & IT",
-    "salary": "Not disclosed",
-    "salary_min": null,
-    "keywords": [
-      "machine learning"
-    ],
-    "sponsorship_evidence": "without sponsorship.",
-    "h1b_status": "does_not_support_h1b",
-    "sponsorship_label": "No sponsorship for this position",
-    "url": "https://paypal.wd1.myworkdayjobs.com/en-US/jobs/job/San-Jose-California-United-States-of-America/Sr-Software-Engineer_R0137223"
-  },
-  {
     "company": "S&P Global",
     "title": "Associate Director, Business Strategy",
     "location": "New York, NY",
@@ -90611,6 +90460,22 @@
   },
   {
     "company": "Cigna Group",
+    "title": "Pharmacy Production Clerk - Express Scripts -  Onsite",
+    "location": "Florence, NJ",
+    "employment_type": "full-time",
+    "category": "Other",
+    "salary": "Not disclosed",
+    "salary_min": null,
+    "keywords": [
+      "supply chain"
+    ],
+    "sponsorship_evidence": "",
+    "h1b_status": "unknown",
+    "sponsorship_label": "Not specified",
+    "url": "https://cigna.wd5.myworkdayjobs.com/en-US/cignacareers/job/Florence-NJ/Pharmacy-Production-Clerk---Express-Scripts----Onsite_26009354"
+  },
+  {
+    "company": "Cigna Group",
     "title": "Account Installation Senior Manager - Cigna Healthcare",
     "location": "United States Work at Home",
     "employment_type": "full-time",
@@ -91157,20 +91022,6 @@
   },
   {
     "company": "Centene",
-    "title": "Quality Program Strategist",
-    "location": "Remote-MO",
-    "employment_type": "full-time",
-    "category": "Other",
-    "salary": "$56.2k\u2013$101k/yr",
-    "salary_min": 56200.0,
-    "keywords": [],
-    "sponsorship_evidence": "",
-    "h1b_status": "unknown",
-    "sponsorship_label": "Not specified",
-    "url": "https://centene.wd5.myworkdayjobs.com/en-US/centene_external/job/Remote-MO/Quality-Program-Strategist_1651939"
-  },
-  {
-    "company": "Centene",
     "title": "Clinical Appeals Coordinator",
     "location": "Remote-OR",
     "employment_type": "full-time",
@@ -91461,6 +91312,23 @@
     "h1b_status": "unknown",
     "sponsorship_label": "Not specified",
     "url": "https://centene.wd5.myworkdayjobs.com/en-US/centene_external/job/Remote-NC/LTSS-Service-Care-Manager_1649747-1"
+  },
+  {
+    "company": "Centene",
+    "title": "Lead Grievance & Appeals Coordinator",
+    "location": "Remote-IL",
+    "employment_type": "full-time",
+    "category": "Other",
+    "salary": "$23.23\u2013$39.61/hr",
+    "salary_min": 23.23,
+    "keywords": [
+      "compliance",
+      "contracts"
+    ],
+    "sponsorship_evidence": "",
+    "h1b_status": "unknown",
+    "sponsorship_label": "Not specified",
+    "url": "https://centene.wd5.myworkdayjobs.com/en-US/centene_external/job/Remote-IL/Lead-Grievance---Appeals-Coordinator_1649674"
   },
   {
     "company": "Chevron",
@@ -91853,6 +91721,22 @@
   },
   {
     "company": "General Motors",
+    "title": "Design Release Engineer - Chassis Steering",
+    "location": "Warren, Michigan, United States of America",
+    "employment_type": "full-time",
+    "category": "Other",
+    "salary": "Not disclosed",
+    "salary_min": null,
+    "keywords": [
+      "CAD"
+    ],
+    "sponsorship_evidence": "",
+    "h1b_status": "unknown",
+    "sponsorship_label": "Not specified",
+    "url": "https://generalmotors.wd5.myworkdayjobs.com/en-US/Careers_GM/job/Warren-Michigan-United-States-of-America/Design-Release-Engineer---Chassis-Steering_JR-202618452-1"
+  },
+  {
+    "company": "General Motors",
     "title": "Staff ML Engineer - Embodied AI Evaluation Foundations",
     "location": "Sunnyvale, California, United States of America",
     "employment_type": "full-time",
@@ -92223,22 +92107,6 @@
     "url": "https://generalmotors.wd5.myworkdayjobs.com/en-US/Careers_GM/job/Marion-Indiana-United-States-of-America/Manufacturing-Group-Leader---Maintenance---Marion_JR-202618484"
   },
   {
-    "company": "General Motors",
-    "title": "Business Manager - GSC 3rd Shift",
-    "location": "Flint, Michigan, United States of America",
-    "employment_type": "full-time",
-    "category": "Other",
-    "salary": "Not disclosed",
-    "salary_min": null,
-    "keywords": [
-      "supply chain"
-    ],
-    "sponsorship_evidence": "",
-    "h1b_status": "unknown",
-    "sponsorship_label": "Not specified",
-    "url": "https://generalmotors.wd5.myworkdayjobs.com/en-US/Careers_GM/job/Flint-Michigan-United-States-of-America/Business-Manager---GSC-3rd-Shift_JR-202617486-1"
-  },
-  {
     "company": "Fannie Mae",
     "title": "Principal--Data, Analytics & AI Architect",
     "location": "Reston, VA",
@@ -92570,24 +92438,6 @@
     "h1b_status": "unknown",
     "sponsorship_label": "Not specified",
     "url": "https://mpc.wd1.myworkdayjobs.com/en-US/MPCCareers/job/Midland-Texas/Senior-Personal-Safety-Professional_00022705"
-  },
-  {
-    "company": "Marathon Petroleum",
-    "title": "Business Analyst",
-    "location": "Findlay, Ohio",
-    "employment_type": "full-time",
-    "category": "Other",
-    "salary": "Not disclosed",
-    "salary_min": null,
-    "keywords": [
-      "analytics",
-      "logistics",
-      "human resources"
-    ],
-    "sponsorship_evidence": "",
-    "h1b_status": "unknown",
-    "sponsorship_label": "Not specified",
-    "url": "https://mpc.wd1.myworkdayjobs.com/en-US/MPCCareers/job/Findlay-Ohio/Business-Analyst_00023334"
   },
   {
     "company": "Marathon Petroleum",
@@ -92972,6 +92822,25 @@
     "h1b_status": "unknown",
     "sponsorship_label": "Not specified",
     "url": "https://mpc.wd1.myworkdayjobs.com/en-US/MPCCareers/job/Salt-Lake-City-Utah/Refinery-Relief-Operator_00023371-1"
+  },
+  {
+    "company": "Marathon Petroleum",
+    "title": "Refining HESS Analyst",
+    "location": "Findlay, Ohio",
+    "employment_type": "full-time",
+    "category": "Other",
+    "salary": "Not disclosed",
+    "salary_min": null,
+    "keywords": [
+      "analytics",
+      "risk management",
+      "human resources",
+      "compliance"
+    ],
+    "sponsorship_evidence": "",
+    "h1b_status": "unknown",
+    "sponsorship_label": "Not specified",
+    "url": "https://mpc.wd1.myworkdayjobs.com/en-US/MPCCareers/job/Findlay-Ohio/Refining-HESS-Analyst_00023364"
   },
   {
     "company": "Freddie Mac",
@@ -95025,47 +94894,6 @@
     "url": "https://ms.wd5.myworkdayjobs.com/en-US/External/job/Garden-City-New-York-United-States-of-America/Client-Relationship-Analyst_JR036497-2"
   },
   {
-    "company": "Morgan Stanley",
-    "title": "Institutional Equity Division \u2013 Associate/Director, Fund Services - Portfolio Analytics (New York)",
-    "location": "New York, New York, United States of America",
-    "employment_type": "full-time",
-    "category": "Data & AI",
-    "salary": "$200k/yr",
-    "salary_min": 200000.0,
-    "keywords": [
-      "Python",
-      "analytics",
-      "Excel",
-      "accounting",
-      "tax",
-      "sales",
-      "recruiting"
-    ],
-    "sponsorship_evidence": "",
-    "h1b_status": "unknown",
-    "sponsorship_label": "Not specified",
-    "url": "https://ms.wd5.myworkdayjobs.com/en-US/External/job/New-York-New-York-United-States-of-America/Fund-Services---Portfolio-Analytics---Associate-Director_JR041727"
-  },
-  {
-    "company": "Morgan Stanley",
-    "title": "ISG Management \u2013 Vice President, Operational Risk & Resilience (New York)",
-    "location": "New York, New York, United States of America",
-    "employment_type": "full-time",
-    "category": "Other",
-    "salary": "$250k/yr",
-    "salary_min": 250000.0,
-    "keywords": [
-      "audit",
-      "risk management",
-      "recruiting",
-      "compliance"
-    ],
-    "sponsorship_evidence": "",
-    "h1b_status": "unknown",
-    "sponsorship_label": "Not specified",
-    "url": "https://ms.wd5.myworkdayjobs.com/en-US/External/job/New-York-New-York-United-States-of-America/ISG-Management---Operational-Risk---Resilience---VP_JR041372-1"
-  },
-  {
     "company": "Walt Disney",
     "title": "Sr. Manager, Enterprise Architecture (Disney Experiences)",
     "location": "Orlando, FL, USA",
@@ -95114,6 +94942,853 @@
     "h1b_status": "unknown",
     "sponsorship_label": "Not specified",
     "url": "https://disney.wd5.myworkdayjobs.com/en-US/disneycareer/job/Orlando-FL-USA/Principal-Enterprise-Architect_10117326-1"
+  },
+  {
+    "company": "Walt Disney",
+    "title": "DLR Occupational Safety & Industrial Hygiene Interns, Spring 2027",
+    "location": "Anaheim, CA, USA",
+    "employment_type": "full-time",
+    "category": "Engineering",
+    "salary": "Not disclosed",
+    "salary_min": null,
+    "keywords": [
+      "Excel"
+    ],
+    "sponsorship_evidence": "",
+    "h1b_status": "unknown",
+    "sponsorship_label": "Not specified",
+    "url": "https://disney.wd5.myworkdayjobs.com/en-US/disneycareer/job/Anaheim-CA-USA/DLR-Occupational-Safety---Industrial-Hygiene-Interns--Spring-2027_10158132"
+  },
+  {
+    "company": "Walt Disney",
+    "title": "Disneyland Architecture Intern, Spring 2027",
+    "location": "Anaheim, CA, USA",
+    "employment_type": "internship",
+    "category": "Other",
+    "salary": "Not disclosed",
+    "salary_min": null,
+    "keywords": [],
+    "sponsorship_evidence": "",
+    "h1b_status": "unknown",
+    "sponsorship_label": "Not specified",
+    "url": "https://disney.wd5.myworkdayjobs.com/en-US/disneycareer/job/Anaheim-CA-USA/Disneyland-Architecture-Intern--Spring-2027_10158301"
+  },
+  {
+    "company": "Walt Disney",
+    "title": "Disneyland Civil Facilities and Utilities Intern, Spring 2026",
+    "location": "Anaheim, CA, USA",
+    "employment_type": "internship",
+    "category": "Engineering",
+    "salary": "Not disclosed",
+    "salary_min": null,
+    "keywords": [
+      "procurement"
+    ],
+    "sponsorship_evidence": "",
+    "h1b_status": "unknown",
+    "sponsorship_label": "Not specified",
+    "url": "https://disney.wd5.myworkdayjobs.com/en-US/disneycareer/job/Anaheim-CA-USA/Disneyland-Civil-Facilities-and-Utilities-Intern--Spring-2026_10158736-2"
+  },
+  {
+    "company": "Walt Disney",
+    "title": "Disneyland Design and Construction Strategic Sourcing Intern, Spring 2027",
+    "location": "Anaheim, CA, USA",
+    "employment_type": "internship",
+    "category": "Other",
+    "salary": "Not disclosed",
+    "salary_min": null,
+    "keywords": [
+      "Excel",
+      "supply chain",
+      "compliance",
+      "contracts"
+    ],
+    "sponsorship_evidence": "",
+    "h1b_status": "unknown",
+    "sponsorship_label": "Not specified",
+    "url": "https://disney.wd5.myworkdayjobs.com/en-US/disneycareer/job/Anaheim-CA-USA/Disneyland-Design-and-Construction-Strategic-Sourcing-Intern--Spring-2027_10158291"
+  },
+  {
+    "company": "Walt Disney",
+    "title": "Disneyland Electrical Engineering Intern, Spring 2027",
+    "location": "Anaheim, CA, USA",
+    "employment_type": "internship",
+    "category": "Engineering",
+    "salary": "Not disclosed",
+    "salary_min": null,
+    "keywords": [
+      "Excel",
+      "electrical engineering",
+      "legal"
+    ],
+    "sponsorship_evidence": "",
+    "h1b_status": "unknown",
+    "sponsorship_label": "Not specified",
+    "url": "https://disney.wd5.myworkdayjobs.com/en-US/disneycareer/job/Anaheim-CA-USA/Disneyland-Electrical-Engineering-Intern--Spring-2027_10158423"
+  },
+  {
+    "company": "Walt Disney",
+    "title": "Disneyland Facilities Controls Electrical Engineering Intern, Spring 2027",
+    "location": "Anaheim, CA, USA",
+    "employment_type": "internship",
+    "category": "Engineering",
+    "salary": "Not disclosed",
+    "salary_min": null,
+    "keywords": [
+      "mechanical engineering",
+      "electrical engineering",
+      "legal"
+    ],
+    "sponsorship_evidence": "",
+    "h1b_status": "unknown",
+    "sponsorship_label": "Not specified",
+    "url": "https://disney.wd5.myworkdayjobs.com/en-US/disneycareer/job/Anaheim-CA-USA/Disneyland-Facilities-Controls-Electrical-Engineering-Intern--Spring-2027_10158296"
+  },
+  {
+    "company": "Walt Disney",
+    "title": "Disneyland Facilities Management Engineering Intern, Spring 2027",
+    "location": "Anaheim, CA, USA",
+    "employment_type": "internship",
+    "category": "Other",
+    "salary": "Not disclosed",
+    "salary_min": null,
+    "keywords": [
+      "mechanical engineering"
+    ],
+    "sponsorship_evidence": "",
+    "h1b_status": "unknown",
+    "sponsorship_label": "Not specified",
+    "url": "https://disney.wd5.myworkdayjobs.com/en-US/disneycareer/job/Anaheim-CA-USA/Disneyland-Facilities-Management-Engineering-Intern--Spring-2027_10158737"
+  },
+  {
+    "company": "Walt Disney",
+    "title": "Disneyland Facilities Mechanical Engineering Intern, Spring 2027",
+    "location": "Anaheim, CA, USA",
+    "employment_type": "internship",
+    "category": "Engineering",
+    "salary": "Not disclosed",
+    "salary_min": null,
+    "keywords": [
+      "mechanical engineering"
+    ],
+    "sponsorship_evidence": "",
+    "h1b_status": "unknown",
+    "sponsorship_label": "Not specified",
+    "url": "https://disney.wd5.myworkdayjobs.com/en-US/disneycareer/job/Anaheim-CA-USA/Disneyland-Facilities-Mechanical-Engineering-Intern--Spring-2027_10158306"
+  },
+  {
+    "company": "Walt Disney",
+    "title": "Disneyland Mechanical Engineering Intern, Spring 2027",
+    "location": "Anaheim, CA, USA",
+    "employment_type": "internship",
+    "category": "Engineering",
+    "salary": "Not disclosed",
+    "salary_min": null,
+    "keywords": [
+      "mechanical engineering",
+      "SolidWorks",
+      "legal"
+    ],
+    "sponsorship_evidence": "",
+    "h1b_status": "unknown",
+    "sponsorship_label": "Not specified",
+    "url": "https://disney.wd5.myworkdayjobs.com/en-US/disneycareer/job/Anaheim-CA-USA/Disneyland-Mechanical-Engineering-Intern--Spring-2027_10158421-2"
+  },
+  {
+    "company": "Walt Disney",
+    "title": "Disneyland Power and Facilities Electrical Engineering Intern, Spring 2027",
+    "location": "Anaheim, CA, USA",
+    "employment_type": "internship",
+    "category": "Engineering",
+    "salary": "Not disclosed",
+    "salary_min": null,
+    "keywords": [
+      "Excel",
+      "electrical engineering"
+    ],
+    "sponsorship_evidence": "",
+    "h1b_status": "unknown",
+    "sponsorship_label": "Not specified",
+    "url": "https://disney.wd5.myworkdayjobs.com/en-US/disneycareer/job/Anaheim-CA-USA/Disneyland-Power-and-Facilities-Electrical-Engineering-Intern--Spring-2027_10158314"
+  },
+  {
+    "company": "Walt Disney",
+    "title": "Disneyland Quality Engineering Intern, Fall 2026",
+    "location": "Anaheim, CA, USA",
+    "employment_type": "internship",
+    "category": "Other",
+    "salary": "Not disclosed",
+    "salary_min": null,
+    "keywords": [
+      "data science",
+      "analytics",
+      "Excel",
+      "compliance"
+    ],
+    "sponsorship_evidence": "",
+    "h1b_status": "unknown",
+    "sponsorship_label": "Not specified",
+    "url": "https://disney.wd5.myworkdayjobs.com/en-US/disneycareer/job/Anaheim-CA-USA/Disneyland-Quality-Engineering-Intern--Fall-2026_10158416-2"
+  },
+  {
+    "company": "Walt Disney",
+    "title": "Disneyland Strategic Sourcing Intern, Spring 2027",
+    "location": "Anaheim, CA, USA",
+    "employment_type": "internship",
+    "category": "Other",
+    "salary": "Not disclosed",
+    "salary_min": null,
+    "keywords": [
+      "Excel",
+      "supply chain",
+      "compliance",
+      "contracts"
+    ],
+    "sponsorship_evidence": "",
+    "h1b_status": "unknown",
+    "sponsorship_label": "Not specified",
+    "url": "https://disney.wd5.myworkdayjobs.com/en-US/disneycareer/job/Anaheim-CA-USA/Disneyland-Strategic-Sourcing-Intern--Spring-2027_10158264-2"
+  },
+  {
+    "company": "Walt Disney",
+    "title": "Geographic Information Systems (GIS) Intern, Spring 2027",
+    "location": "Anaheim, CA, USA",
+    "employment_type": "internship",
+    "category": "Other",
+    "salary": "$31/hr",
+    "salary_min": 31.0,
+    "keywords": [
+      "Python",
+      "SQL",
+      "data science",
+      "CAD"
+    ],
+    "sponsorship_evidence": "",
+    "h1b_status": "unknown",
+    "sponsorship_label": "Not specified",
+    "url": "https://disney.wd5.myworkdayjobs.com/en-US/disneycareer/job/Anaheim-CA-USA/Geographic-Information-Systems--GIS--Intern--Spring-2027_10158899"
+  },
+  {
+    "company": "Walt Disney",
+    "title": "Glendale System Software Engineering Internship, Spring 2027",
+    "location": "Glendale, CA, USA",
+    "employment_type": "internship",
+    "category": "Software & IT",
+    "salary": "Not disclosed",
+    "salary_min": null,
+    "keywords": [
+      "C#",
+      "Excel",
+      "mechanical engineering",
+      "electrical engineering"
+    ],
+    "sponsorship_evidence": "",
+    "h1b_status": "unknown",
+    "sponsorship_label": "Not specified",
+    "url": "https://disney.wd5.myworkdayjobs.com/en-US/disneycareer/job/Glendale-CA-USA/Glendale-System-Software-Engineering-Internship--Spring-2027_10158137"
+  },
+  {
+    "company": "Walt Disney",
+    "title": "WDI Project Engineering Intern, Spring 2027",
+    "location": "Glendale, CA, USA",
+    "employment_type": "internship",
+    "category": "Other",
+    "salary": "$31/hr",
+    "salary_min": 31.0,
+    "keywords": [],
+    "sponsorship_evidence": "",
+    "h1b_status": "unknown",
+    "sponsorship_label": "Not specified",
+    "url": "https://disney.wd5.myworkdayjobs.com/en-US/disneycareer/job/Glendale-CA-USA/WDI-Project-Engineering-Intern--Spring-2027_10158179"
+  },
+  {
+    "company": "Walt Disney",
+    "title": "WDI Ride Control Engineering Intern, Glendale, Spring 2027",
+    "location": "Glendale, CA, USA",
+    "employment_type": "internship",
+    "category": "Other",
+    "salary": "$31/hr",
+    "salary_min": 31.0,
+    "keywords": [
+      "electrical engineering",
+      "CAD"
+    ],
+    "sponsorship_evidence": "",
+    "h1b_status": "unknown",
+    "sponsorship_label": "Not specified",
+    "url": "https://disney.wd5.myworkdayjobs.com/en-US/disneycareer/job/Glendale-CA-USA/WDI-Ride-Control-Hardware-Engineering-Intern--Spring-2027_10158186"
+  },
+  {
+    "company": "Walt Disney",
+    "title": "WDI Show Control Hardware Intern, Glendale, Spring 2027",
+    "location": "Glendale, CA, USA",
+    "employment_type": "internship",
+    "category": "Other",
+    "salary": "$3/hr",
+    "salary_min": 3.0,
+    "keywords": [
+      "SolidWorks"
+    ],
+    "sponsorship_evidence": "",
+    "h1b_status": "unknown",
+    "sponsorship_label": "Not specified",
+    "url": "https://disney.wd5.myworkdayjobs.com/en-US/disneycareer/job/Glendale-CA-USA/WDI-Show-Control-Hardware-Intern--Glendale--Spring-2027_10158467"
+  },
+  {
+    "company": "Walt Disney",
+    "title": "WDI Show Mechanical Design & Production Intern, Glendale, Spring 2027",
+    "location": "Glendale, CA, USA",
+    "employment_type": "internship",
+    "category": "Engineering",
+    "salary": "$26.5/hr",
+    "salary_min": 26.5,
+    "keywords": [
+      "CAD",
+      "SolidWorks"
+    ],
+    "sponsorship_evidence": "",
+    "h1b_status": "unknown",
+    "sponsorship_label": "Not specified",
+    "url": "https://disney.wd5.myworkdayjobs.com/en-US/disneycareer/job/Glendale-CA-USA/WDI-Show-Mechanical-Design---Production-Intern--Glendale--Spring-2027_10158499"
+  },
+  {
+    "company": "Walt Disney",
+    "title": "WDI Show Mechanical Engineering Intern, Glendale, Spring 2027",
+    "location": "Glendale, CA, USA",
+    "employment_type": "internship",
+    "category": "Engineering",
+    "salary": "$31/hr",
+    "salary_min": 31.0,
+    "keywords": [
+      "mechanical engineering",
+      "SolidWorks"
+    ],
+    "sponsorship_evidence": "",
+    "h1b_status": "unknown",
+    "sponsorship_label": "Not specified",
+    "url": "https://disney.wd5.myworkdayjobs.com/en-US/disneycareer/job/Glendale-CA-USA/WDI-Show-Mechanical-Engineering-Intern--Glendale--Spring-2027_10158506"
+  },
+  {
+    "company": "Walt Disney",
+    "title": "WDI Show Technical Production Management Intern, Glendale, Spring 2027",
+    "location": "Glendale, CA, USA",
+    "employment_type": "internship",
+    "category": "Other",
+    "salary": "$26.5/hr",
+    "salary_min": 26.5,
+    "keywords": [
+      "SolidWorks"
+    ],
+    "sponsorship_evidence": "",
+    "h1b_status": "unknown",
+    "sponsorship_label": "Not specified",
+    "url": "https://disney.wd5.myworkdayjobs.com/en-US/disneycareer/job/Glendale-CA-USA/WDI-Show-Technical-Production-Management-Intern--Glendale--Spring-2027_10158509"
+  },
+  {
+    "company": "Walt Disney",
+    "title": "WDI Special Effects Designer Intern, Glendale, Spring 2027",
+    "location": "Glendale, CA, USA",
+    "employment_type": "internship",
+    "category": "Other",
+    "salary": "$26.5/hr",
+    "salary_min": 26.5,
+    "keywords": [
+      "SolidWorks"
+    ],
+    "sponsorship_evidence": "",
+    "h1b_status": "unknown",
+    "sponsorship_label": "Not specified",
+    "url": "https://disney.wd5.myworkdayjobs.com/en-US/disneycareer/job/Glendale-CA-USA/WDI-Special-Effects-Designer-Intern--Glendale--Spring-2027_10158464"
+  },
+  {
+    "company": "Walt Disney",
+    "title": "Assistive Technology Intern, Spring 2027",
+    "location": "Lake Buena Vista, FL, USA",
+    "employment_type": "internship",
+    "category": "Other",
+    "salary": "$31/hr",
+    "salary_min": 31.0,
+    "keywords": [
+      "Python",
+      "audit",
+      "mechanical engineering",
+      "electrical engineering",
+      "CAD"
+    ],
+    "sponsorship_evidence": "",
+    "h1b_status": "unknown",
+    "sponsorship_label": "Not specified",
+    "url": "https://disney.wd5.myworkdayjobs.com/en-US/disneycareer/job/Lake-Buena-Vista-FL-USA/Assistive-Technology-Intern--Spring-2027_10156692-1"
+  },
+  {
+    "company": "Walt Disney",
+    "title": "Disney Signature Experiences Pricing & Revenue Management Intern, Spring 2027",
+    "location": "Celebration, FL, USA",
+    "employment_type": "internship",
+    "category": "Other",
+    "salary": "$31/hr",
+    "salary_min": 31.0,
+    "keywords": [
+      "Python",
+      "SQL",
+      "data science",
+      "analytics",
+      "Excel",
+      "accounting"
+    ],
+    "sponsorship_evidence": "",
+    "h1b_status": "unknown",
+    "sponsorship_label": "Not specified",
+    "url": "https://disney.wd5.myworkdayjobs.com/en-US/disneycareer/job/Celebration-FL-USA/Disney-Signature-Experiences-Pricing---Revenue-Management-Intern--Spring-2027_10158469"
+  },
+  {
+    "company": "Walt Disney",
+    "title": "Labor Systems Data Analytics & Integration Intern, Spring 2027",
+    "location": "Lake Buena Vista, FL, USA",
+    "employment_type": "internship",
+    "category": "Data & AI",
+    "salary": "$31/hr",
+    "salary_min": 31.0,
+    "keywords": [
+      "data science",
+      "analytics"
+    ],
+    "sponsorship_evidence": "",
+    "h1b_status": "unknown",
+    "sponsorship_label": "Not specified",
+    "url": "https://disney.wd5.myworkdayjobs.com/en-US/disneycareer/job/Lake-Buena-Vista-FL-USA/Labor-Systems-Data-Analytics---Integration-Intern--Spring-2027_10157891-1"
+  },
+  {
+    "company": "Walt Disney",
+    "title": "Labor Systems Web Integration Intern, Spring 2027",
+    "location": "Lake Buena Vista, FL, USA",
+    "employment_type": "internship",
+    "category": "Other",
+    "salary": "$31/hr",
+    "salary_min": 31.0,
+    "keywords": [
+      "Python",
+      "JavaScript",
+      "SQL",
+      "React",
+      "AWS",
+      "data science",
+      "analytics"
+    ],
+    "sponsorship_evidence": "",
+    "h1b_status": "unknown",
+    "sponsorship_label": "Not specified",
+    "url": "https://disney.wd5.myworkdayjobs.com/en-US/disneycareer/job/Lake-Buena-Vista-FL-USA/Labor-Systems-Web-Integration-Intern--Spring-2027_10158184"
+  },
+  {
+    "company": "Walt Disney",
+    "title": "WDI Business Planning and Strategy Intern, Orlando, Spring 2027",
+    "location": "Celebration, FL, USA",
+    "employment_type": "internship",
+    "category": "Other",
+    "salary": "$26.5/hr",
+    "salary_min": 26.5,
+    "keywords": [
+      "Python",
+      "SQL",
+      "data science",
+      "analytics"
+    ],
+    "sponsorship_evidence": "",
+    "h1b_status": "unknown",
+    "sponsorship_label": "Not specified",
+    "url": "https://disney.wd5.myworkdayjobs.com/en-US/disneycareer/job/Celebration-FL-USA/WDI-Business-Planning-and-Strategy-Intern--Orlando--Spring-2027_10158474-2"
+  },
+  {
+    "company": "Walt Disney",
+    "title": "WDI Civil Engineering Intern, Orlando, Spring 2027",
+    "location": "Lake Buena Vista, FL, USA",
+    "employment_type": "internship",
+    "category": "Engineering",
+    "salary": "$31/hr",
+    "salary_min": 31.0,
+    "keywords": [
+      "electrical engineering",
+      "contracts"
+    ],
+    "sponsorship_evidence": "",
+    "h1b_status": "unknown",
+    "sponsorship_label": "Not specified",
+    "url": "https://disney.wd5.myworkdayjobs.com/en-US/disneycareer/job/Lake-Buena-Vista-FL-USA/WDI-Civil-Engineering-Intern--Orlando--Spring-2027_10158161-1"
+  },
+  {
+    "company": "Walt Disney",
+    "title": "WDI Graphic Fabrication Design Intern, Spring 2027",
+    "location": "Lake Buena Vista, FL, USA",
+    "employment_type": "internship",
+    "category": "Other",
+    "salary": "$26.5/hr",
+    "salary_min": 26.5,
+    "keywords": [
+      "mechanical engineering",
+      "CAD",
+      "contracts"
+    ],
+    "sponsorship_evidence": "",
+    "h1b_status": "unknown",
+    "sponsorship_label": "Not specified",
+    "url": "https://disney.wd5.myworkdayjobs.com/en-US/disneycareer/job/Lake-Buena-Vista-FL-USA/WDI-Graphic-Fabrication-Design-Intern--Spring-2027_10158945"
+  },
+  {
+    "company": "Walt Disney",
+    "title": "WDI Ride Control Engineering Intern, Orlando, Spring 2027",
+    "location": "Lake Buena Vista, FL, USA",
+    "employment_type": "internship",
+    "category": "Other",
+    "salary": "$31/hr",
+    "salary_min": 31.0,
+    "keywords": [
+      "electrical engineering",
+      "CAD"
+    ],
+    "sponsorship_evidence": "",
+    "h1b_status": "unknown",
+    "sponsorship_label": "Not specified",
+    "url": "https://disney.wd5.myworkdayjobs.com/en-US/disneycareer/job/Lake-Buena-Vista-FL-USA/WDI-Ride-Control-Engineering-Intern--Orlando--Spring-2027_10159013"
+  },
+  {
+    "company": "Walt Disney",
+    "title": "WDI Ride Development Engineering Intern, Spring 2027",
+    "location": "Lake Buena Vista, FL, USA",
+    "employment_type": "internship",
+    "category": "Other",
+    "salary": "$31/hr",
+    "salary_min": 31.0,
+    "keywords": [
+      "mechanical engineering",
+      "CAD",
+      "SolidWorks"
+    ],
+    "sponsorship_evidence": "",
+    "h1b_status": "unknown",
+    "sponsorship_label": "Not specified",
+    "url": "https://disney.wd5.myworkdayjobs.com/en-US/disneycareer/job/Lake-Buena-Vista-FL-USA/WDI-Ride-Development-Engineering-Intern--Spring-2027_10158669"
+  },
+  {
+    "company": "Walt Disney",
+    "title": "WDI Set Decorator Intern, Orlando, Spring 2027",
+    "location": "Lake Buena Vista, FL, USA",
+    "employment_type": "internship",
+    "category": "Other",
+    "salary": "$26.5/hr",
+    "salary_min": 26.5,
+    "keywords": [
+      "Excel"
+    ],
+    "sponsorship_evidence": "",
+    "h1b_status": "unknown",
+    "sponsorship_label": "Not specified",
+    "url": "https://disney.wd5.myworkdayjobs.com/en-US/disneycareer/job/Lake-Buena-Vista-FL-USA/WDI-Set-Decorator-Intern--Orlando--Spring-2027_10158463-1"
+  },
+  {
+    "company": "Walt Disney",
+    "title": "WDI Show Mechanical Design & Production Intern, Orlando, Spring 2027",
+    "location": "Celebration, FL, USA",
+    "employment_type": "internship",
+    "category": "Engineering",
+    "salary": "$26.5/hr",
+    "salary_min": 26.5,
+    "keywords": [
+      "CAD",
+      "SolidWorks"
+    ],
+    "sponsorship_evidence": "",
+    "h1b_status": "unknown",
+    "sponsorship_label": "Not specified",
+    "url": "https://disney.wd5.myworkdayjobs.com/en-US/disneycareer/job/Celebration-FL-USA/WDI-Show-Mechanical-Design---Production-Intern--Orlando--Spring-2027_10158494-1"
+  },
+  {
+    "company": "Walt Disney",
+    "title": "WDI Show Mechanical Engineering Intern, Orlando, Spring 2027",
+    "location": "Lake Buena Vista, FL, USA",
+    "employment_type": "internship",
+    "category": "Engineering",
+    "salary": "$31/hr",
+    "salary_min": 31.0,
+    "keywords": [
+      "mechanical engineering",
+      "SolidWorks"
+    ],
+    "sponsorship_evidence": "",
+    "h1b_status": "unknown",
+    "sponsorship_label": "Not specified",
+    "url": "https://disney.wd5.myworkdayjobs.com/en-US/disneycareer/job/Lake-Buena-Vista-FL-USA/WDI-Show-Mechanical-Engineering-Intern--Orlando--Spring-2027_10158505"
+  },
+  {
+    "company": "Walt Disney",
+    "title": "WDI Show Mechanical Engineering Intern, Surface Development, Orlando, Spring 2027",
+    "location": "Celebration, FL, USA",
+    "employment_type": "internship",
+    "category": "Engineering",
+    "salary": "$31/hr",
+    "salary_min": 31.0,
+    "keywords": [
+      "mechanical engineering",
+      "SolidWorks"
+    ],
+    "sponsorship_evidence": "",
+    "h1b_status": "unknown",
+    "sponsorship_label": "Not specified",
+    "url": "https://disney.wd5.myworkdayjobs.com/en-US/disneycareer/job/Celebration-FL-USA/WDI-Show-Mechanical-Engineering-Intern--Surface-Development--Orlando--Spring-2027_10158502"
+  },
+  {
+    "company": "Walt Disney",
+    "title": "WDI Show Technical Production Management Intern, Orlando, Spring 2027",
+    "location": "Lake Buena Vista, FL, USA",
+    "employment_type": "internship",
+    "category": "Other",
+    "salary": "$26.5/hr",
+    "salary_min": 26.5,
+    "keywords": [
+      "SolidWorks"
+    ],
+    "sponsorship_evidence": "",
+    "h1b_status": "unknown",
+    "sponsorship_label": "Not specified",
+    "url": "https://disney.wd5.myworkdayjobs.com/en-US/disneycareer/job/Lake-Buena-Vista-FL-USA/WDI-Show-Technical-Production-Management-Intern--Orlando--Spring-2027_10158619"
+  },
+  {
+    "company": "Walt Disney",
+    "title": "WDI Special Effects Designer Intern, Orlando, Spring 2027 2026",
+    "location": "Lake Buena Vista, FL, USA",
+    "employment_type": "internship",
+    "category": "Other",
+    "salary": "$26.5/hr",
+    "salary_min": 26.5,
+    "keywords": [
+      "SolidWorks"
+    ],
+    "sponsorship_evidence": "",
+    "h1b_status": "unknown",
+    "sponsorship_label": "Not specified",
+    "url": "https://disney.wd5.myworkdayjobs.com/en-US/disneycareer/job/Lake-Buena-Vista-FL-USA/WDI-Special-Effects-Designer-Intern--Orlando--Spring-2027-2026_10158465"
+  },
+  {
+    "company": "Walt Disney",
+    "title": "WDW Analytical & Strategic Planning Intern, Spring 2027",
+    "location": "Lake Buena Vista, FL, USA",
+    "employment_type": "internship",
+    "category": "Other",
+    "salary": "Not disclosed",
+    "salary_min": null,
+    "keywords": [
+      "SQL",
+      "analytics",
+      "Excel"
+    ],
+    "sponsorship_evidence": "",
+    "h1b_status": "unknown",
+    "sponsorship_label": "Not specified",
+    "url": "https://disney.wd5.myworkdayjobs.com/en-US/disneycareer/job/Lake-Buena-Vista-FL-USA/WDW-Analytical---Strategic-Planning-Intern--Spring-2027_10158138"
+  },
+  {
+    "company": "Walt Disney",
+    "title": "WDW Architecture Intern, Spring 2027",
+    "location": "Lake Buena Vista, FL, USA",
+    "employment_type": "internship",
+    "category": "Other",
+    "salary": "Not disclosed",
+    "salary_min": null,
+    "keywords": [
+      "Excel"
+    ],
+    "sponsorship_evidence": "",
+    "h1b_status": "unknown",
+    "sponsorship_label": "Not specified",
+    "url": "https://disney.wd5.myworkdayjobs.com/en-US/disneycareer/job/Lake-Buena-Vista-FL-USA/WDW-Architecture-Intern--Spring-2027_10158147"
+  },
+  {
+    "company": "Walt Disney",
+    "title": "WDW Computer Science / Computer Engineering Interns, Spring 2027",
+    "location": "Lake Buena Vista, FL, USA",
+    "employment_type": "full-time",
+    "category": "Other",
+    "salary": "Not disclosed",
+    "salary_min": null,
+    "keywords": [
+      "Python",
+      "C#",
+      "SQL",
+      "Node.js",
+      "AWS",
+      "Azure",
+      "GCP",
+      "Docker"
+    ],
+    "sponsorship_evidence": "",
+    "h1b_status": "unknown",
+    "sponsorship_label": "Not specified",
+    "url": "https://disney.wd5.myworkdayjobs.com/en-US/disneycareer/job/Lake-Buena-Vista-FL-USA/WDW-Computer-Science---Computer-Engineering-Interns--Spring-2027_10158145"
+  },
+  {
+    "company": "Walt Disney",
+    "title": "WDW Construction and Project Management Interns, Spring 2027",
+    "location": "Lake Buena Vista, FL, USA",
+    "employment_type": "full-time",
+    "category": "Other",
+    "salary": "Not disclosed",
+    "salary_min": null,
+    "keywords": [
+      "Excel"
+    ],
+    "sponsorship_evidence": "",
+    "h1b_status": "unknown",
+    "sponsorship_label": "Not specified",
+    "url": "https://disney.wd5.myworkdayjobs.com/en-US/disneycareer/job/Lake-Buena-Vista-FL-USA/WDW-Construction-and-Project-Management-Interns--Spring-2027_10158140"
+  },
+  {
+    "company": "Walt Disney",
+    "title": "WDW Engineering Interns, Spring 2027",
+    "location": "Lake Buena Vista, FL, USA",
+    "employment_type": "full-time",
+    "category": "Other",
+    "salary": "Not disclosed",
+    "salary_min": null,
+    "keywords": [
+      "Python",
+      "Java",
+      "Excel"
+    ],
+    "sponsorship_evidence": "",
+    "h1b_status": "unknown",
+    "sponsorship_label": "Not specified",
+    "url": "https://disney.wd5.myworkdayjobs.com/en-US/disneycareer/job/Lake-Buena-Vista-FL-USA/WDW-Engineering-Interns--Spring-2027_10158141"
+  },
+  {
+    "company": "Walt Disney",
+    "title": "WDW Fire Protection Engineering Intern, Spring 2027",
+    "location": "Lake Buena Vista, FL, USA",
+    "employment_type": "internship",
+    "category": "Other",
+    "salary": "$31/hr",
+    "salary_min": 31.0,
+    "keywords": [
+      "Excel",
+      "compliance"
+    ],
+    "sponsorship_evidence": "",
+    "h1b_status": "unknown",
+    "sponsorship_label": "Not specified",
+    "url": "https://disney.wd5.myworkdayjobs.com/en-US/disneycareer/job/Lake-Buena-Vista-FL-USA/WDW-Fire-Protection-Engineering-Intern--Spring-2027_10158135"
+  },
+  {
+    "company": "Walt Disney",
+    "title": "WDW Occupational Safety & Industrial Hygiene Interns, Spring 2027",
+    "location": "Lake Buena Vista, FL, USA",
+    "employment_type": "full-time",
+    "category": "Engineering",
+    "salary": "Not disclosed",
+    "salary_min": null,
+    "keywords": [
+      "Excel",
+      "accounting"
+    ],
+    "sponsorship_evidence": "",
+    "h1b_status": "unknown",
+    "sponsorship_label": "Not specified",
+    "url": "https://disney.wd5.myworkdayjobs.com/en-US/disneycareer/job/Lake-Buena-Vista-FL-USA/WDW-Occupational-Safety---Industrial-Hygiene-Interns--Spring-2027_10158134-2"
+  },
+  {
+    "company": "Walt Disney",
+    "title": "WDW Power and Facilities Electrical Engineering Interns, Spring 2027",
+    "location": "Lake Buena Vista, FL, USA",
+    "employment_type": "full-time",
+    "category": "Engineering",
+    "salary": "Not disclosed",
+    "salary_min": null,
+    "keywords": [
+      "Excel",
+      "electrical engineering"
+    ],
+    "sponsorship_evidence": "",
+    "h1b_status": "unknown",
+    "sponsorship_label": "Not specified",
+    "url": "https://disney.wd5.myworkdayjobs.com/en-US/disneycareer/job/Lake-Buena-Vista-FL-USA/WDW-Power-and-Facilities-Electrical-Engineering-Interns--Spring-2027_10158139"
+  },
+  {
+    "company": "Walt Disney",
+    "title": "Walt Disney World Procurement Services Intern, Spring 2027",
+    "location": "Lake Buena Vista, FL, USA",
+    "employment_type": "internship",
+    "category": "Operations & Supply Chain",
+    "salary": "Not disclosed",
+    "salary_min": null,
+    "keywords": [
+      "Excel",
+      "accounting",
+      "supply chain",
+      "procurement"
+    ],
+    "sponsorship_evidence": "",
+    "h1b_status": "unknown",
+    "sponsorship_label": "Not specified",
+    "url": "https://disney.wd5.myworkdayjobs.com/en-US/disneycareer/job/Lake-Buena-Vista-FL-USA/Walt-Disney-World-Procurement-Services-Intern--Spring-2027_10159048"
+  },
+  {
+    "company": "Walt Disney",
+    "title": "Walt Disney World Strategic Sourcing Intern, Spring 2027",
+    "location": "Lake Buena Vista, FL, USA",
+    "employment_type": "internship",
+    "category": "Other",
+    "salary": "Not disclosed",
+    "salary_min": null,
+    "keywords": [
+      "Excel",
+      "supply chain",
+      "logistics",
+      "compliance",
+      "contracts"
+    ],
+    "sponsorship_evidence": "",
+    "h1b_status": "unknown",
+    "sponsorship_label": "Not specified",
+    "url": "https://disney.wd5.myworkdayjobs.com/en-US/disneycareer/job/Lake-Buena-Vista-FL-USA/Walt-Disney-World-Strategic-Sourcing-Intern--Spring-2027_10158738-1"
+  },
+  {
+    "company": "Walt Disney",
+    "title": "Walt Disney World Transportation Logistics & Analytics Intern, Spring 2027",
+    "location": "Lake Buena Vista, FL, USA",
+    "employment_type": "internship",
+    "category": "Data & AI",
+    "salary": "$31/hr",
+    "salary_min": 31.0,
+    "keywords": [
+      "Python",
+      "SQL",
+      "data science",
+      "analytics",
+      "supply chain",
+      "logistics"
+    ],
+    "sponsorship_evidence": "",
+    "h1b_status": "unknown",
+    "sponsorship_label": "Not specified",
+    "url": "https://disney.wd5.myworkdayjobs.com/en-US/disneycareer/job/Lake-Buena-Vista-FL-USA/Walt-Disney-World-Transportation-Logistics---Analytics-Intern--Spring-2027_10158253-1"
+  },
+  {
+    "company": "Walt Disney",
+    "title": "Walt Disney World Workforce Management Industrial Engineering Intern, Spring/Summer 2027",
+    "location": "Lake Buena Vista, FL, USA",
+    "employment_type": "internship",
+    "category": "Engineering",
+    "salary": "$31/hr",
+    "salary_min": 31.0,
+    "keywords": [
+      "Python",
+      "SQL",
+      "data science",
+      "analytics",
+      "Excel"
+    ],
+    "sponsorship_evidence": "",
+    "h1b_status": "unknown",
+    "sponsorship_label": "Not specified",
+    "url": "https://disney.wd5.myworkdayjobs.com/en-US/disneycareer/job/Lake-Buena-Vista-FL-USA/Walt-Disney-World-Workforce-Management-Industrial-Engineering-Intern--Spring-Summer-2027_10158144"
   },
   {
     "company": "Walt Disney",
@@ -96110,24 +96785,6 @@
   },
   {
     "company": "Walt Disney",
-    "title": "Mgr Product Mgmt",
-    "location": "Glendale, CA, USA",
-    "employment_type": "full-time",
-    "category": "Other",
-    "salary": "Not disclosed",
-    "salary_min": null,
-    "keywords": [
-      "React",
-      "analytics",
-      "supply chain"
-    ],
-    "sponsorship_evidence": "",
-    "h1b_status": "unknown",
-    "sponsorship_label": "Not specified",
-    "url": "https://disney.wd5.myworkdayjobs.com/en-US/disneycareer/job/Glendale-CA-USA/Mgr-Product-Mgmt_10154853"
-  },
-  {
-    "company": "Walt Disney",
     "title": "Manager, Strategic Sourcing \u2013 Disney Cruise Line",
     "location": "Celebration, FL, USA",
     "employment_type": "full-time",
@@ -96966,23 +97623,6 @@
     "h1b_status": "unknown",
     "sponsorship_label": "Not specified",
     "url": "https://disney.wd5.myworkdayjobs.com/en-US/disneycareer/job/Burbank-CA-USA/Digital-Marketing-Operations-Specialist--PH-_10157314"
-  },
-  {
-    "company": "Walt Disney",
-    "title": "Senior Safety Professional, Hotel Occupational Safety",
-    "location": "Celebration, FL, USA",
-    "employment_type": "full-time",
-    "category": "Other",
-    "salary": "$100.1k\u2013$134.2k/yr",
-    "salary_min": 100100.0,
-    "keywords": [
-      "audit",
-      "compliance"
-    ],
-    "sponsorship_evidence": "",
-    "h1b_status": "unknown",
-    "sponsorship_label": "Not specified",
-    "url": "https://disney.wd5.myworkdayjobs.com/en-US/disneycareer/job/Celebration-FL-USA/Senior-Safety-Professional--Hotel-Occupational-Safety_10156448"
   },
   {
     "company": "Walt Disney",
@@ -99049,23 +99689,6 @@
   },
   {
     "company": "Walt Disney",
-    "title": "Analyst, DTC Strategy",
-    "location": "Glendale, CA, USA",
-    "employment_type": "full-time",
-    "category": "Other",
-    "salary": "$87.1k\u2013$116.8k/yr",
-    "salary_min": 87100.0,
-    "keywords": [
-      "Excel",
-      "financial modeling"
-    ],
-    "sponsorship_evidence": "",
-    "h1b_status": "unknown",
-    "sponsorship_label": "Not specified",
-    "url": "https://disney.wd5.myworkdayjobs.com/en-US/disneycareer/job/Glendale-CA-USA/Analyst--DTC-Strategy_10146682"
-  },
-  {
-    "company": "Walt Disney",
     "title": "Senior Analyst, Subscriber Growth & Monetization",
     "location": "Santa Monica, CA, USA",
     "employment_type": "full-time",
@@ -99212,6 +99835,46 @@
     "h1b_status": "unknown",
     "sponsorship_label": "Not specified",
     "url": "https://disney.wd5.myworkdayjobs.com/en-US/disneycareer/job/New-York-NY-USA/Usher_10114778"
+  },
+  {
+    "company": "Johnson & Johnson",
+    "title": "Summer 2027 Finance Internship \u2013 El Paso, TX/Juarez, MX",
+    "location": "El Paso, Texas, United States of America",
+    "employment_type": "internship",
+    "category": "Finance & Accounting",
+    "salary": "$26/hr",
+    "salary_min": 26.0,
+    "keywords": [
+      "analytics",
+      "Excel",
+      "accounting",
+      "supply chain",
+      "legal"
+    ],
+    "sponsorship_evidence": "",
+    "h1b_status": "unknown",
+    "sponsorship_label": "Not specified",
+    "url": "https://jj.wd5.myworkdayjobs.com/en-US/JJ/job/El-Paso-Texas-United-States-of-America/Summer-2027-Finance-Internship---El-Paso--TX-Juarez--MX_R-095343"
+  },
+  {
+    "company": "Johnson & Johnson",
+    "title": "2027 Finance Leadership Development Program (FLDP) - Full Time \u2013 El Paso, TX / Juarez, MX",
+    "location": "El Paso, Texas, United States of America",
+    "employment_type": "full-time",
+    "category": "Finance & Accounting",
+    "salary": "$87.8k/yr",
+    "salary_min": 87800.0,
+    "keywords": [
+      "analytics",
+      "Excel",
+      "accounting",
+      "audit",
+      "supply chain"
+    ],
+    "sponsorship_evidence": "",
+    "h1b_status": "unknown",
+    "sponsorship_label": "Not specified",
+    "url": "https://jj.wd5.myworkdayjobs.com/en-US/JJ/job/El-Paso-Texas-United-States-of-America/XMLNAME-2027-Finance-Leadership-Development-Program--FLDP----Full-Time---El-Paso--TX---Juarez--MX_R-093407"
   },
   {
     "company": "Johnson & Johnson",
@@ -102105,76 +102768,6 @@
   },
   {
     "company": "Johnson & Johnson",
-    "title": "Manufacturing Maintenance & Calibration Lead",
-    "location": "Raritan, New Jersey, United States of America",
-    "employment_type": "full-time",
-    "category": "Other",
-    "salary": "Not disclosed",
-    "salary_min": null,
-    "keywords": [
-      "analytics",
-      "audit",
-      "supply chain",
-      "compliance"
-    ],
-    "sponsorship_evidence": "",
-    "h1b_status": "unknown",
-    "sponsorship_label": "Not specified",
-    "url": "https://jj.wd5.myworkdayjobs.com/en-US/JJ/job/Raritan-New-Jersey-United-States-of-America/Manufacturing-Maintenance---Calibration-Lead_R-087612"
-  },
-  {
-    "company": "Johnson & Johnson",
-    "title": "Senior Facility Manufacturing Engineer",
-    "location": "Raritan, New Jersey, United States of America",
-    "employment_type": "full-time",
-    "category": "Engineering",
-    "salary": "Not disclosed",
-    "salary_min": null,
-    "keywords": [
-      "supply chain",
-      "compliance"
-    ],
-    "sponsorship_evidence": "",
-    "h1b_status": "unknown",
-    "sponsorship_label": "Not specified",
-    "url": "https://jj.wd5.myworkdayjobs.com/en-US/JJ/job/Raritan-New-Jersey-United-States-of-America/Senior-Facility-Manufacturing-Engineer_R-089960-1"
-  },
-  {
-    "company": "Johnson & Johnson",
-    "title": "Director, Communications & Public Affairs, US Dermatology and Rheumatology",
-    "location": "Horsham, Pennsylvania, United States of America",
-    "employment_type": "full-time",
-    "category": "Sales & Marketing",
-    "salary": "Not disclosed",
-    "salary_min": null,
-    "keywords": [
-      "analytics"
-    ],
-    "sponsorship_evidence": "",
-    "h1b_status": "unknown",
-    "sponsorship_label": "Not specified",
-    "url": "https://jj.wd5.myworkdayjobs.com/en-US/JJ/job/Horsham-Pennsylvania-United-States-of-America/Director--Communications---Public-Affairs--US-Dermatology-and-Rheumatology_R-091354-1"
-  },
-  {
-    "company": "Johnson & Johnson",
-    "title": "Sr. Supervisor, Operations CAR-T",
-    "location": "Raritan, New Jersey, United States of America",
-    "employment_type": "full-time",
-    "category": "Operations & Supply Chain",
-    "salary": "Not disclosed",
-    "salary_min": null,
-    "keywords": [
-      "Excel",
-      "supply chain",
-      "compliance"
-    ],
-    "sponsorship_evidence": "",
-    "h1b_status": "unknown",
-    "sponsorship_label": "Not specified",
-    "url": "https://jj.wd5.myworkdayjobs.com/en-US/JJ/job/Raritan-New-Jersey-United-States-of-America/Sr-Supervisor--Operations-CAR-T_R-093687-1"
-  },
-  {
-    "company": "Johnson & Johnson",
     "title": "Senior Sales Consultant, Sports Medicine (Nashville, TN) \u2013 Johnson & Johnson MedTech, Orthopaedics",
     "location": "Nashville, Tennessee, United States",
     "employment_type": "full-time",
@@ -102207,24 +102800,6 @@
     "h1b_status": "unknown",
     "sponsorship_label": "Not specified",
     "url": "https://jj.wd5.myworkdayjobs.com/en-US/JJ/job/Raritan-New-Jersey-United-States-of-America/Director--Global-Medical-Affairs-Strategy---Execution_R-091588-1"
-  },
-  {
-    "company": "Johnson & Johnson",
-    "title": "Global Medical Affairs Leader, H&N and CRC",
-    "location": "Raritan, New Jersey, United States of America",
-    "employment_type": "full-time",
-    "category": "Other",
-    "salary": "Not disclosed",
-    "salary_min": null,
-    "keywords": [
-      "risk management",
-      "recruiting",
-      "compliance"
-    ],
-    "sponsorship_evidence": "",
-    "h1b_status": "unknown",
-    "sponsorship_label": "Not specified",
-    "url": "https://jj.wd5.myworkdayjobs.com/en-US/JJ/job/Raritan-New-Jersey-United-States-of-America/Global-Medical-Affairs-Leader--H-N-and-CRC_R-093896-1"
   },
   {
     "company": "Johnson & Johnson",
@@ -102342,44 +102917,6 @@
   },
   {
     "company": "Johnson & Johnson",
-    "title": "Associate Account Executive (Chicago, IL) \u2013 Johnson & Johnson MedTech, Surgery",
-    "location": "Chicago, Illinois, United States",
-    "employment_type": "full-time",
-    "category": "Sales & Marketing",
-    "salary": "Not disclosed",
-    "salary_min": null,
-    "keywords": [
-      "sales"
-    ],
-    "sponsorship_evidence": "",
-    "h1b_status": "unknown",
-    "sponsorship_label": "Not specified",
-    "url": "https://jj.wd5.myworkdayjobs.com/en-US/JJ/job/Chicago-Illinois-United-States/Associate-Account-Executive--Chicago--IL----Johnson---Johnson-MedTech--Surgery_R-094107-1"
-  },
-  {
-    "company": "Johnson & Johnson",
-    "title": "Senior Financial Analyst Enabling Tech Supply Chain",
-    "location": "Palm Beach Gardens, Florida, United States of America",
-    "employment_type": "full-time",
-    "category": "Finance & Accounting",
-    "salary": "Not disclosed",
-    "salary_min": null,
-    "keywords": [
-      "Excel",
-      "accounting",
-      "audit",
-      "supply chain",
-      "recruiting",
-      "compliance",
-      "legal"
-    ],
-    "sponsorship_evidence": "",
-    "h1b_status": "unknown",
-    "sponsorship_label": "Not specified",
-    "url": "https://jj.wd5.myworkdayjobs.com/en-US/JJ/job/Palm-Beach-Gardens-Florida-United-States-of-America/Senior-Financial-Analyst-Enabling-Tech-Supply-Chain_R-093647"
-  },
-  {
-    "company": "Johnson & Johnson",
     "title": "Staff Engineer, Margin Acceleration",
     "location": "Irvine, California, United States of America",
     "employment_type": "full-time",
@@ -102414,43 +102951,6 @@
     "h1b_status": "unknown",
     "sponsorship_label": "Not specified",
     "url": "https://jj.wd5.myworkdayjobs.com/en-US/JJ/job/New-York-New-York-United-States/Clinical-Sales-Specialist--Sports-Medicine--Nassau-County----Johnson---Johnson-MedTech---Orthopaedics_R-090168-1"
-  },
-  {
-    "company": "Johnson & Johnson",
-    "title": "DevOps Engineer",
-    "location": "Santa Clara, California, United States of America",
-    "employment_type": "full-time",
-    "category": "Software & IT",
-    "salary": "Not disclosed",
-    "salary_min": null,
-    "keywords": [
-      "Python",
-      "AWS",
-      "Docker",
-      "Kubernetes",
-      "Terraform"
-    ],
-    "sponsorship_evidence": "",
-    "h1b_status": "unknown",
-    "sponsorship_label": "Not specified",
-    "url": "https://jj.wd5.myworkdayjobs.com/en-US/JJ/job/Santa-Clara-California-United-States-of-America/DevOps-Engineer_R-067918-2"
-  },
-  {
-    "company": "Johnson & Johnson",
-    "title": "Neuroscience Sales Specialist (Salt Lake City-South, UT) \u2013 Johnson & Johnson Innovative Medicine",
-    "location": "Salt Lake City, Utah, United States of America",
-    "employment_type": "full-time",
-    "category": "Sales & Marketing",
-    "salary": "Not disclosed",
-    "salary_min": null,
-    "keywords": [
-      "sales",
-      "compliance"
-    ],
-    "sponsorship_evidence": "",
-    "h1b_status": "unknown",
-    "sponsorship_label": "Not specified",
-    "url": "https://jj.wd5.myworkdayjobs.com/en-US/JJ/job/Salt-Lake-City-Utah-United-States-of-America/Neuroscience-Sales-Specialist--Salt-Lake-City-South--UT----Johnson---Johnson-Innovative-Medicine_R-094171-2"
   },
   {
     "company": "Johnson & Johnson",
@@ -102549,26 +103049,6 @@
   },
   {
     "company": "Johnson & Johnson",
-    "title": "Supervisor, Plant Management",
-    "location": "Jacksonville, Florida, United States of America",
-    "employment_type": "full-time",
-    "category": "Other",
-    "salary": "Not disclosed",
-    "salary_min": null,
-    "keywords": [
-      "Excel",
-      "audit",
-      "supply chain",
-      "recruiting",
-      "compliance"
-    ],
-    "sponsorship_evidence": "",
-    "h1b_status": "unknown",
-    "sponsorship_label": "Not specified",
-    "url": "https://jj.wd5.myworkdayjobs.com/en-US/JJ/job/Jacksonville-Florida-United-States-of-America/Supervisor--Plant-Management_R-093649"
-  },
-  {
-    "company": "Johnson & Johnson",
     "title": "Value Stream Manufacturing Lead",
     "location": "Jacksonville, Florida, United States of America",
     "employment_type": "full-time",
@@ -102654,27 +103134,6 @@
     "h1b_status": "unknown",
     "sponsorship_label": "Not specified",
     "url": "https://jj.wd5.myworkdayjobs.com/en-US/JJ/job/Raritan-New-Jersey-United-States-of-America/US-Surgery-Demand-Planning-Co-Op_R-094088-1"
-  },
-  {
-    "company": "Johnson & Johnson",
-    "title": "Senior Quality Engineer",
-    "location": "Palm Beach Gardens, Florida, United States of America",
-    "employment_type": "full-time",
-    "category": "Engineering",
-    "salary": "Not disclosed",
-    "salary_min": null,
-    "keywords": [
-      "audit",
-      "risk management",
-      "supply chain",
-      "recruiting",
-      "compliance",
-      "legal"
-    ],
-    "sponsorship_evidence": "",
-    "h1b_status": "unknown",
-    "sponsorship_label": "Not specified",
-    "url": "https://jj.wd5.myworkdayjobs.com/en-US/JJ/job/Palm-Beach-Gardens-Florida-United-States-of-America/Senior-Quality-Engineer_R-092925-1"
   },
   {
     "company": "Johnson & Johnson",
@@ -102849,22 +103308,6 @@
   },
   {
     "company": "Johnson & Johnson",
-    "title": "Oncology Sales Specialist, Solid Tumor/Lung (Atlanta, GA) - Johnson & Johnson Innovative Medicine",
-    "location": "Atlanta, Georgia, United States",
-    "employment_type": "full-time",
-    "category": "Sales & Marketing",
-    "salary": "Not disclosed",
-    "salary_min": null,
-    "keywords": [
-      "sales"
-    ],
-    "sponsorship_evidence": "",
-    "h1b_status": "unknown",
-    "sponsorship_label": "Not specified",
-    "url": "https://jj.wd5.myworkdayjobs.com/en-US/JJ/job/Atlanta-Georgia-United-States/Oncology-Sales-Specialist--Solid-Tumor-Lung--Atlanta--GA----Johnson---Johnson-Innovative-Medicine_R-090801-1"
-  },
-  {
-    "company": "Johnson & Johnson",
     "title": "Finance SAP Transformation Leader",
     "location": "New Brunswick, New Jersey, United States of America",
     "employment_type": "full-time",
@@ -102907,23 +103350,6 @@
   },
   {
     "company": "Johnson & Johnson",
-    "title": "Quality Control Microbiology Lab Supervisor",
-    "location": "Athens, Georgia, United States of America",
-    "employment_type": "full-time",
-    "category": "Other",
-    "salary": "Not disclosed",
-    "salary_min": null,
-    "keywords": [
-      "supply chain",
-      "compliance"
-    ],
-    "sponsorship_evidence": "",
-    "h1b_status": "unknown",
-    "sponsorship_label": "Not specified",
-    "url": "https://jj.wd5.myworkdayjobs.com/en-US/JJ/job/Athens-Georgia-United-States-of-America/Quality-Control-Microbiology-Lab-Supervisor_R-093522"
-  },
-  {
-    "company": "Johnson & Johnson",
     "title": "Sr Manager, US Marketing - Monarch Urology (1 of 2)",
     "location": "Santa Clara, California, United States of America",
     "employment_type": "full-time",
@@ -102941,25 +103367,6 @@
     "h1b_status": "unknown",
     "sponsorship_label": "Not specified",
     "url": "https://jj.wd5.myworkdayjobs.com/en-US/JJ/job/Santa-Clara-California-United-States-of-America/Sr-Manager--US-Marketing---Monarch-Urology--1-of-2-_R-093729-1"
-  },
-  {
-    "company": "Johnson & Johnson",
-    "title": "Account Executive II - Advanced Hemostasis and Healing (Ann Arbor, MI) \u2013 Johnson & Johnson MedTech, Surgery",
-    "location": "Ann Arbor, Michigan, United States",
-    "employment_type": "full-time",
-    "category": "Sales & Marketing",
-    "salary": "Not disclosed",
-    "salary_min": null,
-    "keywords": [
-      "procurement",
-      "sales",
-      "recruiting",
-      "compliance"
-    ],
-    "sponsorship_evidence": "",
-    "h1b_status": "unknown",
-    "sponsorship_label": "Not specified",
-    "url": "https://jj.wd5.myworkdayjobs.com/en-US/JJ/job/Ann-Arbor-Michigan-United-States/Account-Executive-II---Advanced-Hemostasis-and-Healing--Ann-Arbor--MI----Johnson---Johnson-MedTech--Surgery_R-093856-2"
   },
   {
     "company": "Johnson & Johnson",
@@ -103278,25 +103685,6 @@
     "h1b_status": "unknown",
     "sponsorship_label": "Not specified",
     "url": "https://jj.wd5.myworkdayjobs.com/en-US/JJ/job/Raritan-New-Jersey-United-States-of-America/Director-ERP-Technology-Competency_R-093128-1"
-  },
-  {
-    "company": "Johnson & Johnson",
-    "title": "Sr. Analyst Deliver Excellence/Surgical Robotics-OTTAVA",
-    "location": "Santa Clara, California, United States of America",
-    "employment_type": "full-time",
-    "category": "Other",
-    "salary": "Not disclosed",
-    "salary_min": null,
-    "keywords": [
-      "Excel",
-      "supply chain",
-      "logistics",
-      "legal"
-    ],
-    "sponsorship_evidence": "",
-    "h1b_status": "unknown",
-    "sponsorship_label": "Not specified",
-    "url": "https://jj.wd5.myworkdayjobs.com/en-US/JJ/job/Santa-Clara-California-United-States-of-America/Sr-Analyst-Deliver-Excellence-Surgical-Robotics-OTTAVA_R-080080-1"
   },
   {
     "company": "Johnson & Johnson",
@@ -103660,23 +104048,6 @@
     "h1b_status": "unknown",
     "sponsorship_label": "Not specified",
     "url": "https://jj.wd5.myworkdayjobs.com/en-US/JJ/job/Seattle-Washington-United-States-of-America/Neuroscience-Sales-Specialist--Seattle--WA----Johnson---Johnson-Innovative-Medicine_R-089342-1"
-  },
-  {
-    "company": "Johnson & Johnson",
-    "title": "Senior Immunology Sales Specialist, Dermatology (Colorado Springs, CO) - Johnson & Johnson Innovative Medicine",
-    "location": "Colorado Springs, Colorado, United States of America",
-    "employment_type": "full-time",
-    "category": "Sales & Marketing",
-    "salary": "Not disclosed",
-    "salary_min": null,
-    "keywords": [
-      "sales",
-      "legal"
-    ],
-    "sponsorship_evidence": "",
-    "h1b_status": "unknown",
-    "sponsorship_label": "Not specified",
-    "url": "https://jj.wd5.myworkdayjobs.com/en-US/JJ/job/Colorado-Springs-Colorado-United-States-of-America/Senior-Immunology-Sales-Specialist--Dermatology--Colorado-Springs--CO----Johnson---Johnson-Innovative-Medicine_R-089033-1"
   },
   {
     "company": "Johnson & Johnson",
@@ -104150,24 +104521,6 @@
   },
   {
     "company": "Johnson & Johnson",
-    "title": "Neuroscience Sales Specialist - Mood (Grand Rapids, MI) - Johnson & Johnson Innovative Medicine",
-    "location": "Grand Rapids, Michigan, United States",
-    "employment_type": "full-time",
-    "category": "Sales & Marketing",
-    "salary": "Not disclosed",
-    "salary_min": null,
-    "keywords": [
-      "analytics",
-      "sales",
-      "compliance"
-    ],
-    "sponsorship_evidence": "",
-    "h1b_status": "unknown",
-    "sponsorship_label": "Not specified",
-    "url": "https://jj.wd5.myworkdayjobs.com/en-US/JJ/job/Grand-Rapids-Michigan-United-States/Neuroscience-Sales-Specialist--Grand-Rapids--MI----Johnson---Johnson-Innovative-Medicine_R-088083-2"
-  },
-  {
-    "company": "Johnson & Johnson",
     "title": "Director - R&D DDSAI - Therapeutics Development & Supply (TDS)",
     "location": "Spring House, Pennsylvania, United States of America",
     "employment_type": "full-time",
@@ -104213,42 +104566,6 @@
   },
   {
     "company": "Johnson & Johnson",
-    "title": "Territory Manager - Shockwave Medical (Albany, NY)",
-    "location": "Albany, New York, United States of America",
-    "employment_type": "full-time",
-    "category": "Other",
-    "salary": "Not disclosed",
-    "salary_min": null,
-    "keywords": [
-      "procurement",
-      "sales",
-      "compliance",
-      "legal"
-    ],
-    "sponsorship_evidence": "",
-    "h1b_status": "unknown",
-    "sponsorship_label": "Not specified",
-    "url": "https://jj.wd5.myworkdayjobs.com/en-US/JJ/job/Albany-New-York-United-States-of-America/Territory-Manager---Shockwave-Medical--Albany--NY-_R-092504-2"
-  },
-  {
-    "company": "Johnson & Johnson",
-    "title": "Director, Scientific Communications, Content and Publications",
-    "location": "Raritan, New Jersey, United States of America",
-    "employment_type": "full-time",
-    "category": "Sales & Marketing",
-    "salary": "Not disclosed",
-    "salary_min": null,
-    "keywords": [
-      "compliance",
-      "legal"
-    ],
-    "sponsorship_evidence": "",
-    "h1b_status": "unknown",
-    "sponsorship_label": "Not specified",
-    "url": "https://jj.wd5.myworkdayjobs.com/en-US/JJ/job/Raritan-New-Jersey-United-States-of-America/Director--Scientific-Communications--Content-and-Publications_R-088368-1"
-  },
-  {
-    "company": "Johnson & Johnson",
     "title": "Electro Mechanical Assembler II (2nd Shift).",
     "location": "Palm Beach Gardens, Florida, United States of America",
     "employment_type": "full-time",
@@ -104265,60 +104582,6 @@
     "h1b_status": "unknown",
     "sponsorship_label": "Not specified",
     "url": "https://jj.wd5.myworkdayjobs.com/en-US/JJ/job/Palm-Beach-Gardens-Florida-United-States-of-America/Electro-Mechanical-Assembler-II--2nd-Shift-_R-083467"
-  },
-  {
-    "company": "Johnson & Johnson",
-    "title": "Senior R&D Program Manager",
-    "location": "Boston, Massachusetts, United States of America",
-    "employment_type": "full-time",
-    "category": "Other",
-    "salary": "Not disclosed",
-    "salary_min": null,
-    "keywords": [
-      "Azure",
-      "data science",
-      "risk management",
-      "legal"
-    ],
-    "sponsorship_evidence": "",
-    "h1b_status": "unknown",
-    "sponsorship_label": "Not specified",
-    "url": "https://jj.wd5.myworkdayjobs.com/en-US/JJ/job/Boston-Massachusetts-United-States-of-America/Senior-R-D-Program-Manager_R-082095-1"
-  },
-  {
-    "company": "Johnson & Johnson",
-    "title": "Principal Engineer, R&D",
-    "location": "Jacksonville, Florida, United States of America",
-    "employment_type": "full-time",
-    "category": "Other",
-    "salary": "Not disclosed",
-    "salary_min": null,
-    "keywords": [
-      "machine learning",
-      "mechanical engineering",
-      "contracts"
-    ],
-    "sponsorship_evidence": "",
-    "h1b_status": "unknown",
-    "sponsorship_label": "Not specified",
-    "url": "https://jj.wd5.myworkdayjobs.com/en-US/JJ/job/Jacksonville-Florida-United-States-of-America/Principal-Engineer--R-D_R-088862-2"
-  },
-  {
-    "company": "Johnson & Johnson",
-    "title": "Senior Global Medical Affairs Lead (GMAL), Prostate",
-    "location": "Raritan, New Jersey, United States of America",
-    "employment_type": "full-time",
-    "category": "Other",
-    "salary": "Not disclosed",
-    "salary_min": null,
-    "keywords": [
-      "risk management",
-      "compliance"
-    ],
-    "sponsorship_evidence": "",
-    "h1b_status": "unknown",
-    "sponsorship_label": "Not specified",
-    "url": "https://jj.wd5.myworkdayjobs.com/en-US/JJ/job/Raritan-New-Jersey-United-States-of-America/Senior-Global-Medical-Affairs-Lead--GMAL---Prostate_R-070000"
   },
   {
     "company": "Johnson & Johnson",
@@ -104376,26 +104639,6 @@
     "h1b_status": "unknown",
     "sponsorship_label": "Not specified",
     "url": "https://jj.wd5.myworkdayjobs.com/en-US/JJ/job/Jacksonville-Florida-United-States-of-America/Senior-Category-Manager--Global-MedTech-Vision-Equipment---Automation_R-092285"
-  },
-  {
-    "company": "Johnson & Johnson",
-    "title": "Senior Mechanical Engineer - R&D Robotics",
-    "location": "Santa Clara, California, United States of America",
-    "employment_type": "full-time",
-    "category": "Engineering",
-    "salary": "Not disclosed",
-    "salary_min": null,
-    "keywords": [
-      "mechanical engineering",
-      "CAD",
-      "SolidWorks",
-      "recruiting",
-      "legal"
-    ],
-    "sponsorship_evidence": "",
-    "h1b_status": "unknown",
-    "sponsorship_label": "Not specified",
-    "url": "https://jj.wd5.myworkdayjobs.com/en-US/JJ/job/Santa-Clara-California-United-States-of-America/Senior-Mechanical-Engineer---R-D-Robotics_R-091786"
   },
   {
     "company": "Johnson & Johnson",
@@ -104864,41 +105107,6 @@
     "h1b_status": "unknown",
     "sponsorship_label": "Not specified",
     "url": "https://jj.wd5.myworkdayjobs.com/en-US/JJ/job/Santa-Clara-California-United-States-of-America/Director--Software-Engineering--MONARCH_R-090499-1"
-  },
-  {
-    "company": "Johnson & Johnson",
-    "title": "Associate Director, Clinical Research",
-    "location": "Irvine, California, United States of America",
-    "employment_type": "full-time",
-    "category": "Other",
-    "salary": "Not disclosed",
-    "salary_min": null,
-    "keywords": [
-      "GCP",
-      "recruiting",
-      "compliance"
-    ],
-    "sponsorship_evidence": "",
-    "h1b_status": "unknown",
-    "sponsorship_label": "Not specified",
-    "url": "https://jj.wd5.myworkdayjobs.com/en-US/JJ/job/Irvine-California-United-States-of-America/Associate-Director--Clinical-Research_R-081415-2"
-  },
-  {
-    "company": "Johnson & Johnson",
-    "title": "Senior Robotics and Controls Engineer - Strategic Robotics",
-    "location": "Santa Clara, California, United States of America",
-    "employment_type": "full-time",
-    "category": "Other",
-    "salary": "Not disclosed",
-    "salary_min": null,
-    "keywords": [
-      "data science",
-      "recruiting"
-    ],
-    "sponsorship_evidence": "",
-    "h1b_status": "unknown",
-    "sponsorship_label": "Not specified",
-    "url": "https://jj.wd5.myworkdayjobs.com/en-US/JJ/job/Santa-Clara-California-United-States-of-America/Senior-Robotics-and-Controls-Engineer---Strategic-Robotics_R-091269-1"
   },
   {
     "company": "Johnson & Johnson",
@@ -105872,27 +106080,6 @@
   },
   {
     "company": "Johnson & Johnson",
-    "title": "Data Science Lead",
-    "location": "Milpitas, California, United States of America",
-    "employment_type": "full-time",
-    "category": "Other",
-    "salary": "Not disclosed",
-    "salary_min": null,
-    "keywords": [
-      "Python",
-      "Azure",
-      "machine learning",
-      "data science",
-      "analytics",
-      "supply chain"
-    ],
-    "sponsorship_evidence": "",
-    "h1b_status": "unknown",
-    "sponsorship_label": "Not specified",
-    "url": "https://jj.wd5.myworkdayjobs.com/en-US/JJ/job/Milpitas-California-United-States-of-America/Data-Science-Lead_R-086009-1"
-  },
-  {
-    "company": "Johnson & Johnson",
     "title": "Senior R&D Scientist, Biomaterials",
     "location": "West Chester, Pennsylvania, United States of America",
     "employment_type": "full-time",
@@ -106046,25 +106233,6 @@
     "h1b_status": "unknown",
     "sponsorship_label": "Not specified",
     "url": "https://jj.wd5.myworkdayjobs.com/en-US/JJ/job/Santa-Clara-California-United-States-of-America/IT-Director--Commercial-Systems---Shockwave-Medical_R-082559-1"
-  },
-  {
-    "company": "Johnson & Johnson",
-    "title": "Manager, External Innovation - MedTech Surgery",
-    "location": "Raritan, New Jersey, United States of America",
-    "employment_type": "full-time",
-    "category": "Other",
-    "salary": "Not disclosed",
-    "salary_min": null,
-    "keywords": [
-      "recruiting",
-      "compliance",
-      "legal",
-      "contracts"
-    ],
-    "sponsorship_evidence": "",
-    "h1b_status": "unknown",
-    "sponsorship_label": "Not specified",
-    "url": "https://jj.wd5.myworkdayjobs.com/en-US/JJ/job/Raritan-New-Jersey-United-States-of-America/Manager--External-Innovation---MedTech-Surgery_R-070432-1"
   },
   {
     "company": "Johnson & Johnson",
@@ -107509,23 +107677,6 @@
   },
   {
     "company": "RTX",
-    "title": "Manager, Payroll Benefits (Remote)",
-    "location": "US-CT-REMOTE",
-    "employment_type": "full-time",
-    "category": "Other",
-    "salary": "Not disclosed",
-    "salary_min": null,
-    "keywords": [
-      "Excel",
-      "compliance"
-    ],
-    "sponsorship_evidence": "",
-    "h1b_status": "unknown",
-    "sponsorship_label": "Not specified",
-    "url": "https://globalhr.wd5.myworkdayjobs.com/en-US/REC_RTX_Ext_Gateway/job/US-CT-REMOTE/Manager--Payroll-Benefits--Remote-_01868497"
-  },
-  {
-    "company": "RTX",
     "title": "Mechanical Assembler I, 1st Shift (Onsite)",
     "location": "US-TX-SAN MARCOS-2005 ~ 2005 Technology Wy ~ TECHNOLOGY",
     "employment_type": "full-time",
@@ -108521,24 +108672,6 @@
   },
   {
     "company": "RTX",
-    "title": "Quality Auditor (Remote)",
-    "location": "US-CT-REMOTE",
-    "employment_type": "full-time",
-    "category": "Finance & Accounting",
-    "salary": "Not disclosed",
-    "salary_min": null,
-    "keywords": [
-      "audit",
-      "compliance",
-      "contracts"
-    ],
-    "sponsorship_evidence": "",
-    "h1b_status": "unknown",
-    "sponsorship_label": "Not specified",
-    "url": "https://globalhr.wd5.myworkdayjobs.com/en-US/REC_RTX_Ext_Gateway/job/US-CT-REMOTE/Quality-Auditor--Remote-_01864101"
-  },
-  {
-    "company": "RTX",
     "title": "Lead Engineer",
     "location": "IN-KA-BENGALURU-NORTHGATE ~ Sy No 2/2 Venkatala Village ~ SY NO 2/2 VENKATALA VILLAGE, Yelahanka Hobli",
     "employment_type": "full-time",
@@ -108680,25 +108813,6 @@
     "h1b_status": "unknown",
     "sponsorship_label": "Not specified",
     "url": "https://globalhr.wd5.myworkdayjobs.com/en-US/REC_RTX_Ext_Gateway/job/US-CA-GOLETA-B01--6825-Cortona-Dr--BLDG-B01/XMLNAME-2026-Fulltime---Electronics-Design-Engineer-I---Onsite_01826209"
-  },
-  {
-    "company": "RTX",
-    "title": "Senior Manager - Human Resources",
-    "location": "IN-KA-BENGALURU-BLDG 1 ~ Hitech, Defence & Aerospace Park ~ HI TECH DEFENSE",
-    "employment_type": "full-time",
-    "category": "People & Legal",
-    "salary": "Not disclosed",
-    "salary_min": null,
-    "keywords": [
-      "supply chain",
-      "human resources",
-      "recruiting",
-      "compliance"
-    ],
-    "sponsorship_evidence": "",
-    "h1b_status": "unknown",
-    "sponsorship_label": "Not specified",
-    "url": "https://globalhr.wd5.myworkdayjobs.com/en-US/REC_RTX_Ext_Gateway/job/IN-KA-BENGALURU-BLDG-1--Hitech-Defence--Aerospace-Park--HI-TECH-DEFENSE/Senior-Manager---Human-Resources_01868967"
   },
   {
     "company": "RTX",
@@ -109143,26 +109257,6 @@
     "h1b_status": "unknown",
     "sponsorship_label": "Not specified",
     "url": "https://globalhr.wd5.myworkdayjobs.com/en-US/REC_RTX_Ext_Gateway/job/US-AZ-TUCSON-805--1151-E-Hermans-Rd--BLDG-805/Senior-Spacecraft-Concept---Mission-Engineer-Onsite_01868250"
-  },
-  {
-    "company": "RTX",
-    "title": "Principal Engineer - Learning for Dynamics & Control",
-    "location": "US-CT-EAST HARTFORD-RTRC L ~ 411 Silver Ln ~ RTRC L",
-    "employment_type": "full-time",
-    "category": "Other",
-    "salary": "Not disclosed",
-    "salary_min": null,
-    "keywords": [
-      "Python",
-      "machine learning",
-      "recruiting",
-      "compliance",
-      "contracts"
-    ],
-    "sponsorship_evidence": "",
-    "h1b_status": "unknown",
-    "sponsorship_label": "Not specified",
-    "url": "https://globalhr.wd5.myworkdayjobs.com/en-US/REC_RTX_Ext_Gateway/job/US-CT-EAST-HARTFORD-RTRC-L--411-Silver-Ln--RTRC-L/Principal-Engineer---Learning-for-Dynamics---Control_01868703"
   },
   {
     "company": "RTX",
@@ -110999,23 +111093,6 @@
   },
   {
     "company": "RTX",
-    "title": "Software Engineer I (Onsite)",
-    "location": "US-MA-MARLBOROUGH-MA2 ~ 1001 Boston Post Rd ~ BLDG 2",
-    "employment_type": "full-time",
-    "category": "Software & IT",
-    "salary": "Not disclosed",
-    "salary_min": null,
-    "keywords": [
-      "Java",
-      "compliance"
-    ],
-    "sponsorship_evidence": "",
-    "h1b_status": "unknown",
-    "sponsorship_label": "Not specified",
-    "url": "https://globalhr.wd5.myworkdayjobs.com/en-US/REC_RTX_Ext_Gateway/job/US-MA-MARLBOROUGH-MA2--1001-Boston-Post-Rd--BLDG-2/Software-Engineer-I--Onsite-_01861525"
-  },
-  {
-    "company": "RTX",
     "title": "Machining Cell Operator , 3rd Shift (Onsite)",
     "location": "US-ME-NORTH BERWICK-113 ~ 113 Wells St ~ WELLS, Rte 9",
     "employment_type": "full-time",
@@ -112761,24 +112838,6 @@
   },
   {
     "company": "RTX",
-    "title": "Radio Frequency (RF) Digital Design Electrical Engineer I (Hybrid)",
-    "location": "US-PR-AGUADILLA-110 ~ Rd 110 N Km 28.8 ~ RD110",
-    "employment_type": "full-time",
-    "category": "Engineering",
-    "salary": "Not disclosed",
-    "salary_min": null,
-    "keywords": [
-      "recruiting",
-      "compliance",
-      "contracts"
-    ],
-    "sponsorship_evidence": "",
-    "h1b_status": "unknown",
-    "sponsorship_label": "Not specified",
-    "url": "https://globalhr.wd5.myworkdayjobs.com/en-US/REC_RTX_Ext_Gateway/job/US-PR-AGUADILLA-110--Rd-110-N-Km-288--RD110/Radio-Frequency--RF--Digital-Design-Electrical-Engineer-I--Hybrid-_01865082"
-  },
-  {
-    "company": "RTX",
     "title": "Principal Systems Engineer (ONSITE)",
     "location": "US-IA-CEDAR RAPIDS-130 ~ 5350 C Ave NE ~ BLDG 130",
     "employment_type": "full-time",
@@ -113256,25 +113315,6 @@
     "h1b_status": "unknown",
     "sponsorship_label": "Not specified",
     "url": "https://globalhr.wd5.myworkdayjobs.com/en-US/REC_RTX_Ext_Gateway/job/US-PR-AGUADILLA-110--Rd-110-N-Km-288--RD110/Generative-AI-Software-Developer-Engineer--Hybrid---Aguadilla--PR-_01854543"
-  },
-  {
-    "company": "RTX",
-    "title": "Principal Specialist, Supplier Quality & Development (Remote)",
-    "location": "US-MA-REMOTE",
-    "employment_type": "full-time",
-    "category": "Other",
-    "salary": "Not disclosed",
-    "salary_min": null,
-    "keywords": [
-      "Excel",
-      "supply chain",
-      "compliance",
-      "legal"
-    ],
-    "sponsorship_evidence": "",
-    "h1b_status": "unknown",
-    "sponsorship_label": "Not specified",
-    "url": "https://globalhr.wd5.myworkdayjobs.com/en-US/REC_RTX_Ext_Gateway/job/US-MA-REMOTE/Principal-Specialist--Supplier-Quality---Development--Remote-_01865563"
   },
   {
     "company": "RTX",
@@ -114255,26 +114295,6 @@
     "h1b_status": "unknown",
     "sponsorship_label": "Not specified",
     "url": "https://globalhr.wd5.myworkdayjobs.com/en-US/REC_RTX_Ext_Gateway/job/DE-SH-LUBECK-BLDG-1--Revalstr-1--BLDG-1/Lagerist--m-w-d-_01867929"
-  },
-  {
-    "company": "RTX",
-    "title": "Associate Engineer \u2013 Data Analytics",
-    "location": "IN-KA-BENGALURU-003 ~ Hoodi Village Whitefield Road ~ HOODI VILLAGE BLDG 3, Krishnarajapuram Hobli",
-    "employment_type": "full-time",
-    "category": "Data & AI",
-    "salary": "Not disclosed",
-    "salary_min": null,
-    "keywords": [
-      "Python",
-      "SQL",
-      "analytics",
-      "Excel",
-      "supply chain"
-    ],
-    "sponsorship_evidence": "",
-    "h1b_status": "unknown",
-    "sponsorship_label": "Not specified",
-    "url": "https://globalhr.wd5.myworkdayjobs.com/en-US/REC_RTX_Ext_Gateway/job/IN-KA-BENGALURU-003--Hoodi-Village-Whitefield-Road--HOODI-VILLAGE-BLDG-3-Krishnarajapuram-Hobli/Associate-Engineer---Data-Analytics_01866503"
   },
   {
     "company": "RTX",
@@ -117924,22 +117944,6 @@
   },
   {
     "company": "RTX",
-    "title": "Tomahawk Administrative Coordinator",
-    "location": "US-AZ-TUCSON-9020 ~ 9020 S Rita Rd ~ BLDG 9020",
-    "employment_type": "full-time",
-    "category": "Other",
-    "salary": "Not disclosed",
-    "salary_min": null,
-    "keywords": [
-      "compliance"
-    ],
-    "sponsorship_evidence": "",
-    "h1b_status": "unknown",
-    "sponsorship_label": "Not specified",
-    "url": "https://globalhr.wd5.myworkdayjobs.com/en-US/REC_RTX_Ext_Gateway/job/US-AZ-TUCSON-9020--9020-S-Rita-Rd--BLDG-9020/Tomahawk-Administrative-Coordinator_01867415"
-  },
-  {
-    "company": "RTX",
     "title": "Mechanic Millwright - 2nd Shift (Onsite)",
     "location": "US-CT-MIDDLETOWN-110 ~ Aircraft Rd ~ BLDG 110",
     "employment_type": "full-time",
@@ -119015,25 +119019,6 @@
     "h1b_status": "unknown",
     "sponsorship_label": "Not specified",
     "url": "https://globalhr.wd5.myworkdayjobs.com/en-US/REC_RTX_Ext_Gateway/job/US-CT-EAST-HARTFORD-OBF2--400-Main-St--BLDG-OBF2/Senior-Analyst--Earned-Value-Analyst-EVM--Onsite-_01863396"
-  },
-  {
-    "company": "RTX",
-    "title": "Parts Cleaner (2nd Shift)(Onsite)",
-    "location": "US-WV-BRIDGEPORT-1525 ~ 1525 Midway Park Rd ~ MIDWAY BLDG A",
-    "employment_type": "full-time",
-    "category": "Other",
-    "salary": "Not disclosed",
-    "salary_min": null,
-    "keywords": [
-      "Excel",
-      "recruiting",
-      "compliance",
-      "contracts"
-    ],
-    "sponsorship_evidence": "",
-    "h1b_status": "unknown",
-    "sponsorship_label": "Not specified",
-    "url": "https://globalhr.wd5.myworkdayjobs.com/en-US/REC_RTX_Ext_Gateway/job/US-WV-BRIDGEPORT-1525--1525-Midway-Park-Rd--MIDWAY-BLDG-A/Parts-Cleaner--2nd-Shift--Onsite-_01867379"
   },
   {
     "company": "RTX",
@@ -136120,26 +136105,6 @@
   },
   {
     "company": "RTX",
-    "title": "Senior Analyst, Contracts (Onsite)",
-    "location": "US-AZ-TUCSON-9020 ~ 9020 S Rita Rd ~ BLDG 9020",
-    "employment_type": "full-time",
-    "category": "Other",
-    "salary": "Not disclosed",
-    "salary_min": null,
-    "keywords": [
-      "supply chain",
-      "procurement",
-      "recruiting",
-      "compliance",
-      "contracts"
-    ],
-    "sponsorship_evidence": "",
-    "h1b_status": "unknown",
-    "sponsorship_label": "Not specified",
-    "url": "https://globalhr.wd5.myworkdayjobs.com/en-US/REC_RTX_Ext_Gateway/job/US-AZ-TUCSON-9020--9020-S-Rita-Rd--BLDG-9020/Senior-Analyst--Contracts--Onsite-_01856821"
-  },
-  {
-    "company": "RTX",
     "title": "Embedded Software Engineer II (Onsite)",
     "location": "US-NC-MORRISVILLE-907 ~ 951 Aviation Pkwy ~ 907 BLDG",
     "employment_type": "full-time",
@@ -136695,25 +136660,6 @@
     "h1b_status": "unknown",
     "sponsorship_label": "Not specified",
     "url": "https://globalhr.wd5.myworkdayjobs.com/en-US/REC_RTX_Ext_Gateway/job/US-WA-POULSBO-WA1--26285-Twelve-Trees-Ln--TWELVE-TREES/Program-Quality-Engineer_01864380"
-  },
-  {
-    "company": "RTX",
-    "title": "Manager, Global Trade (Remote)",
-    "location": "US-TN-REMOTE",
-    "employment_type": "full-time",
-    "category": "Other",
-    "salary": "Not disclosed",
-    "salary_min": null,
-    "keywords": [
-      "audit",
-      "supply chain",
-      "recruiting",
-      "compliance"
-    ],
-    "sponsorship_evidence": "",
-    "h1b_status": "unknown",
-    "sponsorship_label": "Not specified",
-    "url": "https://globalhr.wd5.myworkdayjobs.com/en-US/REC_RTX_Ext_Gateway/job/US-TN-REMOTE/Manager--Global-Trade--Remote-_01863948"
   },
   {
     "company": "RTX",
@@ -144848,25 +144794,6 @@
     "h1b_status": "unknown",
     "sponsorship_label": "Not specified",
     "url": "https://globalhr.wd5.myworkdayjobs.com/en-US/REC_RTX_Ext_Gateway/job/US-CA-GOLETA-B01--6825-Cortona-Dr--BLDG-B01/Vision-Systems--Test-Engineer--II_01860189"
-  },
-  {
-    "company": "RTX",
-    "title": "Production Scheduler",
-    "location": "CA-NS-HALIFAX-PLANT 41 ~ 189 Pratt & Whitney Dr ~ PLANT 41",
-    "employment_type": "full-time",
-    "category": "Other",
-    "salary": "Not disclosed",
-    "salary_min": null,
-    "keywords": [
-      "Python",
-      "Excel",
-      "logistics",
-      "procurement"
-    ],
-    "sponsorship_evidence": "",
-    "h1b_status": "unknown",
-    "sponsorship_label": "Not specified",
-    "url": "https://globalhr.wd5.myworkdayjobs.com/en-US/REC_RTX_Ext_Gateway/job/CA-NS-HALIFAX-PLANT-41--189-Pratt--Whitney-Dr--PLANT-41/Production-Scheduler_01857779-1"
   },
   {
     "company": "RTX",
@@ -159022,22 +158949,6 @@
   },
   {
     "company": "RTX",
-    "title": "Production Operator",
-    "location": "US-AR-CAMDEN-H100 ~ 100 Wilson Rd ~ BLDG H100, Highland Industrial Park",
-    "employment_type": "full-time",
-    "category": "Other",
-    "salary": "Not disclosed",
-    "salary_min": null,
-    "keywords": [
-      "compliance"
-    ],
-    "sponsorship_evidence": "",
-    "h1b_status": "unknown",
-    "sponsorship_label": "Not specified",
-    "url": "https://globalhr.wd5.myworkdayjobs.com/en-US/REC_RTX_Ext_Gateway/job/US-AR-CAMDEN-H100--100-Wilson-Rd--BLDG-H100-Highland-Industrial-Park/Production-Operator_01855297"
-  },
-  {
-    "company": "RTX",
     "title": "(Senior) RMTS System-Engineer (m/f/d)",
     "location": "DE-BW-HEIDELBERG-036-755 ~ Grenzhofer Weg 36 ~ BLDG 755",
     "employment_type": "full-time",
@@ -159603,145 +159514,6 @@
   },
   {
     "company": "RTX",
-    "title": "Facilities Management Coordinator",
-    "location": "AU-WA-HENDERSON-001 ~ 1 Mcgrath Rd ~ MCGRATH",
-    "employment_type": "full-time",
-    "category": "Other",
-    "salary": "Not disclosed",
-    "salary_min": null,
-    "keywords": [
-      "compliance"
-    ],
-    "sponsorship_evidence": "",
-    "h1b_status": "unknown",
-    "sponsorship_label": "Not specified",
-    "url": "https://globalhr.wd5.myworkdayjobs.com/en-US/REC_RTX_Ext_Gateway/job/AU-WA-HENDERSON-001--1-Mcgrath-Rd--MCGRATH/Facilities-Management-Coordinator_01854252-1"
-  },
-  {
-    "company": "RTX",
-    "title": "Principal Systems Engineer - Signal and Sensor Modeling Engineer",
-    "location": "US-AZ-TUCSON-9020 ~ 9020 S Rita Rd ~ BLDG 9020",
-    "employment_type": "full-time",
-    "category": "Software & IT",
-    "salary": "Not disclosed",
-    "salary_min": null,
-    "keywords": [
-      "Python",
-      "artificial intelligence",
-      "compliance"
-    ],
-    "sponsorship_evidence": "",
-    "h1b_status": "unknown",
-    "sponsorship_label": "Not specified",
-    "url": "https://globalhr.wd5.myworkdayjobs.com/en-US/REC_RTX_Ext_Gateway/job/US-AZ-TUCSON-9020--9020-S-Rita-Rd--BLDG-9020/Principal-Systems-Engineer---Signal-and-Sensor-Modeling-Engineer_01853123"
-  },
-  {
-    "company": "RTX",
-    "title": "Sr. Principal Systems Engineer - Signal and Sensor Modeling Engineer",
-    "location": "US-AZ-TUCSON-9020 ~ 9020 S Rita Rd ~ BLDG 9020",
-    "employment_type": "full-time",
-    "category": "Software & IT",
-    "salary": "Not disclosed",
-    "salary_min": null,
-    "keywords": [
-      "Python",
-      "artificial intelligence",
-      "compliance"
-    ],
-    "sponsorship_evidence": "",
-    "h1b_status": "unknown",
-    "sponsorship_label": "Not specified",
-    "url": "https://globalhr.wd5.myworkdayjobs.com/en-US/REC_RTX_Ext_Gateway/job/US-AZ-TUCSON-9020--9020-S-Rita-Rd--BLDG-9020/Sr-Principal-Systems-Engineer---Signal-and-Sensor-Modeling-Engineer_01853124"
-  },
-  {
-    "company": "RTX",
-    "title": "Principal Systems Engineer - Modeling Simulation & Analysis Engineer",
-    "location": "US-AZ-TUCSON-9020 ~ 9020 S Rita Rd ~ BLDG 9020",
-    "employment_type": "full-time",
-    "category": "Software & IT",
-    "salary": "Not disclosed",
-    "salary_min": null,
-    "keywords": [
-      "Python",
-      "compliance"
-    ],
-    "sponsorship_evidence": "",
-    "h1b_status": "unknown",
-    "sponsorship_label": "Not specified",
-    "url": "https://globalhr.wd5.myworkdayjobs.com/en-US/REC_RTX_Ext_Gateway/job/US-AZ-TUCSON-9020--9020-S-Rita-Rd--BLDG-9020/Principal-Systems-Engineer---Systems-Engineer-II---Modeling-Simulation---Analysis-Engineer_01853119"
-  },
-  {
-    "company": "RTX",
-    "title": "Sr. Systems Engineer - Signal and Sensor Modeling Engineer",
-    "location": "US-AZ-TUCSON-9020 ~ 9020 S Rita Rd ~ BLDG 9020",
-    "employment_type": "full-time",
-    "category": "Software & IT",
-    "salary": "Not disclosed",
-    "salary_min": null,
-    "keywords": [
-      "Python",
-      "artificial intelligence",
-      "compliance"
-    ],
-    "sponsorship_evidence": "",
-    "h1b_status": "unknown",
-    "sponsorship_label": "Not specified",
-    "url": "https://globalhr.wd5.myworkdayjobs.com/en-US/REC_RTX_Ext_Gateway/job/US-AZ-TUCSON-9020--9020-S-Rita-Rd--BLDG-9020/Sr-Systems-Engineer---Signal-and-Sensor-Modeling-Engineer_01853122-1"
-  },
-  {
-    "company": "RTX",
-    "title": "Sr. Systems Engineer - Modeling Simulation & Analysis Engineer",
-    "location": "US-AZ-TUCSON-9020 ~ 9020 S Rita Rd ~ BLDG 9020",
-    "employment_type": "full-time",
-    "category": "Software & IT",
-    "salary": "Not disclosed",
-    "salary_min": null,
-    "keywords": [
-      "Python",
-      "compliance"
-    ],
-    "sponsorship_evidence": "",
-    "h1b_status": "unknown",
-    "sponsorship_label": "Not specified",
-    "url": "https://globalhr.wd5.myworkdayjobs.com/en-US/REC_RTX_Ext_Gateway/job/US-AZ-TUCSON-9020--9020-S-Rita-Rd--BLDG-9020/Sr-Systems-Engineer---Systems-Engineer-II---Modeling-Simulation---Analysis-Engineer_01853117-1"
-  },
-  {
-    "company": "RTX",
-    "title": "Systems Engineer II - Signal and Sensor Modeling Engineer",
-    "location": "US-AZ-TUCSON-9020 ~ 9020 S Rita Rd ~ BLDG 9020",
-    "employment_type": "full-time",
-    "category": "Software & IT",
-    "salary": "Not disclosed",
-    "salary_min": null,
-    "keywords": [
-      "Python",
-      "artificial intelligence",
-      "compliance"
-    ],
-    "sponsorship_evidence": "",
-    "h1b_status": "unknown",
-    "sponsorship_label": "Not specified",
-    "url": "https://globalhr.wd5.myworkdayjobs.com/en-US/REC_RTX_Ext_Gateway/job/US-AZ-TUCSON-9020--9020-S-Rita-Rd--BLDG-9020/Systems-Engineer-II---Signal-and-Sensor-Modeling-Engineer_01853120"
-  },
-  {
-    "company": "RTX",
-    "title": "Sr. Systems Engineer - Guidance, Navigation, and Control Engineer",
-    "location": "US-AZ-TUCSON-805 ~ 1151 E Hermans Rd ~ BLDG 805",
-    "employment_type": "full-time",
-    "category": "Software & IT",
-    "salary": "Not disclosed",
-    "salary_min": null,
-    "keywords": [
-      "Python",
-      "compliance"
-    ],
-    "sponsorship_evidence": "",
-    "h1b_status": "unknown",
-    "sponsorship_label": "Not specified",
-    "url": "https://globalhr.wd5.myworkdayjobs.com/en-US/REC_RTX_Ext_Gateway/job/US-AZ-TUCSON-805--1151-E-Hermans-Rd--BLDG-805/Sr-Systems-Engineer---Guidance--Navigation--and-Control-Engineer_01853133"
-  },
-  {
-    "company": "RTX",
     "title": "Principal System Engineer Administrator (Onsite)",
     "location": "US-CA-BEALE-AFB-CUST ~ 7400 Spencer Paul Dr ~ BEAL AFB (External Site)",
     "employment_type": "full-time",
@@ -159954,57 +159726,6 @@
     "h1b_status": "unknown",
     "sponsorship_label": "Not specified",
     "url": "https://globalhr.wd5.myworkdayjobs.com/en-US/REC_RTX_Ext_Gateway/job/US-GA-MIDLAND-MPC--88018987-Macon-Rd--BLDG-MPC/Mechanical-Testing-Team-Member---3rd-shift_01852290"
-  },
-  {
-    "company": "RTX",
-    "title": "Sr. Principal Systems Engineer - Missile Guidance, Navigation, & Control Engineer",
-    "location": "US-AZ-TUCSON-805 ~ 1151 E Hermans Rd ~ BLDG 805",
-    "employment_type": "full-time",
-    "category": "Software & IT",
-    "salary": "Not disclosed",
-    "salary_min": null,
-    "keywords": [
-      "Python",
-      "compliance"
-    ],
-    "sponsorship_evidence": "",
-    "h1b_status": "unknown",
-    "sponsorship_label": "Not specified",
-    "url": "https://globalhr.wd5.myworkdayjobs.com/en-US/REC_RTX_Ext_Gateway/job/US-AZ-TUCSON-805--1151-E-Hermans-Rd--BLDG-805/Sr-Principal-Systems-Engineer---Missile-Guidance--Navigation----Control-Engineer_01853138"
-  },
-  {
-    "company": "RTX",
-    "title": "Systems Engineer II - Modeling Simulation & Analysis Engineer",
-    "location": "US-AZ-TUCSON-9020 ~ 9020 S Rita Rd ~ BLDG 9020",
-    "employment_type": "full-time",
-    "category": "Software & IT",
-    "salary": "Not disclosed",
-    "salary_min": null,
-    "keywords": [
-      "Python",
-      "compliance"
-    ],
-    "sponsorship_evidence": "",
-    "h1b_status": "unknown",
-    "sponsorship_label": "Not specified",
-    "url": "https://globalhr.wd5.myworkdayjobs.com/en-US/REC_RTX_Ext_Gateway/job/US-AZ-TUCSON-9020--9020-S-Rita-Rd--BLDG-9020/Systems-Engineer-II---Systems-Engineer-II---Modeling-Simulation---Analysis-Engineer_01853116"
-  },
-  {
-    "company": "RTX",
-    "title": "Principal Systems Engineer - Missile Guidance, Navigation, and Control Engineer",
-    "location": "US-AZ-TUCSON-805 ~ 1151 E Hermans Rd ~ BLDG 805",
-    "employment_type": "full-time",
-    "category": "Software & IT",
-    "salary": "Not disclosed",
-    "salary_min": null,
-    "keywords": [
-      "Python",
-      "compliance"
-    ],
-    "sponsorship_evidence": "",
-    "h1b_status": "unknown",
-    "sponsorship_label": "Not specified",
-    "url": "https://globalhr.wd5.myworkdayjobs.com/en-US/REC_RTX_Ext_Gateway/job/US-AZ-TUCSON-805--1151-E-Hermans-Rd--BLDG-805/Principal-Systems-Engineer---Missile-Guidance--Navigation--and-Control-Engineer_01853136"
   },
   {
     "company": "RTX",
@@ -162660,23 +162381,6 @@
   },
   {
     "company": "RTX",
-    "title": "Sr Mechanical Engineer, Control Actuation Systems",
-    "location": "US-AL-HUNTSVILLE-315 ~ 315 Bob Heath Dr ~ BOB HEATH",
-    "employment_type": "full-time",
-    "category": "Engineering",
-    "salary": "Not disclosed",
-    "salary_min": null,
-    "keywords": [
-      "mechanical engineering",
-      "compliance"
-    ],
-    "sponsorship_evidence": "",
-    "h1b_status": "unknown",
-    "sponsorship_label": "Not specified",
-    "url": "https://globalhr.wd5.myworkdayjobs.com/en-US/REC_RTX_Ext_Gateway/job/US-AL-HUNTSVILLE-315--315-Bob-Heath-Dr--BOB-HEATH/Sr-Mechanical-Engineer--Control-Actuation-Systems_01850173"
-  },
-  {
-    "company": "RTX",
     "title": "Senior Software Engineer \u2013 Avionics Software Tools (ONSITE)",
     "location": "US-IA-CEDAR RAPIDS-182 ~ 1100 Cimmie Ave Ne ~ BLDG 182",
     "employment_type": "full-time",
@@ -162696,23 +162400,6 @@
     "h1b_status": "unknown",
     "sponsorship_label": "Not specified",
     "url": "https://globalhr.wd5.myworkdayjobs.com/en-US/REC_RTX_Ext_Gateway/job/US-IA-CEDAR-RAPIDS-182--1100-Cimmie-Ave-Ne--BLDG-182/Senior-Software-Engineer---Avionics-Software-Tools--ONSITE-_01851175"
-  },
-  {
-    "company": "RTX",
-    "title": "Principal Mechanical Engineer, Control Actuation Systems",
-    "location": "US-AL-HUNTSVILLE-315 ~ 315 Bob Heath Dr ~ BOB HEATH",
-    "employment_type": "full-time",
-    "category": "Engineering",
-    "salary": "Not disclosed",
-    "salary_min": null,
-    "keywords": [
-      "mechanical engineering",
-      "compliance"
-    ],
-    "sponsorship_evidence": "",
-    "h1b_status": "unknown",
-    "sponsorship_label": "Not specified",
-    "url": "https://globalhr.wd5.myworkdayjobs.com/en-US/REC_RTX_Ext_Gateway/job/US-AL-HUNTSVILLE-315--315-Bob-Heath-Dr--BOB-HEATH/Principal-Mechanical-Engineer--Control-Actuation-Systems_01850175-1"
   },
   {
     "company": "RTX",
@@ -171474,23 +171161,6 @@
   },
   {
     "company": "Lowe's",
-    "title": "Specialty Operations Manager",
-    "location": "Mooresville, NC (SSC) 1999",
-    "employment_type": "full-time",
-    "category": "Operations & Supply Chain",
-    "salary": "Not disclosed",
-    "salary_min": null,
-    "keywords": [
-      "analytics",
-      "sales"
-    ],
-    "sponsorship_evidence": "",
-    "h1b_status": "unknown",
-    "sponsorship_label": "Not specified",
-    "url": "https://lowes.wd5.myworkdayjobs.com/en-US/LWS_External_CS/job/Mooresville-NC-SSC-1999/Specialty-Operations-Manager_JR-02597536-1"
-  },
-  {
-    "company": "Lowe's",
     "title": "Manager, Corporate Security",
     "location": "Mooresville, NC (SSC) 1999",
     "employment_type": "full-time",
@@ -174018,22 +173688,6 @@
     "h1b_status": "unknown",
     "sponsorship_label": "Not specified",
     "url": "https://lowes.wd5.myworkdayjobs.com/en-US/LWS_External_CS/job/Bristol-TN-S-Bristol-2591/Full-Time---Sales-Associate---ProServices---Day_JR-02620242"
-  },
-  {
-    "company": "Lowe's",
-    "title": "Full Time - Sales Associate - Building Materials - Closing",
-    "location": "Philadelphia, PA (S Philadelphia) 1849",
-    "employment_type": "full-time",
-    "category": "Sales & Marketing",
-    "salary": "Not disclosed",
-    "salary_min": null,
-    "keywords": [
-      "sales"
-    ],
-    "sponsorship_evidence": "",
-    "h1b_status": "unknown",
-    "sponsorship_label": "Not specified",
-    "url": "https://lowes.wd5.myworkdayjobs.com/en-US/LWS_External_CS/job/Philadelphia-PA-S-Philadelphia-1849/Full-Time---Sales-Associate---Building-Materials---Closing_JR-02620240"
   },
   {
     "company": "Lowe's",
@@ -183152,22 +182806,6 @@
   },
   {
     "company": "Lowe's",
-    "title": "Full Time - Receiver/Stocker - Day",
-    "location": "Akron, OH (Fairlawn) 0633",
-    "employment_type": "full-time",
-    "category": "Other",
-    "salary": "Not disclosed",
-    "salary_min": null,
-    "keywords": [
-      "sales"
-    ],
-    "sponsorship_evidence": "",
-    "h1b_status": "unknown",
-    "sponsorship_label": "Not specified",
-    "url": "https://lowes.wd5.myworkdayjobs.com/en-US/LWS_External_CS/job/Akron-OH-Fairlawn-0633/Full-Time---Receiver-Stocker---Day_JR-02586864"
-  },
-  {
-    "company": "Lowe's",
     "title": "Tool Rental Operations Analyst",
     "location": "Mooresville, NC (SSC) 1999",
     "employment_type": "full-time",
@@ -183182,38 +182820,6 @@
     "h1b_status": "unknown",
     "sponsorship_label": "Not specified",
     "url": "https://lowes.wd5.myworkdayjobs.com/en-US/LWS_External_CS/job/Mooresville-NC-SSC-1999/Tool-Rental-Operations-Analyst_JR-02563787"
-  },
-  {
-    "company": "Lowe's",
-    "title": "Full Time - Sales Associate - Electrical & Lighting - Closing",
-    "location": "Jacksonville, FL (NE Jacksonville) 1699",
-    "employment_type": "full-time",
-    "category": "Engineering",
-    "salary": "Not disclosed",
-    "salary_min": null,
-    "keywords": [
-      "sales"
-    ],
-    "sponsorship_evidence": "",
-    "h1b_status": "unknown",
-    "sponsorship_label": "Not specified",
-    "url": "https://lowes.wd5.myworkdayjobs.com/en-US/LWS_External_CS/job/Jacksonville-FL-NE-Jacksonville-1699/Full-Time---Sales-Associate---Electrical---Lighting---Closing_JR-02586567"
-  },
-  {
-    "company": "Lowe's",
-    "title": "Full Time - Receiver/Stocker - Day",
-    "location": "San Diego, CA (Mission Valley) 1013",
-    "employment_type": "full-time",
-    "category": "Other",
-    "salary": "$17.75\u2013$18.9/hr",
-    "salary_min": 17.75,
-    "keywords": [
-      "sales"
-    ],
-    "sponsorship_evidence": "",
-    "h1b_status": "unknown",
-    "sponsorship_label": "Not specified",
-    "url": "https://lowes.wd5.myworkdayjobs.com/en-US/LWS_External_CS/job/San-Diego-CA-Mission-Valley-1013/Full-Time---Receiver-Stocker---Day_JR-02586561"
   },
   {
     "company": "Lowe's",
@@ -184608,40 +184214,6 @@
     "url": "https://sysco.wd5.myworkdayjobs.com/en-US/syscocareers/job/Sysco-Iowa-----Dubuque-----Domicile/CDL-A-Local-Delivery-Truck-Driver_R261427"
   },
   {
-    "company": "Sysco",
-    "title": "Diesel Fleet Mechanic Technician II",
-    "location": "Sysco North Dakota  -  Fargo",
-    "employment_type": "full-time",
-    "category": "Other",
-    "salary": "$27.21/hr",
-    "salary_min": 27.21,
-    "keywords": [
-      "sales",
-      "legal"
-    ],
-    "sponsorship_evidence": "",
-    "h1b_status": "unknown",
-    "sponsorship_label": "Not specified",
-    "url": "https://sysco.wd5.myworkdayjobs.com/en-US/syscocareers/job/Sysco-North-Dakota-----Fargo/Diesel-Fleet-Mechanic-Technician-II_R258628"
-  },
-  {
-    "company": "Sysco",
-    "title": "Short Runner",
-    "location": "Sysco Central Texas-CTX",
-    "employment_type": "full-time",
-    "category": "Other",
-    "salary": "Not disclosed",
-    "salary_min": null,
-    "keywords": [
-      "Excel",
-      "sales"
-    ],
-    "sponsorship_evidence": "",
-    "h1b_status": "unknown",
-    "sponsorship_label": "Not specified",
-    "url": "https://sysco.wd5.myworkdayjobs.com/en-US/syscocareers/job/Sysco-Central-Texas-CTX/Short-Runner_R264258"
-  },
-  {
     "company": "Allstate",
     "title": "Software Engineer Senior Consultant II",
     "location": "USA - IL (Remote)",
@@ -185203,100 +184775,6 @@
     "h1b_status": "unknown",
     "sponsorship_label": "Not specified",
     "url": "https://cat.wd5.myworkdayjobs.com/en-US/CaterpillarCareers/job/Mossville-Illinois/Accounting-Manager_R0000389266"
-  },
-  {
-    "company": "Caterpillar",
-    "title": "HR Business Partner",
-    "location": "El Reno, Oklahoma",
-    "employment_type": "full-time",
-    "category": "People & Legal",
-    "salary": "Not disclosed",
-    "salary_min": null,
-    "keywords": [
-      "human resources",
-      "recruiting",
-      "legal"
-    ],
-    "sponsorship_evidence": "",
-    "h1b_status": "unknown",
-    "sponsorship_label": "Not specified",
-    "url": "https://cat.wd5.myworkdayjobs.com/en-US/CaterpillarCareers/job/El-Reno-Oklahoma/HR-Business-Partner_R0000389330"
-  },
-  {
-    "company": "Caterpillar",
-    "title": "Manufacturing Controls Engineer - PLC",
-    "location": "East Peoria, Illinois",
-    "employment_type": "full-time",
-    "category": "Other",
-    "salary": "Not disclosed",
-    "salary_min": null,
-    "keywords": [],
-    "sponsorship_evidence": "",
-    "h1b_status": "unknown",
-    "sponsorship_label": "Not specified",
-    "url": "https://cat.wd5.myworkdayjobs.com/en-US/CaterpillarCareers/job/East-Peoria-Illinois/Manufacturing-Controls-Engineer---PLC_R0000390012"
-  },
-  {
-    "company": "Caterpillar",
-    "title": "Shop Technician I (1st Shift)",
-    "location": "West Fargo, North Dakota",
-    "employment_type": "full-time",
-    "category": "Other",
-    "salary": "Not disclosed",
-    "salary_min": null,
-    "keywords": [],
-    "sponsorship_evidence": "",
-    "h1b_status": "unknown",
-    "sponsorship_label": "Not specified",
-    "url": "https://cat.wd5.myworkdayjobs.com/en-US/CaterpillarCareers/job/West-Fargo-North-Dakota/Shop-Technician-I--1st-Shift-_R0000386696"
-  },
-  {
-    "company": "Caterpillar",
-    "title": "3rd Shift Warehouse Associate",
-    "location": "Corinth, Mississippi",
-    "employment_type": "full-time",
-    "category": "Operations & Supply Chain",
-    "salary": "$17.05/hr",
-    "salary_min": 17.05,
-    "keywords": [
-      "recruiting"
-    ],
-    "sponsorship_evidence": "",
-    "h1b_status": "unknown",
-    "sponsorship_label": "Not specified",
-    "url": "https://cat.wd5.myworkdayjobs.com/en-US/CaterpillarCareers/job/Corinth-Mississippi/XMLNAME-3rd-Shift-Warehouse-Associate_R0000389959"
-  },
-  {
-    "company": "Caterpillar",
-    "title": "Quality Specialist III - IQA - 1st shift",
-    "location": "North Little Rock, Arkansas",
-    "employment_type": "full-time",
-    "category": "Other",
-    "salary": "Not disclosed",
-    "salary_min": null,
-    "keywords": [
-      "audit"
-    ],
-    "sponsorship_evidence": "",
-    "h1b_status": "unknown",
-    "sponsorship_label": "Not specified",
-    "url": "https://cat.wd5.myworkdayjobs.com/en-US/CaterpillarCareers/job/North-Little-Rock-Arkansas/Quality-Specialist-III---IQA---1st-shift_R0000377856-1"
-  },
-  {
-    "company": "Caterpillar",
-    "title": "Assembly - 1st or 2nd Shift - Bldg SS",
-    "location": "East Peoria, Illinois",
-    "employment_type": "full-time",
-    "category": "Other",
-    "salary": "Not disclosed",
-    "salary_min": null,
-    "keywords": [
-      "recruiting"
-    ],
-    "sponsorship_evidence": "",
-    "h1b_status": "unknown",
-    "sponsorship_label": "Not specified",
-    "url": "https://cat.wd5.myworkdayjobs.com/en-US/CaterpillarCareers/job/East-Peoria-Illinois/Assembly---1st-or-2nd-Shift---Bldg-SS_R0000390002"
   },
   {
     "company": "Prudential Financial",
@@ -186480,29 +185958,6 @@
   },
   {
     "company": "Cisco Systems",
-    "title": "AI Research Scientist II (Full Time)- United States ENG/CPO/AISWP ETR",
-    "location": "San Francisco, California, US",
-    "employment_type": "full-time",
-    "category": "Other",
-    "salary": "Not disclosed",
-    "salary_min": null,
-    "keywords": [
-      "Python",
-      "AWS",
-      "Azure",
-      "GCP",
-      "Docker",
-      "Kubernetes",
-      "machine learning",
-      "artificial intelligence"
-    ],
-    "sponsorship_evidence": "",
-    "h1b_status": "unknown",
-    "sponsorship_label": "Not specified",
-    "url": "https://cisco.wd5.myworkdayjobs.com/en-US/Cisco_Careers/job/San-Francisco-California-US/AI-Research-Scientist-II--Full-Time---United-States-ENG-CPO-AISWP-ETR_2023101"
-  },
-  {
-    "company": "Cisco Systems",
     "title": "Software Engineer, Solutions Engineering",
     "location": "Milpitas, California, US",
     "employment_type": "full-time",
@@ -186569,25 +186024,6 @@
     "h1b_status": "unknown",
     "sponsorship_label": "Not specified",
     "url": "https://cisco.wd5.myworkdayjobs.com/en-US/Cisco_Careers/job/San-Jose-California-US/ASIC-Technical-Leader---Product-Quality---Productization--Hybrid-_2022449"
-  },
-  {
-    "company": "Cisco Systems",
-    "title": "Incident Manager",
-    "location": "RTP, North Carolina, US",
-    "employment_type": "full-time",
-    "category": "Other",
-    "salary": "Not disclosed",
-    "salary_min": null,
-    "keywords": [
-      "AWS",
-      "Azure",
-      "sales",
-      "compliance"
-    ],
-    "sponsorship_evidence": "",
-    "h1b_status": "unknown",
-    "sponsorship_label": "Not specified",
-    "url": "https://cisco.wd5.myworkdayjobs.com/en-US/Cisco_Careers/job/RTP-North-Carolina-US/Incident-Manager_2021605"
   },
   {
     "company": "Cisco Systems",
@@ -186704,25 +186140,6 @@
   },
   {
     "company": "Cisco Systems",
-    "title": "Technical Systems Engineer (Hybrid)",
-    "location": "RTP, North Carolina, US",
-    "employment_type": "full-time",
-    "category": "Software & IT",
-    "salary": "Not disclosed",
-    "salary_min": null,
-    "keywords": [
-      "Python",
-      "Java",
-      "SQL",
-      "sales"
-    ],
-    "sponsorship_evidence": "",
-    "h1b_status": "unknown",
-    "sponsorship_label": "Not specified",
-    "url": "https://cisco.wd5.myworkdayjobs.com/en-US/Cisco_Careers/job/RTP-North-Carolina-US/Technical-Systems-Engineer--Hybrid-_2021873-1"
-  },
-  {
-    "company": "Cisco Systems",
     "title": "ASIC Design Verification Technical Leader",
     "location": "San Jose, California, US",
     "employment_type": "full-time",
@@ -186753,23 +186170,6 @@
     "h1b_status": "unknown",
     "sponsorship_label": "Not specified",
     "url": "https://cisco.wd5.myworkdayjobs.com/en-US/Cisco_Careers/job/RTP-North-Carolina-US/Solutions-Engineer_2020161"
-  },
-  {
-    "company": "Cisco Systems",
-    "title": "Software Engineer III (Full Time) - United States ENG/CPO/WTG ETR",
-    "location": "Milpitas, California, US",
-    "employment_type": "full-time",
-    "category": "Software & IT",
-    "salary": "Not disclosed",
-    "salary_min": null,
-    "keywords": [
-      "electrical engineering",
-      "sales"
-    ],
-    "sponsorship_evidence": "",
-    "h1b_status": "unknown",
-    "sponsorship_label": "Not specified",
-    "url": "https://cisco.wd5.myworkdayjobs.com/en-US/Cisco_Careers/job/Milpitas-California-US/Software-Engineer-III--Full-Time----United-States-ENG-CPO-WTG-ETR_2022055"
   },
   {
     "company": "Cisco Systems",
@@ -186926,25 +186326,6 @@
     "h1b_status": "unknown",
     "sponsorship_label": "Not specified",
     "url": "https://cisco.wd5.myworkdayjobs.com/en-US/Cisco_Careers/job/RTP-North-Carolina-US/AI-Security-Research-Engineer-II--Full-Time-----United-States-_2018328"
-  },
-  {
-    "company": "Cisco Systems",
-    "title": "Security Engineer",
-    "location": "Miami, Florida, US",
-    "employment_type": "full-time",
-    "category": "Software & IT",
-    "salary": "Not disclosed",
-    "salary_min": null,
-    "keywords": [
-      "Python",
-      "risk management",
-      "sales",
-      "compliance"
-    ],
-    "sponsorship_evidence": "",
-    "h1b_status": "unknown",
-    "sponsorship_label": "Not specified",
-    "url": "https://cisco.wd5.myworkdayjobs.com/en-US/Cisco_Careers/job/Miami-Florida-US/Security-Engineer_2020991-1"
   },
   {
     "company": "Cisco Systems",
@@ -187944,24 +187325,6 @@
     "h1b_status": "unknown",
     "sponsorship_label": "Not specified",
     "url": "https://cisco.wd5.myworkdayjobs.com/en-US/Cisco_Careers/job/Fulton-Maryland-US/Security-Research-Engineer_2018289"
-  },
-  {
-    "company": "Cisco Systems",
-    "title": "Customer Program Manager",
-    "location": "Philadelphia, Pennsylvania, US",
-    "employment_type": "full-time",
-    "category": "Other",
-    "salary": "Not disclosed",
-    "salary_min": null,
-    "keywords": [
-      "analytics",
-      "risk management",
-      "sales"
-    ],
-    "sponsorship_evidence": "",
-    "h1b_status": "unknown",
-    "sponsorship_label": "Not specified",
-    "url": "https://cisco.wd5.myworkdayjobs.com/en-US/Cisco_Careers/job/Philadelphia-Pennsylvania-US/Customer-Program-Manager_2020389"
   },
   {
     "company": "Cisco Systems",
@@ -190114,20 +189477,6 @@
     "h1b_status": "unknown",
     "sponsorship_label": "Not specified",
     "url": "https://nike.wd1.myworkdayjobs.com/en-US/nke/job/Los-Angeles-California/Principal--Footwear-Designer--Energy_R-89499"
-  },
-  {
-    "company": "Nike",
-    "title": "Lead, Energy Marketing Operations, Global",
-    "location": "Beaverton, Oregon",
-    "employment_type": "full-time",
-    "category": "Sales & Marketing",
-    "salary": "Not disclosed",
-    "salary_min": null,
-    "keywords": [],
-    "sponsorship_evidence": "",
-    "h1b_status": "unknown",
-    "sponsorship_label": "Not specified",
-    "url": "https://nike.wd1.myworkdayjobs.com/en-US/nke/job/Beaverton-Oregon/Lead--Energy-Marketing-Operations--Global_R-89855"
   },
   {
     "company": "Nike",
@@ -192340,6 +191689,25 @@
   },
   {
     "company": "GE Aerospace",
+    "title": "Staff Lifecycle Operations Engineer",
+    "location": "Lafayette IN USA",
+    "employment_type": "full-time",
+    "category": "Operations & Supply Chain",
+    "salary": "Not disclosed",
+    "salary_min": null,
+    "keywords": [
+      "analytics",
+      "risk management",
+      "compliance",
+      "legal"
+    ],
+    "sponsorship_evidence": "We will not sponsor individuals for employment visas, now or in the future, for this job.",
+    "h1b_status": "does_not_support_h1b",
+    "sponsorship_label": "No sponsorship for this position",
+    "url": "https://geaerospace.wd5.myworkdayjobs.com/en-US/GE_ExternalSite/job/Lafayette-IN-USA/Staff-Lifecycle-Operations-Engineer_R5038691-1"
+  },
+  {
+    "company": "GE Aerospace",
     "title": "CNC Programmer",
     "location": "Evendale (EMO) OH US",
     "employment_type": "full-time",
@@ -193280,23 +192648,6 @@
     "h1b_status": "unknown",
     "sponsorship_label": "Not specified",
     "url": "https://thermofisher.wd5.myworkdayjobs.com/en-US/ThermoFisherCareers/job/Miami-Oklahoma-USA/Critical-Environment-Operator-I_R-01365142"
-  },
-  {
-    "company": "Thermo Fisher Scientific",
-    "title": "Program Manager III, GMP Labs",
-    "location": "Remote, Wisconsin, USA",
-    "employment_type": "full-time",
-    "category": "Other",
-    "salary": "Not disclosed",
-    "salary_min": null,
-    "keywords": [
-      "compliance",
-      "contracts"
-    ],
-    "sponsorship_evidence": "Must be legally authorized to work in the United States without sponsorship.",
-    "h1b_status": "does_not_support_h1b",
-    "sponsorship_label": "No sponsorship for this position",
-    "url": "https://thermofisher.wd5.myworkdayjobs.com/en-US/ThermoFisherCareers/job/Remote-Wisconsin-USA/Program-Manager-III--GMP-Labs_R-01363014-1"
   },
   {
     "company": "Thermo Fisher Scientific",
@@ -196016,38 +195367,6 @@
     "h1b_status": "unknown",
     "sponsorship_label": "Not specified",
     "url": "https://thermofisher.wd5.myworkdayjobs.com/en-US/ThermoFisherCareers/job/Rochester-New-York-USA/Lead-QA-Technician---Metrology_R-01364125"
-  },
-  {
-    "company": "Thermo Fisher Scientific",
-    "title": "Group Leader - Bioanalytical LCMS Assay Services - M - F Second Shift",
-    "location": "Richmond, Virginia, USA",
-    "employment_type": "full-time",
-    "category": "Other",
-    "salary": "Not disclosed",
-    "salary_min": null,
-    "keywords": [
-      "compliance"
-    ],
-    "sponsorship_evidence": "Must be legally authorized to work in the United States without sponsorship.",
-    "h1b_status": "does_not_support_h1b",
-    "sponsorship_label": "No sponsorship for this position",
-    "url": "https://thermofisher.wd5.myworkdayjobs.com/en-US/ThermoFisherCareers/job/Richmond-Virginia-USA/Group-Leader---Bioanalytical-LCMS-Assay-Services---M---F-Second-Shift_R-01361968"
-  },
-  {
-    "company": "Thermo Fisher Scientific",
-    "title": "Group Leader - Bioanalytical LCMS Assay Services",
-    "location": "Richmond, Virginia, USA",
-    "employment_type": "full-time",
-    "category": "Other",
-    "salary": "Not disclosed",
-    "salary_min": null,
-    "keywords": [
-      "compliance"
-    ],
-    "sponsorship_evidence": "Must be legally authorized to work in the United States without sponsorship.",
-    "h1b_status": "does_not_support_h1b",
-    "sponsorship_label": "No sponsorship for this position",
-    "url": "https://thermofisher.wd5.myworkdayjobs.com/en-US/ThermoFisherCareers/job/Richmond-Virginia-USA/Group-Leader---Bioanalytical-LCMS-Assay-Services_R-01361966"
   },
   {
     "company": "Thermo Fisher Scientific",
@@ -199335,23 +198654,6 @@
     "h1b_status": "unknown",
     "sponsorship_label": "Not specified",
     "url": "https://thermofisher.wd5.myworkdayjobs.com/en-US/ThermoFisherCareers/job/Allentown-Pennsylvania-USA/Packaging-Supervisor_R-01362419"
-  },
-  {
-    "company": "Thermo Fisher Scientific",
-    "title": "Team Lead, Logistics - Clinical Site Maintenance",
-    "location": "Highland Heights, Kentucky, USA",
-    "employment_type": "full-time",
-    "category": "Operations & Supply Chain",
-    "salary": "Not disclosed",
-    "salary_min": null,
-    "keywords": [
-      "logistics",
-      "compliance"
-    ],
-    "sponsorship_evidence": "Must be legally authorized to work in the United States without sponsorship.",
-    "h1b_status": "does_not_support_h1b",
-    "sponsorship_label": "No sponsorship for this position",
-    "url": "https://thermofisher.wd5.myworkdayjobs.com/en-US/ThermoFisherCareers/job/Highland-Heights-Kentucky-USA/Team-Lead--Site-Services---Maintenance_R-01352821"
   },
   {
     "company": "Thermo Fisher Scientific",
@@ -203408,23 +202710,6 @@
   },
   {
     "company": "Thermo Fisher Scientific",
-    "title": "Electronics Quality Technician",
-    "location": "Colorado Springs, Colorado, USA",
-    "employment_type": "full-time",
-    "category": "Other",
-    "salary": "Not disclosed",
-    "salary_min": null,
-    "keywords": [
-      "CAD",
-      "compliance"
-    ],
-    "sponsorship_evidence": "",
-    "h1b_status": "unknown",
-    "sponsorship_label": "Not specified",
-    "url": "https://thermofisher.wd5.myworkdayjobs.com/en-US/ThermoFisherCareers/job/Colorado-Springs-Colorado-USA/Electronics-Quality-Technician_R-01359603"
-  },
-  {
-    "company": "Thermo Fisher Scientific",
     "title": "Manager - CAPA Effectiveness",
     "location": "Greenville, North Carolina, USA",
     "employment_type": "full-time",
@@ -207427,6 +206712,111 @@
   },
   {
     "company": "U.S. Bancorp",
+    "title": "Relationship Banker I - MT-Great Falls Northwest",
+    "location": "Great Falls, MT",
+    "employment_type": "full-time",
+    "category": "Other",
+    "salary": "Not disclosed",
+    "salary_min": null,
+    "keywords": [
+      "Excel"
+    ],
+    "sponsorship_evidence": "",
+    "h1b_status": "unknown",
+    "sponsorship_label": "Not specified",
+    "url": "https://usbank.wd1.myworkdayjobs.com/en-US/US_Bank_Careers/job/Great-Falls-MT/Relationship-Banker-I---MT-Great-Falls-Northwest_2026-0025994"
+  },
+  {
+    "company": "U.S. Bancorp",
+    "title": "Relationship Banker II - MT-Missoula Southside",
+    "location": "Missoula, MT",
+    "employment_type": "full-time",
+    "category": "Other",
+    "salary": "Not disclosed",
+    "salary_min": null,
+    "keywords": [
+      "Excel",
+      "sales"
+    ],
+    "sponsorship_evidence": "",
+    "h1b_status": "unknown",
+    "sponsorship_label": "Not specified",
+    "url": "https://usbank.wd1.myworkdayjobs.com/en-US/US_Bank_Careers/job/Missoula-MT/Relationship-Banker-II---MT-Missoula-Southside_2026-0026287"
+  },
+  {
+    "company": "U.S. Bancorp",
+    "title": "Relationship Banker I - ID-Star",
+    "location": "Star, ID",
+    "employment_type": "full-time",
+    "category": "Other",
+    "salary": "Not disclosed",
+    "salary_min": null,
+    "keywords": [
+      "Excel"
+    ],
+    "sponsorship_evidence": "",
+    "h1b_status": "unknown",
+    "sponsorship_label": "Not specified",
+    "url": "https://usbank.wd1.myworkdayjobs.com/en-US/US_Bank_Careers/job/Star-ID/Relationship-Banker-I---ID-Star_2026-0025913"
+  },
+  {
+    "company": "U.S. Bancorp",
+    "title": "Client Relationship Consultant 3 (Banker) - Rainier Valley, WA",
+    "location": "Seattle, WA",
+    "employment_type": "full-time",
+    "category": "Other",
+    "salary": "Not disclosed",
+    "salary_min": null,
+    "keywords": [
+      "Excel",
+      "sales"
+    ],
+    "sponsorship_evidence": "",
+    "h1b_status": "unknown",
+    "sponsorship_label": "Not specified",
+    "url": "https://usbank.wd1.myworkdayjobs.com/en-US/US_Bank_Careers/job/Seattle-WA/Client-Relationship-Consultant-3--Banker----Rainier-Valley--WA_2026-0022589"
+  },
+  {
+    "company": "U.S. Bancorp",
+    "title": "Client Relationship Consultant 2 (Banker) - Port Townsend, WA (20hrs)",
+    "location": "Port Townsend, WA",
+    "employment_type": "full-time",
+    "category": "Other",
+    "salary": "Not disclosed",
+    "salary_min": null,
+    "keywords": [
+      "Excel"
+    ],
+    "sponsorship_evidence": "",
+    "h1b_status": "unknown",
+    "sponsorship_label": "Not specified",
+    "url": "https://usbank.wd1.myworkdayjobs.com/en-US/US_Bank_Careers/job/Port-Townsend-WA/Client-Relationship-Consultant-2--Banker----Port-Townsend--WA--20hrs-_2026-0021951-1"
+  },
+  {
+    "company": "U.S. Bancorp",
+    "title": "Senior Software Engineer - C#/.NET (Multiple openings) in Chicago, IL.",
+    "location": "Chicago, IL",
+    "employment_type": "full-time",
+    "category": "Software & IT",
+    "salary": "Not disclosed",
+    "salary_min": null,
+    "keywords": [
+      "C#",
+      "TypeScript",
+      "SQL",
+      "Azure",
+      "Docker",
+      "Kubernetes",
+      "Excel",
+      "tax"
+    ],
+    "sponsorship_evidence": "This position is not eligible for visa sponsorship.",
+    "h1b_status": "does_not_support_h1b",
+    "sponsorship_label": "No sponsorship for this position",
+    "url": "https://usbank.wd1.myworkdayjobs.com/en-US/US_Bank_Careers/job/Chicago-IL/Senior-Software-Engineer---C--NET--Multiple-openings--in-Chicago--IL_2026-0025851"
+  },
+  {
+    "company": "U.S. Bancorp",
     "title": "Custodial Records Associate 2",
     "location": "Saint Paul, MN",
     "employment_type": "full-time",
@@ -207708,204 +207098,6 @@
     "h1b_status": "unknown",
     "sponsorship_label": "Not specified",
     "url": "https://usbank.wd1.myworkdayjobs.com/en-US/US_Bank_Careers/job/San-Bruno-CA/Relationship-Banker-I---San-Bruno--CA_2026-0024333-1"
-  },
-  {
-    "company": "U.S. Bancorp",
-    "title": "Small Business Specialist 3 - Oceanside, CA",
-    "location": "Oceanside, CA",
-    "employment_type": "full-time",
-    "category": "Other",
-    "salary": "Not disclosed",
-    "salary_min": null,
-    "keywords": [
-      "Excel",
-      "sales"
-    ],
-    "sponsorship_evidence": "",
-    "h1b_status": "unknown",
-    "sponsorship_label": "Not specified",
-    "url": "https://usbank.wd1.myworkdayjobs.com/en-US/US_Bank_Careers/job/Oceanside-CA/Small-Business-Specialist-3---Encinitas--CA_2026-0005206"
-  },
-  {
-    "company": "U.S. Bancorp",
-    "title": "Client Relationship Consultant 2 (Banker) - Castro Valley, CA",
-    "location": "Castro Valley, CA",
-    "employment_type": "full-time",
-    "category": "Other",
-    "salary": "Not disclosed",
-    "salary_min": null,
-    "keywords": [
-      "Excel"
-    ],
-    "sponsorship_evidence": "",
-    "h1b_status": "unknown",
-    "sponsorship_label": "Not specified",
-    "url": "https://usbank.wd1.myworkdayjobs.com/en-US/US_Bank_Careers/job/Castro-Valley-CA/Client-Relationship-Consultant-2--Banker----Castro-Valley--CA_2026-0024488"
-  },
-  {
-    "company": "U.S. Bancorp",
-    "title": "Client Relationship Consultant 2 (Banker) - Orinda, CA",
-    "location": "Orinda, CA",
-    "employment_type": "full-time",
-    "category": "Other",
-    "salary": "Not disclosed",
-    "salary_min": null,
-    "keywords": [
-      "Excel"
-    ],
-    "sponsorship_evidence": "",
-    "h1b_status": "unknown",
-    "sponsorship_label": "Not specified",
-    "url": "https://usbank.wd1.myworkdayjobs.com/en-US/US_Bank_Careers/job/Orinda-CA/Client-Relationship-Consultant-2--Banker----Orinda--CA_2026-0024493"
-  },
-  {
-    "company": "U.S. Bancorp",
-    "title": "Client Relationship Consultant 2 (Banker) - Walmart - Baldwin Park , CA (35hrs) - Bilingual Spanish and English",
-    "location": "Baldwin Park, CA",
-    "employment_type": "full-time",
-    "category": "Other",
-    "salary": "Not disclosed",
-    "salary_min": null,
-    "keywords": [
-      "Excel"
-    ],
-    "sponsorship_evidence": "",
-    "h1b_status": "unknown",
-    "sponsorship_label": "Not specified",
-    "url": "https://usbank.wd1.myworkdayjobs.com/en-US/US_Bank_Careers/job/Baldwin-Park-CA/Client-Relationship-Consultant-2--Banker----Walmart---Baldwin-Park---CA--35hrs----Bilingual-Spanish-and-English_2026-0024503"
-  },
-  {
-    "company": "U.S. Bancorp",
-    "title": "Client Relationship Consultant 2 (Banker) - Roseville, CA (38hrs)",
-    "location": "Roseville, CA",
-    "employment_type": "full-time",
-    "category": "Other",
-    "salary": "Not disclosed",
-    "salary_min": null,
-    "keywords": [
-      "Excel"
-    ],
-    "sponsorship_evidence": "",
-    "h1b_status": "unknown",
-    "sponsorship_label": "Not specified",
-    "url": "https://usbank.wd1.myworkdayjobs.com/en-US/US_Bank_Careers/job/Roseville-CA/Client-Relationship-Consultant-2--Banker----Roseville--CA--38hrs-_2026-0024597"
-  },
-  {
-    "company": "U.S. Bancorp",
-    "title": "Small Business Support Specialist 1 - Tempe, AZ",
-    "location": "Tempe, AZ",
-    "employment_type": "full-time",
-    "category": "Other",
-    "salary": "Not disclosed",
-    "salary_min": null,
-    "keywords": [
-      "Excel",
-      "audit",
-      "sales",
-      "compliance"
-    ],
-    "sponsorship_evidence": "",
-    "h1b_status": "unknown",
-    "sponsorship_label": "Not specified",
-    "url": "https://usbank.wd1.myworkdayjobs.com/en-US/US_Bank_Careers/job/Tempe-AZ/Small-Business-Support-Specialist-1---Tempe--AZ_2026-0025113"
-  },
-  {
-    "company": "U.S. Bancorp",
-    "title": "Client Relationship Consultant 2 (Banker) - Indio Ralphs, CA - Bilingual English and Spanish (35hrs)",
-    "location": "Indio, CA",
-    "employment_type": "full-time",
-    "category": "Other",
-    "salary": "Not disclosed",
-    "salary_min": null,
-    "keywords": [
-      "Excel"
-    ],
-    "sponsorship_evidence": "",
-    "h1b_status": "unknown",
-    "sponsorship_label": "Not specified",
-    "url": "https://usbank.wd1.myworkdayjobs.com/en-US/US_Bank_Careers/job/Indio-CA/Client-Relationship-Consultant-2--Banker----Indio-Ralphs--CA---Bilingual-English-and-Spanish--35hrs-_2026-0024601-1"
-  },
-  {
-    "company": "U.S. Bancorp",
-    "title": "Client Relationship Consultant 2 (Banker) - Fullerton, CA (30hrs)",
-    "location": "Fullerton, CA",
-    "employment_type": "full-time",
-    "category": "Other",
-    "salary": "Not disclosed",
-    "salary_min": null,
-    "keywords": [
-      "Excel"
-    ],
-    "sponsorship_evidence": "",
-    "h1b_status": "unknown",
-    "sponsorship_label": "Not specified",
-    "url": "https://usbank.wd1.myworkdayjobs.com/en-US/US_Bank_Careers/job/Fullerton-CA/Client-Relationship-Consultant-2--Banker----Fullerton--CA--30hrs-_2026-0024603"
-  },
-  {
-    "company": "U.S. Bancorp",
-    "title": "SBA Business Development Officer 2",
-    "location": "Milwaukee, WI",
-    "employment_type": "full-time",
-    "category": "Sales & Marketing",
-    "salary": "Not disclosed",
-    "salary_min": null,
-    "keywords": [
-      "Excel",
-      "accounting",
-      "sales"
-    ],
-    "sponsorship_evidence": "",
-    "h1b_status": "unknown",
-    "sponsorship_label": "Not specified",
-    "url": "https://usbank.wd1.myworkdayjobs.com/en-US/US_Bank_Careers/job/Milwaukee-WI/SBA-Business-Development-Officer-2_2026-0025641"
-  },
-  {
-    "company": "U.S. Bancorp",
-    "title": "Client Relationship Consultant 2 (Banker) - Hermosa Beach, CA (20hrs)",
-    "location": "Hermosa Beach, CA",
-    "employment_type": "full-time",
-    "category": "Other",
-    "salary": "Not disclosed",
-    "salary_min": null,
-    "keywords": [
-      "Excel"
-    ],
-    "sponsorship_evidence": "",
-    "h1b_status": "unknown",
-    "sponsorship_label": "Not specified",
-    "url": "https://usbank.wd1.myworkdayjobs.com/en-US/US_Bank_Careers/job/Hermosa-Beach-CA/Client-Relationship-Consultant-2--Banker----Hermosa-Beach--CA--20hrs-_2026-0024690"
-  },
-  {
-    "company": "U.S. Bancorp",
-    "title": "Client Relationship Consultant 2 (Banker) - Bishop, CA",
-    "location": "Bishop, CA",
-    "employment_type": "full-time",
-    "category": "Other",
-    "salary": "Not disclosed",
-    "salary_min": null,
-    "keywords": [
-      "Excel"
-    ],
-    "sponsorship_evidence": "",
-    "h1b_status": "unknown",
-    "sponsorship_label": "Not specified",
-    "url": "https://usbank.wd1.myworkdayjobs.com/en-US/US_Bank_Careers/job/Bishop-CA/Client-Relationship-Consultant-2--Banker----Bishop--CA_2026-0024830"
-  },
-  {
-    "company": "U.S. Bancorp",
-    "title": "Client Relationship Consultant 2 (Banker) - Thousand Oaks, CA (30hrs)",
-    "location": "Thousand Oaks, CA",
-    "employment_type": "full-time",
-    "category": "Other",
-    "salary": "Not disclosed",
-    "salary_min": null,
-    "keywords": [
-      "Excel"
-    ],
-    "sponsorship_evidence": "",
-    "h1b_status": "unknown",
-    "sponsorship_label": "Not specified",
-    "url": "https://usbank.wd1.myworkdayjobs.com/en-US/US_Bank_Careers/job/Thousand-Oaks-CA/Client-Relationship-Consultant-2--Banker----Thousand-Oaks--CA--30hrs-_2026-0024860"
   },
   {
     "company": "PNC Financial Services Group",
@@ -241206,22 +240398,6 @@
   },
   {
     "company": "Broadcom",
-    "title": "Design Engineer",
-    "location": "USA-Colorado-Fort Collins-4380 Ziegler Road",
-    "employment_type": "full-time",
-    "category": "Other",
-    "salary": "Not disclosed",
-    "salary_min": null,
-    "keywords": [
-      "Python"
-    ],
-    "sponsorship_evidence": "",
-    "h1b_status": "unknown",
-    "sponsorship_label": "Not specified",
-    "url": "https://broadcom.wd1.myworkdayjobs.com/en-US/External_Career/job/USA-Colorado-Fort-Collins-4380-Ziegler-Road/Design-Engineer_R025237"
-  },
-  {
-    "company": "Broadcom",
     "title": "hardware engineer 3",
     "location": "USA-California- San Jose - 1730 Fox Drive",
     "employment_type": "full-time",
@@ -241474,39 +240650,6 @@
     "url": "https://hpe.wd5.myworkdayjobs.com/en-US/Jobsathpe/job/Sunnyvale-California-United-States-of-America/Principal-Physical-Design-Engineer_1201845-2"
   },
   {
-    "company": "Hewlett Packard Enterprise",
-    "title": "Optical Hardware Engineer (Sunnyvale, CA.)",
-    "location": "Sunnyvale, California, United States of America",
-    "employment_type": "full-time",
-    "category": "Engineering",
-    "salary": "Not disclosed",
-    "salary_min": null,
-    "keywords": [
-      "legal"
-    ],
-    "sponsorship_evidence": "",
-    "h1b_status": "unknown",
-    "sponsorship_label": "Not specified",
-    "url": "https://hpe.wd5.myworkdayjobs.com/en-US/Jobsathpe/job/Sunnyvale-California-United-States-of-America/Optical-Hardware-Engineer--Sunnyvale--CA-_1211922-2"
-  },
-  {
-    "company": "Hewlett Packard Enterprise",
-    "title": "Principal Technical Marketing Engineer",
-    "location": "All, California, United States of America",
-    "employment_type": "full-time",
-    "category": "Sales & Marketing",
-    "salary": "Not disclosed",
-    "salary_min": null,
-    "keywords": [
-      "sales",
-      "legal"
-    ],
-    "sponsorship_evidence": "",
-    "h1b_status": "unknown",
-    "sponsorship_label": "Not specified",
-    "url": "https://hpe.wd5.myworkdayjobs.com/en-US/Jobsathpe/job/All-California-United-States-of-America/Principal-Technical-Marketing-Engineer_1210006-2"
-  },
-  {
     "company": "Applied Materials",
     "title": "Mechanical Design Systems Engineer - Robotics and Automation (E3)",
     "location": "Austin,TX",
@@ -241598,57 +240741,6 @@
     "h1b_status": "unknown",
     "sponsorship_label": "Not specified",
     "url": "https://amat.wd1.myworkdayjobs.com/en-US/External/job/Santa-ClaraCA/Engineering-Technician-III----T3-_R2626413"
-  },
-  {
-    "company": "Applied Materials",
-    "title": "Quality Manager",
-    "location": "Santa Clara,CA",
-    "employment_type": "full-time",
-    "category": "Other",
-    "salary": "Not disclosed",
-    "salary_min": null,
-    "keywords": [
-      "sales",
-      "compliance"
-    ],
-    "sponsorship_evidence": "",
-    "h1b_status": "unknown",
-    "sponsorship_label": "Not specified",
-    "url": "https://amat.wd1.myworkdayjobs.com/en-US/External/job/Santa-ClaraCA/Quality-Manager_R2619226-1"
-  },
-  {
-    "company": "Applied Materials",
-    "title": "Software Engineer I - New College Grad (Bachelors - Kalispell, MT)",
-    "location": "Kalispell,MT",
-    "employment_type": "full-time",
-    "category": "Software & IT",
-    "salary": "Not disclosed",
-    "salary_min": null,
-    "keywords": [
-      "C#",
-      "machine learning",
-      "sales"
-    ],
-    "sponsorship_evidence": "",
-    "h1b_status": "unknown",
-    "sponsorship_label": "Not specified",
-    "url": "https://amat.wd1.myworkdayjobs.com/en-US/External/job/KalispellMT/Software-Engineer-I---New-College-Grad--Bachelors---Kalispell--MT-_R2626859"
-  },
-  {
-    "company": "Applied Materials",
-    "title": "Production Control/Material Handler III - (O3)",
-    "location": "Birch Grove,MT",
-    "employment_type": "full-time",
-    "category": "Other",
-    "salary": "Not disclosed",
-    "salary_min": null,
-    "keywords": [
-      "sales"
-    ],
-    "sponsorship_evidence": "",
-    "h1b_status": "unknown",
-    "sponsorship_label": "Not specified",
-    "url": "https://amat.wd1.myworkdayjobs.com/en-US/External/job/Birch-GroveMT/Production-Control-Material-Handler-III----O3-_R2626214-1"
   },
   {
     "company": "Analog Devices",
@@ -242457,56 +241549,6 @@
     "h1b_status": "unknown",
     "sponsorship_label": "Not specified",
     "url": "https://marvell.wd1.myworkdayjobs.com/en-US/MarvellCareers/job/Santa-Clara-CA/Staff-Professional-Demand-Planner_2601374"
-  },
-  {
-    "company": "Marvell Technology",
-    "title": "Technical Lead, IC Design",
-    "location": "Santa Clara, CA",
-    "employment_type": "full-time",
-    "category": "Other",
-    "salary": "Not disclosed",
-    "salary_min": null,
-    "keywords": [
-      "Python",
-      "electrical engineering"
-    ],
-    "sponsorship_evidence": "",
-    "h1b_status": "unknown",
-    "sponsorship_label": "Not specified",
-    "url": "https://marvell.wd1.myworkdayjobs.com/en-US/MarvellCareers/job/Santa-Clara-CA/Senior-Principal-Digital-IC-Design-Engineer_2501309"
-  },
-  {
-    "company": "Marvell Technology",
-    "title": "Senior Staff Hardware Design Engineer - high-speed PCB-level design and signal integrity implementation",
-    "location": "Santa Clara, CA",
-    "employment_type": "full-time",
-    "category": "Other",
-    "salary": "Not disclosed",
-    "salary_min": null,
-    "keywords": [
-      "electrical engineering"
-    ],
-    "sponsorship_evidence": "",
-    "h1b_status": "unknown",
-    "sponsorship_label": "Not specified",
-    "url": "https://marvell.wd1.myworkdayjobs.com/en-US/MarvellCareers/job/Santa-Clara-CA/Senior-Staff-Hardware-Design-Engineer---PCB-layout-and-fabrication-and-mixed-signal-design-and-ODSP-and-AEC-and-PCIe_2602050"
-  },
-  {
-    "company": "Marvell Technology",
-    "title": "Principle Validation and Hardware Design Engineer",
-    "location": "Santa Clara, CA",
-    "employment_type": "full-time",
-    "category": "Other",
-    "salary": "Not disclosed",
-    "salary_min": null,
-    "keywords": [
-      "Python",
-      "electrical engineering"
-    ],
-    "sponsorship_evidence": "",
-    "h1b_status": "unknown",
-    "sponsorship_label": "Not specified",
-    "url": "https://marvell.wd1.myworkdayjobs.com/en-US/MarvellCareers/job/Santa-Clara-CA/Principle-Validation-and-Hardware-Design-Engineer_2602206"
   },
   {
     "company": "Comcast",

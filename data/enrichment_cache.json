@@ -63241,7 +63241,7 @@
   },
   "workday:3M:/job/IN-Maharashtra-Mumbai/Sales-Analyst---Area-Sales-Manager---Automotive-Aftermarket_R01169608": {
     "company": "3M",
-    "enriched_at": "2026-08-17T07:26:29.413826+00:00",
+    "enriched_at": "2026-08-24T07:30:51.501239+00:00",
     "external_id": "/job/IN-Maharashtra-Mumbai/Sales-Analyst---Area-Sales-Manager---Automotive-Aftermarket_R01169608",
     "h1b_mentioned": false,
     "h1b_status": "unknown",
@@ -77512,7 +77512,7 @@
   },
   "workday:Capital One:/job/Bangalore-In/Lead-AI-Engineer_R248117": {
     "company": "Capital One",
-    "enriched_at": "2026-08-14T22:11:30.009096+00:00",
+    "enriched_at": "2026-08-24T07:20:24.288479+00:00",
     "external_id": "/job/Bangalore-In/Lead-AI-Engineer_R248117",
     "h1b_mentioned": false,
     "h1b_status": "does_not_support_h1b",
@@ -77614,7 +77614,7 @@
   },
   "workday:Capital One:/job/Bangalore-In/Manager--Product-Management_R248803": {
     "company": "Capital One",
-    "enriched_at": "2026-08-14T22:11:01.445054+00:00",
+    "enriched_at": "2026-08-24T07:20:24.268987+00:00",
     "external_id": "/job/Bangalore-In/Manager--Product-Management_R248803",
     "h1b_mentioned": false,
     "h1b_status": "does_not_support_h1b",
@@ -77782,7 +77782,7 @@
   },
   "workday:Capital One:/job/Bangalore-In/Senior-Manager--Product-Management_R248801": {
     "company": "Capital One",
-    "enriched_at": "2026-08-14T22:11:01.709320+00:00",
+    "enriched_at": "2026-08-24T07:20:24.278793+00:00",
     "external_id": "/job/Bangalore-In/Senior-Manager--Product-Management_R248801",
     "h1b_mentioned": false,
     "h1b_status": "does_not_support_h1b",
@@ -96858,6 +96858,24 @@
     "source_updated_at": "",
     "sponsorship_evidence": ""
   },
+  "workday:Cigna Group:/job/Florence-NJ/Pharmacy-Production-Clerk---Express-Scripts----Onsite_26009354": {
+    "company": "Cigna Group",
+    "enriched_at": "2026-08-24T07:22:52.323667+00:00",
+    "external_id": "/job/Florence-NJ/Pharmacy-Production-Clerk---Express-Scripts----Onsite_26009354",
+    "h1b_mentioned": false,
+    "h1b_status": "unknown",
+    "keywords": [
+      "supply chain"
+    ],
+    "salary_currency": "",
+    "salary_max": null,
+    "salary_min": null,
+    "salary_period": "",
+    "salary_text": "",
+    "source": "workday",
+    "source_updated_at": "",
+    "sponsorship_evidence": ""
+  },
   "workday:Cigna Group:/job/Franklin-TN/Senior-Software-Engineer--C---NET---Azure-_26008884": {
     "company": "Cigna Group",
     "enriched_at": "2026-08-14T22:54:52.920886+00:00",
@@ -98790,7 +98808,7 @@
   },
   "workday:Cisco Systems:/job/Chicago-Illinois-US/Senior-Product-Manager--Network-Platform--Remote-_2021208-1": {
     "company": "Cisco Systems",
-    "enriched_at": "2026-08-17T07:25:01.531312+00:00",
+    "enriched_at": "2026-08-24T07:29:24.176945+00:00",
     "external_id": "/job/Chicago-Illinois-US/Senior-Product-Manager--Network-Platform--Remote-_2021208-1",
     "h1b_mentioned": false,
     "h1b_status": "unknown",
@@ -120978,6 +120996,27 @@
     "source_updated_at": "",
     "sponsorship_evidence": ""
   },
+  "workday:GE Aerospace:/job/Lafayette-IN-USA/Staff-Lifecycle-Operations-Engineer_R5038691-1": {
+    "company": "GE Aerospace",
+    "enriched_at": "2026-08-24T07:29:46.401933+00:00",
+    "external_id": "/job/Lafayette-IN-USA/Staff-Lifecycle-Operations-Engineer_R5038691-1",
+    "h1b_mentioned": false,
+    "h1b_status": "does_not_support_h1b",
+    "keywords": [
+      "analytics",
+      "risk management",
+      "compliance",
+      "legal"
+    ],
+    "salary_currency": "",
+    "salary_max": null,
+    "salary_min": null,
+    "salary_period": "",
+    "salary_text": "",
+    "source": "workday",
+    "source_updated_at": "",
+    "sponsorship_evidence": "We will not sponsor individuals for employment visas, now or in the future, for this job."
+  },
   "workday:GE Aerospace:/job/Saint-George-UT-US-1/Engineer----Thermal-Dynamics_R5036260-1": {
     "company": "GE Aerospace",
     "enriched_at": "2026-08-22T02:07:03.500124+00:00",
@@ -123259,6 +123298,24 @@
     "h1b_mentioned": true,
     "h1b_status": "unknown",
     "keywords": [],
+    "salary_currency": "",
+    "salary_max": null,
+    "salary_min": null,
+    "salary_period": "",
+    "salary_text": "",
+    "source": "workday",
+    "source_updated_at": "",
+    "sponsorship_evidence": ""
+  },
+  "workday:General Motors:/job/Warren-Michigan-United-States-of-America/Design-Release-Engineer---Chassis-Steering_JR-202618452-1": {
+    "company": "General Motors",
+    "enriched_at": "2026-08-24T07:22:58.354117+00:00",
+    "external_id": "/job/Warren-Michigan-United-States-of-America/Design-Release-Engineer---Chassis-Steering_JR-202618452-1",
+    "h1b_mentioned": false,
+    "h1b_status": "unknown",
+    "keywords": [
+      "CAD"
+    ],
     "salary_currency": "",
     "salary_max": null,
     "salary_min": null,
@@ -132637,6 +132694,50 @@
     "salary_min": null,
     "salary_period": "",
     "salary_text": "",
+    "source": "workday",
+    "source_updated_at": "",
+    "sponsorship_evidence": ""
+  },
+  "workday:Johnson & Johnson:/job/El-Paso-Texas-United-States-of-America/Summer-2027-Finance-Internship---El-Paso--TX-Juarez--MX_R-095343": {
+    "company": "Johnson & Johnson",
+    "enriched_at": "2026-08-24T07:23:55.499109+00:00",
+    "external_id": "/job/El-Paso-Texas-United-States-of-America/Summer-2027-Finance-Internship---El-Paso--TX-Juarez--MX_R-095343",
+    "h1b_mentioned": false,
+    "h1b_status": "unknown",
+    "keywords": [
+      "analytics",
+      "Excel",
+      "accounting",
+      "supply chain",
+      "legal"
+    ],
+    "salary_currency": "USD",
+    "salary_max": 26.0,
+    "salary_min": 26.0,
+    "salary_period": "hour",
+    "salary_text": "$26/hour",
+    "source": "workday",
+    "source_updated_at": "",
+    "sponsorship_evidence": ""
+  },
+  "workday:Johnson & Johnson:/job/El-Paso-Texas-United-States-of-America/XMLNAME-2027-Finance-Leadership-Development-Program--FLDP----Full-Time---El-Paso--TX---Juarez--MX_R-093407": {
+    "company": "Johnson & Johnson",
+    "enriched_at": "2026-08-24T07:23:55.508114+00:00",
+    "external_id": "/job/El-Paso-Texas-United-States-of-America/XMLNAME-2027-Finance-Leadership-Development-Program--FLDP----Full-Time---El-Paso--TX---Juarez--MX_R-093407",
+    "h1b_mentioned": false,
+    "h1b_status": "unknown",
+    "keywords": [
+      "analytics",
+      "Excel",
+      "accounting",
+      "audit",
+      "supply chain"
+    ],
+    "salary_currency": "USD",
+    "salary_max": 87800.0,
+    "salary_min": 87800.0,
+    "salary_period": "year",
+    "salary_text": "$87,800/year",
     "source": "workday",
     "source_updated_at": "",
     "sponsorship_evidence": ""
@@ -172154,7 +172255,7 @@
   },
   "workday:Micron Technology:/job/Boise-ID---Main-Site/Intern---DRAM-Design-Engineer_JR108458": {
     "company": "Micron Technology",
-    "enriched_at": "2026-08-17T07:18:01.222754+00:00",
+    "enriched_at": "2026-08-24T07:22:45.159169+00:00",
     "external_id": "/job/Boise-ID---Main-Site/Intern---DRAM-Design-Engineer_JR108458",
     "h1b_mentioned": false,
     "h1b_status": "unknown",
@@ -172271,7 +172372,7 @@
   },
   "workday:Micron Technology:/job/Boise-ID---Main-Site/Intern---EUV---Materials-Lithography_JR108053": {
     "company": "Micron Technology",
-    "enriched_at": "2026-08-17T07:18:01.228841+00:00",
+    "enriched_at": "2026-08-24T07:22:45.165088+00:00",
     "external_id": "/job/Boise-ID---Main-Site/Intern---EUV---Materials-Lithography_JR108053",
     "h1b_mentioned": false,
     "h1b_status": "unknown",
@@ -172488,7 +172589,7 @@
   },
   "workday:Micron Technology:/job/Boise-ID---Main-Site/Intern---Process-Development-Engineer--Thin-Films_JR107323": {
     "company": "Micron Technology",
-    "enriched_at": "2026-08-17T07:18:01.239471+00:00",
+    "enriched_at": "2026-08-24T07:22:45.175441+00:00",
     "external_id": "/job/Boise-ID---Main-Site/Intern---Process-Development-Engineer--Thin-Films_JR107323",
     "h1b_mentioned": false,
     "h1b_status": "unknown",
@@ -172612,7 +172713,7 @@
   },
   "workday:Micron Technology:/job/Boise-ID---Main-Site/Intern---Wet-Etch-Process-Development-Engineer_JR108050": {
     "company": "Micron Technology",
-    "enriched_at": "2026-08-17T07:18:01.251140+00:00",
+    "enriched_at": "2026-08-24T07:22:45.186684+00:00",
     "external_id": "/job/Boise-ID---Main-Site/Intern---Wet-Etch-Process-Development-Engineer_JR108050",
     "h1b_mentioned": false,
     "h1b_status": "unknown",
@@ -179509,7 +179610,7 @@
   },
   "workday:Micron Technology:/job/Richardson-TX/Sr-Engineer--HBM-Verification-Architecture_JR94968": {
     "company": "Micron Technology",
-    "enriched_at": "2026-08-17T07:18:01.261617+00:00",
+    "enriched_at": "2026-08-24T07:22:45.196849+00:00",
     "external_id": "/job/Richardson-TX/Sr-Engineer--HBM-Verification-Architecture_JR94968",
     "h1b_mentioned": false,
     "h1b_status": "unknown",
@@ -183757,6 +183858,25 @@
     "source_updated_at": "",
     "sponsorship_evidence": ""
   },
+  "workday:NVIDIA:/job/US-CA-Santa-Clara/Product-Marketing-Manager--NVIDIA-NIM_JR2015402": {
+    "company": "NVIDIA",
+    "enriched_at": "2026-08-24T07:19:51.034431+00:00",
+    "external_id": "/job/US-CA-Santa-Clara/Product-Marketing-Manager--NVIDIA-NIM_JR2015402",
+    "h1b_mentioned": false,
+    "h1b_status": "unknown",
+    "keywords": [
+      "sales",
+      "recruiting"
+    ],
+    "salary_currency": "",
+    "salary_max": null,
+    "salary_min": null,
+    "salary_period": "",
+    "salary_text": "",
+    "source": "workday",
+    "source_updated_at": "",
+    "sponsorship_evidence": ""
+  },
   "workday:NVIDIA:/job/US-CA-Santa-Clara/Product-Marketing-Operations-Manager_JR2022257": {
     "company": "NVIDIA",
     "enriched_at": "2026-08-21T01:57:04.033079+00:00",
@@ -184574,6 +184694,27 @@
       "Kubernetes",
       "data science",
       "electrical engineering",
+      "recruiting"
+    ],
+    "salary_currency": "",
+    "salary_max": null,
+    "salary_min": null,
+    "salary_period": "",
+    "salary_text": "",
+    "source": "workday",
+    "source_updated_at": "",
+    "sponsorship_evidence": ""
+  },
+  "workday:NVIDIA:/job/US-CA-Santa-Clara/Senior-Product-Manager--NVIDIA-Mission-Control_JR2017360-1": {
+    "company": "NVIDIA",
+    "enriched_at": "2026-08-24T07:19:51.042132+00:00",
+    "external_id": "/job/US-CA-Santa-Clara/Senior-Product-Manager--NVIDIA-Mission-Control_JR2017360-1",
+    "h1b_mentioned": false,
+    "h1b_status": "unknown",
+    "keywords": [
+      "Kubernetes",
+      "artificial intelligence",
+      "sales",
       "recruiting"
     ],
     "salary_currency": "",
@@ -194644,7 +194785,7 @@
   },
   "workday:Northrop Grumman:/job/United-States-California-Azusa/Journeyman-Machinist_R10243899": {
     "company": "Northrop Grumman",
-    "enriched_at": "2026-08-17T07:17:09.252484+00:00",
+    "enriched_at": "2026-08-24T07:21:40.493222+00:00",
     "external_id": "/job/United-States-California-Azusa/Journeyman-Machinist_R10243899",
     "h1b_mentioned": false,
     "h1b_status": "unknown",
@@ -211750,7 +211891,7 @@
   },
   "workday:Northrop Grumman:/job/United-States-California-Sunnyvale/U103-OPS-MAINTENANCE-MECHANIC-B_R10236323": {
     "company": "Northrop Grumman",
-    "enriched_at": "2026-08-17T07:17:09.261178+00:00",
+    "enriched_at": "2026-08-24T07:21:40.501757+00:00",
     "external_id": "/job/United-States-California-Sunnyvale/U103-OPS-MAINTENANCE-MECHANIC-B_R10236323",
     "h1b_mentioned": false,
     "h1b_status": "unknown",
@@ -211768,7 +211909,7 @@
   },
   "workday:Northrop Grumman:/job/United-States-California-Sunnyvale/U103-PRODUCTION-COORD-A_R10244078": {
     "company": "Northrop Grumman",
-    "enriched_at": "2026-08-17T07:17:09.275897+00:00",
+    "enriched_at": "2026-08-24T07:21:40.516405+00:00",
     "external_id": "/job/United-States-California-Sunnyvale/U103-PRODUCTION-COORD-A_R10244078",
     "h1b_mentioned": false,
     "h1b_status": "unknown",
@@ -211802,7 +211943,7 @@
   },
   "workday:Northrop Grumman:/job/United-States-California-Sunnyvale/U103-QLTY-ASSURE-CLERK_R10242942": {
     "company": "Northrop Grumman",
-    "enriched_at": "2026-08-17T07:17:09.286019+00:00",
+    "enriched_at": "2026-08-24T07:21:40.526501+00:00",
     "external_id": "/job/United-States-California-Sunnyvale/U103-QLTY-ASSURE-CLERK_R10242942",
     "h1b_mentioned": false,
     "h1b_status": "unknown",
@@ -211877,7 +212018,7 @@
   },
   "workday:Northrop Grumman:/job/United-States-California-Sunnyvale/U110-SR-MATERIAL-HANDLERS_R10244062": {
     "company": "Northrop Grumman",
-    "enriched_at": "2026-08-17T07:17:09.293163+00:00",
+    "enriched_at": "2026-08-24T07:21:40.533566+00:00",
     "external_id": "/job/United-States-California-Sunnyvale/U110-SR-MATERIAL-HANDLERS_R10244062",
     "h1b_mentioned": false,
     "h1b_status": "unknown",
@@ -232771,6 +232912,26 @@
       "risk management",
       "compliance",
       "contracts"
+    ],
+    "salary_currency": "",
+    "salary_max": null,
+    "salary_min": null,
+    "salary_period": "",
+    "salary_text": "",
+    "source": "workday",
+    "source_updated_at": "",
+    "sponsorship_evidence": ""
+  },
+  "workday:Northrop Grumman:/job/United-States-Maryland-Baltimore/Principal---Senior-Principal-F---22-Systems-Engineer_R10247207": {
+    "company": "Northrop Grumman",
+    "enriched_at": "2026-08-24T07:21:40.477243+00:00",
+    "external_id": "/job/United-States-Maryland-Baltimore/Principal---Senior-Principal-F---22-Systems-Engineer_R10247207",
+    "h1b_mentioned": false,
+    "h1b_status": "unknown",
+    "keywords": [
+      "risk management",
+      "logistics",
+      "compliance"
     ],
     "salary_currency": "",
     "salary_max": null,
@@ -295241,7 +295402,7 @@
   },
   "workday:RTX:/job/US-CA-GOLETA-H01--6380-Hollister-Ave--BLDG-H01/Systems-Engineer-I---Electronic-Warfare_01852305": {
     "company": "RTX",
-    "enriched_at": "2026-08-17T07:20:38.876573+00:00",
+    "enriched_at": "2026-08-24T07:25:12.907312+00:00",
     "external_id": "/job/US-CA-GOLETA-H01--6380-Hollister-Ave--BLDG-H01/Systems-Engineer-I---Electronic-Warfare_01852305",
     "h1b_mentioned": false,
     "h1b_status": "unknown",
@@ -298764,7 +298925,7 @@
   },
   "workday:RTX:/job/US-CT-CHESHIRE-250--250-Knotter-Dr--GOODRICH-CORP/Senior-Test-Systems-Technician--Onsite-_01867390-1": {
     "company": "RTX",
-    "enriched_at": "2026-08-17T07:20:38.900782+00:00",
+    "enriched_at": "2026-08-24T07:25:12.921209+00:00",
     "external_id": "/job/US-CT-CHESHIRE-250--250-Knotter-Dr--GOODRICH-CORP/Senior-Test-Systems-Technician--Onsite-_01867390-1",
     "h1b_mentioned": false,
     "h1b_status": "unknown",
@@ -378838,6 +378999,31 @@
     "source_updated_at": "",
     "sponsorship_evidence": ""
   },
+  "workday:U.S. Bancorp:/job/Chicago-IL/Senior-Software-Engineer---C--NET--Multiple-openings--in-Chicago--IL_2026-0025851": {
+    "company": "U.S. Bancorp",
+    "enriched_at": "2026-08-24T07:30:45.042425+00:00",
+    "external_id": "/job/Chicago-IL/Senior-Software-Engineer---C--NET--Multiple-openings--in-Chicago--IL_2026-0025851",
+    "h1b_mentioned": false,
+    "h1b_status": "does_not_support_h1b",
+    "keywords": [
+      "C#",
+      "TypeScript",
+      "SQL",
+      "Azure",
+      "Docker",
+      "Kubernetes",
+      "Excel",
+      "tax"
+    ],
+    "salary_currency": "",
+    "salary_max": null,
+    "salary_min": null,
+    "salary_period": "",
+    "salary_text": "",
+    "source": "workday",
+    "source_updated_at": "",
+    "sponsorship_evidence": "This position is not eligible for visa sponsorship."
+  },
   "workday:U.S. Bancorp:/job/Chino-CA/Client-Relationship-Consultant-3--Banker----Chino--CA--35hrs-_2026-0022185": {
     "company": "U.S. Bancorp",
     "enriched_at": "2026-08-21T19:07:51.967256+00:00",
@@ -379605,6 +379791,24 @@
     "company": "U.S. Bancorp",
     "enriched_at": "2026-08-19T19:05:47.094738+00:00",
     "external_id": "/job/Great-Falls-MT/Relationship-Banker-I---MT-Great-Falls-10th-Avenue_2026-0025746",
+    "h1b_mentioned": false,
+    "h1b_status": "unknown",
+    "keywords": [
+      "Excel"
+    ],
+    "salary_currency": "",
+    "salary_max": null,
+    "salary_min": null,
+    "salary_period": "",
+    "salary_text": "",
+    "source": "workday",
+    "source_updated_at": "",
+    "sponsorship_evidence": ""
+  },
+  "workday:U.S. Bancorp:/job/Great-Falls-MT/Relationship-Banker-I---MT-Great-Falls-Northwest_2026-0025994": {
+    "company": "U.S. Bancorp",
+    "enriched_at": "2026-08-24T07:30:44.978608+00:00",
+    "external_id": "/job/Great-Falls-MT/Relationship-Banker-I---MT-Great-Falls-Northwest_2026-0025994",
     "h1b_mentioned": false,
     "h1b_status": "unknown",
     "keywords": [
@@ -381116,6 +381320,25 @@
     "source_updated_at": "",
     "sponsorship_evidence": ""
   },
+  "workday:U.S. Bancorp:/job/Missoula-MT/Relationship-Banker-II---MT-Missoula-Southside_2026-0026287": {
+    "company": "U.S. Bancorp",
+    "enriched_at": "2026-08-24T07:30:44.991415+00:00",
+    "external_id": "/job/Missoula-MT/Relationship-Banker-II---MT-Missoula-Southside_2026-0026287",
+    "h1b_mentioned": false,
+    "h1b_status": "unknown",
+    "keywords": [
+      "Excel",
+      "sales"
+    ],
+    "salary_currency": "",
+    "salary_max": null,
+    "salary_min": null,
+    "salary_period": "",
+    "salary_text": "",
+    "source": "workday",
+    "source_updated_at": "",
+    "sponsorship_evidence": ""
+  },
   "workday:U.S. Bancorp:/job/Mount-Vernon-WA/Bilingual-Client-Relationship-Consultant-3--Banker----Mount-Vernon--WA--Bilingual-English---Spanish-_2026-0023098": {
     "company": "U.S. Bancorp",
     "enriched_at": "2026-08-22T18:58:19.669351+00:00",
@@ -381479,6 +381702,24 @@
       "Excel",
       "compliance",
       "legal"
+    ],
+    "salary_currency": "",
+    "salary_max": null,
+    "salary_min": null,
+    "salary_period": "",
+    "salary_text": "",
+    "source": "workday",
+    "source_updated_at": "",
+    "sponsorship_evidence": ""
+  },
+  "workday:U.S. Bancorp:/job/Port-Townsend-WA/Client-Relationship-Consultant-2--Banker----Port-Townsend--WA--20hrs-_2026-0021951-1": {
+    "company": "U.S. Bancorp",
+    "enriched_at": "2026-08-24T07:30:45.029607+00:00",
+    "external_id": "/job/Port-Townsend-WA/Client-Relationship-Consultant-2--Banker----Port-Townsend--WA--20hrs-_2026-0021951-1",
+    "h1b_mentioned": false,
+    "h1b_status": "unknown",
+    "keywords": [
+      "Excel"
     ],
     "salary_currency": "",
     "salary_max": null,
@@ -382503,6 +382744,25 @@
     "source_updated_at": "",
     "sponsorship_evidence": ""
   },
+  "workday:U.S. Bancorp:/job/Seattle-WA/Client-Relationship-Consultant-3--Banker----Rainier-Valley--WA_2026-0022589": {
+    "company": "U.S. Bancorp",
+    "enriched_at": "2026-08-24T07:30:45.016685+00:00",
+    "external_id": "/job/Seattle-WA/Client-Relationship-Consultant-3--Banker----Rainier-Valley--WA_2026-0022589",
+    "h1b_mentioned": false,
+    "h1b_status": "unknown",
+    "keywords": [
+      "Excel",
+      "sales"
+    ],
+    "salary_currency": "",
+    "salary_max": null,
+    "salary_min": null,
+    "salary_period": "",
+    "salary_text": "",
+    "source": "workday",
+    "source_updated_at": "",
+    "sponsorship_evidence": ""
+  },
   "workday:U.S. Bancorp:/job/Selma-CA/Client-Relationship-Consultant-2--Banker----Selma---CA_2026-0024316": {
     "company": "U.S. Bancorp",
     "enriched_at": "2026-08-24T02:07:36.975670+00:00",
@@ -382655,6 +382915,24 @@
     "company": "U.S. Bancorp",
     "enriched_at": "2026-08-19T02:03:55.814752+00:00",
     "external_id": "/job/Springfield-IL/Relationship-Banker-I---6th-St-Springfield-IL_2026-0025320-1",
+    "h1b_mentioned": false,
+    "h1b_status": "unknown",
+    "keywords": [
+      "Excel"
+    ],
+    "salary_currency": "",
+    "salary_max": null,
+    "salary_min": null,
+    "salary_period": "",
+    "salary_text": "",
+    "source": "workday",
+    "source_updated_at": "",
+    "sponsorship_evidence": ""
+  },
+  "workday:U.S. Bancorp:/job/Star-ID/Relationship-Banker-I---ID-Star_2026-0025913": {
+    "company": "U.S. Bancorp",
+    "enriched_at": "2026-08-24T07:30:45.004157+00:00",
+    "external_id": "/job/Star-ID/Relationship-Banker-I---ID-Star_2026-0025913",
     "h1b_mentioned": false,
     "h1b_status": "unknown",
     "keywords": [
@@ -383686,6 +383964,26 @@
     "source_updated_at": "",
     "sponsorship_evidence": ""
   },
+  "workday:Visa:/job/CO---Bogota-Colombia/Sr-Client-Care-Ops-Support_REF087653W": {
+    "company": "Visa",
+    "enriched_at": "2026-08-24T07:21:53.967462+00:00",
+    "external_id": "/job/CO---Bogota-Colombia/Sr-Client-Care-Ops-Support_REF087653W",
+    "h1b_mentioned": false,
+    "h1b_status": "unknown",
+    "keywords": [
+      "audit",
+      "compliance",
+      "contracts"
+    ],
+    "salary_currency": "",
+    "salary_max": null,
+    "salary_min": null,
+    "salary_period": "",
+    "salary_text": "",
+    "source": "workday",
+    "source_updated_at": "",
+    "sponsorship_evidence": ""
+  },
   "workday:Visa:/job/CO---Bogota-Colombia/Sr-Contracts-Analyst_REF084996W": {
     "company": "Visa",
     "enriched_at": "2026-08-14T22:30:06.280109+00:00",
@@ -383785,6 +384083,30 @@
     "source_updated_at": "",
     "sponsorship_evidence": ""
   },
+  "workday:Visa:/job/IN---Bengaluru-India/Data-Engineer_REF087496W": {
+    "company": "Visa",
+    "enriched_at": "2026-08-24T07:21:53.956772+00:00",
+    "external_id": "/job/IN---Bengaluru-India/Data-Engineer_REF087496W",
+    "h1b_mentioned": false,
+    "h1b_status": "unknown",
+    "keywords": [
+      "Python",
+      "SQL",
+      "AWS",
+      "Azure",
+      "GCP",
+      "data science",
+      "analytics"
+    ],
+    "salary_currency": "",
+    "salary_max": null,
+    "salary_min": null,
+    "salary_period": "",
+    "salary_text": "",
+    "source": "workday",
+    "source_updated_at": "",
+    "sponsorship_evidence": ""
+  },
   "workday:Visa:/job/IN---Bengaluru-India/Finance-Analyst_REF087497W": {
     "company": "Visa",
     "enriched_at": "2026-08-17T07:17:18.968306+00:00",
@@ -383797,6 +384119,27 @@
       "compliance",
       "legal",
       "contracts"
+    ],
+    "salary_currency": "",
+    "salary_max": null,
+    "salary_min": null,
+    "salary_period": "",
+    "salary_text": "",
+    "source": "workday",
+    "source_updated_at": "",
+    "sponsorship_evidence": ""
+  },
+  "workday:Visa:/job/IN---Bengaluru-India/Manager--Risk-Advisory_REF081996W": {
+    "company": "Visa",
+    "enriched_at": "2026-08-24T07:21:53.943775+00:00",
+    "external_id": "/job/IN---Bengaluru-India/Manager--Risk-Advisory_REF081996W",
+    "h1b_mentioned": false,
+    "h1b_status": "unknown",
+    "keywords": [
+      "Python",
+      "SQL",
+      "analytics",
+      "risk management"
     ],
     "salary_currency": "",
     "salary_max": null,
@@ -383934,6 +384277,29 @@
       "AWS",
       "Azure",
       "Kubernetes"
+    ],
+    "salary_currency": "",
+    "salary_max": null,
+    "salary_min": null,
+    "salary_period": "",
+    "salary_text": "",
+    "source": "workday",
+    "source_updated_at": "",
+    "sponsorship_evidence": ""
+  },
+  "workday:Visa:/job/IN---Bengaluru-India/Software-Engineer--1-year-Exp-_REF087690W": {
+    "company": "Visa",
+    "enriched_at": "2026-08-24T07:21:53.924222+00:00",
+    "external_id": "/job/IN---Bengaluru-India/Software-Engineer--1-year-Exp-_REF087690W",
+    "h1b_mentioned": false,
+    "h1b_status": "unknown",
+    "keywords": [
+      "Python",
+      "Java",
+      "JavaScript",
+      "SQL",
+      "React",
+      "analytics"
     ],
     "salary_currency": "",
     "salary_max": null,
@@ -384219,6 +384585,27 @@
       "SQL",
       "Azure",
       "compliance"
+    ],
+    "salary_currency": "",
+    "salary_max": null,
+    "salary_min": null,
+    "salary_period": "",
+    "salary_text": "",
+    "source": "workday",
+    "source_updated_at": "",
+    "sponsorship_evidence": ""
+  },
+  "workday:Visa:/job/IN---Bengaluru-India/Staff-Software-Engineer_REF080552W": {
+    "company": "Visa",
+    "enriched_at": "2026-08-24T07:21:53.934084+00:00",
+    "external_id": "/job/IN---Bengaluru-India/Staff-Software-Engineer_REF080552W",
+    "h1b_mentioned": false,
+    "h1b_status": "unknown",
+    "keywords": [
+      "Python",
+      "JavaScript",
+      "React",
+      "Docker"
     ],
     "salary_currency": "",
     "salary_max": null,
@@ -385628,6 +386015,257 @@
     "salary_min": 115500.0,
     "salary_period": "year",
     "salary_text": "$115,500.00 to $154,800.00 per year",
+    "source": "workday",
+    "source_updated_at": "",
+    "sponsorship_evidence": ""
+  },
+  "workday:Walt Disney:/job/Anaheim-CA-USA/DLR-Occupational-Safety---Industrial-Hygiene-Interns--Spring-2027_10158132": {
+    "company": "Walt Disney",
+    "enriched_at": "2026-08-24T07:23:23.642047+00:00",
+    "external_id": "/job/Anaheim-CA-USA/DLR-Occupational-Safety---Industrial-Hygiene-Interns--Spring-2027_10158132",
+    "h1b_mentioned": false,
+    "h1b_status": "unknown",
+    "keywords": [
+      "Excel"
+    ],
+    "salary_currency": "",
+    "salary_max": null,
+    "salary_min": null,
+    "salary_period": "",
+    "salary_text": "",
+    "source": "workday",
+    "source_updated_at": "",
+    "sponsorship_evidence": ""
+  },
+  "workday:Walt Disney:/job/Anaheim-CA-USA/Disneyland-Architecture-Intern--Spring-2027_10158301": {
+    "company": "Walt Disney",
+    "enriched_at": "2026-08-24T07:23:23.651440+00:00",
+    "external_id": "/job/Anaheim-CA-USA/Disneyland-Architecture-Intern--Spring-2027_10158301",
+    "h1b_mentioned": false,
+    "h1b_status": "unknown",
+    "keywords": [],
+    "salary_currency": "",
+    "salary_max": null,
+    "salary_min": null,
+    "salary_period": "",
+    "salary_text": "",
+    "source": "workday",
+    "source_updated_at": "",
+    "sponsorship_evidence": ""
+  },
+  "workday:Walt Disney:/job/Anaheim-CA-USA/Disneyland-Civil-Facilities-and-Utilities-Intern--Spring-2026_10158736-2": {
+    "company": "Walt Disney",
+    "enriched_at": "2026-08-24T07:23:23.658536+00:00",
+    "external_id": "/job/Anaheim-CA-USA/Disneyland-Civil-Facilities-and-Utilities-Intern--Spring-2026_10158736-2",
+    "h1b_mentioned": false,
+    "h1b_status": "unknown",
+    "keywords": [
+      "procurement"
+    ],
+    "salary_currency": "",
+    "salary_max": null,
+    "salary_min": null,
+    "salary_period": "",
+    "salary_text": "",
+    "source": "workday",
+    "source_updated_at": "",
+    "sponsorship_evidence": ""
+  },
+  "workday:Walt Disney:/job/Anaheim-CA-USA/Disneyland-Design-and-Construction-Strategic-Sourcing-Intern--Spring-2027_10158291": {
+    "company": "Walt Disney",
+    "enriched_at": "2026-08-24T07:23:23.666147+00:00",
+    "external_id": "/job/Anaheim-CA-USA/Disneyland-Design-and-Construction-Strategic-Sourcing-Intern--Spring-2027_10158291",
+    "h1b_mentioned": false,
+    "h1b_status": "unknown",
+    "keywords": [
+      "Excel",
+      "supply chain",
+      "compliance",
+      "contracts"
+    ],
+    "salary_currency": "",
+    "salary_max": null,
+    "salary_min": null,
+    "salary_period": "",
+    "salary_text": "",
+    "source": "workday",
+    "source_updated_at": "",
+    "sponsorship_evidence": ""
+  },
+  "workday:Walt Disney:/job/Anaheim-CA-USA/Disneyland-Electrical-Engineering-Intern--Spring-2027_10158423": {
+    "company": "Walt Disney",
+    "enriched_at": "2026-08-24T07:23:23.673949+00:00",
+    "external_id": "/job/Anaheim-CA-USA/Disneyland-Electrical-Engineering-Intern--Spring-2027_10158423",
+    "h1b_mentioned": false,
+    "h1b_status": "unknown",
+    "keywords": [
+      "Excel",
+      "electrical engineering",
+      "legal"
+    ],
+    "salary_currency": "",
+    "salary_max": null,
+    "salary_min": null,
+    "salary_period": "",
+    "salary_text": "",
+    "source": "workday",
+    "source_updated_at": "",
+    "sponsorship_evidence": ""
+  },
+  "workday:Walt Disney:/job/Anaheim-CA-USA/Disneyland-Facilities-Controls-Electrical-Engineering-Intern--Spring-2027_10158296": {
+    "company": "Walt Disney",
+    "enriched_at": "2026-08-24T07:23:23.683160+00:00",
+    "external_id": "/job/Anaheim-CA-USA/Disneyland-Facilities-Controls-Electrical-Engineering-Intern--Spring-2027_10158296",
+    "h1b_mentioned": false,
+    "h1b_status": "unknown",
+    "keywords": [
+      "mechanical engineering",
+      "electrical engineering",
+      "legal"
+    ],
+    "salary_currency": "",
+    "salary_max": null,
+    "salary_min": null,
+    "salary_period": "",
+    "salary_text": "",
+    "source": "workday",
+    "source_updated_at": "",
+    "sponsorship_evidence": ""
+  },
+  "workday:Walt Disney:/job/Anaheim-CA-USA/Disneyland-Facilities-Management-Engineering-Intern--Spring-2027_10158737": {
+    "company": "Walt Disney",
+    "enriched_at": "2026-08-24T07:23:23.692266+00:00",
+    "external_id": "/job/Anaheim-CA-USA/Disneyland-Facilities-Management-Engineering-Intern--Spring-2027_10158737",
+    "h1b_mentioned": false,
+    "h1b_status": "unknown",
+    "keywords": [
+      "mechanical engineering"
+    ],
+    "salary_currency": "",
+    "salary_max": null,
+    "salary_min": null,
+    "salary_period": "",
+    "salary_text": "",
+    "source": "workday",
+    "source_updated_at": "",
+    "sponsorship_evidence": ""
+  },
+  "workday:Walt Disney:/job/Anaheim-CA-USA/Disneyland-Facilities-Mechanical-Engineering-Intern--Spring-2027_10158306": {
+    "company": "Walt Disney",
+    "enriched_at": "2026-08-24T07:23:23.701305+00:00",
+    "external_id": "/job/Anaheim-CA-USA/Disneyland-Facilities-Mechanical-Engineering-Intern--Spring-2027_10158306",
+    "h1b_mentioned": false,
+    "h1b_status": "unknown",
+    "keywords": [
+      "mechanical engineering"
+    ],
+    "salary_currency": "",
+    "salary_max": null,
+    "salary_min": null,
+    "salary_period": "",
+    "salary_text": "",
+    "source": "workday",
+    "source_updated_at": "",
+    "sponsorship_evidence": ""
+  },
+  "workday:Walt Disney:/job/Anaheim-CA-USA/Disneyland-Mechanical-Engineering-Intern--Spring-2027_10158421-2": {
+    "company": "Walt Disney",
+    "enriched_at": "2026-08-24T07:23:23.709825+00:00",
+    "external_id": "/job/Anaheim-CA-USA/Disneyland-Mechanical-Engineering-Intern--Spring-2027_10158421-2",
+    "h1b_mentioned": false,
+    "h1b_status": "unknown",
+    "keywords": [
+      "mechanical engineering",
+      "SolidWorks",
+      "legal"
+    ],
+    "salary_currency": "",
+    "salary_max": null,
+    "salary_min": null,
+    "salary_period": "",
+    "salary_text": "",
+    "source": "workday",
+    "source_updated_at": "",
+    "sponsorship_evidence": ""
+  },
+  "workday:Walt Disney:/job/Anaheim-CA-USA/Disneyland-Power-and-Facilities-Electrical-Engineering-Intern--Spring-2027_10158314": {
+    "company": "Walt Disney",
+    "enriched_at": "2026-08-24T07:23:23.717814+00:00",
+    "external_id": "/job/Anaheim-CA-USA/Disneyland-Power-and-Facilities-Electrical-Engineering-Intern--Spring-2027_10158314",
+    "h1b_mentioned": false,
+    "h1b_status": "unknown",
+    "keywords": [
+      "Excel",
+      "electrical engineering"
+    ],
+    "salary_currency": "",
+    "salary_max": null,
+    "salary_min": null,
+    "salary_period": "",
+    "salary_text": "",
+    "source": "workday",
+    "source_updated_at": "",
+    "sponsorship_evidence": ""
+  },
+  "workday:Walt Disney:/job/Anaheim-CA-USA/Disneyland-Quality-Engineering-Intern--Fall-2026_10158416-2": {
+    "company": "Walt Disney",
+    "enriched_at": "2026-08-24T07:23:23.725597+00:00",
+    "external_id": "/job/Anaheim-CA-USA/Disneyland-Quality-Engineering-Intern--Fall-2026_10158416-2",
+    "h1b_mentioned": false,
+    "h1b_status": "unknown",
+    "keywords": [
+      "data science",
+      "analytics",
+      "Excel",
+      "compliance"
+    ],
+    "salary_currency": "",
+    "salary_max": null,
+    "salary_min": null,
+    "salary_period": "",
+    "salary_text": "",
+    "source": "workday",
+    "source_updated_at": "",
+    "sponsorship_evidence": ""
+  },
+  "workday:Walt Disney:/job/Anaheim-CA-USA/Disneyland-Strategic-Sourcing-Intern--Spring-2027_10158264-2": {
+    "company": "Walt Disney",
+    "enriched_at": "2026-08-24T07:23:23.733763+00:00",
+    "external_id": "/job/Anaheim-CA-USA/Disneyland-Strategic-Sourcing-Intern--Spring-2027_10158264-2",
+    "h1b_mentioned": false,
+    "h1b_status": "unknown",
+    "keywords": [
+      "Excel",
+      "supply chain",
+      "compliance",
+      "contracts"
+    ],
+    "salary_currency": "",
+    "salary_max": null,
+    "salary_min": null,
+    "salary_period": "",
+    "salary_text": "",
+    "source": "workday",
+    "source_updated_at": "",
+    "sponsorship_evidence": ""
+  },
+  "workday:Walt Disney:/job/Anaheim-CA-USA/Geographic-Information-Systems--GIS--Intern--Spring-2027_10158899": {
+    "company": "Walt Disney",
+    "enriched_at": "2026-08-24T07:23:23.741492+00:00",
+    "external_id": "/job/Anaheim-CA-USA/Geographic-Information-Systems--GIS--Intern--Spring-2027_10158899",
+    "h1b_mentioned": false,
+    "h1b_status": "unknown",
+    "keywords": [
+      "Python",
+      "SQL",
+      "data science",
+      "CAD"
+    ],
+    "salary_currency": "USD",
+    "salary_max": 31.0,
+    "salary_min": 31.0,
+    "salary_period": "hour",
+    "salary_text": "$31.00 per hour",
     "source": "workday",
     "source_updated_at": "",
     "sponsorship_evidence": ""
@@ -387239,6 +387877,29 @@
     "source_updated_at": "",
     "sponsorship_evidence": ""
   },
+  "workday:Walt Disney:/job/Celebration-FL-USA/Disney-Signature-Experiences-Pricing---Revenue-Management-Intern--Spring-2027_10158469": {
+    "company": "Walt Disney",
+    "enriched_at": "2026-08-24T07:23:23.833753+00:00",
+    "external_id": "/job/Celebration-FL-USA/Disney-Signature-Experiences-Pricing---Revenue-Management-Intern--Spring-2027_10158469",
+    "h1b_mentioned": false,
+    "h1b_status": "unknown",
+    "keywords": [
+      "Python",
+      "SQL",
+      "data science",
+      "analytics",
+      "Excel",
+      "accounting"
+    ],
+    "salary_currency": "USD",
+    "salary_max": 31.0,
+    "salary_min": 31.0,
+    "salary_period": "hour",
+    "salary_text": "$31.00 per hour",
+    "source": "workday",
+    "source_updated_at": "",
+    "sponsorship_evidence": ""
+  },
   "workday:Walt Disney:/job/Celebration-FL-USA/Electrical-Technical-Operations-Manager_10145966": {
     "company": "Walt Disney",
     "enriched_at": "2026-08-14T22:56:48.496382+00:00",
@@ -387712,6 +388373,65 @@
     "source_updated_at": "",
     "sponsorship_evidence": ""
   },
+  "workday:Walt Disney:/job/Celebration-FL-USA/WDI-Business-Planning-and-Strategy-Intern--Orlando--Spring-2027_10158474-2": {
+    "company": "Walt Disney",
+    "enriched_at": "2026-08-24T07:23:23.862012+00:00",
+    "external_id": "/job/Celebration-FL-USA/WDI-Business-Planning-and-Strategy-Intern--Orlando--Spring-2027_10158474-2",
+    "h1b_mentioned": false,
+    "h1b_status": "unknown",
+    "keywords": [
+      "Python",
+      "SQL",
+      "data science",
+      "analytics"
+    ],
+    "salary_currency": "USD",
+    "salary_max": 26.5,
+    "salary_min": 26.5,
+    "salary_period": "hour",
+    "salary_text": "$26.50 per hour",
+    "source": "workday",
+    "source_updated_at": "",
+    "sponsorship_evidence": ""
+  },
+  "workday:Walt Disney:/job/Celebration-FL-USA/WDI-Show-Mechanical-Design---Production-Intern--Orlando--Spring-2027_10158494-1": {
+    "company": "Walt Disney",
+    "enriched_at": "2026-08-24T07:23:23.922425+00:00",
+    "external_id": "/job/Celebration-FL-USA/WDI-Show-Mechanical-Design---Production-Intern--Orlando--Spring-2027_10158494-1",
+    "h1b_mentioned": false,
+    "h1b_status": "unknown",
+    "keywords": [
+      "CAD",
+      "SolidWorks"
+    ],
+    "salary_currency": "USD",
+    "salary_max": 26.5,
+    "salary_min": 26.5,
+    "salary_period": "hour",
+    "salary_text": "$26.50 per hour",
+    "source": "workday",
+    "source_updated_at": "",
+    "sponsorship_evidence": ""
+  },
+  "workday:Walt Disney:/job/Celebration-FL-USA/WDI-Show-Mechanical-Engineering-Intern--Surface-Development--Orlando--Spring-2027_10158502": {
+    "company": "Walt Disney",
+    "enriched_at": "2026-08-24T07:23:23.944149+00:00",
+    "external_id": "/job/Celebration-FL-USA/WDI-Show-Mechanical-Engineering-Intern--Surface-Development--Orlando--Spring-2027_10158502",
+    "h1b_mentioned": false,
+    "h1b_status": "unknown",
+    "keywords": [
+      "mechanical engineering",
+      "SolidWorks"
+    ],
+    "salary_currency": "USD",
+    "salary_max": 31.0,
+    "salary_min": 31.0,
+    "salary_period": "hour",
+    "salary_text": "$31.00 per hour",
+    "source": "workday",
+    "source_updated_at": "",
+    "sponsorship_evidence": ""
+  },
   "workday:Walt Disney:/job/Charlotte-NC-USA/Resource-Coordinator-I_10157002": {
     "company": "Walt Disney",
     "enriched_at": "2026-08-14T22:56:48.001299+00:00",
@@ -388006,6 +388726,27 @@
     "h1b_mentioned": false,
     "h1b_status": "unknown",
     "keywords": [],
+    "salary_currency": "",
+    "salary_max": null,
+    "salary_min": null,
+    "salary_period": "",
+    "salary_text": "",
+    "source": "workday",
+    "source_updated_at": "",
+    "sponsorship_evidence": ""
+  },
+  "workday:Walt Disney:/job/Glendale-CA-USA/Glendale-System-Software-Engineering-Internship--Spring-2027_10158137": {
+    "company": "Walt Disney",
+    "enriched_at": "2026-08-24T07:23:23.757128+00:00",
+    "external_id": "/job/Glendale-CA-USA/Glendale-System-Software-Engineering-Internship--Spring-2027_10158137",
+    "h1b_mentioned": false,
+    "h1b_status": "unknown",
+    "keywords": [
+      "C#",
+      "Excel",
+      "mechanical engineering",
+      "electrical engineering"
+    ],
     "salary_currency": "",
     "salary_max": null,
     "salary_min": null,
@@ -388738,6 +389479,133 @@
     "source_updated_at": "",
     "sponsorship_evidence": ""
   },
+  "workday:Walt Disney:/job/Glendale-CA-USA/WDI-Project-Engineering-Intern--Spring-2027_10158179": {
+    "company": "Walt Disney",
+    "enriched_at": "2026-08-24T07:23:23.764304+00:00",
+    "external_id": "/job/Glendale-CA-USA/WDI-Project-Engineering-Intern--Spring-2027_10158179",
+    "h1b_mentioned": false,
+    "h1b_status": "unknown",
+    "keywords": [],
+    "salary_currency": "USD",
+    "salary_max": 31.0,
+    "salary_min": 31.0,
+    "salary_period": "hour",
+    "salary_text": "$31 per hour",
+    "source": "workday",
+    "source_updated_at": "",
+    "sponsorship_evidence": ""
+  },
+  "workday:Walt Disney:/job/Glendale-CA-USA/WDI-Ride-Control-Hardware-Engineering-Intern--Spring-2027_10158186": {
+    "company": "Walt Disney",
+    "enriched_at": "2026-08-24T07:23:23.772380+00:00",
+    "external_id": "/job/Glendale-CA-USA/WDI-Ride-Control-Hardware-Engineering-Intern--Spring-2027_10158186",
+    "h1b_mentioned": false,
+    "h1b_status": "unknown",
+    "keywords": [
+      "electrical engineering",
+      "CAD"
+    ],
+    "salary_currency": "USD",
+    "salary_max": 31.0,
+    "salary_min": 31.0,
+    "salary_period": "hour",
+    "salary_text": "$31 per hour",
+    "source": "workday",
+    "source_updated_at": "",
+    "sponsorship_evidence": ""
+  },
+  "workday:Walt Disney:/job/Glendale-CA-USA/WDI-Show-Control-Hardware-Intern--Glendale--Spring-2027_10158467": {
+    "company": "Walt Disney",
+    "enriched_at": "2026-08-24T07:23:23.780347+00:00",
+    "external_id": "/job/Glendale-CA-USA/WDI-Show-Control-Hardware-Intern--Glendale--Spring-2027_10158467",
+    "h1b_mentioned": false,
+    "h1b_status": "unknown",
+    "keywords": [
+      "SolidWorks"
+    ],
+    "salary_currency": "USD",
+    "salary_max": 3.0,
+    "salary_min": 3.0,
+    "salary_period": "hour",
+    "salary_text": "$3.00 per hour",
+    "source": "workday",
+    "source_updated_at": "",
+    "sponsorship_evidence": ""
+  },
+  "workday:Walt Disney:/job/Glendale-CA-USA/WDI-Show-Mechanical-Design---Production-Intern--Glendale--Spring-2027_10158499": {
+    "company": "Walt Disney",
+    "enriched_at": "2026-08-24T07:23:23.787083+00:00",
+    "external_id": "/job/Glendale-CA-USA/WDI-Show-Mechanical-Design---Production-Intern--Glendale--Spring-2027_10158499",
+    "h1b_mentioned": false,
+    "h1b_status": "unknown",
+    "keywords": [
+      "CAD",
+      "SolidWorks"
+    ],
+    "salary_currency": "USD",
+    "salary_max": 26.5,
+    "salary_min": 26.5,
+    "salary_period": "hour",
+    "salary_text": "$26.50 per hour",
+    "source": "workday",
+    "source_updated_at": "",
+    "sponsorship_evidence": ""
+  },
+  "workday:Walt Disney:/job/Glendale-CA-USA/WDI-Show-Mechanical-Engineering-Intern--Glendale--Spring-2027_10158506": {
+    "company": "Walt Disney",
+    "enriched_at": "2026-08-24T07:23:23.794298+00:00",
+    "external_id": "/job/Glendale-CA-USA/WDI-Show-Mechanical-Engineering-Intern--Glendale--Spring-2027_10158506",
+    "h1b_mentioned": false,
+    "h1b_status": "unknown",
+    "keywords": [
+      "mechanical engineering",
+      "SolidWorks"
+    ],
+    "salary_currency": "USD",
+    "salary_max": 31.0,
+    "salary_min": 31.0,
+    "salary_period": "hour",
+    "salary_text": "$31.00 per hour",
+    "source": "workday",
+    "source_updated_at": "",
+    "sponsorship_evidence": ""
+  },
+  "workday:Walt Disney:/job/Glendale-CA-USA/WDI-Show-Technical-Production-Management-Intern--Glendale--Spring-2027_10158509": {
+    "company": "Walt Disney",
+    "enriched_at": "2026-08-24T07:23:23.806946+00:00",
+    "external_id": "/job/Glendale-CA-USA/WDI-Show-Technical-Production-Management-Intern--Glendale--Spring-2027_10158509",
+    "h1b_mentioned": false,
+    "h1b_status": "unknown",
+    "keywords": [
+      "SolidWorks"
+    ],
+    "salary_currency": "USD",
+    "salary_max": 26.5,
+    "salary_min": 26.5,
+    "salary_period": "hour",
+    "salary_text": "$26.50 per hour",
+    "source": "workday",
+    "source_updated_at": "",
+    "sponsorship_evidence": ""
+  },
+  "workday:Walt Disney:/job/Glendale-CA-USA/WDI-Special-Effects-Designer-Intern--Glendale--Spring-2027_10158464": {
+    "company": "Walt Disney",
+    "enriched_at": "2026-08-24T07:23:23.813604+00:00",
+    "external_id": "/job/Glendale-CA-USA/WDI-Special-Effects-Designer-Intern--Glendale--Spring-2027_10158464",
+    "h1b_mentioned": false,
+    "h1b_status": "unknown",
+    "keywords": [
+      "SolidWorks"
+    ],
+    "salary_currency": "USD",
+    "salary_max": 26.5,
+    "salary_min": 26.5,
+    "salary_period": "hour",
+    "salary_text": "$26.50 per hour",
+    "source": "workday",
+    "source_updated_at": "",
+    "sponsorship_evidence": ""
+  },
   "workday:Walt Disney:/job/Hilton-Head-Island-SC-USA/Manager--HR-Business-Partner_10155856": {
     "company": "Walt Disney",
     "enriched_at": "2026-08-22T01:55:50.967562+00:00",
@@ -388964,6 +389832,28 @@
     "source_updated_at": "",
     "sponsorship_evidence": ""
   },
+  "workday:Walt Disney:/job/Lake-Buena-Vista-FL-USA/Assistive-Technology-Intern--Spring-2027_10156692-1": {
+    "company": "Walt Disney",
+    "enriched_at": "2026-08-24T07:23:23.824381+00:00",
+    "external_id": "/job/Lake-Buena-Vista-FL-USA/Assistive-Technology-Intern--Spring-2027_10156692-1",
+    "h1b_mentioned": false,
+    "h1b_status": "unknown",
+    "keywords": [
+      "Python",
+      "audit",
+      "mechanical engineering",
+      "electrical engineering",
+      "CAD"
+    ],
+    "salary_currency": "USD",
+    "salary_max": 31.0,
+    "salary_min": 31.0,
+    "salary_period": "hour",
+    "salary_text": "$31.00 per hour",
+    "source": "workday",
+    "source_updated_at": "",
+    "sponsorship_evidence": ""
+  },
   "workday:Walt Disney:/job/Lake-Buena-Vista-FL-USA/Associate-Costume-Buyer--Project-Hire---Internal-Assignment-_10157704": {
     "company": "Walt Disney",
     "enriched_at": "2026-08-14T22:56:48.117615+00:00",
@@ -389107,6 +389997,49 @@
     "salary_min": 120700.0,
     "salary_period": "year",
     "salary_text": "$120,700.00 to $147,500.00 per year",
+    "source": "workday",
+    "source_updated_at": "",
+    "sponsorship_evidence": ""
+  },
+  "workday:Walt Disney:/job/Lake-Buena-Vista-FL-USA/Labor-Systems-Data-Analytics---Integration-Intern--Spring-2027_10157891-1": {
+    "company": "Walt Disney",
+    "enriched_at": "2026-08-24T07:23:23.843136+00:00",
+    "external_id": "/job/Lake-Buena-Vista-FL-USA/Labor-Systems-Data-Analytics---Integration-Intern--Spring-2027_10157891-1",
+    "h1b_mentioned": false,
+    "h1b_status": "unknown",
+    "keywords": [
+      "data science",
+      "analytics"
+    ],
+    "salary_currency": "USD",
+    "salary_max": 31.0,
+    "salary_min": 31.0,
+    "salary_period": "hour",
+    "salary_text": "$31.00 per hour",
+    "source": "workday",
+    "source_updated_at": "",
+    "sponsorship_evidence": ""
+  },
+  "workday:Walt Disney:/job/Lake-Buena-Vista-FL-USA/Labor-Systems-Web-Integration-Intern--Spring-2027_10158184": {
+    "company": "Walt Disney",
+    "enriched_at": "2026-08-24T07:23:23.853017+00:00",
+    "external_id": "/job/Lake-Buena-Vista-FL-USA/Labor-Systems-Web-Integration-Intern--Spring-2027_10158184",
+    "h1b_mentioned": false,
+    "h1b_status": "unknown",
+    "keywords": [
+      "Python",
+      "JavaScript",
+      "SQL",
+      "React",
+      "AWS",
+      "data science",
+      "analytics"
+    ],
+    "salary_currency": "USD",
+    "salary_max": 31.0,
+    "salary_min": 31.0,
+    "salary_period": "hour",
+    "salary_text": "$31.00 per hour",
     "source": "workday",
     "source_updated_at": "",
     "sponsorship_evidence": ""
@@ -389502,6 +390435,405 @@
     "salary_min": 75700.0,
     "salary_period": "year",
     "salary_text": "$75,700.00-$101,400.00 per year",
+    "source": "workday",
+    "source_updated_at": "",
+    "sponsorship_evidence": ""
+  },
+  "workday:Walt Disney:/job/Lake-Buena-Vista-FL-USA/WDI-Civil-Engineering-Intern--Orlando--Spring-2027_10158161-1": {
+    "company": "Walt Disney",
+    "enriched_at": "2026-08-24T07:23:23.871816+00:00",
+    "external_id": "/job/Lake-Buena-Vista-FL-USA/WDI-Civil-Engineering-Intern--Orlando--Spring-2027_10158161-1",
+    "h1b_mentioned": false,
+    "h1b_status": "unknown",
+    "keywords": [
+      "electrical engineering",
+      "contracts"
+    ],
+    "salary_currency": "USD",
+    "salary_max": 31.0,
+    "salary_min": 31.0,
+    "salary_period": "hour",
+    "salary_text": "$31 per hour",
+    "source": "workday",
+    "source_updated_at": "",
+    "sponsorship_evidence": ""
+  },
+  "workday:Walt Disney:/job/Lake-Buena-Vista-FL-USA/WDI-Graphic-Fabrication-Design-Intern--Spring-2027_10158945": {
+    "company": "Walt Disney",
+    "enriched_at": "2026-08-24T07:23:23.879194+00:00",
+    "external_id": "/job/Lake-Buena-Vista-FL-USA/WDI-Graphic-Fabrication-Design-Intern--Spring-2027_10158945",
+    "h1b_mentioned": false,
+    "h1b_status": "unknown",
+    "keywords": [
+      "mechanical engineering",
+      "CAD",
+      "contracts"
+    ],
+    "salary_currency": "USD",
+    "salary_max": 26.5,
+    "salary_min": 26.5,
+    "salary_period": "hour",
+    "salary_text": "$26.50 per hour",
+    "source": "workday",
+    "source_updated_at": "",
+    "sponsorship_evidence": ""
+  },
+  "workday:Walt Disney:/job/Lake-Buena-Vista-FL-USA/WDI-Ride-Control-Engineering-Intern--Orlando--Spring-2027_10159013": {
+    "company": "Walt Disney",
+    "enriched_at": "2026-08-24T07:23:23.888773+00:00",
+    "external_id": "/job/Lake-Buena-Vista-FL-USA/WDI-Ride-Control-Engineering-Intern--Orlando--Spring-2027_10159013",
+    "h1b_mentioned": false,
+    "h1b_status": "unknown",
+    "keywords": [
+      "electrical engineering",
+      "CAD"
+    ],
+    "salary_currency": "USD",
+    "salary_max": 31.0,
+    "salary_min": 31.0,
+    "salary_period": "hour",
+    "salary_text": "$31 per hour",
+    "source": "workday",
+    "source_updated_at": "",
+    "sponsorship_evidence": ""
+  },
+  "workday:Walt Disney:/job/Lake-Buena-Vista-FL-USA/WDI-Ride-Development-Engineering-Intern--Spring-2027_10158669": {
+    "company": "Walt Disney",
+    "enriched_at": "2026-08-24T07:23:23.900135+00:00",
+    "external_id": "/job/Lake-Buena-Vista-FL-USA/WDI-Ride-Development-Engineering-Intern--Spring-2027_10158669",
+    "h1b_mentioned": false,
+    "h1b_status": "unknown",
+    "keywords": [
+      "mechanical engineering",
+      "CAD",
+      "SolidWorks"
+    ],
+    "salary_currency": "USD",
+    "salary_max": 31.0,
+    "salary_min": 31.0,
+    "salary_period": "hour",
+    "salary_text": "$31per hour",
+    "source": "workday",
+    "source_updated_at": "",
+    "sponsorship_evidence": ""
+  },
+  "workday:Walt Disney:/job/Lake-Buena-Vista-FL-USA/WDI-Set-Decorator-Intern--Orlando--Spring-2027_10158463-1": {
+    "company": "Walt Disney",
+    "enriched_at": "2026-08-24T07:23:23.911938+00:00",
+    "external_id": "/job/Lake-Buena-Vista-FL-USA/WDI-Set-Decorator-Intern--Orlando--Spring-2027_10158463-1",
+    "h1b_mentioned": false,
+    "h1b_status": "unknown",
+    "keywords": [
+      "Excel"
+    ],
+    "salary_currency": "USD",
+    "salary_max": 26.5,
+    "salary_min": 26.5,
+    "salary_period": "hour",
+    "salary_text": "$26.50 per hour",
+    "source": "workday",
+    "source_updated_at": "",
+    "sponsorship_evidence": ""
+  },
+  "workday:Walt Disney:/job/Lake-Buena-Vista-FL-USA/WDI-Show-Mechanical-Engineering-Intern--Orlando--Spring-2027_10158505": {
+    "company": "Walt Disney",
+    "enriched_at": "2026-08-24T07:23:23.930538+00:00",
+    "external_id": "/job/Lake-Buena-Vista-FL-USA/WDI-Show-Mechanical-Engineering-Intern--Orlando--Spring-2027_10158505",
+    "h1b_mentioned": false,
+    "h1b_status": "unknown",
+    "keywords": [
+      "mechanical engineering",
+      "SolidWorks"
+    ],
+    "salary_currency": "USD",
+    "salary_max": 31.0,
+    "salary_min": 31.0,
+    "salary_period": "hour",
+    "salary_text": "$31.00 per hour",
+    "source": "workday",
+    "source_updated_at": "",
+    "sponsorship_evidence": ""
+  },
+  "workday:Walt Disney:/job/Lake-Buena-Vista-FL-USA/WDI-Show-Technical-Production-Management-Intern--Orlando--Spring-2027_10158619": {
+    "company": "Walt Disney",
+    "enriched_at": "2026-08-24T07:23:23.954747+00:00",
+    "external_id": "/job/Lake-Buena-Vista-FL-USA/WDI-Show-Technical-Production-Management-Intern--Orlando--Spring-2027_10158619",
+    "h1b_mentioned": false,
+    "h1b_status": "unknown",
+    "keywords": [
+      "SolidWorks"
+    ],
+    "salary_currency": "USD",
+    "salary_max": 26.5,
+    "salary_min": 26.5,
+    "salary_period": "hour",
+    "salary_text": "$26.50 per hour",
+    "source": "workday",
+    "source_updated_at": "",
+    "sponsorship_evidence": ""
+  },
+  "workday:Walt Disney:/job/Lake-Buena-Vista-FL-USA/WDI-Special-Effects-Designer-Intern--Orlando--Spring-2027-2026_10158465": {
+    "company": "Walt Disney",
+    "enriched_at": "2026-08-24T07:23:23.962417+00:00",
+    "external_id": "/job/Lake-Buena-Vista-FL-USA/WDI-Special-Effects-Designer-Intern--Orlando--Spring-2027-2026_10158465",
+    "h1b_mentioned": false,
+    "h1b_status": "unknown",
+    "keywords": [
+      "SolidWorks"
+    ],
+    "salary_currency": "USD",
+    "salary_max": 26.5,
+    "salary_min": 26.5,
+    "salary_period": "hour",
+    "salary_text": "$26.50 per hour",
+    "source": "workday",
+    "source_updated_at": "",
+    "sponsorship_evidence": ""
+  },
+  "workday:Walt Disney:/job/Lake-Buena-Vista-FL-USA/WDW-Analytical---Strategic-Planning-Intern--Spring-2027_10158138": {
+    "company": "Walt Disney",
+    "enriched_at": "2026-08-24T07:23:23.970849+00:00",
+    "external_id": "/job/Lake-Buena-Vista-FL-USA/WDW-Analytical---Strategic-Planning-Intern--Spring-2027_10158138",
+    "h1b_mentioned": false,
+    "h1b_status": "unknown",
+    "keywords": [
+      "SQL",
+      "analytics",
+      "Excel"
+    ],
+    "salary_currency": "",
+    "salary_max": null,
+    "salary_min": null,
+    "salary_period": "",
+    "salary_text": "",
+    "source": "workday",
+    "source_updated_at": "",
+    "sponsorship_evidence": ""
+  },
+  "workday:Walt Disney:/job/Lake-Buena-Vista-FL-USA/WDW-Architecture-Intern--Spring-2027_10158147": {
+    "company": "Walt Disney",
+    "enriched_at": "2026-08-24T07:23:23.978797+00:00",
+    "external_id": "/job/Lake-Buena-Vista-FL-USA/WDW-Architecture-Intern--Spring-2027_10158147",
+    "h1b_mentioned": false,
+    "h1b_status": "unknown",
+    "keywords": [
+      "Excel"
+    ],
+    "salary_currency": "",
+    "salary_max": null,
+    "salary_min": null,
+    "salary_period": "",
+    "salary_text": "",
+    "source": "workday",
+    "source_updated_at": "",
+    "sponsorship_evidence": ""
+  },
+  "workday:Walt Disney:/job/Lake-Buena-Vista-FL-USA/WDW-Computer-Science---Computer-Engineering-Interns--Spring-2027_10158145": {
+    "company": "Walt Disney",
+    "enriched_at": "2026-08-24T07:23:23.989523+00:00",
+    "external_id": "/job/Lake-Buena-Vista-FL-USA/WDW-Computer-Science---Computer-Engineering-Interns--Spring-2027_10158145",
+    "h1b_mentioned": false,
+    "h1b_status": "unknown",
+    "keywords": [
+      "Python",
+      "C#",
+      "SQL",
+      "Node.js",
+      "AWS",
+      "Azure",
+      "GCP",
+      "Docker",
+      "data science",
+      "Excel"
+    ],
+    "salary_currency": "",
+    "salary_max": null,
+    "salary_min": null,
+    "salary_period": "",
+    "salary_text": "",
+    "source": "workday",
+    "source_updated_at": "",
+    "sponsorship_evidence": ""
+  },
+  "workday:Walt Disney:/job/Lake-Buena-Vista-FL-USA/WDW-Construction-and-Project-Management-Interns--Spring-2027_10158140": {
+    "company": "Walt Disney",
+    "enriched_at": "2026-08-24T07:23:23.997197+00:00",
+    "external_id": "/job/Lake-Buena-Vista-FL-USA/WDW-Construction-and-Project-Management-Interns--Spring-2027_10158140",
+    "h1b_mentioned": false,
+    "h1b_status": "unknown",
+    "keywords": [
+      "Excel"
+    ],
+    "salary_currency": "",
+    "salary_max": null,
+    "salary_min": null,
+    "salary_period": "",
+    "salary_text": "",
+    "source": "workday",
+    "source_updated_at": "",
+    "sponsorship_evidence": ""
+  },
+  "workday:Walt Disney:/job/Lake-Buena-Vista-FL-USA/WDW-Engineering-Interns--Spring-2027_10158141": {
+    "company": "Walt Disney",
+    "enriched_at": "2026-08-24T07:23:24.005149+00:00",
+    "external_id": "/job/Lake-Buena-Vista-FL-USA/WDW-Engineering-Interns--Spring-2027_10158141",
+    "h1b_mentioned": false,
+    "h1b_status": "unknown",
+    "keywords": [
+      "Python",
+      "Java",
+      "Excel"
+    ],
+    "salary_currency": "",
+    "salary_max": null,
+    "salary_min": null,
+    "salary_period": "",
+    "salary_text": "",
+    "source": "workday",
+    "source_updated_at": "",
+    "sponsorship_evidence": ""
+  },
+  "workday:Walt Disney:/job/Lake-Buena-Vista-FL-USA/WDW-Fire-Protection-Engineering-Intern--Spring-2027_10158135": {
+    "company": "Walt Disney",
+    "enriched_at": "2026-08-24T07:23:24.013127+00:00",
+    "external_id": "/job/Lake-Buena-Vista-FL-USA/WDW-Fire-Protection-Engineering-Intern--Spring-2027_10158135",
+    "h1b_mentioned": false,
+    "h1b_status": "unknown",
+    "keywords": [
+      "Excel",
+      "compliance"
+    ],
+    "salary_currency": "USD",
+    "salary_max": 31.0,
+    "salary_min": 31.0,
+    "salary_period": "hour",
+    "salary_text": "$31 per hour",
+    "source": "workday",
+    "source_updated_at": "",
+    "sponsorship_evidence": ""
+  },
+  "workday:Walt Disney:/job/Lake-Buena-Vista-FL-USA/WDW-Occupational-Safety---Industrial-Hygiene-Interns--Spring-2027_10158134-2": {
+    "company": "Walt Disney",
+    "enriched_at": "2026-08-24T07:23:24.020528+00:00",
+    "external_id": "/job/Lake-Buena-Vista-FL-USA/WDW-Occupational-Safety---Industrial-Hygiene-Interns--Spring-2027_10158134-2",
+    "h1b_mentioned": false,
+    "h1b_status": "unknown",
+    "keywords": [
+      "Excel",
+      "accounting"
+    ],
+    "salary_currency": "",
+    "salary_max": null,
+    "salary_min": null,
+    "salary_period": "",
+    "salary_text": "",
+    "source": "workday",
+    "source_updated_at": "",
+    "sponsorship_evidence": ""
+  },
+  "workday:Walt Disney:/job/Lake-Buena-Vista-FL-USA/WDW-Power-and-Facilities-Electrical-Engineering-Interns--Spring-2027_10158139": {
+    "company": "Walt Disney",
+    "enriched_at": "2026-08-24T07:23:24.029071+00:00",
+    "external_id": "/job/Lake-Buena-Vista-FL-USA/WDW-Power-and-Facilities-Electrical-Engineering-Interns--Spring-2027_10158139",
+    "h1b_mentioned": false,
+    "h1b_status": "unknown",
+    "keywords": [
+      "Excel",
+      "electrical engineering"
+    ],
+    "salary_currency": "",
+    "salary_max": null,
+    "salary_min": null,
+    "salary_period": "",
+    "salary_text": "",
+    "source": "workday",
+    "source_updated_at": "",
+    "sponsorship_evidence": ""
+  },
+  "workday:Walt Disney:/job/Lake-Buena-Vista-FL-USA/Walt-Disney-World-Procurement-Services-Intern--Spring-2027_10159048": {
+    "company": "Walt Disney",
+    "enriched_at": "2026-08-24T07:23:24.036879+00:00",
+    "external_id": "/job/Lake-Buena-Vista-FL-USA/Walt-Disney-World-Procurement-Services-Intern--Spring-2027_10159048",
+    "h1b_mentioned": false,
+    "h1b_status": "unknown",
+    "keywords": [
+      "Excel",
+      "accounting",
+      "supply chain",
+      "procurement"
+    ],
+    "salary_currency": "",
+    "salary_max": null,
+    "salary_min": null,
+    "salary_period": "",
+    "salary_text": "",
+    "source": "workday",
+    "source_updated_at": "",
+    "sponsorship_evidence": ""
+  },
+  "workday:Walt Disney:/job/Lake-Buena-Vista-FL-USA/Walt-Disney-World-Strategic-Sourcing-Intern--Spring-2027_10158738-1": {
+    "company": "Walt Disney",
+    "enriched_at": "2026-08-24T07:23:24.044130+00:00",
+    "external_id": "/job/Lake-Buena-Vista-FL-USA/Walt-Disney-World-Strategic-Sourcing-Intern--Spring-2027_10158738-1",
+    "h1b_mentioned": false,
+    "h1b_status": "unknown",
+    "keywords": [
+      "Excel",
+      "supply chain",
+      "logistics",
+      "compliance",
+      "contracts"
+    ],
+    "salary_currency": "",
+    "salary_max": null,
+    "salary_min": null,
+    "salary_period": "",
+    "salary_text": "",
+    "source": "workday",
+    "source_updated_at": "",
+    "sponsorship_evidence": ""
+  },
+  "workday:Walt Disney:/job/Lake-Buena-Vista-FL-USA/Walt-Disney-World-Transportation-Logistics---Analytics-Intern--Spring-2027_10158253-1": {
+    "company": "Walt Disney",
+    "enriched_at": "2026-08-24T07:23:24.052630+00:00",
+    "external_id": "/job/Lake-Buena-Vista-FL-USA/Walt-Disney-World-Transportation-Logistics---Analytics-Intern--Spring-2027_10158253-1",
+    "h1b_mentioned": false,
+    "h1b_status": "unknown",
+    "keywords": [
+      "Python",
+      "SQL",
+      "data science",
+      "analytics",
+      "supply chain",
+      "logistics"
+    ],
+    "salary_currency": "USD",
+    "salary_max": 31.0,
+    "salary_min": 31.0,
+    "salary_period": "hour",
+    "salary_text": "$31.00 per hour",
+    "source": "workday",
+    "source_updated_at": "",
+    "sponsorship_evidence": ""
+  },
+  "workday:Walt Disney:/job/Lake-Buena-Vista-FL-USA/Walt-Disney-World-Workforce-Management-Industrial-Engineering-Intern--Spring-Summer-2027_10158144": {
+    "company": "Walt Disney",
+    "enriched_at": "2026-08-24T07:23:24.062572+00:00",
+    "external_id": "/job/Lake-Buena-Vista-FL-USA/Walt-Disney-World-Workforce-Management-Industrial-Engineering-Intern--Spring-Summer-2027_10158144",
+    "h1b_mentioned": false,
+    "h1b_status": "unknown",
+    "keywords": [
+      "Python",
+      "SQL",
+      "data science",
+      "analytics",
+      "Excel"
+    ],
+    "salary_currency": "USD",
+    "salary_max": 31.0,
+    "salary_min": 31.0,
+    "salary_period": "hour",
+    "salary_text": "$31.00 per hour",
     "source": "workday",
     "source_updated_at": "",
     "sponsorship_evidence": ""
@@ -392347,6 +393679,46 @@
       "recruiting",
       "legal",
       "contracts"
+    ],
+    "salary_currency": "",
+    "salary_max": null,
+    "salary_min": null,
+    "salary_period": "",
+    "salary_text": "",
+    "source": "workday",
+    "source_updated_at": "",
+    "sponsorship_evidence": ""
+  },
+  "workday:Workday:/job/USA-CA-San-Francisco/Product-Manager--Integrations_JR-0108770": {
+    "company": "Workday",
+    "enriched_at": "2026-08-24T07:19:48.212310+00:00",
+    "external_id": "/job/USA-CA-San-Francisco/Product-Manager--Integrations_JR-0108770",
+    "h1b_mentioned": false,
+    "h1b_status": "unknown",
+    "keywords": [
+      "Python",
+      "JavaScript",
+      "recruiting",
+      "compliance"
+    ],
+    "salary_currency": "",
+    "salary_max": null,
+    "salary_min": null,
+    "salary_period": "",
+    "salary_text": "",
+    "source": "workday",
+    "source_updated_at": "",
+    "sponsorship_evidence": ""
+  },
+  "workday:Workday:/job/USA-CA-San-Francisco/Senior-Product-Manager--Pipedream_JR-0109100": {
+    "company": "Workday",
+    "enriched_at": "2026-08-24T07:19:48.229832+00:00",
+    "external_id": "/job/USA-CA-San-Francisco/Senior-Product-Manager--Pipedream_JR-0109100",
+    "h1b_mentioned": false,
+    "h1b_status": "unknown",
+    "keywords": [
+      "recruiting",
+      "compliance"
     ],
     "salary_currency": "",
     "salary_max": null,
