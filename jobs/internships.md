@@ -1,12 +1,12 @@
 # F500Tracker internships
 
-Last updated: August 24, 2026 at 07:31 UTC
+Last updated: August 24, 2026 at 13:28 UTC
 
-Current internships: 155
+Current internships: 156
 
 ## Categories
 
-[Software & IT (6)](#software-it) · [Data & AI (4)](#data-ai) · [Engineering (18)](#engineering) · [Finance & Accounting (6)](#finance-accounting) · [Sales & Marketing (1)](#sales-marketing) · [Operations & Supply Chain (8)](#operations-supply-chain) · [People & Legal (3)](#people-legal) · [Other (109)](#other)
+[Software & IT (6)](#software-it) · [Data & AI (5)](#data-ai) · [Engineering (18)](#engineering) · [Finance & Accounting (6)](#finance-accounting) · [Sales & Marketing (1)](#sales-marketing) · [Operations & Supply Chain (8)](#operations-supply-chain) · [People & Legal (3)](#people-legal) · [Other (109)](#other)
 
 <a id="software-it"></a>
 
@@ -29,11 +29,12 @@ Open positions: 6
 
 ## Data & AI
 
-Open positions: 4
+Open positions: 5
 
 | Rank | Company | Position | Location | Category | Salary | Keywords | Sponsorship | Apply |
 |---:|---|---|---|---|---|---|---|---|
 | 26 | Fannie Mae | Campus – Data Science Intern (Analytics & Modeling Program) | Washington, DC | Data & AI | Not disclosed | Python · SQL · artificial intelligence · data science · analytics | No sponsorship for this position | [Apply](https://fanniemae.wd1.myworkdayjobs.com/en-US/FannieMaeCareers/job/Washington-DC/Campus---Data-Science-Intern--Analytics---Modeling-Program-_JR2815) |
+| 44 | Walt Disney | Environmental Sustainability Data Analytics Intern, Spring 2027 | Lake Buena Vista, FL, USA | Data & AI | $31/hr | SQL · data science · analytics | Not specified | [Apply](https://disney.wd5.myworkdayjobs.com/en-US/disneycareer/job/Lake-Buena-Vista-FL-USA/Environmental-Sustainability-Data-Analytics-Intern--Spring-2027_10156341) |
 | 44 | Walt Disney | Labor Systems Data Analytics & Integration Intern, Spring 2027 | Lake Buena Vista, FL, USA | Data & AI | $31/hr | data science · analytics | Not specified | [Apply](https://disney.wd5.myworkdayjobs.com/en-US/disneycareer/job/Lake-Buena-Vista-FL-USA/Labor-Systems-Data-Analytics---Integration-Intern--Spring-2027_10157891-1) |
 | 44 | Walt Disney | Walt Disney World Transportation Logistics & Analytics Intern, Spring 2027 | Lake Buena Vista, FL, USA | Data & AI | $31/hr | Python · SQL · data science · analytics · supply chain | Not specified | [Apply](https://disney.wd5.myworkdayjobs.com/en-US/disneycareer/job/Lake-Buena-Vista-FL-USA/Walt-Disney-World-Transportation-Logistics---Analytics-Intern--Spring-2027_10158253-1) |
 | 49 | RTX | Stage – Hiver 2027 – Soutien numérique et intelligence d’affaires (Informatique) / Internship - Winter 2027 Digital Support & Business Intelligence Intern (Computer Science) | CA-QC-LONGUEUIL-J01 ~ 1000 Blvd Marie-Victorin ~ J01 BLDG | Data & AI | Not disclosed | SQL · data science · analytics · Excel | Not specified | [Apply](https://globalhr.wd5.myworkdayjobs.com/en-US/REC_RTX_Ext_Gateway/job/CA-QC-LONGUEUIL-J01--1000-Blvd-Marie-Victorin--J01-BLDG/Stage---Hiver-2027---Soutien-numrique-et-intelligence-d-affaires--Informatique----Internship---Winter-2027-Digital-Support---Business-Intelligence-Intern--Computer-Science-_01866869) |
@@ -142,6 +143,7 @@ Open positions: 109
 | 191 | Block | Applied Research Intern, Proactive Intelligence & Customer World Models (PhD / Graduate Co-op) | Bay Area, CA, United States of America | Other | Not disclosed | Python · machine learning · legal | Not specified | [Apply](http://block.xyz/careers/jobs/5108007008?gh_jid=5108007008) |
 | 63 | Capital One | Strategy Consulting Intern - Summer 2027 | McLean, VA | Other | Not disclosed | recruiting · compliance | No sponsorship for this position | [Apply](https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/McLean-VA/Strategy-Consulting-Intern---Summer-2027_R244315-1) |
 | 112 | Northrop Grumman | 2027 Guidance Navigation and Control Intern Dulles VA | United States-Virginia-Dulles | Other | Not disclosed | mechanical engineering · electrical engineering · supply chain | Not specified | [Apply](https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-Virginia-Dulles/XMLNAME-2027-Guidance-Navigation-and-Control-Intern-Dulles-VA_R10246322) |
+| 88 | Intel | Process Integration and Yield Engineer PhD Intern | US, Oregon, Hillsboro | Other | Not disclosed | Python · electrical engineering · compliance | Not specified | [Apply](https://intel.wd1.myworkdayjobs.com/en-US/External/job/US-Oregon-Hillsboro/Process-Integration-and-Yield-Engineer-PhD-Intern_JR0286268) |
 | 125 | Micron Technology | Intern - Product Yield Enhancement Eng | Boise, ID - Main Site | Other | Not disclosed | Python · electrical engineering | Not specified | [Apply](https://micron.wd1.myworkdayjobs.com/en-US/External/job/Boise-ID---Main-Site/Intern---Product-Yield-Enhancement-Eng_JR108605) |
 | 125 | Micron Technology | Intern - Yield Enhancement, Data Analysis | Boise, ID - Main Site | Other | Not disclosed | machine learning · artificial intelligence · data science · electrical engineering | Not specified | [Apply](https://micron.wd1.myworkdayjobs.com/en-US/External/job/Boise-ID---Main-Site/Intern---Yield-Enhancement--Data-Analysis_JR109076) |
 | 125 | Micron Technology | Intern - Metrology Process Development Engineer | Boise, ID - Main Site | Other | Not disclosed | Python · machine learning · artificial intelligence · data science · analytics | Not specified | [Apply](https://micron.wd1.myworkdayjobs.com/en-US/External/job/Boise-ID---Main-Site/Intern---Metrology-Process-Development-Engineer_JR108851) |
@@ -185,7 +187,6 @@ Open positions: 109
 | 44 | Walt Disney | Geographic Information Systems (GIS) Intern, Spring 2027 | Anaheim, CA, USA | Other | $31/hr | Python · SQL · data science · CAD | Not specified | [Apply](https://disney.wd5.myworkdayjobs.com/en-US/disneycareer/job/Anaheim-CA-USA/Geographic-Information-Systems--GIS--Intern--Spring-2027_10158899) |
 | 44 | Walt Disney | WDI Project Engineering Intern, Spring 2027 | Glendale, CA, USA | Other | $31/hr | — | Not specified | [Apply](https://disney.wd5.myworkdayjobs.com/en-US/disneycareer/job/Glendale-CA-USA/WDI-Project-Engineering-Intern--Spring-2027_10158179) |
 | 44 | Walt Disney | WDI Ride Control Engineering Intern, Glendale, Spring 2027 | Glendale, CA, USA | Other | $31/hr | electrical engineering · CAD | Not specified | [Apply](https://disney.wd5.myworkdayjobs.com/en-US/disneycareer/job/Glendale-CA-USA/WDI-Ride-Control-Hardware-Engineering-Intern--Spring-2027_10158186) |
-| 44 | Walt Disney | WDI Show Control Hardware Intern, Glendale, Spring 2027 | Glendale, CA, USA | Other | $3/hr | SolidWorks | Not specified | [Apply](https://disney.wd5.myworkdayjobs.com/en-US/disneycareer/job/Glendale-CA-USA/WDI-Show-Control-Hardware-Intern--Glendale--Spring-2027_10158467) |
 | 44 | Walt Disney | WDI Show Technical Production Management Intern, Glendale, Spring 2027 | Glendale, CA, USA | Other | $26.5/hr | SolidWorks | Not specified | [Apply](https://disney.wd5.myworkdayjobs.com/en-US/disneycareer/job/Glendale-CA-USA/WDI-Show-Technical-Production-Management-Intern--Glendale--Spring-2027_10158509) |
 | 44 | Walt Disney | WDI Special Effects Designer Intern, Glendale, Spring 2027 | Glendale, CA, USA | Other | $26.5/hr | SolidWorks | Not specified | [Apply](https://disney.wd5.myworkdayjobs.com/en-US/disneycareer/job/Glendale-CA-USA/WDI-Special-Effects-Designer-Intern--Glendale--Spring-2027_10158464) |
 | 44 | Walt Disney | Assistive Technology Intern, Spring 2027 | Lake Buena Vista, FL, USA | Other | $31/hr | Python · audit · mechanical engineering · electrical engineering · CAD | Not specified | [Apply](https://disney.wd5.myworkdayjobs.com/en-US/disneycareer/job/Lake-Buena-Vista-FL-USA/Assistive-Technology-Intern--Spring-2027_10156692-1) |
