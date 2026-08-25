@@ -1,21 +1,24 @@
 # F500Tracker internships
 
-Last updated: August 25, 2026 at 07:19 UTC
+Last updated: August 25, 2026 at 13:23 UTC
 
-Current internships: 190
+Current internships: 192
 
 ## Categories
 
-[Software & IT (6)](#software-it) · [Data & AI (7)](#data-ai) · [Engineering (17)](#engineering) · [Finance & Accounting (10)](#finance-accounting) · [Sales & Marketing (4)](#sales-marketing) · [Operations & Supply Chain (7)](#operations-supply-chain) · [People & Legal (3)](#people-legal) · [Other (136)](#other)
+[Software & IT (9)](#software-it) · [Data & AI (7)](#data-ai) · [Engineering (17)](#engineering) · [Finance & Accounting (10)](#finance-accounting) · [Sales & Marketing (4)](#sales-marketing) · [Operations & Supply Chain (7)](#operations-supply-chain) · [People & Legal (3)](#people-legal) · [Other (135)](#other)
 
 <a id="software-it"></a>
 
 ## Software & IT
 
-Open positions: 6
+Open positions: 9
 
 | Rank | Company | Position | Location | Category | Salary | Keywords | Sponsorship | Apply |
 |---:|---|---|---|---|---|---|---|---|
+| 112 | Northrop Grumman | 2027 Software Engineering Intern- Huntsville AL | United States-Alabama-Huntsville | Software & IT | $25.5–$32/hr | — | Not specified | [Apply](https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-Alabama-Huntsville/XMLNAME-2027-Software-Engineering-Intern--Huntsville-AL_R10247486) |
+| 112 | Northrop Grumman | 2027 Software Test Engineering Intern- Huntsville AL | United States-Alabama-Huntsville | Software & IT | $25.5–$32/hr | Python · Java | Not specified | [Apply](https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-Alabama-Huntsville/XMLNAME-2027-Software-Test-Engineering-Intern--Huntsville-AL_R10247485) |
+| 112 | Northrop Grumman | 2027 Software Test Engineering Intern- Huntsville AL | United States-Alabama-Huntsville | Software & IT | $25.5–$32/hr | Python · Java | Not specified | [Apply](https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-Alabama-Huntsville/XMLNAME-2027-Software-Test-Engineering-Intern--Huntsville-AL_R10247483) |
 | 112 | Northrop Grumman | 2027 Intern Software Engineer | United States-Florida-Melbourne | Software & IT | $18.5–$33.5/hr | — | Not specified | [Apply](https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-Florida-Melbourne/XMLNAME-2027-Intern-Software-Engineer_R10243573) |
 | 112 | Northrop Grumman | 2027 Intern Software Engineer | United States-Florida-Melbourne | Software & IT | $18.5–$33.5/hr | — | Not specified | [Apply](https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-Florida-Melbourne/XMLNAME-2027-Intern-Software-Engineer_R10245255) |
 | 112 | Northrop Grumman | 2027 Intern Software Engineer | United States-Florida-Melbourne | Software & IT | Not disclosed | — | Not specified | [Apply](https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-Florida-Melbourne/XMLNAME-2027-Intern-Software-Engineer_R10242395) |
@@ -143,7 +146,7 @@ Open positions: 3
 
 ## Other
 
-Open positions: 136
+Open positions: 135
 
 | Rank | Company | Position | Location | Category | Salary | Keywords | Sponsorship | Apply |
 |---:|---|---|---|---|---|---|---|---|
@@ -186,7 +189,6 @@ Open positions: 136
 | 125 | Micron Technology | Intern - Process Development Engineer, 3D DRAM Dry Etch | Boise, ID - Main Site | Other | Not disclosed | Python · analytics · mechanical engineering · electrical engineering | Not specified | [Apply](https://micron.wd1.myworkdayjobs.com/en-US/External/job/Boise-ID---Main-Site/Intern---Process-Development-Engineer--3D-DRAM-Dry-Etch_JR107330) |
 | 125 | Micron Technology | Intern - Photolithography Process | Boise, ID - Main Site | Other | Not disclosed | artificial intelligence · data science | Not specified | [Apply](https://micron.wd1.myworkdayjobs.com/en-US/External/job/Boise-ID---Main-Site/Intern---Photolithography-Process_JR107508) |
 | 14 | Cigna Group | Cigna Investment Management Internship | Bloomfield, CT | Other | Not disclosed | — | Not specified | [Apply](https://cigna.wd5.myworkdayjobs.com/en-US/cignacareers/job/Bloomfield-CT/Cigna-Investment-Management-Internship_26010198) |
-| 14 | Cigna Group | Healthcare Policy & Regulated Markets Intern | St. Louis, MO | Other | Not disclosed | analytics · Excel · audit · compliance | Not specified | [Apply](https://cigna.wd5.myworkdayjobs.com/en-US/cignacareers/job/St-Louis-MO/Healthcare-Policy---Regulated-Markets-Intern_26006403) |
 | 23 | General Motors | Fall 2026 PhD Battery & Sustainability Intern -  Battery Research and Development | Warren, Michigan, United States of America | Other | Not disclosed | — | Not specified | [Apply](https://generalmotors.wd5.myworkdayjobs.com/en-US/Careers_GM/job/Warren-Michigan-United-States-of-America/Fall-2026-PhD-Battery---Sustainability-Intern----Battery-Research-and-Development_JR-202618053) |
 | 26 | Fannie Mae | Campus - Risk Analyst Program Intern | Plano, TX | Other | Not disclosed | artificial intelligence · risk management | No sponsorship for this position | [Apply](https://fanniemae.wd1.myworkdayjobs.com/en-US/FannieMaeCareers/job/Plano-TX/Campus---Risk-Analyst-Program-Intern_JR2821) |
 | 33 | Freddie Mac | Capital Markets Intern - Summer 2027 | McLean, VA | Other | Not disclosed | Python · SQL · Excel | Not specified | [Apply](https://freddiemac.wd5.myworkdayjobs.com/en-US/External/job/McLean-VA/Capital-Markets-Intern---Summer-2027_JR17560) |
@@ -198,6 +200,7 @@ Open positions: 136
 | 33 | Freddie Mac | Risk Management Graduate Intern – Quantitative Summer 2027 | McLean, VA | Other | Not disclosed | Python · Java · SQL · machine learning · artificial intelligence | Not specified | [Apply](https://freddiemac.wd5.myworkdayjobs.com/en-US/External/job/McLean-VA/Risk-Management-Graduate-Intern---Quantitative-Summer-2027_JR17553) |
 | 33 | Freddie Mac | Single-Family Business Intern- Summer 2027 | McLean, VA | Other | Not disclosed | analytics | Not specified | [Apply](https://freddiemac.wd5.myworkdayjobs.com/en-US/External/job/McLean-VA/Single-Family-Business-Intern--Summer-2027_JR17546) |
 | 33 | Freddie Mac | Single-Family Data Intern- Summer 2027 | McLean, VA | Other | Not disclosed | Python · SQL · data science · analytics · risk management | Not specified | [Apply](https://freddiemac.wd5.myworkdayjobs.com/en-US/External/job/McLean-VA/Single-Family-Data-Intern--Summer-2027_JR17545) |
+| 34 | Humana | Unpaid Pharmacy Intern | Remote Texas | Other | Not disclosed | compliance | Not specified | [Apply](https://humana.wd5.myworkdayjobs.com/en-US/Humana_External_Career_Site/job/Remote-Texas/Unpaid-Pharmacy-Intern_R-427940) |
 | 39 | Morgan Stanley | Intern | Atlanta, Georgia, United States of America | Other | Not disclosed | sales · recruiting | Not specified | [Apply](https://ms.wd5.myworkdayjobs.com/en-US/External/job/Atlanta-Georgia-United-States-of-America/Intern_JR042337) |
 | 39 | Morgan Stanley | Intern | Jackson, Tennessee, United States of America | Other | Not disclosed | sales · recruiting | Not specified | [Apply](https://ms.wd5.myworkdayjobs.com/en-US/External/job/Jackson-Tennessee-United-States-of-America/Intern_JR042465) |
 | 39 | Morgan Stanley | Intern | Columbus, Ohio, United States of America | Other | Not disclosed | sales · recruiting | Not specified | [Apply](https://ms.wd5.myworkdayjobs.com/en-US/External/job/Columbus-Ohio-United-States-of-America/Intern_JR042395-1) |
@@ -282,6 +285,5 @@ Open positions: 136
 | 49 | RTX | Intern, Field Svc | CO-DC-BOGOTA-9A26-CUST ~ Cl. 95 #9A 26 ~ CL 95 (External Site) | Other | Not disclosed | — | Not specified | [Apply](https://globalhr.wd5.myworkdayjobs.com/en-US/REC_RTX_Ext_Gateway/job/CO-DC-BOGOTA-9A26-CUST--Cl-95-9A-26--CL-95-External-Site/Intern--Field-Svc_01802976) |
 | 106 | Thermo Fisher Scientific | Engineering Co-Op | Hillsboro, Oregon, USA | Other | Not disclosed | — | Not specified | [Apply](https://thermofisher.wd5.myworkdayjobs.com/en-US/ThermoFisherCareers/job/Hillsboro-Oregon-USA/Winter-Engineering-Co-Op_R-01329364) |
 | 106 | Thermo Fisher Scientific | Engineering Co-Op | Greenville, North Carolina, USA | Other | Not disclosed | — | Not specified | [Apply](https://thermofisher.wd5.myworkdayjobs.com/en-US/ThermoFisherCareers/job/Greenville-North-Carolina-USA/Engineering-Co-Op_R-01328052) |
-| 396 | Analog Devices | Algorithm Development Engineer Intern | US, MA, Wilmington | Other | Not disclosed | Python · SQL · machine learning | Not specified | [Apply](https://analogdevices.wd1.myworkdayjobs.com/en-US/External/job/US-MA-Wilmington/Algorithm-Development-Engineer-Intern_R265306-1) |
 
 [Back to categories](#categories) · [Back to README](../README.md)
