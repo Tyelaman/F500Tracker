@@ -1,12 +1,12 @@
 # F500Tracker internships
 
-Last updated: August 26, 2026 at 07:19 UTC
+Last updated: August 26, 2026 at 13:27 UTC
 
-Current internships: 201
+Current internships: 205
 
 ## Categories
 
-[Software & IT (10)](#software-it) · [Data & AI (9)](#data-ai) · [Engineering (17)](#engineering) · [Finance & Accounting (14)](#finance-accounting) · [Sales & Marketing (4)](#sales-marketing) · [Operations & Supply Chain (8)](#operations-supply-chain) · [People & Legal (2)](#people-legal) · [Other (137)](#other)
+[Software & IT (10)](#software-it) · [Data & AI (10)](#data-ai) · [Engineering (17)](#engineering) · [Finance & Accounting (16)](#finance-accounting) · [Sales & Marketing (4)](#sales-marketing) · [Operations & Supply Chain (9)](#operations-supply-chain) · [People & Legal (2)](#people-legal) · [Other (137)](#other)
 
 <a id="software-it"></a>
 
@@ -33,12 +33,13 @@ Open positions: 10
 
 ## Data & AI
 
-Open positions: 9
+Open positions: 10
 
 | Rank | Company | Position | Location | Category | Salary | Keywords | Sponsorship | Apply |
 |---:|---|---|---|---|---|---|---|---|
 | 14 | Cigna Group | Legal Operations Financial, Data & AI Analytics Intern | St. Louis, MO | Data & AI | Not disclosed | analytics · Excel · accounting · procurement · legal | Not specified | [Apply](https://cigna.wd5.myworkdayjobs.com/en-US/cignacareers/job/St-Louis-MO/Legal-Operations-Financial--Data---AI-Analytics-Intern_25016386) |
 | 26 | Fannie Mae | Campus – Data Science Intern (Analytics & Modeling Program) | Washington, DC | Data & AI | Not disclosed | Python · SQL · artificial intelligence · data science · analytics | No sponsorship for this position | [Apply](https://fanniemae.wd1.myworkdayjobs.com/en-US/FannieMaeCareers/job/Washington-DC/Campus---Data-Science-Intern--Analytics---Modeling-Program-_JR2815) |
+| 44 | Walt Disney | ABC News Insights and Analytics Intern, Spring 2027 | New York, NY, USA | Data & AI | $23/hr | data science · analytics · Excel | Not specified | [Apply](https://disney.wd5.myworkdayjobs.com/en-US/disneycareer/job/New-York-NY-USA/ABC-News-Insights-and-Analytics-Intern--Spring-2027_10158500) |
 | 44 | Walt Disney | Environmental Sustainability Data Analytics Intern, Spring 2027 | Lake Buena Vista, FL, USA | Data & AI | $31/hr | SQL · data science · analytics | Not specified | [Apply](https://disney.wd5.myworkdayjobs.com/en-US/disneycareer/job/Lake-Buena-Vista-FL-USA/Environmental-Sustainability-Data-Analytics-Intern--Spring-2027_10156341) |
 | 44 | Walt Disney | Labor Systems Data Analytics & Integration Intern, Spring 2027 | Lake Buena Vista, FL, USA | Data & AI | $31/hr | data science · analytics | Not specified | [Apply](https://disney.wd5.myworkdayjobs.com/en-US/disneycareer/job/Lake-Buena-Vista-FL-USA/Labor-Systems-Data-Analytics---Integration-Intern--Spring-2027_10157891-1) |
 | 44 | Walt Disney | Walt Disney World Transportation Logistics & Analytics Intern, Spring 2027 | Lake Buena Vista, FL, USA | Data & AI | $31/hr | Python · SQL · data science · analytics · supply chain | Not specified | [Apply](https://disney.wd5.myworkdayjobs.com/en-US/disneycareer/job/Lake-Buena-Vista-FL-USA/Walt-Disney-World-Transportation-Logistics---Analytics-Intern--Spring-2027_10158253-1) |
@@ -81,10 +82,12 @@ Open positions: 17
 
 ## Finance & Accounting
 
-Open positions: 14
+Open positions: 16
 
 | Rank | Company | Position | Location | Category | Salary | Keywords | Sponsorship | Apply |
 |---:|---|---|---|---|---|---|---|---|
+| 26 | Fannie Mae | Campus – Treasury & Capital Markets Program Intern (Markets Track) | Washington, DC | Finance & Accounting | Not disclosed | artificial intelligence · accounting · risk management | No sponsorship for this position | [Apply](https://fanniemae.wd1.myworkdayjobs.com/en-US/FannieMaeCareers/job/Washington-DC/Campus---Treasury---Capital-Markets-Program-Intern--Markets-Track-_JR2823-1) |
+| 26 | Fannie Mae | Campus – Treasury & Capital Markets Program Intern (Quantitative Research Track) | Washington, DC | Finance & Accounting | Not disclosed | Python · SQL · machine learning · artificial intelligence · data science | No sponsorship for this position | [Apply](https://fanniemae.wd1.myworkdayjobs.com/en-US/FannieMaeCareers/job/Washington-DC/Campus---Treasury---Capital-Markets-Program-Intern--Quantitative-Research-Track-_JR2872) |
 | 30 | Marathon Petroleum | Financial Analyst (Intern to Full-Time Conversion) | Findlay, Ohio | Finance & Accounting | Not disclosed | accounting · human resources | Not specified | [Apply](https://mpc.wd1.myworkdayjobs.com/en-US/MPCCareers/job/Findlay-Ohio/Financial-Analyst--Intern-to-Full-Time-Conversion-_00023392) |
 | 33 | Freddie Mac | Internal Audit Intern - Summer 2027 | McLean, VA | Finance & Accounting | Not disclosed | Python · SQL · artificial intelligence · analytics · accounting | Not specified | [Apply](https://freddiemac.wd5.myworkdayjobs.com/en-US/External/job/McLean-VA/Internal-Audit-Intern---Summer-2027_JR17565) |
 | 33 | Freddie Mac | Accounting and Finance Intern- Summer 2027 | McLean, VA | Finance & Accounting | Not disclosed | accounting | Not specified | [Apply](https://freddiemac.wd5.myworkdayjobs.com/en-US/External/job/McLean-VA/Accounting-and-Finance-Intern--Summer-2027_JR17543) |
@@ -121,10 +124,11 @@ Open positions: 4
 
 ## Operations & Supply Chain
 
-Open positions: 8
+Open positions: 9
 
 | Rank | Company | Position | Location | Category | Salary | Keywords | Sponsorship | Apply |
 |---:|---|---|---|---|---|---|---|---|
+| 44 | Walt Disney | Conservation Education Operations Intern, Spring 2027 | Lake Buena Vista, FL, USA | Operations & Supply Chain | $23.6/hr | — | Not specified | [Apply](https://disney.wd5.myworkdayjobs.com/en-US/disneycareer/job/Lake-Buena-Vista-FL-USA/Conservation-Education-Operations-Intern--Spring-2027_10159362) |
 | 44 | Walt Disney | Attractions Operations and Sustainment Intern, Spring 2027 | Lake Buena Vista, FL, USA | Operations & Supply Chain | $22.1/hr | Excel · audit | Not specified | [Apply](https://disney.wd5.myworkdayjobs.com/en-US/disneycareer/job/Lake-Buena-Vista-FL-USA/Attractions-Operations-and-Sustainment-Intern--Spring-2027_10157953) |
 | 44 | Walt Disney | Park Operations Project Development Intern, Spring 2027 | Lake Buena Vista, FL, USA | Operations & Supply Chain | $22.5/hr | — | Not specified | [Apply](https://disney.wd5.myworkdayjobs.com/en-US/disneycareer/job/Lake-Buena-Vista-FL-USA/Park-Operations-Project-Development-Intern--Spring-2027_10158439) |
 | 44 | Walt Disney | Walt Disney World Procurement Services Intern, Spring 2027 | Lake Buena Vista, FL, USA | Operations & Supply Chain | Not disclosed | Excel · accounting · supply chain · procurement | Not specified | [Apply](https://disney.wd5.myworkdayjobs.com/en-US/disneycareer/job/Lake-Buena-Vista-FL-USA/Walt-Disney-World-Procurement-Services-Intern--Spring-2027_10159048) |
