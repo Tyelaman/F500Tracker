@@ -1,18 +1,18 @@
 # F500Tracker internships
 
-Last updated: August 26, 2026 at 20:16 UTC
+Last updated: August 27, 2026 at 09:58 UTC
 
-Current internships: 235
+Current internships: 242
 
 ## Categories
 
-[Software & IT (12)](#software-it) · [Data & AI (9)](#data-ai) · [Engineering (19)](#engineering) · [Finance & Accounting (15)](#finance-accounting) · [Sales & Marketing (5)](#sales-marketing) · [Operations & Supply Chain (9)](#operations-supply-chain) · [People & Legal (2)](#people-legal) · [Other (164)](#other)
+[Software & IT (11)](#software-it) · [Data & AI (9)](#data-ai) · [Engineering (21)](#engineering) · [Finance & Accounting (15)](#finance-accounting) · [Sales & Marketing (9)](#sales-marketing) · [Operations & Supply Chain (9)](#operations-supply-chain) · [People & Legal (2)](#people-legal) · [Other (166)](#other)
 
 <a id="software-it"></a>
 
 ## Software & IT
 
-Open positions: 12
+Open positions: 11
 
 | Rank | Company | Position | Location | Category | Salary | Keywords | Sponsorship | Apply |
 |---:|---|---|---|---|---|---|---|---|
@@ -21,7 +21,6 @@ Open positions: 12
 | 112 | Northrop Grumman | 2027 Software Test Engineering Intern- Huntsville AL | United States-Alabama-Huntsville | Software & IT | $25.5–$32/hr | Python · Java | Not specified | [Apply](https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-Alabama-Huntsville/XMLNAME-2027-Software-Test-Engineering-Intern--Huntsville-AL_R10247485) |
 | 112 | Northrop Grumman | 2027 Software Test Engineering Intern- Huntsville AL | United States-Alabama-Huntsville | Software & IT | $25.5–$32/hr | Python · Java | Not specified | [Apply](https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-Alabama-Huntsville/XMLNAME-2027-Software-Test-Engineering-Intern--Huntsville-AL_R10247483) |
 | 112 | Northrop Grumman | 2027 Intern Software Engineer | United States-Florida-Melbourne | Software & IT | $18.5–$33.5/hr | — | Not specified | [Apply](https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-Florida-Melbourne/XMLNAME-2027-Intern-Software-Engineer_R10243573) |
-| 112 | Northrop Grumman | 2027 Intern Software Engineer | United States-Florida-Melbourne | Software & IT | $18.5–$33.5/hr | — | Not specified | [Apply](https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-Florida-Melbourne/XMLNAME-2027-Intern-Software-Engineer_R10245255) |
 | 112 | Northrop Grumman | 2027 Intern Software Engineer | United States-Florida-Melbourne | Software & IT | Not disclosed | — | Not specified | [Apply](https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-Florida-Melbourne/XMLNAME-2027-Intern-Software-Engineer_R10242395) |
 | 33 | Freddie Mac | Multifamily Software Development Intern – Summer 2027 | McLean, VA | Software & IT | Not disclosed | Java · AWS | Not specified | [Apply](https://freddiemac.wd5.myworkdayjobs.com/en-US/External/job/McLean-VA/Multifamily-Software-Development-Intern---Summer-2027_JR17564) |
 | 33 | Freddie Mac | Single-Family Software Developer Intern- Summer 2027 | McLean, VA | Software & IT | Not disclosed | Python · Java · analytics | Not specified | [Apply](https://freddiemac.wd5.myworkdayjobs.com/en-US/External/job/McLean-VA/Single-Family-Software-Developer-Intern--Summer-2027_JR17544) |
@@ -55,10 +54,11 @@ Open positions: 9
 
 ## Engineering
 
-Open positions: 19
+Open positions: 21
 
 | Rank | Company | Position | Location | Category | Salary | Keywords | Sponsorship | Apply |
 |---:|---|---|---|---|---|---|---|---|
+| 112 | Northrop Grumman | 2026 Part-Time Mechanical Engineering Intern - Chandler AZ | United States-Arizona-Chandler | Engineering | $17.75–$32.75/hr | mechanical engineering | Not specified | [Apply](https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-Arizona-Chandler/XMLNAME-2026-Part-Time-Mechanical-Engineering-Intern---Chandler-AZ_R10247965) |
 | 125 | Micron Technology | Intern - TD Site Industrial Engineer | Boise, ID - Main Site | Engineering | Not disclosed | Python · SQL · Excel · supply chain | Not specified | [Apply](https://micron.wd1.myworkdayjobs.com/en-US/External/job/Boise-ID---Main-Site/Intern---TD-Site-Industrial-Engineer_JR108729) |
 | 44 | Walt Disney | Disneyland Civil Facilities and Utilities Intern, Spring 2026 | Anaheim, CA, USA | Engineering | Not disclosed | procurement | Not specified | [Apply](https://disney.wd5.myworkdayjobs.com/en-US/disneycareer/job/Anaheim-CA-USA/Disneyland-Civil-Facilities-and-Utilities-Intern--Spring-2026_10158736-2) |
 | 44 | Walt Disney | Disneyland Electrical Engineering Intern, Spring 2027 | Anaheim, CA, USA | Engineering | Not disclosed | Excel · electrical engineering · legal | Not specified | [Apply](https://disney.wd5.myworkdayjobs.com/en-US/disneycareer/job/Anaheim-CA-USA/Disneyland-Electrical-Engineering-Intern--Spring-2027_10158423) |
@@ -74,6 +74,7 @@ Open positions: 19
 | 44 | Walt Disney | WDI Show Mechanical Engineering Intern, Surface Development, Orlando, Spring 2027 | Celebration, FL, USA | Engineering | $31/hr | mechanical engineering · SolidWorks | Not specified | [Apply](https://disney.wd5.myworkdayjobs.com/en-US/disneycareer/job/Celebration-FL-USA/WDI-Show-Mechanical-Engineering-Intern--Surface-Development--Orlando--Spring-2027_10158502) |
 | 44 | Walt Disney | Walt Disney World Workforce Management Industrial Engineering Intern, Spring/Summer 2027 | Lake Buena Vista, FL, USA | Engineering | $31/hr | Python · SQL · data science · analytics · Excel | Not specified | [Apply](https://disney.wd5.myworkdayjobs.com/en-US/disneycareer/job/Lake-Buena-Vista-FL-USA/Walt-Disney-World-Workforce-Management-Industrial-Engineering-Intern--Spring-Summer-2027_10158144) |
 | 45 | Johnson & Johnson | Electrical Engineering Co-Op, Spring 2027 | Cincinnati, Ohio, United States of America | Engineering | Not disclosed | Python · risk management · electrical engineering · recruiting | Not specified | [Apply](https://jj.wd5.myworkdayjobs.com/en-US/JJ/job/Cincinnati-Ohio-United-States-of-America/Electrical-Engineer-Co-Op--Spring-2027_R-095700) |
+| 49 | RTX | Electrical Engineer Intern Co-Op | US-AZ-TUCSON-805 ~ 1151 E Hermans Rd ~ BLDG 805 | Engineering | Not disclosed | Python · compliance | Not specified | [Apply](https://globalhr.wd5.myworkdayjobs.com/en-US/REC_RTX_Ext_Gateway/job/US-AZ-TUCSON-805--1151-E-Hermans-Rd--BLDG-805/Electrical-Engineer-Intern-Co-Op_01868699) |
 | 49 | RTX | Stage - Hiver 2027 - Analyste mécanique Multi-disciplinaire / Internship - Winter 2027 - Multidisciplinary Mechanical Analyst | CA-QC-LONGUEUIL-J12 ~ 1000 Blvd Marie-Victorin ~ J12 BLDG | Engineering | Not disclosed | — | Not specified | [Apply](https://globalhr.wd5.myworkdayjobs.com/en-US/REC_RTX_Ext_Gateway/job/CA-QC-LONGUEUIL-J12--1000-Blvd-Marie-Victorin--J12-BLDG/Stage---Hiver-2027---Analyste-mcanique-Multi-disciplinaire---Internship---Winter-2027---Multidisciplinary-Mechanical-Analyst_01863309) |
 | 49 | RTX | Stage - Hiver 2027 – Ingénieur Qualité / Internship - Winter 2027 - Quality Engineer | CA-QC-LONGUEUIL-J01 ~ 1000 Blvd Marie-Victorin ~ J01 BLDG | Engineering | Not disclosed | — | Not specified | [Apply](https://globalhr.wd5.myworkdayjobs.com/en-US/REC_RTX_Ext_Gateway/job/CA-QC-LONGUEUIL-J01--1000-Blvd-Marie-Victorin--J01-BLDG/XMLNAME--Stage---Hiver-2027---Ingnieur-Qualit---Internship---Winter-2027---Quality-Engineer_01864619) |
 | 49 | RTX | Stage - Hiver 2027 - Bureau de la Règlementation sur les Produits / Internship  Winter 2027 - Global Chemical Regulations Office | CA-QC-LONGUEUIL-J01 ~ 1000 Blvd Marie-Victorin ~ J01 BLDG | Engineering | Not disclosed | compliance | Not specified | [Apply](https://globalhr.wd5.myworkdayjobs.com/en-US/REC_RTX_Ext_Gateway/job/CA-QC-LONGUEUIL-J01--1000-Blvd-Marie-Victorin--J01-BLDG/Stage---Hiver-2027---Bureau-de-la-Rglementation-sur-les-Produits---Internship--Winter-2027---Global-Chemical-Regulations-Office_01864165) |
@@ -111,10 +112,14 @@ Open positions: 15
 
 ## Sales & Marketing
 
-Open positions: 5
+Open positions: 9
 
 | Rank | Company | Position | Location | Category | Salary | Keywords | Sponsorship | Apply |
 |---:|---|---|---|---|---|---|---|---|
+| 125 | Micron Technology | Intern - Marketing Research | Meridian, ID | Sales & Marketing | Not disclosed | artificial intelligence · analytics | Not specified | [Apply](https://micron.wd1.myworkdayjobs.com/en-US/External/job/Meridian-ID/Intern---Marketing-Research_JR109460) |
+| 125 | Micron Technology | Intern - CDBU Marketing | San Jose, CA | Sales & Marketing | Not disclosed | artificial intelligence · electrical engineering · sales | Not specified | [Apply](https://micron.wd1.myworkdayjobs.com/en-US/External/job/San-Jose-CA/Intern---CDBU-Marketing_JR109697) |
+| 125 | Micron Technology | Corporate Marketing Storytelling Intern | San Jose, CA | Sales & Marketing | Not disclosed | — | Not specified | [Apply](https://micron.wd1.myworkdayjobs.com/en-US/External/job/San-Jose-CA/Corporate-Marketing-Storytelling-Intern_JR109493) |
+| 30 | Marathon Petroleum | Marketing Analyst (Intern to Full-Time Conversion) | Findlay, Ohio | Sales & Marketing | Not disclosed | analytics · risk management · logistics · sales · CRM | Not specified | [Apply](https://mpc.wd1.myworkdayjobs.com/en-US/MPCCareers/job/Findlay-Ohio/Marketing-Analyst--Intern-to-Full-Time-Conversion-_00023557) |
 | 44 | Walt Disney | Graphic Design & Communications Intern, Spring 2027 | Lake Buena Vista, FL, USA | Sales & Marketing | $22.5/hr | — | Not specified | [Apply](https://disney.wd5.myworkdayjobs.com/en-US/disneycareer/job/Lake-Buena-Vista-FL-USA/Graphic-Design---Communications-Intern--Spring-2027_10158440) |
 | 44 | Walt Disney | WDI Communications Intern, Orlando, Spring 2027 | Lake Buena Vista, FL, USA | Sales & Marketing | $22.5/hr | — | Not specified | [Apply](https://disney.wd5.myworkdayjobs.com/en-US/disneycareer/job/Lake-Buena-Vista-FL-USA/WDI-Communications-Intern--Orlando--Spring-2027_10159172) |
 | 44 | Walt Disney | Marketing Strategy Intern, Walt Disney World Resort, Spring 2027 | Celebration, FL, USA | Sales & Marketing | $23/hr | — | Not specified | [Apply](https://disney.wd5.myworkdayjobs.com/en-US/disneycareer/job/Celebration-FL-USA/Marketing-Strategy-Intern--Walt-Disney-World-Resort--Spring-2027_10159113) |
@@ -160,14 +165,14 @@ Open positions: 2
 
 ## Other
 
-Open positions: 164
+Open positions: 166
 
 | Rank | Company | Position | Location | Category | Salary | Keywords | Sponsorship | Apply |
 |---:|---|---|---|---|---|---|---|---|
 | 191 | Block | Applied Research Intern, Proactive Intelligence & Customer World Models (PhD / Graduate Co-op) | Bay Area, CA, United States of America | Other | Not disclosed | Python · machine learning · legal | Not specified | [Apply](http://block.xyz/careers/jobs/5108007008?gh_jid=5108007008) |
 | 112 | Northrop Grumman | 2027 Guidance Navigation and Control Intern Dulles VA | United States-Virginia-Dulles | Other | Not disclosed | mechanical engineering · electrical engineering · supply chain | Not specified | [Apply](https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-Virginia-Dulles/XMLNAME-2027-Guidance-Navigation-and-Control-Intern-Dulles-VA_R10246322) |
 | 112 | Northrop Grumman | 2027 Intern - Systems Engineering | United States-Florida-Melbourne | Other | $18.5–$33.5/hr | mechanical engineering · electrical engineering | Not specified | [Apply](https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-Florida-Melbourne/XMLNAME-2027-Intern---Systems-Engineering_R10247434) |
-| 112 | Northrop Grumman | 2027 Systems Safety Engineering Intern- Huntsville AL | United States-Alabama-Huntsville | Other | $25.5–$32/hr | mechanical engineering · electrical engineering | Not specified | [Apply](https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-Alabama-Huntsville/XMLNAME-2027-Systems-Safety-Engineering-Intern--Huntsville-AL_R10247396) |
+| 125 | Micron Technology | Intern - ADV DRAM Process Integration Engineer | Boise, ID - Main Site | Other | Not disclosed | artificial intelligence · electrical engineering | Not specified | [Apply](https://micron.wd1.myworkdayjobs.com/en-US/External/job/Boise-ID---Main-Site/Intern---ADV-DRAM-Process-Integration-Engineer_JR109595) |
 | 125 | Micron Technology | Intern - Process Development Engineer, 3D DRAM CMP | Boise, ID - Main Site | Other | Not disclosed | Python · artificial intelligence | Not specified | [Apply](https://micron.wd1.myworkdayjobs.com/en-US/External/job/Boise-ID---Main-Site/Intern---Process-Development-Engineer--3D-DRAM-CMP_JR107848) |
 | 125 | Micron Technology | Intern - Metrology Process Development Engineer | Boise, ID - Main Site | Other | Not disclosed | Python · machine learning · artificial intelligence · data science · analytics | Not specified | [Apply](https://micron.wd1.myworkdayjobs.com/en-US/External/job/Boise-ID---Main-Site/Intern---Metrology-Process-Development-Engineer_JR108851) |
 | 125 | Micron Technology | Intern - Digital IP Design Engineer, DRAM | Boise, ID - Main Site | Other | Not disclosed | Python · electrical engineering | Not specified | [Apply](https://micron.wd1.myworkdayjobs.com/en-US/External/job/Boise-ID---Main-Site/Intern---Digital-IP-Design-Engineer--DRAM_JR108533) |
@@ -201,6 +206,8 @@ Open positions: 164
 | 125 | Micron Technology | Intern - Process Development Engineer, 3D DRAM Dry Etch | Boise, ID - Main Site | Other | Not disclosed | Python · analytics · mechanical engineering · electrical engineering | Not specified | [Apply](https://micron.wd1.myworkdayjobs.com/en-US/External/job/Boise-ID---Main-Site/Intern---Process-Development-Engineer--3D-DRAM-Dry-Etch_JR107330) |
 | 125 | Micron Technology | Intern - Photolithography Process | Boise, ID - Main Site | Other | Not disclosed | artificial intelligence · data science | Not specified | [Apply](https://micron.wd1.myworkdayjobs.com/en-US/External/job/Boise-ID---Main-Site/Intern---Photolithography-Process_JR107508) |
 | 26 | Fannie Mae | Campus - Risk Analyst Program Intern | Plano, TX | Other | Not disclosed | artificial intelligence · risk management | No sponsorship for this position | [Apply](https://fanniemae.wd1.myworkdayjobs.com/en-US/FannieMaeCareers/job/Plano-TX/Campus---Risk-Analyst-Program-Intern_JR2821) |
+| 30 | Marathon Petroleum | Business Analyst (Intern to Full-Time Conversion) | Houston, Texas | Other | Not disclosed | human resources | Not specified | [Apply](https://mpc.wd1.myworkdayjobs.com/en-US/MPCCareers/job/Houston-Texas/Business-Analyst--Intern-to-Full-Time-Conversion-_00023564) |
+| 30 | Marathon Petroleum | Business Analyst (Intern to Full-Time Conversion) | Houston, Texas | Other | Not disclosed | human resources | Not specified | [Apply](https://mpc.wd1.myworkdayjobs.com/en-US/MPCCareers/job/Houston-Texas/Business-Analyst--Intern-to-Full-Time-Conversion-_00023565) |
 | 33 | Freddie Mac | Capital Markets Intern - Summer 2027 | McLean, VA | Other | Not disclosed | Python · SQL · Excel | Not specified | [Apply](https://freddiemac.wd5.myworkdayjobs.com/en-US/External/job/McLean-VA/Capital-Markets-Intern---Summer-2027_JR17560) |
 | 33 | Freddie Mac | Technology Intern- Summer 2027 | McLean, VA | Other | Not disclosed | Python · Java | Not specified | [Apply](https://freddiemac.wd5.myworkdayjobs.com/en-US/External/job/McLean-VA/EO-T-Technology-Intern--Summer-2027_JR17542) |
 | 33 | Freddie Mac | Multifamily Business Intern - Summer 2027 | McLean, VA | Other | Not disclosed | Excel · accounting · risk management · sales | Not specified | [Apply](https://freddiemac.wd5.myworkdayjobs.com/en-US/External/job/McLean-VA/Multifamily-Business-Intern---Summer-2027_JR17561) |
