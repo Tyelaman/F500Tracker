@@ -1,22 +1,21 @@
 # F500Tracker internships
 
-Last updated: August 27, 2026 at 22:30 UTC
+Last updated: August 28, 2026 at 11:33 UTC
 
 Current internships: 263
 
 ## Categories
 
-[Software & IT (16)](#software-it) · [Data & AI (10)](#data-ai) · [Engineering (22)](#engineering) · [Finance & Accounting (15)](#finance-accounting) · [Sales & Marketing (10)](#sales-marketing) · [Operations & Supply Chain (11)](#operations-supply-chain) · [People & Legal (5)](#people-legal) · [Other (174)](#other)
+[Software & IT (15)](#software-it) · [Data & AI (10)](#data-ai) · [Engineering (22)](#engineering) · [Finance & Accounting (15)](#finance-accounting) · [Sales & Marketing (10)](#sales-marketing) · [Operations & Supply Chain (11)](#operations-supply-chain) · [People & Legal (5)](#people-legal) · [Other (175)](#other)
 
 <a id="software-it"></a>
 
 ## Software & IT
 
-Open positions: 16
+Open positions: 15
 
 | Rank | Company | Position | Location | Category | Salary | Keywords | Sponsorship | Apply |
 |---:|---|---|---|---|---|---|---|---|
-| 112 | Northrop Grumman | 2027 Software Test Engineering Intern- Huntsville AL | United States-Alabama-Huntsville | Software & IT | $25.5–$32/hr | — | Not specified | [Apply](https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-Alabama-Huntsville/XMLNAME-2027-Software-Test-Engineering-Intern--Huntsville-AL_R10247487) |
 | 112 | Northrop Grumman | 2027 Software Engineering Intern- Huntsville AL | United States-Alabama-Huntsville | Software & IT | $25.5–$32/hr | — | Not specified | [Apply](https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-Alabama-Huntsville/XMLNAME-2027-Software-Engineering-Intern--Huntsville-AL_R10247486) |
 | 112 | Northrop Grumman | 2027 Software Test Engineering Intern- Huntsville AL | United States-Alabama-Huntsville | Software & IT | $25.5–$32/hr | Python · Java | Not specified | [Apply](https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-Alabama-Huntsville/XMLNAME-2027-Software-Test-Engineering-Intern--Huntsville-AL_R10247485) |
 | 112 | Northrop Grumman | 2027 Software Test Engineering Intern- Huntsville AL | United States-Alabama-Huntsville | Software & IT | $25.5–$32/hr | Python · Java | Not specified | [Apply](https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-Alabama-Huntsville/XMLNAME-2027-Software-Test-Engineering-Intern--Huntsville-AL_R10247483) |
@@ -178,14 +177,13 @@ Open positions: 5
 
 ## Other
 
-Open positions: 174
+Open positions: 175
 
 | Rank | Company | Position | Location | Category | Salary | Keywords | Sponsorship | Apply |
 |---:|---|---|---|---|---|---|---|---|
 | 191 | Block | Applied Research Intern, Proactive Intelligence & Customer World Models (PhD / Graduate Co-op) | Bay Area, CA, United States of America | Other | Not disclosed | Python · machine learning · legal | Not specified | [Apply](http://block.xyz/careers/jobs/5108007008?gh_jid=5108007008) |
 | 112 | Northrop Grumman | 2027 Business Management Intern - Sunnyvale CA | United States-California-Sunnyvale | Other | $19.25–$34.75/hr | accounting · risk management · supply chain · legal · contracts | Not specified | [Apply](https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-California-Sunnyvale/XMLNAME-2027-Business-Management-Intern---Sunnyvale-CA_R10248163-1) |
 | 112 | Northrop Grumman | 2027 Guidance Navigation and Control Intern Dulles VA | United States-Virginia-Dulles | Other | Not disclosed | mechanical engineering · electrical engineering · supply chain | Not specified | [Apply](https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-Virginia-Dulles/XMLNAME-2027-Guidance-Navigation-and-Control-Intern-Dulles-VA_R10246322) |
-| 112 | Northrop Grumman | 2027 Intern - Systems Engineering | United States-Florida-Melbourne | Other | $18.5–$33.5/hr | mechanical engineering · electrical engineering | Not specified | [Apply](https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-Florida-Melbourne/XMLNAME-2027-Intern---Systems-Engineering_R10247434) |
 | 125 | Micron Technology | Intern - Technical Customer Management, AI | Longmont-MAX- Office, CO | Other | Not disclosed | Python · SQL · artificial intelligence · data science · analytics | Not specified | [Apply](https://micron.wd1.myworkdayjobs.com/en-US/External/job/Longmont-MAX--Office-CO/Intern---Technical-Customer-Management--AI_JR109454) |
 | 125 | Micron Technology | Intern - Process Quality Engineering | Boise, ID - ID1 | Other | Not disclosed | mechanical engineering | Not specified | [Apply](https://micron.wd1.myworkdayjobs.com/en-US/External/job/Boise-ID---ID1/Intern---Process-Quality-Engineering_JR109159) |
 | 125 | Micron Technology | Intern - ADV DRAM Process Integration Engineer | Boise, ID - Main Site | Other | Not disclosed | artificial intelligence · electrical engineering | Not specified | [Apply](https://micron.wd1.myworkdayjobs.com/en-US/External/job/Boise-ID---Main-Site/Intern---ADV-DRAM-Process-Integration-Engineer_JR109595) |
@@ -234,6 +232,9 @@ Open positions: 174
 | 39 | Morgan Stanley | Intern | Wichita, Kansas, United States of America | Other | Not disclosed | sales · recruiting | Not specified | [Apply](https://ms.wd5.myworkdayjobs.com/en-US/External/job/Wichita-Kansas-United-States-of-America/Intern_JR042919-1) |
 | 39 | Morgan Stanley | Intern | Jackson, Tennessee, United States of America | Other | Not disclosed | sales · recruiting | Not specified | [Apply](https://ms.wd5.myworkdayjobs.com/en-US/External/job/Jackson-Tennessee-United-States-of-America/Intern_JR042465) |
 | 39 | Morgan Stanley | Intern | Columbus, Ohio, United States of America | Other | Not disclosed | sales · recruiting | Not specified | [Apply](https://ms.wd5.myworkdayjobs.com/en-US/External/job/Columbus-Ohio-United-States-of-America/Intern_JR042395-1) |
+| 44 | Walt Disney | WDI Show Set Design Intern, Orlando, Spring 2027 | Lake Buena Vista, FL, USA | Other | $26.5/hr | Excel · contracts | Not specified | [Apply](https://disney.wd5.myworkdayjobs.com/en-US/disneycareer/job/Lake-Buena-Vista-FL-USA/WDI-Show-Set-Design-Intern--Orlando--Spring-2027_10158508) |
+| 44 | Walt Disney | Park Yield Optimization Intern, Spring 2027 | Lake Buena Vista, FL, USA | Other | $31/hr | Python · SQL · data science · analytics · Excel | Not specified | [Apply](https://disney.wd5.myworkdayjobs.com/en-US/disneycareer/job/Lake-Buena-Vista-FL-USA/Park-Yield-Optimization-Intern--Spring-2027_10158534) |
+| 44 | Walt Disney | Pricing & Product Development Intern, Spring 2027 | Lake Buena Vista, FL, USA | Other | $31/hr | SQL · data science · analytics · Excel | Not specified | [Apply](https://disney.wd5.myworkdayjobs.com/en-US/disneycareer/job/Lake-Buena-Vista-FL-USA/Pricing---Product-Development-Intern--Spring-2027_10158266-2) |
 | 44 | Walt Disney | DCL Environmental Affairs Intern, Spring 2027 | Celebration, FL, USA | Other | $31/hr | Excel · compliance · legal | Not specified | [Apply](https://disney.wd5.myworkdayjobs.com/en-US/disneycareer/job/Celebration-FL-USA/DCL-Environmental-Affairs-Intern--Spring-2027_10159314) |
 | 44 | Walt Disney | Food & Beverage and Merchandise Stylized Photography Intern, Spring 2027 | Lake Buena Vista, FL, USA | Other | $22.1/hr | logistics | Not specified | [Apply](https://disney.wd5.myworkdayjobs.com/en-US/disneycareer/job/Lake-Buena-Vista-FL-USA/Food---Beverage-and-Merchandise-Stylized-Photography-Intern--Spring-2027_10159304) |
 | 44 | Walt Disney | WDI Special Effects Designer Intern, Orlando, Spring 2027 | Lake Buena Vista, FL, USA | Other | $26.5/hr | SolidWorks | Not specified | [Apply](https://disney.wd5.myworkdayjobs.com/en-US/disneycareer/job/Lake-Buena-Vista-FL-USA/WDI-Special-Effects-Designer-Intern--Orlando--Spring-2027-2026_10158465) |
@@ -314,7 +315,6 @@ Open positions: 174
 | 49 | RTX | Stage - Superviseur COOP- Hiver 2027 / Internship -  COOP supervisor – Winter 2027 (Mirabel) | CA-QC-MIRABEL-M01 ~ 11155 Julien-Audette ~ M01 BLDG | Other | Not disclosed | Excel · human resources · compliance | Not specified | [Apply](https://globalhr.wd5.myworkdayjobs.com/en-US/REC_RTX_Ext_Gateway/job/CA-QC-MIRABEL-M01--11155-Julien-Audette--M01-BLDG/Stage---Superviseur-COOP--Hiver-2027---Internship----COOP-supervisor---Winter-2027--Mirabel-_01869452) |
 | 49 | RTX | Stage - COOP Superviseur maintenance des bancs d'essais - Hiver 2027 / Internship -   COOP supervisor at Test Facilities Maintenance - Winter 2027 | CA-QC-LONGUEUIL-J01 ~ 1000 Blvd Marie-Victorin ~ J01 BLDG | Other | Not disclosed | Excel · human resources · compliance | Not specified | [Apply](https://globalhr.wd5.myworkdayjobs.com/en-US/REC_RTX_Ext_Gateway/job/CA-QC-LONGUEUIL-J01--1000-Blvd-Marie-Victorin--J01-BLDG/Stage---COOP-Superviseur-maintenance-des-bancs-d-essais---Hiver-2027---Internship-----COOP-supervisor-at-Test-Facilities-Maintenance---Winter-2027_01867651) |
 | 49 | RTX | Stage - Hiver 2027 - Centre Priorité Clients / Internship - Winter 2027 - Customer First Centre, Technical helpdesk | CA-QC-LONGUEUIL-J01 ~ 1000 Blvd Marie-Victorin ~ J01 BLDG | Other | Not disclosed | SQL · Excel · sales · CRM | Not specified | [Apply](https://globalhr.wd5.myworkdayjobs.com/en-US/REC_RTX_Ext_Gateway/job/CA-QC-LONGUEUIL-J01--1000-Blvd-Marie-Victorin--J01-BLDG/Stage---Hiver-2027---Centre-Priorit-Clients---Internship---Winter-2027---Customer-First-Centre--Technical-helpdesk_01867386) |
-| 49 | RTX | Systems Engineering Test Equipment Intern (Summer 2027) | US-CA-EL SEGUNDO-R01 ~ 2000 E Imperial Hwy ~ BLDG R01 | Other | Not disclosed | CAD · compliance | Not specified | [Apply](https://globalhr.wd5.myworkdayjobs.com/en-US/REC_RTX_Ext_Gateway/job/US-CA-EL-SEGUNDO-R01--2000-E-Imperial-Hwy--BLDG-R01/Systems-Engineering-Test-Equipment-Intern--Summer-2027-_01867450) |
 | 49 | RTX | Stage - Hiver 2027 - Soutien clientèle aviation générale / Internship - Winter 2027 -  General Aviation Customer Support | CA-QC-LONGUEUIL-J01 ~ 1000 Blvd Marie-Victorin ~ J01 BLDG | Other | Not disclosed | Python | Not specified | [Apply](https://globalhr.wd5.myworkdayjobs.com/en-US/REC_RTX_Ext_Gateway/job/CA-QC-LONGUEUIL-J01--1000-Blvd-Marie-Victorin--J01-BLDG/Stage---Hiver-2027---Soutien-clientle-aviation-gnrale---Internship---Winter-2027----General-Aviation-Customer-Support_01867131) |
 | 49 | RTX | Stage - Superviseur COOP (St-Hubert )- Hiver 2027 / Internship – COOP Supervisor (St-Hubert) – Winter 2027 | CA-QC-SAINT HUBERT-H05 ~ 7007 Chemin De La Savane ~ BLDG H05 FACTORY | Other | Not disclosed | Excel · human resources · compliance | Not specified | [Apply](https://globalhr.wd5.myworkdayjobs.com/en-US/REC_RTX_Ext_Gateway/job/CA-QC-SAINT-HUBERT-H05--7007-Chemin-De-La-Savane--BLDG-H05-FACTORY/Stage---Superviseur-COOP--St-Hubert----Hiver-2027---Internship---COOP-Supervisor--St-Hubert----Winter-2027_01868719) |
 | 49 | RTX | Stage en industrialisation avancée – Hiver 2027 / Advanced Industrialization Internship - Winter 2027 | CA-QC-LONGUEUIL-J01 ~ 1000 Blvd Marie-Victorin ~ J01 BLDG | Other | Not disclosed | procurement | Not specified | [Apply](https://globalhr.wd5.myworkdayjobs.com/en-US/REC_RTX_Ext_Gateway/job/CA-QC-LONGUEUIL-J01--1000-Blvd-Marie-Victorin--J01-BLDG/Stage-en-industrialisation-avance---Hiver-2027---Advanced-Industrialization-Internship---Winter-2027_01867518) |
