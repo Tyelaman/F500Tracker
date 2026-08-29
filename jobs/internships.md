@@ -1,24 +1,21 @@
 # F500Tracker internships
 
-Last updated: August 29, 2026 at 07:05 UTC
+Last updated: August 29, 2026 at 17:01 UTC
 
-Current internships: 272
+Current internships: 268
 
 ## Categories
 
-[Software & IT (16)](#software-it) · [Data & AI (10)](#data-ai) · [Engineering (22)](#engineering) · [Finance & Accounting (14)](#finance-accounting) · [Sales & Marketing (10)](#sales-marketing) · [Operations & Supply Chain (11)](#operations-supply-chain) · [People & Legal (5)](#people-legal) · [Other (184)](#other)
+[Software & IT (13)](#software-it) · [Data & AI (10)](#data-ai) · [Engineering (21)](#engineering) · [Finance & Accounting (14)](#finance-accounting) · [Sales & Marketing (10)](#sales-marketing) · [Operations & Supply Chain (11)](#operations-supply-chain) · [People & Legal (5)](#people-legal) · [Other (184)](#other)
 
 <a id="software-it"></a>
 
 ## Software & IT
 
-Open positions: 16
+Open positions: 13
 
 | Rank | Company | Position | Location | Category | Salary | Keywords | Sponsorship | Apply |
 |---:|---|---|---|---|---|---|---|---|
-| 112 | Northrop Grumman | 2027 Software Engineering Intern- Huntsville AL | United States-Alabama-Huntsville | Software & IT | $25.5–$32/hr | — | Not specified | [Apply](https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-Alabama-Huntsville/XMLNAME-2027-Software-Engineering-Intern--Huntsville-AL_R10247486) |
-| 112 | Northrop Grumman | 2027 Software Test Engineering Intern- Huntsville AL | United States-Alabama-Huntsville | Software & IT | $25.5–$32/hr | Python · Java | Not specified | [Apply](https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-Alabama-Huntsville/XMLNAME-2027-Software-Test-Engineering-Intern--Huntsville-AL_R10247485) |
-| 112 | Northrop Grumman | 2027 Software Test Engineering Intern- Huntsville AL | United States-Alabama-Huntsville | Software & IT | $25.5–$32/hr | Python · Java | Not specified | [Apply](https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-Alabama-Huntsville/XMLNAME-2027-Software-Test-Engineering-Intern--Huntsville-AL_R10247483) |
 | 112 | Northrop Grumman | 2027 Intern Software Engineer | United States-Florida-Melbourne | Software & IT | $18.5–$33.5/hr | — | Not specified | [Apply](https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-Florida-Melbourne/XMLNAME-2027-Intern-Software-Engineer_R10243573) |
 | 112 | Northrop Grumman | 2027 Intern Software Engineer | United States-Florida-Melbourne | Software & IT | Not disclosed | — | Not specified | [Apply](https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-Florida-Melbourne/XMLNAME-2027-Intern-Software-Engineer_R10242395) |
 | 84 | HP | Software and Engineering Intern Roles - Imaging and Print | Corvallis, Oregon, United States of America | Software & IT | $29–$35/hr | Python · Java · C# · JavaScript · SQL | Not specified | [Apply](https://hp.wd5.myworkdayjobs.com/en-US/ExternalCareerSite/job/Corvallis-Oregon-United-States-of-America/Software-and-Engineering-Intern-Roles---Imaging-and-Print_3168142-1) |
@@ -60,11 +57,10 @@ Open positions: 10
 
 ## Engineering
 
-Open positions: 22
+Open positions: 21
 
 | Rank | Company | Position | Location | Category | Salary | Keywords | Sponsorship | Apply |
 |---:|---|---|---|---|---|---|---|---|
-| 112 | Northrop Grumman | 2026 Part-Time Mechanical Engineering Intern - Chandler AZ | United States-Arizona-Chandler | Engineering | $17.75–$32.75/hr | mechanical engineering | Not specified | [Apply](https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-Arizona-Chandler/XMLNAME-2026-Part-Time-Mechanical-Engineering-Intern---Chandler-AZ_R10247965) |
 | 125 | Micron Technology | Intern - TD Site Industrial Engineer | Boise, ID - Main Site | Engineering | Not disclosed | Python · SQL · Excel · supply chain | Not specified | [Apply](https://micron.wd1.myworkdayjobs.com/en-US/External/job/Boise-ID---Main-Site/Intern---TD-Site-Industrial-Engineer_JR108729) |
 | 44 | Walt Disney | Disneyland Civil Facilities and Utilities Intern, Spring 2026 | Anaheim, CA, USA | Engineering | Not disclosed | procurement | Not specified | [Apply](https://disney.wd5.myworkdayjobs.com/en-US/disneycareer/job/Anaheim-CA-USA/Disneyland-Civil-Facilities-and-Utilities-Intern--Spring-2026_10158736-2) |
 | 44 | Walt Disney | Disneyland Electrical Engineering Intern, Spring 2027 | Anaheim, CA, USA | Engineering | Not disclosed | Excel · electrical engineering · legal | Not specified | [Apply](https://disney.wd5.myworkdayjobs.com/en-US/disneycareer/job/Anaheim-CA-USA/Disneyland-Electrical-Engineering-Intern--Spring-2027_10158423) |
