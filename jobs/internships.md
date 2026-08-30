@@ -1,12 +1,12 @@
 # F500Tracker internships
 
-Last updated: August 30, 2026 at 16:51 UTC
+Last updated: August 30, 2026 at 21:15 UTC
 
-Current internships: 254
+Current internships: 255
 
 ## Categories
 
-[Software & IT (13)](#software-it) · [Data & AI (10)](#data-ai) · [Engineering (15)](#engineering) · [Finance & Accounting (14)](#finance-accounting) · [Sales & Marketing (10)](#sales-marketing) · [Operations & Supply Chain (10)](#operations-supply-chain) · [People & Legal (5)](#people-legal) · [Other (177)](#other)
+[Software & IT (13)](#software-it) · [Data & AI (10)](#data-ai) · [Engineering (15)](#engineering) · [Finance & Accounting (14)](#finance-accounting) · [Sales & Marketing (10)](#sales-marketing) · [Operations & Supply Chain (10)](#operations-supply-chain) · [People & Legal (5)](#people-legal) · [Other (178)](#other)
 
 <a id="software-it"></a>
 
@@ -166,7 +166,7 @@ Open positions: 5
 
 ## Other
 
-Open positions: 177
+Open positions: 178
 
 | Rank | Company | Position | Location | Category | Salary | Keywords | Sponsorship | Apply |
 |---:|---|---|---|---|---|---|---|---|
@@ -209,6 +209,7 @@ Open positions: 177
 | 125 | Micron Technology | Intern - Process Development | Boise, ID - Main Site | Other | Not disclosed | Python · artificial intelligence · data science · mechanical engineering · electrical engineering | Not specified | [Apply](https://micron.wd1.myworkdayjobs.com/en-US/External/job/Boise-ID---Main-Site/Intern---Process-Development_JR107319) |
 | 125 | Micron Technology | Intern - Process Development Engineer, 3D DRAM Dry Etch | Boise, ID - Main Site | Other | Not disclosed | Python · analytics · mechanical engineering · electrical engineering | Not specified | [Apply](https://micron.wd1.myworkdayjobs.com/en-US/External/job/Boise-ID---Main-Site/Intern---Process-Development-Engineer--3D-DRAM-Dry-Etch_JR107330) |
 | 125 | Micron Technology | Intern - Photolithography Process | Boise, ID - Main Site | Other | Not disclosed | artificial intelligence · data science | Not specified | [Apply](https://micron.wd1.myworkdayjobs.com/en-US/External/job/Boise-ID---Main-Site/Intern---Photolithography-Process_JR107508) |
+| 19 | Centene | Actuarial Cost Reporting Intern (Undergraduate - Summer) | Remote-FL | Other | $17–$25/hr | SQL · Excel · financial modeling · legal | Not specified | [Apply](https://centene.wd5.myworkdayjobs.com/en-US/centene_external/job/Remote-FL/Actuarial-Cost-Reporting-Intern--Undergraduate---Summer-_1654360) |
 | 26 | Fannie Mae | Campus - Risk Analyst Program Intern | Plano, TX | Other | Not disclosed | artificial intelligence · risk management | No sponsorship for this position | [Apply](https://fanniemae.wd1.myworkdayjobs.com/en-US/FannieMaeCareers/job/Plano-TX/Campus---Risk-Analyst-Program-Intern_JR2821) |
 | 33 | Freddie Mac | Capital Markets Intern - Summer 2027 | McLean, VA | Other | Not disclosed | Python · SQL · Excel | Not specified | [Apply](https://freddiemac.wd5.myworkdayjobs.com/en-US/External/job/McLean-VA/Capital-Markets-Intern---Summer-2027_JR17560) |
 | 33 | Freddie Mac | Technology Intern- Summer 2027 | McLean, VA | Other | Not disclosed | Python · Java | Not specified | [Apply](https://freddiemac.wd5.myworkdayjobs.com/en-US/External/job/McLean-VA/EO-T-Technology-Intern--Summer-2027_JR17542) |
@@ -222,12 +223,12 @@ Open positions: 177
 | 39 | Morgan Stanley | Intern | Jackson, Tennessee, United States of America | Other | Not disclosed | sales · recruiting | Not specified | [Apply](https://ms.wd5.myworkdayjobs.com/en-US/External/job/Jackson-Tennessee-United-States-of-America/Intern_JR042465) |
 | 39 | Morgan Stanley | Intern | Columbus, Ohio, United States of America | Other | Not disclosed | sales · recruiting | Not specified | [Apply](https://ms.wd5.myworkdayjobs.com/en-US/External/job/Columbus-Ohio-United-States-of-America/Intern_JR042395-1) |
 | 44 | Walt Disney | System App Dev & Sustainment Intern, Spring 2027 | Orlando, FL, USA | Other | $43/hr | Java · JavaScript · TypeScript · SQL · React | Not specified | [Apply](https://disney.wd5.myworkdayjobs.com/en-US/disneycareer/job/Orlando-FL-USA/System-App-Dev---Sustainment-Intern_10159463) |
+| 44 | Walt Disney | Food & Beverage and Merchandise Stylized Photography Intern, Spring 2027 | Lake Buena Vista, FL, USA | Other | $22.1/hr | logistics | Not specified | [Apply](https://disney.wd5.myworkdayjobs.com/en-US/disneycareer/job/Lake-Buena-Vista-FL-USA/Food---Beverage-and-Merchandise-Stylized-Photography-Intern--Spring-2027_10159304) |
 | 44 | Walt Disney | Product & Franchise Strategy Intern, Spring 2027 | Lake Buena Vista, FL, USA | Other | $23/hr | analytics · Excel · accounting | Not specified | [Apply](https://disney.wd5.myworkdayjobs.com/en-US/disneycareer/job/Lake-Buena-Vista-FL-USA/Product---Franchise-Strategy-Intern--Spring-2027_10159569) |
 | 44 | Walt Disney | WDI Show Set Design Intern, Orlando, Spring 2027 | Lake Buena Vista, FL, USA | Other | $26.5/hr | Excel · contracts | Not specified | [Apply](https://disney.wd5.myworkdayjobs.com/en-US/disneycareer/job/Lake-Buena-Vista-FL-USA/WDI-Show-Set-Design-Intern--Orlando--Spring-2027_10158508) |
 | 44 | Walt Disney | Park Yield Optimization Intern, Spring 2027 | Lake Buena Vista, FL, USA | Other | $31/hr | Python · SQL · data science · analytics · Excel | Not specified | [Apply](https://disney.wd5.myworkdayjobs.com/en-US/disneycareer/job/Lake-Buena-Vista-FL-USA/Park-Yield-Optimization-Intern--Spring-2027_10158534) |
 | 44 | Walt Disney | Pricing & Product Development Intern, Spring 2027 | Lake Buena Vista, FL, USA | Other | $31/hr | SQL · data science · analytics · Excel | Not specified | [Apply](https://disney.wd5.myworkdayjobs.com/en-US/disneycareer/job/Lake-Buena-Vista-FL-USA/Pricing---Product-Development-Intern--Spring-2027_10158266-2) |
 | 44 | Walt Disney | DCL Environmental Affairs Intern, Spring 2027 | Celebration, FL, USA | Other | $31/hr | Excel · compliance · legal | Not specified | [Apply](https://disney.wd5.myworkdayjobs.com/en-US/disneycareer/job/Celebration-FL-USA/DCL-Environmental-Affairs-Intern--Spring-2027_10159314) |
-| 44 | Walt Disney | Food & Beverage and Merchandise Stylized Photography Intern, Spring 2027 | Lake Buena Vista, FL, USA | Other | $22.1/hr | logistics | Not specified | [Apply](https://disney.wd5.myworkdayjobs.com/en-US/disneycareer/job/Lake-Buena-Vista-FL-USA/Food---Beverage-and-Merchandise-Stylized-Photography-Intern--Spring-2027_10159304) |
 | 44 | Walt Disney | WDI Special Effects Designer Intern, Orlando, Spring 2027 | Lake Buena Vista, FL, USA | Other | $26.5/hr | SolidWorks | Not specified | [Apply](https://disney.wd5.myworkdayjobs.com/en-US/disneycareer/job/Lake-Buena-Vista-FL-USA/WDI-Special-Effects-Designer-Intern--Orlando--Spring-2027-2026_10158465) |
 | 44 | Walt Disney | Video & Multimedia Intern, WSHES Creative, Spring 2027 | Lake Buena Vista, FL, USA | Other | $22.5/hr | — | Not specified | [Apply](https://disney.wd5.myworkdayjobs.com/en-US/disneycareer/job/Lake-Buena-Vista-FL-USA/Video---Multimedia-Intern--WSHES-Creative--Spring-2027_10157945) |
 | 44 | Walt Disney | WDI Show Control Hardware Intern, Spring 2027 | Celebration, FL, USA | Other | $3/hr | SolidWorks | Not specified | [Apply](https://disney.wd5.myworkdayjobs.com/en-US/disneycareer/job/Celebration-FL-USA/WDI-Show-Control-Hardware-Intern--Glendale--Spring-2027_10158467) |

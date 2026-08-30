@@ -32230,7 +32230,7 @@
   },
   "greenhouse:Carvana:8112503": {
     "company": "Carvana",
-    "enriched_at": "2026-08-29T07:04:44.091071+00:00",
+    "enriched_at": "2026-08-30T21:15:41.847163+00:00",
     "external_id": "8112503",
     "h1b_mentioned": false,
     "h1b_status": "does_not_support_h1b",
@@ -32241,7 +32241,7 @@
     "salary_period": "",
     "salary_text": "",
     "source": "greenhouse",
-    "source_updated_at": "2026-08-28T18:56:05-04:00",
+    "source_updated_at": "2026-08-30T13:21:22-04:00",
     "sponsorship_evidence": "This role is not eligible for visa sponsorship."
   },
   "greenhouse:Carvana:8112545": {
@@ -48540,7 +48540,7 @@
   },
   "greenhouse:Carvana:8159399": {
     "company": "Carvana",
-    "enriched_at": "2026-08-29T07:04:44.166502+00:00",
+    "enriched_at": "2026-08-30T21:15:41.855862+00:00",
     "external_id": "8159399",
     "h1b_mentioned": false,
     "h1b_status": "does_not_support_h1b",
@@ -48551,7 +48551,7 @@
     "salary_period": "",
     "salary_text": "",
     "source": "greenhouse",
-    "source_updated_at": "2026-08-28T18:56:05-04:00",
+    "source_updated_at": "2026-08-30T13:19:47-04:00",
     "sponsorship_evidence": "This role is not eligible for visa sponsorship."
   },
   "greenhouse:Carvana:8159402": {
@@ -48635,7 +48635,7 @@
   },
   "greenhouse:Carvana:8159445": {
     "company": "Carvana",
-    "enriched_at": "2026-08-29T07:04:43.444009+00:00",
+    "enriched_at": "2026-08-30T21:15:41.838220+00:00",
     "external_id": "8159445",
     "h1b_mentioned": false,
     "h1b_status": "does_not_support_h1b",
@@ -48646,7 +48646,7 @@
     "salary_period": "",
     "salary_text": "",
     "source": "greenhouse",
-    "source_updated_at": "2026-08-28T18:56:05-04:00",
+    "source_updated_at": "2026-08-30T13:17:31-04:00",
     "sponsorship_evidence": "This role is not eligible for visa sponsorship."
   },
   "greenhouse:Carvana:8159534": {
@@ -110365,6 +110365,24 @@
     "source_updated_at": "",
     "sponsorship_evidence": ""
   },
+  "workday:Caterpillar:/job/Green-Valley-Arizona/Product-Consultant-MB-284_R0000391243": {
+    "company": "Caterpillar",
+    "enriched_at": "2026-08-30T21:14:05.347989+00:00",
+    "external_id": "/job/Green-Valley-Arizona/Product-Consultant-MB-284_R0000391243",
+    "h1b_mentioned": false,
+    "h1b_status": "unknown",
+    "keywords": [
+      "sales"
+    ],
+    "salary_currency": "",
+    "salary_max": null,
+    "salary_min": null,
+    "salary_period": "",
+    "salary_text": "",
+    "source": "workday",
+    "source_updated_at": "",
+    "sponsorship_evidence": ""
+  },
   "workday:Caterpillar:/job/Green-Valley-Arizona/Senior-Electrification-Systems-Engineer_R0000388142": {
     "company": "Caterpillar",
     "enriched_at": "2026-08-17T19:08:52.129670+00:00",
@@ -115770,6 +115788,27 @@
     "salary_min": 27.02,
     "salary_period": "hour",
     "salary_text": "$27.02 - $48.55 per hour",
+    "source": "workday",
+    "source_updated_at": "",
+    "sponsorship_evidence": ""
+  },
+  "workday:Centene:/job/Remote-FL/Actuarial-Cost-Reporting-Intern--Undergraduate---Summer-_1654360": {
+    "company": "Centene",
+    "enriched_at": "2026-08-30T21:07:47.952992+00:00",
+    "external_id": "/job/Remote-FL/Actuarial-Cost-Reporting-Intern--Undergraduate---Summer-_1654360",
+    "h1b_mentioned": false,
+    "h1b_status": "unknown",
+    "keywords": [
+      "SQL",
+      "Excel",
+      "financial modeling",
+      "legal"
+    ],
+    "salary_currency": "USD",
+    "salary_max": 25.0,
+    "salary_min": 17.0,
+    "salary_period": "hour",
+    "salary_text": "$17.00 - $25.00 per hour",
     "source": "workday",
     "source_updated_at": "",
     "sponsorship_evidence": ""
@@ -123935,7 +123974,7 @@
   },
   "workday:Cisco Systems:/job/Milpitas-California-US/Hardware-Design-Engineer_2013117": {
     "company": "Cisco Systems",
-    "enriched_at": "2026-08-14T23:10:48.626570+00:00",
+    "enriched_at": "2026-08-30T21:14:24.901072+00:00",
     "external_id": "/job/Milpitas-California-US/Hardware-Design-Engineer_2013117",
     "h1b_mentioned": false,
     "h1b_status": "unknown",
@@ -123973,7 +124012,7 @@
   },
   "workday:Cisco Systems:/job/Milpitas-California-US/Hardware-Systems-Engineering-Technical-Lead---Milpitas-San-Jose--CA_2004763": {
     "company": "Cisco Systems",
-    "enriched_at": "2026-08-14T23:10:48.639547+00:00",
+    "enriched_at": "2026-08-30T21:14:24.887938+00:00",
     "external_id": "/job/Milpitas-California-US/Hardware-Systems-Engineering-Technical-Lead---Milpitas-San-Jose--CA_2004763",
     "h1b_mentioned": false,
     "h1b_status": "unknown",
@@ -203844,6 +203883,24 @@
     "source_updated_at": "",
     "sponsorship_evidence": ""
   },
+  "workday:Lowe's:/job/Warwick-RI-N-Warwick-2397/Full-Time---Sales-Specialist---Appliances---Closing_JR-02625354-1": {
+    "company": "Lowe's",
+    "enriched_at": "2026-08-30T21:14:00.007129+00:00",
+    "external_id": "/job/Warwick-RI-N-Warwick-2397/Full-Time---Sales-Specialist---Appliances---Closing_JR-02625354-1",
+    "h1b_mentioned": false,
+    "h1b_status": "unknown",
+    "keywords": [
+      "sales"
+    ],
+    "salary_currency": "",
+    "salary_max": null,
+    "salary_min": null,
+    "salary_period": "",
+    "salary_text": "",
+    "source": "workday",
+    "source_updated_at": "",
+    "sponsorship_evidence": ""
+  },
   "workday:Lowe's:/job/Washington-MO-1648/Full-Time---Cashier---Closing_JR-02573847": {
     "company": "Lowe's",
     "enriched_at": "2026-08-14T23:10:06.254834+00:00",
@@ -216656,7 +216713,7 @@
   },
   "workday:Micron Technology:/job/Boise-ID---Main-Site/Intern---Product-Yield-Enhancement-Eng_JR108605": {
     "company": "Micron Technology",
-    "enriched_at": "2026-08-23T18:50:19.381627+00:00",
+    "enriched_at": "2026-08-30T21:07:39.753284+00:00",
     "external_id": "/job/Boise-ID---Main-Site/Intern---Product-Yield-Enhancement-Eng_JR108605",
     "h1b_mentioned": false,
     "h1b_status": "unknown",
@@ -216697,7 +216754,7 @@
   },
   "workday:Micron Technology:/job/Boise-ID---Main-Site/Intern---TD-Site-Industrial-Engineer_JR108729": {
     "company": "Micron Technology",
-    "enriched_at": "2026-08-23T18:50:19.373418+00:00",
+    "enriched_at": "2026-08-30T21:07:39.745056+00:00",
     "external_id": "/job/Boise-ID---Main-Site/Intern---TD-Site-Industrial-Engineer_JR108729",
     "h1b_mentioned": false,
     "h1b_status": "unknown",
@@ -229063,7 +229120,7 @@
   },
   "workday:NVIDIA:/job/US-CA-Santa-Clara/Distinguished-Software-Architect---Deep-Learning-and-HPC-Communications_JR1980127": {
     "company": "NVIDIA",
-    "enriched_at": "2026-08-15T12:58:31.152995+00:00",
+    "enriched_at": "2026-08-30T21:05:17.244832+00:00",
     "external_id": "/job/US-CA-Santa-Clara/Distinguished-Software-Architect---Deep-Learning-and-HPC-Communications_JR1980127",
     "h1b_mentioned": false,
     "h1b_status": "unknown",
@@ -229360,7 +229417,7 @@
   },
   "workday:NVIDIA:/job/US-CA-Santa-Clara/Manager--Software-TPM---Server-Firmware-and-System-Software_JR2007277-1": {
     "company": "NVIDIA",
-    "enriched_at": "2026-08-23T18:47:54.785773+00:00",
+    "enriched_at": "2026-08-30T21:05:17.252706+00:00",
     "external_id": "/job/US-CA-Santa-Clara/Manager--Software-TPM---Server-Firmware-and-System-Software_JR2007277-1",
     "h1b_mentioned": false,
     "h1b_status": "unknown",
@@ -232590,7 +232647,7 @@
   },
   "workday:NVIDIA:/job/US-CA-Santa-Clara/Senior-Software-Engineer--GPU-Communications-and-Networking_JR1997186": {
     "company": "NVIDIA",
-    "enriched_at": "2026-08-22T18:48:20.081833+00:00",
+    "enriched_at": "2026-08-30T21:05:17.238215+00:00",
     "external_id": "/job/US-CA-Santa-Clara/Senior-Software-Engineer--GPU-Communications-and-Networking_JR1997186",
     "h1b_mentioned": false,
     "h1b_status": "unknown",
@@ -400252,7 +400309,7 @@
   },
   "workday:RTX:/job/US-MD-FORT-MEADE-9800-CUST--9800-Savage-Rd--SAVAGE-External-Site/Lowband-Software-Support-Engineer--Onsite-_01865111": {
     "company": "RTX",
-    "enriched_at": "2026-08-23T18:52:35.190357+00:00",
+    "enriched_at": "2026-08-30T21:09:59.826077+00:00",
     "external_id": "/job/US-MD-FORT-MEADE-9800-CUST--9800-Savage-Rd--SAVAGE-External-Site/Lowband-Software-Support-Engineer--Onsite-_01865111",
     "h1b_mentioned": false,
     "h1b_status": "unknown",
@@ -445955,7 +446012,7 @@
   },
   "workday:Thermo Fisher Scientific:/job/Middleton-Wisconsin-USA/Sample-Management-Supervisor_R-01364687": {
     "company": "Thermo Fisher Scientific",
-    "enriched_at": "2026-08-23T18:58:24.824925+00:00",
+    "enriched_at": "2026-08-30T21:15:32.801631+00:00",
     "external_id": "/job/Middleton-Wisconsin-USA/Sample-Management-Supervisor_R-01364687",
     "h1b_mentioned": false,
     "h1b_status": "does_not_support_h1b",
@@ -446077,7 +446134,7 @@
   },
   "workday:Thermo Fisher Scientific:/job/Middleton-Wisconsin-USA/Senior-Study-Lead--Cell-and-Gene-Therapy_R-01364864": {
     "company": "Thermo Fisher Scientific",
-    "enriched_at": "2026-08-23T18:58:24.835813+00:00",
+    "enriched_at": "2026-08-30T21:15:32.812106+00:00",
     "external_id": "/job/Middleton-Wisconsin-USA/Senior-Study-Lead--Cell-and-Gene-Therapy_R-01364864",
     "h1b_mentioned": false,
     "h1b_status": "unknown",
