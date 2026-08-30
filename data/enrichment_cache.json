@@ -78656,6 +78656,24 @@
     "source_updated_at": "",
     "sponsorship_evidence": ""
   },
+  "workday:Applied Materials:/job/BoiseID/Global-Support-Support-Engineer-I_R2626705": {
+    "company": "Applied Materials",
+    "enriched_at": "2026-08-30T12:04:40.669860+00:00",
+    "external_id": "/job/BoiseID/Global-Support-Support-Engineer-I_R2626705",
+    "h1b_mentioned": false,
+    "h1b_status": "unknown",
+    "keywords": [
+      "sales"
+    ],
+    "salary_currency": "",
+    "salary_max": null,
+    "salary_min": null,
+    "salary_period": "",
+    "salary_text": "",
+    "source": "workday",
+    "source_updated_at": "",
+    "sponsorship_evidence": ""
+  },
   "workday:Applied Materials:/job/BoiseID/Manager-III--Field-Service-Engineer--M3----Boise--ID_R2519047": {
     "company": "Applied Materials",
     "enriched_at": "2026-08-21T19:08:21.649977+00:00",
@@ -103158,7 +103176,7 @@
   },
   "workday:Capital One:/job/New-York-NY/Lead-Software-Engineer_R249350": {
     "company": "Capital One",
-    "enriched_at": "2026-08-23T07:01:06.316080+00:00",
+    "enriched_at": "2026-08-30T11:54:22.934892+00:00",
     "external_id": "/job/New-York-NY/Lead-Software-Engineer_R249350",
     "h1b_mentioned": true,
     "h1b_status": "does_not_support_h1b",
@@ -107910,7 +107928,7 @@
   },
   "workday:Capital One:/job/Riverwoods-IL/Lead-Software-Engineer--DevOps--Cloud-Operations-Resilience-Engineering-_R249128-1": {
     "company": "Capital One",
-    "enriched_at": "2026-08-23T07:01:06.325049+00:00",
+    "enriched_at": "2026-08-30T11:54:22.943837+00:00",
     "external_id": "/job/Riverwoods-IL/Lead-Software-Engineer--DevOps--Cloud-Operations-Resilience-Engineering-_R249128-1",
     "h1b_mentioned": true,
     "h1b_status": "does_not_support_h1b",
@@ -123378,7 +123396,7 @@
   },
   "workday:Cisco Systems:/job/Holmdel-New-Jersey-US/Integrated-Photonic-Test-Engineer---Acacia--Hybrid-_2023812": {
     "company": "Cisco Systems",
-    "enriched_at": "2026-08-23T07:09:52.205623+00:00",
+    "enriched_at": "2026-08-30T12:03:10.648607+00:00",
     "external_id": "/job/Holmdel-New-Jersey-US/Integrated-Photonic-Test-Engineer---Acacia--Hybrid-_2023812",
     "h1b_mentioned": false,
     "h1b_status": "unknown",
@@ -126136,7 +126154,7 @@
   },
   "workday:Cisco Systems:/job/RTP-North-Carolina-US/Solution-Test-Engineer_2021232": {
     "company": "Cisco Systems",
-    "enriched_at": "2026-08-23T07:09:52.232207+00:00",
+    "enriched_at": "2026-08-30T12:03:10.661961+00:00",
     "external_id": "/job/RTP-North-Carolina-US/Solution-Test-Engineer_2021232",
     "h1b_mentioned": false,
     "h1b_status": "unknown",
@@ -128139,6 +128157,25 @@
     "h1b_status": "unknown",
     "keywords": [
       "sales"
+    ],
+    "salary_currency": "",
+    "salary_max": null,
+    "salary_min": null,
+    "salary_period": "",
+    "salary_text": "",
+    "source": "workday",
+    "source_updated_at": "",
+    "sponsorship_evidence": ""
+  },
+  "workday:Cisco Systems:/job/San-Jose-California-US/Field-Acceleration---Enablement-Senior-Manager_2022471-1": {
+    "company": "Cisco Systems",
+    "enriched_at": "2026-08-30T12:03:10.632008+00:00",
+    "external_id": "/job/San-Jose-California-US/Field-Acceleration---Enablement-Senior-Manager_2022471-1",
+    "h1b_mentioned": false,
+    "h1b_status": "unknown",
+    "keywords": [
+      "sales",
+      "digital marketing"
     ],
     "salary_currency": "",
     "salary_max": null,
@@ -182289,7 +182326,7 @@
   },
   "workday:Lowe's:/job/Chesapeake-VA-W-Chesapeake-0709/Full-Time---Loader-Cart-Associate---Opening_JR-02619828": {
     "company": "Lowe's",
-    "enriched_at": "2026-08-23T07:09:29.112981+00:00",
+    "enriched_at": "2026-08-30T12:02:45.177718+00:00",
     "external_id": "/job/Chesapeake-VA-W-Chesapeake-0709/Full-Time---Loader-Cart-Associate---Opening_JR-02619828",
     "h1b_mentioned": false,
     "h1b_status": "unknown",
@@ -183533,7 +183570,7 @@
   },
   "workday:Lowe's:/job/Columbia-SC-Irmo-0385/Full-Time---Sales-Specialist---ProServices---Day_JR-02618870-1": {
     "company": "Lowe's",
-    "enriched_at": "2026-08-23T07:09:29.170107+00:00",
+    "enriched_at": "2026-08-30T12:02:45.229045+00:00",
     "external_id": "/job/Columbia-SC-Irmo-0385/Full-Time---Sales-Specialist---ProServices---Day_JR-02618870-1",
     "h1b_mentioned": false,
     "h1b_status": "unknown",
@@ -183642,7 +183679,7 @@
   },
   "workday:Lowe's:/job/Columbia-SC-NE-Columbia-0433/Sales-Floor-Dept-Supervisor---Electrical---Plumbing_JR-02619269-1": {
     "company": "Lowe's",
-    "enriched_at": "2026-08-23T07:09:29.160891+00:00",
+    "enriched_at": "2026-08-30T12:02:45.220780+00:00",
     "external_id": "/job/Columbia-SC-NE-Columbia-0433/Sales-Floor-Dept-Supervisor---Electrical---Plumbing_JR-02619269-1",
     "h1b_mentioned": false,
     "h1b_status": "unknown",
@@ -188003,7 +188040,7 @@
   },
   "workday:Lowe's:/job/Honolulu-HI-Iwilei-2336/Full-Time---Cashier---Day_JR-02619796": {
     "company": "Lowe's",
-    "enriched_at": "2026-08-23T07:09:29.147688+00:00",
+    "enriched_at": "2026-08-30T12:02:45.208921+00:00",
     "external_id": "/job/Honolulu-HI-Iwilei-2336/Full-Time---Cashier---Day_JR-02619796",
     "h1b_mentioned": false,
     "h1b_status": "unknown",
@@ -188040,7 +188077,7 @@
   },
   "workday:Lowe's:/job/Honolulu-HI-Iwilei-2336/Full-Time---Fulfillment-Associate---Day_JR-02619810": {
     "company": "Lowe's",
-    "enriched_at": "2026-08-23T07:09:29.126408+00:00",
+    "enriched_at": "2026-08-30T12:02:45.189961+00:00",
     "external_id": "/job/Honolulu-HI-Iwilei-2336/Full-Time---Fulfillment-Associate---Day_JR-02619810",
     "h1b_mentioned": false,
     "h1b_status": "unknown",
@@ -188096,7 +188133,7 @@
   },
   "workday:Lowe's:/job/Honolulu-HI-Iwilei-2336/Full-Time---Loader-Cart-Associate---Day_JR-02619799": {
     "company": "Lowe's",
-    "enriched_at": "2026-08-23T07:09:29.135005+00:00",
+    "enriched_at": "2026-08-30T12:02:45.197383+00:00",
     "external_id": "/job/Honolulu-HI-Iwilei-2336/Full-Time---Loader-Cart-Associate---Day_JR-02619799",
     "h1b_mentioned": false,
     "h1b_status": "unknown",
@@ -199001,7 +199038,7 @@
   },
   "workday:Lowe's:/job/Phoenix-AZ-N-Phoenix-1204/Sales-Floor-Dept-Supervisor---Pro-Services-Building-Materials_JR-02613725-1": {
     "company": "Lowe's",
-    "enriched_at": "2026-08-23T07:09:29.091893+00:00",
+    "enriched_at": "2026-08-30T12:02:45.168553+00:00",
     "external_id": "/job/Phoenix-AZ-N-Phoenix-1204/Sales-Floor-Dept-Supervisor---Pro-Services-Building-Materials_JR-02613725-1",
     "h1b_mentioned": false,
     "h1b_status": "unknown",
@@ -204720,6 +204757,24 @@
     "salary_min": null,
     "salary_period": "",
     "salary_text": "",
+    "source": "workday",
+    "source_updated_at": "",
+    "sponsorship_evidence": ""
+  },
+  "workday:Lowe's:/job/Winchester-VA-N-Winchester-2724/Full-Time---Loader-Cart-Associate---Opening_JR-02638052": {
+    "company": "Lowe's",
+    "enriched_at": "2026-08-30T12:02:45.154595+00:00",
+    "external_id": "/job/Winchester-VA-N-Winchester-2724/Full-Time---Loader-Cart-Associate---Opening_JR-02638052",
+    "h1b_mentioned": false,
+    "h1b_status": "unknown",
+    "keywords": [
+      "sales"
+    ],
+    "salary_currency": "USD",
+    "salary_max": 15.6,
+    "salary_min": 15.0,
+    "salary_period": "hour",
+    "salary_text": "$15.00 - $15.60 per hour",
     "source": "workday",
     "source_updated_at": "",
     "sponsorship_evidence": ""
@@ -216238,7 +216293,7 @@
   },
   "workday:Micron Technology:/job/Boise-ID---Main-Site/Intern---DRAM-PI_JR107483": {
     "company": "Micron Technology",
-    "enriched_at": "2026-08-23T07:03:49.546209+00:00",
+    "enriched_at": "2026-08-30T11:56:21.034456+00:00",
     "external_id": "/job/Boise-ID---Main-Site/Intern---DRAM-PI_JR107483",
     "h1b_mentioned": false,
     "h1b_status": "unknown",
@@ -220806,7 +220861,7 @@
   },
   "workday:Micron Technology:/job/Boise-ID---Main-Site/Staff-Security-Engineer_JR108829": {
     "company": "Micron Technology",
-    "enriched_at": "2026-08-23T07:03:49.535574+00:00",
+    "enriched_at": "2026-08-30T11:56:21.023948+00:00",
     "external_id": "/job/Boise-ID---Main-Site/Staff-Security-Engineer_JR108829",
     "h1b_mentioned": false,
     "h1b_status": "unknown",
@@ -223186,7 +223241,7 @@
   },
   "workday:Micron Technology:/job/Manassas-VA----Fab-6/Security-Specialist---Insider-Risk--Threat-Intelligence---Physical-Security--AI---Automation_JR108833": {
     "company": "Micron Technology",
-    "enriched_at": "2026-08-23T07:03:49.556699+00:00",
+    "enriched_at": "2026-08-30T11:56:21.013072+00:00",
     "external_id": "/job/Manassas-VA----Fab-6/Security-Specialist---Insider-Risk--Threat-Intelligence---Physical-Security--AI---Automation_JR108833",
     "h1b_mentioned": false,
     "h1b_status": "unknown",

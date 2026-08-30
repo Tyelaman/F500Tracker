@@ -112,27 +112,6 @@
   {
     "company": "Coupang",
     "title": "Group Product Manager, Compute Platform ",
-    "location": "Mountain View, USA",
-    "employment_type": "full-time",
-    "category": "Product & Design",
-    "salary": "$155k/yr",
-    "salary_min": 155000.0,
-    "keywords": [
-      "Kubernetes",
-      "machine learning",
-      "tax",
-      "sales",
-      "recruiting",
-      "contracts"
-    ],
-    "sponsorship_evidence": "",
-    "h1b_status": "unknown",
-    "sponsorship_label": "Not specified",
-    "url": "https://www.coupang.jobs/en/jobs/?gh_jid=7959530"
-  },
-  {
-    "company": "Coupang",
-    "title": "Group Product Manager, Compute Platform ",
     "location": "Seattle, USA",
     "employment_type": "full-time",
     "category": "Product & Design",
@@ -150,6 +129,27 @@
     "h1b_status": "unknown",
     "sponsorship_label": "Not specified",
     "url": "https://www.coupang.jobs/en/jobs/?gh_jid=6924024"
+  },
+  {
+    "company": "Coupang",
+    "title": "Group Product Manager, Compute Platform ",
+    "location": "Mountain View, USA",
+    "employment_type": "full-time",
+    "category": "Product & Design",
+    "salary": "$155k/yr",
+    "salary_min": 155000.0,
+    "keywords": [
+      "Kubernetes",
+      "machine learning",
+      "tax",
+      "sales",
+      "recruiting",
+      "contracts"
+    ],
+    "sponsorship_evidence": "",
+    "h1b_status": "unknown",
+    "sponsorship_label": "Not specified",
+    "url": "https://www.coupang.jobs/en/jobs/?gh_jid=7959530"
   },
   {
     "company": "Coupang",
@@ -358,6 +358,25 @@
   {
     "company": "Coupang",
     "title": "Senior Executive Assistant",
+    "location": "Mountain View, USA",
+    "employment_type": "full-time",
+    "category": "Other",
+    "salary": "$89k/yr",
+    "salary_min": 89000.0,
+    "keywords": [
+      "Excel",
+      "tax",
+      "logistics",
+      "recruiting"
+    ],
+    "sponsorship_evidence": "",
+    "h1b_status": "unknown",
+    "sponsorship_label": "Not specified",
+    "url": "https://www.coupang.jobs/en/jobs/?gh_jid=8160724"
+  },
+  {
+    "company": "Coupang",
+    "title": "Senior Executive Assistant",
     "location": "Seattle, USA",
     "employment_type": "full-time",
     "category": "Other",
@@ -392,25 +411,6 @@
     "h1b_status": "unknown",
     "sponsorship_label": "Not specified",
     "url": "https://www.coupang.jobs/en/jobs/?gh_jid=8143394"
-  },
-  {
-    "company": "Coupang",
-    "title": "Senior Executive Assistant",
-    "location": "Mountain View, USA",
-    "employment_type": "full-time",
-    "category": "Other",
-    "salary": "$89k/yr",
-    "salary_min": 89000.0,
-    "keywords": [
-      "Excel",
-      "tax",
-      "logistics",
-      "recruiting"
-    ],
-    "sponsorship_evidence": "",
-    "h1b_status": "unknown",
-    "sponsorship_label": "Not specified",
-    "url": "https://www.coupang.jobs/en/jobs/?gh_jid=8160724"
   },
   {
     "company": "Coupang",
@@ -456,29 +456,6 @@
   {
     "company": "Coupang",
     "title": "Senior Staff Backend Engineer - Cloud Infrastructure",
-    "location": "Mountain View, USA",
-    "employment_type": "full-time",
-    "category": "Software & IT",
-    "salary": "$174k/yr",
-    "salary_min": 174000.0,
-    "keywords": [
-      "Python",
-      "AWS",
-      "Azure",
-      "GCP",
-      "Docker",
-      "Kubernetes",
-      "Terraform",
-      "tax"
-    ],
-    "sponsorship_evidence": "",
-    "h1b_status": "unknown",
-    "sponsorship_label": "Not specified",
-    "url": "https://www.coupang.jobs/en/jobs/?gh_jid=7962133"
-  },
-  {
-    "company": "Coupang",
-    "title": "Senior Staff Backend Engineer - Cloud Infrastructure",
     "location": "Seattle, USA",
     "employment_type": "full-time",
     "category": "Software & IT",
@@ -501,24 +478,26 @@
   },
   {
     "company": "Coupang",
-    "title": "Senior Staff Backend Engineer (Pricing)",
-    "location": "Seattle, USA",
+    "title": "Senior Staff Backend Engineer - Cloud Infrastructure",
+    "location": "Mountain View, USA",
     "employment_type": "full-time",
     "category": "Software & IT",
     "salary": "$174k/yr",
     "salary_min": 174000.0,
     "keywords": [
-      "Java",
+      "Python",
       "AWS",
+      "Azure",
+      "GCP",
       "Docker",
       "Kubernetes",
-      "tax",
-      "recruiting"
+      "Terraform",
+      "tax"
     ],
     "sponsorship_evidence": "",
     "h1b_status": "unknown",
     "sponsorship_label": "Not specified",
-    "url": "https://www.coupang.jobs/en/jobs/?gh_jid=8120779"
+    "url": "https://www.coupang.jobs/en/jobs/?gh_jid=7962133"
   },
   {
     "company": "Coupang",
@@ -540,6 +519,27 @@
     "h1b_status": "unknown",
     "sponsorship_label": "Not specified",
     "url": "https://www.coupang.jobs/en/jobs/?gh_jid=8123934"
+  },
+  {
+    "company": "Coupang",
+    "title": "Senior Staff Backend Engineer (Pricing)",
+    "location": "Seattle, USA",
+    "employment_type": "full-time",
+    "category": "Software & IT",
+    "salary": "$174k/yr",
+    "salary_min": 174000.0,
+    "keywords": [
+      "Java",
+      "AWS",
+      "Docker",
+      "Kubernetes",
+      "tax",
+      "recruiting"
+    ],
+    "sponsorship_evidence": "",
+    "h1b_status": "unknown",
+    "sponsorship_label": "Not specified",
+    "url": "https://www.coupang.jobs/en/jobs/?gh_jid=8120779"
   },
   {
     "company": "Coupang",
@@ -15373,29 +15373,6 @@
     "url": "https://workday.wd5.myworkdayjobs.com/en-US/Workday/job/USAVAReston/Senior-Software-Development-Engineer--US-Federal-_JR-0105427"
   },
   {
-    "company": "Workday",
-    "title": "Senior Software Development Engineer - Developer Platform",
-    "location": "USA, CO, Boulder",
-    "employment_type": "full-time",
-    "category": "Software & IT",
-    "salary": "Not disclosed",
-    "salary_min": null,
-    "keywords": [
-      "JavaScript",
-      "TypeScript",
-      "React",
-      "AWS",
-      "Azure",
-      "GCP",
-      "Kubernetes",
-      "recruiting"
-    ],
-    "sponsorship_evidence": "",
-    "h1b_status": "unknown",
-    "sponsorship_label": "Not specified",
-    "url": "https://workday.wd5.myworkdayjobs.com/en-US/Workday/job/USA-CO-Boulder/Senior-Software-Development-Engineer---Developer-Platform_JR-0108221"
-  },
-  {
     "company": "NVIDIA",
     "title": "Senior Map Data Validation Lead - Autonomous Vehicles",
     "location": "US, CA, Santa Clara",
@@ -15892,59 +15869,6 @@
     "h1b_status": "unknown",
     "sponsorship_label": "Not specified",
     "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Embedded-Software-Engineer---AV-Platform_JR2016466-1"
-  },
-  {
-    "company": "NVIDIA",
-    "title": "Senior Systems Software Engineer - Autonomous Vehicles",
-    "location": "US, CA, Santa Clara",
-    "employment_type": "full-time",
-    "category": "Software & IT",
-    "salary": "Not disclosed",
-    "salary_min": null,
-    "keywords": [
-      "recruiting"
-    ],
-    "sponsorship_evidence": "",
-    "h1b_status": "unknown",
-    "sponsorship_label": "Not specified",
-    "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Systems-Software-Engineer---Autonomous-Vehicles_JR2015666"
-  },
-  {
-    "company": "NVIDIA",
-    "title": "Senior Technical Program Manager - Autonomous Vehicles",
-    "location": "US, CA, Santa Clara",
-    "employment_type": "full-time",
-    "category": "Other",
-    "salary": "Not disclosed",
-    "salary_min": null,
-    "keywords": [
-      "machine learning",
-      "artificial intelligence",
-      "electrical engineering",
-      "recruiting"
-    ],
-    "sponsorship_evidence": "",
-    "h1b_status": "unknown",
-    "sponsorship_label": "Not specified",
-    "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Technical-Program-Manager---Autonomous-Vehicles_JR2014870"
-  },
-  {
-    "company": "NVIDIA",
-    "title": "Senior Software Engineer - Autonomous Vehicles",
-    "location": "US, CA, Santa Clara",
-    "employment_type": "full-time",
-    "category": "Software & IT",
-    "salary": "Not disclosed",
-    "salary_min": null,
-    "keywords": [
-      "machine learning",
-      "electrical engineering",
-      "recruiting"
-    ],
-    "sponsorship_evidence": "",
-    "h1b_status": "unknown",
-    "sponsorship_label": "Not specified",
-    "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Software-Engineer---Autonomous-Vehicles_JR2014431"
   },
   {
     "company": "Salesforce",
@@ -35057,24 +34981,6 @@
   },
   {
     "company": "Northrop Grumman",
-    "title": "Budget Analyst",
-    "location": "United States-California-El Segundo",
-    "employment_type": "full-time",
-    "category": "Other",
-    "salary": "Not disclosed",
-    "salary_min": null,
-    "keywords": [
-      "Excel",
-      "accounting",
-      "compliance"
-    ],
-    "sponsorship_evidence": "",
-    "h1b_status": "unknown",
-    "sponsorship_label": "Not specified",
-    "url": "https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-California-El-Segundo/Budget-Analyst_R10238858"
-  },
-  {
-    "company": "Northrop Grumman",
     "title": "Staff Principal Engineer Electronics",
     "location": "United States-California-San Diego",
     "employment_type": "full-time",
@@ -48627,22 +48533,6 @@
     "h1b_status": "unknown",
     "sponsorship_label": "Not specified",
     "url": "https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-Louisiana-Lake-Charles/Aircraft-Sheet-Metal-Technician-2-or-3-Days-Nights-Weekends_R10244414"
-  },
-  {
-    "company": "Northrop Grumman",
-    "title": "Manager Computer Systems Analysis 2 - Top Secret",
-    "location": "United States-Colorado-Boulder",
-    "employment_type": "full-time",
-    "category": "Other",
-    "salary": "Not disclosed",
-    "salary_min": null,
-    "keywords": [
-      "compliance"
-    ],
-    "sponsorship_evidence": "",
-    "h1b_status": "unknown",
-    "sponsorship_label": "Not specified",
-    "url": "https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-Colorado-Boulder/Manager-Computer-Systems-Analysis-2---Top-Secret_R10244291"
   },
   {
     "company": "Northrop Grumman",
@@ -82743,23 +82633,6 @@
   },
   {
     "company": "Micron Technology",
-    "title": "DRAM Device & Cell Technology Engineer",
-    "location": "Boise, ID - Main Site",
-    "employment_type": "full-time",
-    "category": "Other",
-    "salary": "Not disclosed",
-    "salary_min": null,
-    "keywords": [
-      "Python",
-      "electrical engineering"
-    ],
-    "sponsorship_evidence": "",
-    "h1b_status": "unknown",
-    "sponsorship_label": "Not specified",
-    "url": "https://micron.wd1.myworkdayjobs.com/en-US/External/job/Boise-ID---Main-Site/DRAM-Device---Cell-Technology-Engineer_JR102292"
-  },
-  {
-    "company": "Micron Technology",
     "title": "AI Security Program Lead",
     "location": "Boise, ID - Main Site",
     "employment_type": "full-time",
@@ -91494,38 +91367,6 @@
     "url": "https://chevron.wd5.myworkdayjobs.com/en-US/jobs/job/Seneca-Illinois-United-States-of-America/Senior-Instrumentation---Electrical-Specialist_R000071943"
   },
   {
-    "company": "Chevron",
-    "title": "Galley Utility/Messman",
-    "location": "San Ramon, California, United States of America",
-    "employment_type": "full-time",
-    "category": "Other",
-    "salary": "Not disclosed",
-    "salary_min": null,
-    "keywords": [
-      "compliance"
-    ],
-    "sponsorship_evidence": "Chevron regrets that it is unable to sponsor employment Visas or consider individuals on time-limited Visa status for this position.",
-    "h1b_status": "does_not_support_h1b",
-    "sponsorship_label": "No sponsorship for this position",
-    "url": "https://chevron.wd5.myworkdayjobs.com/en-US/jobs/job/San-Ramon-California-United-States-of-America/Galley-Utility-Messman_R000067969"
-  },
-  {
-    "company": "Chevron",
-    "title": "Steward",
-    "location": "San Ramon, California, United States of America",
-    "employment_type": "full-time",
-    "category": "Other",
-    "salary": "Not disclosed",
-    "salary_min": null,
-    "keywords": [
-      "compliance"
-    ],
-    "sponsorship_evidence": "\u2022Chevron regrets that it is unable to sponsor employment Visas or consider individuals on time-limited Visa status for this position.",
-    "h1b_status": "does_not_support_h1b",
-    "sponsorship_label": "No sponsorship for this position",
-    "url": "https://chevron.wd5.myworkdayjobs.com/en-US/jobs/job/San-Ramon-California-United-States-of-America/Steward_R000070682"
-  },
-  {
     "company": "General Motors",
     "title": "Senior Supply Chain Engineering Manager",
     "location": "Warren, Michigan, United States of America",
@@ -92256,22 +92097,6 @@
   },
   {
     "company": "Marathon Petroleum",
-    "title": "CROF Rail Loader",
-    "location": "Anacortes, Washington",
-    "employment_type": "full-time",
-    "category": "Other",
-    "salary": "$0\u2013$999.99/hr",
-    "salary_min": 0.0,
-    "keywords": [
-      "human resources"
-    ],
-    "sponsorship_evidence": "",
-    "h1b_status": "unknown",
-    "sponsorship_label": "Not specified",
-    "url": "https://mpc.wd1.myworkdayjobs.com/en-US/MPCCareers/job/Anacortes-Washington/CROF-Rail-Loader_00023655"
-  },
-  {
-    "company": "Marathon Petroleum",
     "title": "Fuel Transport Driver",
     "location": "Industry, Pennsylvania",
     "employment_type": "full-time",
@@ -92367,6 +92192,22 @@
     "h1b_status": "unknown",
     "sponsorship_label": "Not specified",
     "url": "https://mpc.wd1.myworkdayjobs.com/en-US/MPCCareers/job/Catlettsburg-Kentucky/Deckhand_00023584"
+  },
+  {
+    "company": "Marathon Petroleum",
+    "title": "Process Controls Technician",
+    "location": "Texas City, Texas",
+    "employment_type": "full-time",
+    "category": "Other",
+    "salary": "Not disclosed",
+    "salary_min": null,
+    "keywords": [
+      "human resources"
+    ],
+    "sponsorship_evidence": "",
+    "h1b_status": "unknown",
+    "sponsorship_label": "Not specified",
+    "url": "https://mpc.wd1.myworkdayjobs.com/en-US/MPCCareers/job/Texas-City-Texas/Process-Controls-Technician_00023385"
   },
   {
     "company": "Freddie Mac",
@@ -96141,20 +95982,6 @@
   },
   {
     "company": "Walt Disney",
-    "title": "Disneyland Manufacturing Intern, Spring 2027",
-    "location": "Anaheim, CA, USA",
-    "employment_type": "internship",
-    "category": "Other",
-    "salary": "Not disclosed",
-    "salary_min": null,
-    "keywords": [],
-    "sponsorship_evidence": "",
-    "h1b_status": "unknown",
-    "sponsorship_label": "Not specified",
-    "url": "https://disney.wd5.myworkdayjobs.com/en-US/disneycareer/job/Anaheim-CA-USA/Disneyland-Manufacturing-Intern--Fall-2026_10158414"
-  },
-  {
-    "company": "Walt Disney",
     "title": "Product Manager",
     "location": "Celebration, FL, USA",
     "employment_type": "full-time",
@@ -96202,196 +96029,6 @@
     "h1b_status": "unknown",
     "sponsorship_label": "Not specified",
     "url": "https://disney.wd5.myworkdayjobs.com/en-US/disneycareer/job/Anaheim-CA-USA/DLR-Occupational-Safety---Industrial-Hygiene-Interns--Spring-2027_10158132"
-  },
-  {
-    "company": "Walt Disney",
-    "title": "Disneyland Architecture Intern, Spring 2027",
-    "location": "Anaheim, CA, USA",
-    "employment_type": "internship",
-    "category": "Other",
-    "salary": "Not disclosed",
-    "salary_min": null,
-    "keywords": [],
-    "sponsorship_evidence": "",
-    "h1b_status": "unknown",
-    "sponsorship_label": "Not specified",
-    "url": "https://disney.wd5.myworkdayjobs.com/en-US/disneycareer/job/Anaheim-CA-USA/Disneyland-Architecture-Intern--Spring-2027_10158301"
-  },
-  {
-    "company": "Walt Disney",
-    "title": "Disneyland Civil Facilities and Utilities Intern, Spring 2026",
-    "location": "Anaheim, CA, USA",
-    "employment_type": "internship",
-    "category": "Engineering",
-    "salary": "Not disclosed",
-    "salary_min": null,
-    "keywords": [
-      "procurement"
-    ],
-    "sponsorship_evidence": "",
-    "h1b_status": "unknown",
-    "sponsorship_label": "Not specified",
-    "url": "https://disney.wd5.myworkdayjobs.com/en-US/disneycareer/job/Anaheim-CA-USA/Disneyland-Civil-Facilities-and-Utilities-Intern--Spring-2026_10158736-2"
-  },
-  {
-    "company": "Walt Disney",
-    "title": "Disneyland Design and Construction Strategic Sourcing Intern, Spring 2027",
-    "location": "Anaheim, CA, USA",
-    "employment_type": "internship",
-    "category": "Other",
-    "salary": "Not disclosed",
-    "salary_min": null,
-    "keywords": [
-      "Excel",
-      "supply chain",
-      "compliance",
-      "contracts"
-    ],
-    "sponsorship_evidence": "",
-    "h1b_status": "unknown",
-    "sponsorship_label": "Not specified",
-    "url": "https://disney.wd5.myworkdayjobs.com/en-US/disneycareer/job/Anaheim-CA-USA/Disneyland-Design-and-Construction-Strategic-Sourcing-Intern--Spring-2027_10158291"
-  },
-  {
-    "company": "Walt Disney",
-    "title": "Disneyland Electrical Engineering Intern, Spring 2027",
-    "location": "Anaheim, CA, USA",
-    "employment_type": "internship",
-    "category": "Engineering",
-    "salary": "Not disclosed",
-    "salary_min": null,
-    "keywords": [
-      "Excel",
-      "electrical engineering",
-      "legal"
-    ],
-    "sponsorship_evidence": "",
-    "h1b_status": "unknown",
-    "sponsorship_label": "Not specified",
-    "url": "https://disney.wd5.myworkdayjobs.com/en-US/disneycareer/job/Anaheim-CA-USA/Disneyland-Electrical-Engineering-Intern--Spring-2027_10158423"
-  },
-  {
-    "company": "Walt Disney",
-    "title": "Disneyland Facilities Controls Electrical Engineering Intern, Spring 2027",
-    "location": "Anaheim, CA, USA",
-    "employment_type": "internship",
-    "category": "Engineering",
-    "salary": "Not disclosed",
-    "salary_min": null,
-    "keywords": [
-      "mechanical engineering",
-      "electrical engineering",
-      "legal"
-    ],
-    "sponsorship_evidence": "",
-    "h1b_status": "unknown",
-    "sponsorship_label": "Not specified",
-    "url": "https://disney.wd5.myworkdayjobs.com/en-US/disneycareer/job/Anaheim-CA-USA/Disneyland-Facilities-Controls-Electrical-Engineering-Intern--Spring-2027_10158296"
-  },
-  {
-    "company": "Walt Disney",
-    "title": "Disneyland Facilities Management Engineering Intern, Spring 2027",
-    "location": "Anaheim, CA, USA",
-    "employment_type": "internship",
-    "category": "Other",
-    "salary": "Not disclosed",
-    "salary_min": null,
-    "keywords": [
-      "mechanical engineering"
-    ],
-    "sponsorship_evidence": "",
-    "h1b_status": "unknown",
-    "sponsorship_label": "Not specified",
-    "url": "https://disney.wd5.myworkdayjobs.com/en-US/disneycareer/job/Anaheim-CA-USA/Disneyland-Facilities-Management-Engineering-Intern--Spring-2027_10158737"
-  },
-  {
-    "company": "Walt Disney",
-    "title": "Disneyland Facilities Mechanical Engineering Intern, Spring 2027",
-    "location": "Anaheim, CA, USA",
-    "employment_type": "internship",
-    "category": "Engineering",
-    "salary": "Not disclosed",
-    "salary_min": null,
-    "keywords": [
-      "mechanical engineering"
-    ],
-    "sponsorship_evidence": "",
-    "h1b_status": "unknown",
-    "sponsorship_label": "Not specified",
-    "url": "https://disney.wd5.myworkdayjobs.com/en-US/disneycareer/job/Anaheim-CA-USA/Disneyland-Facilities-Mechanical-Engineering-Intern--Spring-2027_10158306"
-  },
-  {
-    "company": "Walt Disney",
-    "title": "Disneyland Mechanical Engineering Intern, Spring 2027",
-    "location": "Anaheim, CA, USA",
-    "employment_type": "internship",
-    "category": "Engineering",
-    "salary": "Not disclosed",
-    "salary_min": null,
-    "keywords": [
-      "mechanical engineering",
-      "SolidWorks",
-      "legal"
-    ],
-    "sponsorship_evidence": "",
-    "h1b_status": "unknown",
-    "sponsorship_label": "Not specified",
-    "url": "https://disney.wd5.myworkdayjobs.com/en-US/disneycareer/job/Anaheim-CA-USA/Disneyland-Mechanical-Engineering-Intern--Spring-2027_10158421-2"
-  },
-  {
-    "company": "Walt Disney",
-    "title": "Disneyland Power and Facilities Electrical Engineering Intern, Spring 2027",
-    "location": "Anaheim, CA, USA",
-    "employment_type": "internship",
-    "category": "Engineering",
-    "salary": "Not disclosed",
-    "salary_min": null,
-    "keywords": [
-      "Excel",
-      "electrical engineering"
-    ],
-    "sponsorship_evidence": "",
-    "h1b_status": "unknown",
-    "sponsorship_label": "Not specified",
-    "url": "https://disney.wd5.myworkdayjobs.com/en-US/disneycareer/job/Anaheim-CA-USA/Disneyland-Power-and-Facilities-Electrical-Engineering-Intern--Spring-2027_10158314"
-  },
-  {
-    "company": "Walt Disney",
-    "title": "Disneyland Quality Engineering Intern, Fall 2026",
-    "location": "Anaheim, CA, USA",
-    "employment_type": "internship",
-    "category": "Other",
-    "salary": "Not disclosed",
-    "salary_min": null,
-    "keywords": [
-      "data science",
-      "analytics",
-      "Excel",
-      "compliance"
-    ],
-    "sponsorship_evidence": "",
-    "h1b_status": "unknown",
-    "sponsorship_label": "Not specified",
-    "url": "https://disney.wd5.myworkdayjobs.com/en-US/disneycareer/job/Anaheim-CA-USA/Disneyland-Quality-Engineering-Intern--Fall-2026_10158416-2"
-  },
-  {
-    "company": "Walt Disney",
-    "title": "Geographic Information Systems (GIS) Intern, Spring 2027",
-    "location": "Anaheim, CA, USA",
-    "employment_type": "internship",
-    "category": "Other",
-    "salary": "$31/hr",
-    "salary_min": 31.0,
-    "keywords": [
-      "Python",
-      "SQL",
-      "data science",
-      "CAD"
-    ],
-    "sponsorship_evidence": "",
-    "h1b_status": "unknown",
-    "sponsorship_label": "Not specified",
-    "url": "https://disney.wd5.myworkdayjobs.com/en-US/disneycareer/job/Anaheim-CA-USA/Geographic-Information-Systems--GIS--Intern--Spring-2027_10158899"
   },
   {
     "company": "Walt Disney",
@@ -98172,23 +97809,6 @@
     "h1b_status": "unknown",
     "sponsorship_label": "Not specified",
     "url": "https://disney.wd5.myworkdayjobs.com/en-US/disneycareer/job/Burbank-CA-USA/Digital-Marketing-Operations-Specialist--PH-_10157314"
-  },
-  {
-    "company": "Walt Disney",
-    "title": "Principal Product Mgr",
-    "location": "Glendale, CA, USA",
-    "employment_type": "full-time",
-    "category": "Other",
-    "salary": "Not disclosed",
-    "salary_min": null,
-    "keywords": [
-      "machine learning",
-      "supply chain"
-    ],
-    "sponsorship_evidence": "",
-    "h1b_status": "unknown",
-    "sponsorship_label": "Not specified",
-    "url": "https://disney.wd5.myworkdayjobs.com/en-US/disneycareer/job/Glendale-CA-USA/Principal-Product-Mgr_10154852"
   },
   {
     "company": "Walt Disney",
@@ -173047,6 +172667,22 @@
   },
   {
     "company": "Lowe's",
+    "title": "Full Time - Loader/Cart Associate - Opening",
+    "location": "Winchester, VA (N Winchester) 2724",
+    "employment_type": "full-time",
+    "category": "Other",
+    "salary": "$15\u2013$15.6/hr",
+    "salary_min": 15.0,
+    "keywords": [
+      "sales"
+    ],
+    "sponsorship_evidence": "",
+    "h1b_status": "unknown",
+    "sponsorship_label": "Not specified",
+    "url": "https://lowes.wd5.myworkdayjobs.com/en-US/LWS_External_CS/job/Winchester-VA-N-Winchester-2724/Full-Time---Loader-Cart-Associate---Opening_JR-02638052"
+  },
+  {
+    "company": "Lowe's",
     "title": "Full Time - Sales Specialist - Flooring - Day",
     "location": "Albuquerque, NM (NE Albuquerque) 0756",
     "employment_type": "full-time",
@@ -186811,40 +186447,6 @@
   },
   {
     "company": "Lowe's",
-    "title": "Full Time - CDL Delivery Driver",
-    "location": "Coeur D Alene, ID (Coeur d'Alene) 0018",
-    "employment_type": "full-time",
-    "category": "Other",
-    "salary": "Not disclosed",
-    "salary_min": null,
-    "keywords": [
-      "sales",
-      "compliance"
-    ],
-    "sponsorship_evidence": "",
-    "h1b_status": "unknown",
-    "sponsorship_label": "Not specified",
-    "url": "https://lowes.wd5.myworkdayjobs.com/en-US/LWS_External_CS/job/Coeur-D-Alene-ID-Coeur-dAlene-0018/Full-Time---CDL-Delivery-Driver_JR-02589820"
-  },
-  {
-    "company": "Lowe's",
-    "title": "Full Time - Fulfillment Associate - Day",
-    "location": "Honolulu, HI (Iwilei) 2336",
-    "employment_type": "full-time",
-    "category": "Other",
-    "salary": "$17.5\u2013$19.6/hr",
-    "salary_min": 17.5,
-    "keywords": [
-      "sales",
-      "compliance"
-    ],
-    "sponsorship_evidence": "",
-    "h1b_status": "unknown",
-    "sponsorship_label": "Not specified",
-    "url": "https://lowes.wd5.myworkdayjobs.com/en-US/LWS_External_CS/job/Honolulu-HI-Iwilei-2336/Full-Time---Fulfillment-Associate---Day_JR-02589788-1"
-  },
-  {
-    "company": "Lowe's",
     "title": "Sr. Account Manager",
     "location": "Tulsa, OK (W Tulsa) 2756",
     "employment_type": "full-time",
@@ -188976,25 +188578,6 @@
     "url": "https://cat.wd5.myworkdayjobs.com/en-US/CaterpillarCareers/job/Lafayette-Indiana/Group-Manager---Machine-Shop_R0000384348-1"
   },
   {
-    "company": "Caterpillar",
-    "title": "Warranty Claims Analyst-Electric Power",
-    "location": "Alpharetta, Georgia",
-    "employment_type": "full-time",
-    "category": "Other",
-    "salary": "Not disclosed",
-    "salary_min": null,
-    "keywords": [
-      "Excel",
-      "accounting",
-      "CRM",
-      "legal"
-    ],
-    "sponsorship_evidence": "",
-    "h1b_status": "unknown",
-    "sponsorship_label": "Not specified",
-    "url": "https://cat.wd5.myworkdayjobs.com/en-US/CaterpillarCareers/job/Alpharetta-Georgia/Warranty-Claims-Analyst-Electric-Power_R0000390552"
-  },
-  {
     "company": "Prudential Financial",
     "title": "Lead, Network Security Operations",
     "location": "Newark, NJ, USA",
@@ -189906,6 +189489,23 @@
     "h1b_status": "unknown",
     "sponsorship_label": "Not specified",
     "url": "https://cisco.wd5.myworkdayjobs.com/en-US/Cisco_Careers/job/San-Jose-California-US/Lab-HW-Engineer_2009057"
+  },
+  {
+    "company": "Cisco Systems",
+    "title": "Field Acceleration & Enablement Senior Manager",
+    "location": "San Jose, California, US",
+    "employment_type": "full-time",
+    "category": "Other",
+    "salary": "Not disclosed",
+    "salary_min": null,
+    "keywords": [
+      "sales",
+      "digital marketing"
+    ],
+    "sponsorship_evidence": "",
+    "h1b_status": "unknown",
+    "sponsorship_label": "Not specified",
+    "url": "https://cisco.wd5.myworkdayjobs.com/en-US/Cisco_Careers/job/San-Jose-California-US/Field-Acceleration---Enablement-Senior-Manager_2022471-1"
   },
   {
     "company": "Cisco Systems",
@@ -246258,22 +245858,6 @@
   },
   {
     "company": "Broadcom",
-    "title": "ESX Engineer",
-    "location": "USA-CA - Promontory B",
-    "employment_type": "full-time",
-    "category": "Other",
-    "salary": "Not disclosed",
-    "salary_min": null,
-    "keywords": [
-      "Python"
-    ],
-    "sponsorship_evidence": "",
-    "h1b_status": "unknown",
-    "sponsorship_label": "Not specified",
-    "url": "https://broadcom.wd1.myworkdayjobs.com/en-US/External_Career/job/USA-CA---Promontory-B/ESX-Engineer_R025200"
-  },
-  {
-    "company": "Broadcom",
     "title": "hardware engineer 3",
     "location": "USA-California- San Jose - 1730 Fox Drive",
     "employment_type": "full-time",
@@ -246419,6 +246003,22 @@
     "h1b_status": "unknown",
     "sponsorship_label": "Not specified",
     "url": "https://amat.wd1.myworkdayjobs.com/en-US/External/job/AustinTX/Supplier-Engineer-E4_R2625398"
+  },
+  {
+    "company": "Applied Materials",
+    "title": "Global Support Support Engineer I",
+    "location": "Boise,ID",
+    "employment_type": "full-time",
+    "category": "Other",
+    "salary": "Not disclosed",
+    "salary_min": null,
+    "keywords": [
+      "sales"
+    ],
+    "sponsorship_evidence": "",
+    "h1b_status": "unknown",
+    "sponsorship_label": "Not specified",
+    "url": "https://amat.wd1.myworkdayjobs.com/en-US/External/job/BoiseID/Global-Support-Support-Engineer-I_R2626705"
   },
   {
     "company": "Applied Materials",
@@ -246729,38 +246329,6 @@
     "h1b_status": "unknown",
     "sponsorship_label": "Not specified",
     "url": "https://amat.wd1.myworkdayjobs.com/en-US/External/job/Santa-ClaraCA/Vice-President--Head-of-Tax_R2627520-1"
-  },
-  {
-    "company": "Applied Materials",
-    "title": "Engineering Technician",
-    "location": "Santa Clara,CA",
-    "employment_type": "full-time",
-    "category": "Other",
-    "salary": "Not disclosed",
-    "salary_min": null,
-    "keywords": [
-      "sales"
-    ],
-    "sponsorship_evidence": "",
-    "h1b_status": "unknown",
-    "sponsorship_label": "Not specified",
-    "url": "https://amat.wd1.myworkdayjobs.com/en-US/External/job/Santa-ClaraCA/Engineering-Technician_R2627485"
-  },
-  {
-    "company": "Applied Materials",
-    "title": "Engineering Technician",
-    "location": "Santa Clara,CA",
-    "employment_type": "full-time",
-    "category": "Other",
-    "salary": "Not disclosed",
-    "salary_min": null,
-    "keywords": [
-      "sales"
-    ],
-    "sponsorship_evidence": "",
-    "h1b_status": "unknown",
-    "sponsorship_label": "Not specified",
-    "url": "https://amat.wd1.myworkdayjobs.com/en-US/External/job/Santa-ClaraCA/Engineering-Technician_R2627486"
   },
   {
     "company": "Analog Devices",

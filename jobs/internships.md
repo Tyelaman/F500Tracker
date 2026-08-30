@@ -1,12 +1,12 @@
 # F500Tracker internships
 
-Last updated: August 30, 2026 at 05:34 UTC
+Last updated: August 30, 2026 at 12:04 UTC
 
-Current internships: 266
+Current internships: 254
 
 ## Categories
 
-[Software & IT (13)](#software-it) · [Data & AI (10)](#data-ai) · [Engineering (21)](#engineering) · [Finance & Accounting (14)](#finance-accounting) · [Sales & Marketing (10)](#sales-marketing) · [Operations & Supply Chain (10)](#operations-supply-chain) · [People & Legal (5)](#people-legal) · [Other (183)](#other)
+[Software & IT (13)](#software-it) · [Data & AI (10)](#data-ai) · [Engineering (15)](#engineering) · [Finance & Accounting (14)](#finance-accounting) · [Sales & Marketing (10)](#sales-marketing) · [Operations & Supply Chain (10)](#operations-supply-chain) · [People & Legal (5)](#people-legal) · [Other (177)](#other)
 
 <a id="software-it"></a>
 
@@ -57,17 +57,11 @@ Open positions: 10
 
 ## Engineering
 
-Open positions: 21
+Open positions: 15
 
 | Rank | Company | Position | Location | Category | Salary | Keywords | Sponsorship | Apply |
 |---:|---|---|---|---|---|---|---|---|
 | 125 | Micron Technology | Intern - TD Site Industrial Engineer | Boise, ID - Main Site | Engineering | Not disclosed | Python · SQL · Excel · supply chain | Not specified | [Apply](https://micron.wd1.myworkdayjobs.com/en-US/External/job/Boise-ID---Main-Site/Intern---TD-Site-Industrial-Engineer_JR108729) |
-| 44 | Walt Disney | Disneyland Civil Facilities and Utilities Intern, Spring 2026 | Anaheim, CA, USA | Engineering | Not disclosed | procurement | Not specified | [Apply](https://disney.wd5.myworkdayjobs.com/en-US/disneycareer/job/Anaheim-CA-USA/Disneyland-Civil-Facilities-and-Utilities-Intern--Spring-2026_10158736-2) |
-| 44 | Walt Disney | Disneyland Electrical Engineering Intern, Spring 2027 | Anaheim, CA, USA | Engineering | Not disclosed | Excel · electrical engineering · legal | Not specified | [Apply](https://disney.wd5.myworkdayjobs.com/en-US/disneycareer/job/Anaheim-CA-USA/Disneyland-Electrical-Engineering-Intern--Spring-2027_10158423) |
-| 44 | Walt Disney | Disneyland Facilities Controls Electrical Engineering Intern, Spring 2027 | Anaheim, CA, USA | Engineering | Not disclosed | mechanical engineering · electrical engineering · legal | Not specified | [Apply](https://disney.wd5.myworkdayjobs.com/en-US/disneycareer/job/Anaheim-CA-USA/Disneyland-Facilities-Controls-Electrical-Engineering-Intern--Spring-2027_10158296) |
-| 44 | Walt Disney | Disneyland Facilities Mechanical Engineering Intern, Spring 2027 | Anaheim, CA, USA | Engineering | Not disclosed | mechanical engineering | Not specified | [Apply](https://disney.wd5.myworkdayjobs.com/en-US/disneycareer/job/Anaheim-CA-USA/Disneyland-Facilities-Mechanical-Engineering-Intern--Spring-2027_10158306) |
-| 44 | Walt Disney | Disneyland Mechanical Engineering Intern, Spring 2027 | Anaheim, CA, USA | Engineering | Not disclosed | mechanical engineering · SolidWorks · legal | Not specified | [Apply](https://disney.wd5.myworkdayjobs.com/en-US/disneycareer/job/Anaheim-CA-USA/Disneyland-Mechanical-Engineering-Intern--Spring-2027_10158421-2) |
-| 44 | Walt Disney | Disneyland Power and Facilities Electrical Engineering Intern, Spring 2027 | Anaheim, CA, USA | Engineering | Not disclosed | Excel · electrical engineering | Not specified | [Apply](https://disney.wd5.myworkdayjobs.com/en-US/disneycareer/job/Anaheim-CA-USA/Disneyland-Power-and-Facilities-Electrical-Engineering-Intern--Spring-2027_10158314) |
 | 44 | Walt Disney | WDI Show Mechanical Design & Production Intern, Glendale, Spring 2027 | Glendale, CA, USA | Engineering | $26.5/hr | CAD · SolidWorks | Not specified | [Apply](https://disney.wd5.myworkdayjobs.com/en-US/disneycareer/job/Glendale-CA-USA/WDI-Show-Mechanical-Design---Production-Intern--Glendale--Spring-2027_10158499) |
 | 44 | Walt Disney | WDI Show Mechanical Engineering Intern, Glendale, Spring 2027 | Glendale, CA, USA | Engineering | $31/hr | mechanical engineering · SolidWorks | Not specified | [Apply](https://disney.wd5.myworkdayjobs.com/en-US/disneycareer/job/Glendale-CA-USA/WDI-Show-Mechanical-Engineering-Intern--Glendale--Spring-2027_10158506) |
 | 44 | Walt Disney | WDI Civil Engineering Intern, Orlando, Spring 2027 | Lake Buena Vista, FL, USA | Engineering | $31/hr | electrical engineering · contracts | Not specified | [Apply](https://disney.wd5.myworkdayjobs.com/en-US/disneycareer/job/Lake-Buena-Vista-FL-USA/WDI-Civil-Engineering-Intern--Orlando--Spring-2027_10158161-1) |
@@ -172,7 +166,7 @@ Open positions: 5
 
 ## Other
 
-Open positions: 183
+Open positions: 177
 
 | Rank | Company | Position | Location | Category | Salary | Keywords | Sponsorship | Apply |
 |---:|---|---|---|---|---|---|---|---|
@@ -237,12 +231,6 @@ Open positions: 183
 | 44 | Walt Disney | WDI Special Effects Designer Intern, Orlando, Spring 2027 | Lake Buena Vista, FL, USA | Other | $26.5/hr | SolidWorks | Not specified | [Apply](https://disney.wd5.myworkdayjobs.com/en-US/disneycareer/job/Lake-Buena-Vista-FL-USA/WDI-Special-Effects-Designer-Intern--Orlando--Spring-2027-2026_10158465) |
 | 44 | Walt Disney | Video & Multimedia Intern, WSHES Creative, Spring 2027 | Lake Buena Vista, FL, USA | Other | $22.5/hr | — | Not specified | [Apply](https://disney.wd5.myworkdayjobs.com/en-US/disneycareer/job/Lake-Buena-Vista-FL-USA/Video---Multimedia-Intern--WSHES-Creative--Spring-2027_10157945) |
 | 44 | Walt Disney | WDI Show Control Hardware Intern, Spring 2027 | Celebration, FL, USA | Other | $3/hr | SolidWorks | Not specified | [Apply](https://disney.wd5.myworkdayjobs.com/en-US/disneycareer/job/Celebration-FL-USA/WDI-Show-Control-Hardware-Intern--Glendale--Spring-2027_10158467) |
-| 44 | Walt Disney | Disneyland Manufacturing Intern, Spring 2027 | Anaheim, CA, USA | Other | Not disclosed | — | Not specified | [Apply](https://disney.wd5.myworkdayjobs.com/en-US/disneycareer/job/Anaheim-CA-USA/Disneyland-Manufacturing-Intern--Fall-2026_10158414) |
-| 44 | Walt Disney | Disneyland Architecture Intern, Spring 2027 | Anaheim, CA, USA | Other | Not disclosed | — | Not specified | [Apply](https://disney.wd5.myworkdayjobs.com/en-US/disneycareer/job/Anaheim-CA-USA/Disneyland-Architecture-Intern--Spring-2027_10158301) |
-| 44 | Walt Disney | Disneyland Design and Construction Strategic Sourcing Intern, Spring 2027 | Anaheim, CA, USA | Other | Not disclosed | Excel · supply chain · compliance · contracts | Not specified | [Apply](https://disney.wd5.myworkdayjobs.com/en-US/disneycareer/job/Anaheim-CA-USA/Disneyland-Design-and-Construction-Strategic-Sourcing-Intern--Spring-2027_10158291) |
-| 44 | Walt Disney | Disneyland Facilities Management Engineering Intern, Spring 2027 | Anaheim, CA, USA | Other | Not disclosed | mechanical engineering | Not specified | [Apply](https://disney.wd5.myworkdayjobs.com/en-US/disneycareer/job/Anaheim-CA-USA/Disneyland-Facilities-Management-Engineering-Intern--Spring-2027_10158737) |
-| 44 | Walt Disney | Disneyland Quality Engineering Intern, Fall 2026 | Anaheim, CA, USA | Other | Not disclosed | data science · analytics · Excel · compliance | Not specified | [Apply](https://disney.wd5.myworkdayjobs.com/en-US/disneycareer/job/Anaheim-CA-USA/Disneyland-Quality-Engineering-Intern--Fall-2026_10158416-2) |
-| 44 | Walt Disney | Geographic Information Systems (GIS) Intern, Spring 2027 | Anaheim, CA, USA | Other | $31/hr | Python · SQL · data science · CAD | Not specified | [Apply](https://disney.wd5.myworkdayjobs.com/en-US/disneycareer/job/Anaheim-CA-USA/Geographic-Information-Systems--GIS--Intern--Spring-2027_10158899) |
 | 44 | Walt Disney | WDI Project Engineering Intern, Spring 2027 | Glendale, CA, USA | Other | $31/hr | — | Not specified | [Apply](https://disney.wd5.myworkdayjobs.com/en-US/disneycareer/job/Glendale-CA-USA/WDI-Project-Engineering-Intern--Spring-2027_10158179) |
 | 44 | Walt Disney | WDI Ride Control Engineering Intern, Glendale, Spring 2027 | Glendale, CA, USA | Other | $31/hr | electrical engineering · CAD | Not specified | [Apply](https://disney.wd5.myworkdayjobs.com/en-US/disneycareer/job/Glendale-CA-USA/WDI-Ride-Control-Hardware-Engineering-Intern--Spring-2027_10158186) |
 | 44 | Walt Disney | WDI Special Effects Designer Intern, Glendale, Spring 2027 | Glendale, CA, USA | Other | $26.5/hr | SolidWorks | Not specified | [Apply](https://disney.wd5.myworkdayjobs.com/en-US/disneycareer/job/Glendale-CA-USA/WDI-Special-Effects-Designer-Intern--Glendale--Spring-2027_10158464) |
