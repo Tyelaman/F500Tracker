@@ -51673,7 +51673,7 @@
   },
   "greenhouse:Coupang:7919896": {
     "company": "Coupang",
-    "enriched_at": "2026-08-29T07:03:47.438292+00:00",
+    "enriched_at": "2026-08-30T05:23:18.759568+00:00",
     "external_id": "7919896",
     "h1b_mentioned": false,
     "h1b_status": "unknown",
@@ -51689,7 +51689,7 @@
     "salary_period": "year",
     "salary_text": "$114,000/year",
     "source": "greenhouse",
-    "source_updated_at": "2026-08-28T20:54:30-04:00",
+    "source_updated_at": "2026-08-29T20:54:04-04:00",
     "sponsorship_evidence": ""
   },
   "greenhouse:Coupang:7931249": {
@@ -51927,7 +51927,7 @@
   },
   "greenhouse:Coupang:8025195": {
     "company": "Coupang",
-    "enriched_at": "2026-08-29T07:03:47.468521+00:00",
+    "enriched_at": "2026-08-30T05:23:18.784775+00:00",
     "external_id": "8025195",
     "h1b_mentioned": false,
     "h1b_status": "unknown",
@@ -51948,12 +51948,12 @@
     "salary_period": "year",
     "salary_text": "$174,000K/year",
     "source": "greenhouse",
-    "source_updated_at": "2026-08-28T20:54:41-04:00",
+    "source_updated_at": "2026-08-29T20:54:15-04:00",
     "sponsorship_evidence": ""
   },
   "greenhouse:Coupang:8036987": {
     "company": "Coupang",
-    "enriched_at": "2026-08-29T07:03:47.452249+00:00",
+    "enriched_at": "2026-08-30T05:23:18.771490+00:00",
     "external_id": "8036987",
     "h1b_mentioned": false,
     "h1b_status": "unknown",
@@ -51974,7 +51974,7 @@
     "salary_period": "year",
     "salary_text": "$164K/year",
     "source": "greenhouse",
-    "source_updated_at": "2026-08-28T20:54:37-04:00",
+    "source_updated_at": "2026-08-29T20:54:11-04:00",
     "sponsorship_evidence": ""
   },
   "greenhouse:Coupang:8056265": {
@@ -52097,7 +52097,7 @@
   },
   "greenhouse:Coupang:8075427": {
     "company": "Coupang",
-    "enriched_at": "2026-08-29T07:03:47.484454+00:00",
+    "enriched_at": "2026-08-30T05:23:18.797701+00:00",
     "external_id": "8075427",
     "h1b_mentioned": false,
     "h1b_status": "unknown",
@@ -52115,7 +52115,7 @@
     "salary_period": "year",
     "salary_text": "$164/year",
     "source": "greenhouse",
-    "source_updated_at": "2026-08-28T20:54:45-04:00",
+    "source_updated_at": "2026-08-29T20:54:19-04:00",
     "sponsorship_evidence": ""
   },
   "greenhouse:Coupang:8076145": {
@@ -52327,7 +52327,7 @@
   },
   "greenhouse:Coupang:8118774": {
     "company": "Coupang",
-    "enriched_at": "2026-08-29T07:03:47.400863+00:00",
+    "enriched_at": "2026-08-30T05:23:18.728809+00:00",
     "external_id": "8118774",
     "h1b_mentioned": false,
     "h1b_status": "unknown",
@@ -52345,7 +52345,7 @@
     "salary_period": "year",
     "salary_text": "$132,000/year",
     "source": "greenhouse",
-    "source_updated_at": "2026-08-28T20:54:52-04:00",
+    "source_updated_at": "2026-08-29T20:54:25-04:00",
     "sponsorship_evidence": ""
   },
   "greenhouse:Coupang:8120779": {
@@ -52396,7 +52396,7 @@
   },
   "greenhouse:Coupang:8124210": {
     "company": "Coupang",
-    "enriched_at": "2026-08-29T07:03:47.418202+00:00",
+    "enriched_at": "2026-08-30T05:23:18.742940+00:00",
     "external_id": "8124210",
     "h1b_mentioned": false,
     "h1b_status": "unknown",
@@ -52413,7 +52413,7 @@
     "salary_period": "year",
     "salary_text": "$209,000/year",
     "source": "greenhouse",
-    "source_updated_at": "2026-08-28T20:54:48-04:00",
+    "source_updated_at": "2026-08-29T20:54:22-04:00",
     "sponsorship_evidence": ""
   },
   "greenhouse:Coupang:8140987": {
@@ -178806,6 +178806,24 @@
     "source_updated_at": "",
     "sponsorship_evidence": ""
   },
+  "workday:Lowe's:/job/Albuquerque-NM-NE-Albuquerque-0756/Full-Time---Sales-Specialist---Flooring---Day_JR-02626025-1": {
+    "company": "Lowe's",
+    "enriched_at": "2026-08-30T05:32:28.809918+00:00",
+    "external_id": "/job/Albuquerque-NM-NE-Albuquerque-0756/Full-Time---Sales-Specialist---Flooring---Day_JR-02626025-1",
+    "h1b_mentioned": false,
+    "h1b_status": "unknown",
+    "keywords": [
+      "sales"
+    ],
+    "salary_currency": "",
+    "salary_max": null,
+    "salary_min": null,
+    "salary_period": "",
+    "salary_text": "",
+    "source": "workday",
+    "source_updated_at": "",
+    "sponsorship_evidence": ""
+  },
   "workday:Lowe's:/job/Albuquerque-NM-NE-Albuquerque-0756/Night-Operations-Department-Supervisor_JR-02619721-1": {
     "company": "Lowe's",
     "enriched_at": "2026-08-26T07:17:13.635304+00:00",
@@ -188339,6 +188357,24 @@
     "h1b_status": "unknown",
     "keywords": [
       "Excel",
+      "sales"
+    ],
+    "salary_currency": "",
+    "salary_max": null,
+    "salary_min": null,
+    "salary_period": "",
+    "salary_text": "",
+    "source": "workday",
+    "source_updated_at": "",
+    "sponsorship_evidence": ""
+  },
+  "workday:Lowe's:/job/Houston-TX-N-Central-Houston-0681/Full-Time---Cashier---Opening_JR-02637682": {
+    "company": "Lowe's",
+    "enriched_at": "2026-08-30T05:32:28.820259+00:00",
+    "external_id": "/job/Houston-TX-N-Central-Houston-0681/Full-Time---Cashier---Opening_JR-02637682",
+    "h1b_mentioned": false,
+    "h1b_status": "unknown",
+    "keywords": [
       "sales"
     ],
     "salary_currency": "",
@@ -228395,6 +228431,26 @@
     "source_updated_at": "",
     "sponsorship_evidence": ""
   },
+  "workday:NVIDIA:/job/US-CA-Remote/Senior-Deep-Learning-Sofware-Infrastructure-Engineer_JR2022034": {
+    "company": "NVIDIA",
+    "enriched_at": "2026-08-30T05:23:27.508351+00:00",
+    "external_id": "/job/US-CA-Remote/Senior-Deep-Learning-Sofware-Infrastructure-Engineer_JR2022034",
+    "h1b_mentioned": false,
+    "h1b_status": "unknown",
+    "keywords": [
+      "Python",
+      "Kubernetes",
+      "recruiting"
+    ],
+    "salary_currency": "",
+    "salary_max": null,
+    "salary_min": null,
+    "salary_period": "",
+    "salary_text": "",
+    "source": "workday",
+    "source_updated_at": "",
+    "sponsorship_evidence": ""
+  },
   "workday:NVIDIA:/job/US-CA-Santa-Clara/AI-Compiler-Engineer_JR2014497-1": {
     "company": "NVIDIA",
     "enriched_at": "2026-08-19T01:52:26.195007+00:00",
@@ -228721,6 +228777,45 @@
       "SQL",
       "analytics",
       "electrical engineering",
+      "recruiting"
+    ],
+    "salary_currency": "",
+    "salary_max": null,
+    "salary_min": null,
+    "salary_period": "",
+    "salary_text": "",
+    "source": "workday",
+    "source_updated_at": "",
+    "sponsorship_evidence": ""
+  },
+  "workday:NVIDIA:/job/US-CA-Santa-Clara/Director--ADAS-User-Experience-Product---Autonomous-Vehicles_JR2016860": {
+    "company": "NVIDIA",
+    "enriched_at": "2026-08-30T05:23:27.638203+00:00",
+    "external_id": "/job/US-CA-Santa-Clara/Director--ADAS-User-Experience-Product---Autonomous-Vehicles_JR2016860",
+    "h1b_mentioned": false,
+    "h1b_status": "unknown",
+    "keywords": [
+      "recruiting"
+    ],
+    "salary_currency": "",
+    "salary_max": null,
+    "salary_min": null,
+    "salary_period": "",
+    "salary_text": "",
+    "source": "workday",
+    "source_updated_at": "",
+    "sponsorship_evidence": ""
+  },
+  "workday:NVIDIA:/job/US-CA-Santa-Clara/Director--Carline-Program-Management---Autonomous-Vehicles_JR2020452": {
+    "company": "NVIDIA",
+    "enriched_at": "2026-08-30T05:23:27.598385+00:00",
+    "external_id": "/job/US-CA-Santa-Clara/Director--Carline-Program-Management---Autonomous-Vehicles_JR2020452",
+    "h1b_mentioned": false,
+    "h1b_status": "unknown",
+    "keywords": [
+      "machine learning",
+      "artificial intelligence",
+      "Excel",
       "recruiting"
     ],
     "salary_currency": "",
@@ -229892,6 +229987,27 @@
     "source_updated_at": "",
     "sponsorship_evidence": ""
   },
+  "workday:NVIDIA:/job/US-CA-Santa-Clara/Principal-Perception-Engineer--Obstacle-Foundation-Models---Autonomous-Vehicles_JR2020551": {
+    "company": "NVIDIA",
+    "enriched_at": "2026-08-30T05:23:27.590281+00:00",
+    "external_id": "/job/US-CA-Santa-Clara/Principal-Perception-Engineer--Obstacle-Foundation-Models---Autonomous-Vehicles_JR2020551",
+    "h1b_mentioned": false,
+    "h1b_status": "unknown",
+    "keywords": [
+      "Python",
+      "artificial intelligence",
+      "electrical engineering",
+      "recruiting"
+    ],
+    "salary_currency": "",
+    "salary_max": null,
+    "salary_min": null,
+    "salary_period": "",
+    "salary_text": "",
+    "source": "workday",
+    "source_updated_at": "",
+    "sponsorship_evidence": ""
+  },
   "workday:NVIDIA:/job/US-CA-Santa-Clara/Principal-Power-and-Performance-Architect_JR2013000": {
     "company": "NVIDIA",
     "enriched_at": "2026-08-25T18:56:29.869633+00:00",
@@ -229933,6 +230049,25 @@
     "source_updated_at": "",
     "sponsorship_evidence": ""
   },
+  "workday:NVIDIA:/job/US-CA-Santa-Clara/Principal-Product-Manager--Agentic-Workflows----Autonomous-Vehicles_JR2021669": {
+    "company": "NVIDIA",
+    "enriched_at": "2026-08-30T05:23:27.525533+00:00",
+    "external_id": "/job/US-CA-Santa-Clara/Principal-Product-Manager--Agentic-Workflows----Autonomous-Vehicles_JR2021669",
+    "h1b_mentioned": false,
+    "h1b_status": "unknown",
+    "keywords": [
+      "sales",
+      "recruiting"
+    ],
+    "salary_currency": "",
+    "salary_max": null,
+    "salary_min": null,
+    "salary_period": "",
+    "salary_text": "",
+    "source": "workday",
+    "source_updated_at": "",
+    "sponsorship_evidence": ""
+  },
   "workday:NVIDIA:/job/US-CA-Santa-Clara/Principal-Software-Engineer---CSP-Engagements_JR1998405": {
     "company": "NVIDIA",
     "enriched_at": "2026-08-26T01:57:54.519984+00:00",
@@ -229952,6 +230087,27 @@
     "source_updated_at": "",
     "sponsorship_evidence": ""
   },
+  "workday:NVIDIA:/job/US-CA-Santa-Clara/Principal-Software-Engineer--Vehicle-Dynamics-Simulation---AV_JR2020644-1": {
+    "company": "NVIDIA",
+    "enriched_at": "2026-08-30T05:23:27.583876+00:00",
+    "external_id": "/job/US-CA-Santa-Clara/Principal-Software-Engineer--Vehicle-Dynamics-Simulation---AV_JR2020644-1",
+    "h1b_mentioned": false,
+    "h1b_status": "unknown",
+    "keywords": [
+      "Python",
+      "mechanical engineering",
+      "electrical engineering",
+      "recruiting"
+    ],
+    "salary_currency": "",
+    "salary_max": null,
+    "salary_min": null,
+    "salary_period": "",
+    "salary_text": "",
+    "source": "workday",
+    "source_updated_at": "",
+    "sponsorship_evidence": ""
+  },
   "workday:NVIDIA:/job/US-CA-Santa-Clara/Principal-System-Engineer--Operations_JR2022354": {
     "company": "NVIDIA",
     "enriched_at": "2026-08-29T16:43:00.415885+00:00",
@@ -229959,6 +230115,26 @@
     "h1b_mentioned": false,
     "h1b_status": "unknown",
     "keywords": [
+      "electrical engineering",
+      "recruiting"
+    ],
+    "salary_currency": "",
+    "salary_max": null,
+    "salary_min": null,
+    "salary_period": "",
+    "salary_text": "",
+    "source": "workday",
+    "source_updated_at": "",
+    "sponsorship_evidence": ""
+  },
+  "workday:NVIDIA:/job/US-CA-Santa-Clara/Principal-System-Software-Engineer---AV-Platform_JR2018839": {
+    "company": "NVIDIA",
+    "enriched_at": "2026-08-30T05:23:27.614971+00:00",
+    "external_id": "/job/US-CA-Santa-Clara/Principal-System-Software-Engineer---AV-Platform_JR2018839",
+    "h1b_mentioned": false,
+    "h1b_status": "unknown",
+    "keywords": [
+      "Python",
       "electrical engineering",
       "recruiting"
     ],
@@ -230113,6 +230289,25 @@
     "source_updated_at": "",
     "sponsorship_evidence": ""
   },
+  "workday:NVIDIA:/job/US-CA-Santa-Clara/Production-Manager--Maps---Autonomous-Vehicles_JR2020939-1": {
+    "company": "NVIDIA",
+    "enriched_at": "2026-08-30T05:23:27.576055+00:00",
+    "external_id": "/job/US-CA-Santa-Clara/Production-Manager--Maps---Autonomous-Vehicles_JR2020939-1",
+    "h1b_mentioned": false,
+    "h1b_status": "unknown",
+    "keywords": [
+      "artificial intelligence",
+      "recruiting"
+    ],
+    "salary_currency": "",
+    "salary_max": null,
+    "salary_min": null,
+    "salary_period": "",
+    "salary_text": "",
+    "source": "workday",
+    "source_updated_at": "",
+    "sponsorship_evidence": ""
+  },
   "workday:NVIDIA:/job/US-CA-Santa-Clara/Relational-Foundation-Model-Engineer--Modern-Data-Stack_JR2023468": {
     "company": "NVIDIA",
     "enriched_at": "2026-08-18T01:50:22.844893+00:00",
@@ -230182,6 +230377,26 @@
     "keywords": [
       "Python",
       "machine learning",
+      "recruiting"
+    ],
+    "salary_currency": "",
+    "salary_max": null,
+    "salary_min": null,
+    "salary_period": "",
+    "salary_text": "",
+    "source": "workday",
+    "source_updated_at": "",
+    "sponsorship_evidence": ""
+  },
+  "workday:NVIDIA:/job/US-CA-Santa-Clara/Senior-AI-Architect--Foundation-Models-and-SoC-Co-Design---Autonomous-Vehicles_JR2018387": {
+    "company": "NVIDIA",
+    "enriched_at": "2026-08-30T05:23:27.626041+00:00",
+    "external_id": "/job/US-CA-Santa-Clara/Senior-AI-Architect--Foundation-Models-and-SoC-Co-Design---Autonomous-Vehicles_JR2018387",
+    "h1b_mentioned": false,
+    "h1b_status": "unknown",
+    "keywords": [
+      "machine learning",
+      "electrical engineering",
       "recruiting"
     ],
     "salary_currency": "",
@@ -230866,6 +231081,26 @@
     "source_updated_at": "",
     "sponsorship_evidence": ""
   },
+  "workday:NVIDIA:/job/US-CA-Santa-Clara/Senior-Embedded-Software-Engineer---AV-Platform_JR2016466-1": {
+    "company": "NVIDIA",
+    "enriched_at": "2026-08-30T05:23:27.661466+00:00",
+    "external_id": "/job/US-CA-Santa-Clara/Senior-Embedded-Software-Engineer---AV-Platform_JR2016466-1",
+    "h1b_mentioned": false,
+    "h1b_status": "unknown",
+    "keywords": [
+      "Python",
+      "electrical engineering",
+      "recruiting"
+    ],
+    "salary_currency": "",
+    "salary_max": null,
+    "salary_min": null,
+    "salary_period": "",
+    "salary_text": "",
+    "source": "workday",
+    "source_updated_at": "",
+    "sponsorship_evidence": ""
+  },
   "workday:NVIDIA:/job/US-CA-Santa-Clara/Senior-Events-Manager--Flagship-Events_JR2024031": {
     "company": "NVIDIA",
     "enriched_at": "2026-08-25T01:51:56.936572+00:00",
@@ -231338,6 +231573,25 @@
     "source_updated_at": "",
     "sponsorship_evidence": ""
   },
+  "workday:NVIDIA:/job/US-CA-Santa-Clara/Senior-Map-Data-Validation-Lead---Autonomous-Vehicles_JR2022362": {
+    "company": "NVIDIA",
+    "enriched_at": "2026-08-30T05:23:27.498643+00:00",
+    "external_id": "/job/US-CA-Santa-Clara/Senior-Map-Data-Validation-Lead---Autonomous-Vehicles_JR2022362",
+    "h1b_mentioned": false,
+    "h1b_status": "unknown",
+    "keywords": [
+      "artificial intelligence",
+      "recruiting"
+    ],
+    "salary_currency": "",
+    "salary_max": null,
+    "salary_min": null,
+    "salary_period": "",
+    "salary_text": "",
+    "source": "workday",
+    "source_updated_at": "",
+    "sponsorship_evidence": ""
+  },
   "workday:NVIDIA:/job/US-CA-Santa-Clara/Senior-Memory-Post-Silicon-Qualification-Engineer_JR2021467": {
     "company": "NVIDIA",
     "enriched_at": "2026-08-25T18:56:29.827916+00:00",
@@ -231406,6 +231660,26 @@
     "h1b_status": "unknown",
     "keywords": [
       "mechanical engineering",
+      "recruiting"
+    ],
+    "salary_currency": "",
+    "salary_max": null,
+    "salary_min": null,
+    "salary_period": "",
+    "salary_text": "",
+    "source": "workday",
+    "source_updated_at": "",
+    "sponsorship_evidence": ""
+  },
+  "workday:NVIDIA:/job/US-CA-Santa-Clara/Senior-Perception-Engineer--Obstacle-Foundation-Models---Autonomous-Vehicles_JR2021078": {
+    "company": "NVIDIA",
+    "enriched_at": "2026-08-30T05:23:27.559370+00:00",
+    "external_id": "/job/US-CA-Santa-Clara/Senior-Perception-Engineer--Obstacle-Foundation-Models---Autonomous-Vehicles_JR2021078",
+    "h1b_mentioned": false,
+    "h1b_status": "unknown",
+    "keywords": [
+      "Python",
+      "artificial intelligence",
       "recruiting"
     ],
     "salary_currency": "",
@@ -231702,6 +231976,27 @@
     "source_updated_at": "",
     "sponsorship_evidence": ""
   },
+  "workday:NVIDIA:/job/US-CA-Santa-Clara/Senior-Radar-Perception-Engineer--Obstacle-Foundation-Models---Autonomous-Vehicles_JR2021077": {
+    "company": "NVIDIA",
+    "enriched_at": "2026-08-30T05:23:27.567021+00:00",
+    "external_id": "/job/US-CA-Santa-Clara/Senior-Radar-Perception-Engineer--Obstacle-Foundation-Models---Autonomous-Vehicles_JR2021077",
+    "h1b_mentioned": false,
+    "h1b_status": "unknown",
+    "keywords": [
+      "Python",
+      "artificial intelligence",
+      "electrical engineering",
+      "recruiting"
+    ],
+    "salary_currency": "",
+    "salary_max": null,
+    "salary_min": null,
+    "salary_period": "",
+    "salary_text": "",
+    "source": "workday",
+    "source_updated_at": "",
+    "sponsorship_evidence": ""
+  },
   "workday:NVIDIA:/job/US-CA-Santa-Clara/Senior-Reliability-Engineer_JR2018518": {
     "company": "NVIDIA",
     "enriched_at": "2026-08-17T13:05:14.340172+00:00",
@@ -231770,6 +232065,26 @@
     "h1b_status": "unknown",
     "keywords": [
       "logistics",
+      "recruiting"
+    ],
+    "salary_currency": "",
+    "salary_max": null,
+    "salary_min": null,
+    "salary_period": "",
+    "salary_text": "",
+    "source": "workday",
+    "source_updated_at": "",
+    "sponsorship_evidence": ""
+  },
+  "workday:NVIDIA:/job/US-CA-Santa-Clara/Senior-Security-Software-Engineer---AV-Platform_JR2021254": {
+    "company": "NVIDIA",
+    "enriched_at": "2026-08-30T05:23:27.548705+00:00",
+    "external_id": "/job/US-CA-Santa-Clara/Senior-Security-Software-Engineer---AV-Platform_JR2021254",
+    "h1b_mentioned": false,
+    "h1b_status": "unknown",
+    "keywords": [
+      "Python",
+      "electrical engineering",
       "recruiting"
     ],
     "salary_currency": "",
@@ -232011,6 +232326,46 @@
     "source_updated_at": "",
     "sponsorship_evidence": ""
   },
+  "workday:NVIDIA:/job/US-CA-Santa-Clara/Senior-Software-Engineer---Autonomous-Driving_JR2019388": {
+    "company": "NVIDIA",
+    "enriched_at": "2026-08-30T05:23:27.609435+00:00",
+    "external_id": "/job/US-CA-Santa-Clara/Senior-Software-Engineer---Autonomous-Driving_JR2019388",
+    "h1b_mentioned": false,
+    "h1b_status": "unknown",
+    "keywords": [
+      "Python",
+      "electrical engineering",
+      "recruiting"
+    ],
+    "salary_currency": "",
+    "salary_max": null,
+    "salary_min": null,
+    "salary_period": "",
+    "salary_text": "",
+    "source": "workday",
+    "source_updated_at": "",
+    "sponsorship_evidence": ""
+  },
+  "workday:NVIDIA:/job/US-CA-Santa-Clara/Senior-Software-Engineer---Autonomous-Vehicles_JR2014431": {
+    "company": "NVIDIA",
+    "enriched_at": "2026-08-30T05:23:27.672968+00:00",
+    "external_id": "/job/US-CA-Santa-Clara/Senior-Software-Engineer---Autonomous-Vehicles_JR2014431",
+    "h1b_mentioned": false,
+    "h1b_status": "unknown",
+    "keywords": [
+      "machine learning",
+      "electrical engineering",
+      "recruiting"
+    ],
+    "salary_currency": "",
+    "salary_max": null,
+    "salary_min": null,
+    "salary_period": "",
+    "salary_text": "",
+    "source": "workday",
+    "source_updated_at": "",
+    "sponsorship_evidence": ""
+  },
   "workday:NVIDIA:/job/US-CA-Santa-Clara/Senior-Software-Engineer---Platform-Engineering_JR2023241": {
     "company": "NVIDIA",
     "enriched_at": "2026-08-18T01:50:22.789347+00:00",
@@ -232196,6 +232551,24 @@
     "source_updated_at": "",
     "sponsorship_evidence": ""
   },
+  "workday:NVIDIA:/job/US-CA-Santa-Clara/Senior-Software-Engineer--L4---Autonomous-Vehicles_JR2021766-1": {
+    "company": "NVIDIA",
+    "enriched_at": "2026-08-30T05:23:27.519405+00:00",
+    "external_id": "/job/US-CA-Santa-Clara/Senior-Software-Engineer--L4---Autonomous-Vehicles_JR2021766-1",
+    "h1b_mentioned": false,
+    "h1b_status": "unknown",
+    "keywords": [
+      "recruiting"
+    ],
+    "salary_currency": "",
+    "salary_max": null,
+    "salary_min": null,
+    "salary_period": "",
+    "salary_text": "",
+    "source": "workday",
+    "source_updated_at": "",
+    "sponsorship_evidence": ""
+  },
   "workday:NVIDIA:/job/US-CA-Santa-Clara/Senior-Software-Engineer--Low-Latency-Physical-AI-Sensor-Systems_JR2020665": {
     "company": "NVIDIA",
     "enriched_at": "2026-08-25T01:51:57.015874+00:00",
@@ -232284,6 +232657,50 @@
     "h1b_status": "unknown",
     "keywords": [
       "Python",
+      "electrical engineering",
+      "recruiting"
+    ],
+    "salary_currency": "",
+    "salary_max": null,
+    "salary_min": null,
+    "salary_period": "",
+    "salary_text": "",
+    "source": "workday",
+    "source_updated_at": "",
+    "sponsorship_evidence": ""
+  },
+  "workday:NVIDIA:/job/US-CA-Santa-Clara/Senior-Software-Engineer--World-Model-Systems-Engineering---Autonomous-Vehicles_JR2020021": {
+    "company": "NVIDIA",
+    "enriched_at": "2026-08-30T05:23:27.603740+00:00",
+    "external_id": "/job/US-CA-Santa-Clara/Senior-Software-Engineer--World-Model-Systems-Engineering---Autonomous-Vehicles_JR2020021",
+    "h1b_mentioned": false,
+    "h1b_status": "unknown",
+    "keywords": [
+      "Python",
+      "SQL",
+      "machine learning",
+      "data science",
+      "analytics",
+      "recruiting",
+      "compliance"
+    ],
+    "salary_currency": "",
+    "salary_max": null,
+    "salary_min": null,
+    "salary_period": "",
+    "salary_text": "",
+    "source": "workday",
+    "source_updated_at": "",
+    "sponsorship_evidence": ""
+  },
+  "workday:NVIDIA:/job/US-CA-Santa-Clara/Senior-Software-Performance-Engineer---AV-Platform_JR2016777": {
+    "company": "NVIDIA",
+    "enriched_at": "2026-08-30T05:23:27.645419+00:00",
+    "external_id": "/job/US-CA-Santa-Clara/Senior-Software-Performance-Engineer---AV-Platform_JR2016777",
+    "h1b_mentioned": false,
+    "h1b_status": "unknown",
+    "keywords": [
+      "machine learning",
       "electrical engineering",
       "recruiting"
     ],
@@ -232588,6 +233005,122 @@
     "source_updated_at": "",
     "sponsorship_evidence": ""
   },
+  "workday:NVIDIA:/job/US-CA-Santa-Clara/Senior-System-Software-Engineer---AV-Platform_JR2016558": {
+    "company": "NVIDIA",
+    "enriched_at": "2026-08-30T05:23:27.650962+00:00",
+    "external_id": "/job/US-CA-Santa-Clara/Senior-System-Software-Engineer---AV-Platform_JR2016558",
+    "h1b_mentioned": false,
+    "h1b_status": "unknown",
+    "keywords": [
+      "Python",
+      "Docker",
+      "electrical engineering",
+      "recruiting",
+      "compliance"
+    ],
+    "salary_currency": "",
+    "salary_max": null,
+    "salary_min": null,
+    "salary_period": "",
+    "salary_text": "",
+    "source": "workday",
+    "source_updated_at": "",
+    "sponsorship_evidence": ""
+  },
+  "workday:NVIDIA:/job/US-CA-Santa-Clara/Senior-System-Software-Engineer---AV-Platform_JR2017457": {
+    "company": "NVIDIA",
+    "enriched_at": "2026-08-30T05:23:27.633113+00:00",
+    "external_id": "/job/US-CA-Santa-Clara/Senior-System-Software-Engineer---AV-Platform_JR2017457",
+    "h1b_mentioned": false,
+    "h1b_status": "unknown",
+    "keywords": [
+      "Python",
+      "electrical engineering",
+      "recruiting"
+    ],
+    "salary_currency": "",
+    "salary_max": null,
+    "salary_min": null,
+    "salary_period": "",
+    "salary_text": "",
+    "source": "workday",
+    "source_updated_at": "",
+    "sponsorship_evidence": ""
+  },
+  "workday:NVIDIA:/job/US-CA-Santa-Clara/Senior-System-Software-Engineer---AV-Platform_JR2021102": {
+    "company": "NVIDIA",
+    "enriched_at": "2026-08-30T05:23:27.553991+00:00",
+    "external_id": "/job/US-CA-Santa-Clara/Senior-System-Software-Engineer---AV-Platform_JR2021102",
+    "h1b_mentioned": false,
+    "h1b_status": "unknown",
+    "keywords": [
+      "recruiting"
+    ],
+    "salary_currency": "",
+    "salary_max": null,
+    "salary_min": null,
+    "salary_period": "",
+    "salary_text": "",
+    "source": "workday",
+    "source_updated_at": "",
+    "sponsorship_evidence": ""
+  },
+  "workday:NVIDIA:/job/US-CA-Santa-Clara/Senior-System-Software-Engineer---AV-Platform_JR2021284": {
+    "company": "NVIDIA",
+    "enriched_at": "2026-08-30T05:23:27.543921+00:00",
+    "external_id": "/job/US-CA-Santa-Clara/Senior-System-Software-Engineer---AV-Platform_JR2021284",
+    "h1b_mentioned": false,
+    "h1b_status": "unknown",
+    "keywords": [
+      "recruiting"
+    ],
+    "salary_currency": "",
+    "salary_max": null,
+    "salary_min": null,
+    "salary_period": "",
+    "salary_text": "",
+    "source": "workday",
+    "source_updated_at": "",
+    "sponsorship_evidence": ""
+  },
+  "workday:NVIDIA:/job/US-CA-Santa-Clara/Senior-System-Software-Engineer---AV-Platform_JR2021287": {
+    "company": "NVIDIA",
+    "enriched_at": "2026-08-30T05:23:27.532787+00:00",
+    "external_id": "/job/US-CA-Santa-Clara/Senior-System-Software-Engineer---AV-Platform_JR2021287",
+    "h1b_mentioned": false,
+    "h1b_status": "unknown",
+    "keywords": [
+      "Python",
+      "electrical engineering",
+      "recruiting"
+    ],
+    "salary_currency": "",
+    "salary_max": null,
+    "salary_min": null,
+    "salary_period": "",
+    "salary_text": "",
+    "source": "workday",
+    "source_updated_at": "",
+    "sponsorship_evidence": ""
+  },
+  "workday:NVIDIA:/job/US-CA-Santa-Clara/Senior-System-Software-Engineer---Autonomous-Vehicles_JR2016469": {
+    "company": "NVIDIA",
+    "enriched_at": "2026-08-30T05:23:27.656336+00:00",
+    "external_id": "/job/US-CA-Santa-Clara/Senior-System-Software-Engineer---Autonomous-Vehicles_JR2016469",
+    "h1b_mentioned": false,
+    "h1b_status": "unknown",
+    "keywords": [
+      "recruiting"
+    ],
+    "salary_currency": "",
+    "salary_max": null,
+    "salary_min": null,
+    "salary_period": "",
+    "salary_text": "",
+    "source": "workday",
+    "source_updated_at": "",
+    "sponsorship_evidence": ""
+  },
   "workday:NVIDIA:/job/US-CA-Santa-Clara/Senior-System-Software-Engineer--Platform-and-Performance---GeForce-Now_JR2022872": {
     "company": "NVIDIA",
     "enriched_at": "2026-08-17T07:15:29.906670+00:00",
@@ -232707,6 +233240,24 @@
     "source_updated_at": "",
     "sponsorship_evidence": ""
   },
+  "workday:NVIDIA:/job/US-CA-Santa-Clara/Senior-Systems-Software-Engineer---Autonomous-Vehicles-Platform_JR2018686": {
+    "company": "NVIDIA",
+    "enriched_at": "2026-08-30T05:23:27.621079+00:00",
+    "external_id": "/job/US-CA-Santa-Clara/Senior-Systems-Software-Engineer---Autonomous-Vehicles-Platform_JR2018686",
+    "h1b_mentioned": false,
+    "h1b_status": "unknown",
+    "keywords": [
+      "recruiting"
+    ],
+    "salary_currency": "",
+    "salary_max": null,
+    "salary_min": null,
+    "salary_period": "",
+    "salary_text": "",
+    "source": "workday",
+    "source_updated_at": "",
+    "sponsorship_evidence": ""
+  },
   "workday:NVIDIA:/job/US-CA-Santa-Clara/Senior-Systems-Software-Engineer---Autonomous-Vehicles_JR2015666": {
     "company": "NVIDIA",
     "enriched_at": "2026-08-24T18:58:27.949415+00:00",
@@ -232714,6 +233265,25 @@
     "h1b_mentioned": false,
     "h1b_status": "unknown",
     "keywords": [
+      "recruiting"
+    ],
+    "salary_currency": "",
+    "salary_max": null,
+    "salary_min": null,
+    "salary_period": "",
+    "salary_text": "",
+    "source": "workday",
+    "source_updated_at": "",
+    "sponsorship_evidence": ""
+  },
+  "workday:NVIDIA:/job/US-CA-Santa-Clara/Senior-Systems-Software-Engineer---Autonomous-Vehicles_JR2021504": {
+    "company": "NVIDIA",
+    "enriched_at": "2026-08-30T05:23:27.538007+00:00",
+    "external_id": "/job/US-CA-Santa-Clara/Senior-Systems-Software-Engineer---Autonomous-Vehicles_JR2021504",
+    "h1b_mentioned": false,
+    "h1b_status": "unknown",
+    "keywords": [
+      "Python",
       "recruiting"
     ],
     "salary_currency": "",
@@ -232807,6 +233377,48 @@
     "source_updated_at": "",
     "sponsorship_evidence": ""
   },
+  "workday:NVIDIA:/job/US-CA-Santa-Clara/Senior-Technical-Program-Manager---Autonomous-Vehicles_JR2014870": {
+    "company": "NVIDIA",
+    "enriched_at": "2026-08-30T05:23:27.667801+00:00",
+    "external_id": "/job/US-CA-Santa-Clara/Senior-Technical-Program-Manager---Autonomous-Vehicles_JR2014870",
+    "h1b_mentioned": false,
+    "h1b_status": "unknown",
+    "keywords": [
+      "machine learning",
+      "artificial intelligence",
+      "electrical engineering",
+      "recruiting"
+    ],
+    "salary_currency": "",
+    "salary_max": null,
+    "salary_min": null,
+    "salary_period": "",
+    "salary_text": "",
+    "source": "workday",
+    "source_updated_at": "",
+    "sponsorship_evidence": ""
+  },
+  "workday:NVIDIA:/job/US-CA-Santa-Clara/Senior-Technical-Program-Manager---Autonomous-Vehicles_JR2021782": {
+    "company": "NVIDIA",
+    "enriched_at": "2026-08-30T05:23:27.514321+00:00",
+    "external_id": "/job/US-CA-Santa-Clara/Senior-Technical-Program-Manager---Autonomous-Vehicles_JR2021782",
+    "h1b_mentioned": false,
+    "h1b_status": "unknown",
+    "keywords": [
+      "machine learning",
+      "artificial intelligence",
+      "electrical engineering",
+      "recruiting"
+    ],
+    "salary_currency": "",
+    "salary_max": null,
+    "salary_min": null,
+    "salary_period": "",
+    "salary_text": "",
+    "source": "workday",
+    "source_updated_at": "",
+    "sponsorship_evidence": ""
+  },
   "workday:NVIDIA:/job/US-CA-Santa-Clara/Senior-Technical-Program-Manager---Humanoid-Robotics-Operations_JR2023661": {
     "company": "NVIDIA",
     "enriched_at": "2026-08-19T07:04:57.300085+00:00",
@@ -232855,6 +233467,25 @@
     "h1b_mentioned": false,
     "h1b_status": "unknown",
     "keywords": [
+      "recruiting"
+    ],
+    "salary_currency": "",
+    "salary_max": null,
+    "salary_min": null,
+    "salary_period": "",
+    "salary_text": "",
+    "source": "workday",
+    "source_updated_at": "",
+    "sponsorship_evidence": ""
+  },
+  "workday:NVIDIA:/job/US-CA-Santa-Clara/Senior-Technical-Program-Manager--AV-System-Integration_JR2022392": {
+    "company": "NVIDIA",
+    "enriched_at": "2026-08-30T05:23:27.503005+00:00",
+    "external_id": "/job/US-CA-Santa-Clara/Senior-Technical-Program-Manager--AV-System-Integration_JR2022392",
+    "h1b_mentioned": false,
+    "h1b_status": "unknown",
+    "keywords": [
+      "artificial intelligence",
       "recruiting"
     ],
     "salary_currency": "",
@@ -238104,6 +238735,26 @@
     "source_updated_at": "",
     "sponsorship_evidence": ""
   },
+  "workday:Northrop Grumman:/job/United-States-Alabama-Huntsville/Electrical-Engineer---Level-2-or-3--AHT-_R10248210": {
+    "company": "Northrop Grumman",
+    "enriched_at": "2026-08-30T05:25:10.367023+00:00",
+    "external_id": "/job/United-States-Alabama-Huntsville/Electrical-Engineer---Level-2-or-3--AHT-_R10248210",
+    "h1b_mentioned": false,
+    "h1b_status": "unknown",
+    "keywords": [
+      "electrical engineering",
+      "CAD",
+      "SolidWorks"
+    ],
+    "salary_currency": "",
+    "salary_max": null,
+    "salary_min": null,
+    "salary_period": "",
+    "salary_text": "",
+    "source": "workday",
+    "source_updated_at": "",
+    "sponsorship_evidence": ""
+  },
   "workday:Northrop Grumman:/job/United-States-Alabama-Huntsville/Electrical-Engineer---Level-2_R10237174-1": {
     "company": "Northrop Grumman",
     "enriched_at": "2026-08-29T16:46:25.839062+00:00",
@@ -240252,6 +240903,22 @@
       "Java",
       "JavaScript"
     ],
+    "salary_currency": "",
+    "salary_max": null,
+    "salary_min": null,
+    "salary_period": "",
+    "salary_text": "",
+    "source": "workday",
+    "source_updated_at": "",
+    "sponsorship_evidence": ""
+  },
+  "workday:Northrop Grumman:/job/United-States-Alabama-Huntsville/Systems-Engineer---Level-3-or-4---AHT-_R10248173": {
+    "company": "Northrop Grumman",
+    "enriched_at": "2026-08-30T05:25:10.356805+00:00",
+    "external_id": "/job/United-States-Alabama-Huntsville/Systems-Engineer---Level-3-or-4---AHT-_R10248173",
+    "h1b_mentioned": false,
+    "h1b_status": "unknown",
+    "keywords": [],
     "salary_currency": "",
     "salary_max": null,
     "salary_min": null,
@@ -355290,6 +355957,27 @@
     "source_updated_at": "",
     "sponsorship_evidence": ""
   },
+  "workday:RTX:/job/US-AZ-TUCSON-M13--3601-E-Britannia-Dr--BRITANNIA-M13/Manager--Contracts--Onsite-_01870801": {
+    "company": "RTX",
+    "enriched_at": "2026-08-30T05:28:30.768666+00:00",
+    "external_id": "/job/US-AZ-TUCSON-M13--3601-E-Britannia-Dr--BRITANNIA-M13/Manager--Contracts--Onsite-_01870801",
+    "h1b_mentioned": false,
+    "h1b_status": "unknown",
+    "keywords": [
+      "supply chain",
+      "procurement",
+      "compliance",
+      "contracts"
+    ],
+    "salary_currency": "",
+    "salary_max": null,
+    "salary_min": null,
+    "salary_period": "",
+    "salary_text": "",
+    "source": "workday",
+    "source_updated_at": "",
+    "sponsorship_evidence": ""
+  },
   "workday:RTX:/job/US-AZ-TUCSON-M13--3601-E-Britannia-Dr--BRITANNIA-M13/Principal-System-Software-Integrator_01870955-1": {
     "company": "RTX",
     "enriched_at": "2026-08-28T22:25:20.269171+00:00",
@@ -425950,6 +426638,26 @@
     "source_updated_at": "",
     "sponsorship_evidence": ""
   },
+  "workday:S&P Global:/job/New-York-NY/Technical-Producer_331354-1": {
+    "company": "S&P Global",
+    "enriched_at": "2026-08-30T05:26:12.161631+00:00",
+    "external_id": "/job/New-York-NY/Technical-Producer_331354-1",
+    "h1b_mentioned": false,
+    "h1b_status": "unknown",
+    "keywords": [
+      "supply chain",
+      "logistics",
+      "compliance"
+    ],
+    "salary_currency": "",
+    "salary_max": null,
+    "salary_min": null,
+    "salary_period": "",
+    "salary_text": "",
+    "source": "workday",
+    "source_updated_at": "",
+    "sponsorship_evidence": ""
+  },
   "workday:S&P Global:/job/New-York-NY/Vice-President--Program-Lead---Agentic-Software---Product-Development-Life-Cycle--ATOM-_331044": {
     "company": "S&P Global",
     "enriched_at": "2026-08-23T07:03:53.352414+00:00",
@@ -436178,7 +436886,7 @@
   },
   "workday:Thermo Fisher Scientific:/job/Carlsbad-California-USA/Sr-Inventory-Management-Specialist_R-01364750": {
     "company": "Thermo Fisher Scientific",
-    "enriched_at": "2026-08-23T02:05:43.633435+00:00",
+    "enriched_at": "2026-08-30T05:34:08.355049+00:00",
     "external_id": "/job/Carlsbad-California-USA/Sr-Inventory-Management-Specialist_R-01364750",
     "h1b_mentioned": false,
     "h1b_status": "unknown",
@@ -443504,7 +444212,7 @@
   },
   "workday:Thermo Fisher Scientific:/job/Madison-Wisconsin-USA/Sr-Staff-Program-Manager_R-01364521": {
     "company": "Thermo Fisher Scientific",
-    "enriched_at": "2026-08-23T02:05:43.661004+00:00",
+    "enriched_at": "2026-08-30T05:34:08.376229+00:00",
     "external_id": "/job/Madison-Wisconsin-USA/Sr-Staff-Program-Manager_R-01364521",
     "h1b_mentioned": false,
     "h1b_status": "unknown",
@@ -450298,7 +451006,7 @@
   },
   "workday:Thermo Fisher Scientific:/job/Remote-Oregon-USA/Staff-Scientist--Cell-Biology-_R-01361264": {
     "company": "Thermo Fisher Scientific",
-    "enriched_at": "2026-08-23T02:05:43.671785+00:00",
+    "enriched_at": "2026-08-30T05:34:08.383921+00:00",
     "external_id": "/job/Remote-Oregon-USA/Staff-Scientist--Cell-Biology-_R-01361264",
     "h1b_mentioned": false,
     "h1b_status": "unknown",
@@ -452656,7 +453364,7 @@
   },
   "workday:Thermo Fisher Scientific:/job/San-Jose-California-USA/Sr-Manager--Electrical-Engineering_R-01363744": {
     "company": "Thermo Fisher Scientific",
-    "enriched_at": "2026-08-23T02:05:43.651488+00:00",
+    "enriched_at": "2026-08-30T05:34:08.369338+00:00",
     "external_id": "/job/San-Jose-California-USA/Sr-Manager--Electrical-Engineering_R-01363744",
     "h1b_mentioned": false,
     "h1b_status": "unknown",

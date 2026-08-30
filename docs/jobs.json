@@ -456,29 +456,6 @@
   {
     "company": "Coupang",
     "title": "Senior Staff Backend Engineer - Cloud Infrastructure",
-    "location": "Seattle, USA",
-    "employment_type": "full-time",
-    "category": "Software & IT",
-    "salary": "$174k/yr",
-    "salary_min": 174000.0,
-    "keywords": [
-      "Python",
-      "AWS",
-      "Azure",
-      "GCP",
-      "Docker",
-      "Kubernetes",
-      "Terraform",
-      "tax"
-    ],
-    "sponsorship_evidence": "",
-    "h1b_status": "unknown",
-    "sponsorship_label": "Not specified",
-    "url": "https://www.coupang.jobs/en/jobs/?gh_jid=7438944"
-  },
-  {
-    "company": "Coupang",
-    "title": "Senior Staff Backend Engineer - Cloud Infrastructure",
     "location": "Mountain View, USA",
     "employment_type": "full-time",
     "category": "Software & IT",
@@ -501,24 +478,26 @@
   },
   {
     "company": "Coupang",
-    "title": "Senior Staff Backend Engineer (Pricing)",
-    "location": "Mountain View, USA",
+    "title": "Senior Staff Backend Engineer - Cloud Infrastructure",
+    "location": "Seattle, USA",
     "employment_type": "full-time",
     "category": "Software & IT",
     "salary": "$174k/yr",
     "salary_min": 174000.0,
     "keywords": [
-      "Java",
+      "Python",
       "AWS",
+      "Azure",
+      "GCP",
       "Docker",
       "Kubernetes",
-      "tax",
-      "recruiting"
+      "Terraform",
+      "tax"
     ],
     "sponsorship_evidence": "",
     "h1b_status": "unknown",
     "sponsorship_label": "Not specified",
-    "url": "https://www.coupang.jobs/en/jobs/?gh_jid=8123934"
+    "url": "https://www.coupang.jobs/en/jobs/?gh_jid=7438944"
   },
   {
     "company": "Coupang",
@@ -540,6 +519,27 @@
     "h1b_status": "unknown",
     "sponsorship_label": "Not specified",
     "url": "https://www.coupang.jobs/en/jobs/?gh_jid=8120779"
+  },
+  {
+    "company": "Coupang",
+    "title": "Senior Staff Backend Engineer (Pricing)",
+    "location": "Mountain View, USA",
+    "employment_type": "full-time",
+    "category": "Software & IT",
+    "salary": "$174k/yr",
+    "salary_min": 174000.0,
+    "keywords": [
+      "Java",
+      "AWS",
+      "Docker",
+      "Kubernetes",
+      "tax",
+      "recruiting"
+    ],
+    "sponsorship_evidence": "",
+    "h1b_status": "unknown",
+    "sponsorship_label": "Not specified",
+    "url": "https://www.coupang.jobs/en/jobs/?gh_jid=8123934"
   },
   {
     "company": "Coupang",
@@ -15397,229 +15397,7 @@
   },
   {
     "company": "NVIDIA",
-    "title": "Characterization Product Development Engineer",
-    "location": "US, CA, Santa Clara",
-    "employment_type": "full-time",
-    "category": "Other",
-    "salary": "Not disclosed",
-    "salary_min": null,
-    "keywords": [
-      "Python",
-      "electrical engineering",
-      "recruiting"
-    ],
-    "sponsorship_evidence": "",
-    "h1b_status": "unknown",
-    "sponsorship_label": "Not specified",
-    "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Characterization-Product-Development-Engineer_JR2021756"
-  },
-  {
-    "company": "NVIDIA",
-    "title": "Senior Commodity Manager - PCB",
-    "location": "US, CA, Santa Clara",
-    "employment_type": "full-time",
-    "category": "Other",
-    "salary": "Not disclosed",
-    "salary_min": null,
-    "keywords": [
-      "analytics",
-      "risk management",
-      "supply chain",
-      "recruiting"
-    ],
-    "sponsorship_evidence": "",
-    "h1b_status": "unknown",
-    "sponsorship_label": "Not specified",
-    "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Commodity-Manager---PCB_JR2023077"
-  },
-  {
-    "company": "NVIDIA",
-    "title": "ATE Test Engineer",
-    "location": "US, CA, Santa Clara",
-    "employment_type": "full-time",
-    "category": "Other",
-    "salary": "Not disclosed",
-    "salary_min": null,
-    "keywords": [
-      "Python",
-      "electrical engineering",
-      "recruiting"
-    ],
-    "sponsorship_evidence": "",
-    "h1b_status": "unknown",
-    "sponsorship_label": "Not specified",
-    "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/ATE-Test-Engineer_JR2021950"
-  },
-  {
-    "company": "NVIDIA",
-    "title": "Senior Product Quality Engineer, Board \u2013 Automotive",
-    "location": "US, CA, Santa Clara",
-    "employment_type": "full-time",
-    "category": "Engineering",
-    "salary": "Not disclosed",
-    "salary_min": null,
-    "keywords": [
-      "artificial intelligence",
-      "electrical engineering",
-      "recruiting"
-    ],
-    "sponsorship_evidence": "",
-    "h1b_status": "unknown",
-    "sponsorship_label": "Not specified",
-    "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Product-Quality-Engineer--Board---Automotive_JR2021690"
-  },
-  {
-    "company": "NVIDIA",
-    "title": "Senior Services Supply Chain Inventory Management and Control Engineer",
-    "location": "US, CA, Santa Clara",
-    "employment_type": "full-time",
-    "category": "Operations & Supply Chain",
-    "salary": "Not disclosed",
-    "salary_min": null,
-    "keywords": [
-      "Python",
-      "SQL",
-      "analytics",
-      "Excel",
-      "accounting",
-      "audit",
-      "supply chain",
-      "logistics"
-    ],
-    "sponsorship_evidence": "",
-    "h1b_status": "unknown",
-    "sponsorship_label": "Not specified",
-    "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Services-Supply-Chain-Inventory-Management-and-Control-Engineer_JR2021477"
-  },
-  {
-    "company": "NVIDIA",
-    "title": "Senior Hardware Product Quality Manager, PQM",
-    "location": "US, CA, Santa Clara",
-    "employment_type": "full-time",
-    "category": "Other",
-    "salary": "Not disclosed",
-    "salary_min": null,
-    "keywords": [
-      "electrical engineering",
-      "recruiting"
-    ],
-    "sponsorship_evidence": "",
-    "h1b_status": "unknown",
-    "sponsorship_label": "Not specified",
-    "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Hardware-Product-Quality-Manager--PQM_JR2022611"
-  },
-  {
-    "company": "NVIDIA",
-    "title": "Test Methodology Engineer",
-    "location": "US, CA, Santa Clara",
-    "employment_type": "full-time",
-    "category": "Other",
-    "salary": "Not disclosed",
-    "salary_min": null,
-    "keywords": [
-      "Python",
-      "Java",
-      "electrical engineering",
-      "recruiting"
-    ],
-    "sponsorship_evidence": "",
-    "h1b_status": "unknown",
-    "sponsorship_label": "Not specified",
-    "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Test-Methodology-Engineer_JR2022767"
-  },
-  {
-    "company": "NVIDIA",
-    "title": "Manager, Product Development Engineering - HBM",
-    "location": "US, CA, Santa Clara",
-    "employment_type": "full-time",
-    "category": "Other",
-    "salary": "Not disclosed",
-    "salary_min": null,
-    "keywords": [
-      "Python",
-      "electrical engineering",
-      "supply chain",
-      "recruiting"
-    ],
-    "sponsorship_evidence": "",
-    "h1b_status": "unknown",
-    "sponsorship_label": "Not specified",
-    "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Manager--Product-Development-Engineering---HBM_JR2021325"
-  },
-  {
-    "company": "NVIDIA",
-    "title": "Senior Product Development Engineer",
-    "location": "US, CA, Santa Clara",
-    "employment_type": "full-time",
-    "category": "Other",
-    "salary": "Not disclosed",
-    "salary_min": null,
-    "keywords": [
-      "electrical engineering",
-      "recruiting",
-      "contracts"
-    ],
-    "sponsorship_evidence": "",
-    "h1b_status": "unknown",
-    "sponsorship_label": "Not specified",
-    "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Product-Development-Engineer_JR2019271"
-  },
-  {
-    "company": "NVIDIA",
-    "title": "Senior Board Product Development Engineer",
-    "location": "US, CA, Santa Clara",
-    "employment_type": "full-time",
-    "category": "Other",
-    "salary": "Not disclosed",
-    "salary_min": null,
-    "keywords": [
-      "electrical engineering",
-      "recruiting"
-    ],
-    "sponsorship_evidence": "",
-    "h1b_status": "unknown",
-    "sponsorship_label": "Not specified",
-    "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Board-Product-Development-Engineer_JR2022464"
-  },
-  {
-    "company": "NVIDIA",
-    "title": "Senior NPI Program Manager",
-    "location": "US, CA, Santa Clara",
-    "employment_type": "full-time",
-    "category": "Other",
-    "salary": "Not disclosed",
-    "salary_min": null,
-    "keywords": [
-      "mechanical engineering",
-      "supply chain",
-      "procurement",
-      "recruiting"
-    ],
-    "sponsorship_evidence": "",
-    "h1b_status": "unknown",
-    "sponsorship_label": "Not specified",
-    "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-NPI-Program-Manager_JR2021498"
-  },
-  {
-    "company": "NVIDIA",
-    "title": "Principal System Engineer, Operations",
-    "location": "US, CA, Santa Clara",
-    "employment_type": "full-time",
-    "category": "Operations & Supply Chain",
-    "salary": "Not disclosed",
-    "salary_min": null,
-    "keywords": [
-      "electrical engineering",
-      "recruiting"
-    ],
-    "sponsorship_evidence": "",
-    "h1b_status": "unknown",
-    "sponsorship_label": "Not specified",
-    "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Principal-System-Engineer--Operations_JR2022354"
-  },
-  {
-    "company": "NVIDIA",
-    "title": "Product Engineer - Datacenter",
+    "title": "Senior Map Data Validation Lead - Autonomous Vehicles",
     "location": "US, CA, Santa Clara",
     "employment_type": "full-time",
     "category": "Other",
@@ -15627,21 +15405,19 @@
     "salary_min": null,
     "keywords": [
       "artificial intelligence",
-      "analytics",
-      "recruiting",
-      "compliance"
+      "recruiting"
     ],
     "sponsorship_evidence": "",
     "h1b_status": "unknown",
     "sponsorship_label": "Not specified",
-    "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Product-Engineer---Datacenter_JR2023146"
+    "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Map-Data-Validation-Lead---Autonomous-Vehicles_JR2022362"
   },
   {
     "company": "NVIDIA",
-    "title": "Senior Product Quality Engineer, Chip - Automotive",
+    "title": "Senior Technical Program Manager, AV System Integration",
     "location": "US, CA, Santa Clara",
     "employment_type": "full-time",
-    "category": "Engineering",
+    "category": "Other",
     "salary": "Not disclosed",
     "salary_min": null,
     "keywords": [
@@ -15651,142 +15427,29 @@
     "sponsorship_evidence": "",
     "h1b_status": "unknown",
     "sponsorship_label": "Not specified",
-    "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Product-Quality-Engineer--Chip---Automotive_JR2022860"
+    "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Technical-Program-Manager--AV-System-Integration_JR2022392"
   },
   {
     "company": "NVIDIA",
-    "title": "Product Development Engineer -- Post-Si Characterization",
-    "location": "US, CA, Santa Clara",
-    "employment_type": "full-time",
-    "category": "Other",
-    "salary": "Not disclosed",
-    "salary_min": null,
-    "keywords": [
-      "electrical engineering",
-      "recruiting"
-    ],
-    "sponsorship_evidence": "",
-    "h1b_status": "unknown",
-    "sponsorship_label": "Not specified",
-    "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Product-Development-Engineer----Post-Si-Characterization_JR2023281"
-  },
-  {
-    "company": "NVIDIA",
-    "title": "Senior Commodity Manager - PCB",
-    "location": "US, CA, Santa Clara",
-    "employment_type": "full-time",
-    "category": "Other",
-    "salary": "Not disclosed",
-    "salary_min": null,
-    "keywords": [
-      "analytics",
-      "risk management",
-      "supply chain",
-      "recruiting"
-    ],
-    "sponsorship_evidence": "",
-    "h1b_status": "unknown",
-    "sponsorship_label": "Not specified",
-    "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Commodity-Manager---PCB_JR2023078"
-  },
-  {
-    "company": "NVIDIA",
-    "title": "Senior Factory Planner, Repair Operations",
-    "location": "US, CA, Santa Clara",
-    "employment_type": "full-time",
-    "category": "Operations & Supply Chain",
-    "salary": "Not disclosed",
-    "salary_min": null,
-    "keywords": [
-      "supply chain",
-      "logistics",
-      "procurement",
-      "recruiting",
-      "contracts"
-    ],
-    "sponsorship_evidence": "",
-    "h1b_status": "unknown",
-    "sponsorship_label": "Not specified",
-    "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Factory-Planner--Repair-Operations_JR2023348"
-  },
-  {
-    "company": "NVIDIA",
-    "title": "Senior Technical Program Manager, Supply Chain Business Transformation",
-    "location": "US, CA, Santa Clara",
-    "employment_type": "full-time",
-    "category": "Operations & Supply Chain",
-    "salary": "Not disclosed",
-    "salary_min": null,
-    "keywords": [
-      "data science",
-      "analytics",
-      "supply chain",
-      "logistics",
-      "recruiting"
-    ],
-    "sponsorship_evidence": "",
-    "h1b_status": "unknown",
-    "sponsorship_label": "Not specified",
-    "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Technical-Program-Manager--Supply-Chain-Business-Transformation_JR2023862"
-  },
-  {
-    "company": "NVIDIA",
-    "title": "System Level Product Development Engineer",
-    "location": "US, CA, Santa Clara",
+    "title": "Senior Deep Learning Sofware Infrastructure Engineer",
+    "location": "US, CA, Remote",
     "employment_type": "full-time",
     "category": "Other",
     "salary": "Not disclosed",
     "salary_min": null,
     "keywords": [
       "Python",
+      "Kubernetes",
       "recruiting"
     ],
     "sponsorship_evidence": "",
     "h1b_status": "unknown",
     "sponsorship_label": "Not specified",
-    "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/System-Level-Product-Development-Engineer_JR2023455"
+    "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Remote/Senior-Deep-Learning-Sofware-Infrastructure-Engineer_JR2022034"
   },
   {
     "company": "NVIDIA",
-    "title": "Senior Product Engineer - Datacenter",
-    "location": "US, CA, Santa Clara",
-    "employment_type": "full-time",
-    "category": "Other",
-    "salary": "Not disclosed",
-    "salary_min": null,
-    "keywords": [
-      "artificial intelligence",
-      "analytics",
-      "recruiting",
-      "compliance"
-    ],
-    "sponsorship_evidence": "",
-    "h1b_status": "unknown",
-    "sponsorship_label": "Not specified",
-    "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Product-Engineer---Datacenter_JR2023145"
-  },
-  {
-    "company": "NVIDIA",
-    "title": "Senior RMA Customer Service Transformation Engineer",
-    "location": "US, CA, Santa Clara",
-    "employment_type": "full-time",
-    "category": "Other",
-    "salary": "Not disclosed",
-    "salary_min": null,
-    "keywords": [
-      "supply chain",
-      "logistics",
-      "CRM",
-      "recruiting"
-    ],
-    "sponsorship_evidence": "",
-    "h1b_status": "unknown",
-    "sponsorship_label": "Not specified",
-    "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-RMA-Customer-Service-Transformation-Engineer_JR2021539"
-  },
-  {
-    "company": "NVIDIA",
-    "title": "Director, Engineering - Autonomous Vehicles",
+    "title": "Senior Technical Program Manager - Autonomous Vehicles",
     "location": "US, CA, Santa Clara",
     "employment_type": "full-time",
     "category": "Other",
@@ -15794,17 +15457,52 @@
     "salary_min": null,
     "keywords": [
       "machine learning",
+      "artificial intelligence",
+      "electrical engineering",
       "recruiting"
     ],
     "sponsorship_evidence": "",
     "h1b_status": "unknown",
     "sponsorship_label": "Not specified",
-    "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Director--Engineering---Autonomous-Vehicles_JR2023529"
+    "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Technical-Program-Manager---Autonomous-Vehicles_JR2021782"
   },
   {
     "company": "NVIDIA",
-    "title": "Senior System Software Engineer \u2013 Data Center Compute Diagnostics",
-    "location": "US, NC, Durham",
+    "title": "Senior Software Engineer, L4 - Autonomous Vehicles",
+    "location": "US, CA, Santa Clara",
+    "employment_type": "full-time",
+    "category": "Software & IT",
+    "salary": "Not disclosed",
+    "salary_min": null,
+    "keywords": [
+      "recruiting"
+    ],
+    "sponsorship_evidence": "",
+    "h1b_status": "unknown",
+    "sponsorship_label": "Not specified",
+    "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Software-Engineer--L4---Autonomous-Vehicles_JR2021766-1"
+  },
+  {
+    "company": "NVIDIA",
+    "title": "Principal Product Manager, Agentic Workflows -  Autonomous Vehicles",
+    "location": "US, CA, Santa Clara",
+    "employment_type": "full-time",
+    "category": "Product & Design",
+    "salary": "Not disclosed",
+    "salary_min": null,
+    "keywords": [
+      "sales",
+      "recruiting"
+    ],
+    "sponsorship_evidence": "",
+    "h1b_status": "unknown",
+    "sponsorship_label": "Not specified",
+    "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Principal-Product-Manager--Agentic-Workflows----Autonomous-Vehicles_JR2021669"
+  },
+  {
+    "company": "NVIDIA",
+    "title": "Senior System Software Engineer - AV Platform",
+    "location": "US, CA, Santa Clara",
     "employment_type": "full-time",
     "category": "Software & IT",
     "salary": "Not disclosed",
@@ -15817,14 +15515,31 @@
     "sponsorship_evidence": "",
     "h1b_status": "unknown",
     "sponsorship_label": "Not specified",
-    "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-NC-Durham/Senior-System-Software-Engineer---Data-Center-Compute-Diagnostics_JR2022439"
+    "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-System-Software-Engineer---AV-Platform_JR2021287"
   },
   {
     "company": "NVIDIA",
-    "title": "Senior Technical Program Manager - Tegra",
+    "title": "Senior Systems Software Engineer - Autonomous Vehicles",
     "location": "US, CA, Santa Clara",
     "employment_type": "full-time",
-    "category": "Other",
+    "category": "Software & IT",
+    "salary": "Not disclosed",
+    "salary_min": null,
+    "keywords": [
+      "Python",
+      "recruiting"
+    ],
+    "sponsorship_evidence": "",
+    "h1b_status": "unknown",
+    "sponsorship_label": "Not specified",
+    "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Systems-Software-Engineer---Autonomous-Vehicles_JR2021504"
+  },
+  {
+    "company": "NVIDIA",
+    "title": "Senior System Software Engineer - AV Platform",
+    "location": "US, CA, Santa Clara",
+    "employment_type": "full-time",
+    "category": "Software & IT",
     "salary": "Not disclosed",
     "salary_min": null,
     "keywords": [
@@ -15833,11 +15548,82 @@
     "sponsorship_evidence": "",
     "h1b_status": "unknown",
     "sponsorship_label": "Not specified",
-    "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Technical-Program-Manager---Tegra_JR2024717"
+    "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-System-Software-Engineer---AV-Platform_JR2021284"
   },
   {
     "company": "NVIDIA",
-    "title": "GPU/SOC Low-Power Feature Architect - HSIO",
+    "title": "Senior Security Software Engineer - AV Platform",
+    "location": "US, CA, Santa Clara",
+    "employment_type": "full-time",
+    "category": "Software & IT",
+    "salary": "Not disclosed",
+    "salary_min": null,
+    "keywords": [
+      "Python",
+      "electrical engineering",
+      "recruiting"
+    ],
+    "sponsorship_evidence": "",
+    "h1b_status": "unknown",
+    "sponsorship_label": "Not specified",
+    "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Security-Software-Engineer---AV-Platform_JR2021254"
+  },
+  {
+    "company": "NVIDIA",
+    "title": "Senior System Software Engineer - AV Platform",
+    "location": "US, CA, Santa Clara",
+    "employment_type": "full-time",
+    "category": "Software & IT",
+    "salary": "Not disclosed",
+    "salary_min": null,
+    "keywords": [
+      "recruiting"
+    ],
+    "sponsorship_evidence": "",
+    "h1b_status": "unknown",
+    "sponsorship_label": "Not specified",
+    "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-System-Software-Engineer---AV-Platform_JR2021102"
+  },
+  {
+    "company": "NVIDIA",
+    "title": "Senior Perception Engineer, Obstacle Foundation Models - Autonomous Vehicles",
+    "location": "US, CA, Santa Clara",
+    "employment_type": "full-time",
+    "category": "Other",
+    "salary": "Not disclosed",
+    "salary_min": null,
+    "keywords": [
+      "Python",
+      "artificial intelligence",
+      "recruiting"
+    ],
+    "sponsorship_evidence": "",
+    "h1b_status": "unknown",
+    "sponsorship_label": "Not specified",
+    "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Perception-Engineer--Obstacle-Foundation-Models---Autonomous-Vehicles_JR2021078"
+  },
+  {
+    "company": "NVIDIA",
+    "title": "Senior Radar Perception Engineer, Obstacle Foundation Models - Autonomous Vehicles",
+    "location": "US, CA, Santa Clara",
+    "employment_type": "full-time",
+    "category": "Other",
+    "salary": "Not disclosed",
+    "salary_min": null,
+    "keywords": [
+      "Python",
+      "artificial intelligence",
+      "electrical engineering",
+      "recruiting"
+    ],
+    "sponsorship_evidence": "",
+    "h1b_status": "unknown",
+    "sponsorship_label": "Not specified",
+    "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Radar-Perception-Engineer--Obstacle-Foundation-Models---Autonomous-Vehicles_JR2021077"
+  },
+  {
+    "company": "NVIDIA",
+    "title": "Production Manager, Maps \u2013 Autonomous Vehicles",
     "location": "US, CA, Santa Clara",
     "employment_type": "full-time",
     "category": "Other",
@@ -15850,7 +15636,315 @@
     "sponsorship_evidence": "",
     "h1b_status": "unknown",
     "sponsorship_label": "Not specified",
-    "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/HSIO-Functional-and-Power-Management-Engineer_JR2013743"
+    "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Production-Manager--Maps---Autonomous-Vehicles_JR2020939-1"
+  },
+  {
+    "company": "NVIDIA",
+    "title": "Principal Software Engineer, Vehicle Dynamics Simulation - AV",
+    "location": "US, CA, Santa Clara",
+    "employment_type": "full-time",
+    "category": "Software & IT",
+    "salary": "Not disclosed",
+    "salary_min": null,
+    "keywords": [
+      "Python",
+      "mechanical engineering",
+      "electrical engineering",
+      "recruiting"
+    ],
+    "sponsorship_evidence": "",
+    "h1b_status": "unknown",
+    "sponsorship_label": "Not specified",
+    "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Principal-Software-Engineer--Vehicle-Dynamics-Simulation---AV_JR2020644-1"
+  },
+  {
+    "company": "NVIDIA",
+    "title": "Principal Perception Engineer, Obstacle Foundation Models - Autonomous Vehicles",
+    "location": "US, CA, Santa Clara",
+    "employment_type": "full-time",
+    "category": "Other",
+    "salary": "Not disclosed",
+    "salary_min": null,
+    "keywords": [
+      "Python",
+      "artificial intelligence",
+      "electrical engineering",
+      "recruiting"
+    ],
+    "sponsorship_evidence": "",
+    "h1b_status": "unknown",
+    "sponsorship_label": "Not specified",
+    "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Principal-Perception-Engineer--Obstacle-Foundation-Models---Autonomous-Vehicles_JR2020551"
+  },
+  {
+    "company": "NVIDIA",
+    "title": "Director, Carline Program Management - Autonomous Vehicles",
+    "location": "US, CA, Santa Clara",
+    "employment_type": "full-time",
+    "category": "Other",
+    "salary": "Not disclosed",
+    "salary_min": null,
+    "keywords": [
+      "machine learning",
+      "artificial intelligence",
+      "Excel",
+      "recruiting"
+    ],
+    "sponsorship_evidence": "",
+    "h1b_status": "unknown",
+    "sponsorship_label": "Not specified",
+    "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Director--Carline-Program-Management---Autonomous-Vehicles_JR2020452"
+  },
+  {
+    "company": "NVIDIA",
+    "title": "Senior Software Engineer, World Model Systems Engineering - Autonomous Vehicles",
+    "location": "US, CA, Santa Clara",
+    "employment_type": "full-time",
+    "category": "Software & IT",
+    "salary": "Not disclosed",
+    "salary_min": null,
+    "keywords": [
+      "Python",
+      "SQL",
+      "machine learning",
+      "data science",
+      "analytics",
+      "recruiting",
+      "compliance"
+    ],
+    "sponsorship_evidence": "",
+    "h1b_status": "unknown",
+    "sponsorship_label": "Not specified",
+    "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Software-Engineer--World-Model-Systems-Engineering---Autonomous-Vehicles_JR2020021"
+  },
+  {
+    "company": "NVIDIA",
+    "title": "Senior Software Engineer - Autonomous Driving",
+    "location": "US, CA, Santa Clara",
+    "employment_type": "full-time",
+    "category": "Software & IT",
+    "salary": "Not disclosed",
+    "salary_min": null,
+    "keywords": [
+      "Python",
+      "electrical engineering",
+      "recruiting"
+    ],
+    "sponsorship_evidence": "",
+    "h1b_status": "unknown",
+    "sponsorship_label": "Not specified",
+    "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Software-Engineer---Autonomous-Driving_JR2019388"
+  },
+  {
+    "company": "NVIDIA",
+    "title": "Principal System Software Engineer - AV Platform",
+    "location": "US, CA, Santa Clara",
+    "employment_type": "full-time",
+    "category": "Software & IT",
+    "salary": "Not disclosed",
+    "salary_min": null,
+    "keywords": [
+      "Python",
+      "electrical engineering",
+      "recruiting"
+    ],
+    "sponsorship_evidence": "",
+    "h1b_status": "unknown",
+    "sponsorship_label": "Not specified",
+    "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Principal-System-Software-Engineer---AV-Platform_JR2018839"
+  },
+  {
+    "company": "NVIDIA",
+    "title": "Senior Systems Software Engineer - Autonomous Vehicles Platform",
+    "location": "US, CA, Santa Clara",
+    "employment_type": "full-time",
+    "category": "Software & IT",
+    "salary": "Not disclosed",
+    "salary_min": null,
+    "keywords": [
+      "recruiting"
+    ],
+    "sponsorship_evidence": "",
+    "h1b_status": "unknown",
+    "sponsorship_label": "Not specified",
+    "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Systems-Software-Engineer---Autonomous-Vehicles-Platform_JR2018686"
+  },
+  {
+    "company": "NVIDIA",
+    "title": "Senior AI Architect, Foundation Models and SoC Co-Design \u2013 Autonomous Vehicles",
+    "location": "US, CA, Santa Clara",
+    "employment_type": "full-time",
+    "category": "Other",
+    "salary": "Not disclosed",
+    "salary_min": null,
+    "keywords": [
+      "machine learning",
+      "electrical engineering",
+      "recruiting"
+    ],
+    "sponsorship_evidence": "",
+    "h1b_status": "unknown",
+    "sponsorship_label": "Not specified",
+    "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-AI-Architect--Foundation-Models-and-SoC-Co-Design---Autonomous-Vehicles_JR2018387"
+  },
+  {
+    "company": "NVIDIA",
+    "title": "Senior System Software Engineer - AV Platform",
+    "location": "US, CA, Santa Clara",
+    "employment_type": "full-time",
+    "category": "Software & IT",
+    "salary": "Not disclosed",
+    "salary_min": null,
+    "keywords": [
+      "Python",
+      "electrical engineering",
+      "recruiting"
+    ],
+    "sponsorship_evidence": "",
+    "h1b_status": "unknown",
+    "sponsorship_label": "Not specified",
+    "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-System-Software-Engineer---AV-Platform_JR2017457"
+  },
+  {
+    "company": "NVIDIA",
+    "title": "Director, ADAS User Experience Product - Autonomous Vehicles",
+    "location": "US, CA, Santa Clara",
+    "employment_type": "full-time",
+    "category": "Product & Design",
+    "salary": "Not disclosed",
+    "salary_min": null,
+    "keywords": [
+      "recruiting"
+    ],
+    "sponsorship_evidence": "",
+    "h1b_status": "unknown",
+    "sponsorship_label": "Not specified",
+    "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Director--ADAS-User-Experience-Product---Autonomous-Vehicles_JR2016860"
+  },
+  {
+    "company": "NVIDIA",
+    "title": "Senior Software Performance Engineer - Autonomous Vehicles",
+    "location": "US, CA, Santa Clara",
+    "employment_type": "full-time",
+    "category": "Software & IT",
+    "salary": "Not disclosed",
+    "salary_min": null,
+    "keywords": [
+      "machine learning",
+      "electrical engineering",
+      "recruiting"
+    ],
+    "sponsorship_evidence": "",
+    "h1b_status": "unknown",
+    "sponsorship_label": "Not specified",
+    "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Software-Performance-Engineer---AV-Platform_JR2016777"
+  },
+  {
+    "company": "NVIDIA",
+    "title": "Senior System Software Engineer - AV Platform",
+    "location": "US, CA, Santa Clara",
+    "employment_type": "full-time",
+    "category": "Software & IT",
+    "salary": "Not disclosed",
+    "salary_min": null,
+    "keywords": [
+      "Python",
+      "Docker",
+      "electrical engineering",
+      "recruiting",
+      "compliance"
+    ],
+    "sponsorship_evidence": "",
+    "h1b_status": "unknown",
+    "sponsorship_label": "Not specified",
+    "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-System-Software-Engineer---AV-Platform_JR2016558"
+  },
+  {
+    "company": "NVIDIA",
+    "title": "Senior System Software Engineer - Autonomous Vehicles",
+    "location": "US, CA, Santa Clara",
+    "employment_type": "full-time",
+    "category": "Software & IT",
+    "salary": "Not disclosed",
+    "salary_min": null,
+    "keywords": [
+      "recruiting"
+    ],
+    "sponsorship_evidence": "",
+    "h1b_status": "unknown",
+    "sponsorship_label": "Not specified",
+    "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-System-Software-Engineer---Autonomous-Vehicles_JR2016469"
+  },
+  {
+    "company": "NVIDIA",
+    "title": "Senior Embedded Software Engineer - AV Platform",
+    "location": "US, CA, Santa Clara",
+    "employment_type": "full-time",
+    "category": "Software & IT",
+    "salary": "Not disclosed",
+    "salary_min": null,
+    "keywords": [
+      "Python",
+      "electrical engineering",
+      "recruiting"
+    ],
+    "sponsorship_evidence": "",
+    "h1b_status": "unknown",
+    "sponsorship_label": "Not specified",
+    "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Embedded-Software-Engineer---AV-Platform_JR2016466-1"
+  },
+  {
+    "company": "NVIDIA",
+    "title": "Senior Systems Software Engineer - Autonomous Vehicles",
+    "location": "US, CA, Santa Clara",
+    "employment_type": "full-time",
+    "category": "Software & IT",
+    "salary": "Not disclosed",
+    "salary_min": null,
+    "keywords": [
+      "recruiting"
+    ],
+    "sponsorship_evidence": "",
+    "h1b_status": "unknown",
+    "sponsorship_label": "Not specified",
+    "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Systems-Software-Engineer---Autonomous-Vehicles_JR2015666"
+  },
+  {
+    "company": "NVIDIA",
+    "title": "Senior Technical Program Manager - Autonomous Vehicles",
+    "location": "US, CA, Santa Clara",
+    "employment_type": "full-time",
+    "category": "Other",
+    "salary": "Not disclosed",
+    "salary_min": null,
+    "keywords": [
+      "machine learning",
+      "artificial intelligence",
+      "electrical engineering",
+      "recruiting"
+    ],
+    "sponsorship_evidence": "",
+    "h1b_status": "unknown",
+    "sponsorship_label": "Not specified",
+    "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Technical-Program-Manager---Autonomous-Vehicles_JR2014870"
+  },
+  {
+    "company": "NVIDIA",
+    "title": "Senior Software Engineer - Autonomous Vehicles",
+    "location": "US, CA, Santa Clara",
+    "employment_type": "full-time",
+    "category": "Software & IT",
+    "salary": "Not disclosed",
+    "salary_min": null,
+    "keywords": [
+      "machine learning",
+      "electrical engineering",
+      "recruiting"
+    ],
+    "sponsorship_evidence": "",
+    "h1b_status": "unknown",
+    "sponsorship_label": "Not specified",
+    "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Software-Engineer---Autonomous-Vehicles_JR2014431"
   },
   {
     "company": "Salesforce",
@@ -25019,6 +25113,54 @@
   },
   {
     "company": "Northrop Grumman",
+    "title": "Modeling & Simulation Systems Engineer - Level 2",
+    "location": "United States-Colorado-Schriever AFB",
+    "employment_type": "full-time",
+    "category": "Software & IT",
+    "salary": "Not disclosed",
+    "salary_min": null,
+    "keywords": [
+      "Python"
+    ],
+    "sponsorship_evidence": "",
+    "h1b_status": "unknown",
+    "sponsorship_label": "Not specified",
+    "url": "https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-Colorado-Schriever-AFB/Modeling---Simulation-Systems-Engineer---Level-2_R10243552"
+  },
+  {
+    "company": "Northrop Grumman",
+    "title": "Systems Engineer - Level 3 or 4  (AHT)",
+    "location": "United States-Alabama-Huntsville",
+    "employment_type": "full-time",
+    "category": "Software & IT",
+    "salary": "Not disclosed",
+    "salary_min": null,
+    "keywords": [],
+    "sponsorship_evidence": "",
+    "h1b_status": "unknown",
+    "sponsorship_label": "Not specified",
+    "url": "https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-Alabama-Huntsville/Systems-Engineer---Level-3-or-4---AHT-_R10248173"
+  },
+  {
+    "company": "Northrop Grumman",
+    "title": "Electrical Engineer - Level 2 or 3 (AHT)",
+    "location": "United States-Alabama-Huntsville",
+    "employment_type": "full-time",
+    "category": "Engineering",
+    "salary": "Not disclosed",
+    "salary_min": null,
+    "keywords": [
+      "electrical engineering",
+      "CAD",
+      "SolidWorks"
+    ],
+    "sponsorship_evidence": "",
+    "h1b_status": "unknown",
+    "sponsorship_label": "Not specified",
+    "url": "https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-Alabama-Huntsville/Electrical-Engineer---Level-2-or-3--AHT-_R10248210"
+  },
+  {
+    "company": "Northrop Grumman",
     "title": "Mechanical Technician \u2013 Level 4",
     "location": "United States-California-Redondo Beach",
     "employment_type": "full-time",
@@ -27189,20 +27331,6 @@
   },
   {
     "company": "Northrop Grumman",
-    "title": "Associate Computer Systems Analyst - Linux - Pathways Program - Melbourne FL",
-    "location": "United States-Florida-Melbourne",
-    "employment_type": "full-time",
-    "category": "Other",
-    "salary": "Not disclosed",
-    "salary_min": null,
-    "keywords": [],
-    "sponsorship_evidence": "",
-    "h1b_status": "unknown",
-    "sponsorship_label": "Not specified",
-    "url": "https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-Florida-Melbourne/Associate-Computer-Systems-Analyst---Linux---Pathways-Program---Melbourne-FL_R10246706"
-  },
-  {
-    "company": "Northrop Grumman",
     "title": "Casual Technical Professional",
     "location": "United States-California-San Diego",
     "employment_type": "full-time",
@@ -28907,22 +29035,6 @@
     "h1b_status": "unknown",
     "sponsorship_label": "Not specified",
     "url": "https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-Hawaii-Honolulu/Engineer-Field---Level-5_R10247836"
-  },
-  {
-    "company": "Northrop Grumman",
-    "title": "2027 Associate Electronics Engineer/Electronics Engineer",
-    "location": "United States-Florida-Melbourne",
-    "employment_type": "full-time",
-    "category": "Other",
-    "salary": "$65.8k\u2013$98.8k/yr",
-    "salary_min": 65800.0,
-    "keywords": [
-      "electrical engineering"
-    ],
-    "sponsorship_evidence": "",
-    "h1b_status": "unknown",
-    "sponsorship_label": "Not specified",
-    "url": "https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-Florida-Melbourne/XMLNAME-2027-Associate-Electronics-Engineer-Electronics-Engineer_R10247972"
   },
   {
     "company": "Northrop Grumman",
@@ -33159,28 +33271,6 @@
   },
   {
     "company": "Northrop Grumman",
-    "title": "2026 Associate Engineer Quality/ Engineer Quality - Rolling Meadows IL",
-    "location": "United States-Illinois-Rolling Meadows",
-    "employment_type": "full-time",
-    "category": "Other",
-    "salary": "Not disclosed",
-    "salary_min": null,
-    "keywords": [
-      "SQL",
-      "artificial intelligence",
-      "Excel",
-      "audit",
-      "mechanical engineering",
-      "compliance",
-      "contracts"
-    ],
-    "sponsorship_evidence": "",
-    "h1b_status": "unknown",
-    "sponsorship_label": "Not specified",
-    "url": "https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-Illinois-Rolling-Meadows/XMLNAME-2026-Associate-Engineer-Quality--Engineer-Quality---Rolling-Meadows-IL_R10245904"
-  },
-  {
-    "company": "Northrop Grumman",
     "title": "Engineering Program Manager",
     "location": "United States-Illinois-Rolling Meadows",
     "employment_type": "full-time",
@@ -33584,42 +33674,6 @@
     "h1b_status": "unknown",
     "sponsorship_label": "Not specified",
     "url": "https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-California-San-Diego/Sr-Principal-Software-Engineer--Active-Secret-Clearance-Required-_R10247644"
-  },
-  {
-    "company": "Northrop Grumman",
-    "title": "Principal Software Engineer",
-    "location": "United States-Florida-Melbourne",
-    "employment_type": "full-time",
-    "category": "Software & IT",
-    "salary": "Not disclosed",
-    "salary_min": null,
-    "keywords": [
-      "Python",
-      "JavaScript"
-    ],
-    "sponsorship_evidence": "",
-    "h1b_status": "unknown",
-    "sponsorship_label": "Not specified",
-    "url": "https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-Florida-Melbourne/Principal-Software-Engineer_R10247102"
-  },
-  {
-    "company": "Northrop Grumman",
-    "title": "Sr. Principal Software Engineer",
-    "location": "United States-Florida-Melbourne",
-    "employment_type": "full-time",
-    "category": "Software & IT",
-    "salary": "Not disclosed",
-    "salary_min": null,
-    "keywords": [
-      "AWS",
-      "Docker",
-      "Kubernetes",
-      "Terraform"
-    ],
-    "sponsorship_evidence": "",
-    "h1b_status": "unknown",
-    "sponsorship_label": "Not specified",
-    "url": "https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-Florida-Melbourne/Sr-Principal-Software-Engineer_R10247053"
   },
   {
     "company": "Northrop Grumman",
@@ -34454,24 +34508,6 @@
   },
   {
     "company": "Northrop Grumman",
-    "title": "Electrical Engineer - Level 2",
-    "location": "United States-Alabama-Huntsville",
-    "employment_type": "full-time",
-    "category": "Engineering",
-    "salary": "Not disclosed",
-    "salary_min": null,
-    "keywords": [
-      "electrical engineering",
-      "CAD",
-      "SolidWorks"
-    ],
-    "sponsorship_evidence": "",
-    "h1b_status": "unknown",
-    "sponsorship_label": "Not specified",
-    "url": "https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-Alabama-Huntsville/Electrical-Engineer---Level-2_R10237174-1"
-  },
-  {
-    "company": "Northrop Grumman",
     "title": "Sr Principal Engineer Aeronautical",
     "location": "United States-Florida-Melbourne",
     "employment_type": "full-time",
@@ -35064,23 +35100,6 @@
     "h1b_status": "unknown",
     "sponsorship_label": "Not specified",
     "url": "https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-California-San-Diego/Senior-Principal-Engineer-Electronics_R10245222"
-  },
-  {
-    "company": "Northrop Grumman",
-    "title": "Administrative Assistant - Level 2",
-    "location": "United States-North Carolina-Charlotte",
-    "employment_type": "full-time",
-    "category": "Other",
-    "salary": "Not disclosed",
-    "salary_min": null,
-    "keywords": [
-      "Excel",
-      "contracts"
-    ],
-    "sponsorship_evidence": "",
-    "h1b_status": "unknown",
-    "sponsorship_label": "Not specified",
-    "url": "https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-North-Carolina-Charlotte/Administrative-Assistant---Level-2_R10247555"
   },
   {
     "company": "Northrop Grumman",
@@ -35818,24 +35837,6 @@
     "h1b_status": "unknown",
     "sponsorship_label": "Not specified",
     "url": "https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-California-Edwards-AFB/XMLNAME--SkillBridge--Deployable-Principal-Configuration-Analyst_R10247378"
-  },
-  {
-    "company": "Northrop Grumman",
-    "title": "Principal Enterprise-Wide Applications Analyst",
-    "location": "United States-Remote",
-    "employment_type": "full-time",
-    "category": "Other",
-    "salary": "Not disclosed",
-    "salary_min": null,
-    "keywords": [
-      "Excel",
-      "supply chain",
-      "compliance"
-    ],
-    "sponsorship_evidence": "",
-    "h1b_status": "unknown",
-    "sponsorship_label": "Not specified",
-    "url": "https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-Remote/Principal-Enterprise-Wide-Applications-Analyst_R10246217"
   },
   {
     "company": "Northrop Grumman",
@@ -40029,22 +40030,6 @@
     "h1b_status": "unknown",
     "sponsorship_label": "Not specified",
     "url": "https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-Florida-Melbourne/Sr-Principal-Engineer-Systems-Modeling-Simulation_R10234841"
-  },
-  {
-    "company": "Northrop Grumman",
-    "title": "Modeling & Simulation Systems Engineer - Level 4 (AHT)",
-    "location": "United States-Colorado-Colorado Springs",
-    "employment_type": "full-time",
-    "category": "Software & IT",
-    "salary": "Not disclosed",
-    "salary_min": null,
-    "keywords": [
-      "Python"
-    ],
-    "sponsorship_evidence": "",
-    "h1b_status": "unknown",
-    "sponsorship_label": "Not specified",
-    "url": "https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-Colorado-Colorado-Springs/Modeling---Simulation-Systems-Engineer---Level-4--AHT-_R10246671"
   },
   {
     "company": "Northrop Grumman",
@@ -45907,22 +45892,6 @@
     "h1b_status": "unknown",
     "sponsorship_label": "Not specified",
     "url": "https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-California-San-Diego/Environmental-Health---Safety-Engineer---Level-4_R10245581"
-  },
-  {
-    "company": "Northrop Grumman",
-    "title": "Sr Principal Classified Cybersecurity Analyst - TS/SCI",
-    "location": "United States-Virginia-Dulles",
-    "employment_type": "full-time",
-    "category": "Software & IT",
-    "salary": "Not disclosed",
-    "salary_min": null,
-    "keywords": [
-      "compliance"
-    ],
-    "sponsorship_evidence": "",
-    "h1b_status": "unknown",
-    "sponsorship_label": "Not specified",
-    "url": "https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-Virginia-Dulles/Sr-Principal-Classified-Cybersecurity-Analyst---TS-SCI_R10243650"
   },
   {
     "company": "Northrop Grumman",
@@ -55159,22 +55128,6 @@
     "h1b_status": "unknown",
     "sponsorship_label": "Not specified",
     "url": "https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-Utah-Roy/Staff-Electrical-Engineer-Infrastructure-Lead---19313_R10241865"
-  },
-  {
-    "company": "Northrop Grumman",
-    "title": "Modeling & Simulation Systems Engineer - Level 2",
-    "location": "United States-Colorado-Schriever AFB",
-    "employment_type": "full-time",
-    "category": "Software & IT",
-    "salary": "Not disclosed",
-    "salary_min": null,
-    "keywords": [
-      "Python"
-    ],
-    "sponsorship_evidence": "",
-    "h1b_status": "unknown",
-    "sponsorship_label": "Not specified",
-    "url": "https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-Colorado-Schriever-AFB/Modeling---Simulation-Systems-Engineer---Level-2_R10243552"
   },
   {
     "company": "Northrop Grumman",
@@ -78692,23 +78645,6 @@
   },
   {
     "company": "Boeing",
-    "title": "Propulsion Engineer (Associate or Experienced)",
-    "location": "USA - Hazelwood, MO",
-    "employment_type": "full-time",
-    "category": "Other",
-    "salary": "Not disclosed",
-    "salary_min": null,
-    "keywords": [
-      "data science",
-      "compliance"
-    ],
-    "sponsorship_evidence": "Visa Sponsorship: Employer will not sponsor applicants for employment visa status.",
-    "h1b_status": "does_not_support_h1b",
-    "sponsorship_label": "No sponsorship for this position",
-    "url": "https://boeing.wd1.myworkdayjobs.com/en-US/EXTERNAL_CAREERS/job/USA---Hazelwood-MO/Propulsion-Engineer_JR2026521216"
-  },
-  {
-    "company": "Boeing",
     "title": "Agile Release Train Engineer (Experienced or Senior)",
     "location": "USA - Berkeley, MO",
     "employment_type": "full-time",
@@ -79138,6 +79074,22 @@
     "url": "https://boeing.wd1.myworkdayjobs.com/en-US/EXTERNAL_CAREERS/job/USA---Hazelwood-MO/Process-Mechanic---Chemical-Processor_JR2026499070"
   },
   {
+    "company": "Boeing",
+    "title": "Tooling Mechanic",
+    "location": "USA - Berkeley, MO",
+    "employment_type": "full-time",
+    "category": "Other",
+    "salary": "$30/hr",
+    "salary_min": 30.0,
+    "keywords": [
+      "CAD"
+    ],
+    "sponsorship_evidence": "Visa Sponsorship: Employer will not sponsor applicants for employment visa status.",
+    "h1b_status": "does_not_support_h1b",
+    "sponsorship_label": "No sponsorship for this position",
+    "url": "https://boeing.wd1.myworkdayjobs.com/en-US/EXTERNAL_CAREERS/job/USA---Berkeley-MO/Tooling-Mechanic_JR2026508528-2"
+  },
+  {
     "company": "HP",
     "title": "ACS Quality Engineer - Workstation Products",
     "location": "Fort Collins, Colorado, United States of America",
@@ -79541,24 +79493,6 @@
     "h1b_status": "unknown",
     "sponsorship_label": "Not specified",
     "url": "https://intel.wd1.myworkdayjobs.com/en-US/External/job/US-Oregon-Hillsboro/Process-Integration-Development-Engineer_JR0285561"
-  },
-  {
-    "company": "Intel",
-    "title": "Identity Security - PKI Engineer",
-    "location": "US, Arizona, Phoenix",
-    "employment_type": "full-time",
-    "category": "Other",
-    "salary": "Not disclosed",
-    "salary_min": null,
-    "keywords": [
-      "JavaScript",
-      "SQL",
-      "compliance"
-    ],
-    "sponsorship_evidence": "",
-    "h1b_status": "unknown",
-    "sponsorship_label": "Not specified",
-    "url": "https://intel.wd1.myworkdayjobs.com/en-US/External/job/US-Arizona-Phoenix/Identity-Security---PKI-Engineer_JR0286687"
   },
   {
     "company": "Visa",
@@ -90046,6 +89980,24 @@
   },
   {
     "company": "S&P Global",
+    "title": "Technical Producer",
+    "location": "New York, NY",
+    "employment_type": "full-time",
+    "category": "Other",
+    "salary": "Not disclosed",
+    "salary_min": null,
+    "keywords": [
+      "supply chain",
+      "logistics",
+      "compliance"
+    ],
+    "sponsorship_evidence": "",
+    "h1b_status": "unknown",
+    "sponsorship_label": "Not specified",
+    "url": "https://spgi.wd5.myworkdayjobs.com/en-US/SPGI_Careers/job/New-York-NY/Technical-Producer_331354-1"
+  },
+  {
+    "company": "S&P Global",
     "title": "Global Head of Core Technology & Platforms",
     "location": "New York, NY",
     "employment_type": "full-time",
@@ -91527,25 +91479,6 @@
   },
   {
     "company": "Chevron",
-    "title": "Project Coordinator",
-    "location": "Houston, Texas, United States of America",
-    "employment_type": "full-time",
-    "category": "Other",
-    "salary": "Not disclosed",
-    "salary_min": null,
-    "keywords": [
-      "analytics",
-      "logistics",
-      "procurement",
-      "legal"
-    ],
-    "sponsorship_evidence": "Chevron regrets that it is unable to sponsor employment Visas or consider individuals on time-limited Visa status for this position.",
-    "h1b_status": "does_not_support_h1b",
-    "sponsorship_label": "No sponsorship for this position",
-    "url": "https://chevron.wd5.myworkdayjobs.com/en-US/jobs/job/Houston-Texas-United-States-of-America/Project-Coordinator_R000072678"
-  },
-  {
-    "company": "Chevron",
     "title": "Senior Instrumentation & Electrical Specialist",
     "location": "Seneca, Illinois, United States of America",
     "employment_type": "full-time",
@@ -91947,26 +91880,6 @@
     "h1b_status": "unknown",
     "sponsorship_label": "Not specified",
     "url": "https://generalmotors.wd5.myworkdayjobs.com/en-US/Careers_GM/job/Warren-Michigan-United-States-of-America/Manufacturing-Cybersecurity-Data-Engineer_JR-202618198"
-  },
-  {
-    "company": "General Motors",
-    "title": "Integrated Product Support, Provisioning & Obsolescence Lead - GM Defense",
-    "location": "Warren, Michigan, United States of America",
-    "employment_type": "full-time",
-    "category": "Other",
-    "salary": "Not disclosed",
-    "salary_min": null,
-    "keywords": [
-      "risk management",
-      "supply chain",
-      "logistics",
-      "compliance",
-      "contracts"
-    ],
-    "sponsorship_evidence": "",
-    "h1b_status": "unknown",
-    "sponsorship_label": "Not specified",
-    "url": "https://generalmotors.wd5.myworkdayjobs.com/en-US/Careers_GM/job/Warren-Michigan-United-States-of-America/Integrated-Product-Support--Provisioning---Obsolescence-Lead---GM-Defense_JR-202617413-1"
   },
   {
     "company": "Fannie Mae",
@@ -92438,23 +92351,6 @@
     "h1b_status": "unknown",
     "sponsorship_label": "Not specified",
     "url": "https://mpc.wd1.myworkdayjobs.com/en-US/MPCCareers/job/Catlettsburg-Kentucky/Turnaround-Specialist_00023563-1"
-  },
-  {
-    "company": "Marathon Petroleum",
-    "title": "Field Operator",
-    "location": "Cadiz, Ohio",
-    "employment_type": "full-time",
-    "category": "Other",
-    "salary": "Not disclosed",
-    "salary_min": null,
-    "keywords": [
-      "human resources",
-      "compliance"
-    ],
-    "sponsorship_evidence": "",
-    "h1b_status": "unknown",
-    "sponsorship_label": "Not specified",
-    "url": "https://mpc.wd1.myworkdayjobs.com/en-US/MPCCareers/job/Cadiz-Ohio/Field-Operator_00023442"
   },
   {
     "company": "Marathon Petroleum",
@@ -96974,45 +96870,6 @@
   },
   {
     "company": "Walt Disney",
-    "title": "Walt Disney World Procurement Services Intern, Spring 2027",
-    "location": "Lake Buena Vista, FL, USA",
-    "employment_type": "internship",
-    "category": "Operations & Supply Chain",
-    "salary": "Not disclosed",
-    "salary_min": null,
-    "keywords": [
-      "Excel",
-      "accounting",
-      "supply chain",
-      "procurement"
-    ],
-    "sponsorship_evidence": "",
-    "h1b_status": "unknown",
-    "sponsorship_label": "Not specified",
-    "url": "https://disney.wd5.myworkdayjobs.com/en-US/disneycareer/job/Lake-Buena-Vista-FL-USA/Walt-Disney-World-Procurement-Services-Intern--Spring-2027_10159048"
-  },
-  {
-    "company": "Walt Disney",
-    "title": "Walt Disney World Strategic Sourcing Intern, Spring 2027",
-    "location": "Lake Buena Vista, FL, USA",
-    "employment_type": "internship",
-    "category": "Other",
-    "salary": "Not disclosed",
-    "salary_min": null,
-    "keywords": [
-      "Excel",
-      "supply chain",
-      "logistics",
-      "compliance",
-      "contracts"
-    ],
-    "sponsorship_evidence": "",
-    "h1b_status": "unknown",
-    "sponsorship_label": "Not specified",
-    "url": "https://disney.wd5.myworkdayjobs.com/en-US/disneycareer/job/Lake-Buena-Vista-FL-USA/Walt-Disney-World-Strategic-Sourcing-Intern--Spring-2027_10158738-1"
-  },
-  {
-    "company": "Walt Disney",
     "title": "Walt Disney World Transportation Logistics & Analytics Intern, Spring 2027",
     "location": "Lake Buena Vista, FL, USA",
     "employment_type": "internship",
@@ -97918,26 +97775,6 @@
     "h1b_status": "unknown",
     "sponsorship_label": "Not specified",
     "url": "https://disney.wd5.myworkdayjobs.com/en-US/disneycareer/job/Burbank-CA-USA/Director--Enterprise-YouTube-Strategy---Governance_10158260"
-  },
-  {
-    "company": "Walt Disney",
-    "title": "Manager, Software Engineering",
-    "location": "Celebration, FL, USA",
-    "employment_type": "full-time",
-    "category": "Software & IT",
-    "salary": "$159.8k\u2013$214.2k/yr",
-    "salary_min": 159800.0,
-    "keywords": [
-      "Java",
-      "AWS",
-      "Azure",
-      "Excel",
-      "recruiting"
-    ],
-    "sponsorship_evidence": "",
-    "h1b_status": "unknown",
-    "sponsorship_label": "Not specified",
-    "url": "https://disney.wd5.myworkdayjobs.com/en-US/disneycareer/job/Celebration-FL-USA/Manager--Software-Engineering_10139445"
   },
   {
     "company": "Walt Disney",
@@ -105016,26 +104853,6 @@
   },
   {
     "company": "Johnson & Johnson",
-    "title": "Sr Technology Manager, Technical Product Owner R&D Labs",
-    "location": "Raynham, Massachusetts, United States of America",
-    "employment_type": "full-time",
-    "category": "Other",
-    "salary": "Not disclosed",
-    "salary_min": null,
-    "keywords": [
-      "analytics",
-      "human resources",
-      "recruiting",
-      "compliance",
-      "legal"
-    ],
-    "sponsorship_evidence": "",
-    "h1b_status": "unknown",
-    "sponsorship_label": "Not specified",
-    "url": "https://jj.wd5.myworkdayjobs.com/en-US/JJ/job/Raynham-Massachusetts-United-States-of-America/Sr-Manager--TPO-R-D-Labs_R-072533-1"
-  },
-  {
-    "company": "Johnson & Johnson",
     "title": "Sr. Plastic Surgery Sales Representative (Chicago, IL) \u2013 Johnson & Johnson MedTech - Aesthetics and Reconstruction",
     "location": "Chicago, Illinois, United States",
     "employment_type": "full-time",
@@ -105106,26 +104923,6 @@
     "h1b_status": "unknown",
     "sponsorship_label": "Not specified",
     "url": "https://jj.wd5.myworkdayjobs.com/en-US/JJ/job/Spring-House-Pennsylvania-United-States-of-America/Senior-Scientist--In-vivo-CAR-T_R-092527-1"
-  },
-  {
-    "company": "Johnson & Johnson",
-    "title": "Associate Director, Data Context Enablement",
-    "location": "Titusville, New Jersey, United States of America",
-    "employment_type": "full-time",
-    "category": "Other",
-    "salary": "Not disclosed",
-    "salary_min": null,
-    "keywords": [
-      "data science",
-      "analytics",
-      "CRM",
-      "compliance",
-      "legal"
-    ],
-    "sponsorship_evidence": "",
-    "h1b_status": "unknown",
-    "sponsorship_label": "Not specified",
-    "url": "https://jj.wd5.myworkdayjobs.com/en-US/JJ/job/Titusville-New-Jersey-United-States-of-America/Associate-Director--Data-Context-Enablement_R-091468-1"
   },
   {
     "company": "Johnson & Johnson",
@@ -105623,23 +105420,6 @@
     "h1b_status": "unknown",
     "sponsorship_label": "Not specified",
     "url": "https://jj.wd5.myworkdayjobs.com/en-US/JJ/job/Santa-Clara-California-United-States-of-America/Software-Engineer--Real-time-Software_R-092498"
-  },
-  {
-    "company": "Johnson & Johnson",
-    "title": "Commercial Education Specialist \u2013 Spine",
-    "location": "Raynham, Massachusetts, United States of America",
-    "employment_type": "full-time",
-    "category": "Other",
-    "salary": "Not disclosed",
-    "salary_min": null,
-    "keywords": [
-      "sales",
-      "legal"
-    ],
-    "sponsorship_evidence": "",
-    "h1b_status": "unknown",
-    "sponsorship_label": "Not specified",
-    "url": "https://jj.wd5.myworkdayjobs.com/en-US/JJ/job/Raynham-Massachusetts-United-States-of-America/Commercial-Education-Specialist---Spine_R-090927-2"
   },
   {
     "company": "Johnson & Johnson",
@@ -106436,24 +106216,6 @@
   },
   {
     "company": "Johnson & Johnson",
-    "title": "Team Lead, Source Quality",
-    "location": "Warsaw, Indiana, United States of America",
-    "employment_type": "full-time",
-    "category": "Other",
-    "salary": "$112k\u2013$137k/yr",
-    "salary_min": 112000.0,
-    "keywords": [
-      "risk management",
-      "electrical engineering",
-      "supply chain"
-    ],
-    "sponsorship_evidence": "",
-    "h1b_status": "unknown",
-    "sponsorship_label": "Not specified",
-    "url": "https://jj.wd5.myworkdayjobs.com/en-US/JJ/job/Warsaw-Indiana-United-States-of-America/Team-Lead--Source-Quality_R-075162"
-  },
-  {
-    "company": "Johnson & Johnson",
     "title": "Scientific Director, Discovery Pharmaceutics",
     "location": "Spring House, Pennsylvania, United States of America",
     "employment_type": "full-time",
@@ -107202,6 +106964,25 @@
     "h1b_status": "unknown",
     "sponsorship_label": "Not specified",
     "url": "https://jj.wd5.myworkdayjobs.com/en-US/JJ/job/Santa-Clara-California-United-States-of-America/Staff-Manufacturing-Engineer---Shockwave_2506233455W-1"
+  },
+  {
+    "company": "RTX",
+    "title": "Manager, Contracts (Onsite)",
+    "location": "US-AZ-TUCSON-M13 ~ 3601 E Britannia Dr ~ BRITANNIA M13",
+    "employment_type": "full-time",
+    "category": "Other",
+    "salary": "Not disclosed",
+    "salary_min": null,
+    "keywords": [
+      "supply chain",
+      "procurement",
+      "compliance",
+      "contracts"
+    ],
+    "sponsorship_evidence": "",
+    "h1b_status": "unknown",
+    "sponsorship_label": "Not specified",
+    "url": "https://globalhr.wd5.myworkdayjobs.com/en-US/REC_RTX_Ext_Gateway/job/US-AZ-TUCSON-M13--3601-E-Britannia-Dr--BRITANNIA-M13/Manager--Contracts--Onsite-_01870801"
   },
   {
     "company": "RTX",
@@ -110509,23 +110290,6 @@
     "h1b_status": "unknown",
     "sponsorship_label": "Not specified",
     "url": "https://globalhr.wd5.myworkdayjobs.com/en-US/REC_RTX_Ext_Gateway/job/US-TX-MCKINNEY-513WD--2501-W-University-Dr--WING-D-BLDG/Senior-Program-Manager--EOIR-C-130-Programs_01868733"
-  },
-  {
-    "company": "RTX",
-    "title": "Flight Test Engineer II - Edwards AFB",
-    "location": "US-CA-EDWARDS-AFB-CUST ~ 295 N Wolfe Ave ~ EDWARDS AFB (External Site)",
-    "employment_type": "full-time",
-    "category": "Other",
-    "salary": "Not disclosed",
-    "salary_min": null,
-    "keywords": [
-      "electrical engineering",
-      "compliance"
-    ],
-    "sponsorship_evidence": "",
-    "h1b_status": "unknown",
-    "sponsorship_label": "Not specified",
-    "url": "https://globalhr.wd5.myworkdayjobs.com/en-US/REC_RTX_Ext_Gateway/job/US-CA-EDWARDS-AFB-CUST--295-N-Wolfe-Ave--EDWARDS-AFB-External-Site/Flight-Test-Engineer-II---Edwards-AFB_01870587"
   },
   {
     "company": "RTX",
@@ -115300,28 +115064,6 @@
   },
   {
     "company": "RTX",
-    "title": "Supplier Process Control Engineer - CSMC  (Remote)",
-    "location": "US-CT-REMOTE",
-    "employment_type": "full-time",
-    "category": "Other",
-    "salary": "Not disclosed",
-    "salary_min": null,
-    "keywords": [
-      "analytics",
-      "Excel",
-      "supply chain",
-      "procurement",
-      "recruiting",
-      "compliance",
-      "contracts"
-    ],
-    "sponsorship_evidence": "",
-    "h1b_status": "unknown",
-    "sponsorship_label": "Not specified",
-    "url": "https://globalhr.wd5.myworkdayjobs.com/en-US/REC_RTX_Ext_Gateway/job/US-CT-REMOTE/Supplier-Process-Control-Engineer---CSMC---Onsite-_01869887"
-  },
-  {
-    "company": "RTX",
     "title": "Raytheon Full Time 2026 - Effector Power Design Engineer II",
     "location": "US-AZ-TUCSON-M02 ~ 1151 E Hermans Rd ~ BLDG M02",
     "employment_type": "full-time",
@@ -116033,25 +115775,6 @@
     "h1b_status": "unknown",
     "sponsorship_label": "Not specified",
     "url": "https://globalhr.wd5.myworkdayjobs.com/en-US/REC_RTX_Ext_Gateway/job/US-TX-MCKINNEY-513WD--2501-W-University-Dr--WING-D-BLDG/Software-Engineer-II---Embedded-Software_01870006"
-  },
-  {
-    "company": "RTX",
-    "title": "Environmental, Health & Safety - Senior Manager (Onsite)",
-    "location": "US-NY-MIDDLETOWN-060 ~ 60 Turner Dr ~ TURNER, Ste 1",
-    "employment_type": "full-time",
-    "category": "Other",
-    "salary": "Not disclosed",
-    "salary_min": null,
-    "keywords": [
-      "Excel",
-      "audit",
-      "compliance",
-      "contracts"
-    ],
-    "sponsorship_evidence": "",
-    "h1b_status": "unknown",
-    "sponsorship_label": "Not specified",
-    "url": "https://globalhr.wd5.myworkdayjobs.com/en-US/REC_RTX_Ext_Gateway/job/US-NY-MIDDLETOWN-060--60-Turner-Dr--TURNER-Ste-1/Environmental--Health---Safety---Senior-Manager--Onsite-_01868527"
   },
   {
     "company": "RTX",
@@ -173324,6 +173047,38 @@
   },
   {
     "company": "Lowe's",
+    "title": "Full Time - Sales Specialist - Flooring - Day",
+    "location": "Albuquerque, NM (NE Albuquerque) 0756",
+    "employment_type": "full-time",
+    "category": "Sales & Marketing",
+    "salary": "Not disclosed",
+    "salary_min": null,
+    "keywords": [
+      "sales"
+    ],
+    "sponsorship_evidence": "",
+    "h1b_status": "unknown",
+    "sponsorship_label": "Not specified",
+    "url": "https://lowes.wd5.myworkdayjobs.com/en-US/LWS_External_CS/job/Albuquerque-NM-NE-Albuquerque-0756/Full-Time---Sales-Specialist---Flooring---Day_JR-02626025-1"
+  },
+  {
+    "company": "Lowe's",
+    "title": "Full Time - Cashier - Opening",
+    "location": "Houston, TX (N Central Houston) 0681",
+    "employment_type": "full-time",
+    "category": "Other",
+    "salary": "Not disclosed",
+    "salary_min": null,
+    "keywords": [
+      "sales"
+    ],
+    "sponsorship_evidence": "",
+    "h1b_status": "unknown",
+    "sponsorship_label": "Not specified",
+    "url": "https://lowes.wd5.myworkdayjobs.com/en-US/LWS_External_CS/job/Houston-TX-N-Central-Houston-0681/Full-Time---Cashier---Opening_JR-02637682"
+  },
+  {
+    "company": "Lowe's",
     "title": "Full Time - Merchandising Service Associate - Day",
     "location": "Dayville, CT (Killingly) 2396",
     "employment_type": "full-time",
@@ -174113,22 +173868,6 @@
     "h1b_status": "unknown",
     "sponsorship_label": "Not specified",
     "url": "https://lowes.wd5.myworkdayjobs.com/en-US/LWS_External_CS/job/Charlotte-NC-Northlake-Mall-2352/Full-Time---Fulfillment-Associate---Day_JR-02628377"
-  },
-  {
-    "company": "Lowe's",
-    "title": "Full Time - Cashier - Closing",
-    "location": "Philadelphia, PA (W Philadelphia) 2378",
-    "employment_type": "full-time",
-    "category": "Other",
-    "salary": "Not disclosed",
-    "salary_min": null,
-    "keywords": [
-      "sales"
-    ],
-    "sponsorship_evidence": "",
-    "h1b_status": "unknown",
-    "sponsorship_label": "Not specified",
-    "url": "https://lowes.wd5.myworkdayjobs.com/en-US/LWS_External_CS/job/Philadelphia-PA-W-Philadelphia-2378/Full-Time---Cashier---Closing_JR-02628372"
   },
   {
     "company": "Lowe's",
@@ -176071,22 +175810,6 @@
   },
   {
     "company": "Lowe's",
-    "title": "Full Time - Cashier - Day",
-    "location": "Tampa, FL (Central Tampa) 0564",
-    "employment_type": "full-time",
-    "category": "Other",
-    "salary": "Not disclosed",
-    "salary_min": null,
-    "keywords": [
-      "sales"
-    ],
-    "sponsorship_evidence": "",
-    "h1b_status": "unknown",
-    "sponsorship_label": "Not specified",
-    "url": "https://lowes.wd5.myworkdayjobs.com/en-US/LWS_External_CS/job/Tampa-FL-Central-Tampa-0564/Full-Time---Cashier---Day_JR-02626532-1"
-  },
-  {
-    "company": "Lowe's",
     "title": "Lead Analyst-Digital Brand Advocate",
     "location": "Mooresville, NC (SSC) 1999",
     "employment_type": "full-time",
@@ -177069,22 +176792,6 @@
     "h1b_status": "unknown",
     "sponsorship_label": "Not specified",
     "url": "https://lowes.wd5.myworkdayjobs.com/en-US/LWS_External_CS/job/Gainesville-FL-NE-Gainesville-2365/Full-Time---Sales-Specialist---Cabinets---Day_JR-02624884-1"
-  },
-  {
-    "company": "Lowe's",
-    "title": "Full Time - Sales Associate - Inside Lawn & Garden - Closing",
-    "location": "Alcoa, TN (Blount County) 0638",
-    "employment_type": "full-time",
-    "category": "Sales & Marketing",
-    "salary": "Not disclosed",
-    "salary_min": null,
-    "keywords": [
-      "sales"
-    ],
-    "sponsorship_evidence": "",
-    "h1b_status": "unknown",
-    "sponsorship_label": "Not specified",
-    "url": "https://lowes.wd5.myworkdayjobs.com/en-US/LWS_External_CS/job/Alcoa-TN-Blount-County-0638/Full-Time---Sales-Associate---Inside-Lawn---Garden---Closing_JR-02625394"
   },
   {
     "company": "Lowe's",
@@ -179718,22 +179425,6 @@
   },
   {
     "company": "Lowe's",
-    "title": "Full Time - Receiver/Stocker - Day",
-    "location": "Centerville, OH (Wilmington Pike) 0207",
-    "employment_type": "full-time",
-    "category": "Other",
-    "salary": "Not disclosed",
-    "salary_min": null,
-    "keywords": [
-      "sales"
-    ],
-    "sponsorship_evidence": "",
-    "h1b_status": "unknown",
-    "sponsorship_label": "Not specified",
-    "url": "https://lowes.wd5.myworkdayjobs.com/en-US/LWS_External_CS/job/Centerville-OH-Wilmington-Pike-0207/Full-Time---Receiver-Stocker---Day_JR-02622075"
-  },
-  {
-    "company": "Lowe's",
     "title": "Sr Analyst-Digital Commerce",
     "location": "Mooresville, NC (SSC) 1999",
     "employment_type": "full-time",
@@ -181923,28 +181614,6 @@
     "h1b_status": "unknown",
     "sponsorship_label": "Not specified",
     "url": "https://lowes.wd5.myworkdayjobs.com/en-US/LWS_External_CS/job/Mooresville-NC-SSC-1999/Assistant-Marketing-Manager--Loyalty-Partnerships_JR-02597369"
-  },
-  {
-    "company": "Lowe's",
-    "title": "Sr Financial Analyst - Merchandising GFO (Building Materials)",
-    "location": "Mooresville, NC (SSC) 1999",
-    "employment_type": "full-time",
-    "category": "Finance & Accounting",
-    "salary": "Not disclosed",
-    "salary_min": null,
-    "keywords": [
-      "Python",
-      "SQL",
-      "analytics",
-      "financial modeling",
-      "accounting",
-      "supply chain",
-      "sales"
-    ],
-    "sponsorship_evidence": "",
-    "h1b_status": "unknown",
-    "sponsorship_label": "Not specified",
-    "url": "https://lowes.wd5.myworkdayjobs.com/en-US/LWS_External_CS/job/Mooresville-NC-SSC-1999/Sr-Financial-Analyst---Merchandising-GFO--Building-Materials-_JR-02610261"
   },
   {
     "company": "Lowe's",
@@ -187125,72 +186794,6 @@
   },
   {
     "company": "Lowe's",
-    "title": "Full Time - Fulfillment Associate - Day",
-    "location": "Mansfield, OH (Ontario) 0264",
-    "employment_type": "full-time",
-    "category": "Other",
-    "salary": "Not disclosed",
-    "salary_min": null,
-    "keywords": [
-      "sales",
-      "compliance"
-    ],
-    "sponsorship_evidence": "",
-    "h1b_status": "unknown",
-    "sponsorship_label": "Not specified",
-    "url": "https://lowes.wd5.myworkdayjobs.com/en-US/LWS_External_CS/job/Mansfield-OH-Ontario-0264/Full-Time---Fulfillment-Associate---Day_JR-02589888"
-  },
-  {
-    "company": "Lowe's",
-    "title": "Full Time - Fulfillment Associate - Day",
-    "location": "Mansfield, OH (Ontario) 0264",
-    "employment_type": "full-time",
-    "category": "Other",
-    "salary": "Not disclosed",
-    "salary_min": null,
-    "keywords": [
-      "sales",
-      "compliance"
-    ],
-    "sponsorship_evidence": "",
-    "h1b_status": "unknown",
-    "sponsorship_label": "Not specified",
-    "url": "https://lowes.wd5.myworkdayjobs.com/en-US/LWS_External_CS/job/Mansfield-OH-Ontario-0264/Full-Time---Fulfillment-Associate---Day_JR-02589874"
-  },
-  {
-    "company": "Lowe's",
-    "title": "Full Time - Sales Associate - Outside Lawn & Garden - Closing",
-    "location": "Nashua, NH (S. Nashua) 2391",
-    "employment_type": "full-time",
-    "category": "Sales & Marketing",
-    "salary": "Not disclosed",
-    "salary_min": null,
-    "keywords": [
-      "sales"
-    ],
-    "sponsorship_evidence": "",
-    "h1b_status": "unknown",
-    "sponsorship_label": "Not specified",
-    "url": "https://lowes.wd5.myworkdayjobs.com/en-US/LWS_External_CS/job/Nashua-NH-S-Nashua-2391/Full-Time---Sales-Associate---Outside-Lawn---Garden---Closing_JR-02589866"
-  },
-  {
-    "company": "Lowe's",
-    "title": "Full Time - Sales Associate - Outside Lawn & Garden - Opening",
-    "location": "Nashua, NH (S. Nashua) 2391",
-    "employment_type": "full-time",
-    "category": "Sales & Marketing",
-    "salary": "Not disclosed",
-    "salary_min": null,
-    "keywords": [
-      "sales"
-    ],
-    "sponsorship_evidence": "",
-    "h1b_status": "unknown",
-    "sponsorship_label": "Not specified",
-    "url": "https://lowes.wd5.myworkdayjobs.com/en-US/LWS_External_CS/job/Nashua-NH-S-Nashua-2391/Full-Time---Sales-Associate---Outside-Lawn---Garden---Opening_JR-02589864"
-  },
-  {
-    "company": "Lowe's",
     "title": "Store Ops Consultant - Backend Operations",
     "location": "Mooresville, NC (SSC) 1999",
     "employment_type": "full-time",
@@ -191924,25 +191527,6 @@
   },
   {
     "company": "Cisco Systems",
-    "title": "Solutions Engineer - Charlotte, NC",
-    "location": "Remote - North Carolina, USA",
-    "employment_type": "full-time",
-    "category": "Other",
-    "salary": "Not disclosed",
-    "salary_min": null,
-    "keywords": [
-      "AWS",
-      "Terraform",
-      "Excel",
-      "sales"
-    ],
-    "sponsorship_evidence": "",
-    "h1b_status": "unknown",
-    "sponsorship_label": "Not specified",
-    "url": "https://cisco.wd5.myworkdayjobs.com/en-US/Cisco_Careers/job/Remote---North-Carolina-USA/Solutions-Engineer_2016949"
-  },
-  {
-    "company": "Cisco Systems",
     "title": "Hardware Engineering Technical Leader",
     "location": "San Jose, California, US",
     "employment_type": "full-time",
@@ -194715,24 +194299,6 @@
     "h1b_status": "unknown",
     "sponsorship_label": "Not specified",
     "url": "https://nike.wd1.myworkdayjobs.com/en-US/nke/job/Beaverton-Oregon/Senior-Designer--GFB-Footwear-Color---Graphics-Design_R-88091"
-  },
-  {
-    "company": "Nike",
-    "title": "Sr. Manager, Network Planning Insights",
-    "location": "Memphis, Tennessee",
-    "employment_type": "full-time",
-    "category": "Other",
-    "salary": "Not disclosed",
-    "salary_min": null,
-    "keywords": [
-      "analytics",
-      "supply chain",
-      "logistics"
-    ],
-    "sponsorship_evidence": "",
-    "h1b_status": "unknown",
-    "sponsorship_label": "Not specified",
-    "url": "https://nike.wd1.myworkdayjobs.com/en-US/nke/job/Memphis-Tennessee/Sr-Manager--Network-Planning-Insights_R-89393-1"
   },
   {
     "company": "Nike",
@@ -199950,20 +199516,6 @@
     "h1b_status": "unknown",
     "sponsorship_label": "Not specified",
     "url": "https://thermofisher.wd5.myworkdayjobs.com/en-US/ThermoFisherCareers/job/Cambridge-Massachusetts-USA/Lead-Site-Specialist---First-Shift_R-01365901"
-  },
-  {
-    "company": "Thermo Fisher Scientific",
-    "title": "Scientific Director -- Epidemiology",
-    "location": "Remote, Massachusetts, USA",
-    "employment_type": "full-time",
-    "category": "Other",
-    "salary": "Not disclosed",
-    "salary_min": null,
-    "keywords": [],
-    "sponsorship_evidence": "",
-    "h1b_status": "unknown",
-    "sponsorship_label": "Not specified",
-    "url": "https://thermofisher.wd5.myworkdayjobs.com/en-US/ThermoFisherCareers/job/Remote-Massachusetts-USA/Scientific-Director----Epidemiology_R-01361929-1"
   },
   {
     "company": "Thermo Fisher Scientific",
@@ -206830,25 +206382,6 @@
     "h1b_status": "unknown",
     "sponsorship_label": "Not specified",
     "url": "https://thermofisher.wd5.myworkdayjobs.com/en-US/ThermoFisherCareers/job/South-San-Francisco-California-USA/Sr-Inventory-Management-Specialist_R-01362097"
-  },
-  {
-    "company": "Thermo Fisher Scientific",
-    "title": "Sr. Material Handler",
-    "location": "Riverside, California, USA",
-    "employment_type": "full-time",
-    "category": "Other",
-    "salary": "Not disclosed",
-    "salary_min": null,
-    "keywords": [
-      "supply chain",
-      "logistics",
-      "sales",
-      "compliance"
-    ],
-    "sponsorship_evidence": "",
-    "h1b_status": "unknown",
-    "sponsorship_label": "Not specified",
-    "url": "https://thermofisher.wd5.myworkdayjobs.com/en-US/ThermoFisherCareers/job/Riverside-California-USA/Sr-Material-Handler_R-01361629"
   },
   {
     "company": "Thermo Fisher Scientific",

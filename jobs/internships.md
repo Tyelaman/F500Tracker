@@ -1,12 +1,12 @@
 # F500Tracker internships
 
-Last updated: August 29, 2026 at 21:06 UTC
+Last updated: August 30, 2026 at 05:34 UTC
 
-Current internships: 268
+Current internships: 266
 
 ## Categories
 
-[Software & IT (13)](#software-it) · [Data & AI (10)](#data-ai) · [Engineering (21)](#engineering) · [Finance & Accounting (14)](#finance-accounting) · [Sales & Marketing (10)](#sales-marketing) · [Operations & Supply Chain (11)](#operations-supply-chain) · [People & Legal (5)](#people-legal) · [Other (184)](#other)
+[Software & IT (13)](#software-it) · [Data & AI (10)](#data-ai) · [Engineering (21)](#engineering) · [Finance & Accounting (14)](#finance-accounting) · [Sales & Marketing (10)](#sales-marketing) · [Operations & Supply Chain (10)](#operations-supply-chain) · [People & Legal (5)](#people-legal) · [Other (183)](#other)
 
 <a id="software-it"></a>
 
@@ -135,14 +135,13 @@ Open positions: 10
 
 ## Operations & Supply Chain
 
-Open positions: 11
+Open positions: 10
 
 | Rank | Company | Position | Location | Category | Salary | Keywords | Sponsorship | Apply |
 |---:|---|---|---|---|---|---|---|---|
 | 44 | Walt Disney | Conservation Education Operations Intern, Spring 2027 | Lake Buena Vista, FL, USA | Operations & Supply Chain | $23.6/hr | — | Not specified | [Apply](https://disney.wd5.myworkdayjobs.com/en-US/disneycareer/job/Lake-Buena-Vista-FL-USA/Conservation-Education-Operations-Intern--Spring-2027_10159362) |
 | 44 | Walt Disney | Attractions Operations and Sustainment Intern, Spring 2027 | Lake Buena Vista, FL, USA | Operations & Supply Chain | $22.1/hr | Excel · audit | Not specified | [Apply](https://disney.wd5.myworkdayjobs.com/en-US/disneycareer/job/Lake-Buena-Vista-FL-USA/Attractions-Operations-and-Sustainment-Intern--Spring-2027_10157953) |
 | 44 | Walt Disney | Park Operations Project Development Intern, Spring 2027 | Lake Buena Vista, FL, USA | Operations & Supply Chain | $22.5/hr | — | Not specified | [Apply](https://disney.wd5.myworkdayjobs.com/en-US/disneycareer/job/Lake-Buena-Vista-FL-USA/Park-Operations-Project-Development-Intern--Spring-2027_10158439) |
-| 44 | Walt Disney | Walt Disney World Procurement Services Intern, Spring 2027 | Lake Buena Vista, FL, USA | Operations & Supply Chain | Not disclosed | Excel · accounting · supply chain · procurement | Not specified | [Apply](https://disney.wd5.myworkdayjobs.com/en-US/disneycareer/job/Lake-Buena-Vista-FL-USA/Walt-Disney-World-Procurement-Services-Intern--Spring-2027_10159048) |
 | 45 | Johnson & Johnson | Supply Chain Risk Management Co-Op | Titusville, New Jersey, United States of America | Operations & Supply Chain | $23.5/hr | analytics · Excel · risk management · supply chain · compliance | Not specified | [Apply](https://jj.wd5.myworkdayjobs.com/en-US/JJ/job/Titusville-New-Jersey-United-States-of-America/Supply-Chain-Risk-Management-Co-Op_R-095278) |
 | 49 | RTX | Global Supply Chain Co-Op (January 2027) (Hybrid) | US-PR-AGUADILLA-110 ~ Rd 110 N Km 28.8 ~ RD110 | Operations & Supply Chain | Not disclosed | supply chain · procurement · compliance · contracts | Not specified | [Apply](https://globalhr.wd5.myworkdayjobs.com/en-US/REC_RTX_Ext_Gateway/job/US-PR-AGUADILLA-110--Rd-110-N-Km-288--RD110/Global-Supply-Chain-Co-Op--January-2027---Hybrid-_01870439) |
 | 49 | RTX | Stage - Hiver 2027 - Stagiaire en Ressources Humaines – Opérations / Internship - Winter 2027 - Human Resources Operations Intern | CA-QC-LONGUEUIL-J01 ~ 1000 Blvd Marie-Victorin ~ J01 BLDG | Operations & Supply Chain | Not disclosed | human resources | Not specified | [Apply](https://globalhr.wd5.myworkdayjobs.com/en-US/REC_RTX_Ext_Gateway/job/CA-QC-LONGUEUIL-J01--1000-Blvd-Marie-Victorin--J01-BLDG/Stage---Hiver-2027---Stagiaire-en-Ressources-Humaines---Oprations---Internship---Winter-2027---Human-Resources-Operations-Intern_01863005) |
@@ -173,7 +172,7 @@ Open positions: 5
 
 ## Other
 
-Open positions: 184
+Open positions: 183
 
 | Rank | Company | Position | Location | Category | Salary | Keywords | Sponsorship | Apply |
 |---:|---|---|---|---|---|---|---|---|
@@ -259,7 +258,6 @@ Open positions: 184
 | 44 | Walt Disney | WDW Analytical & Strategic Planning Intern, Spring 2027 | Lake Buena Vista, FL, USA | Other | Not disclosed | SQL · analytics · Excel | Not specified | [Apply](https://disney.wd5.myworkdayjobs.com/en-US/disneycareer/job/Lake-Buena-Vista-FL-USA/WDW-Analytical---Strategic-Planning-Intern--Spring-2027_10158138) |
 | 44 | Walt Disney | WDW Architecture Intern, Spring 2027 | Lake Buena Vista, FL, USA | Other | Not disclosed | Excel | Not specified | [Apply](https://disney.wd5.myworkdayjobs.com/en-US/disneycareer/job/Lake-Buena-Vista-FL-USA/WDW-Architecture-Intern--Spring-2027_10158147) |
 | 44 | Walt Disney | WDW Fire Protection Engineering Intern, Spring 2027 | Lake Buena Vista, FL, USA | Other | $31/hr | Excel · compliance | Not specified | [Apply](https://disney.wd5.myworkdayjobs.com/en-US/disneycareer/job/Lake-Buena-Vista-FL-USA/WDW-Fire-Protection-Engineering-Intern--Spring-2027_10158135) |
-| 44 | Walt Disney | Walt Disney World Strategic Sourcing Intern, Spring 2027 | Lake Buena Vista, FL, USA | Other | Not disclosed | Excel · supply chain · logistics · compliance · contracts | Not specified | [Apply](https://disney.wd5.myworkdayjobs.com/en-US/disneycareer/job/Lake-Buena-Vista-FL-USA/Walt-Disney-World-Strategic-Sourcing-Intern--Spring-2027_10158738-1) |
 | 45 | Johnson & Johnson | Process Engineering Co-op | Irving, Texas, United States of America | Other | Not disclosed | recruiting · compliance | Not specified | [Apply](https://jj.wd5.myworkdayjobs.com/en-US/JJ/job/Irving-Texas-United-States-of-America/Process-Engineering-Co-op_R-095316) |
 | 45 | Johnson & Johnson | OPEX Co-Op | Gurabo, Puerto Rico, United States of America | Other | Not disclosed | analytics · Excel · mechanical engineering · supply chain · compliance | Not specified | [Apply](https://jj.wd5.myworkdayjobs.com/en-US/JJ/job/Gurabo-Puerto-Rico-United-States-of-America/OPEX-Co-Op_R-095047) |
 | 45 | Johnson & Johnson | Deliver Business Unit Integration Co-Op | Raritan, New Jersey, United States of America | Other | $23/hr | analytics · Excel · supply chain · recruiting | Not specified | [Apply](https://jj.wd5.myworkdayjobs.com/en-US/JJ/job/Raritan-New-Jersey-United-States-of-America/Deliver-Business-Unit-Integration-Co-Op_R-094887) |
