@@ -47805,7 +47805,7 @@
   },
   "greenhouse:Carvana:8157189": {
     "company": "Carvana",
-    "enriched_at": "2026-08-29T07:04:57.152205+00:00",
+    "enriched_at": "2026-08-30T16:50:57.717582+00:00",
     "external_id": "8157189",
     "h1b_mentioned": false,
     "h1b_status": "does_not_support_h1b",
@@ -47819,7 +47819,7 @@
     "salary_period": "",
     "salary_text": "",
     "source": "greenhouse",
-    "source_updated_at": "2026-08-28T18:56:05-04:00",
+    "source_updated_at": "2026-08-30T12:41:07-04:00",
     "sponsorship_evidence": "&nbsp; This role is not eligible for visa sponsorship."
   },
   "greenhouse:Carvana:8157212": {
@@ -183697,7 +183697,7 @@
   },
   "workday:Lowe's:/job/Columbia-SC-NE-Columbia-0433/Sales-Specialist-Flooring_JR-02619874": {
     "company": "Lowe's",
-    "enriched_at": "2026-08-23T13:09:34.324771+00:00",
+    "enriched_at": "2026-08-30T16:49:15.899487+00:00",
     "external_id": "/job/Columbia-SC-NE-Columbia-0433/Sales-Specialist-Flooring_JR-02619874",
     "h1b_mentioned": false,
     "h1b_status": "unknown",
@@ -230131,6 +230131,26 @@
     "h1b_status": "unknown",
     "keywords": [
       "artificial intelligence",
+      "recruiting"
+    ],
+    "salary_currency": "",
+    "salary_max": null,
+    "salary_min": null,
+    "salary_period": "",
+    "salary_text": "",
+    "source": "workday",
+    "source_updated_at": "",
+    "sponsorship_evidence": ""
+  },
+  "workday:NVIDIA:/job/US-CA-Santa-Clara/Principal-Software-Engineer--At-Scale-Reliability-and-Fleet-Intelligence---CSP-Engagements_JR2020320": {
+    "company": "NVIDIA",
+    "enriched_at": "2026-08-30T16:40:23.446380+00:00",
+    "external_id": "/job/US-CA-Santa-Clara/Principal-Software-Engineer--At-Scale-Reliability-and-Fleet-Intelligence---CSP-Engagements_JR2020320",
+    "h1b_mentioned": false,
+    "h1b_status": "unknown",
+    "keywords": [
+      "artificial intelligence",
+      "electrical engineering",
       "recruiting"
     ],
     "salary_currency": "",
@@ -457196,6 +457216,27 @@
     "source_updated_at": "",
     "sponsorship_evidence": ""
   },
+  "workday:Truist Financial:/job/Austin-TX/Universal-Banker-Rollingwood_R0118487": {
+    "company": "Truist Financial",
+    "enriched_at": "2026-08-30T16:50:55.250799+00:00",
+    "external_id": "/job/Austin-TX/Universal-Banker-Rollingwood_R0118487",
+    "h1b_mentioned": false,
+    "h1b_status": "unknown",
+    "keywords": [
+      "tax",
+      "risk management",
+      "sales",
+      "compliance"
+    ],
+    "salary_currency": "",
+    "salary_max": null,
+    "salary_min": null,
+    "salary_period": "",
+    "salary_text": "",
+    "source": "workday",
+    "source_updated_at": "",
+    "sponsorship_evidence": ""
+  },
   "workday:Truist Financial:/job/Baltimore-MD/Universal-Banker--Arbutus-Plaza_R0118159": {
     "company": "Truist Financial",
     "enriched_at": "2026-08-19T19:05:55.372985+00:00",
@@ -459058,6 +459099,27 @@
     "company": "Truist Financial",
     "enriched_at": "2026-08-26T02:09:47.305246+00:00",
     "external_id": "/job/Gambrills-MD/Relationship-Banker--Waugh-Chapel_R0118370",
+    "h1b_mentioned": false,
+    "h1b_status": "unknown",
+    "keywords": [
+      "tax",
+      "risk management",
+      "sales",
+      "compliance"
+    ],
+    "salary_currency": "",
+    "salary_max": null,
+    "salary_min": null,
+    "salary_period": "",
+    "salary_text": "",
+    "source": "workday",
+    "source_updated_at": "",
+    "sponsorship_evidence": ""
+  },
+  "workday:Truist Financial:/job/Garland-TX/Relationship-Banker-Senior-Relationship-Banker---South-Garland_R0118549": {
+    "company": "Truist Financial",
+    "enriched_at": "2026-08-30T16:50:55.241184+00:00",
+    "external_id": "/job/Garland-TX/Relationship-Banker-Senior-Relationship-Banker---South-Garland_R0118549",
     "h1b_mentioned": false,
     "h1b_status": "unknown",
     "keywords": [
@@ -482458,6 +482520,27 @@
     "salary_min": 179700.0,
     "salary_period": "year",
     "salary_text": "$179,700 - $241,000 per year",
+    "source": "workday",
+    "source_updated_at": "",
+    "sponsorship_evidence": ""
+  },
+  "workday:Walt Disney:/job/New-York-NY-USA/Manager--Growth-Marketing-Platforms---Audience_10154636": {
+    "company": "Walt Disney",
+    "enriched_at": "2026-08-30T16:43:46.228851+00:00",
+    "external_id": "/job/New-York-NY-USA/Manager--Growth-Marketing-Platforms---Audience_10154636",
+    "h1b_mentioned": false,
+    "h1b_status": "unknown",
+    "keywords": [
+      "audit",
+      "sales",
+      "compliance",
+      "legal"
+    ],
+    "salary_currency": "USD",
+    "salary_max": 178000.0,
+    "salary_min": 132800.0,
+    "salary_period": "year",
+    "salary_text": "$132,800 to $178,000 per year",
     "source": "workday",
     "source_updated_at": "",
     "sponsorship_evidence": ""
