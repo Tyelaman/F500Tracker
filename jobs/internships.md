@@ -1,12 +1,12 @@
 # F500Tracker internships
 
-Last updated: August 31, 2026 at 05:43 UTC
+Last updated: August 31, 2026 at 14:00 UTC
 
 Current internships: 255
 
 ## Categories
 
-[Software & IT (13)](#software-it) · [Data & AI (7)](#data-ai) · [Engineering (14)](#engineering) · [Finance & Accounting (14)](#finance-accounting) · [Sales & Marketing (10)](#sales-marketing) · [Operations & Supply Chain (11)](#operations-supply-chain) · [People & Legal (5)](#people-legal) · [Other (181)](#other)
+[Software & IT (13)](#software-it) · [Data & AI (7)](#data-ai) · [Engineering (13)](#engineering) · [Finance & Accounting (14)](#finance-accounting) · [Sales & Marketing (10)](#sales-marketing) · [Operations & Supply Chain (11)](#operations-supply-chain) · [People & Legal (5)](#people-legal) · [Other (182)](#other)
 
 <a id="software-it"></a>
 
@@ -54,7 +54,7 @@ Open positions: 7
 
 ## Engineering
 
-Open positions: 14
+Open positions: 13
 
 | Rank | Company | Position | Location | Category | Salary | Keywords | Sponsorship | Apply |
 |---:|---|---|---|---|---|---|---|---|
@@ -68,7 +68,6 @@ Open positions: 14
 | 45 | Johnson & Johnson | Electrical Engineering Co-Op, Spring 2027 | Cincinnati, Ohio, United States of America | Engineering | Not disclosed | Python · risk management · electrical engineering · recruiting | Not specified | [Apply](https://jj.wd5.myworkdayjobs.com/en-US/JJ/job/Cincinnati-Ohio-United-States-of-America/Electrical-Engineer-Co-Op--Spring-2027_R-095700) |
 | 49 | RTX | Stage - Hiver 2027 - Ingénierie de fabrication / Internship - Winter 2027 - Manufacturing Engineer | CA-QC-LONGUEUIL-J01 ~ 1000 Blvd Marie-Victorin ~ J01 BLDG | Engineering | Not disclosed | — | Not specified | [Apply](https://globalhr.wd5.myworkdayjobs.com/en-US/REC_RTX_Ext_Gateway/job/CA-QC-LONGUEUIL-J01--1000-Blvd-Marie-Victorin--J01-BLDG/Stage---Hiver-2027---Ingnierie-de-fabrication---Internship---Winter-2027---Manufacturing-Engineer_01864153) |
 | 49 | RTX | Stage - Hiver 2027 - Analyste mécanique Multi-disciplinaire / Internship - Winter 2027 - Multidisciplinary Mechanical Analyst | CA-QC-LONGUEUIL-J12 ~ 1000 Blvd Marie-Victorin ~ J12 BLDG | Engineering | Not disclosed | — | Not specified | [Apply](https://globalhr.wd5.myworkdayjobs.com/en-US/REC_RTX_Ext_Gateway/job/CA-QC-LONGUEUIL-J12--1000-Blvd-Marie-Victorin--J12-BLDG/Stage---Hiver-2027---Analyste-mcanique-Multi-disciplinaire---Internship---Winter-2027---Multidisciplinary-Mechanical-Analyst_01863309) |
-| 49 | RTX | Electrical Engineer Intern Co-Op | US-AZ-TUCSON-805 ~ 1151 E Hermans Rd ~ BLDG 805 | Engineering | Not disclosed | Python · compliance | Not specified | [Apply](https://globalhr.wd5.myworkdayjobs.com/en-US/REC_RTX_Ext_Gateway/job/US-AZ-TUCSON-805--1151-E-Hermans-Rd--BLDG-805/Electrical-Engineer-Intern-Co-Op_01868699) |
 | 49 | RTX | Stage - Hiver 2027 – Ingénieur Qualité / Internship - Winter 2027 - Quality Engineer | CA-QC-LONGUEUIL-J01 ~ 1000 Blvd Marie-Victorin ~ J01 BLDG | Engineering | Not disclosed | — | Not specified | [Apply](https://globalhr.wd5.myworkdayjobs.com/en-US/REC_RTX_Ext_Gateway/job/CA-QC-LONGUEUIL-J01--1000-Blvd-Marie-Victorin--J01-BLDG/XMLNAME--Stage---Hiver-2027---Ingnieur-Qualit---Internship---Winter-2027---Quality-Engineer_01864619) |
 | 49 | RTX | Stage - Hiver 2027 - Bureau de la Règlementation sur les Produits / Internship  Winter 2027 - Global Chemical Regulations Office | CA-QC-LONGUEUIL-J01 ~ 1000 Blvd Marie-Victorin ~ J01 BLDG | Engineering | Not disclosed | compliance | Not specified | [Apply](https://globalhr.wd5.myworkdayjobs.com/en-US/REC_RTX_Ext_Gateway/job/CA-QC-LONGUEUIL-J01--1000-Blvd-Marie-Victorin--J01-BLDG/Stage---Hiver-2027---Bureau-de-la-Rglementation-sur-les-Produits---Internship--Winter-2027---Global-Chemical-Regulations-Office_01864165) |
 | 49 | RTX | 2027 Stage Hiver - Stagiaire en Hygiene industrielle / 2027 Winter Internship - Industrial Hygiene intern | CA-QC-LONGUEUIL-J01 ~ 1000 Blvd Marie-Victorin ~ J01 BLDG | Engineering | Not disclosed | — | Not specified | [Apply](https://globalhr.wd5.myworkdayjobs.com/en-US/REC_RTX_Ext_Gateway/job/CA-QC-LONGUEUIL-J01--1000-Blvd-Marie-Victorin--J01-BLDG/XMLNAME-2027-Stage-Hiver---Stagiaire-en-Hygiene-industrielle---2027-Winter-Internship---Industrial-Hygiene-intern_01864096) |
@@ -151,9 +150,9 @@ Open positions: 5
 
 | Rank | Company | Position | Location | Category | Salary | Keywords | Sponsorship | Apply |
 |---:|---|---|---|---|---|---|---|---|
+| 49 | RTX | Human Resources Intern /Leadership Development Program (June 2027) (Hybrid) | US-VA-ARLINGTON-108 ~ 1100 Wilson Blvd ~ ROSSLYN HQ | People & Legal | Not disclosed | human resources · recruiting · compliance | Not specified | [Apply](https://globalhr.wd5.myworkdayjobs.com/en-US/REC_RTX_Ext_Gateway/job/US-VA-ARLINGTON-108--1100-Wilson-Blvd--ROSSLYN-HQ/Leadership-Development-Program---Human-Resources-Intern--June-2027---Hybrid-_01867193) |
 | 49 | RTX | Stage - Hiver 2027 - Stagiaire en Ressources Humaines /Internship - Winter 2027 - HR Internship | CA-QC-LONGUEUIL-J01 ~ 1000 Blvd Marie-Victorin ~ J01 BLDG | People & Legal | Not disclosed | human resources | Not specified | [Apply](https://globalhr.wd5.myworkdayjobs.com/en-US/REC_RTX_Ext_Gateway/job/CA-QC-LONGUEUIL-J01--1000-Blvd-Marie-Victorin--J01-BLDG/Stage---Hiver-2027---Stagiaire-en-Ressources-Humaines--Internship---Winter-2027---HR-Internship_01869960) |
 | 49 | RTX | Stage - Hiver 2027 - Stagiaire en Ressources Humaines / Internship - Winter 2027 -  Human Resources Internship | CA-QC-LONGUEUIL-J01 ~ 1000 Blvd Marie-Victorin ~ J01 BLDG | People & Legal | Not disclosed | Excel · human resources | Not specified | [Apply](https://globalhr.wd5.myworkdayjobs.com/en-US/REC_RTX_Ext_Gateway/job/CA-QC-LONGUEUIL-J01--1000-Blvd-Marie-Victorin--J01-BLDG/Stage---Hiver-2027---Stagiaire-en-Ressources-Humaines---Internship---Winter-2027----Human-Resources-Internship_01863091) |
-| 49 | RTX | Stage - Hiver 2027 - Stagiaire en recrutement / Internship - Winter 2027 - Talent Acquisition Intern | CA-QC-LONGUEUIL-J01 ~ 1000 Blvd Marie-Victorin ~ J01 BLDG | People & Legal | Not disclosed | human resources · talent acquisition | Not specified | [Apply](https://globalhr.wd5.myworkdayjobs.com/en-US/REC_RTX_Ext_Gateway/job/CA-QC-LONGUEUIL-J01--1000-Blvd-Marie-Victorin--J01-BLDG/Stage---Hiver-2027---Stagiaire-en-recrutement---Internship---Winter-2027---Talent-Acquisition-Intern_01861789) |
 | 49 | RTX | Stage - Hiver 2027 - Etudiant en droit / Internship - Winter 2027 - Legal student | CA-QC-LONGUEUIL-J01 ~ 1000 Blvd Marie-Victorin ~ J01 BLDG | People & Legal | Not disclosed | legal · contracts | Not specified | [Apply](https://globalhr.wd5.myworkdayjobs.com/en-US/REC_RTX_Ext_Gateway/job/CA-QC-LONGUEUIL-J01--1000-Blvd-Marie-Victorin--J01-BLDG/Stage---Hiver-2027---Etudiant-en-droit---Internship---Winter-2027---Legal-student_01865040) |
 | 49 | RTX | Stage - Hiver - Etudiant en droit / Internship - Winter - Legal student | CA-QC-LONGUEUIL-J01 ~ 1000 Blvd Marie-Victorin ~ J01 BLDG | People & Legal | Not disclosed | supply chain · legal · contracts | Not specified | [Apply](https://globalhr.wd5.myworkdayjobs.com/en-US/REC_RTX_Ext_Gateway/job/CA-QC-LONGUEUIL-J01--1000-Blvd-Marie-Victorin--J01-BLDG/Stage---Hiver---Etudiant-en-droit---Internship---Winter---Legal-student_01867495) |
 
@@ -163,7 +162,7 @@ Open positions: 5
 
 ## Other
 
-Open positions: 181
+Open positions: 182
 
 | Rank | Company | Position | Location | Category | Salary | Keywords | Sponsorship | Apply |
 |---:|---|---|---|---|---|---|---|---|
@@ -222,6 +221,7 @@ Open positions: 181
 | 39 | Morgan Stanley | Intern | Jackson, Tennessee, United States of America | Other | Not disclosed | sales · recruiting | Not specified | [Apply](https://ms.wd5.myworkdayjobs.com/en-US/External/job/Jackson-Tennessee-United-States-of-America/Intern_JR042465) |
 | 39 | Morgan Stanley | Intern | Columbus, Ohio, United States of America | Other | Not disclosed | sales · recruiting | Not specified | [Apply](https://ms.wd5.myworkdayjobs.com/en-US/External/job/Columbus-Ohio-United-States-of-America/Intern_JR042395-1) |
 | 44 | Walt Disney | System App Dev & Sustainment Intern, Spring 2027 | Orlando, FL, USA | Other | $43/hr | Java · JavaScript · TypeScript · SQL · React | Not specified | [Apply](https://disney.wd5.myworkdayjobs.com/en-US/disneycareer/job/Orlando-FL-USA/System-App-Dev---Sustainment-Intern_10159463) |
+| 44 | Walt Disney | WDI Project Controls Estimating Intern, Spring 2027 | Glendale, CA, USA | Other | $31/hr | Excel | Not specified | [Apply](https://disney.wd5.myworkdayjobs.com/en-US/disneycareer/job/Glendale-CA-USA/WDI-Project-Controls-Estimating-Intern--Spring-2027_10159492) |
 | 44 | Walt Disney | WDI Construction Management Intern, Spring 2027 | Lake Buena Vista, FL, USA | Other | $31/hr | Excel | Not specified | [Apply](https://disney.wd5.myworkdayjobs.com/en-US/disneycareer/job/Lake-Buena-Vista-FL-USA/WDI-Construction-Management-Intern--Spring-2027_10158251) |
 | 44 | Walt Disney | WDI Project Controls Planning Intern, Spring 2027 | Lake Buena Vista, FL, USA | Other | $31/hr | analytics | Not specified | [Apply](https://disney.wd5.myworkdayjobs.com/en-US/disneycareer/job/Lake-Buena-Vista-FL-USA/WDI-Project-Controls-Planning-Intern--Spring-2027_10158254) |
 | 44 | Walt Disney | Food & Beverage and Merchandise Stylized Photography Intern, Spring 2027 | Lake Buena Vista, FL, USA | Other | $22.1/hr | logistics | Not specified | [Apply](https://disney.wd5.myworkdayjobs.com/en-US/disneycareer/job/Lake-Buena-Vista-FL-USA/Food---Beverage-and-Merchandise-Stylized-Photography-Intern--Spring-2027_10159304) |
