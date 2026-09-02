@@ -1,12 +1,12 @@
 # F500Tracker internships
 
-Last updated: September 02, 2026 at 04:48 UTC
+Last updated: September 02, 2026 at 11:32 UTC
 
-Current internships: 291
+Current internships: 290
 
 ## Categories
 
-[Software & IT (17)](#software-it) · [Data & AI (8)](#data-ai) · [Engineering (15)](#engineering) · [Finance & Accounting (16)](#finance-accounting) · [Sales & Marketing (9)](#sales-marketing) · [Operations & Supply Chain (13)](#operations-supply-chain) · [People & Legal (6)](#people-legal) · [Other (207)](#other)
+[Software & IT (17)](#software-it) · [Data & AI (8)](#data-ai) · [Engineering (15)](#engineering) · [Finance & Accounting (16)](#finance-accounting) · [Sales & Marketing (8)](#sales-marketing) · [Operations & Supply Chain (13)](#operations-supply-chain) · [People & Legal (6)](#people-legal) · [Other (207)](#other)
 
 <a id="software-it"></a>
 
@@ -112,7 +112,7 @@ Open positions: 16
 
 ## Sales & Marketing
 
-Open positions: 9
+Open positions: 8
 
 | Rank | Company | Position | Location | Category | Salary | Keywords | Sponsorship | Apply |
 |---:|---|---|---|---|---|---|---|---|
@@ -120,7 +120,6 @@ Open positions: 9
 | 125 | Micron Technology | Intern - Global Communications/Policy Comms | MTI - WASHINGTON  DC - 25 Mass - Office | Sales & Marketing | Not disclosed | — | Not specified | [Apply](https://micron.wd1.myworkdayjobs.com/en-US/External/job/MTI---WASHINGTON--DC---25-Mass---Office/Intern---Global-Communications-Policy-Comms_JR109462) |
 | 125 | Micron Technology | Intern - Marketing Research | Meridian, ID | Sales & Marketing | Not disclosed | artificial intelligence · analytics | Not specified | [Apply](https://micron.wd1.myworkdayjobs.com/en-US/External/job/Meridian-ID/Intern---Marketing-Research_JR109460) |
 | 125 | Micron Technology | Intern - CDBU Marketing | San Jose, CA | Sales & Marketing | Not disclosed | artificial intelligence · electrical engineering · sales | Not specified | [Apply](https://micron.wd1.myworkdayjobs.com/en-US/External/job/San-Jose-CA/Intern---CDBU-Marketing_JR109697) |
-| 44 | Walt Disney | Marketing Strategy Intern, Walt Disney World Resort, Spring 2027 | Celebration, FL, USA | Sales & Marketing | $23/hr | — | Not specified | [Apply](https://disney.wd5.myworkdayjobs.com/en-US/disneycareer/job/Celebration-FL-USA/Marketing-Strategy-Intern--Walt-Disney-World-Resort--Spring-2027_10159113) |
 | 49 | RTX | Stage - Hiver 2027 - Stagiaire en développement d'affaires / Internship - Winter 2027 -Business Development Intern | CA-QC-LONGUEUIL-J01 ~ 1000 Blvd Marie-Victorin ~ J01 BLDG | Sales & Marketing | Not disclosed | Python · SQL · data science · Excel | Not specified | [Apply](https://globalhr.wd5.myworkdayjobs.com/en-US/REC_RTX_Ext_Gateway/job/CA-QC-LONGUEUIL-J01--1000-Blvd-Marie-Victorin--J01-BLDG/Stage---Hiver-2027---Stagiaire-en-dveloppement-d-affaires---Internship---Winter-2027--Business-Development-Intern_01864752) |
 | 49 | RTX | Stage - Hiver 2027 - Administration des contrats et analyse des ventes / Internship Winter 2027 - Contract Administration & Sales Analysis | CA-QC-LONGUEUIL-J01 ~ 1000 Blvd Marie-Victorin ~ J01 BLDG | Sales & Marketing | Not disclosed | supply chain · sales · contracts | Not specified | [Apply](https://globalhr.wd5.myworkdayjobs.com/en-US/REC_RTX_Ext_Gateway/job/CA-QC-LONGUEUIL-J01--1000-Blvd-Marie-Victorin--J01-BLDG/Stage---Hiver-2027---Administration-des-contrats-et-analyse-des-ventes---Internship-Winter-2027---Contract-Administration---Sales-Analysis_01863014) |
 | 78 | Prudential Financial | PGIM: 2027 Global Wealth, Sales Internship Program | Newark, NJ, USA | Sales & Marketing | $28–$30/hr | sales | No sponsorship for this position | [Apply](https://pru.wd5.myworkdayjobs.com/en-US/Careers/job/Newark-NJ-USA/PGIM--2027-Global-Wealth--Sales-Internship-Program_R-124802-1) |
@@ -248,6 +247,7 @@ Open positions: 207
 | 39 | Morgan Stanley | Intern | Jackson, Tennessee, United States of America | Other | Not disclosed | sales · recruiting | Not specified | [Apply](https://ms.wd5.myworkdayjobs.com/en-US/External/job/Jackson-Tennessee-United-States-of-America/Intern_JR042465) |
 | 39 | Morgan Stanley | Intern | Columbus, Ohio, United States of America | Other | Not disclosed | sales · recruiting | Not specified | [Apply](https://ms.wd5.myworkdayjobs.com/en-US/External/job/Columbus-Ohio-United-States-of-America/Intern_JR042395-1) |
 | 44 | Walt Disney | System App Dev & Sustainment Intern, Spring 2027 | Orlando, FL, USA | Other | $43/hr | Java · JavaScript · TypeScript · SQL · React | Not specified | [Apply](https://disney.wd5.myworkdayjobs.com/en-US/disneycareer/job/Orlando-FL-USA/System-App-Dev---Sustainment-Intern_10159463) |
+| 44 | Walt Disney | DCL Environmental Affairs Intern, Spring 2027 | Celebration, FL, USA | Other | $31/hr | Excel · compliance · legal | Not specified | [Apply](https://disney.wd5.myworkdayjobs.com/en-US/disneycareer/job/Celebration-FL-USA/DCL-Environmental-Affairs-Intern--Spring-2027_10159314) |
 | 44 | Walt Disney | Product & Franchise Strategy Intern, Spring 2027 | Lake Buena Vista, FL, USA | Other | $23/hr | analytics · Excel · accounting | Not specified | [Apply](https://disney.wd5.myworkdayjobs.com/en-US/disneycareer/job/Lake-Buena-Vista-FL-USA/Product---Franchise-Strategy-Intern--Spring-2027_10159569) |
 | 44 | Walt Disney | Video & Multimedia Intern, WSHES Creative, Spring 2027 | Lake Buena Vista, FL, USA | Other | $22.5/hr | — | Not specified | [Apply](https://disney.wd5.myworkdayjobs.com/en-US/disneycareer/job/Lake-Buena-Vista-FL-USA/Video---Multimedia-Intern--WSHES-Creative--Spring-2027_10157945) |
 | 44 | Walt Disney | Disney Entertainment Television Publicity Intern, Fall 2026 | Burbank, CA, USA | Other | $22.5/hr | — | Not specified | [Apply](https://disney.wd5.myworkdayjobs.com/en-US/disneycareer/job/Burbank-CA-USA/Disney-Entertainment-Television-Publicity-Intern--Fall-2026_10159331) |
@@ -301,7 +301,6 @@ Open positions: 207
 | 49 | RTX | Intern: Commercial Engines Production Chief Organization (Summer 2027) | US-CT-EAST HARTFORD-OBG ~ 400 Main St ~ BLDG OBG | Other | Not disclosed | Excel · supply chain · compliance · contracts | Not specified | [Apply](https://globalhr.wd5.myworkdayjobs.com/en-US/REC_RTX_Ext_Gateway/job/US-CT-EAST-HARTFORD-OBG--400-Main-St--BLDG-OBG/Intern--Commercial-Engines-Production-Chief-Organization--Summer-2027-_01865852) |
 | 49 | RTX | Commercial Engines Intern (Summer 2027) | US-CT-EAST HARTFORD-OBG ~ 400 Main St ~ BLDG OBG | Other | Not disclosed | analytics · compliance | Not specified | [Apply](https://globalhr.wd5.myworkdayjobs.com/en-US/REC_RTX_Ext_Gateway/job/US-CT-EAST-HARTFORD-OBG--400-Main-St--BLDG-OBG/Commercial-Engines-Intern--Summer-2027-_01870332) |
 | 49 | RTX | Stage - Hiver 2027 - Analyste de processus d'affaires dans l’équipe Transformation et gouvernance PLM / Internship - Winter 2027 - PLM Businest Analyst Intern | CA-QC-SAINT HUBERT-H05 ~ 7007 Chemin De La Savane ~ BLDG H05 FACTORY | Other | Not disclosed | — | Not specified | [Apply](https://globalhr.wd5.myworkdayjobs.com/en-US/REC_RTX_Ext_Gateway/job/CA-QC-SAINT-HUBERT-H05--7007-Chemin-De-La-Savane--BLDG-H05-FACTORY/Stage---Hiver-2027---Analyste-de-processus-d-affaires-dans-l-quipe-Transformation-et-gouvernance-PLM---Internship---Winter-2027---PLM-Businest-Analyst-Intern_01865912) |
-| 49 | RTX | Manufacturing Engineering Intern (Summer 2027) | US-MN-BURNSVILLE-WEST ~ 14300 Judicial Rd ~ WEST BLDG | Other | Not disclosed | electrical engineering · CAD · compliance | Not specified | [Apply](https://globalhr.wd5.myworkdayjobs.com/en-US/REC_RTX_Ext_Gateway/job/US-MN-BURNSVILLE-WEST--14300-Judicial-Rd--WEST-BLDG/Manufacturing-Engineering-Intern--Summer-2027-_01870591) |
 | 49 | RTX | SkillBridge: Alt COMSEC Intern | US-CA-EL SEGUNDO-E07 ~ 2012 E El Segundo Blvd ~ BLDG E07 | Other | Not disclosed | accounting · compliance | Not specified | [Apply](https://globalhr.wd5.myworkdayjobs.com/en-US/REC_RTX_Ext_Gateway/job/US-CA-EL-SEGUNDO-E07--2012-E-El-Segundo-Blvd--BLDG-E07/SkillBridge--Alt-COMSEC-Intern_01870572) |
 | 49 | RTX | SkillBridge Intern DOD: Test Technician, 2nd Shift (Onsite) | US-AZ-PHOENIX-1007 ~ 1007 E University Dr ~ 1007 E UNIVERSITY DR | Other | Not disclosed | supply chain · compliance | Not specified | [Apply](https://globalhr.wd5.myworkdayjobs.com/en-US/REC_RTX_Ext_Gateway/job/US-AZ-PHOENIX-1007--1007-E-University-Dr--1007-E-UNIVERSITY-DR/SkillBridge-Intern-DOD--Test-Technician--2nd-Shift--Onsite-_01870132) |
 | 49 | RTX | Stage - Hiver 2027 - Amelioration de procedes a l'outillage / Internship - Winter 2027 - Tooling process improvements | CA-QC-LONGUEUIL-J01 ~ 1000 Blvd Marie-Victorin ~ J01 BLDG | Other | Not disclosed | Excel · supply chain | Not specified | [Apply](https://globalhr.wd5.myworkdayjobs.com/en-US/REC_RTX_Ext_Gateway/job/CA-QC-LONGUEUIL-J01--1000-Blvd-Marie-Victorin--J01-BLDG/Stage---Hiver-2027---Amelioration-de-procedes-a-l-outillage---Internship---Winter-2027---Tooling-process-improvements_01864305) |
