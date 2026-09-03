@@ -1,26 +1,34 @@
 # F500Tracker internships
 
-Last updated: September 02, 2026 at 21:21 UTC
+Last updated: September 03, 2026 at 04:45 UTC
 
-Current internships: 320
+Current internships: 341
 
 ## Categories
 
-[Software & IT (22)](#software-it) · [Data & AI (11)](#data-ai) · [Engineering (17)](#engineering) · [Finance & Accounting (17)](#finance-accounting) · [Sales & Marketing (9)](#sales-marketing) · [Operations & Supply Chain (14)](#operations-supply-chain) · [People & Legal (6)](#people-legal) · [Other (224)](#other)
+[Software & IT (29)](#software-it) · [Data & AI (12)](#data-ai) · [Product & Design (1)](#product-design) · [Engineering (17)](#engineering) · [Finance & Accounting (17)](#finance-accounting) · [Sales & Marketing (12)](#sales-marketing) · [Operations & Supply Chain (14)](#operations-supply-chain) · [People & Legal (6)](#people-legal) · [Other (233)](#other)
 
 <a id="software-it"></a>
 
 ## Software & IT
 
-Open positions: 22
+Open positions: 29
 
 | Rank | Company | Position | Location | Category | Salary | Keywords | Sponsorship | Apply |
 |---:|---|---|---|---|---|---|---|---|
+| 112 | Northrop Grumman | 2027 Systems Engineer Intern - Azusa CA | United States-California-Azusa | Software & IT | $26.75–$32.5/hr | — | Not specified | [Apply](https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-California-Azusa/XMLNAME-2027-Systems-Engineer-Intern---Azusa-CA_R10249123) |
+| 112 | Northrop Grumman | 2027 Systems Engineer Intern - Gilbert AZ | United States-Arizona-Gilbert | Software & IT | $23–$28/hr | — | Not specified | [Apply](https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-Arizona-Gilbert/XMLNAME-2027-Systems-Engineer-Intern---Gilbert-AZ_R10249114-1) |
+| 112 | Northrop Grumman | 2027 Systems Engineer Intern - Redondo Beach CA | United States-California-Redondo Beach | Software & IT | $26.75–$32.5/hr | — | Not specified | [Apply](https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-California-Redondo-Beach/XMLNAME-2027-Systems-Engineer-Intern---Redondo-Beach-CA_R10249113) |
 | 112 | Northrop Grumman | 2027 Software Engineer Intern - Linthicum Maryland | United States-Maryland-Linthicum | Software & IT | Not disclosed | — | Not specified | [Apply](https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-Maryland-Linthicum/XMLNAME-2027-Software-Engineer-Intern---Linthicum-Maryland_R10248910) |
 | 112 | Northrop Grumman | 2027 Cybersecurity Analyst Intern -  Boulder CO | United States-Colorado-Boulder | Software & IT | $22.25–$27.25/hr | — | Not specified | [Apply](https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-Colorado-Boulder/XMLNAME-2027-Cybersecurity-Analyst-Intern----Boulder-CO_R10248677) |
 | 112 | Northrop Grumman | 2027 Intern Software Engineer | United States-Florida-Melbourne | Software & IT | $18.5–$33.5/hr | — | Not specified | [Apply](https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-Florida-Melbourne/XMLNAME-2027-Intern-Software-Engineer_R10243573) |
 | 112 | Northrop Grumman | 2027 Intern Software Engineer | United States-Florida-Melbourne | Software & IT | Not disclosed | — | Not specified | [Apply](https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-Florida-Melbourne/XMLNAME-2027-Intern-Software-Engineer_R10242395) |
 | 84 | HP | Software Product Security Engineer Intern | Spring, Texas, United States of America | Software & IT | $35–$40/hr | Python · C# · TypeScript · machine learning · artificial intelligence | Not specified | [Apply](https://hp.wd5.myworkdayjobs.com/en-US/ExternalCareerSite/job/Spring-Texas-United-States-of-America/Software-Product-Security-Engineer-Intern_UNI4744-1) |
+| 88 | Intel | Software Development Graduate Intern | US, California, Folsom | Software & IT | Not disclosed | Python · machine learning · artificial intelligence · electrical engineering · compliance | Not specified | [Apply](https://intel.wd1.myworkdayjobs.com/en-US/External/job/US-California-Folsom/Software-Development-Graduate-Intern_JR0285451-1) |
+| 8 | McKesson | Software Installation & IT Support Intern - Summer 2027 | USA, CO, Longmont | Software & IT | Not disclosed | Excel · recruiting | Not specified | [Apply](https://mckesson.wd3.myworkdayjobs.com/en-US/External_Careers/job/USA-CO-Longmont/Software-Installation---IT-Support-Intern---Summer-2027_JR0152304) |
+| 8 | McKesson | Software Engineer Intern - Summer 2027 | USA, CO, Longmont | Software & IT | Not disclosed | Python · Java · C# · recruiting | Not specified | [Apply](https://mckesson.wd3.myworkdayjobs.com/en-US/External_Careers/job/USA-CO-Longmont/Software-Engineer-Intern---Summer-2027_JR0152469) |
+| 8 | McKesson | Software Development Intern - Summer 2027 | USA, TX, Irving | Software & IT | Not disclosed | Python · Java · C# · recruiting | Not specified | [Apply](https://mckesson.wd3.myworkdayjobs.com/en-US/External_Careers/job/USA-TX-Irving/Software-Development-Intern---Summer-2027_JR0152635) |
+| 8 | McKesson | Software Engineer Intern - Summer 2027 | USA, CO, Longmont | Software & IT | Not disclosed | Python · C# · SQL · PostgreSQL · recruiting | Not specified | [Apply](https://mckesson.wd3.myworkdayjobs.com/en-US/External_Careers/job/USA-CO-Longmont/Software-Engineer-Intern---Summer-2027_JR0152742) |
 | 33 | Freddie Mac | Multifamily Software Development Intern – Summer 2027 | McLean, VA | Software & IT | Not disclosed | Java · AWS | Not specified | [Apply](https://freddiemac.wd5.myworkdayjobs.com/en-US/External/job/McLean-VA/Multifamily-Software-Development-Intern---Summer-2027_JR17564) |
 | 33 | Freddie Mac | Single-Family Software Developer Intern- Summer 2027 | McLean, VA | Software & IT | Not disclosed | Python · Java · analytics | Not specified | [Apply](https://freddiemac.wd5.myworkdayjobs.com/en-US/External/job/McLean-VA/Single-Family-Software-Developer-Intern--Summer-2027_JR17544) |
 | 44 | Walt Disney | Software Engineering Intern, Spring 2027 | Orlando, FL, USA | Software & IT | $43/hr | Java · C# · JavaScript · TypeScript · SQL | Not specified | [Apply](https://disney.wd5.myworkdayjobs.com/en-US/disneycareer/job/Orlando-FL-USA/Software-Engineering-Intern--Spring-2027_10158599) |
@@ -36,7 +44,6 @@ Open positions: 22
 | 49 | RTX | Software Engineering Intern (Summer 2027) | US-AL-HUNTSVILLE-401 ~ 401 Jan Davis Dr NW ~ JAN DAVIS 401 | Software & IT | Not disclosed | Java · C# · Azure · compliance | Not specified | [Apply](https://globalhr.wd5.myworkdayjobs.com/en-US/REC_RTX_Ext_Gateway/job/US-AL-HUNTSVILLE-401--401-Jan-Davis-Dr-NW--JAN-DAVIS-401/Software-Engineering-Intern--Summer-2027-_01870007) |
 | 49 | RTX | Software Platform Intern (Summer 2027) | US-CO-AURORA-S75 ~ 16800 E Centretech Pkwy ~ BLDG S75 | Software & IT | Not disclosed | Python · Java · AWS · Azure · Docker | Not specified | [Apply](https://globalhr.wd5.myworkdayjobs.com/en-US/REC_RTX_Ext_Gateway/job/US-CO-AURORA-S75--16800-E-Centretech-Pkwy--BLDG-S75/Software-Platform-Intern--Summer-2027-_01870216) |
 | 49 | RTX | Software Platform Intern (Summer 2027) | US-TX-RICHARDSON-C27 ~ 1727 Cityline Dr ~ CITYLINE C27 | Software & IT | Not disclosed | Python · Java · AWS · Azure · Docker | Not specified | [Apply](https://globalhr.wd5.myworkdayjobs.com/en-US/REC_RTX_Ext_Gateway/job/US-TX-RICHARDSON-C27--1727-Cityline-Dr--CITYLINE-C27/Software-Platform-Intern--Summer-2027-_01870211) |
-| 49 | RTX | Software Engineering Intern (Summer 2027) | US-PA-STATE COLLEGE-5A ~ 302 Science Park Rd ~ BLDG 5A | Software & IT | Not disclosed | Python · Java · compliance | Not specified | [Apply](https://globalhr.wd5.myworkdayjobs.com/en-US/REC_RTX_Ext_Gateway/job/US-PA-STATE-COLLEGE-5A--302-Science-Park-Rd--BLDG-5A/Software-Engineer-Intern--Summer-2027-_01868801) |
 | 99 | Nike | NIKE, Inc. Software Engineering Undergraduate Internship | Beaverton, Oregon | Software & IT | Not disclosed | Python · Java · C# · JavaScript · React | Not specified | [Apply](https://nike.wd1.myworkdayjobs.com/en-US/nke/job/Beaverton-Oregon/NIKE--Inc-Software-Engineering-Undergraduate-Internship_R-91111) |
 
 [Back to categories](#categories) · [Back to README](../README.md)
@@ -45,11 +52,12 @@ Open positions: 22
 
 ## Data & AI
 
-Open positions: 11
+Open positions: 12
 
 | Rank | Company | Position | Location | Category | Salary | Keywords | Sponsorship | Apply |
 |---:|---|---|---|---|---|---|---|---|
 | 125 | Micron Technology | Intern - Marketing Analytics | Meridian, ID | Data & AI | Not disclosed | artificial intelligence · data science · analytics · Excel · CRM | Not specified | [Apply](https://micron.wd1.myworkdayjobs.com/en-US/External/job/Meridian-ID/Intern---Marketing-Analytics_JR109458) |
+| 8 | McKesson | Data Analyst Intern - Summer 2027 | USA, OH, Columbus | Data & AI | Not disclosed | SQL · data science · Excel · recruiting | Not specified | [Apply](https://mckesson.wd3.myworkdayjobs.com/en-US/External_Careers/job/USA-OH-Columbus/Data-Analyst-Intern---Summer-2027_JR0150844) |
 | 14 | Cigna Group | Artificial Intelligence Innovation Development Program (AIIDP) Summer Internship | NC, Raleigh, 701 Corporate Center Dr STE 200 | Data & AI | $25–$27/hr | Python · SQL · artificial intelligence · data science · analytics | Not specified | [Apply](https://cigna.wd5.myworkdayjobs.com/en-US/cignacareers/job/NC-Raleigh-701-Corporate-Center-Dr-STE-200/Ai-Innovation-Development-Program--AIIDP--Summer-internship_26010712) |
 | 14 | Cigna Group | Analytics Leadership Development Program (ALDP) Summer Internship | CT, Bloomfield, 900 Cottage Grove Rd Wilde Bldg | Data & AI | $33–$40/hr | Python · SQL · machine learning · data science · analytics | Not specified | [Apply](https://cigna.wd5.myworkdayjobs.com/en-US/cignacareers/job/CT-Bloomfield-900-Cottage-Grove-Rd-Wilde-Bldg/Analytics-Leadership-Development-Program--ALDP--Summer-Internship_26010711) |
 | 26 | Fannie Mae | Campus – Finance Analytics Intern (Analytics & Modeling Program) | Washington, DC | Data & AI | Not disclosed | SQL · artificial intelligence · analytics · risk management | No sponsorship for this position | [Apply](https://fanniemae.wd1.myworkdayjobs.com/en-US/FannieMaeCareers/job/Washington-DC/Campus---Finance-Analytics-Intern--Analytics---Modeling-Program-_JR2814) |
@@ -60,6 +68,18 @@ Open positions: 11
 | 49 | RTX | Stage - Hiver 2027 - Science des donnees et analytique avancee / Internship – Winter 2027 - Data Science and Advanced Analytics | CA-QC-LONGUEUIL-J01 ~ 1000 Blvd Marie-Victorin ~ J01 BLDG | Data & AI | Not disclosed | Python · SQL · Azure · machine learning · data science | Not specified | [Apply](https://globalhr.wd5.myworkdayjobs.com/en-US/REC_RTX_Ext_Gateway/job/CA-QC-LONGUEUIL-J01--1000-Blvd-Marie-Victorin--J01-BLDG/Stage---Hiver-2027---Science-des-donnees-et-analytique-avancee---Internship---Winter-2027---Data-Science-and-Advanced-Analytics_01865000) |
 | 49 | RTX | Stage – Hiver 2027 – Soutien numérique et intelligence d’affaires (Informatique) / Internship - Winter 2027 Digital Support & Business Intelligence Intern (Computer Science) | CA-QC-LONGUEUIL-J01 ~ 1000 Blvd Marie-Victorin ~ J01 BLDG | Data & AI | Not disclosed | SQL · data science · analytics · Excel | Not specified | [Apply](https://globalhr.wd5.myworkdayjobs.com/en-US/REC_RTX_Ext_Gateway/job/CA-QC-LONGUEUIL-J01--1000-Blvd-Marie-Victorin--J01-BLDG/Stage---Hiver-2027---Soutien-numrique-et-intelligence-d-affaires--Informatique----Internship---Winter-2027-Digital-Support---Business-Intelligence-Intern--Computer-Science-_01866869) |
 | 99 | Nike | NIKE, Inc. Artificial Intelligence, Data, & Machine Learning Engineering Undergraduate Internship | Beaverton, Oregon | Data & AI | Not disclosed | Python · SQL · AWS · machine learning · artificial intelligence | Not specified | [Apply](https://nike.wd1.myworkdayjobs.com/en-US/nke/job/Beaverton-Oregon/NIKE--Inc-Artificial-Intelligence--Data----Machine-Learning-Engineering-Undergraduate-Internship_R-91110) |
+
+[Back to categories](#categories) · [Back to README](../README.md)
+
+<a id="product-design"></a>
+
+## Product & Design
+
+Open positions: 1
+
+| Rank | Company | Position | Location | Category | Salary | Keywords | Sponsorship | Apply |
+|---:|---|---|---|---|---|---|---|---|
+| 84 | HP | Personal Systems Product Management Intern | Austin, Texas, United States of America | Product & Design | $29–$33/hr | analytics | Not specified | [Apply](https://hp.wd5.myworkdayjobs.com/en-US/ExternalCareerSite/job/Austin-Texas-United-States-of-America/Personal-Systems-Product-Management-Intern_UNI4755-1) |
 
 [Back to categories](#categories) · [Back to README](../README.md)
 
@@ -123,7 +143,7 @@ Open positions: 17
 
 ## Sales & Marketing
 
-Open positions: 9
+Open positions: 12
 
 | Rank | Company | Position | Location | Category | Salary | Keywords | Sponsorship | Apply |
 |---:|---|---|---|---|---|---|---|---|
@@ -131,6 +151,9 @@ Open positions: 9
 | 125 | Micron Technology | Intern - Global Communications/Policy Comms | MTI - WASHINGTON  DC - 25 Mass - Office | Sales & Marketing | Not disclosed | — | Not specified | [Apply](https://micron.wd1.myworkdayjobs.com/en-US/External/job/MTI---WASHINGTON--DC---25-Mass---Office/Intern---Global-Communications-Policy-Comms_JR109462) |
 | 125 | Micron Technology | Intern - Marketing Research | Meridian, ID | Sales & Marketing | Not disclosed | artificial intelligence · analytics | Not specified | [Apply](https://micron.wd1.myworkdayjobs.com/en-US/External/job/Meridian-ID/Intern---Marketing-Research_JR109460) |
 | 125 | Micron Technology | Intern - CDBU Marketing | San Jose, CA | Sales & Marketing | Not disclosed | artificial intelligence · electrical engineering · sales | Not specified | [Apply](https://micron.wd1.myworkdayjobs.com/en-US/External/job/San-Jose-CA/Intern---CDBU-Marketing_JR109697) |
+| 8 | McKesson | McKesson Health Systems (MHS) Field Sales Support Intern - Summer 2027 | USA, TX, Irving | Sales & Marketing | Not disclosed | analytics · Excel · sales · recruiting | Not specified | [Apply](https://mckesson.wd3.myworkdayjobs.com/en-US/External_Careers/job/USA-TX-Irving/McKesson-Health-Systems--MHS--Field-Sales-Support-Intern---Summer-2027_JR0152595) |
+| 8 | McKesson | Digital Marketing Intern - Summer 2027 | USA, TX, The Woodlands | Sales & Marketing | Not disclosed | analytics · Excel · digital marketing · recruiting | Not specified | [Apply](https://mckesson.wd3.myworkdayjobs.com/en-US/External_Careers/job/USA-TX-The-Woodlands/Digital-Marketing-Intern---Summer-2027_JR0153094) |
+| 8 | McKesson | McKesson Health Systems (MHS) Marketing Intern - Summer 2027 | USA, TX, Irving | Sales & Marketing | Not disclosed | analytics · Excel · sales · CRM · digital marketing | Not specified | [Apply](https://mckesson.wd3.myworkdayjobs.com/en-US/External_Careers/job/USA-TX-Irving/McKesson-Health-Systems--MHS--Marketing-Intern---Summer-2027_JR0153137) |
 | 49 | RTX | Stage - Hiver 2027 -  Ventes globales / Internship - Winter 2027 -  Global Sales | CA-QC-SAINT HUBERT-H12 ~ 7007 Chemin De La Savane ~ BLDG H12 TRAINING | Sales & Marketing | Not disclosed | Python · artificial intelligence · analytics · Excel · sales | Not specified | [Apply](https://globalhr.wd5.myworkdayjobs.com/en-US/REC_RTX_Ext_Gateway/job/CA-QC-SAINT-HUBERT-H12--7007-Chemin-De-La-Savane--BLDG-H12-TRAINING/Stage---Hiver-2027----Ventes-globales---Internship---Winter-2027----Global-Sales_01869713) |
 | 49 | RTX | Stage - Hiver 2027 - Stagiaire en développement d'affaires / Internship - Winter 2027 -Business Development Intern | CA-QC-LONGUEUIL-J01 ~ 1000 Blvd Marie-Victorin ~ J01 BLDG | Sales & Marketing | Not disclosed | Python · SQL · data science · Excel | Not specified | [Apply](https://globalhr.wd5.myworkdayjobs.com/en-US/REC_RTX_Ext_Gateway/job/CA-QC-LONGUEUIL-J01--1000-Blvd-Marie-Victorin--J01-BLDG/Stage---Hiver-2027---Stagiaire-en-dveloppement-d-affaires---Internship---Winter-2027--Business-Development-Intern_01864752) |
 | 49 | RTX | Stage - Hiver 2027 - Administration des contrats et analyse des ventes / Internship Winter 2027 - Contract Administration & Sales Analysis | CA-QC-LONGUEUIL-J01 ~ 1000 Blvd Marie-Victorin ~ J01 BLDG | Sales & Marketing | Not disclosed | supply chain · sales · contracts | Not specified | [Apply](https://globalhr.wd5.myworkdayjobs.com/en-US/REC_RTX_Ext_Gateway/job/CA-QC-LONGUEUIL-J01--1000-Blvd-Marie-Victorin--J01-BLDG/Stage---Hiver-2027---Administration-des-contrats-et-analyse-des-ventes---Internship-Winter-2027---Contract-Administration---Sales-Analysis_01863014) |
@@ -185,7 +208,7 @@ Open positions: 6
 
 ## Other
 
-Open positions: 224
+Open positions: 233
 
 | Rank | Company | Position | Location | Category | Salary | Keywords | Sponsorship | Apply |
 |---:|---|---|---|---|---|---|---|---|
@@ -198,6 +221,7 @@ Open positions: 224
 | 112 | Northrop Grumman | 2027 Guidance Navigation and Control Intern Dulles VA | United States-Virginia-Dulles | Other | Not disclosed | mechanical engineering · electrical engineering · supply chain | Not specified | [Apply](https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-Virginia-Dulles/XMLNAME-2027-Guidance-Navigation-and-Control-Intern-Dulles-VA_R10246322) |
 | 112 | Northrop Grumman | 2027 Systems Engineering Intern- Roy UT | United States-Utah-Roy | Other | $23–$29/hr | mechanical engineering · electrical engineering | Not specified | [Apply](https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-Utah-Roy/XMLNAME-2027-Systems-Engineering-Intern--Roy-UT_R10248475) |
 | 112 | Northrop Grumman | 2027 Business Management Intern - Sunnyvale CA | United States-California-Sunnyvale | Other | $19.25–$34.75/hr | accounting · risk management · supply chain · legal · contracts | Not specified | [Apply](https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-California-Sunnyvale/XMLNAME-2027-Business-Management-Intern---Sunnyvale-CA_R10248163-1) |
+| 84 | HP | Quality Engineering Intern | Spring, Texas, United States of America | Other | $40–$45/hr | machine learning · artificial intelligence · data science · analytics · Excel | Not specified | [Apply](https://hp.wd5.myworkdayjobs.com/en-US/ExternalCareerSite/job/Spring-Texas-United-States-of-America/Quality-Engineering-Intern_UNI4756-1) |
 | 88 | Intel | Module Engineering Undergraduate Intern | US, Oregon, Hillsboro | Other | Not disclosed | mechanical engineering · compliance | Not specified | [Apply](https://intel.wd1.myworkdayjobs.com/en-US/External/job/US-Oregon-Hillsboro/Module-Engineering-Undergraduate-Intern_JR0286875) |
 | 125 | Micron Technology | Intern - Advanced DRAM Cell & Device Technology | Boise, ID - Main Site | Other | Not disclosed | Python · analytics · electrical engineering | Not specified | [Apply](https://micron.wd1.myworkdayjobs.com/en-US/External/job/Boise-ID---Main-Site/Intern---Advanced-DRAM-Cell---Device-Technology_JR110172) |
 | 125 | Micron Technology | Intern - DRAM Technology DTCO & PPA Assessment Engineer | Boise, ID - Main Site | Other | Not disclosed | machine learning · electrical engineering | Not specified | [Apply](https://micron.wd1.myworkdayjobs.com/en-US/External/job/Boise-ID---Main-Site/Intern---DRAM-Technology-DTCO---PPA-Assessment-Engineer_JR109582) |
@@ -245,6 +269,13 @@ Open positions: 224
 | 125 | Micron Technology | Intern - Process Development | Boise, ID - Main Site | Other | Not disclosed | Python · artificial intelligence · data science · mechanical engineering · electrical engineering | Not specified | [Apply](https://micron.wd1.myworkdayjobs.com/en-US/External/job/Boise-ID---Main-Site/Intern---Process-Development_JR107319) |
 | 125 | Micron Technology | Intern - Process Development Engineer, 3D DRAM Dry Etch | Boise, ID - Main Site | Other | Not disclosed | Python · analytics · mechanical engineering · electrical engineering | Not specified | [Apply](https://micron.wd1.myworkdayjobs.com/en-US/External/job/Boise-ID---Main-Site/Intern---Process-Development-Engineer--3D-DRAM-Dry-Etch_JR107330) |
 | 125 | Micron Technology | Intern - Photolithography Process | Boise, ID - Main Site | Other | Not disclosed | artificial intelligence · data science | Not specified | [Apply](https://micron.wd1.myworkdayjobs.com/en-US/External/job/Boise-ID---Main-Site/Intern---Photolithography-Process_JR107508) |
+| 8 | McKesson | Commercial Support Intern - Summer 2027 | USA, TX, Irving | Other | Not disclosed | artificial intelligence · analytics · sales · recruiting | Not specified | [Apply](https://mckesson.wd3.myworkdayjobs.com/en-US/External_Careers/job/USA-TX-Irving/Commercial-Support-Intern---Summer-2027_JR0151538) |
+| 8 | McKesson | Customer Onboarding Intern - Summer 2027 | USA, TX, Irving | Other | Not disclosed | analytics · recruiting | Not specified | [Apply](https://mckesson.wd3.myworkdayjobs.com/en-US/External_Careers/job/USA-TX-Irving/Customer-Onboarding-Intern---Summer-2027_JR0151696) |
+| 8 | McKesson | Innovation Strategy Intern - Summer 2027 | USA, TX, Irving | Other | Not disclosed | Excel · recruiting | Not specified | [Apply](https://mckesson.wd3.myworkdayjobs.com/en-US/External_Careers/job/USA-TX-Irving/Innovation-Strategy-Intern---Summer-2027_JR0151704) |
+| 8 | McKesson | Pharmacy Solutions Intern - Summer 2027 | USA, TX, Irving | Other | Not disclosed | Excel · recruiting | Not specified | [Apply](https://mckesson.wd3.myworkdayjobs.com/en-US/External_Careers/job/USA-TX-Irving/Pharmacy-Solutions-Intern---Summer-2027_JR0152252) |
+| 8 | McKesson | Portfolio Strategy Intern - Summer 2027 | USA, TX, Irving | Other | Not disclosed | Excel · recruiting | Not specified | [Apply](https://mckesson.wd3.myworkdayjobs.com/en-US/External_Careers/job/USA-TX-Irving/Portfolio-Strategy-Intern---Summer-2027_JR0152311) |
+| 8 | McKesson | System Design / QA Intern - Summer 2027 | USA, TX, Remote | Other | Not disclosed | analytics · recruiting | Not specified | [Apply](https://mckesson.wd3.myworkdayjobs.com/en-US/External_Careers/job/USA-TX-Remote/System-Design---QA-Intern---Summer-2027_JR0152746) |
+| 8 | McKesson | Health Systems Optimization Intern - Summer 2027 | USA, TX, Remote | Other | Not disclosed | analytics · Excel · financial modeling · sales · recruiting | Not specified | [Apply](https://mckesson.wd3.myworkdayjobs.com/en-US/External_Careers/job/USA-TX-Remote/Health-Systems-Optimization-Intern---Summer-2027_JR0152892) |
 | 23 | General Motors | 2027 Summer Intern – Manufacturing Engineering – Body Center | Warren, Michigan, United States of America | Other | Not disclosed | mechanical engineering · electrical engineering | Not specified | [Apply](https://generalmotors.wd5.myworkdayjobs.com/en-US/Careers_GM/job/Warren-Michigan-United-States-of-America/XMLNAME-2027-Summer-Intern---Manufacturing-Engineering---Body-Center_JR-202619475) |
 | 26 | Fannie Mae | Campus - Risk Analyst Program Intern | Plano, TX | Other | Not disclosed | artificial intelligence · risk management | No sponsorship for this position | [Apply](https://fanniemae.wd1.myworkdayjobs.com/en-US/FannieMaeCareers/job/Plano-TX/Campus---Risk-Analyst-Program-Intern_JR2821) |
 | 33 | Freddie Mac | Multifamily Business Intern - Summer 2027 | McLean, VA | Other | Not disclosed | Excel · accounting · risk management · sales | Not specified | [Apply](https://freddiemac.wd5.myworkdayjobs.com/en-US/External/job/McLean-VA/Multifamily-Business-Intern---Summer-2027_JR17561) |
@@ -271,6 +302,7 @@ Open positions: 224
 | 44 | Walt Disney | WDI Show Set Design Intern, Orlando, Spring 2027 | Lake Buena Vista, FL, USA | Other | $26.5/hr | Excel · contracts | Not specified | [Apply](https://disney.wd5.myworkdayjobs.com/en-US/disneycareer/job/Lake-Buena-Vista-FL-USA/WDI-Show-Set-Design-Intern--Orlando--Spring-2027_10158508) |
 | 44 | Walt Disney | Park Yield Optimization Intern, Spring 2027 | Lake Buena Vista, FL, USA | Other | $31/hr | Python · SQL · data science · analytics · Excel | Not specified | [Apply](https://disney.wd5.myworkdayjobs.com/en-US/disneycareer/job/Lake-Buena-Vista-FL-USA/Park-Yield-Optimization-Intern--Spring-2027_10158534) |
 | 44 | Walt Disney | Pricing & Product Development Intern, Spring 2027 | Lake Buena Vista, FL, USA | Other | $31/hr | SQL · data science · analytics · Excel | Not specified | [Apply](https://disney.wd5.myworkdayjobs.com/en-US/disneycareer/job/Lake-Buena-Vista-FL-USA/Pricing---Product-Development-Intern--Spring-2027_10158266-2) |
+| 45 | Johnson & Johnson | DePuy Synthes Customer Solutions MedTech Channel Ops Co-Op | Raritan, New Jersey, United States of America | Other | $23.5/hr | Excel · supply chain · logistics · recruiting · legal | Not specified | [Apply](https://jj.wd5.myworkdayjobs.com/en-US/JJ/job/Raritan-New-Jersey-United-States-of-America/DePuy-Synthes-Customer-Solutions-MedTech-Channel-Ops-Co-Op_R-096659) |
 | 45 | Johnson & Johnson | Operational Excellence Co-Op | Wilson, North Carolina, United States of America | Other | Not disclosed | Excel · supply chain | Not specified | [Apply](https://jj.wd5.myworkdayjobs.com/en-US/JJ/job/Wilson-North-Carolina-United-States-of-America/Operational-Excellence-Co-Op_R-095579) |
 | 45 | Johnson & Johnson | AES Digital R&D Engineering Co-Op | Raynham, Massachusetts, United States of America | Other | $23.5/hr | — | Not specified | [Apply](https://jj.wd5.myworkdayjobs.com/en-US/JJ/job/Raynham-Massachusetts-United-States-of-America/AES-Digital-R-D-Engineering-Co-Op_R-095533) |
 | 45 | Johnson & Johnson | Spring 2027 Hip/Knee R&D Co-op | Warsaw, Indiana, United States of America | Other | Not disclosed | risk management · mechanical engineering · CAD · recruiting · legal | Not specified | [Apply](https://jj.wd5.myworkdayjobs.com/en-US/JJ/job/Warsaw-Indiana-United-States-of-America/Spring-2027-Hip-Knee-R-D-Co-op_R-097227-1) |
