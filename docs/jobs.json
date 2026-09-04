@@ -479,29 +479,6 @@
   {
     "company": "Coupang",
     "title": "Senior Staff Backend Engineer - Cloud Infrastructure",
-    "location": "Seattle, USA",
-    "employment_type": "full-time",
-    "category": "Software & IT",
-    "salary": "$174k/yr",
-    "salary_min": 174000.0,
-    "keywords": [
-      "Python",
-      "AWS",
-      "Azure",
-      "GCP",
-      "Docker",
-      "Kubernetes",
-      "Terraform",
-      "tax"
-    ],
-    "sponsorship_evidence": "",
-    "h1b_status": "unknown",
-    "sponsorship_label": "Not specified",
-    "url": "https://www.coupang.jobs/en/jobs/?gh_jid=7438944"
-  },
-  {
-    "company": "Coupang",
-    "title": "Senior Staff Backend Engineer - Cloud Infrastructure",
     "location": "Mountain View, USA",
     "employment_type": "full-time",
     "category": "Software & IT",
@@ -521,6 +498,29 @@
     "h1b_status": "unknown",
     "sponsorship_label": "Not specified",
     "url": "https://www.coupang.jobs/en/jobs/?gh_jid=7962133"
+  },
+  {
+    "company": "Coupang",
+    "title": "Senior Staff Backend Engineer - Cloud Infrastructure",
+    "location": "Seattle, USA",
+    "employment_type": "full-time",
+    "category": "Software & IT",
+    "salary": "$174k/yr",
+    "salary_min": 174000.0,
+    "keywords": [
+      "Python",
+      "AWS",
+      "Azure",
+      "GCP",
+      "Docker",
+      "Kubernetes",
+      "Terraform",
+      "tax"
+    ],
+    "sponsorship_evidence": "",
+    "h1b_status": "unknown",
+    "sponsorship_label": "Not specified",
+    "url": "https://www.coupang.jobs/en/jobs/?gh_jid=7438944"
   },
   {
     "company": "Coupang",
@@ -3681,28 +3681,6 @@
   {
     "company": "DoorDash",
     "title": "Account Manager, Enterprise Ad Sales",
-    "location": "New York, NY; San Francisco, CA; Los Angeles, CA; Chicago, IL; Atlanta, GA",
-    "employment_type": "full-time",
-    "category": "Sales & Marketing",
-    "salary": "Not disclosed",
-    "salary_min": null,
-    "keywords": [
-      "analytics",
-      "Excel",
-      "audit",
-      "logistics",
-      "sales",
-      "recruiting",
-      "compliance"
-    ],
-    "sponsorship_evidence": "",
-    "h1b_status": "unknown",
-    "sponsorship_label": "Not specified",
-    "url": "https://job-boards.greenhouse.io/doordashusa/jobs/7951406"
-  },
-  {
-    "company": "DoorDash",
-    "title": "Account Manager, Enterprise Ad Sales",
     "location": "New York, NY; San Francisco, CA; Los Angeles, CA; Atlanta, GA; Chicago, IL; United States - Remote",
     "employment_type": "full-time",
     "category": "Sales & Marketing",
@@ -3721,6 +3699,28 @@
     "h1b_status": "unknown",
     "sponsorship_label": "Not specified",
     "url": "https://job-boards.greenhouse.io/doordashusa/jobs/8001716"
+  },
+  {
+    "company": "DoorDash",
+    "title": "Account Manager, Enterprise Ad Sales",
+    "location": "New York, NY; San Francisco, CA; Los Angeles, CA; Chicago, IL; Atlanta, GA",
+    "employment_type": "full-time",
+    "category": "Sales & Marketing",
+    "salary": "Not disclosed",
+    "salary_min": null,
+    "keywords": [
+      "analytics",
+      "Excel",
+      "audit",
+      "logistics",
+      "sales",
+      "recruiting",
+      "compliance"
+    ],
+    "sponsorship_evidence": "",
+    "h1b_status": "unknown",
+    "sponsorship_label": "Not specified",
+    "url": "https://job-boards.greenhouse.io/doordashusa/jobs/7951406"
   },
   {
     "company": "DoorDash",
@@ -3835,6 +3835,28 @@
   {
     "company": "DoorDash",
     "title": "Account Manager, SMB",
+    "location": "Atlanta, GA",
+    "employment_type": "full-time",
+    "category": "Other",
+    "salary": "Not disclosed",
+    "salary_min": null,
+    "keywords": [
+      "Excel",
+      "audit",
+      "logistics",
+      "sales",
+      "CRM",
+      "recruiting",
+      "compliance"
+    ],
+    "sponsorship_evidence": "",
+    "h1b_status": "unknown",
+    "sponsorship_label": "Not specified",
+    "url": "https://job-boards.greenhouse.io/doordashusa/jobs/8141988"
+  },
+  {
+    "company": "DoorDash",
+    "title": "Account Manager, SMB",
     "location": "Orlando, FL",
     "employment_type": "full-time",
     "category": "Other",
@@ -3875,28 +3897,6 @@
     "h1b_status": "unknown",
     "sponsorship_label": "Not specified",
     "url": "https://job-boards.greenhouse.io/doordashusa/jobs/8029215"
-  },
-  {
-    "company": "DoorDash",
-    "title": "Account Manager, SMB",
-    "location": "Atlanta, GA",
-    "employment_type": "full-time",
-    "category": "Other",
-    "salary": "Not disclosed",
-    "salary_min": null,
-    "keywords": [
-      "Excel",
-      "audit",
-      "logistics",
-      "sales",
-      "CRM",
-      "recruiting",
-      "compliance"
-    ],
-    "sponsorship_evidence": "",
-    "h1b_status": "unknown",
-    "sponsorship_label": "Not specified",
-    "url": "https://job-boards.greenhouse.io/doordashusa/jobs/8141988"
   },
   {
     "company": "DoorDash",
@@ -4051,6 +4051,25 @@
   {
     "company": "DoorDash",
     "title": "Assistant Site Manager",
+    "location": "Garden City, ID",
+    "employment_type": "full-time",
+    "category": "Other",
+    "salary": "Not disclosed",
+    "salary_min": null,
+    "keywords": [
+      "Excel",
+      "audit",
+      "logistics",
+      "recruiting"
+    ],
+    "sponsorship_evidence": "",
+    "h1b_status": "unknown",
+    "sponsorship_label": "Not specified",
+    "url": "https://job-boards.greenhouse.io/doordashusa/jobs/7983731"
+  },
+  {
+    "company": "DoorDash",
+    "title": "Assistant Site Manager",
     "location": "Baltimore, MD",
     "employment_type": "full-time",
     "category": "Other",
@@ -4086,25 +4105,6 @@
     "h1b_status": "unknown",
     "sponsorship_label": "Not specified",
     "url": "https://job-boards.greenhouse.io/doordashusa/jobs/7983727"
-  },
-  {
-    "company": "DoorDash",
-    "title": "Assistant Site Manager",
-    "location": "Garden City, ID",
-    "employment_type": "full-time",
-    "category": "Other",
-    "salary": "Not disclosed",
-    "salary_min": null,
-    "keywords": [
-      "Excel",
-      "audit",
-      "logistics",
-      "recruiting"
-    ],
-    "sponsorship_evidence": "",
-    "h1b_status": "unknown",
-    "sponsorship_label": "Not specified",
-    "url": "https://job-boards.greenhouse.io/doordashusa/jobs/7983731"
   },
   {
     "company": "DoorDash",
@@ -4709,28 +4709,6 @@
   {
     "company": "DoorDash",
     "title": "Associate Manager, Strategy & Operations",
-    "location": "New York, NY; Washington, D.C,; San Francisco, CA",
-    "employment_type": "full-time",
-    "category": "Operations & Supply Chain",
-    "salary": "Not disclosed",
-    "salary_min": null,
-    "keywords": [
-      "analytics",
-      "Excel",
-      "audit",
-      "logistics",
-      "sales",
-      "recruiting",
-      "compliance"
-    ],
-    "sponsorship_evidence": "",
-    "h1b_status": "unknown",
-    "sponsorship_label": "Not specified",
-    "url": "https://job-boards.greenhouse.io/doordashusa/jobs/7996727"
-  },
-  {
-    "company": "DoorDash",
-    "title": "Associate Manager, Strategy & Operations",
     "location": "Austin, TX; San Francisco, CA; Seattle, WA; Chicago, IL; New York, NY; Los Angeles, CA; United States - Remote",
     "employment_type": "full-time",
     "category": "Operations & Supply Chain",
@@ -4750,6 +4728,28 @@
     "h1b_status": "unknown",
     "sponsorship_label": "Not specified",
     "url": "https://job-boards.greenhouse.io/doordashusa/jobs/8131068"
+  },
+  {
+    "company": "DoorDash",
+    "title": "Associate Manager, Strategy & Operations",
+    "location": "New York, NY; Washington, D.C,; San Francisco, CA",
+    "employment_type": "full-time",
+    "category": "Operations & Supply Chain",
+    "salary": "Not disclosed",
+    "salary_min": null,
+    "keywords": [
+      "analytics",
+      "Excel",
+      "audit",
+      "logistics",
+      "sales",
+      "recruiting",
+      "compliance"
+    ],
+    "sponsorship_evidence": "",
+    "h1b_status": "unknown",
+    "sponsorship_label": "Not specified",
+    "url": "https://job-boards.greenhouse.io/doordashusa/jobs/7996727"
   },
   {
     "company": "DoorDash",
@@ -4924,27 +4924,6 @@
   {
     "company": "DoorDash",
     "title": "Associate, Retail Partnerships",
-    "location": "United States - Remote",
-    "employment_type": "full-time",
-    "category": "Other",
-    "salary": "Not disclosed",
-    "salary_min": null,
-    "keywords": [
-      "Excel",
-      "audit",
-      "logistics",
-      "sales",
-      "recruiting",
-      "compliance"
-    ],
-    "sponsorship_evidence": "",
-    "h1b_status": "unknown",
-    "sponsorship_label": "Not specified",
-    "url": "https://job-boards.greenhouse.io/doordashusa/jobs/7908380"
-  },
-  {
-    "company": "DoorDash",
-    "title": "Associate, Retail Partnerships",
     "location": "San Francisco, CA; New York, NY; Los Angeles, CA; Miami, FL; Chicago, IL",
     "employment_type": "full-time",
     "category": "Other",
@@ -4964,6 +4943,27 @@
     "h1b_status": "unknown",
     "sponsorship_label": "Not specified",
     "url": "https://job-boards.greenhouse.io/doordashusa/jobs/8171803"
+  },
+  {
+    "company": "DoorDash",
+    "title": "Associate, Retail Partnerships",
+    "location": "United States - Remote",
+    "employment_type": "full-time",
+    "category": "Other",
+    "salary": "Not disclosed",
+    "salary_min": null,
+    "keywords": [
+      "Excel",
+      "audit",
+      "logistics",
+      "sales",
+      "recruiting",
+      "compliance"
+    ],
+    "sponsorship_evidence": "",
+    "h1b_status": "unknown",
+    "sponsorship_label": "Not specified",
+    "url": "https://job-boards.greenhouse.io/doordashusa/jobs/7908380"
   },
   {
     "company": "DoorDash",
@@ -5332,26 +5332,6 @@
   {
     "company": "DoorDash",
     "title": "DashMart Variable Schedule Team Member",
-    "location": "St. Louis, MO",
-    "employment_type": "full-time",
-    "category": "Other",
-    "salary": "$2/hr",
-    "salary_min": 2.0,
-    "keywords": [
-      "Excel",
-      "audit",
-      "logistics",
-      "recruiting",
-      "compliance"
-    ],
-    "sponsorship_evidence": "",
-    "h1b_status": "unknown",
-    "sponsorship_label": "Not specified",
-    "url": "https://job-boards.greenhouse.io/doordashusa/jobs/7616101"
-  },
-  {
-    "company": "DoorDash",
-    "title": "DashMart Variable Schedule Team Member",
     "location": "Morrow, GA",
     "employment_type": "full-time",
     "category": "Other",
@@ -5368,6 +5348,26 @@
     "h1b_status": "unknown",
     "sponsorship_label": "Not specified",
     "url": "https://job-boards.greenhouse.io/doordashusa/jobs/7616066"
+  },
+  {
+    "company": "DoorDash",
+    "title": "DashMart Variable Schedule Team Member",
+    "location": "St. Louis, MO",
+    "employment_type": "full-time",
+    "category": "Other",
+    "salary": "$2/hr",
+    "salary_min": 2.0,
+    "keywords": [
+      "Excel",
+      "audit",
+      "logistics",
+      "recruiting",
+      "compliance"
+    ],
+    "sponsorship_evidence": "",
+    "h1b_status": "unknown",
+    "sponsorship_label": "Not specified",
+    "url": "https://job-boards.greenhouse.io/doordashusa/jobs/7616101"
   },
   {
     "company": "DoorDash",
@@ -6745,6 +6745,66 @@
   {
     "company": "DoorDash",
     "title": "Kitchen Operations Associate, DashMart",
+    "location": "St Louis, MO",
+    "employment_type": "full-time",
+    "category": "Operations & Supply Chain",
+    "salary": "$75/mo",
+    "salary_min": 75.0,
+    "keywords": [
+      "Excel",
+      "audit",
+      "logistics",
+      "recruiting",
+      "compliance"
+    ],
+    "sponsorship_evidence": "",
+    "h1b_status": "unknown",
+    "sponsorship_label": "Not specified",
+    "url": "https://job-boards.greenhouse.io/doordashusa/jobs/8079764"
+  },
+  {
+    "company": "DoorDash",
+    "title": "Kitchen Operations Associate, DashMart",
+    "location": "Lexington, KY",
+    "employment_type": "full-time",
+    "category": "Operations & Supply Chain",
+    "salary": "$75/mo",
+    "salary_min": 75.0,
+    "keywords": [
+      "Excel",
+      "audit",
+      "logistics",
+      "recruiting",
+      "compliance"
+    ],
+    "sponsorship_evidence": "",
+    "h1b_status": "unknown",
+    "sponsorship_label": "Not specified",
+    "url": "https://job-boards.greenhouse.io/doordashusa/jobs/8071680"
+  },
+  {
+    "company": "DoorDash",
+    "title": "Kitchen Operations Associate, DashMart",
+    "location": "Morrow, GA",
+    "employment_type": "full-time",
+    "category": "Operations & Supply Chain",
+    "salary": "$75/mo",
+    "salary_min": 75.0,
+    "keywords": [
+      "Excel",
+      "audit",
+      "logistics",
+      "recruiting",
+      "compliance"
+    ],
+    "sponsorship_evidence": "",
+    "h1b_status": "unknown",
+    "sponsorship_label": "Not specified",
+    "url": "https://job-boards.greenhouse.io/doordashusa/jobs/8070776"
+  },
+  {
+    "company": "DoorDash",
+    "title": "Kitchen Operations Associate, DashMart",
     "location": "Akron, OH",
     "employment_type": "full-time",
     "category": "Operations & Supply Chain",
@@ -6761,6 +6821,86 @@
     "h1b_status": "unknown",
     "sponsorship_label": "Not specified",
     "url": "https://job-boards.greenhouse.io/doordashusa/jobs/8130568"
+  },
+  {
+    "company": "DoorDash",
+    "title": "Kitchen Operations Associate, DashMart",
+    "location": "Tucson, AZ",
+    "employment_type": "full-time",
+    "category": "Operations & Supply Chain",
+    "salary": "$75/mo",
+    "salary_min": 75.0,
+    "keywords": [
+      "Excel",
+      "audit",
+      "logistics",
+      "recruiting",
+      "compliance"
+    ],
+    "sponsorship_evidence": "",
+    "h1b_status": "unknown",
+    "sponsorship_label": "Not specified",
+    "url": "https://job-boards.greenhouse.io/doordashusa/jobs/8079494"
+  },
+  {
+    "company": "DoorDash",
+    "title": "Kitchen Operations Associate, DashMart",
+    "location": "Norfolk, VA",
+    "employment_type": "full-time",
+    "category": "Operations & Supply Chain",
+    "salary": "$75/mo",
+    "salary_min": 75.0,
+    "keywords": [
+      "Excel",
+      "audit",
+      "logistics",
+      "recruiting",
+      "compliance"
+    ],
+    "sponsorship_evidence": "",
+    "h1b_status": "unknown",
+    "sponsorship_label": "Not specified",
+    "url": "https://job-boards.greenhouse.io/doordashusa/jobs/8090100"
+  },
+  {
+    "company": "DoorDash",
+    "title": "Kitchen Operations Associate, DashMart",
+    "location": "Salt Lake City, UT",
+    "employment_type": "full-time",
+    "category": "Operations & Supply Chain",
+    "salary": "$75/mo",
+    "salary_min": 75.0,
+    "keywords": [
+      "Excel",
+      "audit",
+      "logistics",
+      "recruiting",
+      "compliance"
+    ],
+    "sponsorship_evidence": "",
+    "h1b_status": "unknown",
+    "sponsorship_label": "Not specified",
+    "url": "https://job-boards.greenhouse.io/doordashusa/jobs/8090092"
+  },
+  {
+    "company": "DoorDash",
+    "title": "Kitchen Operations Associate, DashMart",
+    "location": "Phoenix, AZ",
+    "employment_type": "full-time",
+    "category": "Operations & Supply Chain",
+    "salary": "$75/mo",
+    "salary_min": 75.0,
+    "keywords": [
+      "Excel",
+      "audit",
+      "logistics",
+      "recruiting",
+      "compliance"
+    ],
+    "sponsorship_evidence": "",
+    "h1b_status": "unknown",
+    "sponsorship_label": "Not specified",
+    "url": "https://job-boards.greenhouse.io/doordashusa/jobs/8090089"
   },
   {
     "company": "DoorDash",
@@ -6824,146 +6964,6 @@
   },
   {
     "company": "DoorDash",
-    "title": "Kitchen Operations Associate, DashMart",
-    "location": "St Louis, MO",
-    "employment_type": "full-time",
-    "category": "Operations & Supply Chain",
-    "salary": "$75/mo",
-    "salary_min": 75.0,
-    "keywords": [
-      "Excel",
-      "audit",
-      "logistics",
-      "recruiting",
-      "compliance"
-    ],
-    "sponsorship_evidence": "",
-    "h1b_status": "unknown",
-    "sponsorship_label": "Not specified",
-    "url": "https://job-boards.greenhouse.io/doordashusa/jobs/8079764"
-  },
-  {
-    "company": "DoorDash",
-    "title": "Kitchen Operations Associate, DashMart",
-    "location": "Tucson, AZ",
-    "employment_type": "full-time",
-    "category": "Operations & Supply Chain",
-    "salary": "$75/mo",
-    "salary_min": 75.0,
-    "keywords": [
-      "Excel",
-      "audit",
-      "logistics",
-      "recruiting",
-      "compliance"
-    ],
-    "sponsorship_evidence": "",
-    "h1b_status": "unknown",
-    "sponsorship_label": "Not specified",
-    "url": "https://job-boards.greenhouse.io/doordashusa/jobs/8079494"
-  },
-  {
-    "company": "DoorDash",
-    "title": "Kitchen Operations Associate, DashMart",
-    "location": "Phoenix, AZ",
-    "employment_type": "full-time",
-    "category": "Operations & Supply Chain",
-    "salary": "$75/mo",
-    "salary_min": 75.0,
-    "keywords": [
-      "Excel",
-      "audit",
-      "logistics",
-      "recruiting",
-      "compliance"
-    ],
-    "sponsorship_evidence": "",
-    "h1b_status": "unknown",
-    "sponsorship_label": "Not specified",
-    "url": "https://job-boards.greenhouse.io/doordashusa/jobs/8090089"
-  },
-  {
-    "company": "DoorDash",
-    "title": "Kitchen Operations Associate, DashMart",
-    "location": "Salt Lake City, UT",
-    "employment_type": "full-time",
-    "category": "Operations & Supply Chain",
-    "salary": "$75/mo",
-    "salary_min": 75.0,
-    "keywords": [
-      "Excel",
-      "audit",
-      "logistics",
-      "recruiting",
-      "compliance"
-    ],
-    "sponsorship_evidence": "",
-    "h1b_status": "unknown",
-    "sponsorship_label": "Not specified",
-    "url": "https://job-boards.greenhouse.io/doordashusa/jobs/8090092"
-  },
-  {
-    "company": "DoorDash",
-    "title": "Kitchen Operations Associate, DashMart",
-    "location": "Norfolk, VA",
-    "employment_type": "full-time",
-    "category": "Operations & Supply Chain",
-    "salary": "$75/mo",
-    "salary_min": 75.0,
-    "keywords": [
-      "Excel",
-      "audit",
-      "logistics",
-      "recruiting",
-      "compliance"
-    ],
-    "sponsorship_evidence": "",
-    "h1b_status": "unknown",
-    "sponsorship_label": "Not specified",
-    "url": "https://job-boards.greenhouse.io/doordashusa/jobs/8090100"
-  },
-  {
-    "company": "DoorDash",
-    "title": "Kitchen Operations Associate, DashMart",
-    "location": "Lexington, KY",
-    "employment_type": "full-time",
-    "category": "Operations & Supply Chain",
-    "salary": "$75/mo",
-    "salary_min": 75.0,
-    "keywords": [
-      "Excel",
-      "audit",
-      "logistics",
-      "recruiting",
-      "compliance"
-    ],
-    "sponsorship_evidence": "",
-    "h1b_status": "unknown",
-    "sponsorship_label": "Not specified",
-    "url": "https://job-boards.greenhouse.io/doordashusa/jobs/8071680"
-  },
-  {
-    "company": "DoorDash",
-    "title": "Kitchen Operations Associate, DashMart",
-    "location": "Morrow, GA",
-    "employment_type": "full-time",
-    "category": "Operations & Supply Chain",
-    "salary": "$75/mo",
-    "salary_min": 75.0,
-    "keywords": [
-      "Excel",
-      "audit",
-      "logistics",
-      "recruiting",
-      "compliance"
-    ],
-    "sponsorship_evidence": "",
-    "h1b_status": "unknown",
-    "sponsorship_label": "Not specified",
-    "url": "https://job-boards.greenhouse.io/doordashusa/jobs/8070776"
-  },
-  {
-    "company": "DoorDash",
     "title": "Kitchen Operations Associate, DashMart - DET-6",
     "location": "Roseville, MI; Detroit, MI",
     "employment_type": "full-time",
@@ -7005,46 +7005,6 @@
   {
     "company": "DoorDash",
     "title": "Kitchen Shift Lead, DashMart",
-    "location": "Charlotte, NC",
-    "employment_type": "full-time",
-    "category": "Other",
-    "salary": "Not disclosed",
-    "salary_min": null,
-    "keywords": [
-      "Excel",
-      "audit",
-      "logistics",
-      "recruiting",
-      "compliance"
-    ],
-    "sponsorship_evidence": "",
-    "h1b_status": "unknown",
-    "sponsorship_label": "Not specified",
-    "url": "https://job-boards.greenhouse.io/doordashusa/jobs/8090114"
-  },
-  {
-    "company": "DoorDash",
-    "title": "Kitchen Shift Lead, DashMart",
-    "location": "Tucson, AZ",
-    "employment_type": "full-time",
-    "category": "Other",
-    "salary": "$75/mo",
-    "salary_min": 75.0,
-    "keywords": [
-      "Excel",
-      "audit",
-      "logistics",
-      "recruiting",
-      "compliance"
-    ],
-    "sponsorship_evidence": "",
-    "h1b_status": "unknown",
-    "sponsorship_label": "Not specified",
-    "url": "https://job-boards.greenhouse.io/doordashusa/jobs/8073148"
-  },
-  {
-    "company": "DoorDash",
-    "title": "Kitchen Shift Lead, DashMart",
     "location": "Salt Lake City, UT",
     "employment_type": "full-time",
     "category": "Other",
@@ -7081,6 +7041,46 @@
     "h1b_status": "unknown",
     "sponsorship_label": "Not specified",
     "url": "https://job-boards.greenhouse.io/doordashusa/jobs/8079479"
+  },
+  {
+    "company": "DoorDash",
+    "title": "Kitchen Shift Lead, DashMart",
+    "location": "Charlotte, NC",
+    "employment_type": "full-time",
+    "category": "Other",
+    "salary": "Not disclosed",
+    "salary_min": null,
+    "keywords": [
+      "Excel",
+      "audit",
+      "logistics",
+      "recruiting",
+      "compliance"
+    ],
+    "sponsorship_evidence": "",
+    "h1b_status": "unknown",
+    "sponsorship_label": "Not specified",
+    "url": "https://job-boards.greenhouse.io/doordashusa/jobs/8090114"
+  },
+  {
+    "company": "DoorDash",
+    "title": "Kitchen Shift Lead, DashMart",
+    "location": "Tucson, AZ",
+    "employment_type": "full-time",
+    "category": "Other",
+    "salary": "$75/mo",
+    "salary_min": 75.0,
+    "keywords": [
+      "Excel",
+      "audit",
+      "logistics",
+      "recruiting",
+      "compliance"
+    ],
+    "sponsorship_evidence": "",
+    "h1b_status": "unknown",
+    "sponsorship_label": "Not specified",
+    "url": "https://job-boards.greenhouse.io/doordashusa/jobs/8073148"
   },
   {
     "company": "DoorDash",
@@ -8528,7 +8528,7 @@
   {
     "company": "DoorDash",
     "title": "Regional Merchant Lead",
-    "location": "Norfolk, VA",
+    "location": "Hicksville, NY",
     "employment_type": "full-time",
     "category": "Other",
     "salary": "Not disclosed",
@@ -8545,7 +8545,7 @@
     "sponsorship_evidence": "",
     "h1b_status": "unknown",
     "sponsorship_label": "Not specified",
-    "url": "https://job-boards.greenhouse.io/doordashusa/jobs/8122138"
+    "url": "https://job-boards.greenhouse.io/doordashusa/jobs/8122209"
   },
   {
     "company": "DoorDash",
@@ -8572,7 +8572,7 @@
   {
     "company": "DoorDash",
     "title": "Regional Merchant Lead",
-    "location": "Hicksville, NY",
+    "location": "Norfolk, VA",
     "employment_type": "full-time",
     "category": "Other",
     "salary": "Not disclosed",
@@ -8589,7 +8589,7 @@
     "sponsorship_evidence": "",
     "h1b_status": "unknown",
     "sponsorship_label": "Not specified",
-    "url": "https://job-boards.greenhouse.io/doordashusa/jobs/8122209"
+    "url": "https://job-boards.greenhouse.io/doordashusa/jobs/8122138"
   },
   {
     "company": "DoorDash",
@@ -10068,26 +10068,6 @@
   {
     "company": "DoorDash",
     "title": "Senior Operations Specialist, Robot - DoorDash Dot",
-    "location": "Phoenix, AZ",
-    "employment_type": "full-time",
-    "category": "Operations & Supply Chain",
-    "salary": "Not disclosed",
-    "salary_min": null,
-    "keywords": [
-      "SQL",
-      "Excel",
-      "audit",
-      "logistics",
-      "recruiting"
-    ],
-    "sponsorship_evidence": "",
-    "h1b_status": "unknown",
-    "sponsorship_label": "Not specified",
-    "url": "https://job-boards.greenhouse.io/doordashusa/jobs/7374376"
-  },
-  {
-    "company": "DoorDash",
-    "title": "Senior Operations Specialist, Robot - DoorDash Dot",
     "location": "Fremont, CA; Sunnyvale, CA; San Jose, CA; Dublin, CA",
     "employment_type": "full-time",
     "category": "Operations & Supply Chain",
@@ -10104,6 +10084,26 @@
     "h1b_status": "unknown",
     "sponsorship_label": "Not specified",
     "url": "https://job-boards.greenhouse.io/doordashusa/jobs/8089677"
+  },
+  {
+    "company": "DoorDash",
+    "title": "Senior Operations Specialist, Robot - DoorDash Dot",
+    "location": "Phoenix, AZ",
+    "employment_type": "full-time",
+    "category": "Operations & Supply Chain",
+    "salary": "Not disclosed",
+    "salary_min": null,
+    "keywords": [
+      "SQL",
+      "Excel",
+      "audit",
+      "logistics",
+      "recruiting"
+    ],
+    "sponsorship_evidence": "",
+    "h1b_status": "unknown",
+    "sponsorship_label": "Not specified",
+    "url": "https://job-boards.greenhouse.io/doordashusa/jobs/7374376"
   },
   {
     "company": "DoorDash",
@@ -10646,11 +10646,11 @@
   {
     "company": "DoorDash",
     "title": "Shift Lead",
-    "location": "Sterling Heights, MI",
+    "location": "Cincinnati, OH",
     "employment_type": "full-time",
     "category": "Other",
-    "salary": "$75/mo",
-    "salary_min": 75.0,
+    "salary": "Not disclosed",
+    "salary_min": null,
     "keywords": [
       "Excel",
       "audit",
@@ -10661,7 +10661,7 @@
     "sponsorship_evidence": "",
     "h1b_status": "unknown",
     "sponsorship_label": "Not specified",
-    "url": "https://job-boards.greenhouse.io/doordashusa/jobs/7230365"
+    "url": "https://job-boards.greenhouse.io/doordashusa/jobs/7905619"
   },
   {
     "company": "DoorDash",
@@ -10686,11 +10686,11 @@
   {
     "company": "DoorDash",
     "title": "Shift Lead",
-    "location": "Cincinnati, OH",
+    "location": "Sterling Heights, MI",
     "employment_type": "full-time",
     "category": "Other",
-    "salary": "Not disclosed",
-    "salary_min": null,
+    "salary": "$75/mo",
+    "salary_min": 75.0,
     "keywords": [
       "Excel",
       "audit",
@@ -10701,7 +10701,7 @@
     "sponsorship_evidence": "",
     "h1b_status": "unknown",
     "sponsorship_label": "Not specified",
-    "url": "https://job-boards.greenhouse.io/doordashusa/jobs/7905619"
+    "url": "https://job-boards.greenhouse.io/doordashusa/jobs/7230365"
   },
   {
     "company": "DoorDash",
@@ -10966,26 +10966,6 @@
   {
     "company": "DoorDash",
     "title": "Shift Lead, Dashmart",
-    "location": "Norfolk, VA",
-    "employment_type": "full-time",
-    "category": "Other",
-    "salary": "$75/mo",
-    "salary_min": 75.0,
-    "keywords": [
-      "Excel",
-      "audit",
-      "logistics",
-      "recruiting",
-      "compliance"
-    ],
-    "sponsorship_evidence": "",
-    "h1b_status": "unknown",
-    "sponsorship_label": "Not specified",
-    "url": "https://job-boards.greenhouse.io/doordashusa/jobs/7517631"
-  },
-  {
-    "company": "DoorDash",
-    "title": "Shift Lead, Dashmart",
     "location": "Garden City, ID",
     "employment_type": "full-time",
     "category": "Other",
@@ -11002,6 +10982,26 @@
     "h1b_status": "unknown",
     "sponsorship_label": "Not specified",
     "url": "https://job-boards.greenhouse.io/doordashusa/jobs/8110239"
+  },
+  {
+    "company": "DoorDash",
+    "title": "Shift Lead, Dashmart",
+    "location": "Kansas City, MO",
+    "employment_type": "full-time",
+    "category": "Other",
+    "salary": "$75/mo",
+    "salary_min": 75.0,
+    "keywords": [
+      "Excel",
+      "audit",
+      "logistics",
+      "recruiting",
+      "compliance"
+    ],
+    "sponsorship_evidence": "",
+    "h1b_status": "unknown",
+    "sponsorship_label": "Not specified",
+    "url": "https://job-boards.greenhouse.io/doordashusa/jobs/8155457"
   },
   {
     "company": "DoorDash",
@@ -11026,7 +11026,7 @@
   {
     "company": "DoorDash",
     "title": "Shift Lead, Dashmart",
-    "location": "Kansas City, MO",
+    "location": "Norfolk, VA",
     "employment_type": "full-time",
     "category": "Other",
     "salary": "$75/mo",
@@ -11041,7 +11041,7 @@
     "sponsorship_evidence": "",
     "h1b_status": "unknown",
     "sponsorship_label": "Not specified",
-    "url": "https://job-boards.greenhouse.io/doordashusa/jobs/8155457"
+    "url": "https://job-boards.greenhouse.io/doordashusa/jobs/7517631"
   },
   {
     "company": "DoorDash",
@@ -12074,6 +12074,29 @@
     "h1b_status": "unknown",
     "sponsorship_label": "Not specified",
     "url": "https://job-boards.greenhouse.io/doordashusa/jobs/7577073"
+  },
+  {
+    "company": "DoorDash",
+    "title": "Software Engineer I, Entry-Level (Graduation Date: Fall 2026-Summer 2027) - US",
+    "location": "Los Angeles, CA; New York, NY; San Francisco, CA; Sunnyvale, CA ; Seattle, WA",
+    "employment_type": "full-time",
+    "category": "Software & IT",
+    "salary": "Not disclosed",
+    "salary_min": null,
+    "keywords": [
+      "Python",
+      "Java",
+      "SQL",
+      "Excel",
+      "audit",
+      "logistics",
+      "recruiting",
+      "compliance"
+    ],
+    "sponsorship_evidence": "",
+    "h1b_status": "unknown",
+    "sponsorship_label": "Not specified",
+    "url": "https://job-boards.greenhouse.io/doordashusa/jobs/8163709"
   },
   {
     "company": "DoorDash",
@@ -15459,58 +15482,6 @@
     "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Global-Account-Manager--Developer-Relations---Hitachi_JR2024636"
   },
   {
-    "company": "NVIDIA",
-    "title": "Senior Account Manager, LATAM \u2013 NVIDIA Cloud Partner",
-    "location": "US, FL, Remote",
-    "employment_type": "full-time",
-    "category": "Software & IT",
-    "salary": "Not disclosed",
-    "salary_min": null,
-    "keywords": [
-      "sales",
-      "recruiting"
-    ],
-    "sponsorship_evidence": "",
-    "h1b_status": "unknown",
-    "sponsorship_label": "Not specified",
-    "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-FL-Remote/Senior-Account-Manager--LATAM---NVIDIA-Cloud-Partner_JR2023808"
-  },
-  {
-    "company": "NVIDIA",
-    "title": "Regional Segment Sales Manager \u2013 Physical AI and Digital Twins",
-    "location": "US, CA, Santa Clara",
-    "employment_type": "full-time",
-    "category": "Sales & Marketing",
-    "salary": "Not disclosed",
-    "salary_min": null,
-    "keywords": [
-      "analytics",
-      "CAD",
-      "sales",
-      "recruiting"
-    ],
-    "sponsorship_evidence": "",
-    "h1b_status": "unknown",
-    "sponsorship_label": "Not specified",
-    "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Regional-Segment-Sales-Manager---Physical-AI-and-Digital-Twins_JR2024907-1"
-  },
-  {
-    "company": "NVIDIA",
-    "title": "Senior Systems Architect - Datacenter",
-    "location": "US, CA, Santa Clara",
-    "employment_type": "full-time",
-    "category": "Other",
-    "salary": "Not disclosed",
-    "salary_min": null,
-    "keywords": [
-      "recruiting"
-    ],
-    "sponsorship_evidence": "",
-    "h1b_status": "unknown",
-    "sponsorship_label": "Not specified",
-    "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Systems-Architect---Datacenter_JR2019127"
-  },
-  {
     "company": "Salesforce",
     "title": "SMB Account Executive \u2013 Data Foundation (MuleSoft + Informatica) AE or Informatica Specialist AE (Chicago)",
     "location": "Illinois - Chicago",
@@ -15695,67 +15666,24 @@
     "url": "https://salesforce.wd12.myworkdayjobs.com/en-US/External_Career_Site/job/Illinois---Chicago/Technical-Architect---Informatica-MDM_JR345876"
   },
   {
-    "company": "Salesforce",
-    "title": "Manager, Sales Development",
-    "location": "California - San Francisco",
+    "company": "Capital One",
+    "title": "Manager, Product Management",
+    "location": "Bangalore, In",
     "employment_type": "full-time",
-    "category": "Sales & Marketing",
-    "salary": "$114.855k\u2013$153.66k/yr",
-    "salary_min": 114855.0,
+    "category": "Product & Design",
+    "salary": "Not disclosed",
+    "salary_min": null,
     "keywords": [
-      "artificial intelligence",
-      "sales",
-      "CRM",
+      "machine learning",
+      "data science",
+      "analytics",
       "recruiting",
-      "legal"
+      "compliance"
     ],
-    "sponsorship_evidence": "",
-    "h1b_status": "unknown",
-    "sponsorship_label": "Not specified",
-    "url": "https://salesforce.wd12.myworkdayjobs.com/en-US/External_Career_Site/job/California---San-Francisco/Manager--Sales-Development_JR358644-1"
-  },
-  {
-    "company": "Salesforce",
-    "title": "Senior Backend Software Engineer",
-    "location": "California - San Francisco",
-    "employment_type": "full-time",
-    "category": "Software & IT",
-    "salary": "$172.5k\u2013$260.1k/yr",
-    "salary_min": 172500.0,
-    "keywords": [
-      "Python",
-      "Java",
-      "C#",
-      "JavaScript",
-      "Node.js",
-      "AWS",
-      "Azure",
-      "GCP"
-    ],
-    "sponsorship_evidence": "",
-    "h1b_status": "unknown",
-    "sponsorship_label": "Not specified",
-    "url": "https://salesforce.wd12.myworkdayjobs.com/en-US/External_Career_Site/job/California---San-Francisco/Lead-Backend-Software-Engineer_JR356282"
-  },
-  {
-    "company": "Salesforce",
-    "title": "Named Account Executive, Federal Civilian: Government Accountability Office",
-    "location": "Virginia - Mclean",
-    "employment_type": "full-time",
-    "category": "Sales & Marketing",
-    "salary": "$141.55k\u2013$189.35k/yr",
-    "salary_min": 141550.0,
-    "keywords": [
-      "artificial intelligence",
-      "sales",
-      "CRM",
-      "recruiting",
-      "legal"
-    ],
-    "sponsorship_evidence": "",
-    "h1b_status": "unknown",
-    "sponsorship_label": "Not specified",
-    "url": "https://salesforce.wd12.myworkdayjobs.com/en-US/External_Career_Site/job/Virginia---Mclean/Named-Account-Executive--Federal-Civilian--Social-Security-Administration_JR338533"
+    "sponsorship_evidence": "At this time, Capital One will not sponsor a new applicant for employment authorization for this position.",
+    "h1b_status": "does_not_support_h1b",
+    "sponsorship_label": "No sponsorship for this position",
+    "url": "https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/Bangalore-In/Manager--Product-Management_R248803"
   },
   {
     "company": "Capital One",
@@ -17139,25 +17067,6 @@
     "h1b_status": "does_not_support_h1b",
     "sponsorship_label": "No sponsorship for this position",
     "url": "https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/Bellevue-WA/Caf-Ambassador---Bellevue_R999378-1"
-  },
-  {
-    "company": "Capital One",
-    "title": "Customer Engagement Consultant (Sales), Business Cards & Payments (Hybrid), Plano, Texas",
-    "location": "Plano, TX",
-    "employment_type": "full-time",
-    "category": "Sales & Marketing",
-    "salary": "Not disclosed",
-    "salary_min": null,
-    "keywords": [
-      "sales",
-      "CRM",
-      "recruiting",
-      "compliance"
-    ],
-    "sponsorship_evidence": "ns: 1+ years of sales or client management experience At this time, Capital One will not sponsor a new applicant for employment authorization for this position.",
-    "h1b_status": "does_not_support_h1b",
-    "sponsorship_label": "No sponsorship for this position",
-    "url": "https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/Plano-TX/Customer-Engagement-Consultant--Sales---Business-Cards---Payments--Hybrid---Plano--Texas_R248966-2"
   },
   {
     "company": "Capital One",
@@ -33027,29 +32936,6 @@
   },
   {
     "company": "Northrop Grumman",
-    "title": "Software Engineer (Level 3 or 4) - AHT",
-    "location": "United States-California-Redondo Beach",
-    "employment_type": "full-time",
-    "category": "Software & IT",
-    "salary": "Not disclosed",
-    "salary_min": null,
-    "keywords": [
-      "Python",
-      "Java",
-      "AWS",
-      "Azure",
-      "GCP",
-      "Docker",
-      "Kubernetes",
-      "contracts"
-    ],
-    "sponsorship_evidence": "",
-    "h1b_status": "unknown",
-    "sponsorship_label": "Not specified",
-    "url": "https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-California-Redondo-Beach/Software-Engineer--Level-3-or-4----AHT_R10248647"
-  },
-  {
-    "company": "Northrop Grumman",
     "title": "Manager Subcontracts 2",
     "location": "United States-Remote",
     "employment_type": "full-time",
@@ -33821,20 +33707,6 @@
   },
   {
     "company": "Northrop Grumman",
-    "title": "Sr. Principal Software Engineer - Level 4 (AHT)",
-    "location": "United States-California-Redondo Beach",
-    "employment_type": "full-time",
-    "category": "Software & IT",
-    "salary": "Not disclosed",
-    "salary_min": null,
-    "keywords": [],
-    "sponsorship_evidence": "",
-    "h1b_status": "unknown",
-    "sponsorship_label": "Not specified",
-    "url": "https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-California-Redondo-Beach/Sr-Principal-Software-Engineer---Level-4--AHT-_R10248505"
-  },
-  {
-    "company": "Northrop Grumman",
     "title": "2027 Guidance Navigation and Control Intern Dulles VA",
     "location": "United States-Virginia-Dulles",
     "employment_type": "internship",
@@ -34418,22 +34290,6 @@
     "h1b_status": "unknown",
     "sponsorship_label": "Not specified",
     "url": "https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-California-El-Segundo/Principal-Engineer-Data_R10246432"
-  },
-  {
-    "company": "Northrop Grumman",
-    "title": "Engineering Technician 2/3- Active Secret Clearance Required",
-    "location": "United States-Oklahoma-Oklahoma City",
-    "employment_type": "full-time",
-    "category": "Other",
-    "salary": "Not disclosed",
-    "salary_min": null,
-    "keywords": [
-      "logistics"
-    ],
-    "sponsorship_evidence": "",
-    "h1b_status": "unknown",
-    "sponsorship_label": "Not specified",
-    "url": "https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-Oklahoma-Oklahoma-City/Engineering-Technician-2-3--Active-Secret-Clearance-Required_R10248138"
   },
   {
     "company": "Northrop Grumman",
@@ -35240,20 +35096,6 @@
   },
   {
     "company": "Northrop Grumman",
-    "title": "Gerber Operator - Manufacturing Technician - Level 1",
-    "location": "United States-California-San Diego",
-    "employment_type": "full-time",
-    "category": "Other",
-    "salary": "Not disclosed",
-    "salary_min": null,
-    "keywords": [],
-    "sponsorship_evidence": "",
-    "h1b_status": "unknown",
-    "sponsorship_label": "Not specified",
-    "url": "https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-California-San-Diego/Gerber-Operator---Manufacturing-Technician---Level-1_R10247916"
-  },
-  {
-    "company": "Northrop Grumman",
     "title": "NDT Tech 3 (SkillBridge)",
     "location": "United States-Virginia-Charlottesville",
     "employment_type": "full-time",
@@ -35632,24 +35474,6 @@
     "h1b_status": "unknown",
     "sponsorship_label": "Not specified",
     "url": "https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-California-Palmdale/Principal---Sr-Principal-Aeronautical-Engineer_R10239204"
-  },
-  {
-    "company": "Northrop Grumman",
-    "title": "Principal Windows Systems Administrator - Secret",
-    "location": "United States-California-San Diego",
-    "employment_type": "full-time",
-    "category": "Other",
-    "salary": "Not disclosed",
-    "salary_min": null,
-    "keywords": [
-      "audit",
-      "compliance",
-      "contracts"
-    ],
-    "sponsorship_evidence": "",
-    "h1b_status": "unknown",
-    "sponsorship_label": "Not specified",
-    "url": "https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-California-San-Diego/Principal-Windows-Systems-Administrator---Secret_R10245172"
   },
   {
     "company": "Northrop Grumman",
@@ -36117,22 +35941,6 @@
     "h1b_status": "unknown",
     "sponsorship_label": "Not specified",
     "url": "https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-Arizona-Gilbert/Systems-Engineer---Level-3-or-4_R10246384"
-  },
-  {
-    "company": "Northrop Grumman",
-    "title": "Production Planner - Level 2",
-    "location": "United States-California-Oxnard",
-    "employment_type": "full-time",
-    "category": "Other",
-    "salary": "Not disclosed",
-    "salary_min": null,
-    "keywords": [
-      "Excel"
-    ],
-    "sponsorship_evidence": "",
-    "h1b_status": "unknown",
-    "sponsorship_label": "Not specified",
-    "url": "https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-California-Oxnard/Production-Planner---Level-2_R10240462-1"
   },
   {
     "company": "Northrop Grumman",
@@ -38246,20 +38054,6 @@
   },
   {
     "company": "Northrop Grumman",
-    "title": "Inspector Machined Parts 3",
-    "location": "United States-California-El Segundo",
-    "employment_type": "full-time",
-    "category": "Other",
-    "salary": "Not disclosed",
-    "salary_min": null,
-    "keywords": [],
-    "sponsorship_evidence": "",
-    "h1b_status": "unknown",
-    "sponsorship_label": "Not specified",
-    "url": "https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-California-El-Segundo/Inspector-Machined-Parts-3_R10247934"
-  },
-  {
-    "company": "Northrop Grumman",
     "title": "Principal or Sr. Principal Program Cost and Schedule Control Analyst",
     "location": "United States-California-San Diego",
     "employment_type": "full-time",
@@ -38297,23 +38091,6 @@
     "h1b_status": "unknown",
     "sponsorship_label": "Not specified",
     "url": "https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-California-Woodland-Hills/Principal-Program-Cost-Control-Analyst_R10247957"
-  },
-  {
-    "company": "Northrop Grumman",
-    "title": "Final Assembly Inspector 2/3",
-    "location": "United States-California-Palmdale",
-    "employment_type": "full-time",
-    "category": "Other",
-    "salary": "Not disclosed",
-    "salary_min": null,
-    "keywords": [
-      "Excel",
-      "compliance"
-    ],
-    "sponsorship_evidence": "",
-    "h1b_status": "unknown",
-    "sponsorship_label": "Not specified",
-    "url": "https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-California-Palmdale/Final-Assembly-Inspector-2-3_R10247415"
   },
   {
     "company": "Northrop Grumman",
@@ -43723,28 +43500,6 @@
     "h1b_status": "unknown",
     "sponsorship_label": "Not specified",
     "url": "https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-California-Redondo-Beach/Program-Cost-Control-Analyst---Level-3-or-4_R10247368"
-  },
-  {
-    "company": "Northrop Grumman",
-    "title": "2026 Supply Chain Logistics Specialist - Magna UT",
-    "location": "United States-Utah-Magna",
-    "employment_type": "full-time",
-    "category": "Operations & Supply Chain",
-    "salary": "Not disclosed",
-    "salary_min": null,
-    "keywords": [
-      "analytics",
-      "Excel",
-      "supply chain",
-      "logistics",
-      "procurement",
-      "compliance",
-      "contracts"
-    ],
-    "sponsorship_evidence": "",
-    "h1b_status": "unknown",
-    "sponsorship_label": "Not specified",
-    "url": "https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-Utah-Magna/Supply-Chain-Logistics-Specialist-1-2_R10242150"
   },
   {
     "company": "Northrop Grumman",
@@ -80050,55 +79805,72 @@
     "url": "https://mastercard.wd1.myworkdayjobs.com/en-US/CorporateCareers/job/OFallon-Missouri/Senior-Analyst---Finance-Business-Partner-Technology_R-289995-1"
   },
   {
-    "company": "Mastercard",
-    "title": "Senior Software Engineer",
-    "location": "O'Fallon, Missouri",
+    "company": "Boeing",
+    "title": "Lead DevSecOps Software Engineer",
+    "location": "USA - El Segundo, CA",
     "employment_type": "full-time",
     "category": "Software & IT",
     "salary": "Not disclosed",
     "salary_min": null,
     "keywords": [
-      "Java",
-      "AWS",
-      "Azure",
-      "GCP"
-    ],
-    "sponsorship_evidence": "",
-    "h1b_status": "unknown",
-    "sponsorship_label": "Not specified",
-    "url": "https://mastercard.wd1.myworkdayjobs.com/en-US/CorporateCareers/job/OFallon-Missouri/Senior-Software-Engineer_R-274666"
-  },
-  {
-    "company": "Mastercard",
-    "title": "Senior Software Engineer",
-    "location": "O'Fallon, Missouri",
-    "employment_type": "full-time",
-    "category": "Software & IT",
-    "salary": "Not disclosed",
-    "salary_min": null,
-    "keywords": [
-      "Java",
-      "PostgreSQL",
+      "data science",
+      "risk management",
       "compliance"
     ],
-    "sponsorship_evidence": "",
-    "h1b_status": "unknown",
-    "sponsorship_label": "Not specified",
-    "url": "https://mastercard.wd1.myworkdayjobs.com/en-US/CorporateCareers/job/OFallon-Missouri/Senior-Software-Engineer_R-280615"
+    "sponsorship_evidence": "n active in the past 24 months is considered active) Visa Sponsorship: Employer will not sponsor applicants for employment visa status.",
+    "h1b_status": "does_not_support_h1b",
+    "sponsorship_label": "No sponsorship for this position",
+    "url": "https://boeing.wd1.myworkdayjobs.com/en-US/EXTERNAL_CAREERS/job/USA---El-Segundo-CA/Lead-DevSecOps-Software-Engineer_JR2026522639"
   },
   {
-    "company": "Mastercard",
-    "title": "Senior Technical Program Manager",
-    "location": "O'Fallon, Missouri",
+    "company": "Boeing",
+    "title": "Senior Manager, Launch Systems Integration - Millennium Space Systems",
+    "location": "USA - El Segundo, CA",
     "employment_type": "full-time",
     "category": "Other",
     "salary": "Not disclosed",
     "salary_min": null,
-    "keywords": [],
-    "sponsorship_evidence": "",
-    "h1b_status": "unknown",
-    "sponsorship_label": "Not specified",
-    "url": "https://mastercard.wd1.myworkdayjobs.com/en-US/CorporateCareers/job/OFallon-Missouri/Senior-Technical-Program-Manager_R-280941"
+    "keywords": [
+      "compliance"
+    ],
+    "sponsorship_evidence": "n active in the past 24 months is considered active) Visa Sponsorship: Employer will not sponsor applicants for employment visa status.",
+    "h1b_status": "does_not_support_h1b",
+    "sponsorship_label": "No sponsorship for this position",
+    "url": "https://boeing.wd1.myworkdayjobs.com/en-US/EXTERNAL_CAREERS/job/USA---El-Segundo-CA/Senior-Manager--Launch-Systems-Integration---Millennium-Space-Systems_JR2026523847-1"
+  },
+  {
+    "company": "Boeing",
+    "title": "Flight Test Lead",
+    "location": "USA - Berkeley, MO",
+    "employment_type": "full-time",
+    "category": "Other",
+    "salary": "Not disclosed",
+    "salary_min": null,
+    "keywords": [
+      "data science",
+      "compliance"
+    ],
+    "sponsorship_evidence": "Visa Sponsorship: Employer will not sponsor applicants for employment visa status.",
+    "h1b_status": "does_not_support_h1b",
+    "sponsorship_label": "No sponsorship for this position",
+    "url": "https://boeing.wd1.myworkdayjobs.com/en-US/EXTERNAL_CAREERS/job/USA---Berkeley-MO/Flight-Test-Lead_JR2026515626-1"
+  },
+  {
+    "company": "Boeing",
+    "title": "Lead Systems Engineer",
+    "location": "USA - Hazelwood, MO",
+    "employment_type": "full-time",
+    "category": "Software & IT",
+    "salary": "Not disclosed",
+    "salary_min": null,
+    "keywords": [
+      "data science",
+      "compliance"
+    ],
+    "sponsorship_evidence": "n active in the past 24 months is considered active) Visa Sponsorship: Employer will not sponsor applicants for employment visa status.",
+    "h1b_status": "does_not_support_h1b",
+    "sponsorship_label": "No sponsorship for this position",
+    "url": "https://boeing.wd1.myworkdayjobs.com/en-US/EXTERNAL_CAREERS/job/USA---Hazelwood-MO/Lead-Systems-Engineer_JR2026520157-1"
   },
   {
     "company": "Boeing",
@@ -80613,95 +80385,6 @@
     "url": "https://boeing.wd1.myworkdayjobs.com/en-US/EXTERNAL_CAREERS/job/USA---Schriever-SFB-CO/GMD-Maintenance-Operations-Center--GMOC--Controller_JR2026520466-2"
   },
   {
-    "company": "Boeing",
-    "title": "Government Bulk Estimating and Pricing Manager",
-    "location": "USA - Hazelwood, MO",
-    "employment_type": "full-time",
-    "category": "Other",
-    "salary": "Not disclosed",
-    "salary_min": null,
-    "keywords": [
-      "accounting",
-      "audit",
-      "procurement",
-      "compliance",
-      "contracts"
-    ],
-    "sponsorship_evidence": "Visa Sponsorship: Employer will not sponsor applicants for employment visa status.",
-    "h1b_status": "does_not_support_h1b",
-    "sponsorship_label": "No sponsorship for this position",
-    "url": "https://boeing.wd1.myworkdayjobs.com/en-US/EXTERNAL_CAREERS/job/USA---Hazelwood-MO/Government-Bulk-Estimating-and-Pricing-Manager_JR2026518523-1"
-  },
-  {
-    "company": "Boeing",
-    "title": "Aircraft Maintenance Technician",
-    "location": "USA - Edwards AFB, CA",
-    "employment_type": "full-time",
-    "category": "Other",
-    "salary": "$37/hr",
-    "salary_min": 37.0,
-    "keywords": [],
-    "sponsorship_evidence": "n active in the past 24 months is considered active) Visa Sponsorship: Employer will not sponsor applicants for employment visa status.",
-    "h1b_status": "does_not_support_h1b",
-    "sponsorship_label": "No sponsorship for this position",
-    "url": "https://boeing.wd1.myworkdayjobs.com/en-US/EXTERNAL_CAREERS/job/USA---Edwards-AFB-CA/Aircraft-Maintenance-Technician_JR2026513455-1"
-  },
-  {
-    "company": "Boeing",
-    "title": "Experienced or Mid-Level Manufacturing Operations Analyst",
-    "location": "USA - Mesa, AZ",
-    "employment_type": "full-time",
-    "category": "Operations & Supply Chain",
-    "salary": "Not disclosed",
-    "salary_min": null,
-    "keywords": [
-      "Excel",
-      "compliance"
-    ],
-    "sponsorship_evidence": "Visa Sponsorship: Employer will not sponsor applicants for employment visa status.",
-    "h1b_status": "does_not_support_h1b",
-    "sponsorship_label": "No sponsorship for this position",
-    "url": "https://boeing.wd1.myworkdayjobs.com/en-US/EXTERNAL_CAREERS/job/USA---Mesa-AZ/Experienced-or-Mid-Level-Manufacturing-Operations-Analyst_JR2026523928-1"
-  },
-  {
-    "company": "Boeing",
-    "title": "Flight Simulation Software Engineer (Associate, Experienced, and Senior)",
-    "location": "USA - Daytona Beach, FL",
-    "employment_type": "full-time",
-    "category": "Software & IT",
-    "salary": "Not disclosed",
-    "salary_min": null,
-    "keywords": [
-      "Python",
-      "Java",
-      "C#",
-      "data science",
-      "tax",
-      "compliance"
-    ],
-    "sponsorship_evidence": "Visa Sponsorship: Employer will not sponsor applicants for employment visa status.",
-    "h1b_status": "does_not_support_h1b",
-    "sponsorship_label": "No sponsorship for this position",
-    "url": "https://boeing.wd1.myworkdayjobs.com/en-US/EXTERNAL_CAREERS/job/USA---Daytona-Beach-FL/Flight-Simulation-Software-Engineer--Associate--Experienced--and-Senior-_JR2026510755-1"
-  },
-  {
-    "company": "Boeing",
-    "title": "Associate or Experienced Procurement Agent (Procurement Admin)",
-    "location": "USA - Seattle, WA",
-    "employment_type": "full-time",
-    "category": "Operations & Supply Chain",
-    "salary": "Not disclosed",
-    "salary_min": null,
-    "keywords": [
-      "procurement",
-      "CRM"
-    ],
-    "sponsorship_evidence": "Visa Sponsorship: Employer will not sponsor applicants for employment visa status.",
-    "h1b_status": "does_not_support_h1b",
-    "sponsorship_label": "No sponsorship for this position",
-    "url": "https://boeing.wd1.myworkdayjobs.com/en-US/EXTERNAL_CAREERS/job/USA---Seattle-WA/Associate-or-Experienced-Procurement-Agent--Procurement-Admin-_JR2026516570-1"
-  },
-  {
     "company": "HP",
     "title": "ACS Quality Engineer - Workstation Products",
     "location": "Fort Collins, Colorado, United States of America",
@@ -80806,37 +80489,6 @@
     "h1b_status": "unknown",
     "sponsorship_label": "Not specified",
     "url": "https://hp.wd5.myworkdayjobs.com/en-US/ExternalCareerSite/job/All-Cities-New-Jersey-United-States-of-America/Field-Service-Engineer-New-Jersey_3154975-1"
-  },
-  {
-    "company": "HP",
-    "title": "3LS Quality Engineer",
-    "location": "Spring, Texas, United States of America",
-    "employment_type": "full-time",
-    "category": "Engineering",
-    "salary": "Not disclosed",
-    "salary_min": null,
-    "keywords": [],
-    "sponsorship_evidence": "",
-    "h1b_status": "unknown",
-    "sponsorship_label": "Not specified",
-    "url": "https://hp.wd5.myworkdayjobs.com/en-US/ExternalCareerSite/job/Spring-Texas-United-States-of-America/XMLNAME-3LS-Quality-Engineer_3161087-2"
-  },
-  {
-    "company": "HP",
-    "title": "Program Manager",
-    "location": "Vancouver, Washington, United States of America",
-    "employment_type": "full-time",
-    "category": "Other",
-    "salary": "Not disclosed",
-    "salary_min": null,
-    "keywords": [
-      "risk management",
-      "compliance"
-    ],
-    "sponsorship_evidence": "",
-    "h1b_status": "unknown",
-    "sponsorship_label": "Not specified",
-    "url": "https://hp.wd5.myworkdayjobs.com/en-US/ExternalCareerSite/job/Vancouver-Washington-United-States-of-America/Program-Manager_3164573"
   },
   {
     "company": "Intel",
@@ -80996,23 +80648,38 @@
     "url": "https://intel.wd1.myworkdayjobs.com/en-US/External/job/US-Arizona-Phoenix/Ocotillo-Technology-Fabrication-Wet-Etch-Module-Engineer_JR0285573-1"
   },
   {
-    "company": "Intel",
-    "title": "GPU Software Development Engineer",
-    "location": "US, California, Folsom",
+    "company": "Visa",
+    "title": "Director, Business Planning & Operations",
+    "location": "US - San Francisco, CA",
+    "employment_type": "full-time",
+    "category": "Operations & Supply Chain",
+    "salary": "Not disclosed",
+    "salary_min": null,
+    "keywords": [
+      "analytics",
+      "sales"
+    ],
+    "sponsorship_evidence": "",
+    "h1b_status": "unknown",
+    "sponsorship_label": "Not specified",
+    "url": "https://visa.wd5.myworkdayjobs.com/en-US/Visa/job/US---San-Francisco-CA/Director--Business-Planning---Operations_REF088030W"
+  },
+  {
+    "company": "Visa",
+    "title": "Senior SW Engineer - SRE, Production Support, Linux, Networking, CI/CD",
+    "location": "IN - Bengaluru, India",
     "employment_type": "full-time",
     "category": "Software & IT",
     "salary": "Not disclosed",
     "salary_min": null,
     "keywords": [
-      "Python",
-      "machine learning",
-      "electrical engineering",
-      "compliance"
+      "Docker",
+      "Kubernetes"
     ],
     "sponsorship_evidence": "",
     "h1b_status": "unknown",
     "sponsorship_label": "Not specified",
-    "url": "https://intel.wd1.myworkdayjobs.com/en-US/External/job/US-California-Folsom/GPU-Software-Development-Engineer_JR0283073"
+    "url": "https://visa.wd5.myworkdayjobs.com/en-US/Visa/job/IN---Bengaluru-India/Senior-SW-Engineer---SRE--Production-Support--Linux--Networking--CI-CD_REF076295W-1"
   },
   {
     "company": "Visa",
@@ -81353,93 +81020,23 @@
     "url": "https://visa.wd5.myworkdayjobs.com/en-US/Visa/job/IN---Bengaluru-India/Marketing-Analyst-B2B-Marketing_REF087827W"
   },
   {
-    "company": "Visa",
-    "title": "Consultant, People Analytics (Power BI/DAX/SQL)",
-    "location": "IN - Bengaluru, India",
-    "employment_type": "full-time",
-    "category": "Data & AI",
-    "salary": "Not disclosed",
-    "salary_min": null,
-    "keywords": [
-      "Python",
-      "SQL",
-      "analytics"
-    ],
-    "sponsorship_evidence": "",
-    "h1b_status": "unknown",
-    "sponsorship_label": "Not specified",
-    "url": "https://visa.wd5.myworkdayjobs.com/en-US/Visa/job/IN---Bengaluru-India/Consultant--People-Analytics--Power-BI-DAX-SQL-_REF087980W"
-  },
-  {
-    "company": "Visa",
-    "title": "Lead Technical Program Manager",
-    "location": "IN - Bengaluru, India",
+    "company": "Micron Technology",
+    "title": "Process Engineer",
+    "location": "Manassas, VA -  Fab 6",
     "employment_type": "full-time",
     "category": "Other",
     "salary": "Not disclosed",
     "salary_min": null,
     "keywords": [
-      "machine learning",
-      "artificial intelligence",
-      "audit",
-      "compliance"
-    ],
-    "sponsorship_evidence": "",
-    "h1b_status": "unknown",
-    "sponsorship_label": "Not specified",
-    "url": "https://visa.wd5.myworkdayjobs.com/en-US/Visa/job/IN---Bengaluru-India/Lead-Technical-Program-Manager_REF087842W-1"
-  },
-  {
-    "company": "Visa",
-    "title": "Sr Technical Program Manager, Treasury Digital Assets",
-    "location": "US - Foster City, CA",
-    "employment_type": "full-time",
-    "category": "Finance & Accounting",
-    "salary": "Not disclosed",
-    "salary_min": null,
-    "keywords": [
-      "sales",
-      "compliance",
-      "legal"
-    ],
-    "sponsorship_evidence": "",
-    "h1b_status": "unknown",
-    "sponsorship_label": "Not specified",
-    "url": "https://visa.wd5.myworkdayjobs.com/en-US/Visa/job/US---Foster-City-CA/Sr-Technical-Program-Manager--Treasury-Digital-Assets_REF082972W"
-  },
-  {
-    "company": "Visa",
-    "title": "Director, Commercial Sales",
-    "location": "US - New York, NY",
-    "employment_type": "full-time",
-    "category": "Sales & Marketing",
-    "salary": "Not disclosed",
-    "salary_min": null,
-    "keywords": [
-      "sales",
-      "legal"
-    ],
-    "sponsorship_evidence": "",
-    "h1b_status": "unknown",
-    "sponsorship_label": "Not specified",
-    "url": "https://visa.wd5.myworkdayjobs.com/en-US/Visa/job/US---New-York-NY/Director-of-Sales--Small-Business-and-Commercial_REF087583W"
-  },
-  {
-    "company": "Visa",
-    "title": "Director, Commercial Sales",
-    "location": "US - New York, NY",
-    "employment_type": "full-time",
-    "category": "Sales & Marketing",
-    "salary": "Not disclosed",
-    "salary_min": null,
-    "keywords": [
       "analytics",
-      "sales"
+      "risk management",
+      "mechanical engineering",
+      "electrical engineering"
     ],
     "sponsorship_evidence": "",
     "h1b_status": "unknown",
     "sponsorship_label": "Not specified",
-    "url": "https://visa.wd5.myworkdayjobs.com/en-US/Visa/job/US---New-York-NY/Director--Commercial-LMM-Sales-Executive_REF085291W"
+    "url": "https://micron.wd1.myworkdayjobs.com/en-US/External/job/Manassas-VA----Fab-6/Process-Engineer_JR102788"
   },
   {
     "company": "Micron Technology",
@@ -83256,25 +82853,6 @@
     "h1b_status": "unknown",
     "sponsorship_label": "Not specified",
     "url": "https://micron.wd1.myworkdayjobs.com/en-US/External/job/San-Jose-CA/Principal-CAD-Engineer-Manager_JR103797-1"
-  },
-  {
-    "company": "Micron Technology",
-    "title": "Process Engineer",
-    "location": "Manassas, VA -  Fab 6",
-    "employment_type": "full-time",
-    "category": "Other",
-    "salary": "Not disclosed",
-    "salary_min": null,
-    "keywords": [
-      "analytics",
-      "risk management",
-      "mechanical engineering",
-      "electrical engineering"
-    ],
-    "sponsorship_evidence": "",
-    "h1b_status": "unknown",
-    "sponsorship_label": "Not specified",
-    "url": "https://micron.wd1.myworkdayjobs.com/en-US/External/job/Manassas-VA----Fab-6/Process-Engineer_JR102788"
   },
   {
     "company": "Micron Technology",
@@ -91974,6 +91552,22 @@
     "url": "https://paypal.wd1.myworkdayjobs.com/en-US/jobs/job/New-York-City-New-York-United-States-of-America/Manager--Affiliates_R0137331"
   },
   {
+    "company": "PayPal",
+    "title": "Senior Manager, Ads",
+    "location": "New York City, New York, United States of America",
+    "employment_type": "full-time",
+    "category": "Other",
+    "salary": "$160.3k\u2013$237.93k/yr",
+    "salary_min": 160300.0,
+    "keywords": [
+      "sales"
+    ],
+    "sponsorship_evidence": "",
+    "h1b_status": "unknown",
+    "sponsorship_label": "Not specified",
+    "url": "https://paypal.wd1.myworkdayjobs.com/en-US/jobs/job/New-York-City-New-York-United-States-of-America/Senior-Manager--Ads_R0137362"
+  },
+  {
     "company": "S&P Global",
     "title": "Director, Communications \u2013 Strategic Initiatives & DeFi",
     "location": "New York, NY",
@@ -92129,26 +91723,6 @@
     "h1b_status": "unknown",
     "sponsorship_label": "Not specified",
     "url": "https://spgi.wd5.myworkdayjobs.com/en-US/SPGI_Careers/job/New-York-NY/PVR-Sales-Specialist--Americas_328476-2"
-  },
-  {
-    "company": "S&P Global",
-    "title": "Exclusive S&P Global Ratings Early Careers Networking Event",
-    "location": "New York, NY",
-    "employment_type": "full-time",
-    "category": "Other",
-    "salary": "Not disclosed",
-    "salary_min": null,
-    "keywords": [
-      "machine learning",
-      "artificial intelligence",
-      "analytics",
-      "supply chain",
-      "compliance"
-    ],
-    "sponsorship_evidence": "",
-    "h1b_status": "unknown",
-    "sponsorship_label": "Not specified",
-    "url": "https://spgi.wd5.myworkdayjobs.com/en-US/SPGI_Careers/job/New-York-NY/Ratings-Forward--S-P-Global-Early-Careers-Networking-Event_331461-1"
   },
   {
     "company": "McKesson",
@@ -92883,24 +92457,6 @@
     "url": "https://cigna.wd5.myworkdayjobs.com/en-US/cignacareers/job/United-States-Work-at-Home/Financial-Analyst---Senior-Analyst---Evernorth-Health-Services---Remote_26008986-1"
   },
   {
-    "company": "Cigna Group",
-    "title": "Regional Specialist - MidWest - Accredo - Remote",
-    "location": "United States Work at Home",
-    "employment_type": "full-time",
-    "category": "Other",
-    "salary": "Not disclosed",
-    "salary_min": null,
-    "keywords": [
-      "analytics",
-      "Excel",
-      "sales"
-    ],
-    "sponsorship_evidence": "",
-    "h1b_status": "unknown",
-    "sponsorship_label": "Not specified",
-    "url": "https://cigna.wd5.myworkdayjobs.com/en-US/cignacareers/job/United-States-Work-at-Home/Regional-Specialist---MidWest---Accredo---Remote_26010925"
-  },
-  {
     "company": "Centene",
     "title": "LTSS Service Care Coordinator",
     "location": "Remote-TX",
@@ -93263,6 +92819,24 @@
     "url": "https://centene.wd5.myworkdayjobs.com/en-US/centene_external/job/Remote-IN/Quality-Practice-Advisor_1649686"
   },
   {
+    "company": "Centene",
+    "title": "Senior Quality Auditor",
+    "location": "Remote-MO",
+    "employment_type": "full-time",
+    "category": "Finance & Accounting",
+    "salary": "$23.23\u2013$39.61/hr",
+    "salary_min": 23.23,
+    "keywords": [
+      "audit",
+      "compliance",
+      "contracts"
+    ],
+    "sponsorship_evidence": "",
+    "h1b_status": "unknown",
+    "sponsorship_label": "Not specified",
+    "url": "https://centene.wd5.myworkdayjobs.com/en-US/centene_external/job/Remote-MO/Senior-Quality-Auditor_1649618-1"
+  },
+  {
     "company": "Chevron",
     "title": "Lab Helper-1",
     "location": "Pascagoula, Mississippi, United States of America",
@@ -93277,6 +92851,26 @@
     "h1b_status": "does_not_support_h1b",
     "sponsorship_label": "No sponsorship for this position",
     "url": "https://chevron.wd5.myworkdayjobs.com/en-US/jobs/job/Pascagoula-Mississippi-United-States-of-America/Lab-Helper-1_R000073277"
+  },
+  {
+    "company": "Chevron",
+    "title": "Tax Counsel / Senior Tax Counsel\u00a0",
+    "location": "Houston, Texas, United States of America",
+    "employment_type": "full-time",
+    "category": "Finance & Accounting",
+    "salary": "Not disclosed",
+    "salary_min": null,
+    "keywords": [
+      "accounting",
+      "audit",
+      "tax",
+      "compliance",
+      "legal"
+    ],
+    "sponsorship_evidence": "Chevron regrets that it is unable to sponsor employment Visas or consider individuals on time-limited Visa status for this position.",
+    "h1b_status": "does_not_support_h1b",
+    "sponsorship_label": "No sponsorship for this position",
+    "url": "https://chevron.wd5.myworkdayjobs.com/en-US/jobs/job/Houston-Texas-United-States-of-America/Tax-Counsel---Senior-Tax-Counsel-_R000069629"
   },
   {
     "company": "Chevron",
@@ -93609,23 +93203,6 @@
   },
   {
     "company": "Chevron",
-    "title": "Land Representative",
-    "location": "Greeley, Colorado, United States of America",
-    "employment_type": "full-time",
-    "category": "Other",
-    "salary": "Not disclosed",
-    "salary_min": null,
-    "keywords": [
-      "compliance",
-      "legal"
-    ],
-    "sponsorship_evidence": "Chevron regrets that it is unable to sponsor employment Visas or consider individuals on time-limited Visa status for this position.",
-    "h1b_status": "does_not_support_h1b",
-    "sponsorship_label": "No sponsorship for this position",
-    "url": "https://chevron.wd5.myworkdayjobs.com/en-US/jobs/job/Greeley-Colorado-United-States-of-America/Land-Representative_R000072175"
-  },
-  {
-    "company": "Chevron",
     "title": "Scheduler",
     "location": "North Salt Lake, Utah, United States of America",
     "employment_type": "full-time",
@@ -93653,22 +93230,6 @@
     "h1b_status": "does_not_support_h1b",
     "sponsorship_label": "No sponsorship for this position",
     "url": "https://chevron.wd5.myworkdayjobs.com/en-US/jobs/job/Sugar-Land-Texas-United-States-of-America/Principal-Airplane-Pilot_R000067349"
-  },
-  {
-    "company": "Chevron",
-    "title": "Field Specialist, B",
-    "location": "Carlsbad, New Mexico, United States of America",
-    "employment_type": "full-time",
-    "category": "Other",
-    "salary": "Not disclosed",
-    "salary_min": null,
-    "keywords": [
-      "Excel"
-    ],
-    "sponsorship_evidence": "Chevron regrets that it is unable to sponsor employment Visas or consider individuals on time-limited Visa status for this position.",
-    "h1b_status": "does_not_support_h1b",
-    "sponsorship_label": "No sponsorship for this position",
-    "url": "https://chevron.wd5.myworkdayjobs.com/en-US/jobs/job/Carlsbad-New-Mexico-United-States-of-America/Field-Specialist--B_R000073039"
   },
   {
     "company": "Chevron",
@@ -94329,25 +93890,6 @@
   },
   {
     "company": "Marathon Petroleum",
-    "title": "Associate Accountant (Intern to FT Conversion)",
-    "location": "Texas City, Texas",
-    "employment_type": "internship",
-    "category": "Finance & Accounting",
-    "salary": "Not disclosed",
-    "salary_min": null,
-    "keywords": [
-      "Excel",
-      "accounting",
-      "human resources",
-      "contracts"
-    ],
-    "sponsorship_evidence": "",
-    "h1b_status": "unknown",
-    "sponsorship_label": "Not specified",
-    "url": "https://mpc.wd1.myworkdayjobs.com/en-US/MPCCareers/job/Texas-City-Texas/Associate-Accountant--Intern-to-FT-Conversion-_00023745"
-  },
-  {
-    "company": "Marathon Petroleum",
     "title": "River Engineer 4",
     "location": "Catlettsburg, Kentucky",
     "employment_type": "full-time",
@@ -94667,6 +94209,23 @@
     "h1b_status": "unknown",
     "sponsorship_label": "Not specified",
     "url": "https://mpc.wd1.myworkdayjobs.com/en-US/MPCCareers/job/Detroit-Michigan/Pump-Mechanic-Machinist_00023723"
+  },
+  {
+    "company": "Marathon Petroleum",
+    "title": "I&E Technician",
+    "location": "Elk City, Oklahoma",
+    "employment_type": "full-time",
+    "category": "Other",
+    "salary": "Not disclosed",
+    "salary_min": null,
+    "keywords": [
+      "human resources",
+      "compliance"
+    ],
+    "sponsorship_evidence": "",
+    "h1b_status": "unknown",
+    "sponsorship_label": "Not specified",
+    "url": "https://mpc.wd1.myworkdayjobs.com/en-US/MPCCareers/job/Elk-City-Oklahoma/I-E-Technician_00023441"
   },
   {
     "company": "Freddie Mac",
@@ -97066,81 +96625,6 @@
     "url": "https://ms.wd5.myworkdayjobs.com/en-US/External/job/Garden-City-New-York-United-States-of-America/Client-Relationship-Analyst_JR036497-2"
   },
   {
-    "company": "Morgan Stanley",
-    "title": "NNA Analytics and Insights \u2013 Analyst /Associate",
-    "location": "New York, New York, United States of America",
-    "employment_type": "full-time",
-    "category": "Data & AI",
-    "salary": "$115k/yr",
-    "salary_min": 115000.0,
-    "keywords": [
-      "Python",
-      "SQL",
-      "analytics",
-      "Excel",
-      "recruiting"
-    ],
-    "sponsorship_evidence": "",
-    "h1b_status": "unknown",
-    "sponsorship_label": "Not specified",
-    "url": "https://ms.wd5.myworkdayjobs.com/en-US/External/job/New-York-New-York-United-States-of-America/NNA-Analytics-and-Insights---Analyst--Associate_PT-JR042091-1"
-  },
-  {
-    "company": "Morgan Stanley",
-    "title": "Estate Planning Strategist, Executive Director",
-    "location": "New York, New York, United States of America",
-    "employment_type": "full-time",
-    "category": "Other",
-    "salary": "Not disclosed",
-    "salary_min": null,
-    "keywords": [
-      "accounting",
-      "tax",
-      "recruiting",
-      "legal"
-    ],
-    "sponsorship_evidence": "",
-    "h1b_status": "unknown",
-    "sponsorship_label": "Not specified",
-    "url": "https://ms.wd5.myworkdayjobs.com/en-US/External/job/New-York-New-York-United-States-of-America/Estate-Planning-Strategist--Executive-Director_PT-JR043258-1"
-  },
-  {
-    "company": "Morgan Stanley",
-    "title": "Registered Client Service Associate",
-    "location": "San Mateo CA",
-    "employment_type": "full-time",
-    "category": "Other",
-    "salary": "$90k/yr",
-    "salary_min": 90000.0,
-    "keywords": [
-      "Excel",
-      "logistics",
-      "recruiting"
-    ],
-    "sponsorship_evidence": "",
-    "h1b_status": "unknown",
-    "sponsorship_label": "Not specified",
-    "url": "https://ms.wd5.myworkdayjobs.com/en-US/External/job/San-Mateo-CA/Registered-Client-Service-Associate_JR042962"
-  },
-  {
-    "company": "Morgan Stanley",
-    "title": "Business Development Associate",
-    "location": "Palo Alto, California, United States of America",
-    "employment_type": "full-time",
-    "category": "Sales & Marketing",
-    "salary": "$125k/yr",
-    "salary_min": 125000.0,
-    "keywords": [
-      "Excel",
-      "digital marketing",
-      "recruiting"
-    ],
-    "sponsorship_evidence": "",
-    "h1b_status": "unknown",
-    "sponsorship_label": "Not specified",
-    "url": "https://ms.wd5.myworkdayjobs.com/en-US/External/job/Palo-Alto-California-United-States-of-America/Business-Development-Associate_JR039830"
-  },
-  {
     "company": "Walt Disney",
     "title": "Sr Software Engineer (Project Hire)",
     "location": "Lake Buena Vista, FL, USA",
@@ -97569,27 +97053,6 @@
     "h1b_status": "unknown",
     "sponsorship_label": "Not specified",
     "url": "https://disney.wd5.myworkdayjobs.com/en-US/disneycareer/job/New-York-NY-USA/Associate-Program-Manager_10157387"
-  },
-  {
-    "company": "Walt Disney",
-    "title": "Analyst, Distribution Planning & Analysis",
-    "location": "Burbank, CA, USA",
-    "employment_type": "full-time",
-    "category": "Other",
-    "salary": "$71.996k\u2013$96.58k/yr",
-    "salary_min": 71996.0,
-    "keywords": [
-      "Excel",
-      "financial modeling",
-      "accounting",
-      "sales",
-      "legal",
-      "contracts"
-    ],
-    "sponsorship_evidence": "",
-    "h1b_status": "unknown",
-    "sponsorship_label": "Not specified",
-    "url": "https://disney.wd5.myworkdayjobs.com/en-US/disneycareer/job/Burbank-CA-USA/Analyst--Distribution-Planning---Analysis_10158734"
   },
   {
     "company": "Walt Disney",
@@ -99507,20 +98970,6 @@
   },
   {
     "company": "Walt Disney",
-    "title": "Storyboard Revisionist - Disney Television Animation",
-    "location": "Glendale, CA, USA",
-    "employment_type": "full-time",
-    "category": "Other",
-    "salary": "$55.31/hr",
-    "salary_min": 55.31,
-    "keywords": [],
-    "sponsorship_evidence": "",
-    "h1b_status": "unknown",
-    "sponsorship_label": "Not specified",
-    "url": "https://disney.wd5.myworkdayjobs.com/en-US/disneycareer/job/Glendale-CA-USA/Storyboard-Revisionist---Disney-Television-Animation_10151478-2"
-  },
-  {
-    "company": "Walt Disney",
     "title": "VP, Operations & Business Planning (Finance)",
     "location": "Philadelphia, PA, USA",
     "employment_type": "full-time",
@@ -99758,26 +99207,6 @@
   },
   {
     "company": "Walt Disney",
-    "title": "VP, Technology Vendor Strategy & Management",
-    "location": "Burbank, CA, USA",
-    "employment_type": "full-time",
-    "category": "Other",
-    "salary": "$251.9k\u2013$337.8k/yr",
-    "salary_min": 251900.0,
-    "keywords": [
-      "risk management",
-      "procurement",
-      "compliance",
-      "legal",
-      "contracts"
-    ],
-    "sponsorship_evidence": "",
-    "h1b_status": "unknown",
-    "sponsorship_label": "Not specified",
-    "url": "https://disney.wd5.myworkdayjobs.com/en-US/disneycareer/job/Burbank-CA-USA/VP--Technology-Vendor-Strategy---Management_10155135"
-  },
-  {
-    "company": "Walt Disney",
     "title": "Sr Manager, Talent & Growth (Talent Management)",
     "location": "Burbank, CA, USA",
     "employment_type": "full-time",
@@ -99810,38 +99239,6 @@
     "h1b_status": "unknown",
     "sponsorship_label": "Not specified",
     "url": "https://disney.wd5.myworkdayjobs.com/en-US/disneycareer/job/Orlando-FL-USA/Product-Manager--Project-Hire-_10157640"
-  },
-  {
-    "company": "Walt Disney",
-    "title": "Content Partner Manager",
-    "location": "Santa Monica, CA, USA",
-    "employment_type": "full-time",
-    "category": "Other",
-    "salary": "$95.5k\u2013$128k/yr",
-    "salary_min": 95500.0,
-    "keywords": [
-      "supply chain",
-      "compliance",
-      "contracts"
-    ],
-    "sponsorship_evidence": "",
-    "h1b_status": "unknown",
-    "sponsorship_label": "Not specified",
-    "url": "https://disney.wd5.myworkdayjobs.com/en-US/disneycareer/job/Santa-Monica-CA-USA/Content-Partner-Manager_10158627"
-  },
-  {
-    "company": "Walt Disney",
-    "title": "Sr Tech Project Mgr - Project Hire",
-    "location": "Orlando, FL, USA",
-    "employment_type": "full-time",
-    "category": "Other",
-    "salary": "$123.1k\u2013$165.1k/yr",
-    "salary_min": 123100.0,
-    "keywords": [],
-    "sponsorship_evidence": "",
-    "h1b_status": "unknown",
-    "sponsorship_label": "Not specified",
-    "url": "https://disney.wd5.myworkdayjobs.com/en-US/disneycareer/job/Orlando-FL-USA/Sr-Tech-Project-Mgr---Project-Hire_10157612-2"
   },
   {
     "company": "Walt Disney",
@@ -100485,24 +99882,6 @@
   },
   {
     "company": "Walt Disney",
-    "title": "Protective Services Senior Manager",
-    "location": "Burbank, CA, USA",
-    "employment_type": "full-time",
-    "category": "Other",
-    "salary": "$153.2k\u2013$205.4k/yr",
-    "salary_min": 153200.0,
-    "keywords": [
-      "procurement",
-      "compliance",
-      "legal"
-    ],
-    "sponsorship_evidence": "",
-    "h1b_status": "unknown",
-    "sponsorship_label": "Not specified",
-    "url": "https://disney.wd5.myworkdayjobs.com/en-US/disneycareer/job/Burbank-CA-USA/Protective-Services-Senior-Manager_10151783-1"
-  },
-  {
-    "company": "Walt Disney",
     "title": "Senior Analyst, Revenue Planning (Project Hire)",
     "location": "Santa Monica, CA, USA",
     "employment_type": "full-time",
@@ -100562,23 +99941,6 @@
     "h1b_status": "unknown",
     "sponsorship_label": "Not specified",
     "url": "https://disney.wd5.myworkdayjobs.com/en-US/disneycareer/job/Burbank-CA-USA/Director--Creator-Content-and-Partnerships_10156997"
-  },
-  {
-    "company": "Walt Disney",
-    "title": "Sr Product Manager",
-    "location": "Glendale, CA, USA",
-    "employment_type": "full-time",
-    "category": "Product & Design",
-    "salary": "$141.9k\u2013$190.3k/yr",
-    "salary_min": 141900.0,
-    "keywords": [
-      "analytics",
-      "electrical engineering"
-    ],
-    "sponsorship_evidence": "",
-    "h1b_status": "unknown",
-    "sponsorship_label": "Not specified",
-    "url": "https://disney.wd5.myworkdayjobs.com/en-US/disneycareer/job/Glendale-CA-USA/Sr-Product-Manager_10154988"
   },
   {
     "company": "Walt Disney",
@@ -101340,20 +100702,6 @@
     "h1b_status": "unknown",
     "sponsorship_label": "Not specified",
     "url": "https://disney.wd5.myworkdayjobs.com/en-US/disneycareer/job/Orlando-FL-USA/Sr-Portfolio-Management-Analyst_10151462"
-  },
-  {
-    "company": "Walt Disney",
-    "title": "Media Manager / Non-Linear Editor (Temp) - KGO",
-    "location": "San Francisco, CA, USA",
-    "employment_type": "full-time",
-    "category": "Other",
-    "salary": "$30\u2013$45/hr",
-    "salary_min": 30.0,
-    "keywords": [],
-    "sponsorship_evidence": "",
-    "h1b_status": "unknown",
-    "sponsorship_label": "Not specified",
-    "url": "https://disney.wd5.myworkdayjobs.com/en-US/disneycareer/job/San-Francisco-CA-USA/Media-Manager---Non-Linear-Editor--Temp----KGO_10145292"
   },
   {
     "company": "Walt Disney",
@@ -105065,23 +104413,6 @@
   },
   {
     "company": "Johnson & Johnson",
-    "title": "Manager Preclinical Research",
-    "location": "Irvine, California, United States of America",
-    "employment_type": "full-time",
-    "category": "Other",
-    "salary": "Not disclosed",
-    "salary_min": null,
-    "keywords": [
-      "recruiting",
-      "compliance"
-    ],
-    "sponsorship_evidence": "",
-    "h1b_status": "unknown",
-    "sponsorship_label": "Not specified",
-    "url": "https://jj.wd5.myworkdayjobs.com/en-US/JJ/job/Irvine-California-United-States-of-America/Manager-Preclinical-Research_R-087478-1"
-  },
-  {
-    "company": "Johnson & Johnson",
     "title": "Associate Director, Global Medical Affairs Publication Operations",
     "location": "Raritan, New Jersey, United States of America",
     "employment_type": "full-time",
@@ -106000,29 +105331,6 @@
   },
   {
     "company": "Johnson & Johnson",
-    "title": "Sr. Supply Chain Planning Analyst",
-    "location": "Irvine, California, United States of America",
-    "employment_type": "full-time",
-    "category": "Operations & Supply Chain",
-    "salary": "Not disclosed",
-    "salary_min": null,
-    "keywords": [
-      "SQL",
-      "analytics",
-      "Excel",
-      "audit",
-      "supply chain",
-      "logistics",
-      "procurement",
-      "recruiting"
-    ],
-    "sponsorship_evidence": "",
-    "h1b_status": "unknown",
-    "sponsorship_label": "Not specified",
-    "url": "https://jj.wd5.myworkdayjobs.com/en-US/JJ/job/Irvine-California-United-States-of-America/Sr-Supply-Chain-Planning-Analyst_R-095148-1"
-  },
-  {
-    "company": "Johnson & Johnson",
     "title": "DePuy Synthes R&D Lab Co-op Orthopedics",
     "location": "Warsaw, Indiana, United States of America",
     "employment_type": "internship",
@@ -106252,60 +105560,6 @@
     "h1b_status": "unknown",
     "sponsorship_label": "Not specified",
     "url": "https://jj.wd5.myworkdayjobs.com/en-US/JJ/job/Jacksonville-Florida-United-States-of-America/Senior-Package-Engineer_R-093826-1"
-  },
-  {
-    "company": "Johnson & Johnson",
-    "title": "Sr. Ultrasound Clinical Account Specialist, Cardiac Sonographer (Houston, TX) \u2013 Johnson and Johnson MedTech, Electrophysiology",
-    "location": "Houston, Texas, United States of America",
-    "employment_type": "full-time",
-    "category": "Other",
-    "salary": "Not disclosed",
-    "salary_min": null,
-    "keywords": [
-      "procurement",
-      "sales",
-      "recruiting"
-    ],
-    "sponsorship_evidence": "",
-    "h1b_status": "unknown",
-    "sponsorship_label": "Not specified",
-    "url": "https://jj.wd5.myworkdayjobs.com/en-US/JJ/job/Houston-Texas-United-States-of-America/Sr-Ultrasound-Clinical-Account-Specialist--Cardiac-Sonographer--Houston--TX----Johnson-and-Johnson-MedTech--Electrophysiology_R-095060"
-  },
-  {
-    "company": "Johnson & Johnson",
-    "title": "Sr. Ultrasound Clinical Account Specialist, Cardiac Sonographer (Washington D.C.) \u2013 Johnson and Johnson MedTech, Structural Heart",
-    "location": "Washington, District of Columbia, United States of America",
-    "employment_type": "full-time",
-    "category": "Other",
-    "salary": "Not disclosed",
-    "salary_min": null,
-    "keywords": [
-      "procurement",
-      "sales",
-      "recruiting"
-    ],
-    "sponsorship_evidence": "",
-    "h1b_status": "unknown",
-    "sponsorship_label": "Not specified",
-    "url": "https://jj.wd5.myworkdayjobs.com/en-US/JJ/job/Washington-District-of-Columbia-United-States-of-America/Sr-Ultrasound-Clinical-Account-Specialist--Cardiac-Sonographer--Washington-DC----Johnson-and-Johnson-MedTech--Structural-Heart_R-095041"
-  },
-  {
-    "company": "Johnson & Johnson",
-    "title": "Sr. Ultrasound Clinical Account Specialist, Cardiac Sonographer (Boston, MA) \u2013 Johnson and Johnson MedTech, Structural Heart",
-    "location": "Boston, Massachusetts, United States of America",
-    "employment_type": "full-time",
-    "category": "Other",
-    "salary": "Not disclosed",
-    "salary_min": null,
-    "keywords": [
-      "procurement",
-      "sales",
-      "recruiting"
-    ],
-    "sponsorship_evidence": "",
-    "h1b_status": "unknown",
-    "sponsorship_label": "Not specified",
-    "url": "https://jj.wd5.myworkdayjobs.com/en-US/JJ/job/Boston-Massachusetts-United-States-of-America/Sr-Ultrasound-Clinical-Account-Specialist--Cardiac-Sonographer--Boston--MA----Johnson-and-Johnson-MedTech--Structural-Heart_R-095044"
   },
   {
     "company": "Johnson & Johnson",
@@ -106698,29 +105952,6 @@
     "h1b_status": "unknown",
     "sponsorship_label": "Not specified",
     "url": "https://jj.wd5.myworkdayjobs.com/en-US/JJ/job/Cornelia-Georgia-United-States-of-America/Spring-2027-Quality-Engineering-Co-op_R-094937"
-  },
-  {
-    "company": "Johnson & Johnson",
-    "title": "Sr. Hardware Test Engineer",
-    "location": "Santa Clara, California, United States of America",
-    "employment_type": "full-time",
-    "category": "Other",
-    "salary": "Not disclosed",
-    "salary_min": null,
-    "keywords": [
-      "Python",
-      "analytics",
-      "mechanical engineering",
-      "electrical engineering",
-      "supply chain",
-      "recruiting",
-      "legal",
-      "contracts"
-    ],
-    "sponsorship_evidence": "",
-    "h1b_status": "unknown",
-    "sponsorship_label": "Not specified",
-    "url": "https://jj.wd5.myworkdayjobs.com/en-US/JJ/job/Santa-Clara-California-United-States-of-America/Sr-Hardware-Test-Engineer_R-092030-1"
   },
   {
     "company": "Johnson & Johnson",
@@ -108427,6 +107658,102 @@
   },
   {
     "company": "RTX",
+    "title": "Manufacturing Engineer Cost Modeler (Remote)",
+    "location": "US-CT-REMOTE",
+    "employment_type": "full-time",
+    "category": "Engineering",
+    "salary": "Not disclosed",
+    "salary_min": null,
+    "keywords": [
+      "Python",
+      "SQL",
+      "supply chain",
+      "recruiting",
+      "compliance",
+      "contracts"
+    ],
+    "sponsorship_evidence": "",
+    "h1b_status": "unknown",
+    "sponsorship_label": "Not specified",
+    "url": "https://globalhr.wd5.myworkdayjobs.com/en-US/REC_RTX_Ext_Gateway/job/US-CT-REMOTE/Manufacturing-Engineering-Cost-Modeler--Remote-_01871844-1"
+  },
+  {
+    "company": "RTX",
+    "title": "Associate Engineer - Planning",
+    "location": "IN-KA-BENGALURU-BLDG 1 ~ Hitech, Defence & Aerospace Park ~ HI TECH DEFENSE",
+    "employment_type": "full-time",
+    "category": "Other",
+    "salary": "Not disclosed",
+    "salary_min": null,
+    "keywords": [
+      "analytics",
+      "Excel",
+      "sales"
+    ],
+    "sponsorship_evidence": "",
+    "h1b_status": "unknown",
+    "sponsorship_label": "Not specified",
+    "url": "https://globalhr.wd5.myworkdayjobs.com/en-US/REC_RTX_Ext_Gateway/job/IN-KA-BENGALURU-BLDG-1--Hitech-Defence--Aerospace-Park--HI-TECH-DEFENSE/Senior-Associate-Engineer---Planning_01861971"
+  },
+  {
+    "company": "RTX",
+    "title": "Cloud Network Security Engineer (Puerto Rico)",
+    "location": "US-PR-SANTA ISABEL-B1 ~ Felicia Industrial Park - St B1 ~ BLDG 1",
+    "employment_type": "full-time",
+    "category": "Software & IT",
+    "salary": "Not disclosed",
+    "salary_min": null,
+    "keywords": [
+      "AWS",
+      "Azure",
+      "Terraform",
+      "compliance",
+      "contracts"
+    ],
+    "sponsorship_evidence": "",
+    "h1b_status": "unknown",
+    "sponsorship_label": "Not specified",
+    "url": "https://globalhr.wd5.myworkdayjobs.com/en-US/REC_RTX_Ext_Gateway/job/US-PR-SANTA-ISABEL-B1--Felicia-Industrial-Park---St-B1--BLDG-1/Cloud-Network-Security-Engineer--Puerto-Rico-_01872769"
+  },
+  {
+    "company": "RTX",
+    "title": "Lead Engineer \u2013 Software(DO-178B/C,3-6 years)",
+    "location": "IN-KA-BENGALURU-NORTHGATE ~ Sy No 2/2 Venkatala Village ~ SY NO 2/2 VENKATALA VILLAGE, Yelahanka Hobli",
+    "employment_type": "full-time",
+    "category": "Software & IT",
+    "salary": "Not disclosed",
+    "salary_min": null,
+    "keywords": [
+      "electrical engineering",
+      "compliance"
+    ],
+    "sponsorship_evidence": "",
+    "h1b_status": "unknown",
+    "sponsorship_label": "Not specified",
+    "url": "https://globalhr.wd5.myworkdayjobs.com/en-US/REC_RTX_Ext_Gateway/job/IN-KA-BENGALURU-NORTHGATE--Sy-No-22-Venkatala-Village--SY-NO-22-VENKATALA-VILLAGE-Yelahanka-Hobli/Lead-Engineer---Software-DO-178B-C-3-6-years-_01862240"
+  },
+  {
+    "company": "RTX",
+    "title": "Senior Accountant Analyst",
+    "location": "IN-KA-BENGALURU-NORTHGATE ~ Sy No 2/2 Venkatala Village ~ SY NO 2/2 VENKATALA VILLAGE, Yelahanka Hobli",
+    "employment_type": "full-time",
+    "category": "Finance & Accounting",
+    "salary": "Not disclosed",
+    "salary_min": null,
+    "keywords": [
+      "Excel",
+      "accounting",
+      "tax",
+      "recruiting",
+      "compliance"
+    ],
+    "sponsorship_evidence": "",
+    "h1b_status": "unknown",
+    "sponsorship_label": "Not specified",
+    "url": "https://globalhr.wd5.myworkdayjobs.com/en-US/REC_RTX_Ext_Gateway/job/IN-KA-BENGALURU-NORTHGATE--Sy-No-22-Venkatala-Village--SY-NO-22-VENKATALA-VILLAGE-Yelahanka-Hobli/Senior-Accountant-Analyst_01872327"
+  },
+  {
+    "company": "RTX",
     "title": "Lead Engineer",
     "location": "IN-KA-BENGALURU-NORTHGATE ~ Sy No 2/2 Venkatala Village ~ SY NO 2/2 VENKATALA VILLAGE, Yelahanka Hobli",
     "employment_type": "full-time",
@@ -108820,23 +108147,6 @@
     "h1b_status": "unknown",
     "sponsorship_label": "Not specified",
     "url": "https://globalhr.wd5.myworkdayjobs.com/en-US/REC_RTX_Ext_Gateway/job/MX-BCN-MEXICALI-238--Blvd-Venustiano-Carranza-238--BLDG-238-Desarrollo-Industrial-Colorado/Operador-Tcnico-EL--Ensamble----Rotativo--1er-y-2do-turno----En-sitio---Aeroestructuras_01871233"
-  },
-  {
-    "company": "RTX",
-    "title": "Materials and Process Engineer I",
-    "location": "US-CA-EL SEGUNDO-E01 ~ 2000 E El Segundo Blvd ~ BLDG E01",
-    "employment_type": "full-time",
-    "category": "Other",
-    "salary": "Not disclosed",
-    "salary_min": null,
-    "keywords": [
-      "compliance",
-      "contracts"
-    ],
-    "sponsorship_evidence": "",
-    "h1b_status": "unknown",
-    "sponsorship_label": "Not specified",
-    "url": "https://globalhr.wd5.myworkdayjobs.com/en-US/REC_RTX_Ext_Gateway/job/US-CA-EL-SEGUNDO-E01--2000-E-El-Segundo-Blvd--BLDG-E01/Materials-and-Process-Engineer-I_01850833"
   },
   {
     "company": "RTX",
@@ -114952,24 +114262,6 @@
   },
   {
     "company": "RTX",
-    "title": "Mechanical Engineering Intern (Summer 2027)",
-    "location": "US-AL-HUNTSVILLE-315 ~ 315 Bob Heath Dr ~ BOB HEATH",
-    "employment_type": "internship",
-    "category": "Engineering",
-    "salary": "Not disclosed",
-    "salary_min": null,
-    "keywords": [
-      "mechanical engineering",
-      "procurement",
-      "compliance"
-    ],
-    "sponsorship_evidence": "",
-    "h1b_status": "unknown",
-    "sponsorship_label": "Not specified",
-    "url": "https://globalhr.wd5.myworkdayjobs.com/en-US/REC_RTX_Ext_Gateway/job/US-AL-HUNTSVILLE-315--315-Bob-Heath-Dr--BOB-HEATH/Mechanical-Engineering-Intern--Summer-2027-_01871548"
-  },
-  {
-    "company": "RTX",
     "title": "Software Engineer I (Onsite)",
     "location": "US-IN-FT WAYNE-150A ~ 1010 Production Rd ~ BLDG 150A",
     "employment_type": "full-time",
@@ -115312,22 +114604,6 @@
     "h1b_status": "unknown",
     "sponsorship_label": "Not specified",
     "url": "https://globalhr.wd5.myworkdayjobs.com/en-US/REC_RTX_Ext_Gateway/job/US-IL-ROCKFORD-P6--4747-Harrison-Ave--4747-HARRISON-AVE-P6/Engineer-II--Engineering-Test-Systems--Onsite-_01868091"
-  },
-  {
-    "company": "RTX",
-    "title": "Systems Engineer I",
-    "location": "US-AZ-TUCSON-848 ~ 1151 E Hermans Rd ~ BLDG 848",
-    "employment_type": "full-time",
-    "category": "Software & IT",
-    "salary": "Not disclosed",
-    "salary_min": null,
-    "keywords": [
-      "compliance"
-    ],
-    "sponsorship_evidence": "",
-    "h1b_status": "unknown",
-    "sponsorship_label": "Not specified",
-    "url": "https://globalhr.wd5.myworkdayjobs.com/en-US/REC_RTX_Ext_Gateway/job/US-AZ-TUCSON-848--1151-E-Hermans-Rd--BLDG-848/Systems-Engineer-I_01870892"
   },
   {
     "company": "RTX",
@@ -115764,23 +115040,6 @@
     "h1b_status": "unknown",
     "sponsorship_label": "Not specified",
     "url": "https://globalhr.wd5.myworkdayjobs.com/en-US/REC_RTX_Ext_Gateway/job/US-AZ-TUCSON-801--1151-E-Hermans-Rd--BLDG-801-External-Site/Prototype-Engineering-Planner-III_01869662"
-  },
-  {
-    "company": "RTX",
-    "title": "Software Engineer I (Onsite)",
-    "location": "US-IA-CEDAR RAPIDS-105 ~ 400 Collins Rd NE ~ BLDG 105",
-    "employment_type": "full-time",
-    "category": "Software & IT",
-    "salary": "Not disclosed",
-    "salary_min": null,
-    "keywords": [
-      "Python",
-      "compliance"
-    ],
-    "sponsorship_evidence": "",
-    "h1b_status": "unknown",
-    "sponsorship_label": "Not specified",
-    "url": "https://globalhr.wd5.myworkdayjobs.com/en-US/REC_RTX_Ext_Gateway/job/US-IA-CEDAR-RAPIDS-105--400-Collins-Rd-NE--BLDG-105/Software-Engineer-I--Onsite-_01867125-1"
   },
   {
     "company": "RTX",
@@ -116996,29 +116255,6 @@
   },
   {
     "company": "RTX",
-    "title": "Digital Technology Intern (Summer 2027)",
-    "location": "US-TX-MCKINNEY-513WC ~ 2501 W University Dr ~ WING C BLDG",
-    "employment_type": "internship",
-    "category": "Other",
-    "salary": "Not disclosed",
-    "salary_min": null,
-    "keywords": [
-      "Python",
-      "Java",
-      "C#",
-      "machine learning",
-      "data science",
-      "CAD",
-      "compliance",
-      "contracts"
-    ],
-    "sponsorship_evidence": "",
-    "h1b_status": "unknown",
-    "sponsorship_label": "Not specified",
-    "url": "https://globalhr.wd5.myworkdayjobs.com/en-US/REC_RTX_Ext_Gateway/job/US-TX-MCKINNEY-513WC--2501-W-University-Dr--WING-C-BLDG/Digital-Technology-Intern--Summer-2027-_01871045"
-  },
-  {
-    "company": "RTX",
     "title": "Stage -  Hiver 2027- Soutien aux equipes HEP (hybrid-electric propulsion) et NSE (New Small Engine) a la gestion de programme / Internship - Winter 2027 - HEP (Hybrid-Electric propulsion) & NSE (New Small Engine) support to Program Management team",
     "location": "CA-QC-LONGUEUIL-J01 ~ 1000 Blvd Marie-Victorin ~ J01 BLDG",
     "employment_type": "internship",
@@ -117030,29 +116266,6 @@
     "h1b_status": "unknown",
     "sponsorship_label": "Not specified",
     "url": "https://globalhr.wd5.myworkdayjobs.com/en-US/REC_RTX_Ext_Gateway/job/CA-QC-LONGUEUIL-J01--1000-Blvd-Marie-Victorin--J01-BLDG/Stage----Hiver-2027--Soutien-aux-equipes-HEP--hybrid-electric-propulsion--et-NSE--New-Small-Engine--a-la-gestion-de-programme---Internship---Winter-2027---HEP--Hybrid-Electric-propulsion----NSE--New-Small-Engine--support-to-Program-Management-team_01865614"
-  },
-  {
-    "company": "RTX",
-    "title": "Digital Technology Intern (Summer 2027)",
-    "location": "US-AZ-TUCSON-801 ~ 1151 E Hermans Rd ~ BLDG 801 (External Site)",
-    "employment_type": "internship",
-    "category": "Other",
-    "salary": "Not disclosed",
-    "salary_min": null,
-    "keywords": [
-      "Python",
-      "Java",
-      "C#",
-      "machine learning",
-      "data science",
-      "CAD",
-      "compliance",
-      "contracts"
-    ],
-    "sponsorship_evidence": "",
-    "h1b_status": "unknown",
-    "sponsorship_label": "Not specified",
-    "url": "https://globalhr.wd5.myworkdayjobs.com/en-US/REC_RTX_Ext_Gateway/job/US-AZ-TUCSON-801--1151-E-Hermans-Rd--BLDG-801-External-Site/Digital-Technology-Intern--Summer-2027-_01871049"
   },
   {
     "company": "RTX",
@@ -118081,25 +117294,6 @@
     "h1b_status": "unknown",
     "sponsorship_label": "Not specified",
     "url": "https://globalhr.wd5.myworkdayjobs.com/en-US/REC_RTX_Ext_Gateway/job/US-AL-HUNTSVILLE-401--401-Jan-Davis-Dr-NW--JAN-DAVIS-401/Senior-Electrical-Component-Engineer_01868973"
-  },
-  {
-    "company": "RTX",
-    "title": "Finance Analyst I",
-    "location": "US-AZ-TUCSON-9022 ~ 9022 S Rita Rd ~ BLDG 9022",
-    "employment_type": "full-time",
-    "category": "Finance & Accounting",
-    "salary": "Not disclosed",
-    "salary_min": null,
-    "keywords": [
-      "Excel",
-      "accounting",
-      "sales",
-      "compliance"
-    ],
-    "sponsorship_evidence": "",
-    "h1b_status": "unknown",
-    "sponsorship_label": "Not specified",
-    "url": "https://globalhr.wd5.myworkdayjobs.com/en-US/REC_RTX_Ext_Gateway/job/US-AZ-TUCSON-9022--9022-S-Rita-Rd--BLDG-9022/Finance-Analyst-I_01868904"
   },
   {
     "company": "RTX",
@@ -125079,42 +124273,6 @@
   },
   {
     "company": "RTX",
-    "title": "Software Engineer II (Onsite)",
-    "location": "US-AL-HUNTSVILLE-401 ~ 401 Jan Davis Dr NW ~ JAN DAVIS 401",
-    "employment_type": "full-time",
-    "category": "Software & IT",
-    "salary": "Not disclosed",
-    "salary_min": null,
-    "keywords": [
-      "Java",
-      "C#",
-      "Azure",
-      "compliance"
-    ],
-    "sponsorship_evidence": "",
-    "h1b_status": "unknown",
-    "sponsorship_label": "Not specified",
-    "url": "https://globalhr.wd5.myworkdayjobs.com/en-US/REC_RTX_Ext_Gateway/job/US-AL-HUNTSVILLE-401--401-Jan-Davis-Dr-NW--JAN-DAVIS-401/Software-Engineer-II--Onsite-_01870003"
-  },
-  {
-    "company": "RTX",
-    "title": "Software Engineer I (Onsite)",
-    "location": "US-AL-HUNTSVILLE-401 ~ 401 Jan Davis Dr NW ~ JAN DAVIS 401",
-    "employment_type": "full-time",
-    "category": "Software & IT",
-    "salary": "Not disclosed",
-    "salary_min": null,
-    "keywords": [
-      "Azure",
-      "compliance"
-    ],
-    "sponsorship_evidence": "",
-    "h1b_status": "unknown",
-    "sponsorship_label": "Not specified",
-    "url": "https://globalhr.wd5.myworkdayjobs.com/en-US/REC_RTX_Ext_Gateway/job/US-AL-HUNTSVILLE-401--401-Jan-Davis-Dr-NW--JAN-DAVIS-401/Software-Engineer-I--Onsite-_01870005"
-  },
-  {
-    "company": "RTX",
     "title": "Manufacturing/Production Supervisor",
     "location": "US-MA-ANDOVER-AN1 ~ 350 Lowell St ~ AN1 ESSEX BLDG",
     "employment_type": "full-time",
@@ -125254,25 +124412,6 @@
   },
   {
     "company": "RTX",
-    "title": "Software Engineering Intern (Summer 2027)",
-    "location": "US-AL-HUNTSVILLE-401 ~ 401 Jan Davis Dr NW ~ JAN DAVIS 401",
-    "employment_type": "internship",
-    "category": "Software & IT",
-    "salary": "Not disclosed",
-    "salary_min": null,
-    "keywords": [
-      "Java",
-      "C#",
-      "Azure",
-      "compliance"
-    ],
-    "sponsorship_evidence": "",
-    "h1b_status": "unknown",
-    "sponsorship_label": "Not specified",
-    "url": "https://globalhr.wd5.myworkdayjobs.com/en-US/REC_RTX_Ext_Gateway/job/US-AL-HUNTSVILLE-401--401-Jan-Davis-Dr-NW--JAN-DAVIS-401/Software-Engineering-Intern--Summer-2027-_01870007"
-  },
-  {
-    "company": "RTX",
     "title": "Stage - Hiver 2027 - Stagiaire en recrutement / Internship - Winter 2027 - Talent Acquisition Intern",
     "location": "CA-QC-LONGUEUIL-J01 ~ 1000 Blvd Marie-Victorin ~ J01 BLDG",
     "employment_type": "internship",
@@ -125337,24 +124476,6 @@
     "h1b_status": "unknown",
     "sponsorship_label": "Not specified",
     "url": "https://globalhr.wd5.myworkdayjobs.com/en-US/REC_RTX_Ext_Gateway/job/US-MA-ANDOVER-AR1--358-Lowell-St--AR1-DUKES-BLDG/Associate-Director--Factory-Operations-Manager_01870259"
-  },
-  {
-    "company": "RTX",
-    "title": "Manufacturing Operator , 2nd Shift ( Onsite)",
-    "location": "US-ME-NORTH BERWICK-113 ~ 113 Wells St ~ WELLS, Rte 9",
-    "employment_type": "full-time",
-    "category": "Other",
-    "salary": "Not disclosed",
-    "salary_min": null,
-    "keywords": [
-      "recruiting",
-      "compliance",
-      "contracts"
-    ],
-    "sponsorship_evidence": "",
-    "h1b_status": "unknown",
-    "sponsorship_label": "Not specified",
-    "url": "https://globalhr.wd5.myworkdayjobs.com/en-US/REC_RTX_Ext_Gateway/job/US-ME-NORTH-BERWICK-113--113-Wells-St--WELLS-Rte-9/Manufacturing-Operator---2nd-Shift---Onsite-_01869528"
   },
   {
     "company": "RTX",
@@ -128041,22 +127162,6 @@
     "h1b_status": "unknown",
     "sponsorship_label": "Not specified",
     "url": "https://globalhr.wd5.myworkdayjobs.com/en-US/REC_RTX_Ext_Gateway/job/US-IA-CEDAR-RAPIDS-112--400-Collins-Rd-NE--BLDG-112/Systems-Engineer-I--Onsite-_01868914"
-  },
-  {
-    "company": "RTX",
-    "title": "Principal Engineer, Harness & Interconnect",
-    "location": "US-AZ-TUCSON-M10 ~ 3360 E Hemisphere Loop ~ BLDG M10",
-    "employment_type": "full-time",
-    "category": "Other",
-    "salary": "Not disclosed",
-    "salary_min": null,
-    "keywords": [
-      "compliance"
-    ],
-    "sponsorship_evidence": "",
-    "h1b_status": "unknown",
-    "sponsorship_label": "Not specified",
-    "url": "https://globalhr.wd5.myworkdayjobs.com/en-US/REC_RTX_Ext_Gateway/job/US-AZ-TUCSON-M10--3360-E-Hemisphere-Loop--BLDG-M10/Principal-Engineer--Harness---Interconnect_01845462"
   },
   {
     "company": "RTX",
@@ -167814,24 +166919,6 @@
   },
   {
     "company": "RTX",
-    "title": "Bench Mechanic,  2nd Shift ( Onsite)",
-    "location": "US-ME-NORTH BERWICK-113 ~ 113 Wells St ~ WELLS, Rte 9",
-    "employment_type": "full-time",
-    "category": "Other",
-    "salary": "Not disclosed",
-    "salary_min": null,
-    "keywords": [
-      "recruiting",
-      "compliance",
-      "contracts"
-    ],
-    "sponsorship_evidence": "",
-    "h1b_status": "unknown",
-    "sponsorship_label": "Not specified",
-    "url": "https://globalhr.wd5.myworkdayjobs.com/en-US/REC_RTX_Ext_Gateway/job/US-ME-NORTH-BERWICK-113--113-Wells-St--WELLS-Rte-9/Bench-Mechanic---2nd-Shift---Onsite-_01853358"
-  },
-  {
-    "company": "RTX",
     "title": "Groundsperson / Skilled Maintenance Worker",
     "location": "AU-WA-EXMOUTH-HEH-CUST ~ HEH Murat Rd ~ NAVAL COMMS (External Site)",
     "employment_type": "full-time",
@@ -174575,23 +173662,6 @@
   },
   {
     "company": "RTX",
-    "title": "Senior Systems Integration & Test Engineer",
-    "location": "US-CA-GOLETA-H01 ~ 6380 Hollister Ave ~ BLDG H01",
-    "employment_type": "full-time",
-    "category": "Other",
-    "salary": "Not disclosed",
-    "salary_min": null,
-    "keywords": [
-      "electrical engineering",
-      "compliance"
-    ],
-    "sponsorship_evidence": "",
-    "h1b_status": "unknown",
-    "sponsorship_label": "Not specified",
-    "url": "https://globalhr.wd5.myworkdayjobs.com/en-US/REC_RTX_Ext_Gateway/job/US-CA-GOLETA-H01--6380-Hollister-Ave--BLDG-H01/Senior-Systems-Integration---Test-Engineer_01794161"
-  },
-  {
-    "company": "RTX",
     "title": "Fire Protection Principal Specialist",
     "location": "US-MA-MARLBOROUGH-MA2 ~ 1001 Boston Post Rd ~ BLDG 2",
     "employment_type": "full-time",
@@ -174625,6 +173695,38 @@
     "h1b_status": "unknown",
     "sponsorship_label": "Not specified",
     "url": "https://globalhr.wd5.myworkdayjobs.com/en-US/REC_RTX_Ext_Gateway/job/HIN02-Ft-Wayne-IN-1010-Production-Road---Fort-Wayne-IN-46808-USA/Senior-Systems-Engineer---Embedded-Communications-Onsite_01752554-1"
+  },
+  {
+    "company": "Lowe's",
+    "title": "Full Time - Sales Associate - Building Materials - Closing",
+    "location": "Orlando, FL (Lake Nona) 3350",
+    "employment_type": "full-time",
+    "category": "Sales & Marketing",
+    "salary": "Not disclosed",
+    "salary_min": null,
+    "keywords": [
+      "sales"
+    ],
+    "sponsorship_evidence": "",
+    "h1b_status": "unknown",
+    "sponsorship_label": "Not specified",
+    "url": "https://lowes.wd5.myworkdayjobs.com/en-US/LWS_External_CS/job/Orlando-FL-Lake-Nona-3350/Full-Time---Sales-Associate---Building-Materials---Closing_JR-02642132"
+  },
+  {
+    "company": "Lowe's",
+    "title": "Full Time - Sales Associate - Tools - Closing",
+    "location": "Houston, TX (E Houston) 1145",
+    "employment_type": "full-time",
+    "category": "Sales & Marketing",
+    "salary": "Not disclosed",
+    "salary_min": null,
+    "keywords": [
+      "sales"
+    ],
+    "sponsorship_evidence": "",
+    "h1b_status": "unknown",
+    "sponsorship_label": "Not specified",
+    "url": "https://lowes.wd5.myworkdayjobs.com/en-US/LWS_External_CS/job/Houston-TX-E-Houston-1145/Full-Time---Sales-Associate---Tools---Closing_JR-02642088"
   },
   {
     "company": "Lowe's",
@@ -189127,38 +188229,6 @@
   },
   {
     "company": "Lowe's",
-    "title": "Full Time - Sales Associate - Building Materials - Day",
-    "location": "Albuquerque, NM (E Albuquerque) 1543",
-    "employment_type": "full-time",
-    "category": "Sales & Marketing",
-    "salary": "Not disclosed",
-    "salary_min": null,
-    "keywords": [
-      "sales"
-    ],
-    "sponsorship_evidence": "",
-    "h1b_status": "unknown",
-    "sponsorship_label": "Not specified",
-    "url": "https://lowes.wd5.myworkdayjobs.com/en-US/LWS_External_CS/job/Albuquerque-NM-E-Albuquerque-1543/Full-Time---Sales-Associate---Building-Materials---Day_JR-02592484"
-  },
-  {
-    "company": "Lowe's",
-    "title": "Full Time - Sales Associate - Building Materials - Day",
-    "location": "Albuquerque, NM (E Albuquerque) 1543",
-    "employment_type": "full-time",
-    "category": "Sales & Marketing",
-    "salary": "Not disclosed",
-    "salary_min": null,
-    "keywords": [
-      "sales"
-    ],
-    "sponsorship_evidence": "",
-    "h1b_status": "unknown",
-    "sponsorship_label": "Not specified",
-    "url": "https://lowes.wd5.myworkdayjobs.com/en-US/LWS_External_CS/job/Albuquerque-NM-E-Albuquerque-1543/Full-Time---Sales-Associate---Building-Materials---Day_JR-02592482"
-  },
-  {
-    "company": "Lowe's",
     "title": "Sr. Account Manager",
     "location": "Oklahoma City, OK (Central Oklahoma City) 2540",
     "employment_type": "full-time",
@@ -190336,6 +189406,23 @@
   },
   {
     "company": "Sysco",
+    "title": "Sales Consultant",
+    "location": "Sysco Virginia  -  Main Office",
+    "employment_type": "full-time",
+    "category": "Sales & Marketing",
+    "salary": "Not disclosed",
+    "salary_min": null,
+    "keywords": [
+      "sales",
+      "compliance"
+    ],
+    "sponsorship_evidence": "",
+    "h1b_status": "unknown",
+    "sponsorship_label": "Not specified",
+    "url": "https://sysco.wd5.myworkdayjobs.com/en-US/syscocareers/job/Sysco-Virginia-----Main-Office/Sales-Consultant_R265995"
+  },
+  {
+    "company": "Sysco",
     "title": "Installation Support Specialist - DON - US",
     "location": "Edward Don & Company - Santa Rosa - CA",
     "employment_type": "full-time",
@@ -190389,23 +189476,6 @@
     "h1b_status": "unknown",
     "sponsorship_label": "Not specified",
     "url": "https://sysco.wd5.myworkdayjobs.com/en-US/syscocareers/job/Greco-Colorado/Forklift-Outbound--Night-_R266194"
-  },
-  {
-    "company": "Sysco",
-    "title": "CDL A Local Delivery Truck Driver",
-    "location": "Greco Colorado",
-    "employment_type": "full-time",
-    "category": "Other",
-    "salary": "Not disclosed",
-    "salary_min": null,
-    "keywords": [
-      "sales",
-      "compliance"
-    ],
-    "sponsorship_evidence": "",
-    "h1b_status": "unknown",
-    "sponsorship_label": "Not specified",
-    "url": "https://sysco.wd5.myworkdayjobs.com/en-US/syscocareers/job/Greco-Colorado/CDL-A-Local-Delivery-Truck-Driver_R259644"
   },
   {
     "company": "Sysco",
@@ -190490,95 +189560,6 @@
     "h1b_status": "unknown",
     "sponsorship_label": "Not specified",
     "url": "https://sysco.wd5.myworkdayjobs.com/en-US/syscocareers/job/Sysco-North-Dakota-----Fargo/Diesel-Fleet-Mechanic-Technician-II_R258628"
-  },
-  {
-    "company": "Sysco",
-    "title": "Diesel Fleet Mechanic Technician II",
-    "location": "Sysco Virginia  -  Main Office",
-    "employment_type": "full-time",
-    "category": "Other",
-    "salary": "Not disclosed",
-    "salary_min": null,
-    "keywords": [
-      "sales",
-      "compliance",
-      "legal"
-    ],
-    "sponsorship_evidence": "",
-    "h1b_status": "unknown",
-    "sponsorship_label": "Not specified",
-    "url": "https://sysco.wd5.myworkdayjobs.com/en-US/syscocareers/job/Sysco-Virginia-----Main-Office/Diesel-Fleet-Mechanic-Technician-II_R265946-1"
-  },
-  {
-    "company": "Sysco",
-    "title": "Meat Cutter",
-    "location": "Buckhead New York",
-    "employment_type": "full-time",
-    "category": "Other",
-    "salary": "Not disclosed",
-    "salary_min": null,
-    "keywords": [
-      "sales",
-      "compliance",
-      "legal"
-    ],
-    "sponsorship_evidence": "",
-    "h1b_status": "unknown",
-    "sponsorship_label": "Not specified",
-    "url": "https://sysco.wd5.myworkdayjobs.com/en-US/syscocareers/job/Buckhead-New-York/Meat-Cutter_R265245-1"
-  },
-  {
-    "company": "Sysco",
-    "title": "Meat Packer",
-    "location": "Buckhead New York",
-    "employment_type": "full-time",
-    "category": "Other",
-    "salary": "Not disclosed",
-    "salary_min": null,
-    "keywords": [
-      "sales",
-      "compliance"
-    ],
-    "sponsorship_evidence": "",
-    "h1b_status": "unknown",
-    "sponsorship_label": "Not specified",
-    "url": "https://sysco.wd5.myworkdayjobs.com/en-US/syscocareers/job/Buckhead-New-York/Meat-Packer_R265237"
-  },
-  {
-    "company": "Sysco",
-    "title": "Operations Lead",
-    "location": "Buckhead New York",
-    "employment_type": "full-time",
-    "category": "Operations & Supply Chain",
-    "salary": "Not disclosed",
-    "salary_min": null,
-    "keywords": [
-      "analytics",
-      "sales",
-      "compliance"
-    ],
-    "sponsorship_evidence": "",
-    "h1b_status": "unknown",
-    "sponsorship_label": "Not specified",
-    "url": "https://sysco.wd5.myworkdayjobs.com/en-US/syscocareers/job/Buckhead-New-York/Operations-Lead_R265232"
-  },
-  {
-    "company": "Sysco",
-    "title": "Meat Lead",
-    "location": "Buckhead New York",
-    "employment_type": "full-time",
-    "category": "Other",
-    "salary": "Not disclosed",
-    "salary_min": null,
-    "keywords": [
-      "sales",
-      "compliance",
-      "legal"
-    ],
-    "sponsorship_evidence": "",
-    "h1b_status": "unknown",
-    "sponsorship_label": "Not specified",
-    "url": "https://sysco.wd5.myworkdayjobs.com/en-US/syscocareers/job/Buckhead-New-York/Meat-Lead_R265227-1"
   },
   {
     "company": "Allstate",
@@ -191068,42 +190049,42 @@
     "url": "https://allstate.wd5.myworkdayjobs.com/en-US/allstate_careers/job/USA---VA-Remote/Early-Career-Trial-Attorney---Fairfax--VA--Hybrid-_R34322-1"
   },
   {
-    "company": "Allstate",
-    "title": "Senior Trial Attorney (Remote - Birmingham, AL)",
-    "location": "USA - AL (Remote)",
+    "company": "Caterpillar",
+    "title": "Senior Robotics & Embodied AI Engineer",
+    "location": "San Francisco, California",
     "employment_type": "full-time",
-    "category": "People & Legal",
+    "category": "Data & AI",
     "salary": "Not disclosed",
     "salary_min": null,
     "keywords": [
-      "Excel",
-      "risk management",
-      "compliance",
-      "legal",
-      "contracts"
+      "Python",
+      "machine learning",
+      "artificial intelligence",
+      "electrical engineering"
     ],
-    "sponsorship_evidence": "Allstate generally does not sponsor individuals for employment-based visas for this position.",
-    "h1b_status": "does_not_support_h1b",
-    "sponsorship_label": "No sponsorship for this position",
-    "url": "https://allstate.wd5.myworkdayjobs.com/en-US/allstate_careers/job/USA---AL-Remote/Senior-Trial-Attorney--Remote---Birmingham--AL-_R34568"
+    "sponsorship_evidence": "",
+    "h1b_status": "unknown",
+    "sponsorship_label": "Not specified",
+    "url": "https://cat.wd5.myworkdayjobs.com/en-US/CaterpillarCareers/job/San-Francisco-California/Senior-Robotics---Embodied-AI-Engineer_R0000392521"
   },
   {
-    "company": "Allstate",
-    "title": "Market Development Team Leader",
-    "location": "USA - TX (Remote)",
+    "company": "Caterpillar",
+    "title": "Autonomy Engineer",
+    "location": "San Francisco, California",
     "employment_type": "full-time",
     "category": "Other",
     "salary": "Not disclosed",
     "salary_min": null,
     "keywords": [
-      "sales",
-      "compliance",
-      "contracts"
+      "Python",
+      "machine learning",
+      "artificial intelligence",
+      "electrical engineering"
     ],
     "sponsorship_evidence": "",
     "h1b_status": "unknown",
     "sponsorship_label": "Not specified",
-    "url": "https://allstate.wd5.myworkdayjobs.com/en-US/allstate_careers/job/USA---TX-Remote/Senior-Market-Development-Manager_R33187"
+    "url": "https://cat.wd5.myworkdayjobs.com/en-US/CaterpillarCareers/job/San-Francisco-California/Autonomy-Engineer_R0000392518"
   },
   {
     "company": "Caterpillar",
@@ -191136,192 +190117,6 @@
     "h1b_status": "unknown",
     "sponsorship_label": "Not specified",
     "url": "https://cat.wd5.myworkdayjobs.com/en-US/CaterpillarCareers/job/West-Fargo-North-Dakota/Machinist-I--1st-Shift-_R0000392403-1"
-  },
-  {
-    "company": "Caterpillar",
-    "title": "Senior Associate Engineer - Electrification",
-    "location": "Mossville, Illinois",
-    "employment_type": "full-time",
-    "category": "Other",
-    "salary": "Not disclosed",
-    "salary_min": null,
-    "keywords": [],
-    "sponsorship_evidence": "",
-    "h1b_status": "unknown",
-    "sponsorship_label": "Not specified",
-    "url": "https://cat.wd5.myworkdayjobs.com/en-US/CaterpillarCareers/job/Mossville-Illinois/Senior-Associate-Engineer---Electrification_R0000390789"
-  },
-  {
-    "company": "Caterpillar",
-    "title": "Autonomy Engineering Specialist",
-    "location": "Irving, Texas",
-    "employment_type": "full-time",
-    "category": "Other",
-    "salary": "Not disclosed",
-    "salary_min": null,
-    "keywords": [],
-    "sponsorship_evidence": "",
-    "h1b_status": "unknown",
-    "sponsorship_label": "Not specified",
-    "url": "https://cat.wd5.myworkdayjobs.com/en-US/CaterpillarCareers/job/Irving-Texas/Autonomy-Engineering-Specialist_R0000372591"
-  },
-  {
-    "company": "Caterpillar",
-    "title": "Agentic Robotics Architect",
-    "location": "Irving, Texas",
-    "employment_type": "full-time",
-    "category": "Other",
-    "salary": "Not disclosed",
-    "salary_min": null,
-    "keywords": [],
-    "sponsorship_evidence": "",
-    "h1b_status": "unknown",
-    "sponsorship_label": "Not specified",
-    "url": "https://cat.wd5.myworkdayjobs.com/en-US/CaterpillarCareers/job/Irving-Texas/Agentic-Robotics-Architect_R0000389642-1"
-  },
-  {
-    "company": "Caterpillar",
-    "title": "Design Engineer",
-    "location": "Lafayette, Indiana",
-    "employment_type": "full-time",
-    "category": "Other",
-    "salary": "Not disclosed",
-    "salary_min": null,
-    "keywords": [
-      "mechanical engineering"
-    ],
-    "sponsorship_evidence": "",
-    "h1b_status": "unknown",
-    "sponsorship_label": "Not specified",
-    "url": "https://cat.wd5.myworkdayjobs.com/en-US/CaterpillarCareers/job/Lafayette-Indiana/Design-Engineer_R0000387454"
-  },
-  {
-    "company": "Caterpillar",
-    "title": "Principal Digital Architect - Robotics Platform",
-    "location": "Irving, Texas",
-    "employment_type": "full-time",
-    "category": "Other",
-    "salary": "Not disclosed",
-    "salary_min": null,
-    "keywords": [
-      "machine learning"
-    ],
-    "sponsorship_evidence": "",
-    "h1b_status": "unknown",
-    "sponsorship_label": "Not specified",
-    "url": "https://cat.wd5.myworkdayjobs.com/en-US/CaterpillarCareers/job/Irving-Texas/Principal-Digital-Architect---Robotics-Platform_R0000390181-1"
-  },
-  {
-    "company": "Caterpillar",
-    "title": "Machine Loader - 1st and 2nd Shift - Boone Trail",
-    "location": "Sanfor, North Carolina",
-    "employment_type": "full-time",
-    "category": "Other",
-    "salary": "Not disclosed",
-    "salary_min": null,
-    "keywords": [],
-    "sponsorship_evidence": "",
-    "h1b_status": "unknown",
-    "sponsorship_label": "Not specified",
-    "url": "https://cat.wd5.myworkdayjobs.com/en-US/CaterpillarCareers/job/Sanfor-North-Carolina/Machine-Loader---1st-and-2nd-Shift---Boone-Trail_R0000392390"
-  },
-  {
-    "company": "Caterpillar",
-    "title": "Robotics Validation Architect",
-    "location": "Irving, Texas",
-    "employment_type": "full-time",
-    "category": "Other",
-    "salary": "Not disclosed",
-    "salary_min": null,
-    "keywords": [],
-    "sponsorship_evidence": "",
-    "h1b_status": "unknown",
-    "sponsorship_label": "Not specified",
-    "url": "https://cat.wd5.myworkdayjobs.com/en-US/CaterpillarCareers/job/Irving-Texas/Robotics-Validation-Architect_R0000390182"
-  },
-  {
-    "company": "Caterpillar",
-    "title": "CLT Assembler - 2nd Shift - Boone Trail",
-    "location": "Sanfor, North Carolina",
-    "employment_type": "full-time",
-    "category": "Other",
-    "salary": "Not disclosed",
-    "salary_min": null,
-    "keywords": [],
-    "sponsorship_evidence": "",
-    "h1b_status": "unknown",
-    "sponsorship_label": "Not specified",
-    "url": "https://cat.wd5.myworkdayjobs.com/en-US/CaterpillarCareers/job/Sanfor-North-Carolina/CLT-Assembler---2nd-Shift---Boone-Trail_R0000392387"
-  },
-  {
-    "company": "Caterpillar",
-    "title": "Senior Category Buyer - Indirect Buyer",
-    "location": "Pontiac, Illinois",
-    "employment_type": "full-time",
-    "category": "Other",
-    "salary": "Not disclosed",
-    "salary_min": null,
-    "keywords": [
-      "analytics",
-      "procurement",
-      "compliance",
-      "contracts"
-    ],
-    "sponsorship_evidence": "",
-    "h1b_status": "unknown",
-    "sponsorship_label": "Not specified",
-    "url": "https://cat.wd5.myworkdayjobs.com/en-US/CaterpillarCareers/job/Pontiac-Illinois/Senior-Category-Buyer---Indirect-Buyer_R0000386167"
-  },
-  {
-    "company": "Caterpillar",
-    "title": "Material Handler - 2nd Shift",
-    "location": "North Little Rock, Arkansas",
-    "employment_type": "full-time",
-    "category": "Other",
-    "salary": "$19.35/hr",
-    "salary_min": 19.35,
-    "keywords": [
-      "logistics"
-    ],
-    "sponsorship_evidence": "",
-    "h1b_status": "unknown",
-    "sponsorship_label": "Not specified",
-    "url": "https://cat.wd5.myworkdayjobs.com/en-US/CaterpillarCareers/job/North-Little-Rock-Arkansas/Material-Handler---2nd-Shift_R0000392379-1"
-  },
-  {
-    "company": "Caterpillar",
-    "title": "Material Handler- 1st Shift",
-    "location": "North Little Rock, Arkansas",
-    "employment_type": "full-time",
-    "category": "Other",
-    "salary": "$19.35/hr",
-    "salary_min": 19.35,
-    "keywords": [
-      "logistics"
-    ],
-    "sponsorship_evidence": "",
-    "h1b_status": "unknown",
-    "sponsorship_label": "Not specified",
-    "url": "https://cat.wd5.myworkdayjobs.com/en-US/CaterpillarCareers/job/North-Little-Rock-Arkansas/Material-Handler--1st-Shift_R0000392375"
-  },
-  {
-    "company": "Caterpillar",
-    "title": "Senior Director Field Engineering & Deployment",
-    "location": "Irving, Texas",
-    "employment_type": "full-time",
-    "category": "Other",
-    "salary": "Not disclosed",
-    "salary_min": null,
-    "keywords": [
-      "risk management",
-      "supply chain",
-      "compliance",
-      "legal"
-    ],
-    "sponsorship_evidence": "",
-    "h1b_status": "unknown",
-    "sponsorship_label": "Not specified",
-    "url": "https://cat.wd5.myworkdayjobs.com/en-US/CaterpillarCareers/job/Irving-Texas/Senior-Director-Field-Engineering---Deployment_R0000389766"
   },
   {
     "company": "Prudential Financial",
@@ -191995,23 +190790,6 @@
   },
   {
     "company": "Cisco Systems",
-    "title": "Software Engineer",
-    "location": "Milpitas, California, US",
-    "employment_type": "full-time",
-    "category": "Software & IT",
-    "salary": "Not disclosed",
-    "salary_min": null,
-    "keywords": [
-      "Python",
-      "sales"
-    ],
-    "sponsorship_evidence": "",
-    "h1b_status": "unknown",
-    "sponsorship_label": "Not specified",
-    "url": "https://cisco.wd5.myworkdayjobs.com/en-US/Cisco_Careers/job/Milpitas-California-US/Software-Engineer_2020847"
-  },
-  {
-    "company": "Cisco Systems",
     "title": "Senior QA Automation Engineer - Networking L2/L3",
     "location": "Milpitas, California, US",
     "employment_type": "full-time",
@@ -192465,7 +191243,28 @@
   },
   {
     "company": "Cisco Systems",
-    "title": "Director, Product Strategy, GTM - Cisco Cloud Control (Product Director)",
+    "title": "Site Reliability Engineer",
+    "location": "RTP, North Carolina, US",
+    "employment_type": "full-time",
+    "category": "Software & IT",
+    "salary": "Not disclosed",
+    "salary_min": null,
+    "keywords": [
+      "Python",
+      "AWS",
+      "Kubernetes",
+      "Terraform",
+      "sales",
+      "compliance"
+    ],
+    "sponsorship_evidence": "",
+    "h1b_status": "unknown",
+    "sponsorship_label": "Not specified",
+    "url": "https://cisco.wd5.myworkdayjobs.com/en-US/Cisco_Careers/job/RTP-North-Carolina-US/Site-Reliability-Engineer_2021546-1"
+  },
+  {
+    "company": "Cisco Systems",
+    "title": "Director - Product Strategy and GTM - Cisco Cloud Control (Product Director)",
     "location": "San Jose, California, US",
     "employment_type": "full-time",
     "category": "Software & IT",
@@ -192802,22 +191601,6 @@
     "h1b_status": "unknown",
     "sponsorship_label": "Not specified",
     "url": "https://cisco.wd5.myworkdayjobs.com/en-US/Cisco_Careers/job/RTP-North-Carolina-US/Data-Engineer---AI--Hybrid_2018109"
-  },
-  {
-    "company": "Cisco Systems",
-    "title": "Account Executive - Portfolio",
-    "location": "Glendale, California, US",
-    "employment_type": "full-time",
-    "category": "Sales & Marketing",
-    "salary": "Not disclosed",
-    "salary_min": null,
-    "keywords": [
-      "sales"
-    ],
-    "sponsorship_evidence": "",
-    "h1b_status": "unknown",
-    "sponsorship_label": "Not specified",
-    "url": "https://cisco.wd5.myworkdayjobs.com/en-US/Cisco_Careers/job/Glendale-California-US/Account-Executive---Portfolio_2020743"
   },
   {
     "company": "Cisco Systems",
@@ -193194,24 +191977,6 @@
   },
   {
     "company": "Cisco Systems",
-    "title": "Business Product Manager",
-    "location": "San Jose, California, US",
-    "employment_type": "full-time",
-    "category": "Product & Design",
-    "salary": "Not disclosed",
-    "salary_min": null,
-    "keywords": [
-      "procurement",
-      "sales",
-      "legal"
-    ],
-    "sponsorship_evidence": "",
-    "h1b_status": "unknown",
-    "sponsorship_label": "Not specified",
-    "url": "https://cisco.wd5.myworkdayjobs.com/en-US/Cisco_Careers/job/San-Jose-California-US/Business-Product-Manager_2020982-1"
-  },
-  {
-    "company": "Cisco Systems",
     "title": "Solutions Engineer -  Commercial, Chicago",
     "location": "Chicago, Illinois, US",
     "employment_type": "full-time",
@@ -193428,22 +192193,6 @@
     "h1b_status": "unknown",
     "sponsorship_label": "Not specified",
     "url": "https://cisco.wd5.myworkdayjobs.com/en-US/Cisco_Careers/job/San-Jose-California-US/Senior-Software-Engineer--Hybrid-_2023269"
-  },
-  {
-    "company": "Cisco Systems",
-    "title": "Director, Services Sales",
-    "location": "Chicago, Illinois, US",
-    "employment_type": "full-time",
-    "category": "Sales & Marketing",
-    "salary": "Not disclosed",
-    "salary_min": null,
-    "keywords": [
-      "sales"
-    ],
-    "sponsorship_evidence": "",
-    "h1b_status": "unknown",
-    "sponsorship_label": "Not specified",
-    "url": "https://cisco.wd5.myworkdayjobs.com/en-US/Cisco_Careers/job/Chicago-Illinois-US/Director--Services-Sales_2022717-1"
   },
   {
     "company": "Cisco Systems",
@@ -193737,22 +192486,6 @@
     "h1b_status": "unknown",
     "sponsorship_label": "Not specified",
     "url": "https://cisco.wd5.myworkdayjobs.com/en-US/Cisco_Careers/job/San-Jose-California-US/Sourcing-Commodity-Manager--hybrid----2019059_2019059"
-  },
-  {
-    "company": "Cisco Systems",
-    "title": "Leader, Solutions Engineer-US Commercial, Los Angeles",
-    "location": "Glendale, California, US",
-    "employment_type": "full-time",
-    "category": "Other",
-    "salary": "Not disclosed",
-    "salary_min": null,
-    "keywords": [
-      "sales"
-    ],
-    "sponsorship_evidence": "",
-    "h1b_status": "unknown",
-    "sponsorship_label": "Not specified",
-    "url": "https://cisco.wd5.myworkdayjobs.com/en-US/Cisco_Careers/job/Glendale-California-US/Leader--Solutions-Engineer-US-Commercial--Los-Angeles_2023742"
   },
   {
     "company": "Cisco Systems",
@@ -194199,24 +192932,6 @@
   },
   {
     "company": "Cisco Systems",
-    "title": "Executive Assistant, Chief of Staff to the President & Chief Product Officer (Onsite)",
-    "location": "San Jose, California, US",
-    "employment_type": "full-time",
-    "category": "Other",
-    "salary": "Not disclosed",
-    "salary_min": null,
-    "keywords": [
-      "Excel",
-      "logistics",
-      "sales"
-    ],
-    "sponsorship_evidence": "",
-    "h1b_status": "unknown",
-    "sponsorship_label": "Not specified",
-    "url": "https://cisco.wd5.myworkdayjobs.com/en-US/Cisco_Careers/job/San-Jose-California-US/Executive-Assistant--Chief-of-Staff-to-the-President---Chief-Product-Officer--Onsite-_2018602-1"
-  },
-  {
-    "company": "Cisco Systems",
     "title": "Software Engineering Technical Leader",
     "location": "Milpitas, California, US",
     "employment_type": "full-time",
@@ -194353,23 +193068,6 @@
     "h1b_status": "unknown",
     "sponsorship_label": "Not specified",
     "url": "https://cisco.wd5.myworkdayjobs.com/en-US/Cisco_Careers/job/San-Francisco-California-US/Account-Executive---Isovalent--Cloud-Native-Security-_2015900"
-  },
-  {
-    "company": "Cisco Systems",
-    "title": "Solutions Engineer I&MI Routing and Optics",
-    "location": "San Jose, California, US",
-    "employment_type": "full-time",
-    "category": "Other",
-    "salary": "Not disclosed",
-    "salary_min": null,
-    "keywords": [
-      "electrical engineering",
-      "sales"
-    ],
-    "sponsorship_evidence": "",
-    "h1b_status": "unknown",
-    "sponsorship_label": "Not specified",
-    "url": "https://cisco.wd5.myworkdayjobs.com/en-US/Cisco_Careers/job/San-Jose-California-US/Solutions-Engineer-I-MI-Routing--Optical-and-Automation_2020809"
   },
   {
     "company": "Cisco Systems",
@@ -194786,23 +193484,6 @@
   },
   {
     "company": "Cisco Systems",
-    "title": "Senior Manager, IQ Platform Infrastructure",
-    "location": "San Jose, California, US",
-    "employment_type": "full-time",
-    "category": "Other",
-    "salary": "Not disclosed",
-    "salary_min": null,
-    "keywords": [
-      "Kubernetes",
-      "sales"
-    ],
-    "sponsorship_evidence": "",
-    "h1b_status": "unknown",
-    "sponsorship_label": "Not specified",
-    "url": "https://cisco.wd5.myworkdayjobs.com/en-US/Cisco_Careers/job/San-Jose-California-US/Senior-Manager--IQ-Platform-Infrastructure_2021672-1"
-  },
-  {
-    "company": "Cisco Systems",
     "title": "Business Architect (Hybrid)",
     "location": "RTP, North Carolina, US",
     "employment_type": "full-time",
@@ -195095,22 +193776,6 @@
   },
   {
     "company": "Cisco Systems",
-    "title": "Software Engineering Technical Leader- Networking",
-    "location": "Milpitas, California, US",
-    "employment_type": "full-time",
-    "category": "Software & IT",
-    "salary": "Not disclosed",
-    "salary_min": null,
-    "keywords": [
-      "sales"
-    ],
-    "sponsorship_evidence": "",
-    "h1b_status": "unknown",
-    "sponsorship_label": "Not specified",
-    "url": "https://cisco.wd5.myworkdayjobs.com/en-US/Cisco_Careers/job/Milpitas-California-US/Software-Engineering-Technical-Leader--Networking_2019851-1"
-  },
-  {
-    "company": "Cisco Systems",
     "title": "Software Engineering Technical Leader, Front-End \u2014 Cisco CX Engineering",
     "location": "San Jose, California, US",
     "employment_type": "full-time",
@@ -195374,22 +194039,6 @@
     "h1b_status": "unknown",
     "sponsorship_label": "Not specified",
     "url": "https://cisco.wd5.myworkdayjobs.com/en-US/Cisco_Careers/job/San-Jose-California-US/Hardware-Engineering-Technical-Leader--onsite----2014270_2014270"
-  },
-  {
-    "company": "Cisco Systems",
-    "title": "Solutions Engineer-Enterprise Sales, Nashville",
-    "location": "Nashville, Tennessee, US",
-    "employment_type": "full-time",
-    "category": "Sales & Marketing",
-    "salary": "Not disclosed",
-    "salary_min": null,
-    "keywords": [
-      "sales"
-    ],
-    "sponsorship_evidence": "",
-    "h1b_status": "unknown",
-    "sponsorship_label": "Not specified",
-    "url": "https://cisco.wd5.myworkdayjobs.com/en-US/Cisco_Careers/job/Nashville-Tennessee-US/Solutions-Engineer-Enterprise-Sales--Nashville_2020526"
   },
   {
     "company": "Cisco Systems",
@@ -196011,25 +194660,6 @@
   },
   {
     "company": "Cisco Systems",
-    "title": "Mechanical Engineering Technical Leader",
-    "location": "San Jose, California, US",
-    "employment_type": "full-time",
-    "category": "Engineering",
-    "salary": "Not disclosed",
-    "salary_min": null,
-    "keywords": [
-      "mechanical engineering",
-      "electrical engineering",
-      "supply chain",
-      "sales"
-    ],
-    "sponsorship_evidence": "",
-    "h1b_status": "unknown",
-    "sponsorship_label": "Not specified",
-    "url": "https://cisco.wd5.myworkdayjobs.com/en-US/Cisco_Careers/job/San-Jose-California-US/Mechanical-Engineering-Technical-Leader_2017582"
-  },
-  {
-    "company": "Cisco Systems",
     "title": "Sr Manager DevSecOps, Cisco Intersight",
     "location": "Milpitas, California, US",
     "employment_type": "full-time",
@@ -196367,40 +194997,6 @@
     "h1b_status": "does_not_support_h1b",
     "sponsorship_label": "No sponsorship for this position",
     "url": "https://usaa.wd1.myworkdayjobs.com/en-US/USAAJOBSWD/job/Colorado-Springs-Campus/Director--Insurance-Sales-and-Service---Distribution-and-Service_R0120095"
-  },
-  {
-    "company": "USAA",
-    "title": "Claims Associate Property Adjuster",
-    "location": "Colorado Springs Campus",
-    "employment_type": "full-time",
-    "category": "Other",
-    "salary": "Not disclosed",
-    "salary_min": null,
-    "keywords": [
-      "compliance"
-    ],
-    "sponsorship_evidence": "",
-    "h1b_status": "unknown",
-    "sponsorship_label": "Not specified",
-    "url": "https://usaa.wd1.myworkdayjobs.com/en-US/USAAJOBSWD/job/Colorado-Springs-Campus/Claims-Associate-Property-Adjuster_R0120497"
-  },
-  {
-    "company": "USAA",
-    "title": "Manager, Claims Operations- (DCT Property)",
-    "location": "Colorado Springs Campus",
-    "employment_type": "full-time",
-    "category": "Operations & Supply Chain",
-    "salary": "Not disclosed",
-    "salary_min": null,
-    "keywords": [
-      "risk management",
-      "compliance",
-      "contracts"
-    ],
-    "sponsorship_evidence": "USAA does not provide visa sponsorship for this role.",
-    "h1b_status": "does_not_support_h1b",
-    "sponsorship_label": "No sponsorship for this position",
-    "url": "https://usaa.wd1.myworkdayjobs.com/en-US/USAAJOBSWD/job/Colorado-Springs-Campus/Manager--Claims-Operations---DCT-Property-_R0118051"
   },
   {
     "company": "USAA",
@@ -197203,55 +195799,6 @@
   },
   {
     "company": "Nike",
-    "title": "Senior Merchant, Streetwear Footwear DNA - Global Jordan",
-    "location": "Beaverton, Oregon",
-    "employment_type": "full-time",
-    "category": "Other",
-    "salary": "Not disclosed",
-    "salary_min": null,
-    "keywords": [
-      "analytics",
-      "sales"
-    ],
-    "sponsorship_evidence": "",
-    "h1b_status": "unknown",
-    "sponsorship_label": "Not specified",
-    "url": "https://nike.wd1.myworkdayjobs.com/en-US/nke/job/Beaverton-Oregon/Senior-Merchant--Streetwear-Footwear-DNA---Global-Jordan_R-90956"
-  },
-  {
-    "company": "Nike",
-    "title": "Specialist II, Retail Experience Channel-365",
-    "location": "Beaverton, Oregon",
-    "employment_type": "full-time",
-    "category": "Other",
-    "salary": "Not disclosed",
-    "salary_min": null,
-    "keywords": [
-      "procurement"
-    ],
-    "sponsorship_evidence": "",
-    "h1b_status": "unknown",
-    "sponsorship_label": "Not specified",
-    "url": "https://nike.wd1.myworkdayjobs.com/en-US/nke/job/Beaverton-Oregon/Specialist-II--Retail-Experience-Channel-365_R-61898"
-  },
-  {
-    "company": "Nike",
-    "title": "Product Test Analyst II - Running/Golf Footwear",
-    "location": "Dallas, Texas",
-    "employment_type": "full-time",
-    "category": "Other",
-    "salary": "Not disclosed",
-    "salary_min": null,
-    "keywords": [
-      "recruiting"
-    ],
-    "sponsorship_evidence": "",
-    "h1b_status": "unknown",
-    "sponsorship_label": "Not specified",
-    "url": "https://nike.wd1.myworkdayjobs.com/en-US/nke/job/Dallas-Texas/Product-Test-Analyst-II---Running-Golf-Footwear_R-90585-1"
-  },
-  {
-    "company": "Nike",
     "title": "Director, Global Finance Operations \u2013 Director, Global Finance Operations \u2013 Order to Cash Delivery",
     "location": "Beaverton, Oregon",
     "employment_type": "full-time",
@@ -197797,20 +196344,6 @@
   },
   {
     "company": "Nike",
-    "title": "Lead Designer, Basketball Apparel Graphic Design",
-    "location": "Beaverton, Oregon",
-    "employment_type": "full-time",
-    "category": "Other",
-    "salary": "Not disclosed",
-    "salary_min": null,
-    "keywords": [],
-    "sponsorship_evidence": "",
-    "h1b_status": "unknown",
-    "sponsorship_label": "Not specified",
-    "url": "https://nike.wd1.myworkdayjobs.com/en-US/nke/job/Beaverton-Oregon/Lead-Designer--Basketball-Apparel-Graphic-Design_R-90329"
-  },
-  {
-    "company": "Nike",
     "title": "Senior Product Developer, Promo Footwear, Global Jordan",
     "location": "Beaverton, Oregon",
     "employment_type": "full-time",
@@ -197824,20 +196357,6 @@
     "h1b_status": "unknown",
     "sponsorship_label": "Not specified",
     "url": "https://nike.wd1.myworkdayjobs.com/en-US/nke/job/Beaverton-Oregon/Senior-Product-Developer--Promo-Footwear--Global-Jordan_R-89995"
-  },
-  {
-    "company": "Nike",
-    "title": "Lead Designer, Accessories Graphic Design",
-    "location": "Beaverton, Oregon",
-    "employment_type": "full-time",
-    "category": "Other",
-    "salary": "Not disclosed",
-    "salary_min": null,
-    "keywords": [],
-    "sponsorship_evidence": "",
-    "h1b_status": "unknown",
-    "sponsorship_label": "Not specified",
-    "url": "https://nike.wd1.myworkdayjobs.com/en-US/nke/job/Beaverton-Oregon/Lead-Designer--Accessories-Graphic-Design_R-88089"
   },
   {
     "company": "Nike",
@@ -197995,20 +196514,6 @@
     "h1b_status": "unknown",
     "sponsorship_label": "Not specified",
     "url": "https://nike.wd1.myworkdayjobs.com/en-US/nke/job/Beaverton-Oregon/Senior-Data-Scientist_R-89671"
-  },
-  {
-    "company": "Nike",
-    "title": "Lead Designer, NikeSKIMS Apparel Graphics Design",
-    "location": "Los Angeles, California",
-    "employment_type": "full-time",
-    "category": "Other",
-    "salary": "Not disclosed",
-    "salary_min": null,
-    "keywords": [],
-    "sponsorship_evidence": "",
-    "h1b_status": "unknown",
-    "sponsorship_label": "Not specified",
-    "url": "https://nike.wd1.myworkdayjobs.com/en-US/nke/job/Los-Angeles-California/Lead-Designer--NikeSKIMS-Apparel-Graphics-Design_R-88090"
   },
   {
     "company": "Nike",
@@ -199189,22 +197694,6 @@
   },
   {
     "company": "GE Aerospace",
-    "title": "Test Cell Front Line Leader",
-    "location": "Arkansas City",
-    "employment_type": "full-time",
-    "category": "Other",
-    "salary": "Not disclosed",
-    "salary_min": null,
-    "keywords": [
-      "contracts"
-    ],
-    "sponsorship_evidence": "",
-    "h1b_status": "unknown",
-    "sponsorship_label": "Not specified",
-    "url": "https://geaerospace.wd5.myworkdayjobs.com/en-US/GE_ExternalSite/job/Arkansas-City/Test-Cell-Front-Line-Leader_R5035194"
-  },
-  {
-    "company": "GE Aerospace",
     "title": "Strother Engine Mechanic 2nd shift",
     "location": "Arkansas City",
     "employment_type": "full-time",
@@ -199583,6 +198072,22 @@
     "h1b_status": "unknown",
     "sponsorship_label": "Not specified",
     "url": "https://geaerospace.wd5.myworkdayjobs.com/en-US/GE_ExternalSite/job/Saint-George-UT-US-1/Site-Quality-Leader--Intergalactic--St-George--UT-_R5036404-1"
+  },
+  {
+    "company": "Thermo Fisher Scientific",
+    "title": "Manufacturing Engineering Technician - 1st Shift",
+    "location": "Mebane, North Carolina, USA",
+    "employment_type": "full-time",
+    "category": "Other",
+    "salary": "Not disclosed",
+    "salary_min": null,
+    "keywords": [
+      "compliance"
+    ],
+    "sponsorship_evidence": "",
+    "h1b_status": "unknown",
+    "sponsorship_label": "Not specified",
+    "url": "https://thermofisher.wd5.myworkdayjobs.com/en-US/ThermoFisherCareers/job/Mebane-North-Carolina-USA/Lead-Manufacturing-Engineering-Technician_R-01356624"
   },
   {
     "company": "Thermo Fisher Scientific",
@@ -200413,20 +198918,6 @@
   },
   {
     "company": "Thermo Fisher Scientific",
-    "title": "Scientist I - Microbiology - M-F 2nd Shift",
-    "location": "Middleton, Wisconsin, USA",
-    "employment_type": "full-time",
-    "category": "Other",
-    "salary": "Not disclosed",
-    "salary_min": null,
-    "keywords": [],
-    "sponsorship_evidence": "Must be legally authorized to work in the United States without sponsorship.",
-    "h1b_status": "does_not_support_h1b",
-    "sponsorship_label": "No sponsorship for this position",
-    "url": "https://thermofisher.wd5.myworkdayjobs.com/en-US/ThermoFisherCareers/job/Middleton-Wisconsin-USA/Scientist-I---Microbiology---M-F-2nd-Shift_R-01358604"
-  },
-  {
-    "company": "Thermo Fisher Scientific",
     "title": "Sales Operations Specialist (Central Labs) US -East Coast",
     "location": "Morrisville, North Carolina, USA",
     "employment_type": "full-time",
@@ -200544,22 +199035,6 @@
     "h1b_status": "does_not_support_h1b",
     "sponsorship_label": "No sponsorship for this position",
     "url": "https://thermofisher.wd5.myworkdayjobs.com/en-US/ThermoFisherCareers/job/Austin-Texas-USA/Biosciences-Account-Manager_R-01357914"
-  },
-  {
-    "company": "Thermo Fisher Scientific",
-    "title": "Formulation Scientist I - 2nd Shift Mon - Fri 2pm - 10:30pm",
-    "location": "Milwaukee, Wisconsin, USA",
-    "employment_type": "full-time",
-    "category": "Other",
-    "salary": "Not disclosed",
-    "salary_min": null,
-    "keywords": [
-      "compliance"
-    ],
-    "sponsorship_evidence": "Must be legally authorized to work in the United States without sponsorship now or in the future.",
-    "h1b_status": "does_not_support_h1b",
-    "sponsorship_label": "No sponsorship for this position",
-    "url": "https://thermofisher.wd5.myworkdayjobs.com/en-US/ThermoFisherCareers/job/Milwaukee-Wisconsin-USA/Formulation-Scientist-I_R-01356646"
   },
   {
     "company": "Thermo Fisher Scientific",
@@ -200833,22 +199308,6 @@
     "h1b_status": "does_not_support_h1b",
     "sponsorship_label": "No sponsorship for this position",
     "url": "https://thermofisher.wd5.myworkdayjobs.com/en-US/ThermoFisherCareers/job/Middleton-Wisconsin-USA/Metrologist---Stability-Storage_R-01365247"
-  },
-  {
-    "company": "Thermo Fisher Scientific",
-    "title": "Sr Scientist - GMP Biopharm - CE, iCE, ELISA",
-    "location": "Middleton, Wisconsin, USA",
-    "employment_type": "full-time",
-    "category": "Other",
-    "salary": "Not disclosed",
-    "salary_min": null,
-    "keywords": [
-      "Excel"
-    ],
-    "sponsorship_evidence": "Must be legally authorized to work in the United States without sponsorship.",
-    "h1b_status": "does_not_support_h1b",
-    "sponsorship_label": "No sponsorship for this position",
-    "url": "https://thermofisher.wd5.myworkdayjobs.com/en-US/ThermoFisherCareers/job/Middleton-Wisconsin-USA/Sr-Scientist---GMP-Biopharm---CE--iCE--ELISA_R-01363557-1"
   },
   {
     "company": "Thermo Fisher Scientific",
@@ -202531,22 +200990,6 @@
   },
   {
     "company": "Thermo Fisher Scientific",
-    "title": "Sr Scientist - GMP Small Molecule (HPLC, GC)",
-    "location": "Middleton, Wisconsin, USA",
-    "employment_type": "full-time",
-    "category": "Other",
-    "salary": "Not disclosed",
-    "salary_min": null,
-    "keywords": [
-      "Excel"
-    ],
-    "sponsorship_evidence": "Must be legally authorized to work in the United States without sponsorship.",
-    "h1b_status": "does_not_support_h1b",
-    "sponsorship_label": "No sponsorship for this position",
-    "url": "https://thermofisher.wd5.myworkdayjobs.com/en-US/ThermoFisherCareers/job/Middleton-Wisconsin-USA/Sr-Scientist---GMP-Small-Molecule--HPLC--GC-_R-01358321"
-  },
-  {
-    "company": "Thermo Fisher Scientific",
     "title": "Data Compliance Coordinator",
     "location": "Las Vegas, Nevada, USA",
     "employment_type": "full-time",
@@ -202684,22 +201127,6 @@
     "h1b_status": "unknown",
     "sponsorship_label": "Not specified",
     "url": "https://thermofisher.wd5.myworkdayjobs.com/en-US/ThermoFisherCareers/job/Pittsburgh-Pennsylvania-USA/Demand-Planner-II_R-01364048"
-  },
-  {
-    "company": "Thermo Fisher Scientific",
-    "title": "Facilities Maintenance Engineer",
-    "location": "Austin, Texas, USA",
-    "employment_type": "full-time",
-    "category": "Other",
-    "salary": "Not disclosed",
-    "salary_min": null,
-    "keywords": [
-      "compliance"
-    ],
-    "sponsorship_evidence": "*Must be legally authorized to work in the United States without sponsorship.",
-    "h1b_status": "does_not_support_h1b",
-    "sponsorship_label": "No sponsorship for this position",
-    "url": "https://thermofisher.wd5.myworkdayjobs.com/en-US/ThermoFisherCareers/job/Austin-Texas-USA/Facilities-Maintenance-Engineer_R-01362181"
   },
   {
     "company": "Thermo Fisher Scientific",
@@ -213773,6 +212200,22 @@
   },
   {
     "company": "U.S. Bancorp",
+    "title": "Relationship Banker I - North Carson",
+    "location": "Carson City, NV",
+    "employment_type": "full-time",
+    "category": "Other",
+    "salary": "Not disclosed",
+    "salary_min": null,
+    "keywords": [
+      "Excel"
+    ],
+    "sponsorship_evidence": "",
+    "h1b_status": "unknown",
+    "sponsorship_label": "Not specified",
+    "url": "https://usbank.wd1.myworkdayjobs.com/en-US/US_Bank_Careers/job/Carson-City-NV/Relationship-Banker-I---North-Carson_2026-0027697"
+  },
+  {
+    "company": "U.S. Bancorp",
     "title": "Relationship Banker I \u2013 Clackamas Sunnyside, OR",
     "location": "Clackamas, OR",
     "employment_type": "full-time",
@@ -214175,59 +212618,6 @@
     "url": "https://usbank.wd1.myworkdayjobs.com/en-US/US_Bank_Careers/job/Bryant-AR/Client-Relationship-Consultant-3--Banker----Bryant--AR_2026-0014297"
   },
   {
-    "company": "U.S. Bancorp",
-    "title": "Sr Relationship Banker Portage Northridge, WI",
-    "location": "Portage, WI",
-    "employment_type": "full-time",
-    "category": "Other",
-    "salary": "Not disclosed",
-    "salary_min": null,
-    "keywords": [
-      "Excel",
-      "compliance",
-      "legal"
-    ],
-    "sponsorship_evidence": "",
-    "h1b_status": "unknown",
-    "sponsorship_label": "Not specified",
-    "url": "https://usbank.wd1.myworkdayjobs.com/en-US/US_Bank_Careers/job/Portage-WI/Sr-Relationship-Banker-Portage-Northridge--WI_2026-0027613-1"
-  },
-  {
-    "company": "U.S. Bancorp",
-    "title": "Relationship Banker 2- Crossville TN",
-    "location": "Crossville, TN",
-    "employment_type": "full-time",
-    "category": "Other",
-    "salary": "Not disclosed",
-    "salary_min": null,
-    "keywords": [
-      "Excel",
-      "compliance",
-      "legal"
-    ],
-    "sponsorship_evidence": "",
-    "h1b_status": "unknown",
-    "sponsorship_label": "Not specified",
-    "url": "https://usbank.wd1.myworkdayjobs.com/en-US/US_Bank_Careers/job/Crossville-TN/Relationship-Banker-2--Crossville-TN_2026-0027667-1"
-  },
-  {
-    "company": "U.S. Bancorp",
-    "title": "Sr Relationship Banker-  Louisville KY Audubon Park",
-    "location": "Louisville, KY",
-    "employment_type": "full-time",
-    "category": "Other",
-    "salary": "Not disclosed",
-    "salary_min": null,
-    "keywords": [
-      "Excel",
-      "sales"
-    ],
-    "sponsorship_evidence": "",
-    "h1b_status": "unknown",
-    "sponsorship_label": "Not specified",
-    "url": "https://usbank.wd1.myworkdayjobs.com/en-US/US_Bank_Careers/job/Louisville-KY/Client-Relationship-Consultant-4--Banker--Louisville-KY-Audubon-Park_2026-0016645"
-  },
-  {
     "company": "PNC Financial Services Group",
     "title": "Personal Banker - Universal - Miller and Colfax",
     "location": "CO - Lakewood (80215)",
@@ -214621,6 +213011,24 @@
     "h1b_status": "does_not_support_h1b",
     "sponsorship_label": "No sponsorship for this position",
     "url": "https://pnc.wd5.myworkdayjobs.com/en-US/External/job/CA---San-Diego-92130/Wealth-Advisor---PNC-Wealth-Management_R231976"
+  },
+  {
+    "company": "Truist Financial",
+    "title": "Industry Consulting Manager",
+    "location": "Atlanta, GA",
+    "employment_type": "full-time",
+    "category": "Other",
+    "salary": "Not disclosed",
+    "salary_min": null,
+    "keywords": [
+      "Excel",
+      "tax",
+      "sales"
+    ],
+    "sponsorship_evidence": "",
+    "h1b_status": "unknown",
+    "sponsorship_label": "Not specified",
+    "url": "https://truist.wd1.myworkdayjobs.com/en-US/Careers/job/Atlanta-GA/Industry-Consulting-Manager_R0117989"
   },
   {
     "company": "Truist Financial",
@@ -215075,23 +213483,21 @@
     "url": "https://truist.wd1.myworkdayjobs.com/en-US/Careers/job/Richmond-VA/Fiduciary-Operations-Analyst-II_R0118764"
   },
   {
-    "company": "Truist Financial",
-    "title": "Universal Banker (Saturday Required)  - Walnutport",
-    "location": "Walnutport, PA",
+    "company": "3M",
+    "title": "Senior Product Development Specialist - Aerospace Adhesives",
+    "location": "US, Minnesota, Maplewood",
     "employment_type": "full-time",
     "category": "Other",
     "salary": "Not disclosed",
     "salary_min": null,
     "keywords": [
-      "tax",
-      "risk management",
-      "sales",
+      "recruiting",
       "compliance"
     ],
-    "sponsorship_evidence": "",
-    "h1b_status": "unknown",
-    "sponsorship_label": "Not specified",
-    "url": "https://truist.wd1.myworkdayjobs.com/en-US/Careers/job/Walnutport-PA/Universal-Banker--Saturday-Required-----Walnutport_R0118821"
+    "sponsorship_evidence": ": May be authorized Must be legally authorized to work in country of employment without sponsorship for employment visa status (e.",
+    "h1b_status": "does_not_support_h1b",
+    "sponsorship_label": "No sponsorship for this position",
+    "url": "https://3m.wd1.myworkdayjobs.com/en-US/Search/job/US-Minnesota-Maplewood/Senior-Product-Development-Specialist---Aerospace-Adhesives_R01170237"
   },
   {
     "company": "3M",
@@ -247988,20 +246394,6 @@
   },
   {
     "company": "Broadcom",
-    "title": "Agile Leader",
-    "location": "USA-TX Plano Legacy Drive Suite 700",
-    "employment_type": "full-time",
-    "category": "Other",
-    "salary": "Not disclosed",
-    "salary_min": null,
-    "keywords": [],
-    "sponsorship_evidence": "",
-    "h1b_status": "unknown",
-    "sponsorship_label": "Not specified",
-    "url": "https://broadcom.wd1.myworkdayjobs.com/en-US/External_Career/job/USA-TX-Plano-Legacy-Drive-Suite-700/Agile-Leader_R026753"
-  },
-  {
-    "company": "Broadcom",
     "title": "Account Director, Broadcom Software",
     "location": "USA-TX Plano Legacy Drive Suite 700",
     "employment_type": "full-time",
@@ -249282,23 +247674,6 @@
     "url": "https://broadcom.wd1.myworkdayjobs.com/en-US/External_Career/job/USA-Colorado-Fort-Collins-4380-Ziegler-Road/Fab-Manufacturing-Quality-Engineer_R025543"
   },
   {
-    "company": "Broadcom",
-    "title": "Test Engineer (ATE)",
-    "location": "USA-CA San Jose Innovation Drive",
-    "employment_type": "full-time",
-    "category": "Other",
-    "salary": "Not disclosed",
-    "salary_min": null,
-    "keywords": [
-      "Python",
-      "electrical engineering"
-    ],
-    "sponsorship_evidence": "",
-    "h1b_status": "unknown",
-    "sponsorship_label": "Not specified",
-    "url": "https://broadcom.wd1.myworkdayjobs.com/en-US/External_Career/job/USA-CA-San-Jose-Innovation-Drive/Test-Engineer--ATE-_R025271"
-  },
-  {
     "company": "Hewlett Packard Enterprise",
     "title": "Pre-Silicon Diagnostics Intern",
     "location": "Ft. Collins, Colorado, United States of America",
@@ -249353,6 +247728,22 @@
     "h1b_status": "unknown",
     "sponsorship_label": "Not specified",
     "url": "https://amat.wd1.myworkdayjobs.com/en-US/External/job/Santa-ClaraCA/HR-Partner_R2616579"
+  },
+  {
+    "company": "Analog Devices",
+    "title": "Key Account Manager",
+    "location": "US, CA, San Diego, Avenue of Science",
+    "employment_type": "full-time",
+    "category": "Other",
+    "salary": "Not disclosed",
+    "salary_min": null,
+    "keywords": [
+      "sales"
+    ],
+    "sponsorship_evidence": "",
+    "h1b_status": "unknown",
+    "sponsorship_label": "Not specified",
+    "url": "https://analogdevices.wd1.myworkdayjobs.com/en-US/External/job/US-CA-San-Diego-Avenue-of-Science/Key-Account-Manager_R263718"
   },
   {
     "company": "Analog Devices",
@@ -249445,87 +247836,6 @@
     "h1b_status": "unknown",
     "sponsorship_label": "Not specified",
     "url": "https://analogdevices.wd1.myworkdayjobs.com/en-US/External/job/US-MA-Wilmington/SiP-Layout-Design-Engineer_R265358"
-  },
-  {
-    "company": "Analog Devices",
-    "title": "Staff Field Applications Engineer \u2013 Power Solutions",
-    "location": "US, TX, Austin, Plaza on the Lake",
-    "employment_type": "full-time",
-    "category": "Other",
-    "salary": "Not disclosed",
-    "salary_min": null,
-    "keywords": [
-      "sales"
-    ],
-    "sponsorship_evidence": "",
-    "h1b_status": "unknown",
-    "sponsorship_label": "Not specified",
-    "url": "https://analogdevices.wd1.myworkdayjobs.com/en-US/External/job/US-TX-Austin-Plaza-on-the-Lake/Staff-Field-Applications-Engineer---Power-Solutions_R265338"
-  },
-  {
-    "company": "Analog Devices",
-    "title": "Analyst, Supply Chain Planning",
-    "location": "US, MA, Wilmington",
-    "employment_type": "full-time",
-    "category": "Operations & Supply Chain",
-    "salary": "Not disclosed",
-    "salary_min": null,
-    "keywords": [
-      "analytics",
-      "supply chain"
-    ],
-    "sponsorship_evidence": "",
-    "h1b_status": "unknown",
-    "sponsorship_label": "Not specified",
-    "url": "https://analogdevices.wd1.myworkdayjobs.com/en-US/External/job/US-MA-Wilmington/Analyst--Supply-Chain-Planning_R263754"
-  },
-  {
-    "company": "Analog Devices",
-    "title": "Lead Planner, Supply Chain",
-    "location": "US, MA, Wilmington",
-    "employment_type": "full-time",
-    "category": "Operations & Supply Chain",
-    "salary": "Not disclosed",
-    "salary_min": null,
-    "keywords": [
-      "analytics",
-      "Excel",
-      "supply chain"
-    ],
-    "sponsorship_evidence": "",
-    "h1b_status": "unknown",
-    "sponsorship_label": "Not specified",
-    "url": "https://analogdevices.wd1.myworkdayjobs.com/en-US/External/job/US-MA-Wilmington/Lead-Planner--Supply-Chain_R264804"
-  },
-  {
-    "company": "Analog Devices",
-    "title": "Senior Applications Engineering Manager, Power uModule Group",
-    "location": "US, CA, San Jose, Rio Robles",
-    "employment_type": "full-time",
-    "category": "Other",
-    "salary": "Not disclosed",
-    "salary_min": null,
-    "keywords": [
-      "sales"
-    ],
-    "sponsorship_evidence": "",
-    "h1b_status": "unknown",
-    "sponsorship_label": "Not specified",
-    "url": "https://analogdevices.wd1.myworkdayjobs.com/en-US/External/job/US-CA-San-Jose-Rio-Robles/Applications-Engineering-Manager--Power-uModule-Group_R264208"
-  },
-  {
-    "company": "Analog Devices",
-    "title": "Lead Analyst, ADI Distribution Systems & Projects",
-    "location": "US, MA, Wilmington",
-    "employment_type": "full-time",
-    "category": "Other",
-    "salary": "Not disclosed",
-    "salary_min": null,
-    "keywords": [],
-    "sponsorship_evidence": "",
-    "h1b_status": "unknown",
-    "sponsorship_label": "Not specified",
-    "url": "https://analogdevices.wd1.myworkdayjobs.com/en-US/External/job/US-MA-Wilmington/Lead-Analyst--Channel-Systems---Projects_R263725"
   },
   {
     "company": "Marvell Technology",

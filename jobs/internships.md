@@ -1,18 +1,18 @@
 # F500Tracker internships
 
-Last updated: September 04, 2026 at 04:44 UTC
+Last updated: September 04, 2026 at 11:27 UTC
 
-Current internships: 341
+Current internships: 336
 
 ## Categories
 
-[Software & IT (23)](#software-it) · [Data & AI (12)](#data-ai) · [Engineering (21)](#engineering) · [Finance & Accounting (19)](#finance-accounting) · [Sales & Marketing (11)](#sales-marketing) · [Operations & Supply Chain (14)](#operations-supply-chain) · [People & Legal (6)](#people-legal) · [Other (235)](#other)
+[Software & IT (22)](#software-it) · [Data & AI (12)](#data-ai) · [Engineering (20)](#engineering) · [Finance & Accounting (18)](#finance-accounting) · [Sales & Marketing (11)](#sales-marketing) · [Operations & Supply Chain (14)](#operations-supply-chain) · [People & Legal (6)](#people-legal) · [Other (233)](#other)
 
 <a id="software-it"></a>
 
 ## Software & IT
 
-Open positions: 23
+Open positions: 22
 
 | Rank | Company | Position | Location | Category | Salary | Keywords | Sponsorship | Apply |
 |---:|---|---|---|---|---|---|---|---|
@@ -37,7 +37,6 @@ Open positions: 23
 | 49 | RTX | Software Engineering Intern (Summer 2027) | US-MD-ANNAPOLIS-904 ~ 2551 Riva Rd ~ BLDG 904 | Software & IT | Not disclosed | Python · Java · compliance · contracts | Not specified | [Apply](https://globalhr.wd5.myworkdayjobs.com/en-US/REC_RTX_Ext_Gateway/job/US-MD-ANNAPOLIS-904--2551-Riva-Rd--BLDG-904/Software-Engineering-Intern--Summer-2027-_01870699) |
 | 49 | RTX | Software  Engineering Intern (Summer 2027) | US-IA-CEDAR RAPIDS-182 ~ 1100 Cimmie Ave Ne ~ BLDG 182 | Software & IT | Not disclosed | Python · Java · recruiting · compliance · contracts | Not specified | [Apply](https://globalhr.wd5.myworkdayjobs.com/en-US/REC_RTX_Ext_Gateway/job/US-IA-CEDAR-RAPIDS-182--1100-Cimmie-Ave-Ne--BLDG-182/Software--Engineering-Intern--Summer-2027-_01868432) |
 | 49 | RTX | Stage - Hiver 2027 - Développement Logiciel Avancé, Méthodes Numériques / Internship - Winter 2027 - Advanced Software Development, Numerical Methods | CA-QC-LONGUEUIL-J01 ~ 1000 Blvd Marie-Victorin ~ J01 BLDG | Software & IT | Not disclosed | Python · machine learning | Not specified | [Apply](https://globalhr.wd5.myworkdayjobs.com/en-US/REC_RTX_Ext_Gateway/job/CA-QC-LONGUEUIL-J01--1000-Blvd-Marie-Victorin--J01-BLDG/Stage---Hiver-2027---Dveloppement-Logiciel-Avanc--Mthodes-Numriques---Internship---Winter-2027---Advanced-Software-Development--Numerical-Methods_01871187) |
-| 49 | RTX | Software Engineering Intern (Summer 2027) | US-AL-HUNTSVILLE-401 ~ 401 Jan Davis Dr NW ~ JAN DAVIS 401 | Software & IT | Not disclosed | Java · C# · Azure · compliance | Not specified | [Apply](https://globalhr.wd5.myworkdayjobs.com/en-US/REC_RTX_Ext_Gateway/job/US-AL-HUNTSVILLE-401--401-Jan-Davis-Dr-NW--JAN-DAVIS-401/Software-Engineering-Intern--Summer-2027-_01870007) |
 | 99 | Nike | NIKE, Inc. Software Engineering Undergraduate Internship | Beaverton, Oregon | Software & IT | Not disclosed | Python · Java · C# · JavaScript · React | Not specified | [Apply](https://nike.wd1.myworkdayjobs.com/en-US/nke/job/Beaverton-Oregon/NIKE--Inc-Software-Engineering-Undergraduate-Internship_R-91111) |
 
 [Back to categories](#categories) · [Back to README](../README.md)
@@ -69,7 +68,7 @@ Open positions: 12
 
 ## Engineering
 
-Open positions: 21
+Open positions: 20
 
 | Rank | Company | Position | Location | Category | Salary | Keywords | Sponsorship | Apply |
 |---:|---|---|---|---|---|---|---|---|
@@ -84,7 +83,6 @@ Open positions: 21
 | 49 | RTX | RF Mechanical Engineer Intern (Summer 2027)(Onsite) | US-AZ-TUCSON-M02 ~ 1151 E Hermans Rd ~ BLDG M02 | Engineering | Not disclosed | mechanical engineering · CAD · compliance | Not specified | [Apply](https://globalhr.wd5.myworkdayjobs.com/en-US/REC_RTX_Ext_Gateway/job/US-AZ-TUCSON-M02--1151-E-Hermans-Rd--BLDG-M02/RF-Mechanical-Engineer-Intern--Summer-2027--Onsite-_01871998) |
 | 49 | RTX | Stage – Hiver 2027 – Genie Industriel /Internship – Winter 2027 – Industrial Engineering | CA-QC-MIRABEL-M01 ~ 11155 Julien-Audette ~ M01 BLDG | Engineering | Not disclosed | mechanical engineering · logistics | Not specified | [Apply](https://globalhr.wd5.myworkdayjobs.com/en-US/REC_RTX_Ext_Gateway/job/CA-QC-MIRABEL-M01--11155-Julien-Audette--M01-BLDG/Stage---Hiver-2027---Genie-Industriel--Internship---Winter-2027---Industrial-Engineering_01864886) |
 | 49 | RTX | Electrical Engineering Intern (Summer 2027) | US-CA-EL SEGUNDO-R01 ~ 2000 E Imperial Hwy ~ BLDG R01 | Engineering | Not disclosed | Python · electrical engineering · compliance | Not specified | [Apply](https://globalhr.wd5.myworkdayjobs.com/en-US/REC_RTX_Ext_Gateway/job/US-CA-EL-SEGUNDO-R01--2000-E-Imperial-Hwy--BLDG-R01/Electrical-Engineering-Intern--Summer-2027-_01871697) |
-| 49 | RTX | Mechanical Engineering Intern (Summer 2027) | US-AL-HUNTSVILLE-315 ~ 315 Bob Heath Dr ~ BOB HEATH | Engineering | Not disclosed | mechanical engineering · procurement · compliance | Not specified | [Apply](https://globalhr.wd5.myworkdayjobs.com/en-US/REC_RTX_Ext_Gateway/job/US-AL-HUNTSVILLE-315--315-Bob-Heath-Dr--BOB-HEATH/Mechanical-Engineering-Intern--Summer-2027-_01871548) |
 | 49 | RTX | Electrical Engineering Intern (Summer 2027) | US-CA-EL SEGUNDO-R01 ~ 2000 E Imperial Hwy ~ BLDG R01 | Engineering | Not disclosed | Python · electrical engineering · compliance | Not specified | [Apply](https://globalhr.wd5.myworkdayjobs.com/en-US/REC_RTX_Ext_Gateway/job/US-CA-EL-SEGUNDO-R01--2000-E-Imperial-Hwy--BLDG-R01/Electrical-Engineering-Intern--Summer-2027-_01868034) |
 | 49 | RTX | Antenna Electrical Design Engineer Intern (Summer 2027)(Onsite) | US-TX-MCKINNEY-513WD ~ 2501 W University Dr ~ WING D BLDG | Engineering | Not disclosed | electrical engineering · compliance | Not specified | [Apply](https://globalhr.wd5.myworkdayjobs.com/en-US/REC_RTX_Ext_Gateway/job/US-TX-MCKINNEY-513WD--2501-W-University-Dr--WING-D-BLDG/Antenna-Electrical-Design-Engineer-Intern--Summer-2027--Onsite-_01866691) |
 | 49 | RTX | Electrical Engineering Intern (Summer 2027) | US-CA-EL SEGUNDO-R01 ~ 2000 E Imperial Hwy ~ BLDG R01 | Engineering | Not disclosed | electrical engineering · compliance | Not specified | [Apply](https://globalhr.wd5.myworkdayjobs.com/en-US/REC_RTX_Ext_Gateway/job/US-CA-EL-SEGUNDO-R01--2000-E-Imperial-Hwy--BLDG-R01/Electrical-Engineering-Intern--Summer-2027-_01867428) |
@@ -101,7 +99,7 @@ Open positions: 21
 
 ## Finance & Accounting
 
-Open positions: 19
+Open positions: 18
 
 | Rank | Company | Position | Location | Category | Salary | Keywords | Sponsorship | Apply |
 |---:|---|---|---|---|---|---|---|---|
@@ -109,7 +107,6 @@ Open positions: 19
 | 84 | HP | Finance Intern | Spring, Texas, United States of America | Finance & Accounting | $23–$26/hr | Python · SQL · machine learning · data science · analytics | Not specified | [Apply](https://hp.wd5.myworkdayjobs.com/en-US/ExternalCareerSite/job/Spring-Texas-United-States-of-America/Finance-Intern_UNI4241-1) |
 | 26 | Fannie Mae | Campus – Treasury & Capital Markets Program Intern (Markets Track) | Washington, DC | Finance & Accounting | Not disclosed | artificial intelligence · accounting · risk management | No sponsorship for this position | [Apply](https://fanniemae.wd1.myworkdayjobs.com/en-US/FannieMaeCareers/job/Washington-DC/Campus---Treasury---Capital-Markets-Program-Intern--Markets-Track-_JR2823-1) |
 | 26 | Fannie Mae | Campus – Treasury & Capital Markets Program Intern (Quantitative Research Track) | Washington, DC | Finance & Accounting | Not disclosed | Python · SQL · machine learning · artificial intelligence · data science | No sponsorship for this position | [Apply](https://fanniemae.wd1.myworkdayjobs.com/en-US/FannieMaeCareers/job/Washington-DC/Campus---Treasury---Capital-Markets-Program-Intern--Quantitative-Research-Track-_JR2872) |
-| 30 | Marathon Petroleum | Associate Accountant (Intern to FT Conversion) | Texas City, Texas | Finance & Accounting | Not disclosed | Excel · accounting · human resources · contracts | Not specified | [Apply](https://mpc.wd1.myworkdayjobs.com/en-US/MPCCareers/job/Texas-City-Texas/Associate-Accountant--Intern-to-FT-Conversion-_00023745) |
 | 33 | Freddie Mac | Internal Audit Intern - Summer 2027 | McLean, VA | Finance & Accounting | Not disclosed | Python · SQL · artificial intelligence · analytics · accounting | Not specified | [Apply](https://freddiemac.wd5.myworkdayjobs.com/en-US/External/job/McLean-VA/Internal-Audit-Intern---Summer-2027_JR17565) |
 | 33 | Freddie Mac | Accounting and Finance Intern- Summer 2027 | McLean, VA | Finance & Accounting | Not disclosed | accounting | Not specified | [Apply](https://freddiemac.wd5.myworkdayjobs.com/en-US/External/job/McLean-VA/Accounting-and-Finance-Intern--Summer-2027_JR17543) |
 | 44 | Walt Disney | Finance Transformation Intern, Spring 2027 | Burbank, CA, USA | Finance & Accounting | $23/hr | data science · analytics · Excel · accounting | Not specified | [Apply](https://disney.wd5.myworkdayjobs.com/en-US/disneycareer/job/Burbank-CA-USA/Finance-Transformation-Intern--Spring-2027_10158970) |
@@ -195,7 +192,7 @@ Open positions: 6
 
 ## Other
 
-Open positions: 235
+Open positions: 233
 
 | Rank | Company | Position | Location | Category | Salary | Keywords | Sponsorship | Apply |
 |---:|---|---|---|---|---|---|---|---|
@@ -346,9 +343,7 @@ Open positions: 235
 | 49 | RTX | Stage - Hiver 2027- Stagiaire Dessinateur(trice)/Intégrateur(trice) – Définition de Produit / Internship - Winter 2027 - Draftperson / Integrator Intern - Product Definition | CA-QC-LONGUEUIL-J01 ~ 1000 Blvd Marie-Victorin ~ J01 BLDG | Other | Not disclosed | CAD · SolidWorks · compliance | Not specified | [Apply](https://globalhr.wd5.myworkdayjobs.com/en-US/REC_RTX_Ext_Gateway/job/CA-QC-LONGUEUIL-J01--1000-Blvd-Marie-Victorin--J01-BLDG/Stage---Hiver-2027--Stagiaire-Dessinateur-trice--Intgrateur-trice----Dfinition-de-Produit---Internship---Winter-2027---Draftperson---Integrator-Intern---Product-Definition_01867718) |
 | 49 | RTX | Stage -  Hiver 2027 - Maintenance, Réparation, Révision et Gestion des coûts / Internship - Winter 2027 - Maintenance, Repair, Overhaul and Cost Management | CA-QC-LONGUEUIL-J01 ~ 1000 Blvd Marie-Victorin ~ J01 BLDG | Other | Not disclosed | — | Not specified | [Apply](https://globalhr.wd5.myworkdayjobs.com/en-US/REC_RTX_Ext_Gateway/job/CA-QC-LONGUEUIL-J01--1000-Blvd-Marie-Victorin--J01-BLDG/Stage----Hiver-2027---Maintenance--Rparation--Rvision-et-Gestion-des-cots---Internship---Winter-2027---Maintenance--Repair--Overhaul-and-Cost-Management_01871296) |
 | 49 | RTX | Stage - Hiver 2027 - Service Technique des Accessoires Moteurs / Internship - Winter 2027 - Engine Controls & Accessories Technical Services | CA-QC-LONGUEUIL-J01 ~ 1000 Blvd Marie-Victorin ~ J01 BLDG | Other | Not disclosed | Excel · CRM | Not specified | [Apply](https://globalhr.wd5.myworkdayjobs.com/en-US/REC_RTX_Ext_Gateway/job/CA-QC-LONGUEUIL-J01--1000-Blvd-Marie-Victorin--J01-BLDG/Stage---Hiver-2027---Service-Technique-des-Accessoires-Moteurs---Internship---Winter-2027---Engine-Controls---Accessories-Technical-Services_01869315) |
-| 49 | RTX | Digital Technology Intern (Summer 2027) | US-TX-MCKINNEY-513WC ~ 2501 W University Dr ~ WING C BLDG | Other | Not disclosed | Python · Java · C# · machine learning · data science | Not specified | [Apply](https://globalhr.wd5.myworkdayjobs.com/en-US/REC_RTX_Ext_Gateway/job/US-TX-MCKINNEY-513WC--2501-W-University-Dr--WING-C-BLDG/Digital-Technology-Intern--Summer-2027-_01871045) |
 | 49 | RTX | Stage -  Hiver 2027- Soutien aux equipes HEP (hybrid-electric propulsion) et NSE (New Small Engine) a la gestion de programme / Internship - Winter 2027 - HEP (Hybrid-Electric propulsion) & NSE (New Small Engine) support to Program Management team | CA-QC-LONGUEUIL-J01 ~ 1000 Blvd Marie-Victorin ~ J01 BLDG | Other | Not disclosed | — | Not specified | [Apply](https://globalhr.wd5.myworkdayjobs.com/en-US/REC_RTX_Ext_Gateway/job/CA-QC-LONGUEUIL-J01--1000-Blvd-Marie-Victorin--J01-BLDG/Stage----Hiver-2027--Soutien-aux-equipes-HEP--hybrid-electric-propulsion--et-NSE--New-Small-Engine--a-la-gestion-de-programme---Internship---Winter-2027---HEP--Hybrid-Electric-propulsion----NSE--New-Small-Engine--support-to-Program-Management-team_01865614) |
-| 49 | RTX | Digital Technology Intern (Summer 2027) | US-AZ-TUCSON-801 ~ 1151 E Hermans Rd ~ BLDG 801 (External Site) | Other | Not disclosed | Python · Java · C# · machine learning · data science | Not specified | [Apply](https://globalhr.wd5.myworkdayjobs.com/en-US/REC_RTX_Ext_Gateway/job/US-AZ-TUCSON-801--1151-E-Hermans-Rd--BLDG-801-External-Site/Digital-Technology-Intern--Summer-2027-_01871049) |
 | 49 | RTX | Stage - Hiver 2027 -  Gestionnaire de la clientèle  / Internship - Winter 2027 - Customer Manager | CA-QC-SAINT HUBERT-H05 ~ 7007 Chemin De La Savane ~ BLDG H05 FACTORY | Other | Not disclosed | supply chain · sales · contracts | Not specified | [Apply](https://globalhr.wd5.myworkdayjobs.com/en-US/REC_RTX_Ext_Gateway/job/CA-QC-SAINT-HUBERT-H05--7007-Chemin-De-La-Savane--BLDG-H05-FACTORY/Stage---Hiver-2027----Gestionnaire-de-la-clientle----Internship---Winter-2027---Customer-Manager_01869065) |
 | 49 | RTX | Internship - Winter 2027 - Environment, Health & Safety Co-Op Student | CA-ON-MISSISSAUGA-P22M01 ~ 1801 Courtney Park Dr ~ P22M01 BLDG | Other | Not disclosed | audit · CAD · supply chain · compliance | Not specified | [Apply](https://globalhr.wd5.myworkdayjobs.com/en-US/REC_RTX_Ext_Gateway/job/CA-ON-MISSISSAUGA-P22M01--1801-Courtney-Park-Dr--P22M01-BLDG/XMLNAME---Internship---Winter-2027---Environment--Health---Safety-Co-Op-Student_01866679) |
 | 49 | RTX | Stage - Hiver 2027 - Support aux Programmes des GAP / Internship - Winter 2027 - APU Programs Support | CA-QC-LONGUEUIL-J01 ~ 1000 Blvd Marie-Victorin ~ J01 BLDG | Other | Not disclosed | — | Not specified | [Apply](https://globalhr.wd5.myworkdayjobs.com/en-US/REC_RTX_Ext_Gateway/job/CA-QC-LONGUEUIL-J01--1000-Blvd-Marie-Victorin--J01-BLDG/Stage---Hiver-2027---Support-aux-Programmes-des-GAP---Internship---Winter-2027---APU-Programs-Support_01869035) |
