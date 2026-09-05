@@ -1,12 +1,12 @@
 # F500Tracker internships
 
-Last updated: September 05, 2026 at 04:39 UTC
+Last updated: September 05, 2026 at 10:45 UTC
 
-Current internships: 347
+Current internships: 344
 
 ## Categories
 
-[Software & IT (16)](#software-it) · [Data & AI (10)](#data-ai) · [Engineering (25)](#engineering) · [Finance & Accounting (19)](#finance-accounting) · [Sales & Marketing (12)](#sales-marketing) · [Operations & Supply Chain (16)](#operations-supply-chain) · [People & Legal (6)](#people-legal) · [Other (243)](#other)
+[Software & IT (16)](#software-it) · [Data & AI (10)](#data-ai) · [Engineering (25)](#engineering) · [Finance & Accounting (19)](#finance-accounting) · [Sales & Marketing (12)](#sales-marketing) · [Operations & Supply Chain (16)](#operations-supply-chain) · [People & Legal (6)](#people-legal) · [Other (240)](#other)
 
 <a id="software-it"></a>
 
@@ -193,7 +193,7 @@ Open positions: 6
 
 ## Other
 
-Open positions: 243
+Open positions: 240
 
 | Rank | Company | Position | Location | Category | Salary | Keywords | Sponsorship | Apply |
 |---:|---|---|---|---|---|---|---|---|
@@ -201,8 +201,6 @@ Open positions: 243
 | 112 | Northrop Grumman | 2027 Intern - Electronics (Avionics) Engineering | United States-Florida-Melbourne | Other | $18.5–$33.5/hr | electrical engineering | Not specified | [Apply](https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-Florida-Melbourne/XMLNAME-2027-Intern---Electronics--Avionics--Engineering_R10249640) |
 | 112 | Northrop Grumman | Intern Business Management | United States-Florida-Melbourne | Other | $16.5–$30/hr | accounting | Not specified | [Apply](https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-Florida-Melbourne/Intern-Business-Management_R10248690) |
 | 112 | Northrop Grumman | Intern Business Management | United States-Florida-Melbourne | Other | $16.5–$30/hr | accounting | Not specified | [Apply](https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-Florida-Melbourne/Intern-Business-Management_R10248698) |
-| 112 | Northrop Grumman | 2027 Intern - Electronics (Avionics) Engineering | United States-Oklahoma-Oklahoma City | Other | $17.5–$31.75/hr | electrical engineering | Not specified | [Apply](https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-Oklahoma-Oklahoma-City/XMLNAME-2027-Intern---Electronics--Avionics--Engineering_R10248658-1) |
-| 112 | Northrop Grumman | 2027 Intern - Systems Engineering | United States-Oklahoma-Oklahoma City | Other | $17.5–$31.75/hr | mechanical engineering · electrical engineering | Not specified | [Apply](https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-Oklahoma-Oklahoma-City/XMLNAME-2027-Intern---Systems-Engineering_R10248653) |
 | 112 | Northrop Grumman | 2026 Part-Time Cyber Security Engineering Intern - Aurora CO | United States-Colorado-Aurora | Other | $20.5–$38/hr | mechanical engineering | Not specified | [Apply](https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-Colorado-Aurora/XMLNAME-2026-Part-Time-Cyber-Security-Engineering-Intern---Aurora-CO_R10248520) |
 | 112 | Northrop Grumman | 2027 Business Management Intern - Sunnyvale CA | United States-California-Sunnyvale | Other | $19.25–$34.75/hr | accounting · risk management · supply chain · legal · contracts | Not specified | [Apply](https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-California-Sunnyvale/XMLNAME-2027-Business-Management-Intern---Sunnyvale-CA_R10248163-1) |
 | 125 | Micron Technology | Intern - Photomask Yield Enhancement | Boise, ID - Main Site | Other | Not disclosed | Python · SQL · machine learning · data science · analytics | Not specified | [Apply](https://micron.wd1.myworkdayjobs.com/en-US/External/job/Boise-ID---Main-Site/Intern---Photomask-Yield-Enhancement_JR110636) |
@@ -303,7 +301,6 @@ Open positions: 243
 | 45 | Johnson & Johnson | Quality Data Science Co-op- Spring 2027 | Cincinnati, Ohio, United States of America | Other | $23.5/hr | Python · data science · analytics · Excel · mechanical engineering | Not specified | [Apply](https://jj.wd5.myworkdayjobs.com/en-US/JJ/job/Cincinnati-Ohio-United-States-of-America/Quality-Data-Science-Co-op--Spring-2027_R-095792) |
 | 45 | Johnson & Johnson | Quality Digital Deploy Co-op–Spring 2027 | Cincinnati, Ohio, United States of America | Other | $23.5/hr | Python · Excel · mechanical engineering · electrical engineering | Not specified | [Apply](https://jj.wd5.myworkdayjobs.com/en-US/JJ/job/Cincinnati-Ohio-United-States-of-America/Quality-Digital-Deploy-Co-op-Spring-2027_R-095790) |
 | 45 | Johnson & Johnson | Quality Engineering Co-op– Spring 2027 | Cincinnati, Ohio, United States of America | Other | $23.5/hr | Excel · risk management · mechanical engineering | Not specified | [Apply](https://jj.wd5.myworkdayjobs.com/en-US/JJ/job/Cincinnati-Ohio-United-States-of-America/Quality-Engineering-Co-op--Spring-2027_R-095789) |
-| 45 | Johnson & Johnson | Process Engineering Co-op | Irving, Texas, United States of America | Other | Not disclosed | recruiting · compliance | Not specified | [Apply](https://jj.wd5.myworkdayjobs.com/en-US/JJ/job/Irving-Texas-United-States-of-America/Process-Engineering-Co-op_R-095316) |
 | 45 | Johnson & Johnson | OPEX Co-Op | Gurabo, Puerto Rico, United States of America | Other | Not disclosed | analytics · Excel · mechanical engineering · supply chain · compliance | Not specified | [Apply](https://jj.wd5.myworkdayjobs.com/en-US/JJ/job/Gurabo-Puerto-Rico-United-States-of-America/OPEX-Co-Op_R-095047) |
 | 45 | Johnson & Johnson | Deliver Business Unit Integration Co-Op | Raritan, New Jersey, United States of America | Other | $23/hr | analytics · Excel · supply chain · recruiting | Not specified | [Apply](https://jj.wd5.myworkdayjobs.com/en-US/JJ/job/Raritan-New-Jersey-United-States-of-America/Deliver-Business-Unit-Integration-Co-Op_R-094887) |
 | 45 | Johnson & Johnson | Data Science Co-Op, Spring 2027 | Cincinnati, Ohio, United States of America | Other | $23.5/hr | Python · SQL · data science · electrical engineering · recruiting | Not specified | [Apply](https://jj.wd5.myworkdayjobs.com/en-US/JJ/job/Cincinnati-Ohio-United-States-of-America/Data-Science-Co-Op--Spring-2027_R-095743) |
