@@ -1,12 +1,12 @@
 # F500Tracker internships
 
-Last updated: September 05, 2026 at 15:24 UTC
+Last updated: September 05, 2026 at 20:36 UTC
 
 Current internships: 344
 
 ## Categories
 
-[Software & IT (16)](#software-it) · [Data & AI (10)](#data-ai) · [Engineering (25)](#engineering) · [Finance & Accounting (19)](#finance-accounting) · [Sales & Marketing (12)](#sales-marketing) · [Operations & Supply Chain (16)](#operations-supply-chain) · [People & Legal (6)](#people-legal) · [Other (240)](#other)
+[Software & IT (16)](#software-it) · [Data & AI (10)](#data-ai) · [Engineering (25)](#engineering) · [Finance & Accounting (20)](#finance-accounting) · [Sales & Marketing (12)](#sales-marketing) · [Operations & Supply Chain (16)](#operations-supply-chain) · [People & Legal (6)](#people-legal) · [Other (239)](#other)
 
 <a id="software-it"></a>
 
@@ -96,11 +96,12 @@ Open positions: 25
 
 ## Finance & Accounting
 
-Open positions: 19
+Open positions: 20
 
 | Rank | Company | Position | Location | Category | Salary | Keywords | Sponsorship | Apply |
 |---:|---|---|---|---|---|---|---|---|
 | 112 | Northrop Grumman | 2027 Financial Analyst Intern - McLean VA | United States-Virginia-McLean | Finance & Accounting | Not disclosed | analytics · Excel · accounting | Not specified | [Apply](https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-Virginia-McLean/XMLNAME-2027-Financial-Analyst-Intern---McLean-VA_R10249207) |
+| 8 | McKesson | Finance Leadership Program Intern - Summer 2027 | USA, TX, Irving | Finance & Accounting | Not disclosed | SQL · analytics · Excel · financial modeling · accounting | Not specified | [Apply](https://mckesson.wd3.myworkdayjobs.com/en-US/External_Careers/job/USA-TX-Irving/Finance-Leadership-Program-Intern---Summer-2027_JR0153101) |
 | 14 | Cigna Group | Internal Audit (SOX/SOC) Intern | Franklin, TN | Finance & Accounting | Not disclosed | accounting · audit · risk management · compliance | Not specified | [Apply](https://cigna.wd5.myworkdayjobs.com/en-US/cignacareers/job/Franklin-TN/Internal-Audit--SOX-SOC--Intern_26010366) |
 | 26 | Fannie Mae | Campus – Treasury & Capital Markets Program Intern (Markets Track) | Washington, DC | Finance & Accounting | Not disclosed | artificial intelligence · accounting · risk management | No sponsorship for this position | [Apply](https://fanniemae.wd1.myworkdayjobs.com/en-US/FannieMaeCareers/job/Washington-DC/Campus---Treasury---Capital-Markets-Program-Intern--Markets-Track-_JR2823-1) |
 | 26 | Fannie Mae | Campus – Treasury & Capital Markets Program Intern (Quantitative Research Track) | Washington, DC | Finance & Accounting | Not disclosed | Python · SQL · machine learning · artificial intelligence · data science | No sponsorship for this position | [Apply](https://fanniemae.wd1.myworkdayjobs.com/en-US/FannieMaeCareers/job/Washington-DC/Campus---Treasury---Capital-Markets-Program-Intern--Quantitative-Research-Track-_JR2872) |
@@ -193,7 +194,7 @@ Open positions: 6
 
 ## Other
 
-Open positions: 240
+Open positions: 239
 
 | Rank | Company | Position | Location | Category | Salary | Keywords | Sponsorship | Apply |
 |---:|---|---|---|---|---|---|---|---|
@@ -276,7 +277,6 @@ Open positions: 240
 | 44 | Walt Disney | 20th Television Office of the President Intern, Spring 2027 | Burbank, CA, USA | Other | $23/hr | Excel | Not specified | [Apply](https://disney.wd5.myworkdayjobs.com/en-US/disneycareer/job/Burbank-CA-USA/XMLNAME-20th-Television-Office-of-the-President-Intern--Spring-2027_10156834-1) |
 | 44 | Walt Disney | Food & Beverage and Merchandise Stylized Photography Intern, Spring 2027 | Lake Buena Vista, FL, USA | Other | $22.1/hr | logistics | Not specified | [Apply](https://disney.wd5.myworkdayjobs.com/en-US/disneycareer/job/Lake-Buena-Vista-FL-USA/Food---Beverage-and-Merchandise-Stylized-Photography-Intern--Spring-2027_10159304) |
 | 44 | Walt Disney | DCL Environmental Affairs Intern, Spring 2027 | Celebration, FL, USA | Other | $31/hr | Excel · compliance · legal | Not specified | [Apply](https://disney.wd5.myworkdayjobs.com/en-US/disneycareer/job/Celebration-FL-USA/DCL-Environmental-Affairs-Intern--Spring-2027_10159314) |
-| 44 | Walt Disney | Product & Franchise Strategy Intern, Spring 2027 | Lake Buena Vista, FL, USA | Other | $23/hr | analytics · Excel · accounting | Not specified | [Apply](https://disney.wd5.myworkdayjobs.com/en-US/disneycareer/job/Lake-Buena-Vista-FL-USA/Product---Franchise-Strategy-Intern--Spring-2027_10159569) |
 | 44 | Walt Disney | Video & Multimedia Intern, WSHES Creative, Spring 2027 | Lake Buena Vista, FL, USA | Other | $22.5/hr | — | Not specified | [Apply](https://disney.wd5.myworkdayjobs.com/en-US/disneycareer/job/Lake-Buena-Vista-FL-USA/Video---Multimedia-Intern--WSHES-Creative--Spring-2027_10157945) |
 | 44 | Walt Disney | Disney Entertainment Television Publicity Intern, Fall 2026 | Burbank, CA, USA | Other | $22.5/hr | — | Not specified | [Apply](https://disney.wd5.myworkdayjobs.com/en-US/disneycareer/job/Burbank-CA-USA/Disney-Entertainment-Television-Publicity-Intern--Fall-2026_10159331) |
 | 44 | Walt Disney | WDI Project Controls Estimating Intern, Spring 2027 | Glendale, CA, USA | Other | $31/hr | Excel | Not specified | [Apply](https://disney.wd5.myworkdayjobs.com/en-US/disneycareer/job/Glendale-CA-USA/WDI-Project-Controls-Estimating-Intern--Spring-2027_10159492) |

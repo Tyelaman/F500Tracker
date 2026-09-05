@@ -13490,22 +13490,6 @@
   },
   {
     "company": "Airbnb",
-    "title": "Executive Producer",
-    "location": "United States",
-    "employment_type": "full-time",
-    "category": "Other",
-    "salary": "Not disclosed",
-    "salary_min": null,
-    "keywords": [
-      "recruiting"
-    ],
-    "sponsorship_evidence": "",
-    "h1b_status": "unknown",
-    "sponsorship_label": "Not specified",
-    "url": "https://careers.airbnb.com/positions/8163037?gh_jid=8163037"
-  },
-  {
-    "company": "Airbnb",
     "title": "Growth Marketing Lead, SEM",
     "location": "United States",
     "employment_type": "full-time",
@@ -13643,24 +13627,6 @@
   {
     "company": "Airbnb",
     "title": "Market Manager",
-    "location": "Ohio, United States, Indiana, United States, Kentucky, United States, Illinois, United States",
-    "employment_type": "full-time",
-    "category": "Other",
-    "salary": "Not disclosed",
-    "salary_min": null,
-    "keywords": [
-      "sales",
-      "CRM",
-      "recruiting"
-    ],
-    "sponsorship_evidence": "",
-    "h1b_status": "unknown",
-    "sponsorship_label": "Not specified",
-    "url": "https://careers.airbnb.com/positions/8129503?gh_jid=8129503"
-  },
-  {
-    "company": "Airbnb",
-    "title": "Market Manager",
     "location": "San Diego, United States ",
     "employment_type": "full-time",
     "category": "Other",
@@ -13676,6 +13642,24 @@
     "h1b_status": "unknown",
     "sponsorship_label": "Not specified",
     "url": "https://careers.airbnb.com/positions/8134685?gh_jid=8134685"
+  },
+  {
+    "company": "Airbnb",
+    "title": "Market Manager",
+    "location": "Ohio, United States, Indiana, United States, Kentucky, United States, Illinois, United States",
+    "employment_type": "full-time",
+    "category": "Other",
+    "salary": "Not disclosed",
+    "salary_min": null,
+    "keywords": [
+      "sales",
+      "CRM",
+      "recruiting"
+    ],
+    "sponsorship_evidence": "",
+    "h1b_status": "unknown",
+    "sponsorship_label": "Not specified",
+    "url": "https://careers.airbnb.com/positions/8129503?gh_jid=8129503"
   },
   {
     "company": "Airbnb",
@@ -24623,6 +24607,41 @@
   },
   {
     "company": "Northrop Grumman",
+    "title": "Sentinel Principal Project Management  -16701*",
+    "location": "United States-Utah-Roy",
+    "employment_type": "full-time",
+    "category": "Other",
+    "salary": "Not disclosed",
+    "salary_min": null,
+    "keywords": [
+      "Excel",
+      "compliance"
+    ],
+    "sponsorship_evidence": "",
+    "h1b_status": "unknown",
+    "sponsorship_label": "Not specified",
+    "url": "https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-Utah-Roy/Sentinel-Principal-Project-Management---16701-_R10246522"
+  },
+  {
+    "company": "Northrop Grumman",
+    "title": "Sentinel Sr Principal Project Management - 19442",
+    "location": "United States-Utah-Roy",
+    "employment_type": "full-time",
+    "category": "Other",
+    "salary": "Not disclosed",
+    "salary_min": null,
+    "keywords": [
+      "Excel",
+      "supply chain",
+      "procurement"
+    ],
+    "sponsorship_evidence": "",
+    "h1b_status": "unknown",
+    "sponsorship_label": "Not specified",
+    "url": "https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-Utah-Roy/Sentinel-Sr-Principal-Project-Management---19442_R10247792"
+  },
+  {
+    "company": "Northrop Grumman",
     "title": "Principal Electrical Components Engineer or Sr Principal Electrical Components Engineers",
     "location": "United States-California-Woodland Hills",
     "employment_type": "full-time",
@@ -28622,7 +28641,6 @@
     "salary": "Not disclosed",
     "salary_min": null,
     "keywords": [
-      "Python",
       "recruiting"
     ],
     "sponsorship_evidence": "",
@@ -80139,6 +80157,22 @@
   },
   {
     "company": "Boeing",
+    "title": "Mid-Level Electrical Lab Technical Designer",
+    "location": "USA - Oklahoma City, OK",
+    "employment_type": "full-time",
+    "category": "Engineering",
+    "salary": "Not disclosed",
+    "salary_min": null,
+    "keywords": [
+      "compliance"
+    ],
+    "sponsorship_evidence": "Visa Sponsorship: Employer will not sponsor applicants for employment visa status.",
+    "h1b_status": "does_not_support_h1b",
+    "sponsorship_label": "No sponsorship for this position",
+    "url": "https://boeing.wd1.myworkdayjobs.com/en-US/EXTERNAL_CAREERS/job/USA---Oklahoma-City-OK/Mid-Level-Electrical-Lab-Technical-Designer_JR2026524076-1"
+  },
+  {
+    "company": "Boeing",
     "title": "Senior Program Manager",
     "location": "USA - Herndon, VA",
     "employment_type": "full-time",
@@ -81686,7 +81720,8 @@
     "salary": "Not disclosed",
     "salary_min": null,
     "keywords": [
-      "Python"
+      "Python",
+      "analytics"
     ],
     "sponsorship_evidence": "",
     "h1b_status": "unknown",
@@ -81799,8 +81834,7 @@
     "salary": "Not disclosed",
     "salary_min": null,
     "keywords": [
-      "Python",
-      "compliance"
+      "Python"
     ],
     "sponsorship_evidence": "",
     "h1b_status": "unknown",
@@ -85708,22 +85742,6 @@
     "h1b_status": "unknown",
     "sponsorship_label": "Not specified",
     "url": "https://micron.wd1.myworkdayjobs.com/en-US/External/job/Boise-ID---Main-Site/Intern---Wet-Etch-Process-Development-Engineer_JR108050"
-  },
-  {
-    "company": "Micron Technology",
-    "title": "Sr Design Verification Engineer, HBM Verification Architecture",
-    "location": "Richardson, TX",
-    "employment_type": "full-time",
-    "category": "Other",
-    "salary": "Not disclosed",
-    "salary_min": null,
-    "keywords": [
-      "electrical engineering"
-    ],
-    "sponsorship_evidence": "",
-    "h1b_status": "unknown",
-    "sponsorship_label": "Not specified",
-    "url": "https://micron.wd1.myworkdayjobs.com/en-US/External/job/Richardson-TX/Sr-Engineer--HBM-Verification-Architecture_JR94968"
   },
   {
     "company": "Micron Technology",
@@ -91931,6 +91949,27 @@
   },
   {
     "company": "McKesson",
+    "title": "Finance Leadership Program Intern - Summer 2027",
+    "location": "USA, TX, Irving",
+    "employment_type": "internship",
+    "category": "Finance & Accounting",
+    "salary": "Not disclosed",
+    "salary_min": null,
+    "keywords": [
+      "SQL",
+      "analytics",
+      "Excel",
+      "financial modeling",
+      "accounting",
+      "recruiting"
+    ],
+    "sponsorship_evidence": "",
+    "h1b_status": "unknown",
+    "sponsorship_label": "Not specified",
+    "url": "https://mckesson.wd3.myworkdayjobs.com/en-US/External_Careers/job/USA-TX-Irving/Finance-Leadership-Program-Intern---Summer-2027_JR0153101"
+  },
+  {
+    "company": "McKesson",
     "title": "Agile Delivery Manager",
     "location": "Irving, TX, USA - 6555 North State Highway 161 (P001)",
     "employment_type": "full-time",
@@ -95349,26 +95388,6 @@
   },
   {
     "company": "Freddie Mac",
-    "title": "Securities Modeling Analyst",
-    "location": "McLean, VA",
-    "employment_type": "full-time",
-    "category": "Other",
-    "salary": "Not disclosed",
-    "salary_min": null,
-    "keywords": [
-      "Python",
-      "Java",
-      "SQL",
-      "analytics",
-      "audit"
-    ],
-    "sponsorship_evidence": "",
-    "h1b_status": "unknown",
-    "sponsorship_label": "Not specified",
-    "url": "https://freddiemac.wd5.myworkdayjobs.com/en-US/External/job/McLean-VA/Securities-Modeling-Analyst_JR17405"
-  },
-  {
-    "company": "Freddie Mac",
     "title": "Quantitative Analytics Tech Lead (Collateral Models)",
     "location": "McLean, VA",
     "employment_type": "full-time",
@@ -97718,8 +97737,8 @@
     "location": "Glendale, CA, USA",
     "employment_type": "full-time",
     "category": "Other",
-    "salary": "$134k\u2013$149k/yr",
-    "salary_min": 134000.0,
+    "salary": "$129.3k\u2013$173.3k/yr",
+    "salary_min": 129300.0,
     "keywords": [
       "AWS",
       "Azure",
@@ -98150,24 +98169,6 @@
     "h1b_status": "unknown",
     "sponsorship_label": "Not specified",
     "url": "https://disney.wd5.myworkdayjobs.com/en-US/disneycareer/job/Anaheim-CA-USA/Technical-Writer_10158886-1"
-  },
-  {
-    "company": "Walt Disney",
-    "title": "Product & Franchise Strategy Intern, Spring 2027",
-    "location": "Lake Buena Vista, FL, USA",
-    "employment_type": "internship",
-    "category": "Other",
-    "salary": "$23/hr",
-    "salary_min": 23.0,
-    "keywords": [
-      "analytics",
-      "Excel",
-      "accounting"
-    ],
-    "sponsorship_evidence": "",
-    "h1b_status": "unknown",
-    "sponsorship_label": "Not specified",
-    "url": "https://disney.wd5.myworkdayjobs.com/en-US/disneycareer/job/Lake-Buena-Vista-FL-USA/Product---Franchise-Strategy-Intern--Spring-2027_10159569"
   },
   {
     "company": "Walt Disney",
@@ -108134,22 +108135,6 @@
   },
   {
     "company": "RTX",
-    "title": "Senior Lead Engineer",
-    "location": "IN-KA-BENGALURU-NORTHGATE ~ Sy No 2/2 Venkatala Village ~ SY NO 2/2 VENKATALA VILLAGE, Yelahanka Hobli",
-    "employment_type": "full-time",
-    "category": "Other",
-    "salary": "Not disclosed",
-    "salary_min": null,
-    "keywords": [
-      "Python"
-    ],
-    "sponsorship_evidence": "",
-    "h1b_status": "unknown",
-    "sponsorship_label": "Not specified",
-    "url": "https://globalhr.wd5.myworkdayjobs.com/en-US/REC_RTX_Ext_Gateway/job/IN-KA-BENGALURU-NORTHGATE--Sy-No-22-Venkatala-Village--SY-NO-22-VENKATALA-VILLAGE-Yelahanka-Hobli/Senior-Lead-Engineer_01836968"
-  },
-  {
-    "company": "RTX",
     "title": "Senior Manager, Systems Engineering (Onsite)",
     "location": "US-CT-WINDSOR LOCKS-B1 ~ 1 Hamilton Rd ~ BLDG 1",
     "employment_type": "full-time",
@@ -109436,20 +109421,6 @@
     "h1b_status": "unknown",
     "sponsorship_label": "Not specified",
     "url": "https://globalhr.wd5.myworkdayjobs.com/en-US/REC_RTX_Ext_Gateway/job/US-ME-NORTH-BERWICK-113--113-Wells-St--WELLS-Rte-9/Bench-Mechanic--2nd-Shift--Onsite-_01851922"
-  },
-  {
-    "company": "RTX",
-    "title": "Lead Engineer",
-    "location": "IN-KA-BENGALURU-NORTHGATE ~ Sy No 2/2 Venkatala Village ~ SY NO 2/2 VENKATALA VILLAGE, Yelahanka Hobli",
-    "employment_type": "full-time",
-    "category": "Other",
-    "salary": "Not disclosed",
-    "salary_min": null,
-    "keywords": [],
-    "sponsorship_evidence": "",
-    "h1b_status": "unknown",
-    "sponsorship_label": "Not specified",
-    "url": "https://globalhr.wd5.myworkdayjobs.com/en-US/REC_RTX_Ext_Gateway/job/IN-KA-BENGALURU-NORTHGATE--Sy-No-22-Venkatala-Village--SY-NO-22-VENKATALA-VILLAGE-Yelahanka-Hobli/Lead-Engineer_01868963"
   },
   {
     "company": "RTX",
@@ -173925,6 +173896,22 @@
   },
   {
     "company": "Lowe's",
+    "title": "Full Time - Sales Specialist - Flooring - Closing",
+    "location": "New Orleans, LA (Central New Orleans) 2470",
+    "employment_type": "full-time",
+    "category": "Sales & Marketing",
+    "salary": "Not disclosed",
+    "salary_min": null,
+    "keywords": [
+      "sales"
+    ],
+    "sponsorship_evidence": "",
+    "h1b_status": "unknown",
+    "sponsorship_label": "Not specified",
+    "url": "https://lowes.wd5.myworkdayjobs.com/en-US/LWS_External_CS/job/New-Orleans-LA-Central-New-Orleans-2470/Full-Time---Sales-Specialist---Flooring---Closing_JR-02626791-1"
+  },
+  {
+    "company": "Lowe's",
     "title": "Full Time - Sales Associate - Building Materials - Closing",
     "location": "Omaha, NE (SW Omaha) 1184",
     "employment_type": "full-time",
@@ -175037,22 +175024,6 @@
     "h1b_status": "unknown",
     "sponsorship_label": "Not specified",
     "url": "https://lowes.wd5.myworkdayjobs.com/en-US/LWS_External_CS/job/Shreveport-LA-SE-Shreveport-1968/Bench-Merchandising-ASM_JR-02627029"
-  },
-  {
-    "company": "Lowe's",
-    "title": "Full Time - Cashier - Day",
-    "location": "Kansas City, MO (S Kansas City) 1623",
-    "employment_type": "full-time",
-    "category": "Other",
-    "salary": "Not disclosed",
-    "salary_min": null,
-    "keywords": [
-      "sales"
-    ],
-    "sponsorship_evidence": "",
-    "h1b_status": "unknown",
-    "sponsorship_label": "Not specified",
-    "url": "https://lowes.wd5.myworkdayjobs.com/en-US/LWS_External_CS/job/Kansas-City-MO-S-Kansas-City-1623/Full-Time---Cashier---Day_JR-02641924"
   },
   {
     "company": "Lowe's",
@@ -177624,22 +177595,6 @@
     "h1b_status": "unknown",
     "sponsorship_label": "Not specified",
     "url": "https://lowes.wd5.myworkdayjobs.com/en-US/LWS_External_CS/job/Abilene-TX-N-Abilene-2719/Full-Time---Cashier---Closing_JR-02639249-1"
-  },
-  {
-    "company": "Lowe's",
-    "title": "Full Time - Cashier - Opening",
-    "location": "Abilene, TX (N Abilene) 2719",
-    "employment_type": "full-time",
-    "category": "Other",
-    "salary": "Not disclosed",
-    "salary_min": null,
-    "keywords": [
-      "sales"
-    ],
-    "sponsorship_evidence": "",
-    "h1b_status": "unknown",
-    "sponsorship_label": "Not specified",
-    "url": "https://lowes.wd5.myworkdayjobs.com/en-US/LWS_External_CS/job/Abilene-TX-N-Abilene-2719/Full-Time---Cashier---Opening_JR-02639248"
   },
   {
     "company": "Lowe's",
@@ -186585,22 +186540,6 @@
   },
   {
     "company": "Lowe's",
-    "title": "Full Time - Sales Associate - Building Materials - Day",
-    "location": "Munhall, PA (Homestead) 0780",
-    "employment_type": "full-time",
-    "category": "Sales & Marketing",
-    "salary": "Not disclosed",
-    "salary_min": null,
-    "keywords": [
-      "sales"
-    ],
-    "sponsorship_evidence": "",
-    "h1b_status": "unknown",
-    "sponsorship_label": "Not specified",
-    "url": "https://lowes.wd5.myworkdayjobs.com/en-US/LWS_External_CS/job/Munhall-PA-Homestead-0780/Full-Time---Sales-Associate---Building-Materials---Day_JR-02613324"
-  },
-  {
-    "company": "Lowe's",
     "title": "Full Time - Sales Associate - Building Materials - Closing",
     "location": "Houston, TX (N Central Houston) 0681",
     "employment_type": "full-time",
@@ -189372,23 +189311,6 @@
   },
   {
     "company": "Lowe's",
-    "title": "Market Delivery Warehouse Associate - Nights",
-    "location": "Ft Lauderdale, FL (XDT) 3341",
-    "employment_type": "full-time",
-    "category": "Operations & Supply Chain",
-    "salary": "Not disclosed",
-    "salary_min": null,
-    "keywords": [
-      "audit",
-      "sales"
-    ],
-    "sponsorship_evidence": "",
-    "h1b_status": "unknown",
-    "sponsorship_label": "Not specified",
-    "url": "https://lowes.wd5.myworkdayjobs.com/en-US/LWS_External_CS/job/Ft-Lauderdale-FL-XDT-3341/Market-Delivery-Warehouse-Associate---Nights_JR-02550828"
-  },
-  {
-    "company": "Lowe's",
     "title": "Sr Director, Media",
     "location": "Mooresville, NC (SSC) 1999",
     "employment_type": "full-time",
@@ -190694,41 +190616,6 @@
     "h1b_status": "unknown",
     "sponsorship_label": "Not specified",
     "url": "https://cat.wd5.myworkdayjobs.com/en-US/CaterpillarCareers/job/Irving-Texas/Electronic-Components-Project-Lead_R0000386410"
-  },
-  {
-    "company": "Caterpillar",
-    "title": "Rental & Used Operations Rep",
-    "location": "Bloomington, Minnesota",
-    "employment_type": "full-time",
-    "category": "Operations & Supply Chain",
-    "salary": "Not disclosed",
-    "salary_min": null,
-    "keywords": [
-      "supply chain",
-      "sales"
-    ],
-    "sponsorship_evidence": "",
-    "h1b_status": "unknown",
-    "sponsorship_label": "Not specified",
-    "url": "https://cat.wd5.myworkdayjobs.com/en-US/CaterpillarCareers/job/Bloomington-Minnesota/Rental---Used-Operations-Rep_R0000391607"
-  },
-  {
-    "company": "Caterpillar",
-    "title": "Maintenance Technician III, Pipefitter - 1st Shift",
-    "location": "San Antonio, Texas",
-    "employment_type": "full-time",
-    "category": "Other",
-    "salary": "Not disclosed",
-    "salary_min": null,
-    "keywords": [
-      "logistics",
-      "recruiting",
-      "compliance"
-    ],
-    "sponsorship_evidence": "",
-    "h1b_status": "unknown",
-    "sponsorship_label": "Not specified",
-    "url": "https://cat.wd5.myworkdayjobs.com/en-US/CaterpillarCareers/job/San-Antonio-Texas/Maintenance-Technician-III--Pipefitter---1st-Shift_R0000392113"
   },
   {
     "company": "Prudential Financial",
@@ -199910,9 +199797,9 @@
     "keywords": [
       "compliance"
     ],
-    "sponsorship_evidence": "Must be legally authorized to work in the United States now or in the future without sponsorship.",
-    "h1b_status": "does_not_support_h1b",
-    "sponsorship_label": "No sponsorship for this position",
+    "sponsorship_evidence": "",
+    "h1b_status": "unknown",
+    "sponsorship_label": "Not specified",
     "url": "https://thermofisher.wd5.myworkdayjobs.com/en-US/ThermoFisherCareers/job/Cincinnati-Ohio-USA/Reliability-Engineer-III_R-01357091"
   },
   {
