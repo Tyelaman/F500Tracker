@@ -79447,6 +79447,26 @@
     "source_updated_at": "",
     "sponsorship_evidence": ""
   },
+  "workday:3M:/job/IN-Bangalore-Kar/Application-Development-Engineer---Electronics_R01170301": {
+    "company": "3M",
+    "enriched_at": "2026-09-06T20:35:26.812125+00:00",
+    "external_id": "/job/IN-Bangalore-Kar/Application-Development-Engineer---Electronics_R01170301",
+    "h1b_mentioned": false,
+    "h1b_status": "unknown",
+    "keywords": [
+      "procurement",
+      "sales",
+      "compliance"
+    ],
+    "salary_currency": "",
+    "salary_max": null,
+    "salary_min": null,
+    "salary_period": "",
+    "salary_text": "",
+    "source": "workday",
+    "source_updated_at": "",
+    "sponsorship_evidence": ""
+  },
   "workday:3M:/job/IN-Bangalore-Kar/Area-Sales-Manager_R01169614": {
     "company": "3M",
     "enriched_at": "2026-09-04T04:44:07.427918+00:00",
@@ -79611,6 +79631,25 @@
       "analytics",
       "sales",
       "CRM",
+      "compliance"
+    ],
+    "salary_currency": "",
+    "salary_max": null,
+    "salary_min": null,
+    "salary_period": "",
+    "salary_text": "",
+    "source": "workday",
+    "source_updated_at": "",
+    "sponsorship_evidence": ""
+  },
+  "workday:3M:/job/IN-Tamil-Nadu-Chennai/Sales-Rep_R01170244": {
+    "company": "3M",
+    "enriched_at": "2026-09-06T20:35:26.818108+00:00",
+    "external_id": "/job/IN-Tamil-Nadu-Chennai/Sales-Rep_R01170244",
+    "h1b_mentioned": false,
+    "h1b_status": "unknown",
+    "keywords": [
+      "sales",
       "compliance"
     ],
     "salary_currency": "",
@@ -218197,6 +218236,42 @@
     "source_updated_at": "",
     "sponsorship_evidence": ""
   },
+  "workday:Lowe's:/job/Erie-PA-W-Erie-1654/Full-Time---Sales-Associate---Building-Materials---Closing_JR-02643432": {
+    "company": "Lowe's",
+    "enriched_at": "2026-09-06T20:33:27.129919+00:00",
+    "external_id": "/job/Erie-PA-W-Erie-1654/Full-Time---Sales-Associate---Building-Materials---Closing_JR-02643432",
+    "h1b_mentioned": false,
+    "h1b_status": "unknown",
+    "keywords": [
+      "sales"
+    ],
+    "salary_currency": "",
+    "salary_max": null,
+    "salary_min": null,
+    "salary_period": "",
+    "salary_text": "",
+    "source": "workday",
+    "source_updated_at": "",
+    "sponsorship_evidence": ""
+  },
+  "workday:Lowe's:/job/Erie-PA-W-Erie-1654/Full-Time---Sales-Associate---Building-Materials---Closing_JR-02643433": {
+    "company": "Lowe's",
+    "enriched_at": "2026-09-06T20:33:27.122882+00:00",
+    "external_id": "/job/Erie-PA-W-Erie-1654/Full-Time---Sales-Associate---Building-Materials---Closing_JR-02643433",
+    "h1b_mentioned": false,
+    "h1b_status": "unknown",
+    "keywords": [
+      "sales"
+    ],
+    "salary_currency": "",
+    "salary_max": null,
+    "salary_min": null,
+    "salary_period": "",
+    "salary_text": "",
+    "source": "workday",
+    "source_updated_at": "",
+    "sponsorship_evidence": ""
+  },
   "workday:Lowe's:/job/Erie-PA-W-Erie-1654/Full-Time---Sales-Associate---Outside-Lawn---Garden---Closing_JR-02620690": {
     "company": "Lowe's",
     "enriched_at": "2026-08-25T02:01:43.434613+00:00",
@@ -221882,6 +221957,24 @@
     "salary_min": 18.0,
     "salary_period": "hour",
     "salary_text": "$18.00 - $20.20 per hour",
+    "source": "workday",
+    "source_updated_at": "",
+    "sponsorship_evidence": ""
+  },
+  "workday:Lowe's:/job/Humble-TX-Atascocita-1530/Full-Time---Sales-Associate---ProServices---Opening_JR-02643405": {
+    "company": "Lowe's",
+    "enriched_at": "2026-09-06T20:33:27.136733+00:00",
+    "external_id": "/job/Humble-TX-Atascocita-1530/Full-Time---Sales-Associate---ProServices---Opening_JR-02643405",
+    "h1b_mentioned": false,
+    "h1b_status": "unknown",
+    "keywords": [
+      "sales"
+    ],
+    "salary_currency": "",
+    "salary_max": null,
+    "salary_min": null,
+    "salary_period": "",
+    "salary_text": "",
     "source": "workday",
     "source_updated_at": "",
     "sponsorship_evidence": ""
@@ -276476,7 +276569,7 @@
   },
   "workday:NVIDIA:/job/US-CA-Santa-Clara/Senior-Software-Program-Manager---CSP-Engagements_JR2013691": {
     "company": "NVIDIA",
-    "enriched_at": "2026-08-26T07:07:55.939656+00:00",
+    "enriched_at": "2026-09-06T20:23:41.350897+00:00",
     "external_id": "/job/US-CA-Santa-Clara/Senior-Software-Program-Manager---CSP-Engagements_JR2013691",
     "h1b_mentioned": false,
     "h1b_status": "unknown",
@@ -277202,7 +277295,7 @@
   },
   "workday:NVIDIA:/job/US-CA-Santa-Clara/Senior-Systems-Software-Engineer--Data-Center-Platform-Enablement_JR2019870": {
     "company": "NVIDIA",
-    "enriched_at": "2026-08-26T01:57:54.484075+00:00",
+    "enriched_at": "2026-09-06T20:23:41.345555+00:00",
     "external_id": "/job/US-CA-Santa-Clara/Senior-Systems-Software-Engineer--Data-Center-Platform-Enablement_JR2019870",
     "h1b_mentioned": false,
     "h1b_status": "unknown",
@@ -571536,7 +571629,7 @@
   },
   "workday:Walt Disney:/job/New-York-NY-USA/Manager--Growth-Marketing-Platforms---Audience_10154636": {
     "company": "Walt Disney",
-    "enriched_at": "2026-08-30T16:43:46.228851+00:00",
+    "enriched_at": "2026-09-06T20:27:11.973391+00:00",
     "external_id": "/job/New-York-NY-USA/Manager--Growth-Marketing-Platforms---Audience_10154636",
     "h1b_mentioned": false,
     "h1b_status": "unknown",

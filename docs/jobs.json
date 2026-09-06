@@ -13627,24 +13627,6 @@
   {
     "company": "Airbnb",
     "title": "Market Manager",
-    "location": "Ohio, United States, Indiana, United States, Kentucky, United States, Illinois, United States",
-    "employment_type": "full-time",
-    "category": "Other",
-    "salary": "Not disclosed",
-    "salary_min": null,
-    "keywords": [
-      "sales",
-      "CRM",
-      "recruiting"
-    ],
-    "sponsorship_evidence": "",
-    "h1b_status": "unknown",
-    "sponsorship_label": "Not specified",
-    "url": "https://careers.airbnb.com/positions/8129503?gh_jid=8129503"
-  },
-  {
-    "company": "Airbnb",
-    "title": "Market Manager",
     "location": "San Diego, United States ",
     "employment_type": "full-time",
     "category": "Other",
@@ -13660,6 +13642,24 @@
     "h1b_status": "unknown",
     "sponsorship_label": "Not specified",
     "url": "https://careers.airbnb.com/positions/8134685?gh_jid=8134685"
+  },
+  {
+    "company": "Airbnb",
+    "title": "Market Manager",
+    "location": "Ohio, United States, Indiana, United States, Kentucky, United States, Illinois, United States",
+    "employment_type": "full-time",
+    "category": "Other",
+    "salary": "Not disclosed",
+    "salary_min": null,
+    "keywords": [
+      "sales",
+      "CRM",
+      "recruiting"
+    ],
+    "sponsorship_evidence": "",
+    "h1b_status": "unknown",
+    "sponsorship_label": "Not specified",
+    "url": "https://careers.airbnb.com/positions/8129503?gh_jid=8129503"
   },
   {
     "company": "Airbnb",
@@ -15133,6 +15133,76 @@
   },
   {
     "company": "NVIDIA",
+    "title": "Senior Systems Software Engineer, Data Center Platform Enablement",
+    "location": "US, CA, Santa Clara",
+    "employment_type": "full-time",
+    "category": "Software & IT",
+    "salary": "Not disclosed",
+    "salary_min": null,
+    "keywords": [
+      "Python",
+      "electrical engineering",
+      "recruiting"
+    ],
+    "sponsorship_evidence": "",
+    "h1b_status": "unknown",
+    "sponsorship_label": "Not specified",
+    "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Systems-Software-Engineer--Data-Center-Platform-Enablement_JR2019870"
+  },
+  {
+    "company": "NVIDIA",
+    "title": "Senior Software Program Manager \u2013 CSP Engagements",
+    "location": "US, CA, Santa Clara",
+    "employment_type": "full-time",
+    "category": "Software & IT",
+    "salary": "Not disclosed",
+    "salary_min": null,
+    "keywords": [
+      "artificial intelligence",
+      "recruiting"
+    ],
+    "sponsorship_evidence": "",
+    "h1b_status": "unknown",
+    "sponsorship_label": "Not specified",
+    "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Software-Program-Manager---CSP-Engagements_JR2013691"
+  },
+  {
+    "company": "NVIDIA",
+    "title": "Director, Software TPM - Server Firmware and System Software",
+    "location": "US, CA, Santa Clara",
+    "employment_type": "full-time",
+    "category": "Software & IT",
+    "salary": "Not disclosed",
+    "salary_min": null,
+    "keywords": [
+      "artificial intelligence",
+      "electrical engineering",
+      "recruiting"
+    ],
+    "sponsorship_evidence": "",
+    "h1b_status": "unknown",
+    "sponsorship_label": "Not specified",
+    "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Manager--Software-TPM---Server-Firmware-and-System-Software_JR2007277-1"
+  },
+  {
+    "company": "NVIDIA",
+    "title": "Senior Software Program Manager - Datacenter Compute Server",
+    "location": "US, CA, Santa Clara",
+    "employment_type": "full-time",
+    "category": "Software & IT",
+    "salary": "Not disclosed",
+    "salary_min": null,
+    "keywords": [
+      "electrical engineering",
+      "recruiting"
+    ],
+    "sponsorship_evidence": "",
+    "h1b_status": "unknown",
+    "sponsorship_label": "Not specified",
+    "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Software-Program-Manager---Datacenter-Compute-Server_JR1996363"
+  },
+  {
+    "company": "NVIDIA",
     "title": "Principal Firmware Engineer \u2013 Server Manageability and Observability",
     "location": "US, CA, Santa Clara",
     "employment_type": "full-time",
@@ -15338,208 +15408,6 @@
     "h1b_status": "unknown",
     "sponsorship_label": "Not specified",
     "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-ASIC-Design-Engineer---DFX_JR2020883"
-  },
-  {
-    "company": "NVIDIA",
-    "title": "Senior DFT Engineer",
-    "location": "US, CA, Santa Clara",
-    "employment_type": "full-time",
-    "category": "Other",
-    "salary": "Not disclosed",
-    "salary_min": null,
-    "keywords": [
-      "Python",
-      "recruiting"
-    ],
-    "sponsorship_evidence": "",
-    "h1b_status": "unknown",
-    "sponsorship_label": "Not specified",
-    "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-DFT-Engineer_JR2020872"
-  },
-  {
-    "company": "NVIDIA",
-    "title": "Senior DFT Methodology - Data Analytics and Applied AI Engineer",
-    "location": "US, CA, Santa Clara",
-    "employment_type": "full-time",
-    "category": "Data & AI",
-    "salary": "Not disclosed",
-    "salary_min": null,
-    "keywords": [
-      "Python",
-      "SQL",
-      "AWS",
-      "Azure",
-      "GCP",
-      "machine learning",
-      "data science",
-      "analytics"
-    ],
-    "sponsorship_evidence": "",
-    "h1b_status": "unknown",
-    "sponsorship_label": "Not specified",
-    "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-DFT-Methodology---Data-Analytics-and-Applied-AI-Engineer_JR2020850"
-  },
-  {
-    "company": "NVIDIA",
-    "title": "Senior DFT Engineer",
-    "location": "US, CA, Santa Clara",
-    "employment_type": "full-time",
-    "category": "Other",
-    "salary": "Not disclosed",
-    "salary_min": null,
-    "keywords": [
-      "recruiting"
-    ],
-    "sponsorship_evidence": "",
-    "h1b_status": "unknown",
-    "sponsorship_label": "Not specified",
-    "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-DFT-Engineer_JR2020790"
-  },
-  {
-    "company": "NVIDIA",
-    "title": "Senior DFT - Silicon Validation Engineer",
-    "location": "US, CA, Santa Clara",
-    "employment_type": "full-time",
-    "category": "Other",
-    "salary": "Not disclosed",
-    "salary_min": null,
-    "keywords": [
-      "Python",
-      "recruiting"
-    ],
-    "sponsorship_evidence": "",
-    "h1b_status": "unknown",
-    "sponsorship_label": "Not specified",
-    "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-DFT-Engineer_JR2019303"
-  },
-  {
-    "company": "NVIDIA",
-    "title": "Senior Technical Program Manager \u2013 VLSI",
-    "location": "US, CA, Santa Clara",
-    "employment_type": "full-time",
-    "category": "Other",
-    "salary": "Not disclosed",
-    "salary_min": null,
-    "keywords": [
-      "Python",
-      "artificial intelligence",
-      "electrical engineering",
-      "recruiting"
-    ],
-    "sponsorship_evidence": "",
-    "h1b_status": "unknown",
-    "sponsorship_label": "Not specified",
-    "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Technical-Program-Manager---VLSI_JR2013354"
-  },
-  {
-    "company": "NVIDIA",
-    "title": "Senior Software Development Engineer, Neural Graph Infrastructure",
-    "location": "US, CA, Santa Clara",
-    "employment_type": "full-time",
-    "category": "Software & IT",
-    "salary": "Not disclosed",
-    "salary_min": null,
-    "keywords": [
-      "Python",
-      "CAD",
-      "recruiting"
-    ],
-    "sponsorship_evidence": "",
-    "h1b_status": "unknown",
-    "sponsorship_label": "Not specified",
-    "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-CAD-Infrastructure-Development-Engineer_JR2010334"
-  },
-  {
-    "company": "NVIDIA",
-    "title": "Senior DFT Engineer",
-    "location": "US, CA, Santa Clara",
-    "employment_type": "full-time",
-    "category": "Other",
-    "salary": "Not disclosed",
-    "salary_min": null,
-    "keywords": [
-      "electrical engineering",
-      "CAD",
-      "recruiting"
-    ],
-    "sponsorship_evidence": "",
-    "h1b_status": "unknown",
-    "sponsorship_label": "Not specified",
-    "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-DFT-Engineer_JR2006356"
-  },
-  {
-    "company": "NVIDIA",
-    "title": "Global Commodity Manager \u2013 Interconnects and Cables",
-    "location": "US, CA, Santa Clara",
-    "employment_type": "full-time",
-    "category": "Other",
-    "salary": "Not disclosed",
-    "salary_min": null,
-    "keywords": [
-      "risk management",
-      "mechanical engineering",
-      "electrical engineering",
-      "supply chain",
-      "recruiting",
-      "contracts"
-    ],
-    "sponsorship_evidence": "",
-    "h1b_status": "unknown",
-    "sponsorship_label": "Not specified",
-    "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Global-Commodity-Manager---Interconnects-and-Cables_JR2021719"
-  },
-  {
-    "company": "NVIDIA",
-    "title": "Senior NPI Technical Program Manager - Operations",
-    "location": "US, CA, Santa Clara",
-    "employment_type": "full-time",
-    "category": "Operations & Supply Chain",
-    "salary": "Not disclosed",
-    "salary_min": null,
-    "keywords": [
-      "artificial intelligence",
-      "Excel",
-      "supply chain",
-      "logistics",
-      "recruiting"
-    ],
-    "sponsorship_evidence": "",
-    "h1b_status": "unknown",
-    "sponsorship_label": "Not specified",
-    "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-NPI-Technical-Program-Manager---Operations_JR2012473-1"
-  },
-  {
-    "company": "NVIDIA",
-    "title": "Senior DFT Engineer",
-    "location": "US, CA, Santa Clara",
-    "employment_type": "full-time",
-    "category": "Other",
-    "salary": "Not disclosed",
-    "salary_min": null,
-    "keywords": [
-      "Python",
-      "recruiting"
-    ],
-    "sponsorship_evidence": "",
-    "h1b_status": "unknown",
-    "sponsorship_label": "Not specified",
-    "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-DFT-Engineer_JR2000499"
-  },
-  {
-    "company": "NVIDIA",
-    "title": "Notebook Hardware Application Engineer",
-    "location": "US, CA, Santa Clara",
-    "employment_type": "full-time",
-    "category": "Other",
-    "salary": "Not disclosed",
-    "salary_min": null,
-    "keywords": [
-      "recruiting"
-    ],
-    "sponsorship_evidence": "",
-    "h1b_status": "unknown",
-    "sponsorship_label": "Not specified",
-    "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Notebook-Hardware-Application-Engineer_JR2013587"
   },
   {
     "company": "Salesforce",
@@ -16978,29 +16846,6 @@
     "h1b_status": "does_not_support_h1b",
     "sponsorship_label": "No sponsorship for this position",
     "url": "https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/Plano-TX/Sr-Associate--Process-Manager--Auto-_R999342-1"
-  },
-  {
-    "company": "Capital One",
-    "title": "Distinguished AI Engineer",
-    "location": "Bangalore, In",
-    "employment_type": "full-time",
-    "category": "Data & AI",
-    "salary": "Not disclosed",
-    "salary_min": null,
-    "keywords": [
-      "Python",
-      "Java",
-      "C#",
-      "Go",
-      "AWS",
-      "Azure",
-      "machine learning",
-      "electrical engineering"
-    ],
-    "sponsorship_evidence": "At this time, Capital One will not sponsor a new applicant for employment authorization for this position.",
-    "h1b_status": "does_not_support_h1b",
-    "sponsorship_label": "No sponsorship for this position",
-    "url": "https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/Bangalore-In/Distinguished-AI-Engineer_R249922-1"
   },
   {
     "company": "Capital One",
@@ -109072,23 +108917,6 @@
   },
   {
     "company": "RTX",
-    "title": "Lead Engineer \u2013 Software(DO-178B/C,3-6 years)",
-    "location": "IN-KA-BENGALURU-NORTHGATE ~ Sy No 2/2 Venkatala Village ~ SY NO 2/2 VENKATALA VILLAGE, Yelahanka Hobli",
-    "employment_type": "full-time",
-    "category": "Software & IT",
-    "salary": "Not disclosed",
-    "salary_min": null,
-    "keywords": [
-      "electrical engineering",
-      "compliance"
-    ],
-    "sponsorship_evidence": "",
-    "h1b_status": "unknown",
-    "sponsorship_label": "Not specified",
-    "url": "https://globalhr.wd5.myworkdayjobs.com/en-US/REC_RTX_Ext_Gateway/job/IN-KA-BENGALURU-NORTHGATE--Sy-No-22-Venkatala-Village--SY-NO-22-VENKATALA-VILLAGE-Yelahanka-Hobli/Lead-Engineer---Software-DO-178B-C-3-6-years-_01862240"
-  },
-  {
-    "company": "RTX",
     "title": "Senior Accountant Analyst",
     "location": "IN-KA-BENGALURU-NORTHGATE ~ Sy No 2/2 Venkatala Village ~ SY NO 2/2 VENKATALA VILLAGE, Yelahanka Hobli",
     "employment_type": "full-time",
@@ -112010,26 +111838,6 @@
   },
   {
     "company": "RTX",
-    "title": "Principal Specialist - .NET & Angular",
-    "location": "IN-KA-BENGALURU-NORTHGATE ~ Sy No 2/2 Venkatala Village ~ SY NO 2/2 VENKATALA VILLAGE, Yelahanka Hobli",
-    "employment_type": "full-time",
-    "category": "Other",
-    "salary": "Not disclosed",
-    "salary_min": null,
-    "keywords": [
-      "C#",
-      "TypeScript",
-      "SQL",
-      "Azure",
-      "recruiting"
-    ],
-    "sponsorship_evidence": "",
-    "h1b_status": "unknown",
-    "sponsorship_label": "Not specified",
-    "url": "https://globalhr.wd5.myworkdayjobs.com/en-US/REC_RTX_Ext_Gateway/job/IN-KA-BENGALURU-NORTHGATE--Sy-No-22-Venkatala-Village--SY-NO-22-VENKATALA-VILLAGE-Yelahanka-Hobli/Principal-Specialist---NET---Angular_01865871"
-  },
-  {
-    "company": "RTX",
     "title": "Assembler",
     "location": "US-TX-MCKINNEY-513WA ~ 2501 W University Dr ~ WING A BLDG",
     "employment_type": "full-time",
@@ -112241,25 +112049,6 @@
     "h1b_status": "unknown",
     "sponsorship_label": "Not specified",
     "url": "https://globalhr.wd5.myworkdayjobs.com/en-US/REC_RTX_Ext_Gateway/job/US-AZ-TUCSON-848--1151-E-Hermans-Rd--BLDG-848/Proposal-Material-Program-Manager_01855561"
-  },
-  {
-    "company": "RTX",
-    "title": "Manager - Payroll",
-    "location": "IN-KA-BENGALURU-NORTHGATE ~ Sy No 2/2 Venkatala Village ~ SY NO 2/2 VENKATALA VILLAGE, Yelahanka Hobli",
-    "employment_type": "full-time",
-    "category": "Other",
-    "salary": "Not disclosed",
-    "salary_min": null,
-    "keywords": [
-      "accounting",
-      "tax",
-      "recruiting",
-      "compliance"
-    ],
-    "sponsorship_evidence": "",
-    "h1b_status": "unknown",
-    "sponsorship_label": "Not specified",
-    "url": "https://globalhr.wd5.myworkdayjobs.com/en-US/REC_RTX_Ext_Gateway/job/IN-KA-BENGALURU-NORTHGATE--Sy-No-22-Venkatala-Village--SY-NO-22-VENKATALA-VILLAGE-Yelahanka-Hobli/Manager---Payroll_01845559"
   },
   {
     "company": "RTX",
@@ -149233,22 +149022,6 @@
   },
   {
     "company": "RTX",
-    "title": "Principal Specialist -  Application Data Security Compliance",
-    "location": "IN-KA-BENGALURU-NORTHGATE ~ Sy No 2/2 Venkatala Village ~ SY NO 2/2 VENKATALA VILLAGE, Yelahanka Hobli",
-    "employment_type": "full-time",
-    "category": "People & Legal",
-    "salary": "Not disclosed",
-    "salary_min": null,
-    "keywords": [
-      "compliance"
-    ],
-    "sponsorship_evidence": "",
-    "h1b_status": "unknown",
-    "sponsorship_label": "Not specified",
-    "url": "https://globalhr.wd5.myworkdayjobs.com/en-US/REC_RTX_Ext_Gateway/job/IN-KA-BENGALURU-NORTHGATE--Sy-No-22-Venkatala-Village--SY-NO-22-VENKATALA-VILLAGE-Yelahanka-Hobli/Manager--Application-Data-Security-Compliance--Remote-_01807579"
-  },
-  {
-    "company": "RTX",
     "title": "Tomahawk Supply Chain and Operations Manager",
     "location": "US-AZ-TUCSON-9022 ~ 9022 S Rita Rd ~ BLDG 9022",
     "employment_type": "full-time",
@@ -173347,6 +173120,54 @@
   },
   {
     "company": "Lowe's",
+    "title": "Full Time - Sales Associate - Building Materials - Closing",
+    "location": "Erie, PA (W Erie) 1654",
+    "employment_type": "full-time",
+    "category": "Sales & Marketing",
+    "salary": "Not disclosed",
+    "salary_min": null,
+    "keywords": [
+      "sales"
+    ],
+    "sponsorship_evidence": "",
+    "h1b_status": "unknown",
+    "sponsorship_label": "Not specified",
+    "url": "https://lowes.wd5.myworkdayjobs.com/en-US/LWS_External_CS/job/Erie-PA-W-Erie-1654/Full-Time---Sales-Associate---Building-Materials---Closing_JR-02643433"
+  },
+  {
+    "company": "Lowe's",
+    "title": "Full Time - Sales Associate - Building Materials - Closing",
+    "location": "Erie, PA (W Erie) 1654",
+    "employment_type": "full-time",
+    "category": "Sales & Marketing",
+    "salary": "Not disclosed",
+    "salary_min": null,
+    "keywords": [
+      "sales"
+    ],
+    "sponsorship_evidence": "",
+    "h1b_status": "unknown",
+    "sponsorship_label": "Not specified",
+    "url": "https://lowes.wd5.myworkdayjobs.com/en-US/LWS_External_CS/job/Erie-PA-W-Erie-1654/Full-Time---Sales-Associate---Building-Materials---Closing_JR-02643432"
+  },
+  {
+    "company": "Lowe's",
+    "title": "Full Time - Sales Associate - ProServices - Opening",
+    "location": "Humble, TX (Atascocita) 1530",
+    "employment_type": "full-time",
+    "category": "Sales & Marketing",
+    "salary": "Not disclosed",
+    "salary_min": null,
+    "keywords": [
+      "sales"
+    ],
+    "sponsorship_evidence": "",
+    "h1b_status": "unknown",
+    "sponsorship_label": "Not specified",
+    "url": "https://lowes.wd5.myworkdayjobs.com/en-US/LWS_External_CS/job/Humble-TX-Atascocita-1530/Full-Time---Sales-Associate---ProServices---Opening_JR-02643405"
+  },
+  {
+    "company": "Lowe's",
     "title": "Full Time - Sales Specialist - Flooring - Closing",
     "location": "New Orleans, LA (Central New Orleans) 2470",
     "employment_type": "full-time",
@@ -177161,23 +176982,6 @@
     "h1b_status": "unknown",
     "sponsorship_label": "Not specified",
     "url": "https://lowes.wd5.myworkdayjobs.com/en-US/LWS_External_CS/job/Cincinnati-OH-SE-Cincinnati-1160/Full-Time---Sales-Specialist-Cabinets_JR-02639011"
-  },
-  {
-    "company": "Lowe's",
-    "title": "Full Time - Fulfillment Team Lead - Opening",
-    "location": "Phoenix, AZ (N Phoenix) 1204",
-    "employment_type": "full-time",
-    "category": "Other",
-    "salary": "Not disclosed",
-    "salary_min": null,
-    "keywords": [
-      "sales",
-      "compliance"
-    ],
-    "sponsorship_evidence": "",
-    "h1b_status": "unknown",
-    "sponsorship_label": "Not specified",
-    "url": "https://lowes.wd5.myworkdayjobs.com/en-US/LWS_External_CS/job/Phoenix-AZ-N-Phoenix-1204/Full-Time---Fulfillment-Team-Lead---Opening_JR-02617847-1"
   },
   {
     "company": "Lowe's",
@@ -188972,6 +188776,22 @@
   },
   {
     "company": "Sysco",
+    "title": "Facilities Mechanic 3 - SYGMA - Kansas City, MO",
+    "location": "Sygma Kansas City",
+    "employment_type": "full-time",
+    "category": "Other",
+    "salary": "Not disclosed",
+    "salary_min": null,
+    "keywords": [
+      "sales"
+    ],
+    "sponsorship_evidence": "",
+    "h1b_status": "unknown",
+    "sponsorship_label": "Not specified",
+    "url": "https://sysco.wd5.myworkdayjobs.com/en-US/syscocareers/job/Sygma-Kansas-City/Forklift-Mechanic-SYGMA--Kansas-City--MO_R262302"
+  },
+  {
+    "company": "Sysco",
     "title": "Sanitation Associate, Night",
     "location": "Greco Colorado",
     "employment_type": "full-time",
@@ -189587,6 +189407,26 @@
     "url": "https://allstate.wd5.myworkdayjobs.com/en-US/allstate_careers/job/USA---IL-Remote/Senior-Trial-Attorney--Remote---Chicago--IL-_R34565"
   },
   {
+    "company": "Allstate",
+    "title": "Paralegal Specialist \u2013 Insurance Defense (Remote - TN)",
+    "location": "USA - TN (Remote)",
+    "employment_type": "full-time",
+    "category": "Other",
+    "salary": "Not disclosed",
+    "salary_min": null,
+    "keywords": [
+      "Excel",
+      "risk management",
+      "compliance",
+      "legal",
+      "contracts"
+    ],
+    "sponsorship_evidence": "Allstate generally does not sponsor individuals for employment-based visas for this position.",
+    "h1b_status": "does_not_support_h1b",
+    "sponsorship_label": "No sponsorship for this position",
+    "url": "https://allstate.wd5.myworkdayjobs.com/en-US/allstate_careers/job/USA---TN-Remote/Paralegal-Specialist---Insurance-Defense--Remote---TN-_R34321"
+  },
+  {
     "company": "Caterpillar",
     "title": "Embodied AI Robotics Engineer",
     "location": "San Francisco, California",
@@ -189898,66 +189738,6 @@
     "h1b_status": "unknown",
     "sponsorship_label": "Not specified",
     "url": "https://cat.wd5.myworkdayjobs.com/en-US/CaterpillarCareers/job/Waco-Texas/XMLNAME-1st-Shift-Production-Manager_R0000392305"
-  },
-  {
-    "company": "Caterpillar",
-    "title": "Production Associate (Paint)",
-    "location": "Athens, Georgia",
-    "employment_type": "full-time",
-    "category": "Other",
-    "salary": "$19.28/hr",
-    "salary_min": 19.28,
-    "keywords": [],
-    "sponsorship_evidence": "",
-    "h1b_status": "unknown",
-    "sponsorship_label": "Not specified",
-    "url": "https://cat.wd5.myworkdayjobs.com/en-US/CaterpillarCareers/job/Athens-Georgia/Production-Associate--Paint-_R0000380671"
-  },
-  {
-    "company": "Caterpillar",
-    "title": "Assembler - 1st Shift",
-    "location": "Athens, Georgia",
-    "employment_type": "full-time",
-    "category": "Other",
-    "salary": "$19.28/hr",
-    "salary_min": 19.28,
-    "keywords": [],
-    "sponsorship_evidence": "",
-    "h1b_status": "unknown",
-    "sponsorship_label": "Not specified",
-    "url": "https://cat.wd5.myworkdayjobs.com/en-US/CaterpillarCareers/job/Athens-Georgia/Assembler---1st-Shift_R0000388958"
-  },
-  {
-    "company": "Caterpillar",
-    "title": "Assembler - 2nd Shift",
-    "location": "Athens, Georgia",
-    "employment_type": "full-time",
-    "category": "Other",
-    "salary": "$20.82/hr",
-    "salary_min": 20.82,
-    "keywords": [],
-    "sponsorship_evidence": "",
-    "h1b_status": "unknown",
-    "sponsorship_label": "Not specified",
-    "url": "https://cat.wd5.myworkdayjobs.com/en-US/CaterpillarCareers/job/Athens-Georgia/Assembler---2nd-Shift_R0000387006"
-  },
-  {
-    "company": "Caterpillar",
-    "title": "Manager, Logistics (3rd Shift)",
-    "location": "Champaign, Illinois",
-    "employment_type": "full-time",
-    "category": "Operations & Supply Chain",
-    "salary": "Not disclosed",
-    "salary_min": null,
-    "keywords": [
-      "supply chain",
-      "logistics",
-      "compliance"
-    ],
-    "sponsorship_evidence": "",
-    "h1b_status": "unknown",
-    "sponsorship_label": "Not specified",
-    "url": "https://cat.wd5.myworkdayjobs.com/en-US/CaterpillarCareers/job/Champaign-Illinois/Manager--Logistics--3rd-Shift-_R0000392174"
   },
   {
     "company": "Prudential Financial",
@@ -213142,6 +212922,41 @@
   },
   {
     "company": "3M",
+    "title": "Application Development Engineer - Electronics",
+    "location": "IN, Bangalore Kar",
+    "employment_type": "full-time",
+    "category": "Other",
+    "salary": "Not disclosed",
+    "salary_min": null,
+    "keywords": [
+      "procurement",
+      "sales",
+      "compliance"
+    ],
+    "sponsorship_evidence": "",
+    "h1b_status": "unknown",
+    "sponsorship_label": "Not specified",
+    "url": "https://3m.wd1.myworkdayjobs.com/en-US/Search/job/IN-Bangalore-Kar/Application-Development-Engineer---Electronics_R01170301"
+  },
+  {
+    "company": "3M",
+    "title": "Sales Rep",
+    "location": "IN, Tamil Nadu, Chennai",
+    "employment_type": "full-time",
+    "category": "Sales & Marketing",
+    "salary": "Not disclosed",
+    "salary_min": null,
+    "keywords": [
+      "sales",
+      "compliance"
+    ],
+    "sponsorship_evidence": "",
+    "h1b_status": "unknown",
+    "sponsorship_label": "Not specified",
+    "url": "https://3m.wd1.myworkdayjobs.com/en-US/Search/job/IN-Tamil-Nadu-Chennai/Sales-Rep_R01170244"
+  },
+  {
+    "company": "3M",
     "title": "Senior Product Development Specialist - Aerospace Adhesives",
     "location": "US, Minnesota, Maplewood",
     "employment_type": "full-time",
@@ -213648,42 +213463,6 @@
     "h1b_status": "unknown",
     "sponsorship_label": "Not specified",
     "url": "https://3m.wd1.myworkdayjobs.com/en-US/Search/job/IN-BANGALORE/SAP-FI-CO-Team-Lead-Specialist_R01165803-1"
-  },
-  {
-    "company": "3M",
-    "title": "Manufacturing Engineer (Nevada, MO)",
-    "location": "US, Missouri, Nevada",
-    "employment_type": "full-time",
-    "category": "Engineering",
-    "salary": "Not disclosed",
-    "salary_min": null,
-    "keywords": [
-      "recruiting",
-      "compliance"
-    ],
-    "sponsorship_evidence": ": May be authorized Must be legally authorized to work in country of employment without sponsorship for employment visa status (e.",
-    "h1b_status": "does_not_support_h1b",
-    "sponsorship_label": "No sponsorship for this position",
-    "url": "https://3m.wd1.myworkdayjobs.com/en-US/Search/job/US-Missouri-Nevada/Manufacturing-Engineer--Nevada--MO-_R01169990"
-  },
-  {
-    "company": "3M",
-    "title": "Human Resources Supervisor (Prairie du Chien, WI)",
-    "location": "US, Wisconsin, Prairie Du Chien",
-    "employment_type": "full-time",
-    "category": "People & Legal",
-    "salary": "Not disclosed",
-    "salary_min": null,
-    "keywords": [
-      "human resources",
-      "recruiting",
-      "talent acquisition",
-      "compliance"
-    ],
-    "sponsorship_evidence": ": May be Authorized Must be legally authorized to work in country of employment without sponsorship for employment visa status (e.",
-    "h1b_status": "does_not_support_h1b",
-    "sponsorship_label": "No sponsorship for this position",
-    "url": "https://3m.wd1.myworkdayjobs.com/en-US/Search/job/US-Wisconsin-Prairie-Du-Chien/Human-Resources-Supervisor--Prairie-du-Chien--WI-_R01169543-1"
   },
   {
     "company": "Carvana",
