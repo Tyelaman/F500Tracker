@@ -209936,7 +209936,7 @@
   },
   "workday:Lowe's:/job/Albuquerque-NM-NE-Albuquerque-0756/Full-Time---Sales-Specialist---Flooring---Day_JR-02626025-1": {
     "company": "Lowe's",
-    "enriched_at": "2026-08-30T05:32:28.809918+00:00",
+    "enriched_at": "2026-09-06T11:03:25.294019+00:00",
     "external_id": "/job/Albuquerque-NM-NE-Albuquerque-0756/Full-Time---Sales-Specialist---Flooring---Day_JR-02626025-1",
     "h1b_mentioned": false,
     "h1b_status": "unknown",
@@ -221667,7 +221667,7 @@
   },
   "workday:Lowe's:/job/Houston-TX-N-Central-Houston-0681/Full-Time---Cashier---Opening_JR-02637682": {
     "company": "Lowe's",
-    "enriched_at": "2026-08-30T05:32:28.820259+00:00",
+    "enriched_at": "2026-09-06T11:03:25.306171+00:00",
     "external_id": "/job/Houston-TX-N-Central-Houston-0681/Full-Time---Cashier---Opening_JR-02637682",
     "h1b_mentioned": false,
     "h1b_status": "unknown",
@@ -283977,7 +283977,7 @@
   },
   "workday:Northrop Grumman:/job/United-States-Alabama-Huntsville/Electrical-Engineer---Level-2-or-3--AHT-_R10248210": {
     "company": "Northrop Grumman",
-    "enriched_at": "2026-08-30T05:25:10.367023+00:00",
+    "enriched_at": "2026-09-06T10:56:54.370580+00:00",
     "external_id": "/job/United-States-Alabama-Huntsville/Electrical-Engineer---Level-2-or-3--AHT-_R10248210",
     "h1b_mentioned": false,
     "h1b_status": "unknown",
@@ -286548,7 +286548,7 @@
   },
   "workday:Northrop Grumman:/job/United-States-Alabama-Huntsville/Systems-Engineer---Level-3-or-4---AHT-_R10248173": {
     "company": "Northrop Grumman",
-    "enriched_at": "2026-08-30T05:25:10.356805+00:00",
+    "enriched_at": "2026-09-06T10:56:54.357808+00:00",
     "external_id": "/job/United-States-Alabama-Huntsville/Systems-Engineer---Level-3-or-4---AHT-_R10248173",
     "h1b_mentioned": false,
     "h1b_status": "unknown",
@@ -395699,7 +395699,7 @@
   },
   "workday:RTX:/job/IN-KA-BENGALURU-NORTHGATE--Sy-No-22-Venkatala-Village--SY-NO-22-VENKATALA-VILLAGE-Yelahanka-Hobli/Senior-Lead-Engineer_01868964": {
     "company": "RTX",
-    "enriched_at": "2026-08-28T22:25:22.283207+00:00",
+    "enriched_at": "2026-09-06T10:59:55.194138+00:00",
     "external_id": "/job/IN-KA-BENGALURU-NORTHGATE--Sy-No-22-Venkatala-Village--SY-NO-22-VENKATALA-VILLAGE-Yelahanka-Hobli/Senior-Lead-Engineer_01868964",
     "h1b_mentioned": false,
     "h1b_status": "unknown",
@@ -418056,7 +418056,7 @@
   },
   "workday:RTX:/job/US-AZ-TUCSON-M13--3601-E-Britannia-Dr--BRITANNIA-M13/Manager--Contracts--Onsite-_01870801": {
     "company": "RTX",
-    "enriched_at": "2026-08-30T05:28:30.768666+00:00",
+    "enriched_at": "2026-09-06T10:59:55.204800+00:00",
     "external_id": "/job/US-AZ-TUCSON-M13--3601-E-Britannia-Dr--BRITANNIA-M13/Manager--Contracts--Onsite-_01870801",
     "h1b_mentioned": false,
     "h1b_status": "unknown",
@@ -511812,7 +511812,7 @@
   },
   "workday:Thermo Fisher Scientific:/job/Carlsbad-California-USA/Sr-Inventory-Management-Specialist_R-01364750": {
     "company": "Thermo Fisher Scientific",
-    "enriched_at": "2026-08-30T05:34:08.355049+00:00",
+    "enriched_at": "2026-09-06T11:04:51.223695+00:00",
     "external_id": "/job/Carlsbad-California-USA/Sr-Inventory-Management-Specialist_R-01364750",
     "h1b_mentioned": false,
     "h1b_status": "unknown",
@@ -520042,10 +520042,10 @@
   },
   "workday:Thermo Fisher Scientific:/job/Madison-Wisconsin-USA/Sr-Staff-Program-Manager_R-01364521": {
     "company": "Thermo Fisher Scientific",
-    "enriched_at": "2026-08-30T05:34:08.376229+00:00",
+    "enriched_at": "2026-09-06T11:04:51.215197+00:00",
     "external_id": "/job/Madison-Wisconsin-USA/Sr-Staff-Program-Manager_R-01364521",
     "h1b_mentioned": false,
-    "h1b_status": "unknown",
+    "h1b_status": "does_not_support_h1b",
     "keywords": [
       "Excel",
       "risk management",
@@ -520058,7 +520058,7 @@
     "salary_text": "",
     "source": "workday",
     "source_updated_at": "",
-    "sponsorship_evidence": ""
+    "sponsorship_evidence": "to 15% travel required Must be legally authorized to work in the United States without sponsorship now or in the future."
   },
   "workday:Thermo Fisher Scientific:/job/Madison-Wisconsin-USA/Technical-Sourcing-Mechanical-Engineer-III_R-01348661": {
     "company": "Thermo Fisher Scientific",
@@ -530698,7 +530698,7 @@
   },
   "workday:Thermo Fisher Scientific:/job/San-Jose-California-USA/Sr-Manager--Electrical-Engineering_R-01363744": {
     "company": "Thermo Fisher Scientific",
-    "enriched_at": "2026-08-30T05:34:08.369338+00:00",
+    "enriched_at": "2026-09-06T11:04:51.239484+00:00",
     "external_id": "/job/San-Jose-California-USA/Sr-Manager--Electrical-Engineering_R-01363744",
     "h1b_mentioned": false,
     "h1b_status": "unknown",
