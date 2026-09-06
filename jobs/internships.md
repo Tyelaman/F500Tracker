@@ -1,12 +1,12 @@
 # F500Tracker internships
 
-Last updated: September 05, 2026 at 20:36 UTC
+Last updated: September 06, 2026 at 04:48 UTC
 
-Current internships: 344
+Current internships: 340
 
 ## Categories
 
-[Software & IT (16)](#software-it) · [Data & AI (10)](#data-ai) · [Engineering (25)](#engineering) · [Finance & Accounting (20)](#finance-accounting) · [Sales & Marketing (12)](#sales-marketing) · [Operations & Supply Chain (16)](#operations-supply-chain) · [People & Legal (6)](#people-legal) · [Other (239)](#other)
+[Software & IT (16)](#software-it) · [Data & AI (10)](#data-ai) · [Engineering (25)](#engineering) · [Finance & Accounting (18)](#finance-accounting) · [Sales & Marketing (12)](#sales-marketing) · [Operations & Supply Chain (16)](#operations-supply-chain) · [People & Legal (6)](#people-legal) · [Other (237)](#other)
 
 <a id="software-it"></a>
 
@@ -96,16 +96,14 @@ Open positions: 25
 
 ## Finance & Accounting
 
-Open positions: 20
+Open positions: 18
 
 | Rank | Company | Position | Location | Category | Salary | Keywords | Sponsorship | Apply |
 |---:|---|---|---|---|---|---|---|---|
-| 112 | Northrop Grumman | 2027 Financial Analyst Intern - McLean VA | United States-Virginia-McLean | Finance & Accounting | Not disclosed | analytics · Excel · accounting | Not specified | [Apply](https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-Virginia-McLean/XMLNAME-2027-Financial-Analyst-Intern---McLean-VA_R10249207) |
 | 8 | McKesson | Finance Leadership Program Intern - Summer 2027 | USA, TX, Irving | Finance & Accounting | Not disclosed | SQL · analytics · Excel · financial modeling · accounting | Not specified | [Apply](https://mckesson.wd3.myworkdayjobs.com/en-US/External_Careers/job/USA-TX-Irving/Finance-Leadership-Program-Intern---Summer-2027_JR0153101) |
 | 14 | Cigna Group | Internal Audit (SOX/SOC) Intern | Franklin, TN | Finance & Accounting | Not disclosed | accounting · audit · risk management · compliance | Not specified | [Apply](https://cigna.wd5.myworkdayjobs.com/en-US/cignacareers/job/Franklin-TN/Internal-Audit--SOX-SOC--Intern_26010366) |
 | 26 | Fannie Mae | Campus – Treasury & Capital Markets Program Intern (Markets Track) | Washington, DC | Finance & Accounting | Not disclosed | artificial intelligence · accounting · risk management | No sponsorship for this position | [Apply](https://fanniemae.wd1.myworkdayjobs.com/en-US/FannieMaeCareers/job/Washington-DC/Campus---Treasury---Capital-Markets-Program-Intern--Markets-Track-_JR2823-1) |
 | 26 | Fannie Mae | Campus – Treasury & Capital Markets Program Intern (Quantitative Research Track) | Washington, DC | Finance & Accounting | Not disclosed | Python · SQL · machine learning · artificial intelligence · data science | No sponsorship for this position | [Apply](https://fanniemae.wd1.myworkdayjobs.com/en-US/FannieMaeCareers/job/Washington-DC/Campus---Treasury---Capital-Markets-Program-Intern--Quantitative-Research-Track-_JR2872) |
-| 30 | Marathon Petroleum | Operations Tax Analyst (Intern to FT Conversion) | Findlay, Ohio | Finance & Accounting | Not disclosed | accounting · audit · tax · sales · human resources | Not specified | [Apply](https://mpc.wd1.myworkdayjobs.com/en-US/MPCCareers/job/Findlay-Ohio/Operations-Tax-Analyst--Intern-to-FT-Conversion-_00023995) |
 | 33 | Freddie Mac | Internal Audit Intern - Summer 2027 | McLean, VA | Finance & Accounting | Not disclosed | Python · SQL · artificial intelligence · analytics · accounting | Not specified | [Apply](https://freddiemac.wd5.myworkdayjobs.com/en-US/External/job/McLean-VA/Internal-Audit-Intern---Summer-2027_JR17565) |
 | 33 | Freddie Mac | Accounting and Finance Intern- Summer 2027 | McLean, VA | Finance & Accounting | Not disclosed | accounting | Not specified | [Apply](https://freddiemac.wd5.myworkdayjobs.com/en-US/External/job/McLean-VA/Accounting-and-Finance-Intern--Summer-2027_JR17543) |
 | 44 | Walt Disney | Finance Transformation Intern, Spring 2027 | Burbank, CA, USA | Finance & Accounting | $23/hr | data science · analytics · Excel · accounting | Not specified | [Apply](https://disney.wd5.myworkdayjobs.com/en-US/disneycareer/job/Burbank-CA-USA/Finance-Transformation-Intern--Spring-2027_10158970) |
@@ -194,7 +192,7 @@ Open positions: 6
 
 ## Other
 
-Open positions: 239
+Open positions: 237
 
 | Rank | Company | Position | Location | Category | Salary | Keywords | Sponsorship | Apply |
 |---:|---|---|---|---|---|---|---|---|
@@ -308,7 +306,6 @@ Open positions: 239
 | 45 | Johnson & Johnson | GTO Engineering Co-op | Raritan, New Jersey, United States of America | Other | $23.5/hr | Excel · mechanical engineering · supply chain · recruiting | Not specified | [Apply](https://jj.wd5.myworkdayjobs.com/en-US/JJ/job/Raritan-New-Jersey-United-States-of-America/GTO-Engineering-Co-op_R-095955-1) |
 | 45 | Johnson & Johnson | MedTech Surgery Analytical Characterization Intern | Raritan, New Jersey, United States of America | Other | $23.5/hr | — | Not specified | [Apply](https://jj.wd5.myworkdayjobs.com/en-US/JJ/job/Raritan-New-Jersey-United-States-of-America/MedTech-Surgery-Analytical-Characterization-Intern_R-094628) |
 | 45 | Johnson & Johnson | Synthetics External Planning Co-Op | Titusville, New Jersey, United States of America | Other | $23.5/hr | Excel · supply chain · recruiting | Not specified | [Apply](https://jj.wd5.myworkdayjobs.com/en-US/JJ/job/Titusville-New-Jersey-United-States-of-America/Synthetics-External-Planning-Co-Op_R-094089) |
-| 45 | Johnson & Johnson | DePuy Synthes Commercialized Product Development Co-Op Orthopedics | Warsaw, Indiana, United States of America | Other | Not disclosed | Excel · supply chain · recruiting · legal | Not specified | [Apply](https://jj.wd5.myworkdayjobs.com/en-US/JJ/job/Warsaw-Indiana-United-States-of-America/DePuy-Synthes-Commercialized-Product-Development-Co-Op-Orthopedics_R-093662) |
 | 45 | Johnson & Johnson | Spring 2027 Quality Engineering Co-op | Cornelia, Georgia, United States of America | Other | Not disclosed | mechanical engineering · recruiting | Not specified | [Apply](https://jj.wd5.myworkdayjobs.com/en-US/JJ/job/Cornelia-Georgia-United-States-of-America/Spring-2027-Quality-Engineering-Co-op_R-094937) |
 | 49 | RTX | Stage - Hiver 2027- Supervision proactive de la performance des moteurs - DPHM proactive / Internship - Winter 2027 - Proactive Engine Performance Monitoring – Proactive DPHM | CA-QC-LONGUEUIL-J01 ~ 1000 Blvd Marie-Victorin ~ J01 BLDG | Other | Not disclosed | Python · SQL · analytics · Excel | Not specified | [Apply](https://globalhr.wd5.myworkdayjobs.com/en-US/REC_RTX_Ext_Gateway/job/CA-QC-LONGUEUIL-J01--1000-Blvd-Marie-Victorin--J01-BLDG/Stage---Hiver-2027--Supervision-proactive-de-la-performance-des-moteurs---DPHM-proactive---Internship---Winter-2027---Proactive-Engine-Performance-Monitoring---Proactive-DPHM_01871323) |
 | 49 | RTX | Stage - Hiver 2027 - Service Numeriques pour les Moteurs - Support Client /  Internship – Winter 2027 Digital Engine Services (DES) Customer Support | CA-QC-LONGUEUIL-J01 ~ 1000 Blvd Marie-Victorin ~ J01 BLDG | Other | Not disclosed | Python · SQL · Excel | Not specified | [Apply](https://globalhr.wd5.myworkdayjobs.com/en-US/REC_RTX_Ext_Gateway/job/CA-QC-LONGUEUIL-J01--1000-Blvd-Marie-Victorin--J01-BLDG/Stage---Hiver-2027---Service-Numeriques-pour-les-Moteurs---Support-Client----Internship---Winter-2027-Digital-Engine-Services--DES--Customer-Support_01871315) |
@@ -434,8 +431,7 @@ Open positions: 239
 | 99 | Nike | NIKE, Inc. Air MI Engineering Undergraduate Internship | Beaverton, Oregon | Other | Not disclosed | — | Not specified | [Apply](https://nike.wd1.myworkdayjobs.com/en-US/nke/job/Beaverton-Oregon/NIKE--Inc-Air-MI-Engineering-Undergraduate-Internship_R-91417-1) |
 | 106 | Thermo Fisher Scientific | Engineering Co-Op | Hillsboro, Oregon, USA | Other | Not disclosed | — | Not specified | [Apply](https://thermofisher.wd5.myworkdayjobs.com/en-US/ThermoFisherCareers/job/Hillsboro-Oregon-USA/Winter-Engineering-Co-Op_R-01329364) |
 | 106 | Thermo Fisher Scientific | Engineering Co-Op | Greenville, North Carolina, USA | Other | Not disclosed | — | Not specified | [Apply](https://thermofisher.wd5.myworkdayjobs.com/en-US/ThermoFisherCareers/job/Greenville-North-Carolina-USA/Engineering-Co-Op_R-01328052) |
-| 133 | Hewlett Packard Enterprise | Pre-Silicon Diagnostics Intern | Ft. Collins, Colorado, United States of America | Other | Not disclosed | Python · Java · legal | Not specified | [Apply](https://hpe.wd5.myworkdayjobs.com/en-US/Jobsathpe/job/Ft-Collins-Colorado-United-States-of-America/Pre-Silicon-Diagnostics-Intern_1213394) |
+| 476 | Marvell Technology | Reliability Intern, BS - Summer 2027 | Santa Clara, CA | Other | Not disclosed | Excel | Not specified | [Apply](https://marvell.wd1.myworkdayjobs.com/en-US/MarvellCareers/job/Santa-Clara-CA/Reliability-Intern_2604001-1) |
 | 476 | Marvell Technology | Firmware Engineer Intern, MS - Summer 2027 | Santa Clara, CA | Other | Not disclosed | Python · electrical engineering | Not specified | [Apply](https://marvell.wd1.myworkdayjobs.com/en-US/MarvellCareers/job/Santa-Clara-CA/Firmware-Engineer-Intern--MS---Summer-2027_2604513) |
-| 476 | Marvell Technology | Reliability Intern | Santa Clara, CA | Other | Not disclosed | Excel | Not specified | [Apply](https://marvell.wd1.myworkdayjobs.com/en-US/MarvellCareers/job/Santa-Clara-CA/Reliability-Intern_2604001-1) |
 
 [Back to categories](#categories) · [Back to README](../README.md)
