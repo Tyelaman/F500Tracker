@@ -1,18 +1,18 @@
 # F500Tracker internships
 
-Last updated: September 07, 2026 at 04:50 UTC
+Last updated: September 07, 2026 at 12:42 UTC
 
-Current internships: 338
+Current internships: 334
 
 ## Categories
 
-[Software & IT (15)](#software-it) · [Data & AI (9)](#data-ai) · [Engineering (24)](#engineering) · [Finance & Accounting (18)](#finance-accounting) · [Sales & Marketing (12)](#sales-marketing) · [Operations & Supply Chain (17)](#operations-supply-chain) · [People & Legal (6)](#people-legal) · [Other (237)](#other)
+[Software & IT (14)](#software-it) · [Data & AI (9)](#data-ai) · [Engineering (24)](#engineering) · [Finance & Accounting (18)](#finance-accounting) · [Sales & Marketing (12)](#sales-marketing) · [Operations & Supply Chain (17)](#operations-supply-chain) · [People & Legal (6)](#people-legal) · [Other (234)](#other)
 
 <a id="software-it"></a>
 
 ## Software & IT
 
-Open positions: 15
+Open positions: 14
 
 | Rank | Company | Position | Location | Category | Salary | Keywords | Sponsorship | Apply |
 |---:|---|---|---|---|---|---|---|---|
@@ -28,7 +28,6 @@ Open positions: 15
 | 49 | RTX | Stage - Hiver 2027 - Soutien aux equipes HEP (hybrid-electric propulsion) Soutien aux publications techniques des moteurs avances / Internship - Winter 2027- HEP (Hybrid-Electric propulsion) Advanced Aerospace Engine Technical Publication Developer | CA-QC-LONGUEUIL-J01 ~ 1000 Blvd Marie-Victorin ~ J01 BLDG | Software & IT | Not disclosed | logistics | Not specified | [Apply](https://globalhr.wd5.myworkdayjobs.com/en-US/REC_RTX_Ext_Gateway/job/CA-QC-LONGUEUIL-J01--1000-Blvd-Marie-Victorin--J01-BLDG/Stage---Hiver-2027---Soutien-aux-equipes-HEP--hybrid-electric-propulsion--Soutien-aux-publications-techniques-des-moteurs-avances---Internship---Winter-2027--HEP--Hybrid-Electric-propulsion--Advanced-Aerospace-Engine-Technical-Publication-Developer_01865619) |
 | 49 | RTX | Software Engineering Co-op (Summer/Fall 2027) | US-IA-CEDAR RAPIDS-105 ~ 400 Collins Rd NE ~ BLDG 105 | Software & IT | Not disclosed | Python · compliance | Not specified | [Apply](https://globalhr.wd5.myworkdayjobs.com/en-US/REC_RTX_Ext_Gateway/job/US-IA-CEDAR-RAPIDS-105--400-Collins-Rd-NE--BLDG-105/Software-Engineering-Co-op--Summer-Fall-2027-_01870194) |
 | 49 | RTX | Software Engineering Co-op (Winter/Spring 2027) | US-IA-CEDAR RAPIDS-105 ~ 400 Collins Rd NE ~ BLDG 105 | Software & IT | Not disclosed | Python · compliance | Not specified | [Apply](https://globalhr.wd5.myworkdayjobs.com/en-US/REC_RTX_Ext_Gateway/job/US-IA-CEDAR-RAPIDS-105--400-Collins-Rd-NE--BLDG-105/Software-Engineering-Co-op--Winter-Spring-2027-_01870191) |
-| 49 | RTX | Software  Engineering Intern (Summer 2027) | US-IA-CEDAR RAPIDS-182 ~ 1100 Cimmie Ave Ne ~ BLDG 182 | Software & IT | Not disclosed | Python · Java · recruiting · compliance · contracts | Not specified | [Apply](https://globalhr.wd5.myworkdayjobs.com/en-US/REC_RTX_Ext_Gateway/job/US-IA-CEDAR-RAPIDS-182--1100-Cimmie-Ave-Ne--BLDG-182/Software--Engineering-Intern--Summer-2027-_01868432) |
 | 49 | RTX | Stage - Hiver 2027 - Développement Logiciel Avancé, Méthodes Numériques / Internship - Winter 2027 - Advanced Software Development, Numerical Methods | CA-QC-LONGUEUIL-J01 ~ 1000 Blvd Marie-Victorin ~ J01 BLDG | Software & IT | Not disclosed | Python · machine learning | Not specified | [Apply](https://globalhr.wd5.myworkdayjobs.com/en-US/REC_RTX_Ext_Gateway/job/CA-QC-LONGUEUIL-J01--1000-Blvd-Marie-Victorin--J01-BLDG/Stage---Hiver-2027---Dveloppement-Logiciel-Avanc--Mthodes-Numriques---Internship---Winter-2027---Advanced-Software-Development--Numerical-Methods_01871187) |
 | 99 | Nike | NIKE, Inc. Software Engineering Undergraduate Internship | Beaverton, Oregon | Software & IT | Not disclosed | Python · Java · C# · JavaScript · React | Not specified | [Apply](https://nike.wd1.myworkdayjobs.com/en-US/nke/job/Beaverton-Oregon/NIKE--Inc-Software-Engineering-Undergraduate-Internship_R-91111) |
 
@@ -190,7 +189,7 @@ Open positions: 6
 
 ## Other
 
-Open positions: 237
+Open positions: 234
 
 | Rank | Company | Position | Location | Category | Salary | Keywords | Sponsorship | Apply |
 |---:|---|---|---|---|---|---|---|---|
@@ -346,7 +345,6 @@ Open positions: 237
 | 49 | RTX | Stage - Hiver 2027 -  Gestionnaire de la clientèle  / Internship - Winter 2027 - Customer Manager | CA-QC-SAINT HUBERT-H05 ~ 7007 Chemin De La Savane ~ BLDG H05 FACTORY | Other | Not disclosed | supply chain · sales · contracts | Not specified | [Apply](https://globalhr.wd5.myworkdayjobs.com/en-US/REC_RTX_Ext_Gateway/job/CA-QC-SAINT-HUBERT-H05--7007-Chemin-De-La-Savane--BLDG-H05-FACTORY/Stage---Hiver-2027----Gestionnaire-de-la-clientle----Internship---Winter-2027---Customer-Manager_01869065) |
 | 49 | RTX | Internship - Winter 2027 - Environment, Health & Safety Co-Op Student | CA-ON-MISSISSAUGA-P22M01 ~ 1801 Courtney Park Dr ~ P22M01 BLDG | Other | Not disclosed | audit · CAD · supply chain · compliance | Not specified | [Apply](https://globalhr.wd5.myworkdayjobs.com/en-US/REC_RTX_Ext_Gateway/job/CA-ON-MISSISSAUGA-P22M01--1801-Courtney-Park-Dr--P22M01-BLDG/XMLNAME---Internship---Winter-2027---Environment--Health---Safety-Co-Op-Student_01866679) |
 | 49 | RTX | Stage - Hiver 2027 - Support aux Programmes des GAP / Internship - Winter 2027 - APU Programs Support | CA-QC-LONGUEUIL-J01 ~ 1000 Blvd Marie-Victorin ~ J01 BLDG | Other | Not disclosed | — | Not specified | [Apply](https://globalhr.wd5.myworkdayjobs.com/en-US/REC_RTX_Ext_Gateway/job/CA-QC-LONGUEUIL-J01--1000-Blvd-Marie-Victorin--J01-BLDG/Stage---Hiver-2027---Support-aux-Programmes-des-GAP---Internship---Winter-2027---APU-Programs-Support_01869035) |
-| 49 | RTX | Manufacturing Intern (Summer 2027) | US-MN-BURNSVILLE-WEST ~ 14300 Judicial Rd ~ WEST BLDG | Other | Not disclosed | compliance · contracts | Not specified | [Apply](https://globalhr.wd5.myworkdayjobs.com/en-US/REC_RTX_Ext_Gateway/job/US-MN-BURNSVILLE-WEST--14300-Judicial-Rd--WEST-BLDG/Manufacturing-Intern--Summer-2027-_01870939) |
 | 49 | RTX | Stage - Hiver 2027 - Génie manufacturier / Internship - Winter 2027 - Manufacturing Engineering | CA-QC-LONGUEUIL-J01 ~ 1000 Blvd Marie-Victorin ~ J01 BLDG | Other | Not disclosed | Excel · electrical engineering | Not specified | [Apply](https://globalhr.wd5.myworkdayjobs.com/en-US/REC_RTX_Ext_Gateway/job/CA-QC-LONGUEUIL-J01--1000-Blvd-Marie-Victorin--J01-BLDG/Stage---Hiver-2027---Gnie-manufacturier---Internship---Winter-2027---Manufacturing-Engineering_01871164) |
 | 49 | RTX | Intern: Commercial Engines Production Chief Organization (Summer 2027) | US-CT-EAST HARTFORD-OBG ~ 400 Main St ~ BLDG OBG | Other | Not disclosed | Excel · supply chain · compliance · contracts | Not specified | [Apply](https://globalhr.wd5.myworkdayjobs.com/en-US/REC_RTX_Ext_Gateway/job/US-CT-EAST-HARTFORD-OBG--400-Main-St--BLDG-OBG/Intern--Commercial-Engines-Production-Chief-Organization--Summer-2027-_01865852) |
 | 49 | RTX | Stage - Hiver 2027 - Analyste de processus d'affaires dans l’équipe Transformation et gouvernance PLM / Internship - Winter 2027 - PLM Businest Analyst Intern | CA-QC-SAINT HUBERT-H05 ~ 7007 Chemin De La Savane ~ BLDG H05 FACTORY | Other | Not disclosed | — | Not specified | [Apply](https://globalhr.wd5.myworkdayjobs.com/en-US/REC_RTX_Ext_Gateway/job/CA-QC-SAINT-HUBERT-H05--7007-Chemin-De-La-Savane--BLDG-H05-FACTORY/Stage---Hiver-2027---Analyste-de-processus-d-affaires-dans-l-quipe-Transformation-et-gouvernance-PLM---Internship---Winter-2027---PLM-Businest-Analyst-Intern_01865912) |
@@ -417,10 +415,8 @@ Open positions: 237
 | 49 | RTX | Internship Engineering (m/f/d) | DE-BW-HEIDELBERG-036-751 ~ Grenzhofer Weg 36 ~ BLDG 751 | Other | Not disclosed | — | Not specified | [Apply](https://globalhr.wd5.myworkdayjobs.com/en-US/REC_RTX_Ext_Gateway/job/DE-BW-HEIDELBERG-036-751--Grenzhofer-Weg-36--BLDG-751/Internship-Engineering--m-f-d-_01863601) |
 | 49 | RTX | SkillBridge Intern DoD – Information System Security Officer - Huntsville, AL | US-AL-HUNTSVILLE-401 ~ 401 Jan Davis Dr NW ~ JAN DAVIS 401 | Other | Not disclosed | audit · risk management · supply chain · compliance | Not specified | [Apply](https://globalhr.wd5.myworkdayjobs.com/en-US/REC_RTX_Ext_Gateway/job/US-AL-HUNTSVILLE-401--401-Jan-Davis-Dr-NW--JAN-DAVIS-401/SkillBridge-Intern-DoD---Information-System-Security-Officer---Huntsville--AL_01862186) |
 | 49 | RTX | Intern, Field Svc | CO-DC-BOGOTA-9A26-CUST ~ Cl. 95 #9A 26 ~ CL 95 (External Site) | Other | Not disclosed | — | Not specified | [Apply](https://globalhr.wd5.myworkdayjobs.com/en-US/REC_RTX_Ext_Gateway/job/CO-DC-BOGOTA-9A26-CUST--Cl-95-9A-26--CL-95-External-Site/Intern--Field-Svc_01802976) |
-| 55 | Sysco | Internship | Guest Worldwide - Somerset NJ | Other | Not disclosed | Excel · accounting · supply chain · sales · compliance | Not specified | [Apply](https://sysco.wd5.myworkdayjobs.com/en-US/syscocareers/job/Guest-Worldwide---Somerset-NJ/Internship_R266355) |
 | 78 | Prudential Financial | Prudential: 2027 Corporate, Risk Management Internship Program | Newark, NJ, USA | Other | Not disclosed | risk management | No sponsorship for this position | [Apply](https://pru.wd5.myworkdayjobs.com/en-US/Careers/job/Newark-NJ-USA/Prudential--2027-Corporate--Risk-Management-Internship-Program_R-124796) |
 | 78 | Prudential Financial | PGIM: 2027 Product and Institutional Client, Internship Program | Newark, NJ, USA | Other | Not disclosed | analytics · accounting · sales · compliance · legal | No sponsorship for this position | [Apply](https://pru.wd5.myworkdayjobs.com/en-US/Careers/job/Newark-NJ-USA/PGIM--2027-Product-and-Institutional-Client--Internship-Program_R-124910-1) |
-| 78 | Prudential Financial | Prudential: 2027 Corporate, Actuarial Internship Program (AIP) | Newark, NJ, USA | Other | Not disclosed | sales | No sponsorship for this position | [Apply](https://pru.wd5.myworkdayjobs.com/en-US/Careers/job/Newark-NJ-USA/Prudential--2027-Corporate--Actuarial-Internship-Program--AIP--_R-124791) |
 | 83 | Cisco Systems | Security Consulting Engineer I (Intern) - United States | RTP, North Carolina, US | Other | Not disclosed | Python · Java · Terraform · sales | Not specified | [Apply](https://cisco.wd5.myworkdayjobs.com/en-US/Cisco_Careers/job/RTP-North-Carolina-US/Security-Consulting-Engineer-I--Intern----United-States_2024817) |
 | 99 | Nike | NIKE, Inc. Strategic Planning Graduate Internship | Beaverton, Oregon | Other | Not disclosed | — | Not specified | [Apply](https://nike.wd1.myworkdayjobs.com/en-US/nke/job/Beaverton-Oregon/NIKE--Inc-Strategic-Planning-Graduate-Internship_R-91142) |
 | 99 | Nike | NIKE, Inc. Apparel Development, Technical Design, Undergraduate Internship | Beaverton, Oregon | Other | Not disclosed | CAD | Not specified | [Apply](https://nike.wd1.myworkdayjobs.com/en-US/nke/job/Beaverton-Oregon/NIKE--Inc-Apparel-Development--Technical-Design--Undergraduate-Internship_R-91227) |
