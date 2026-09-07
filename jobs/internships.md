@@ -1,18 +1,18 @@
 # F500Tracker internships
 
-Last updated: September 07, 2026 at 12:42 UTC
+Last updated: September 07, 2026 at 21:43 UTC
 
-Current internships: 334
+Current internships: 335
 
 ## Categories
 
-[Software & IT (14)](#software-it) · [Data & AI (9)](#data-ai) · [Engineering (24)](#engineering) · [Finance & Accounting (18)](#finance-accounting) · [Sales & Marketing (12)](#sales-marketing) · [Operations & Supply Chain (17)](#operations-supply-chain) · [People & Legal (6)](#people-legal) · [Other (234)](#other)
+[Software & IT (15)](#software-it) · [Data & AI (9)](#data-ai) · [Engineering (24)](#engineering) · [Finance & Accounting (18)](#finance-accounting) · [Sales & Marketing (12)](#sales-marketing) · [Operations & Supply Chain (17)](#operations-supply-chain) · [People & Legal (6)](#people-legal) · [Other (234)](#other)
 
 <a id="software-it"></a>
 
 ## Software & IT
 
-Open positions: 14
+Open positions: 15
 
 | Rank | Company | Position | Location | Category | Salary | Keywords | Sponsorship | Apply |
 |---:|---|---|---|---|---|---|---|---|
@@ -21,6 +21,7 @@ Open positions: 14
 | 112 | Northrop Grumman | 2027 Systems Engineer Intern - Redondo Beach CA | United States-California-Redondo Beach | Software & IT | $26.75–$32.5/hr | — | Not specified | [Apply](https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-California-Redondo-Beach/XMLNAME-2027-Systems-Engineer-Intern---Redondo-Beach-CA_R10249113) |
 | 112 | Northrop Grumman | 2027 Intern Software Engineer | United States-Florida-Melbourne | Software & IT | $18.5–$33.5/hr | — | Not specified | [Apply](https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-Florida-Melbourne/XMLNAME-2027-Intern-Software-Engineer_R10243573) |
 | 112 | Northrop Grumman | 2027 Intern Software Engineer | United States-Florida-Melbourne | Software & IT | Not disclosed | — | Not specified | [Apply](https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-Florida-Melbourne/XMLNAME-2027-Intern-Software-Engineer_R10242395) |
+| 84 | HP | Software Product Security Engineer Intern | Spring, Texas, United States of America | Software & IT | $35–$40/hr | Python · Java · C# · TypeScript · AWS | Not specified | [Apply](https://hp.wd5.myworkdayjobs.com/en-US/ExternalCareerSite/job/Spring-Texas-United-States-of-America/Software-Product-Security-Engineer-Intern_UNI4740-1) |
 | 33 | Freddie Mac | Multifamily Software Development Intern – Summer 2027 | McLean, VA | Software & IT | Not disclosed | Java · AWS | Not specified | [Apply](https://freddiemac.wd5.myworkdayjobs.com/en-US/External/job/McLean-VA/Multifamily-Software-Development-Intern---Summer-2027_JR17564) |
 | 33 | Freddie Mac | Single-Family Software Developer Intern- Summer 2027 | McLean, VA | Software & IT | Not disclosed | Python · Java · analytics | Not specified | [Apply](https://freddiemac.wd5.myworkdayjobs.com/en-US/External/job/McLean-VA/Single-Family-Software-Developer-Intern--Summer-2027_JR17544) |
 | 45 | Johnson & Johnson | Software Engineering Co-Op. Summer 2027 | Cincinnati, Ohio, United States of America | Software & IT | $23.5/hr | Python · recruiting | Not specified | [Apply](https://jj.wd5.myworkdayjobs.com/en-US/JJ/job/Cincinnati-Ohio-United-States-of-America/Software-Engineering-Co-Op-Summer-2027_R-096743) |
@@ -279,6 +280,7 @@ Open positions: 234
 | 44 | Walt Disney | WDI Project Controls Estimating Intern, Spring 2027 | Glendale, CA, USA | Other | $31/hr | Excel | Not specified | [Apply](https://disney.wd5.myworkdayjobs.com/en-US/disneycareer/job/Glendale-CA-USA/WDI-Project-Controls-Estimating-Intern--Spring-2027_10159492) |
 | 44 | Walt Disney | WDI Construction Management Intern, Spring 2027 | Lake Buena Vista, FL, USA | Other | $31/hr | Excel | Not specified | [Apply](https://disney.wd5.myworkdayjobs.com/en-US/disneycareer/job/Lake-Buena-Vista-FL-USA/WDI-Construction-Management-Intern--Spring-2027_10158251) |
 | 44 | Walt Disney | WDI Project Controls Planning Intern, Spring 2027 | Lake Buena Vista, FL, USA | Other | $31/hr | analytics | Not specified | [Apply](https://disney.wd5.myworkdayjobs.com/en-US/disneycareer/job/Lake-Buena-Vista-FL-USA/WDI-Project-Controls-Planning-Intern--Spring-2027_10158254) |
+| 45 | Johnson & Johnson | Athens Manufacturing Plant 2027 Co-Op | Athens, Georgia, United States of America | Other | Not disclosed | supply chain · recruiting · compliance | Not specified | [Apply](https://jj.wd5.myworkdayjobs.com/en-US/JJ/job/Athens-Georgia-United-States-of-America/Athens-Manufacturing-Plant-2027-Co-Op_R-097654-1) |
 | 45 | Johnson & Johnson | Wound Closure R&D Summer 2027 Intern | Raritan, New Jersey, United States of America | Other | $23.5/hr | Excel · mechanical engineering · SolidWorks · recruiting · legal | Not specified | [Apply](https://jj.wd5.myworkdayjobs.com/en-US/JJ/job/Raritan-New-Jersey-United-States-of-America/Wound-Closure-R-D-Summer-2027-Intern_R-097211) |
 | 45 | Johnson & Johnson | Production Planning Co-Op Spring 2027 | Warsaw, Indiana, United States of America | Other | Not disclosed | Excel · supply chain · recruiting · compliance · legal | Not specified | [Apply](https://jj.wd5.myworkdayjobs.com/en-US/JJ/job/Warsaw-Indiana-United-States-of-America/Production-Planning-Co-Op-Spring-2027_R-096903) |
 | 45 | Johnson & Johnson | DePuy Synthes R&D Lab Co-op Orthopedics | Warsaw, Indiana, United States of America | Other | Not disclosed | mechanical engineering | Not specified | [Apply](https://jj.wd5.myworkdayjobs.com/en-US/JJ/job/Warsaw-Indiana-United-States-of-America/DePuy-Synthes-R-D-Lab-Co-op-Orthopedics_R-094145-1) |
@@ -416,7 +418,6 @@ Open positions: 234
 | 49 | RTX | SkillBridge Intern DoD – Information System Security Officer - Huntsville, AL | US-AL-HUNTSVILLE-401 ~ 401 Jan Davis Dr NW ~ JAN DAVIS 401 | Other | Not disclosed | audit · risk management · supply chain · compliance | Not specified | [Apply](https://globalhr.wd5.myworkdayjobs.com/en-US/REC_RTX_Ext_Gateway/job/US-AL-HUNTSVILLE-401--401-Jan-Davis-Dr-NW--JAN-DAVIS-401/SkillBridge-Intern-DoD---Information-System-Security-Officer---Huntsville--AL_01862186) |
 | 49 | RTX | Intern, Field Svc | CO-DC-BOGOTA-9A26-CUST ~ Cl. 95 #9A 26 ~ CL 95 (External Site) | Other | Not disclosed | — | Not specified | [Apply](https://globalhr.wd5.myworkdayjobs.com/en-US/REC_RTX_Ext_Gateway/job/CO-DC-BOGOTA-9A26-CUST--Cl-95-9A-26--CL-95-External-Site/Intern--Field-Svc_01802976) |
 | 78 | Prudential Financial | Prudential: 2027 Corporate, Risk Management Internship Program | Newark, NJ, USA | Other | Not disclosed | risk management | No sponsorship for this position | [Apply](https://pru.wd5.myworkdayjobs.com/en-US/Careers/job/Newark-NJ-USA/Prudential--2027-Corporate--Risk-Management-Internship-Program_R-124796) |
-| 78 | Prudential Financial | PGIM: 2027 Product and Institutional Client, Internship Program | Newark, NJ, USA | Other | Not disclosed | analytics · accounting · sales · compliance · legal | No sponsorship for this position | [Apply](https://pru.wd5.myworkdayjobs.com/en-US/Careers/job/Newark-NJ-USA/PGIM--2027-Product-and-Institutional-Client--Internship-Program_R-124910-1) |
 | 83 | Cisco Systems | Security Consulting Engineer I (Intern) - United States | RTP, North Carolina, US | Other | Not disclosed | Python · Java · Terraform · sales | Not specified | [Apply](https://cisco.wd5.myworkdayjobs.com/en-US/Cisco_Careers/job/RTP-North-Carolina-US/Security-Consulting-Engineer-I--Intern----United-States_2024817) |
 | 99 | Nike | NIKE, Inc. Strategic Planning Graduate Internship | Beaverton, Oregon | Other | Not disclosed | — | Not specified | [Apply](https://nike.wd1.myworkdayjobs.com/en-US/nke/job/Beaverton-Oregon/NIKE--Inc-Strategic-Planning-Graduate-Internship_R-91142) |
 | 99 | Nike | NIKE, Inc. Apparel Development, Technical Design, Undergraduate Internship | Beaverton, Oregon | Other | Not disclosed | CAD | Not specified | [Apply](https://nike.wd1.myworkdayjobs.com/en-US/nke/job/Beaverton-Oregon/NIKE--Inc-Apparel-Development--Technical-Design--Undergraduate-Internship_R-91227) |
