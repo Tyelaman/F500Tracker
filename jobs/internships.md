@@ -1,12 +1,12 @@
 # F500Tracker internships
 
-Last updated: September 09, 2026 at 04:52 UTC
+Last updated: September 09, 2026 at 11:34 UTC
 
-Current internships: 398
+Current internships: 397
 
 ## Categories
 
-[Software & IT (24)](#software-it) · [Data & AI (10)](#data-ai) · [Engineering (34)](#engineering) · [Finance & Accounting (18)](#finance-accounting) · [Sales & Marketing (15)](#sales-marketing) · [Operations & Supply Chain (18)](#operations-supply-chain) · [People & Legal (7)](#people-legal) · [Other (272)](#other)
+[Software & IT (24)](#software-it) · [Data & AI (10)](#data-ai) · [Engineering (33)](#engineering) · [Finance & Accounting (17)](#finance-accounting) · [Sales & Marketing (16)](#sales-marketing) · [Operations & Supply Chain (19)](#operations-supply-chain) · [People & Legal (7)](#people-legal) · [Other (271)](#other)
 
 <a id="software-it"></a>
 
@@ -68,7 +68,7 @@ Open positions: 10
 
 ## Engineering
 
-Open positions: 34
+Open positions: 33
 
 | Rank | Company | Position | Location | Category | Salary | Keywords | Sponsorship | Apply |
 |---:|---|---|---|---|---|---|---|---|
@@ -87,7 +87,6 @@ Open positions: 34
 | 49 | RTX | FPGA Electrical Design Engineer Intern (Summer 2027)(Onsite) | US-AZ-TUCSON-M02 ~ 1151 E Hermans Rd ~ BLDG M02 | Engineering | Not disclosed | Python · compliance | Not specified | [Apply](https://globalhr.wd5.myworkdayjobs.com/en-US/REC_RTX_Ext_Gateway/job/US-AZ-TUCSON-M02--1151-E-Hermans-Rd--BLDG-M02/FPGA-Electrical-Design-Engineer-Intern--Summer-2027--Onsite-_01872989) |
 | 49 | RTX | Digital Design Electrical Engineer Intern (Summer 2027)(Onsite) | US-AZ-TUCSON-M02 ~ 1151 E Hermans Rd ~ BLDG M02 | Engineering | Not disclosed | compliance | Not specified | [Apply](https://globalhr.wd5.myworkdayjobs.com/en-US/REC_RTX_Ext_Gateway/job/US-AZ-TUCSON-M02--1151-E-Hermans-Rd--BLDG-M02/Digital-Design-Electrical-Engineer-Intern--Summer-2027--Onsite-_01872991) |
 | 49 | RTX | Mechanical Design Intern (Summer 2027) (Onsite) | US-ME-NORTH BERWICK-113 ~ 113 Wells St ~ WELLS, Rte 9 | Engineering | Not disclosed | CAD · SolidWorks · compliance · contracts | Not specified | [Apply](https://globalhr.wd5.myworkdayjobs.com/en-US/REC_RTX_Ext_Gateway/job/US-ME-NORTH-BERWICK-113--113-Wells-St--WELLS-Rte-9/Mechanical-Design-Intern--Summer-2027---Onsite-_01864899) |
-| 49 | RTX | Chemical/Materials Engineering Co-op (Summer/Fall 2027) | US-IL-ROCKFORD-P6 ~ 4747 Harrison Ave ~ 4747 HARRISON AVE-P6 | Engineering | Not disclosed | compliance | Not specified | [Apply](https://globalhr.wd5.myworkdayjobs.com/en-US/REC_RTX_Ext_Gateway/job/US-IL-ROCKFORD-P6--4747-Harrison-Ave--4747-HARRISON-AVE-P6/Chemical-Materials-Engineering-Co-op--Summer-Fall-2027-_01865126) |
 | 49 | RTX | Internship - Winter 2027 - Aerospace Manufacturing & Continuous Improvement Projects (Industrial/Mechanical Engineering) | CA-NS-HALIFAX-PLANT 41 ~ 189 Pratt & Whitney Dr ~ PLANT 41 | Engineering | Not disclosed | mechanical engineering · CAD | Not specified | [Apply](https://globalhr.wd5.myworkdayjobs.com/en-US/REC_RTX_Ext_Gateway/job/CA-NS-HALIFAX-PLANT-41--189-Pratt--Whitney-Dr--PLANT-41/Internship---Winter-2027---Aerospace-Manufacturing---Continuous-Improvement-Projects--Industrial-Mechanical-Engineering-_01871198) |
 | 49 | RTX | Stage - Hiver 2027- Stagiaire en technologies chimiques / Internship - Winter 2027- Intern in Chemical Technology and Process | CA-QC-LONGUEUIL-J01 ~ 1000 Blvd Marie-Victorin ~ J01 BLDG | Engineering | Not disclosed | — | Not specified | [Apply](https://globalhr.wd5.myworkdayjobs.com/en-US/REC_RTX_Ext_Gateway/job/CA-QC-LONGUEUIL-J01--1000-Blvd-Marie-Victorin--J01-BLDG/Stage---Hiver-2027--Stagiaire-en-technologies-chimiques---Internship---Winter-2027--Intern-in-Chemical-Technology-and-Process_01867640) |
 | 49 | RTX | Stage - Hiver 2027 - Génie mécanique – Installations d’essais / Internship - Winter 2027 - Mechanical Engineering – Test Facilities | CA-QC-LONGUEUIL-J01 ~ 1000 Blvd Marie-Victorin ~ J01 BLDG | Engineering | Not disclosed | mechanical engineering | Not specified | [Apply](https://globalhr.wd5.myworkdayjobs.com/en-US/REC_RTX_Ext_Gateway/job/CA-QC-LONGUEUIL-J01--1000-Blvd-Marie-Victorin--J01-BLDG/Stage---Hiver-2027---Gnie-mcanique---Installations-d-essais---Internship---Winter-2027---Mechanical-Engineering---Test-Facilities_01872695) |
@@ -113,7 +112,7 @@ Open positions: 34
 
 ## Finance & Accounting
 
-Open positions: 18
+Open positions: 17
 
 | Rank | Company | Position | Location | Category | Salary | Keywords | Sponsorship | Apply |
 |---:|---|---|---|---|---|---|---|---|
@@ -122,7 +121,6 @@ Open positions: 18
 | 26 | Fannie Mae | Campus – Treasury & Capital Markets Program Intern (Quantitative Research Track) | Washington, DC | Finance & Accounting | Not disclosed | Python · SQL · machine learning · artificial intelligence · data science | No sponsorship for this position | [Apply](https://fanniemae.wd1.myworkdayjobs.com/en-US/FannieMaeCareers/job/Washington-DC/Campus---Treasury---Capital-Markets-Program-Intern--Quantitative-Research-Track-_JR2872) |
 | 33 | Freddie Mac | Internal Audit Intern - Summer 2027 | McLean, VA | Finance & Accounting | Not disclosed | Python · SQL · artificial intelligence · analytics · accounting | Not specified | [Apply](https://freddiemac.wd5.myworkdayjobs.com/en-US/External/job/McLean-VA/Internal-Audit-Intern---Summer-2027_JR17565) |
 | 33 | Freddie Mac | Accounting and Finance Intern- Summer 2027 | McLean, VA | Finance & Accounting | Not disclosed | accounting | Not specified | [Apply](https://freddiemac.wd5.myworkdayjobs.com/en-US/External/job/McLean-VA/Accounting-and-Finance-Intern--Summer-2027_JR17543) |
-| 44 | Walt Disney | Finance Transformation Intern, Spring 2027 | Burbank, CA, USA | Finance & Accounting | $23/hr | data science · analytics · Excel · accounting | Not specified | [Apply](https://disney.wd5.myworkdayjobs.com/en-US/disneycareer/job/Burbank-CA-USA/Finance-Transformation-Intern--Spring-2027_10158970) |
 | 45 | Johnson & Johnson | Summer 2027 Finance Internship – El Paso, TX/Juarez, MX | El Paso, Texas, United States of America | Finance & Accounting | $26/hr | analytics · Excel · accounting · supply chain · legal | Not specified | [Apply](https://jj.wd5.myworkdayjobs.com/en-US/JJ/job/El-Paso-Texas-United-States-of-America/Summer-2027-Finance-Internship---El-Paso--TX-Juarez--MX_R-095343) |
 | 49 | RTX | Stage - Hiver 2027 - Finance chaîne d'approvisionnement / Internship - Winter 2027 - Supply Chain Finance | CA-QC-LONGUEUIL-J01 ~ 1000 Blvd Marie-Victorin ~ J01 BLDG | Finance & Accounting | Not disclosed | Excel · accounting · audit · supply chain | Not specified | [Apply](https://globalhr.wd5.myworkdayjobs.com/en-US/REC_RTX_Ext_Gateway/job/CA-QC-LONGUEUIL-J01--1000-Blvd-Marie-Victorin--J01-BLDG/Stage---Hiver-2027---Finance-chane-d-approvisionnement---Internship---Winter-2027---Supply-Chain-Finance_01868444) |
 | 49 | RTX | Stage - Hiver 2027 - Finance chaîne d'approvisionnement / Internship - Winter 2027 - Supply Chain Finance | CA-QC-LONGUEUIL-J01 ~ 1000 Blvd Marie-Victorin ~ J01 BLDG | Finance & Accounting | Not disclosed | Excel · accounting · audit · supply chain | Not specified | [Apply](https://globalhr.wd5.myworkdayjobs.com/en-US/REC_RTX_Ext_Gateway/job/CA-QC-LONGUEUIL-J01--1000-Blvd-Marie-Victorin--J01-BLDG/Stage---Hiver-2027---Finance-chane-d-approvisionnement---Internship---Winter-2027---Supply-Chain-Accounting_01866893) |
@@ -142,7 +140,7 @@ Open positions: 18
 
 ## Sales & Marketing
 
-Open positions: 15
+Open positions: 16
 
 | Rank | Company | Position | Location | Category | Salary | Keywords | Sponsorship | Apply |
 |---:|---|---|---|---|---|---|---|---|
@@ -152,6 +150,7 @@ Open positions: 15
 | 125 | Micron Technology | Intern - CDBU Marketing | San Jose, CA | Sales & Marketing | Not disclosed | artificial intelligence · electrical engineering · sales | Not specified | [Apply](https://micron.wd1.myworkdayjobs.com/en-US/External/job/San-Jose-CA/Intern---CDBU-Marketing_JR109697) |
 | 23 | General Motors | 2027 Summer Intern - Sales Intern | Warren, Michigan, United States of America | Sales & Marketing | Not disclosed | sales | Not specified | [Apply](https://generalmotors.wd5.myworkdayjobs.com/en-US/Careers_GM/job/Warren-Michigan-United-States-of-America/XMLNAME-2027-Summer-Intern---Sales-Intern_JR-202619694) |
 | 23 | General Motors | 2027 Summer Intern - GM Fleet Marketing and Sales Enablement Intern | Warren, Michigan, United States of America | Sales & Marketing | Not disclosed | Excel · sales | Not specified | [Apply](https://generalmotors.wd5.myworkdayjobs.com/en-US/Careers_GM/job/Warren-Michigan-United-States-of-America/XMLNAME-2027-Summer-Intern---GM-Fleet-Marketing-and-Sales-Enablement-Intern_JR-202618044) |
+| 44 | Walt Disney | Sales Strategy & Integration Intern, Spring 2027 | Celebration, FL, USA | Sales & Marketing | $23/hr | Excel · sales · legal | Not specified | [Apply](https://disney.wd5.myworkdayjobs.com/en-US/disneycareer/job/Celebration-FL-USA/Sales-Strategy---Integration-Intern--Spring-2027_10157969-1) |
 | 44 | Walt Disney | Walt Disney World Executive Communications & Public Affairs Intern, Spring 2027 | Lake Buena Vista, FL, USA | Sales & Marketing | $23/hr | — | Not specified | [Apply](https://disney.wd5.myworkdayjobs.com/en-US/disneycareer/job/Lake-Buena-Vista-FL-USA/Walt-Disney-World-Executive-Communications---Public-Affairs-Intern--Spring-2027_10158922) |
 | 44 | Walt Disney | Sales & Marketing Strategy Intern, Latin America Trade Market, Spring 2027 | Celebration, FL, USA | Sales & Marketing | $22.5/hr | analytics · Excel · logistics · sales | Not specified | [Apply](https://disney.wd5.myworkdayjobs.com/en-US/disneycareer/job/Celebration-FL-USA/Sales---Marketing-Strategy-Intern--Latin-America-Trade-Market--Spring-2027_10155823-1) |
 | 44 | Walt Disney | Marketing Strategy Intern, Latin America Consumer Direct, Spring 2027 | Celebration, FL, USA | Sales & Marketing | $22.5/hr | Excel · sales | Not specified | [Apply](https://disney.wd5.myworkdayjobs.com/en-US/disneycareer/job/Celebration-FL-USA/Marketing-Strategy-Intern--Latin-America-Consumer-Direct--Spring-2027_10156539) |
@@ -168,10 +167,11 @@ Open positions: 15
 
 ## Operations & Supply Chain
 
-Open positions: 18
+Open positions: 19
 
 | Rank | Company | Position | Location | Category | Salary | Keywords | Sponsorship | Apply |
 |---:|---|---|---|---|---|---|---|---|
+| 125 | Micron Technology | Intern - Automation, Operations Improvement | Boise, ID - ID1 | Operations & Supply Chain | Not disclosed | Python · C# · SQL · data science · Excel | Not specified | [Apply](https://micron.wd1.myworkdayjobs.com/en-US/External/job/Boise-ID---ID1/Intern---Automation--Operations-Improvement_JR110774) |
 | 45 | Johnson & Johnson | Supply Chain Data Management Co-Op | New Brunswick, New Jersey, United States of America | Operations & Supply Chain | $23.5/hr | SQL · Excel · supply chain · compliance · contracts | Not specified | [Apply](https://jj.wd5.myworkdayjobs.com/en-US/JJ/job/New-Brunswick-New-Jersey-United-States-of-America/Supply-Chain-Data-Management-Co-Op_R-096999) |
 | 45 | Johnson & Johnson | Supply Chain Operations Co-Op | Santa Clara, California, United States of America | Operations & Supply Chain | $27/hr | Excel · mechanical engineering · electrical engineering · CAD · SolidWorks | Not specified | [Apply](https://jj.wd5.myworkdayjobs.com/en-US/JJ/job/Santa-Clara-California-United-States-of-America/Supply-Chain-Operations-Co-Op_R-095767) |
 | 45 | Johnson & Johnson | Electrophysiology Supply Chain (Business) Intern | Irvine, California, United States of America | Operations & Supply Chain | $23.5/hr | Excel · supply chain | Not specified | [Apply](https://jj.wd5.myworkdayjobs.com/en-US/JJ/job/Irvine-California-United-States-of-America/Electrophysiology-Supply-Chain-Intern_R-094580-1) |
@@ -215,7 +215,7 @@ Open positions: 7
 
 ## Other
 
-Open positions: 272
+Open positions: 271
 
 | Rank | Company | Position | Location | Category | Salary | Keywords | Sponsorship | Apply |
 |---:|---|---|---|---|---|---|---|---|
@@ -229,7 +229,6 @@ Open positions: 272
 | 112 | Northrop Grumman | Intern Business Management | United States-Florida-Melbourne | Other | $16.5–$30/hr | accounting | Not specified | [Apply](https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-Florida-Melbourne/Intern-Business-Management_R10248690) |
 | 112 | Northrop Grumman | Intern Business Management | United States-Florida-Melbourne | Other | $16.5–$30/hr | accounting | Not specified | [Apply](https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-Florida-Melbourne/Intern-Business-Management_R10248698) |
 | 112 | Northrop Grumman | 2026 Part-Time Cyber Security Engineering Intern - Aurora CO | United States-Colorado-Aurora | Other | $20.5–$38/hr | mechanical engineering | Not specified | [Apply](https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-Colorado-Aurora/XMLNAME-2026-Part-Time-Cyber-Security-Engineering-Intern---Aurora-CO_R10248520) |
-| 112 | Northrop Grumman | 2027 Business Management Intern - Sunnyvale CA | United States-California-Sunnyvale | Other | $19.25–$34.75/hr | accounting · risk management · supply chain · legal · contracts | Not specified | [Apply](https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-California-Sunnyvale/XMLNAME-2027-Business-Management-Intern---Sunnyvale-CA_R10248163-1) |
 | 47 | Boeing | Boeing Engineering & Technology Innovation Graduate Researcher Program, Aerodynamics Intern | USA - Huntington Beach, CA | Other | Not disclosed | Excel · compliance | No sponsorship for this position | [Apply](https://boeing.wd1.myworkdayjobs.com/en-US/EXTERNAL_CAREERS/job/USA---Huntington-Beach-CA/Boeing-Engineering---Technology-Innovation-Graduate-Researcher-Program--Aerodynamics-Intern_JR2026523782) |
 | 47 | Boeing | Boeing Engineering & Technology Innovation, Graduate Researcher Program –  Computational Fluid Dynamics Intern | USA - Huntington Beach, CA | Other | Not disclosed | Excel · mechanical engineering · compliance | No sponsorship for this position | [Apply](https://boeing.wd1.myworkdayjobs.com/en-US/EXTERNAL_CAREERS/job/USA---Huntington-Beach-CA/Boeing-Engineering---Technology-Innovation--Graduate-Researcher-Program----Computational-Fluid-Dynamics-Intern_JR2026523774) |
 | 47 | Boeing | Boeing Engineering & Technology Innovation Graduate Researcher Program, Computational Fluid Dynamics (CFD) Intern | USA - Hazelwood, MO | Other | Not disclosed | Excel · mechanical engineering · compliance | No sponsorship for this position | [Apply](https://boeing.wd1.myworkdayjobs.com/en-US/EXTERNAL_CAREERS/job/USA---Hazelwood-MO/Boeing-Engineering---Technology-Innovation-Graduate-Researcher-Program--Computational-Fluid-Dynamics--CFD--Intern_JR2026523768) |
