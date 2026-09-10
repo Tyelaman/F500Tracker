@@ -1,18 +1,18 @@
 # F500Tracker internships
 
-Last updated: September 10, 2026 at 04:54 UTC
+Last updated: September 10, 2026 at 11:30 UTC
 
-Current internships: 419
+Current internships: 417
 
 ## Categories
 
-[Software & IT (30)](#software-it) · [Data & AI (9)](#data-ai) · [Engineering (37)](#engineering) · [Finance & Accounting (15)](#finance-accounting) · [Sales & Marketing (15)](#sales-marketing) · [Operations & Supply Chain (19)](#operations-supply-chain) · [People & Legal (8)](#people-legal) · [Other (286)](#other)
+[Software & IT (29)](#software-it) · [Data & AI (9)](#data-ai) · [Engineering (37)](#engineering) · [Finance & Accounting (15)](#finance-accounting) · [Sales & Marketing (15)](#sales-marketing) · [Operations & Supply Chain (19)](#operations-supply-chain) · [People & Legal (8)](#people-legal) · [Other (285)](#other)
 
 <a id="software-it"></a>
 
 ## Software & IT
 
-Open positions: 30
+Open positions: 29
 
 | Rank | Company | Position | Location | Category | Salary | Keywords | Sponsorship | Apply |
 |---:|---|---|---|---|---|---|---|---|
@@ -20,7 +20,6 @@ Open positions: 30
 | 112 | Northrop Grumman | 2027  Systems Engineer Intern - Colorado Springs CO | United States-Colorado-Colorado Springs | Software & IT | $24.25–$29.5/hr | mechanical engineering | Not specified | [Apply](https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-Colorado-Colorado-Springs/XMLNAME-2027--Systems-Engineer-Intern---Colorado-Springs-CO_R10249777) |
 | 112 | Northrop Grumman | 2027 Intern Software Engineer | United States-Florida-Melbourne | Software & IT | $18.5–$33.5/hr | — | Not specified | [Apply](https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-Florida-Melbourne/XMLNAME-2027-Intern-Software-Engineer_R10243573) |
 | 112 | Northrop Grumman | 2027 Intern Software Engineer | United States-Florida-Melbourne | Software & IT | Not disclosed | — | Not specified | [Apply](https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-Florida-Melbourne/XMLNAME-2027-Intern-Software-Engineer_R10242395) |
-| 88 | Intel | Software Research Engineering - (PhD Intern) | US, Oregon, Hillsboro | Software & IT | Not disclosed | Python · SQL · analytics · compliance | Not specified | [Apply](https://intel.wd1.myworkdayjobs.com/en-US/External/job/US-Oregon-Hillsboro/Software-Research-Engineering----PhD-Intern-_JR0287019) |
 | 125 | Micron Technology | Intern - Software Engineer | Boise, ID - Main Site | Software & IT | Not disclosed | Python · C# · JavaScript · SQL · Azure | Not specified | [Apply](https://micron.wd1.myworkdayjobs.com/en-US/External/job/Boise-ID---Main-Site/Intern---Software-Engineer_JR108550) |
 | 33 | Freddie Mac | Multifamily Software Development Intern – Summer 2027 | McLean, VA | Software & IT | Not disclosed | Java · AWS | Not specified | [Apply](https://freddiemac.wd5.myworkdayjobs.com/en-US/External/job/McLean-VA/Multifamily-Software-Development-Intern---Summer-2027_JR17564) |
 | 33 | Freddie Mac | Single-Family Software Developer Intern- Summer 2027 | McLean, VA | Software & IT | Not disclosed | Python · Java · analytics | Not specified | [Apply](https://freddiemac.wd5.myworkdayjobs.com/en-US/External/job/McLean-VA/Single-Family-Software-Developer-Intern--Summer-2027_JR17544) |
@@ -222,7 +221,7 @@ Open positions: 8
 
 ## Other
 
-Open positions: 286
+Open positions: 285
 
 | Rank | Company | Position | Location | Category | Salary | Keywords | Sponsorship | Apply |
 |---:|---|---|---|---|---|---|---|---|
@@ -237,7 +236,6 @@ Open positions: 286
 | 112 | Northrop Grumman | Intern Business Management | United States-Florida-Melbourne | Other | $16.5–$30/hr | accounting | Not specified | [Apply](https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-Florida-Melbourne/Intern-Business-Management_R10248690) |
 | 112 | Northrop Grumman | Intern Business Management | United States-Florida-Melbourne | Other | $16.5–$30/hr | accounting | Not specified | [Apply](https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-Florida-Melbourne/Intern-Business-Management_R10248698) |
 | 112 | Northrop Grumman | 2026 Part-Time Cyber Security Engineering Intern - Aurora CO | United States-Colorado-Aurora | Other | $20.5–$38/hr | mechanical engineering | Not specified | [Apply](https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-Colorado-Aurora/XMLNAME-2026-Part-Time-Cyber-Security-Engineering-Intern---Aurora-CO_R10248520) |
-| 88 | Intel | Module Engineering PhD Intern 2027 | US, Oregon, Hillsboro | Other | Not disclosed | Python · SQL · analytics · Excel · electrical engineering | Not specified | [Apply](https://intel.wd1.myworkdayjobs.com/en-US/External/job/US-Oregon-Hillsboro/Module-Engineering-PhD-Intern-2027_JR0286876) |
 | 125 | Micron Technology | Intern - DRAM Customer Enablement Engineering | Boise, ID - Main Site | Other | Not disclosed | Python · SQL · data science · electrical engineering | Not specified | [Apply](https://micron.wd1.myworkdayjobs.com/en-US/External/job/Boise-ID---Main-Site/Intern---DRAM-Customer-Enablement-Engineering_JR106521) |
 | 125 | Micron Technology | Intern - DRAM Customer Enablement Engineering | Boise, ID - Main Site | Other | Not disclosed | Python · SQL · data science · analytics · electrical engineering | Not specified | [Apply](https://micron.wd1.myworkdayjobs.com/en-US/External/job/Boise-ID---Main-Site/Intern---DRAM-Customer-Enablement-Engineering_JR107740) |
 | 125 | Micron Technology | Intern - Photomask Sustaining Engineering | Boise, ID - Main Site | Other | Not disclosed | Python · SQL · machine learning · artificial intelligence · data science | Not specified | [Apply](https://micron.wd1.myworkdayjobs.com/en-US/External/job/Boise-ID---Main-Site/Intern---Photomask-Sustaining-Engineering_JR108456) |
