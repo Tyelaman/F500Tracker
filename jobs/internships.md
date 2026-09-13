@@ -1,12 +1,12 @@
 # F500Tracker internships
 
-Last updated: September 13, 2026 at 16:25 UTC
+Last updated: September 13, 2026 at 20:59 UTC
 
-Current internships: 422
+Current internships: 426
 
 ## Categories
 
-[Software & IT (38)](#software-it) · [Data & AI (9)](#data-ai) · [Engineering (31)](#engineering) · [Finance & Accounting (16)](#finance-accounting) · [Sales & Marketing (19)](#sales-marketing) · [Operations & Supply Chain (20)](#operations-supply-chain) · [People & Legal (7)](#people-legal) · [Other (282)](#other)
+[Software & IT (38)](#software-it) · [Data & AI (9)](#data-ai) · [Engineering (31)](#engineering) · [Finance & Accounting (16)](#finance-accounting) · [Sales & Marketing (19)](#sales-marketing) · [Operations & Supply Chain (20)](#operations-supply-chain) · [People & Legal (7)](#people-legal) · [Other (286)](#other)
 
 <a id="software-it"></a>
 
@@ -229,7 +229,7 @@ Open positions: 7
 
 ## Other
 
-Open positions: 282
+Open positions: 286
 
 | Rank | Company | Position | Location | Category | Salary | Keywords | Sponsorship | Apply |
 |---:|---|---|---|---|---|---|---|---|
@@ -306,6 +306,10 @@ Open positions: 282
 | 33 | Freddie Mac | Single-Family Business Intern- Summer 2027 | McLean, VA | Other | Not disclosed | analytics | Not specified | [Apply](https://freddiemac.wd5.myworkdayjobs.com/en-US/External/job/McLean-VA/Single-Family-Business-Intern--Summer-2027_JR17546) |
 | 33 | Freddie Mac | Single-Family Data Intern- Summer 2027 | McLean, VA | Other | Not disclosed | Python · SQL · data science · analytics · risk management | Not specified | [Apply](https://freddiemac.wd5.myworkdayjobs.com/en-US/External/job/McLean-VA/Single-Family-Data-Intern--Summer-2027_JR17545) |
 | 39 | Morgan Stanley | Intern | Jackson, Tennessee, United States of America | Other | Not disclosed | sales · recruiting | Not specified | [Apply](https://ms.wd5.myworkdayjobs.com/en-US/External/job/Jackson-Tennessee-United-States-of-America/Intern_JR042465) |
+| 44 | Walt Disney | Disney Live Entertainment Costume Development Intern, Spring 2027 | Lake Buena Vista, FL, USA | Other | $22/hr | Excel | Not specified | [Apply](https://disney.wd5.myworkdayjobs.com/en-US/disneycareer/job/Lake-Buena-Vista-FL-USA/Disney-Live-Entertainment-Costume-Development-Intern--Spring-2027_10159536) |
+| 44 | Walt Disney | Disney Live Entertainment Music Production Intern, Spring 2027 | Orlando, FL, USA | Other | $22/hr | — | Not specified | [Apply](https://disney.wd5.myworkdayjobs.com/en-US/disneycareer/job/Orlando-FL-USA/Disney-Live-Entertainment-Music-Production-Intern--Spring-2027_10159178) |
+| 44 | Walt Disney | Disney Live Entertainment Audio Systems Design Intern, Spring 2027 | Kissimmee, FL, USA | Other | $22/hr | Excel | Not specified | [Apply](https://disney.wd5.myworkdayjobs.com/en-US/disneycareer/job/Kissimmee-FL-USA/Disney-Live-Entertainment-Audio-Systems-Design-Intern--Spring-2027_10159171) |
+| 44 | Walt Disney | Disney Live Entertainment Tech Intern, Spring 2027 | Lake Buena Vista, FL, USA | Other | $21.14/hr | logistics | Not specified | [Apply](https://disney.wd5.myworkdayjobs.com/en-US/disneycareer/job/Lake-Buena-Vista-FL-USA/Disney-Live-Entertainment-Tech-Intern--Spring-2027_10159987-1) |
 | 44 | Walt Disney | Disney Consumer Products Public Relations Intern, Spring 2027 | Glendale, CA, USA | Other | $23/hr | sales | Not specified | [Apply](https://disney.wd5.myworkdayjobs.com/en-US/disneycareer/job/Glendale-CA-USA/Disney-Consumer-Products-Public-Relations-Intern--Spring-2027_10158857) |
 | 44 | Walt Disney | Disney Live Entertainment Lighting Design Intern, Spring 2027 | Anaheim, CA, USA | Other | $21.13/hr | — | Not specified | [Apply](https://disney.wd5.myworkdayjobs.com/en-US/disneycareer/job/Anaheim-CA-USA/Disney-Live-Entertainment-Lighting-Design-Intern--Spring-2027_10159167) |
 | 44 | Walt Disney | Lucasfilm Games Production Intern, Spring 2027 | San Francisco, CA, USA | Other | $23/hr | Excel | Not specified | [Apply](https://disney.wd5.myworkdayjobs.com/en-US/disneycareer/job/San-Francisco-CA-USA/Lucasfilm-Games-Production-Intern--Spring-2027_10160089) |
