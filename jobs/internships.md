@@ -1,12 +1,12 @@
 # F500Tracker internships
 
-Last updated: September 12, 2026 at 20:47 UTC
+Last updated: September 13, 2026 at 04:57 UTC
 
-Current internships: 424
+Current internships: 421
 
 ## Categories
 
-[Software & IT (37)](#software-it) · [Data & AI (10)](#data-ai) · [Engineering (31)](#engineering) · [Finance & Accounting (16)](#finance-accounting) · [Sales & Marketing (19)](#sales-marketing) · [Operations & Supply Chain (20)](#operations-supply-chain) · [People & Legal (7)](#people-legal) · [Other (284)](#other)
+[Software & IT (37)](#software-it) · [Data & AI (10)](#data-ai) · [Engineering (31)](#engineering) · [Finance & Accounting (16)](#finance-accounting) · [Sales & Marketing (19)](#sales-marketing) · [Operations & Supply Chain (20)](#operations-supply-chain) · [People & Legal (7)](#people-legal) · [Other (281)](#other)
 
 <a id="software-it"></a>
 
@@ -229,15 +229,13 @@ Open positions: 7
 
 ## Other
 
-Open positions: 284
+Open positions: 281
 
 | Rank | Company | Position | Location | Category | Salary | Keywords | Sponsorship | Apply |
 |---:|---|---|---|---|---|---|---|---|
 | 191 | Block | Applied Research Intern, Proactive Intelligence & Customer World Models (PhD / Graduate Co-op) | Bay Area, CA, United States of America | Other | Not disclosed | Python · machine learning · legal | Not specified | [Apply](http://block.xyz/careers/jobs/5108007008?gh_jid=5108007008) |
-| 16 | NVIDIA | Solutions Architecture Intern - Summer 2027 | US, CA, Santa Clara | Other | Not disclosed | Python · Docker · Kubernetes · machine learning · data science | Not specified | [Apply](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Solutions-Architecture-Intern---Summer-2027_JR2025245) |
 | 112 | Northrop Grumman | 2027 Fall Co-Op - Survivability Engineer | United States-California-El Segundo | Other | $18.5–$33.5/hr | Python · CAD · compliance | Not specified | [Apply](https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-California-El-Segundo/XMLNAME-2027-Fall-Co-Op---Survivability-Engineer_R10250417) |
 | 112 | Northrop Grumman | 2027 Engineering Intern - Huntsville AL | United States-Alabama-Huntsville | Other | $25.5–$32/hr | — | Not specified | [Apply](https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-Alabama-Huntsville/XMLNAME-2027-Engineering-Intern---Huntsville-AL_R10250391) |
-| 112 | Northrop Grumman | 2027 Intern Engineer - Product Support | United States-Florida-Melbourne | Other | Not disclosed | mechanical engineering · electrical engineering | Not specified | [Apply](https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-Florida-Melbourne/XMLNAME-2027-Intern-Engineer---Product-Support_R10250299) |
 | 112 | Northrop Grumman | 2027 Intern Engineer - Product Support | United States-Missouri-Whiteman AFB | Other | Not disclosed | — | Not specified | [Apply](https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-Missouri-Whiteman-AFB/XMLNAME-2027-Intern-Engineer---Product-Support_R10250061) |
 | 112 | Northrop Grumman | 2027 Systems Security Engineering Intern - Roy UT | United States-Utah-Roy | Other | $23–$29/hr | mechanical engineering · electrical engineering | Not specified | [Apply](https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-Utah-Roy/XMLNAME-2027-Systems-Security-Engineering-Intern---Roy-UT_R10249815) |
 | 112 | Northrop Grumman | 2027 Engineering Intern - Huntsville AL | United States-Alabama-Huntsville | Other | $25.5–$32/hr | mechanical engineering | Not specified | [Apply](https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-Alabama-Huntsville/XMLNAME-2027-Engineering-Intern---Huntsville-AL_R10249837) |
@@ -344,7 +342,6 @@ Open positions: 284
 | 45 | Johnson & Johnson | Data Science Co-Op, Spring 2027 | Cincinnati, Ohio, United States of America | Other | $23.5/hr | Python · SQL · data science · electrical engineering · recruiting | Not specified | [Apply](https://jj.wd5.myworkdayjobs.com/en-US/JJ/job/Cincinnati-Ohio-United-States-of-America/Data-Science-Co-Op--Spring-2027_R-095743) |
 | 45 | Johnson & Johnson | Design and Development, Co-Op Spring 2027 | Cincinnati, Ohio, United States of America | Other | $23.5/hr | mechanical engineering · electrical engineering · CAD · recruiting | Not specified | [Apply](https://jj.wd5.myworkdayjobs.com/en-US/JJ/job/Cincinnati-Ohio-United-States-of-America/Design-and-Development-Co-Op-Spring-2027_R-095696) |
 | 45 | Johnson & Johnson | GTO Engineering Co-op | Raritan, New Jersey, United States of America | Other | $23.5/hr | Excel · mechanical engineering · supply chain · recruiting | Not specified | [Apply](https://jj.wd5.myworkdayjobs.com/en-US/JJ/job/Raritan-New-Jersey-United-States-of-America/GTO-Engineering-Co-op_R-095955-1) |
-| 45 | Johnson & Johnson | MedTech Surgery Analytical Characterization Intern | Raritan, New Jersey, United States of America | Other | $23.5/hr | — | Not specified | [Apply](https://jj.wd5.myworkdayjobs.com/en-US/JJ/job/Raritan-New-Jersey-United-States-of-America/MedTech-Surgery-Analytical-Characterization-Intern_R-094628) |
 | 45 | Johnson & Johnson | Spring 2027 Quality Engineering Co-op | Cornelia, Georgia, United States of America | Other | Not disclosed | mechanical engineering · recruiting | Not specified | [Apply](https://jj.wd5.myworkdayjobs.com/en-US/JJ/job/Cornelia-Georgia-United-States-of-America/Spring-2027-Quality-Engineering-Co-op_R-094937) |
 | 49 | RTX | Certification Engineer Co-Op (Winter/Spring 2027)(Onsite) | US-NC-WINSTON SALEM-190 ~ 190 Oak Plaza Blvd ~ BLDG 190 | Other | Not disclosed | mechanical engineering · compliance | Not specified | [Apply](https://globalhr.wd5.myworkdayjobs.com/en-US/REC_RTX_Ext_Gateway/job/US-NC-WINSTON-SALEM-190--190-Oak-Plaza-Blvd--BLDG-190/Certification-Engineer-Co-Op--Winter-Spring-2027--Onsite-_01871317-1) |
 | 49 | RTX | Mission Analyst Intern (Summer 2027) | US-TX-MCKINNEY-513WA ~ 2501 W University Dr ~ WING A BLDG | Other | Not disclosed | Python · compliance · contracts | Not specified | [Apply](https://globalhr.wd5.myworkdayjobs.com/en-US/REC_RTX_Ext_Gateway/job/US-TX-MCKINNEY-513WA--2501-W-University-Dr--WING-A-BLDG/Mission-Analyst-Intern--Summer-2027-_01874027) |
