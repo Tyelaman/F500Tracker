@@ -1,12 +1,12 @@
 # F500Tracker internships
 
-Last updated: September 13, 2026 at 04:57 UTC
+Last updated: September 13, 2026 at 12:01 UTC
 
-Current internships: 421
+Current internships: 420
 
 ## Categories
 
-[Software & IT (37)](#software-it) · [Data & AI (10)](#data-ai) · [Engineering (31)](#engineering) · [Finance & Accounting (16)](#finance-accounting) · [Sales & Marketing (19)](#sales-marketing) · [Operations & Supply Chain (20)](#operations-supply-chain) · [People & Legal (7)](#people-legal) · [Other (281)](#other)
+[Software & IT (37)](#software-it) · [Data & AI (9)](#data-ai) · [Engineering (31)](#engineering) · [Finance & Accounting (16)](#finance-accounting) · [Sales & Marketing (19)](#sales-marketing) · [Operations & Supply Chain (20)](#operations-supply-chain) · [People & Legal (7)](#people-legal) · [Other (281)](#other)
 
 <a id="software-it"></a>
 
@@ -60,11 +60,10 @@ Open positions: 37
 
 ## Data & AI
 
-Open positions: 10
+Open positions: 9
 
 | Rank | Company | Position | Location | Category | Salary | Keywords | Sponsorship | Apply |
 |---:|---|---|---|---|---|---|---|---|
-| 112 | Northrop Grumman | 2027 Data Analytics Intern - Clearfield UT | United States-Utah-Roy | Data & AI | $23–$29/hr | analytics | Not specified | [Apply](https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-Utah-Roy/XMLNAME-2027-Data-Analytics-Intern---Clearfield-UT_R10250086) |
 | 125 | Micron Technology | Intern - Marketing Analytics | Meridian, ID | Data & AI | Not disclosed | artificial intelligence · data science · analytics · Excel · CRM | Not specified | [Apply](https://micron.wd1.myworkdayjobs.com/en-US/External/job/Meridian-ID/Intern---Marketing-Analytics_JR109458) |
 | 26 | Fannie Mae | Campus – Finance Analytics Intern (Analytics & Modeling Program) | Washington, DC | Data & AI | Not disclosed | SQL · artificial intelligence · analytics · risk management | No sponsorship for this position | [Apply](https://fanniemae.wd1.myworkdayjobs.com/en-US/FannieMaeCareers/job/Washington-DC/Campus---Finance-Analytics-Intern--Analytics---Modeling-Program-_JR2814) |
 | 26 | Fannie Mae | Campus – Data Science Intern (Analytics & Modeling Program) | Washington, DC | Data & AI | Not disclosed | Python · SQL · artificial intelligence · data science · analytics | No sponsorship for this position | [Apply](https://fanniemae.wd1.myworkdayjobs.com/en-US/FannieMaeCareers/job/Washington-DC/Campus---Data-Science-Intern--Analytics---Modeling-Program-_JR2815) |
