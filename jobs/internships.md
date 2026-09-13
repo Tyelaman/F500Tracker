@@ -1,18 +1,18 @@
 # F500Tracker internships
 
-Last updated: September 13, 2026 at 12:01 UTC
+Last updated: September 13, 2026 at 16:25 UTC
 
-Current internships: 420
+Current internships: 422
 
 ## Categories
 
-[Software & IT (37)](#software-it) · [Data & AI (9)](#data-ai) · [Engineering (31)](#engineering) · [Finance & Accounting (16)](#finance-accounting) · [Sales & Marketing (19)](#sales-marketing) · [Operations & Supply Chain (20)](#operations-supply-chain) · [People & Legal (7)](#people-legal) · [Other (281)](#other)
+[Software & IT (38)](#software-it) · [Data & AI (9)](#data-ai) · [Engineering (31)](#engineering) · [Finance & Accounting (16)](#finance-accounting) · [Sales & Marketing (19)](#sales-marketing) · [Operations & Supply Chain (20)](#operations-supply-chain) · [People & Legal (7)](#people-legal) · [Other (282)](#other)
 
 <a id="software-it"></a>
 
 ## Software & IT
 
-Open positions: 37
+Open positions: 38
 
 | Rank | Company | Position | Location | Category | Salary | Keywords | Sponsorship | Apply |
 |---:|---|---|---|---|---|---|---|---|
@@ -26,6 +26,7 @@ Open positions: 37
 | 44 | Walt Disney | Disneyland Cybersecurity Intern, Spring 2027 | Anaheim, CA, USA | Software & IT | $39/hr | Excel | Not specified | [Apply](https://disney.wd5.myworkdayjobs.com/en-US/disneycareer/job/Anaheim-CA-USA/Disneyland-Cybersecurity-Intern--Spring-2027_FOS-0000451207-2) |
 | 45 | Johnson & Johnson | Software Engineering Co-Op. Summer 2027 | Cincinnati, Ohio, United States of America | Software & IT | $23.5/hr | Python · recruiting | Not specified | [Apply](https://jj.wd5.myworkdayjobs.com/en-US/JJ/job/Cincinnati-Ohio-United-States-of-America/Software-Engineering-Co-Op-Summer-2027_R-096743) |
 | 45 | Johnson & Johnson | Software Engineering Co-Op, Spring 2027 | Cincinnati, Ohio, United States of America | Software & IT | $23.5/hr | Python · recruiting | Not specified | [Apply](https://jj.wd5.myworkdayjobs.com/en-US/JJ/job/Cincinnati-Ohio-United-States-of-America/Software-Engineering-Co-Op--Spring-2027_R-095741) |
+| 49 | RTX | Intern Systems Engineer- (Onsite) | US-CO-SCHRIEVER-AFB-CUST ~ 720 Irwin Ave ~ SCHRIEVER AFB (External Site) | Software & IT | Not disclosed | compliance | Not specified | [Apply](https://globalhr.wd5.myworkdayjobs.com/en-US/REC_RTX_Ext_Gateway/job/US-CO-SCHRIEVER-AFB-CUST--720-Irwin-Ave--SCHRIEVER-AFB-External-Site/Intern-Systems-Engineer---Onsite-_01867818-1) |
 | 49 | RTX | Software Engineering Co-op (Spring/Summer 2027) | US-IA-CEDAR RAPIDS-182 ~ 1100 Cimmie Ave Ne ~ BLDG 182 | Software & IT | Not disclosed | Python · compliance · contracts | Not specified | [Apply](https://globalhr.wd5.myworkdayjobs.com/en-US/REC_RTX_Ext_Gateway/job/US-IA-CEDAR-RAPIDS-182--1100-Cimmie-Ave-Ne--BLDG-182/Software-Engineering-Co-op--Spring-Summer-2027-_01873682) |
 | 49 | RTX | Internship - Winter 2027 - Software Developer Aerospace Control Systems & Web Applications | CA-ON-MISSISSAUGA-P22M01 ~ 1801 Courtney Park Dr ~ P22M01 BLDG | Software & IT | Not disclosed | Python · JavaScript · SQL · CAD | Not specified | [Apply](https://globalhr.wd5.myworkdayjobs.com/en-US/REC_RTX_Ext_Gateway/job/CA-ON-MISSISSAUGA-P22M01--1801-Courtney-Park-Dr--P22M01-BLDG/Internship---Winter-2027---Software-Developer-Aerospace-Control-Systems---Web-Applications_01874412) |
 | 49 | RTX | Software Engineering Intern (Summer 2027) | US-MN-BURNSVILLE-WEST ~ 14300 Judicial Rd ~ WEST BLDG | Software & IT | Not disclosed | compliance | Not specified | [Apply](https://globalhr.wd5.myworkdayjobs.com/en-US/REC_RTX_Ext_Gateway/job/US-MN-BURNSVILLE-WEST--14300-Judicial-Rd--WEST-BLDG/Software-Engineering-Intern--Summer-2027-_01872977) |
@@ -228,7 +229,7 @@ Open positions: 7
 
 ## Other
 
-Open positions: 281
+Open positions: 282
 
 | Rank | Company | Position | Location | Category | Salary | Keywords | Sponsorship | Apply |
 |---:|---|---|---|---|---|---|---|---|
@@ -342,6 +343,7 @@ Open positions: 281
 | 45 | Johnson & Johnson | Design and Development, Co-Op Spring 2027 | Cincinnati, Ohio, United States of America | Other | $23.5/hr | mechanical engineering · electrical engineering · CAD · recruiting | Not specified | [Apply](https://jj.wd5.myworkdayjobs.com/en-US/JJ/job/Cincinnati-Ohio-United-States-of-America/Design-and-Development-Co-Op-Spring-2027_R-095696) |
 | 45 | Johnson & Johnson | GTO Engineering Co-op | Raritan, New Jersey, United States of America | Other | $23.5/hr | Excel · mechanical engineering · supply chain · recruiting | Not specified | [Apply](https://jj.wd5.myworkdayjobs.com/en-US/JJ/job/Raritan-New-Jersey-United-States-of-America/GTO-Engineering-Co-op_R-095955-1) |
 | 45 | Johnson & Johnson | Spring 2027 Quality Engineering Co-op | Cornelia, Georgia, United States of America | Other | Not disclosed | mechanical engineering · recruiting | Not specified | [Apply](https://jj.wd5.myworkdayjobs.com/en-US/JJ/job/Cornelia-Georgia-United-States-of-America/Spring-2027-Quality-Engineering-Co-op_R-094937) |
+| 49 | RTX | Commercial Engines Business Intern (Summer 2027) | US-CT-EAST HARTFORD-OBG ~ 400 Main St ~ BLDG OBG | Other | Not disclosed | analytics · compliance | Not specified | [Apply](https://globalhr.wd5.myworkdayjobs.com/en-US/REC_RTX_Ext_Gateway/job/US-CT-EAST-HARTFORD-OBG--400-Main-St--BLDG-OBG/Commercial-Engines-Business-Intern--Summer-2027-_01873413) |
 | 49 | RTX | Certification Engineer Co-Op (Winter/Spring 2027)(Onsite) | US-NC-WINSTON SALEM-190 ~ 190 Oak Plaza Blvd ~ BLDG 190 | Other | Not disclosed | mechanical engineering · compliance | Not specified | [Apply](https://globalhr.wd5.myworkdayjobs.com/en-US/REC_RTX_Ext_Gateway/job/US-NC-WINSTON-SALEM-190--190-Oak-Plaza-Blvd--BLDG-190/Certification-Engineer-Co-Op--Winter-Spring-2027--Onsite-_01871317-1) |
 | 49 | RTX | Mission Analyst Intern (Summer 2027) | US-TX-MCKINNEY-513WA ~ 2501 W University Dr ~ WING A BLDG | Other | Not disclosed | Python · compliance · contracts | Not specified | [Apply](https://globalhr.wd5.myworkdayjobs.com/en-US/REC_RTX_Ext_Gateway/job/US-TX-MCKINNEY-513WA--2501-W-University-Dr--WING-A-BLDG/Mission-Analyst-Intern--Summer-2027-_01874027) |
 | 49 | RTX | Hiver - Stage 2027- Analyste Fabrication & Qualite /Internship – Winter 2027 -Manufacturing & Quality Analyst | CA-QC-LONGUEUIL-J01 ~ 1000 Blvd Marie-Victorin ~ J01 BLDG | Other | Not disclosed | Excel | Not specified | [Apply](https://globalhr.wd5.myworkdayjobs.com/en-US/REC_RTX_Ext_Gateway/job/CA-QC-LONGUEUIL-J01--1000-Blvd-Marie-Victorin--J01-BLDG/Hiver---Stage-2027--Analyste-Fabrication---Qualite--Internship---Winter-2027--Manufacturing---Quality-Analyst_01874408) |
