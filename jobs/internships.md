@@ -1,18 +1,18 @@
 # F500Tracker internships
 
-Last updated: September 16, 2026 at 05:01 UTC
+Last updated: September 16, 2026 at 11:44 UTC
 
-Current internships: 544
+Current internships: 541
 
 ## Categories
 
-[Software & IT (45)](#software-it) · [Data & AI (12)](#data-ai) · [Product & Design (2)](#product-design) · [Engineering (49)](#engineering) · [Finance & Accounting (20)](#finance-accounting) · [Sales & Marketing (19)](#sales-marketing) · [Operations & Supply Chain (32)](#operations-supply-chain) · [People & Legal (7)](#people-legal) · [Other (358)](#other)
+[Software & IT (44)](#software-it) · [Data & AI (12)](#data-ai) · [Product & Design (2)](#product-design) · [Engineering (49)](#engineering) · [Finance & Accounting (20)](#finance-accounting) · [Sales & Marketing (19)](#sales-marketing) · [Operations & Supply Chain (32)](#operations-supply-chain) · [People & Legal (7)](#people-legal) · [Other (356)](#other)
 
 <a id="software-it"></a>
 
 ## Software & IT
 
-Open positions: 45
+Open positions: 44
 
 | Rank | Company | Position | Location | Category | Salary | Keywords | Sponsorship | Apply |
 |---:|---|---|---|---|---|---|---|---|
@@ -28,6 +28,7 @@ Open positions: 45
 | 45 | Johnson & Johnson | Software Engineering Intern - Robotics R&D | Santa Clara, California, United States of America | Software & IT | Not disclosed | Python · data science · electrical engineering | No sponsorship for this position | [Apply](https://jj.wd5.myworkdayjobs.com/en-US/JJ/job/Santa-Clara-California-United-States-of-America/Software-Engineering-Intern---Robotics-R-D_R-099919) |
 | 45 | Johnson & Johnson | Software Engineering Co-Op. Summer 2027 | Cincinnati, Ohio, United States of America | Software & IT | $23.5/hr | Python · recruiting | Not specified | [Apply](https://jj.wd5.myworkdayjobs.com/en-US/JJ/job/Cincinnati-Ohio-United-States-of-America/Software-Engineering-Co-Op-Summer-2027_R-096743) |
 | 45 | Johnson & Johnson | Software Engineering Co-Op, Spring 2027 | Cincinnati, Ohio, United States of America | Software & IT | $23.5/hr | Python · recruiting | Not specified | [Apply](https://jj.wd5.myworkdayjobs.com/en-US/JJ/job/Cincinnati-Ohio-United-States-of-America/Software-Engineering-Co-Op--Spring-2027_R-095741) |
+| 49 | RTX | Software Engineering Intern (Summer 2027) | US-CT-WINDSOR LOCKS-B1 ~ 1 Hamilton Rd ~ BLDG 1 | Software & IT | Not disclosed | Python · compliance | Not specified | [Apply](https://globalhr.wd5.myworkdayjobs.com/en-US/REC_RTX_Ext_Gateway/job/US-CT-WINDSOR-LOCKS-B1--1-Hamilton-Rd--BLDG-1/Software-Engineering-Intern--Summer-2027-_01872775) |
 | 49 | RTX | Software Engineering Intern (Summer 2027) | US-FL-ST PETERSBURG-381BD ~ 7401 22nd Ave N ~ BLDG D | Software & IT | Not disclosed | Python · compliance | Not specified | [Apply](https://globalhr.wd5.myworkdayjobs.com/en-US/REC_RTX_Ext_Gateway/job/US-FL-ST-PETERSBURG-381BD--7401-22nd-Ave-N--BLDG-D/Software-Engineering-Intern--Summer-2027-_01874926) |
 | 49 | RTX | Stage - Hiver 2027 - Service Numériques pour les Moteurs – Développeur logiciel/ Internship - Winter 2027 Digital Engine Services (DES) – Ground cloud software developer | CA-QC-LONGUEUIL-MD ~ 1000 Blvd Marie-Victorin ~ MD BLDG | Software & IT | Not disclosed | Python · AWS · Excel | Not specified | [Apply](https://globalhr.wd5.myworkdayjobs.com/en-US/REC_RTX_Ext_Gateway/job/CA-QC-LONGUEUIL-MD--1000-Blvd-Marie-Victorin--MD-BLDG/Stage---Hiver-2027---Service-Numriques-pour-les-Moteurs---Dveloppeur-logiciel--Internship---Winter-2027-Digital-Engine-Services--DES----Ground-cloud-software-developer_01874389) |
 | 49 | RTX | Internship – Raytheon Systems Security Engineer -Onsite | US-MA-TEWKSBURY-TB1 ~ 50 Apple Hill Dr ~ ASSABET BLDG | Software & IT | Not disclosed | Python · risk management · supply chain · compliance | Not specified | [Apply](https://globalhr.wd5.myworkdayjobs.com/en-US/REC_RTX_Ext_Gateway/job/US-MA-TEWKSBURY-TB1--50-Apple-Hill-Dr--ASSABET-BLDG/Internship---Raytheon-Systems-Security-Engineer--Onsite_01874702) |
@@ -47,9 +48,7 @@ Open positions: 45
 | 49 | RTX | Software Engineering Intern (Summer 2027) | US-MN-BURNSVILLE-WEST ~ 14300 Judicial Rd ~ WEST BLDG | Software & IT | Not disclosed | compliance | Not specified | [Apply](https://globalhr.wd5.myworkdayjobs.com/en-US/REC_RTX_Ext_Gateway/job/US-MN-BURNSVILLE-WEST--14300-Judicial-Rd--WEST-BLDG/Software-Engineering-Intern--Summer-2027-_01872977) |
 | 49 | RTX | Software Engineer Co-Op - Onsite | US-IA-CEDAR RAPIDS-131 ~ 5450 C Ave NE ~ BLDG 131 | Software & IT | Not disclosed | Python · compliance | Not specified | [Apply](https://globalhr.wd5.myworkdayjobs.com/en-US/REC_RTX_Ext_Gateway/job/US-IA-CEDAR-RAPIDS-131--5450-C-Ave-NE--BLDG-131/Software-Engineer-Co-Op---Onsite_01871478) |
 | 49 | RTX | Software Engineering Co-op (Spring/Summer 2027) | US-IA-CEDAR RAPIDS-182 ~ 1100 Cimmie Ave Ne ~ BLDG 182 | Software & IT | Not disclosed | Python · Java · compliance · contracts | Not specified | [Apply](https://globalhr.wd5.myworkdayjobs.com/en-US/REC_RTX_Ext_Gateway/job/US-IA-CEDAR-RAPIDS-182--1100-Cimmie-Ave-Ne--BLDG-182/Software-Engineering-Co-op--Spring-Summer-2027-_01871551) |
-| 49 | RTX | Software Platform Intern (Onsite) | US-CO-AURORA-S75 ~ 16800 E Centretech Pkwy ~ BLDG S75 | Software & IT | Not disclosed | Python · Java · AWS · Azure · Docker | Not specified | [Apply](https://globalhr.wd5.myworkdayjobs.com/en-US/REC_RTX_Ext_Gateway/job/US-CO-AURORA-S75--16800-E-Centretech-Pkwy--BLDG-S75/Software-Platform-Intern--Onsite-_01874067) |
 | 49 | RTX | Co-Op, Software Engineer- Onsite | US-IA-CEDAR RAPIDS-109 ~ 400 Collins Rd NE ~ BLDG 109 | Software & IT | Not disclosed | Python · C# · SQL · compliance · contracts | Not specified | [Apply](https://globalhr.wd5.myworkdayjobs.com/en-US/REC_RTX_Ext_Gateway/job/US-IA-CEDAR-RAPIDS-109--400-Collins-Rd-NE--BLDG-109/Co-Op--Software-Engineer--Onsite_01871298) |
-| 49 | RTX | Software Platform Intern (Summer 2027) | US-TX-RICHARDSON-C27 ~ 1727 Cityline Dr ~ CITYLINE C27 | Software & IT | Not disclosed | Python · Java · AWS · Azure · Docker | Not specified | [Apply](https://globalhr.wd5.myworkdayjobs.com/en-US/REC_RTX_Ext_Gateway/job/US-TX-RICHARDSON-C27--1727-Cityline-Dr--CITYLINE-C27/Software-Platform-Intern--Summer-2027-_01874068) |
 | 49 | RTX | Software Engineering Co-op  (Spring/Summer 2027) | US-IA-CEDAR RAPIDS-182 ~ 1100 Cimmie Ave Ne ~ BLDG 182 | Software & IT | Not disclosed | Python · compliance | Not specified | [Apply](https://globalhr.wd5.myworkdayjobs.com/en-US/REC_RTX_Ext_Gateway/job/US-IA-CEDAR-RAPIDS-182--1100-Cimmie-Ave-Ne--BLDG-182/Software-Engineering-Co-op---Spring-Summer-2027-_01872230) |
 | 49 | RTX | Software Engineering Co-op (Summer/Fall 2027) | US-IA-CEDAR RAPIDS-182 ~ 1100 Cimmie Ave Ne ~ BLDG 182 | Software & IT | Not disclosed | Python · compliance | Not specified | [Apply](https://globalhr.wd5.myworkdayjobs.com/en-US/REC_RTX_Ext_Gateway/job/US-IA-CEDAR-RAPIDS-182--1100-Cimmie-Ave-Ne--BLDG-182/Software-Engineering-Co-op--Summer-Fall-2027-_01872236) |
 | 49 | RTX | Systems Engineer Intern -Portsmouth, RI | US-RI-PORTSMOUTH-PS1 ~ 1847 W Main Rd ~ NIMITZ BLDG | Software & IT | Not disclosed | Python · compliance | Not specified | [Apply](https://globalhr.wd5.myworkdayjobs.com/en-US/REC_RTX_Ext_Gateway/job/US-RI-PORTSMOUTH-PS1--1847-W-Main-Rd--NIMITZ-BLDG/Systems-Engineer-Intern--Portsmouth--RI_01872094) |
@@ -286,7 +285,7 @@ Open positions: 7
 
 ## Other
 
-Open positions: 358
+Open positions: 356
 
 | Rank | Company | Position | Location | Category | Salary | Keywords | Sponsorship | Apply |
 |---:|---|---|---|---|---|---|---|---|
@@ -298,7 +297,6 @@ Open positions: 358
 | 112 | Northrop Grumman | 2027  Materials Processes Technician Intern- Redondo Beach CA | United States-California-Redondo Beach | Other | $21.5–$39/hr | Excel | Not specified | [Apply](https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-California-Redondo-Beach/XMLNAME-2027--Materials-Processes-Technician-Intern--Redondo-Beach-CA_R10250867) |
 | 112 | Northrop Grumman | 2027 Intern Engineer - Product Support | United States-Oklahoma-Oklahoma City | Other | $17.5–$31.75/hr | electrical engineering | Not specified | [Apply](https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-Oklahoma-Oklahoma-City/XMLNAME-2027-Intern-Engineer---Product-Support_R10250306) |
 | 112 | Northrop Grumman | 2027 Guidance Navigation and Control Intern - Dulles VA | United States-Virginia-Dulles | Other | Not disclosed | mechanical engineering · electrical engineering · supply chain | Not specified | [Apply](https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-Virginia-Dulles/XMLNAME-2027-Guidance-Navigation-and-Control-Intern---Dulles-VA_R10250744-1) |
-| 112 | Northrop Grumman | 2027 Engineering Intern - Huntsville AL | United States-Alabama-Huntsville | Other | $25.5–$32/hr | — | Not specified | [Apply](https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-Alabama-Huntsville/XMLNAME-2027-Engineering-Intern---Huntsville-AL_R10250391) |
 | 112 | Northrop Grumman | Intern Business Management | United States-Florida-Melbourne | Other | $16.5–$30/hr | accounting | Not specified | [Apply](https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-Florida-Melbourne/Intern-Business-Management_R10248690) |
 | 112 | Northrop Grumman | Intern Business Management | United States-Florida-Melbourne | Other | $16.5–$30/hr | accounting | Not specified | [Apply](https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-Florida-Melbourne/Intern-Business-Management_R10248698) |
 | 112 | Northrop Grumman | 2026 Part-Time Cyber Security Engineering Intern - Aurora CO | United States-Colorado-Aurora | Other | $20.5–$38/hr | mechanical engineering | Not specified | [Apply](https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-Colorado-Aurora/XMLNAME-2026-Part-Time-Cyber-Security-Engineering-Intern---Aurora-CO_R10248520) |
@@ -485,7 +483,6 @@ Open positions: 358
 | 49 | RTX | Production Support Engineering Co-op (Winter/Spring 2027) | US-CT-MIDDLETOWN-220A ~ Aircraft Rd ~ BLDG 220A | Other | Not disclosed | Excel · mechanical engineering · CAD · SolidWorks · compliance | Not specified | [Apply](https://globalhr.wd5.myworkdayjobs.com/en-US/REC_RTX_Ext_Gateway/job/US-CT-MIDDLETOWN-220A--Aircraft-Rd--BLDG-220A/Production-Support-Engineering-Co-op--Winter-Spring-2027-_01872654) |
 | 49 | RTX | Production Support Engineering Co-Op (Summer/Fall 2027) | US-CT-MIDDLETOWN-220A ~ Aircraft Rd ~ BLDG 220A | Other | Not disclosed | Excel · mechanical engineering · CAD · SolidWorks · compliance | Not specified | [Apply](https://globalhr.wd5.myworkdayjobs.com/en-US/REC_RTX_Ext_Gateway/job/US-CT-MIDDLETOWN-220A--Aircraft-Rd--BLDG-220A/Production-Support-Engineering-Co-Op--Summer-Fall-2027-_01872653) |
 | 49 | RTX | Engineering Services Intern (Summer 2027) | US-CT-WINDSOR LOCKS-B1A ~ 1 Hamilton Rd ~ BLDG 1A | Other | Not disclosed | Excel · mechanical engineering · electrical engineering · CAD · SolidWorks | Not specified | [Apply](https://globalhr.wd5.myworkdayjobs.com/en-US/REC_RTX_Ext_Gateway/job/US-CT-WINDSOR-LOCKS-B1A--1-Hamilton-Rd--BLDG-1A/Engineering-Services-Intern--Summer-2027-_01872640) |
-| 49 | RTX | Mission Analyst Intern (Summer 2027) | US-TX-MCKINNEY-513WA ~ 2501 W University Dr ~ WING A BLDG | Other | Not disclosed | Python · compliance · contracts | Not specified | [Apply](https://globalhr.wd5.myworkdayjobs.com/en-US/REC_RTX_Ext_Gateway/job/US-TX-MCKINNEY-513WA--2501-W-University-Dr--WING-A-BLDG/Mission-Analyst-Intern--Summer-2027-_01874027) |
 | 49 | RTX | Hiver - Stage 2027- Analyste Fabrication & Qualite /Internship – Winter 2027 -Manufacturing & Quality Analyst | CA-QC-LONGUEUIL-J01 ~ 1000 Blvd Marie-Victorin ~ J01 BLDG | Other | Not disclosed | Excel | Not specified | [Apply](https://globalhr.wd5.myworkdayjobs.com/en-US/REC_RTX_Ext_Gateway/job/CA-QC-LONGUEUIL-J01--1000-Blvd-Marie-Victorin--J01-BLDG/Hiver---Stage-2027--Analyste-Fabrication---Qualite--Internship---Winter-2027--Manufacturing---Quality-Analyst_01874408) |
 | 49 | RTX | Internship - Winter 2027 - Turbofan Engine Programs - Project Engineering | CA-ON-MISSISSAUGA-P22M01 ~ 1801 Courtney Park Dr ~ P22M01 BLDG | Other | Not disclosed | CAD · supply chain | Not specified | [Apply](https://globalhr.wd5.myworkdayjobs.com/en-US/REC_RTX_Ext_Gateway/job/CA-ON-MISSISSAUGA-P22M01--1801-Courtney-Park-Dr--P22M01-BLDG/Internship---Winter-2027---Turbofan-Engine-Programs---Project-Engineering_01874385) |
 | 49 | RTX | Internship - Winter 2027 - Test facilities Engineering | CA-ON-MISSISSAUGA-P22M01 ~ 1801 Courtney Park Dr ~ P22M01 BLDG | Other | Not disclosed | CAD | Not specified | [Apply](https://globalhr.wd5.myworkdayjobs.com/en-US/REC_RTX_Ext_Gateway/job/CA-ON-MISSISSAUGA-P22M01--1801-Courtney-Park-Dr--P22M01-BLDG/Internship---Winter-2027---Test-facilities-Engineering_01873673) |
