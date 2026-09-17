@@ -1,12 +1,12 @@
 # F500Tracker internships
 
-Last updated: September 17, 2026 at 05:04 UTC
+Last updated: September 17, 2026 at 11:53 UTC
 
 Current internships: 577
 
 ## Categories
 
-[Software & IT (49)](#software-it) · [Data & AI (11)](#data-ai) · [Product & Design (1)](#product-design) · [Engineering (53)](#engineering) · [Finance & Accounting (20)](#finance-accounting) · [Sales & Marketing (22)](#sales-marketing) · [Operations & Supply Chain (35)](#operations-supply-chain) · [People & Legal (9)](#people-legal) · [Other (377)](#other)
+[Software & IT (49)](#software-it) · [Data & AI (11)](#data-ai) · [Product & Design (3)](#product-design) · [Engineering (53)](#engineering) · [Finance & Accounting (21)](#finance-accounting) · [Sales & Marketing (20)](#sales-marketing) · [Operations & Supply Chain (33)](#operations-supply-chain) · [People & Legal (8)](#people-legal) · [Other (379)](#other)
 
 <a id="software-it"></a>
 
@@ -94,10 +94,12 @@ Open positions: 11
 
 ## Product & Design
 
-Open positions: 1
+Open positions: 3
 
 | Rank | Company | Position | Location | Category | Salary | Keywords | Sponsorship | Apply |
 |---:|---|---|---|---|---|---|---|---|
+| 119 | Visa | Associate Product Manager (APM) Intern - Summer 2027 | US - Foster City, CA | Product & Design | Not disclosed | data science · sales | No sponsorship for this position | [Apply](https://visa.wd5.myworkdayjobs.com/en-US/Visa/job/US---Foster-City-CA/Associate-Product-Manager--APM--Intern---Summer-2027_REF088603W-1) |
+| 119 | Visa | Associate Product Manager (APM) Intern - Summer 2027 | US - Austin, TX | Product & Design | Not disclosed | data science · sales | No sponsorship for this position | [Apply](https://visa.wd5.myworkdayjobs.com/en-US/Visa/job/US---Austin-TX/Job-Posting-Title-Associate-Product-Manager--APM--Intern---Summer-2027_REF088604W) |
 | 45 | Johnson & Johnson | Product Management Co-Op | Jacksonville, Florida, United States of America | Product & Design | Not disclosed | analytics · supply chain · contracts | Not specified | [Apply](https://jj.wd5.myworkdayjobs.com/en-US/JJ/job/Jacksonville-Florida-United-States-of-America/Product-Management-Co-Op_R-098262) |
 
 [Back to categories](#categories) · [Back to README](../README.md)
@@ -110,9 +112,9 @@ Open positions: 53
 
 | Rank | Company | Position | Location | Category | Salary | Keywords | Sponsorship | Apply |
 |---:|---|---|---|---|---|---|---|---|
-| 112 | Northrop Grumman | 2027 Electrical Engineering Intern - Roy UT | United States-Utah-Roy | Engineering | $23–$29/hr | mechanical engineering · electrical engineering | Not specified | [Apply](https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-Utah-Roy/XMLNAME-2027-Electrical-Engineering-Intern---Roy-UT_R10249851-1) |
 | 112 | Northrop Grumman | 2027 Industrial Engineering  Intern - Roy UT | United States-Utah-Ogden | Engineering | $23–$29/hr | — | Not specified | [Apply](https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-Utah-Ogden/XMLNAME-2027-Industrial-Engineering--Intern---Roy-UT_R10250883) |
 | 112 | Northrop Grumman | 2027 Electrical Engineering Intern - Chandler AZ | United States-Arizona-Chandler | Engineering | $18.5–$33.5/hr | mechanical engineering · electrical engineering | Not specified | [Apply](https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-Arizona-Chandler/XMLNAME-2027-Electrical-Engineering-Intern---Chandler-AZ_R10250853) |
+| 112 | Northrop Grumman | 2027 Electrical Engineering Intern - Roy UT | United States-Utah-Roy | Engineering | $23–$29/hr | mechanical engineering · electrical engineering | Not specified | [Apply](https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-Utah-Roy/XMLNAME-2027-Electrical-Engineering-Intern---Roy-UT_R10249851-1) |
 | 125 | Micron Technology | Intern - TD Site Industrial Engineer | Boise, ID - Main Site | Engineering | Not disclosed | Python · SQL · Excel · supply chain | Not specified | [Apply](https://micron.wd1.myworkdayjobs.com/en-US/External/job/Boise-ID---Main-Site/Intern---TD-Site-Industrial-Engineer_JR108729) |
 | 44 | Walt Disney | Disneyland Resort Industrial Engineering Intern, Fall 2027 | Anaheim, CA, USA | Engineering | $32/hr | — | Not specified | [Apply](https://disney.wd5.myworkdayjobs.com/en-US/disneycareer/job/Anaheim-CA-USA/Disneyland-Resort-Industrial-Engineering-Intern--Fall-2027_10159983-1) |
 | 44 | Walt Disney | Disneyland Resort Industrial Engineering Intern, Summer 2027 | Anaheim, CA, USA | Engineering | $32/hr | — | Not specified | [Apply](https://disney.wd5.myworkdayjobs.com/en-US/disneycareer/job/Anaheim-CA-USA/Disneyland-Resort-Industrial-Engineering-Intern--Summer-2027_10159978-1) |
@@ -170,10 +172,11 @@ Open positions: 53
 
 ## Finance & Accounting
 
-Open positions: 20
+Open positions: 21
 
 | Rank | Company | Position | Location | Category | Salary | Keywords | Sponsorship | Apply |
 |---:|---|---|---|---|---|---|---|---|
+| 119 | Visa | Finance Intern - Summer 2027 | US - Foster City, CA | Finance & Accounting | Not disclosed | SQL · analytics · Excel · sales | No sponsorship for this position | [Apply](https://visa.wd5.myworkdayjobs.com/en-US/Visa/job/US---Foster-City-CA/Finance-Intern---Summer-2027_REF088568W-1) |
 | 33 | Freddie Mac | Internal Audit Intern - Summer 2027 | McLean, VA | Finance & Accounting | Not disclosed | Python · SQL · artificial intelligence · analytics · accounting | Not specified | [Apply](https://freddiemac.wd5.myworkdayjobs.com/en-US/External/job/McLean-VA/Internal-Audit-Intern---Summer-2027_JR17565) |
 | 33 | Freddie Mac | Accounting and Finance Intern- Summer 2027 | McLean, VA | Finance & Accounting | Not disclosed | accounting | Not specified | [Apply](https://freddiemac.wd5.myworkdayjobs.com/en-US/External/job/McLean-VA/Accounting-and-Finance-Intern--Summer-2027_JR17543) |
 | 45 | Johnson & Johnson | Summer 2027 Finance Internship – El Paso, TX/Juarez, MX | El Paso, Texas, United States of America | Finance & Accounting | $26/hr | analytics · Excel · accounting · supply chain · legal | Not specified | [Apply](https://jj.wd5.myworkdayjobs.com/en-US/JJ/job/El-Paso-Texas-United-States-of-America/Summer-2027-Finance-Internship---El-Paso--TX-Juarez--MX_R-095343) |
@@ -201,7 +204,7 @@ Open positions: 20
 
 ## Sales & Marketing
 
-Open positions: 22
+Open positions: 20
 
 | Rank | Company | Position | Location | Category | Salary | Keywords | Sponsorship | Apply |
 |---:|---|---|---|---|---|---|---|---|
@@ -216,8 +219,6 @@ Open positions: 22
 | 44 | Walt Disney | Talent Connection Marketing Account Management Intern, Spring 2027 | Celebration, FL, USA | Sales & Marketing | $23/hr | Excel · logistics | Not specified | [Apply](https://disney.wd5.myworkdayjobs.com/en-US/disneycareer/job/Celebration-FL-USA/Talent-Connection-Marketing-Account-Management-Intern--Spring-2027_10159837) |
 | 44 | Walt Disney | Disney Destinations Communications Intern, Spring 2027 | Celebration, FL, USA | Sales & Marketing | $23/hr | sales | Not specified | [Apply](https://disney.wd5.myworkdayjobs.com/en-US/disneycareer/job/Celebration-FL-USA/Disney-Destinations-Communications-Intern--Spring-2027_10157944) |
 | 44 | Walt Disney | Disney Programs Communications and Social Media Intern, Spring 2027 | Winter Garden, FL, USA | Sales & Marketing | $23/hr | — | Not specified | [Apply](https://disney.wd5.myworkdayjobs.com/en-US/disneycareer/job/Winter-Garden-FL-USA/Disney-Programs-Communications-and-Social-Media-Intern--Spring-2027_10159009-1) |
-| 44 | Walt Disney | Disney & Pixar Games, Brand Relations Intern, Spring 2027 | Glendale, CA, USA | Sales & Marketing | $23/hr | Excel | Not specified | [Apply](https://disney.wd5.myworkdayjobs.com/en-US/disneycareer/job/Glendale-CA-USA/Disney---Pixar-Games--Brand-Relations-Intern--Spring-2027_10159022) |
-| 44 | Walt Disney | Disney & Pixar Games Brand Strategy Intern, Spring 2027 | Glendale, CA, USA | Sales & Marketing | $23/hr | Excel · CRM · legal | Not specified | [Apply](https://disney.wd5.myworkdayjobs.com/en-US/disneycareer/job/Glendale-CA-USA/Disney---Pixar-Games-Brand-Strategy-Intern--Spring-2027_10159020-2) |
 | 45 | Johnson & Johnson | OPEx Communications Co-Op | Gurabo, Puerto Rico, United States of America | Sales & Marketing | Not disclosed | analytics · Excel | Not specified | [Apply](https://jj.wd5.myworkdayjobs.com/en-US/JJ/job/Gurabo-Puerto-Rico-United-States-of-America/OPEx-Communications-Co-Op_R-096859) |
 | 45 | Johnson & Johnson | Summer Sales Intern | Jacksonville, Florida, United States of America | Sales & Marketing | Not disclosed | analytics · sales | Not specified | [Apply](https://jj.wd5.myworkdayjobs.com/en-US/JJ/job/Jacksonville-Florida-United-States-of-America/Summer-Sales-Intern_R-098551) |
 | 49 | RTX | Stage- Hiver 2027- Analyste d'affaires, strategie et developpement des affaires /  Internship - Winter 2027 -Business Analyst, Strategy and Business Development | CA-QC-LONGUEUIL-J01 ~ 1000 Blvd Marie-Victorin ~ J01 BLDG | Sales & Marketing | Not disclosed | Python · analytics · Excel | Not specified | [Apply](https://globalhr.wd5.myworkdayjobs.com/en-US/REC_RTX_Ext_Gateway/job/CA-QC-LONGUEUIL-J01--1000-Blvd-Marie-Victorin--J01-BLDG/Stage--Hiver-2027--Analyste-d-affaires--strategie-et-developpement-des-affaires----Internship---Winter-2027--Business-Analyst--Strategy-and-Business-Development_01871590) |
@@ -234,7 +235,7 @@ Open positions: 22
 
 ## Operations & Supply Chain
 
-Open positions: 35
+Open positions: 33
 
 | Rank | Company | Position | Location | Category | Salary | Keywords | Sponsorship | Apply |
 |---:|---|---|---|---|---|---|---|---|
@@ -250,7 +251,6 @@ Open positions: 35
 | 45 | Johnson & Johnson | Regional Operations Co-Op | Raritan, New Jersey, United States of America | Operations & Supply Chain | $23.5/hr | supply chain · logistics · sales · compliance | Not specified | [Apply](https://jj.wd5.myworkdayjobs.com/en-US/JJ/job/Raritan-New-Jersey-United-States-of-America/Regional-Operations-Co-Op_R-098405) |
 | 45 | Johnson & Johnson | Global Supply Chain Reliability Co-op | Titusville, New Jersey, United States of America | Operations & Supply Chain | $23/hr | analytics · Excel · supply chain · recruiting | Not specified | [Apply](https://jj.wd5.myworkdayjobs.com/en-US/JJ/job/Titusville-New-Jersey-United-States-of-America/Global-Supply-Chain-Reliability-Co-op_R-092949-1) |
 | 45 | Johnson & Johnson | Supply Chain Data Management Co-Op | New Brunswick, New Jersey, United States of America | Operations & Supply Chain | $23.5/hr | SQL · Excel · supply chain · compliance · contracts | Not specified | [Apply](https://jj.wd5.myworkdayjobs.com/en-US/JJ/job/New-Brunswick-New-Jersey-United-States-of-America/Supply-Chain-Data-Management-Co-Op_R-096999) |
-| 45 | Johnson & Johnson | Supply Chain Operations Co-Op | Santa Clara, California, United States of America | Operations & Supply Chain | $27/hr | Excel · mechanical engineering · electrical engineering · CAD · SolidWorks | Not specified | [Apply](https://jj.wd5.myworkdayjobs.com/en-US/JJ/job/Santa-Clara-California-United-States-of-America/Supply-Chain-Operations-Co-Op_R-095767) |
 | 45 | Johnson & Johnson | Electrophysiology Supply Chain (Business) Intern | Irvine, California, United States of America | Operations & Supply Chain | $23.5/hr | Excel · supply chain | Not specified | [Apply](https://jj.wd5.myworkdayjobs.com/en-US/JJ/job/Irvine-California-United-States-of-America/Electrophysiology-Supply-Chain-Intern_R-094580-1) |
 | 45 | Johnson & Johnson | Electrophysiology Supply Chain (Engineers) Intern | Irvine, California, United States of America | Operations & Supply Chain | $23.5/hr | Excel · electrical engineering · SolidWorks · supply chain | Not specified | [Apply](https://jj.wd5.myworkdayjobs.com/en-US/JJ/job/Irvine-California-United-States-of-America/Electrophysiology-Supply-Chain--Engineers--Intern_R-094578) |
 | 45 | Johnson & Johnson | Supply Chain Risk Management Co-Op | Titusville, New Jersey, United States of America | Operations & Supply Chain | $23.5/hr | analytics · Excel · risk management · supply chain · compliance | Not specified | [Apply](https://jj.wd5.myworkdayjobs.com/en-US/JJ/job/Titusville-New-Jersey-United-States-of-America/Supply-Chain-Risk-Management-Co-Op_R-095278) |
@@ -272,7 +272,6 @@ Open positions: 35
 | 106 | Thermo Fisher Scientific | Supply Chain Co-op | Marietta, Ohio, USA | Operations & Supply Chain | Not disclosed | supply chain | Not specified | [Apply](https://thermofisher.wd5.myworkdayjobs.com/en-US/ThermoFisherCareers/job/Marietta-Ohio-USA/Supply-Chain-Co-op_R-01366630) |
 | 106 | Thermo Fisher Scientific | Operations Intern | Fair Lawn, New Jersey, USA | Operations & Supply Chain | Not disclosed | mechanical engineering · supply chain | Not specified | [Apply](https://thermofisher.wd5.myworkdayjobs.com/en-US/ThermoFisherCareers/job/Fair-Lawn-New-Jersey-USA/Operations-Intern_R-01366634) |
 | 106 | Thermo Fisher Scientific | Supply Chain Intern | Pittsburgh, Pennsylvania, USA | Operations & Supply Chain | Not disclosed | data science · analytics · Excel · supply chain · logistics | Not specified | [Apply](https://thermofisher.wd5.myworkdayjobs.com/en-US/ThermoFisherCareers/job/Pittsburgh-Pennsylvania-USA/Supply-Chain-Intern_R-01366632) |
-| 396 | Analog Devices | Procurement (Operations) Intern | US, OR, Beaverton | Operations & Supply Chain | Not disclosed | Excel · supply chain · procurement · contracts | Not specified | [Apply](https://analogdevices.wd1.myworkdayjobs.com/en-US/External/job/US-OR-Beaverton/Procurement--Operations--Intern_R266141) |
 
 [Back to categories](#categories) · [Back to README](../README.md)
 
@@ -280,7 +279,7 @@ Open positions: 35
 
 ## People & Legal
 
-Open positions: 9
+Open positions: 8
 
 | Rank | Company | Position | Location | Category | Salary | Keywords | Sponsorship | Apply |
 |---:|---|---|---|---|---|---|---|---|
@@ -292,7 +291,6 @@ Open positions: 9
 | 49 | RTX | Stage - Hiver 2027 - Etudiant en droit / Internship - Winter 2027 - Legal student | CA-QC-LONGUEUIL-J01 ~ 1000 Blvd Marie-Victorin ~ J01 BLDG | People & Legal | Not disclosed | legal · contracts | Not specified | [Apply](https://globalhr.wd5.myworkdayjobs.com/en-US/REC_RTX_Ext_Gateway/job/CA-QC-LONGUEUIL-J01--1000-Blvd-Marie-Victorin--J01-BLDG/Stage---Hiver-2027---Etudiant-en-droit---Internship---Winter-2027---Legal-student_01865040) |
 | 49 | RTX | Stage - Hiver - Etudiant en droit / Internship - Winter - Legal student | CA-QC-LONGUEUIL-J01 ~ 1000 Blvd Marie-Victorin ~ J01 BLDG | People & Legal | Not disclosed | supply chain · legal · contracts | Not specified | [Apply](https://globalhr.wd5.myworkdayjobs.com/en-US/REC_RTX_Ext_Gateway/job/CA-QC-LONGUEUIL-J01--1000-Blvd-Marie-Victorin--J01-BLDG/Stage---Hiver---Etudiant-en-droit---Internship---Winter---Legal-student_01867495) |
 | 133 | Hewlett Packard Enterprise | HR Performance Management Intern | Spring, Texas, United States of America | People & Legal | Not disclosed | analytics · Excel · human resources · legal | Not specified | [Apply](https://hpe.wd5.myworkdayjobs.com/en-US/Jobsathpe/job/Spring-Texas-United-States-of-America/HR-Performance-Management-Intern_1212387) |
-| 133 | Hewlett Packard Enterprise | HR Compensation Intern | Spring, Texas, United States of America | People & Legal | Not disclosed | analytics · Excel · audit · human resources · legal | Not specified | [Apply](https://hpe.wd5.myworkdayjobs.com/en-US/Jobsathpe/job/Spring-Texas-United-States-of-America/HR-Compensation-Intern_1212388) |
 
 [Back to categories](#categories) · [Back to README](../README.md)
 
@@ -300,7 +298,7 @@ Open positions: 9
 
 ## Other
 
-Open positions: 377
+Open positions: 379
 
 | Rank | Company | Position | Location | Category | Salary | Keywords | Sponsorship | Apply |
 |---:|---|---|---|---|---|---|---|---|
@@ -414,7 +412,6 @@ Open positions: 377
 | 44 | Walt Disney | Disney Live Entertainment Music Production Intern, Spring 2027 | Orlando, FL, USA | Other | $22/hr | — | Not specified | [Apply](https://disney.wd5.myworkdayjobs.com/en-US/disneycareer/job/Orlando-FL-USA/Disney-Live-Entertainment-Music-Production-Intern--Spring-2027_10159178) |
 | 44 | Walt Disney | Disney Live Entertainment Audio Systems Design Intern, Spring 2027 | Kissimmee, FL, USA | Other | $22/hr | Excel | Not specified | [Apply](https://disney.wd5.myworkdayjobs.com/en-US/disneycareer/job/Kissimmee-FL-USA/Disney-Live-Entertainment-Audio-Systems-Design-Intern--Spring-2027_10159171) |
 | 44 | Walt Disney | Disney Live Entertainment Tech Intern, Spring 2027 | Lake Buena Vista, FL, USA | Other | $21.14/hr | logistics | Not specified | [Apply](https://disney.wd5.myworkdayjobs.com/en-US/disneycareer/job/Lake-Buena-Vista-FL-USA/Disney-Live-Entertainment-Tech-Intern--Spring-2027_10159987-1) |
-| 44 | Walt Disney | Disney Consumer Products Public Relations Intern, Spring 2027 | Glendale, CA, USA | Other | $23/hr | sales | Not specified | [Apply](https://disney.wd5.myworkdayjobs.com/en-US/disneycareer/job/Glendale-CA-USA/Disney-Consumer-Products-Public-Relations-Intern--Spring-2027_10158857) |
 | 44 | Walt Disney | Disney Live Entertainment Lighting Design Intern, Spring 2027 | Anaheim, CA, USA | Other | $21.13/hr | — | Not specified | [Apply](https://disney.wd5.myworkdayjobs.com/en-US/disneycareer/job/Anaheim-CA-USA/Disney-Live-Entertainment-Lighting-Design-Intern--Spring-2027_10159167) |
 | 45 | Johnson & Johnson | Process Engineer Spring Co-op | Jacksonville, Florida, United States of America | Other | Not disclosed | mechanical engineering · recruiting | Not specified | [Apply](https://jj.wd5.myworkdayjobs.com/en-US/JJ/job/Jacksonville-Florida-United-States-of-America/Process-Engineer-Spring-Co-op_R-099278-1) |
 | 45 | Johnson & Johnson | Process Engineer Summer Intern | Jacksonville, Florida, United States of America | Other | Not disclosed | mechanical engineering · recruiting | Not specified | [Apply](https://jj.wd5.myworkdayjobs.com/en-US/JJ/job/Jacksonville-Florida-United-States-of-America/Process-Engineer-Summer-Intern_R-099289) |
@@ -643,6 +640,9 @@ Open positions: 377
 | 49 | RTX | Stage - Hiver 2027 - Gestion de projets et développement d'outils d'analyse en qualité / Internship - Winter 2027 - Quality Project management and data analysis tool development | CA-QC-LONGUEUIL-J01 ~ 1000 Blvd Marie-Victorin ~ J01 BLDG | Other | Not disclosed | Python · machine learning · analytics · Excel · mechanical engineering | Not specified | [Apply](https://globalhr.wd5.myworkdayjobs.com/en-US/REC_RTX_Ext_Gateway/job/CA-QC-LONGUEUIL-J01--1000-Blvd-Marie-Victorin--J01-BLDG/Stage---Hiver-2027---Gestion-de-projets-et-dveloppement-d-outils-d-analyse-en-qualit---Internship---Winter-2027---Quality-Project-management-and-data-analysis-tool-development_01863188) |
 | 49 | RTX | Stress Intern - 1st Shift - On site - Aeroestructuras | MX-BCN-MEXICALI-238 ~ Blvd Venustiano Carranza #238 ~ BLDG 238, Desarrollo Industrial Colorado | Other | Not disclosed | Excel · mechanical engineering | Not specified | [Apply](https://globalhr.wd5.myworkdayjobs.com/en-US/REC_RTX_Ext_Gateway/job/MX-BCN-MEXICALI-238--Blvd-Venustiano-Carranza-238--BLDG-238-Desarrollo-Industrial-Colorado/Stress-Intern---1st-Shift---On-site---Aeroestructuras_01842613-1) |
 | 49 | RTX | Intern, Field Svc | CO-DC-BOGOTA-9A26-CUST ~ Cl. 95 #9A 26 ~ CL 95 (External Site) | Other | Not disclosed | — | Not specified | [Apply](https://globalhr.wd5.myworkdayjobs.com/en-US/REC_RTX_Ext_Gateway/job/CO-DC-BOGOTA-9A26-CUST--Cl-95-9A-26--CL-95-External-Site/Intern--Field-Svc_01802976) |
+| 52 | Lowe's | Store Optimization – Undergrad Internship – Summer 2027 | Mooresville, NC (SSC) 1999 | Other | Not disclosed | sales | Not specified | [Apply](https://lowes.wd5.myworkdayjobs.com/en-US/LWS_External_CS/job/Mooresville-NC-SSC-1999/Store-Optimization---Undergrad-Internship---Summer-2027_JR-02651672) |
+| 52 | Lowe's | Merchandising Support – Undergrad Internship – Summer 2027 | Mooresville, NC (SSC) 1999 | Other | Not disclosed | sales | Not specified | [Apply](https://lowes.wd5.myworkdayjobs.com/en-US/LWS_External_CS/job/Mooresville-NC-SSC-1999/Merchandising-Support---Undergrad-Internship---Summer-2027_JR-02651655) |
+| 52 | Lowe's | Merchandising Field Execution – Undergrad Internship – Summer 2027 | Mooresville, NC (SSC) 1999 | Other | Not disclosed | sales | Not specified | [Apply](https://lowes.wd5.myworkdayjobs.com/en-US/LWS_External_CS/job/Mooresville-NC-SSC-1999/Merchandising-Field-Execution---Undergrad-Internship---Summer-2027_JR-02651638) |
 | 52 | Lowe's | Merchandising Analyst - Undergrad Internship - Summer 2027 | Mooresville, NC (SSC) 1999 | Other | Not disclosed | sales | Not specified | [Apply](https://lowes.wd5.myworkdayjobs.com/en-US/LWS_External_CS/job/Mooresville-NC-SSC-1999/Merchandising-Analyst---Undergrad-Internship---Summer-2027_JR-02650526) |
 | 83 | Cisco Systems | Security Consulting Engineer I (Intern) - United States | RTP, North Carolina, US | Other | Not disclosed | Python · Java · Terraform · sales | Not specified | [Apply](https://cisco.wd5.myworkdayjobs.com/en-US/Cisco_Careers/job/RTP-North-Carolina-US/Security-Consulting-Engineer-I--Intern----United-States_2024817) |
 | 99 | Nike | NIKE, Inc. Air MI Engineering Undergraduate Internship | Beaverton, Oregon | Other | Not disclosed | — | Not specified | [Apply](https://nike.wd1.myworkdayjobs.com/en-US/nke/job/Beaverton-Oregon/NIKE--Inc-Air-MI-Engineering-Undergraduate-Internship_R-91417-1) |
