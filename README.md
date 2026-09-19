@@ -7,18 +7,18 @@
 
 F500Tracker is an automated pipeline that discovers U.S.-based internships and full-time positions from Fortune 500 career sites, enriches them with salary, skills, categories, and posting-level visa sponsorship signals, and publishes searchable job data.
 
-Last updated: **September 18, 2026 at 21:07 UTC**
+Last updated: **September 19, 2026 at 04:48 UTC**
 
 | Public metric | Count |
 |---|---:|
 | Tracked Fortune 500 companies | 55 |
-| Internships | 600 |
-| Full-time positions | 14690 |
-| Total current jobs | 15290 |
-| Jobs with disclosed salary | 1744 |
+| Internships | 588 |
+| Full-time positions | 14681 |
+| Total current jobs | 15269 |
+| Jobs with disclosed salary | 1762 |
 | Sponsorship-supported jobs | 0 |
-| Jobs explicitly not offering sponsorship | 2274 |
-| Jobs where sponsorship is not specified | 13016 |
+| Jobs explicitly not offering sponsorship | 2288 |
+| Jobs where sponsorship is not specified | 12981 |
 
 [Internships](jobs/internships.md) · [Full-time roles](jobs/full-time.md) · [Searchable site](https://tyelaman.github.io/F500Tracker/) · [Public JSON](data/jobs.json)
 
