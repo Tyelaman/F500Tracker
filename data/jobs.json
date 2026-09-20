@@ -167,36 +167,6 @@
     "company": "Coupang",
     "fortune_rank": 132,
     "title": "Group Product Manager, Compute Platform ",
-    "location": "Mountain View, USA",
-    "url": "https://www.coupang.jobs/en/jobs/?gh_jid=7959530",
-    "source": "greenhouse",
-    "external_id": "7959530",
-    "employment_type": "full-time",
-    "category": "Product & Design",
-    "h1b_status": "unknown",
-    "sponsorship_evidence": "",
-    "h1b_mentioned": false,
-    "salary_min": 155000.0,
-    "salary_max": 155000.0,
-    "salary_currency": "USD",
-    "salary_period": "year",
-    "salary_text": "$155,000/year",
-    "keywords": [
-      "Kubernetes",
-      "machine learning",
-      "tax",
-      "sales",
-      "recruiting",
-      "contracts"
-    ],
-    "updated_at": "2026-09-15T20:54:13-04:00",
-    "first_seen_at": "2026-08-15T02:30:47.614898+00:00",
-    "enriched_at": "2026-09-16T04:48:16.808530+00:00"
-  },
-  {
-    "company": "Coupang",
-    "fortune_rank": 132,
-    "title": "Group Product Manager, Compute Platform ",
     "location": "Seattle, USA",
     "url": "https://www.coupang.jobs/en/jobs/?gh_jid=6924024",
     "source": "greenhouse",
@@ -222,6 +192,36 @@
     "updated_at": "2026-09-15T20:54:13-04:00",
     "first_seen_at": "2026-08-15T02:30:47.614898+00:00",
     "enriched_at": "2026-09-16T04:48:16.745846+00:00"
+  },
+  {
+    "company": "Coupang",
+    "fortune_rank": 132,
+    "title": "Group Product Manager, Compute Platform ",
+    "location": "Mountain View, USA",
+    "url": "https://www.coupang.jobs/en/jobs/?gh_jid=7959530",
+    "source": "greenhouse",
+    "external_id": "7959530",
+    "employment_type": "full-time",
+    "category": "Product & Design",
+    "h1b_status": "unknown",
+    "sponsorship_evidence": "",
+    "h1b_mentioned": false,
+    "salary_min": 155000.0,
+    "salary_max": 155000.0,
+    "salary_currency": "USD",
+    "salary_period": "year",
+    "salary_text": "$155,000/year",
+    "keywords": [
+      "Kubernetes",
+      "machine learning",
+      "tax",
+      "sales",
+      "recruiting",
+      "contracts"
+    ],
+    "updated_at": "2026-09-15T20:54:13-04:00",
+    "first_seen_at": "2026-08-15T02:30:47.614898+00:00",
+    "enriched_at": "2026-09-16T04:48:16.808530+00:00"
   },
   {
     "company": "Coupang",
@@ -742,39 +742,6 @@
     "company": "Coupang",
     "fortune_rank": 132,
     "title": "Senior Staff Backend Engineer - Cloud Infrastructure",
-    "location": "Seattle, USA",
-    "url": "https://www.coupang.jobs/en/jobs/?gh_jid=7438944",
-    "source": "greenhouse",
-    "external_id": "7438944",
-    "employment_type": "full-time",
-    "category": "Software & IT",
-    "h1b_status": "unknown",
-    "sponsorship_evidence": "",
-    "h1b_mentioned": false,
-    "salary_min": 174000.0,
-    "salary_max": 174000.0,
-    "salary_currency": "USD",
-    "salary_period": "year",
-    "salary_text": "$174,000/year",
-    "keywords": [
-      "Python",
-      "AWS",
-      "Azure",
-      "GCP",
-      "Docker",
-      "Kubernetes",
-      "Terraform",
-      "tax",
-      "recruiting"
-    ],
-    "updated_at": "2026-08-17T19:11:22-04:00",
-    "first_seen_at": "2026-08-15T02:30:47.614898+00:00",
-    "enriched_at": "2026-08-18T01:50:14.771827+00:00"
-  },
-  {
-    "company": "Coupang",
-    "fortune_rank": 132,
-    "title": "Senior Staff Backend Engineer - Cloud Infrastructure",
     "location": "Mountain View, USA",
     "url": "https://www.coupang.jobs/en/jobs/?gh_jid=7962133",
     "source": "greenhouse",
@@ -803,6 +770,39 @@
     "updated_at": "2026-08-17T19:12:00-04:00",
     "first_seen_at": "2026-08-15T02:30:47.614898+00:00",
     "enriched_at": "2026-08-18T01:50:14.811594+00:00"
+  },
+  {
+    "company": "Coupang",
+    "fortune_rank": 132,
+    "title": "Senior Staff Backend Engineer - Cloud Infrastructure",
+    "location": "Seattle, USA",
+    "url": "https://www.coupang.jobs/en/jobs/?gh_jid=7438944",
+    "source": "greenhouse",
+    "external_id": "7438944",
+    "employment_type": "full-time",
+    "category": "Software & IT",
+    "h1b_status": "unknown",
+    "sponsorship_evidence": "",
+    "h1b_mentioned": false,
+    "salary_min": 174000.0,
+    "salary_max": 174000.0,
+    "salary_currency": "USD",
+    "salary_period": "year",
+    "salary_text": "$174,000/year",
+    "keywords": [
+      "Python",
+      "AWS",
+      "Azure",
+      "GCP",
+      "Docker",
+      "Kubernetes",
+      "Terraform",
+      "tax",
+      "recruiting"
+    ],
+    "updated_at": "2026-08-17T19:11:22-04:00",
+    "first_seen_at": "2026-08-15T02:30:47.614898+00:00",
+    "enriched_at": "2026-08-18T01:50:14.771827+00:00"
   },
   {
     "company": "Coupang",
@@ -23608,64 +23608,6 @@
   {
     "company": "Capital One",
     "fortune_rank": 63,
-    "title": "Director - HR Operations and Risk",
-    "location": "Bangalore, In",
-    "url": "https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/Bangalore-In/Director---HR-Operations-and-Risk_R249605",
-    "source": "workday",
-    "external_id": "/job/Bangalore-In/Director---HR-Operations-and-Risk_R249605",
-    "employment_type": "full-time",
-    "category": "Operations & Supply Chain",
-    "h1b_status": "does_not_support_h1b",
-    "sponsorship_evidence": "Business (MBA) or Master\u2019s Degree in Human Resources At this time, Capital One will not sponsor a new applicant for employment authorization for this position.",
-    "h1b_mentioned": false,
-    "salary_min": null,
-    "salary_max": null,
-    "salary_currency": "",
-    "salary_period": "",
-    "salary_text": "",
-    "keywords": [
-      "human resources",
-      "recruiting",
-      "compliance"
-    ],
-    "updated_at": "",
-    "first_seen_at": "2026-09-18T11:25:26.169530+00:00",
-    "enriched_at": "2026-09-18T11:13:26.623397+00:00"
-  },
-  {
-    "company": "Capital One",
-    "fortune_rank": 63,
-    "title": "Director, HR Business Partner",
-    "location": "Bangalore, In",
-    "url": "https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/Bangalore-In/Director--HR-Business-Partner_R249598-1",
-    "source": "workday",
-    "external_id": "/job/Bangalore-In/Director--HR-Business-Partner_R249598-1",
-    "employment_type": "full-time",
-    "category": "People & Legal",
-    "h1b_status": "does_not_support_h1b",
-    "sponsorship_evidence": "l Consulting 7+ years of people management experience At this time, Capital One will not sponsor a new applicant for employment authorization for this position.",
-    "h1b_mentioned": false,
-    "salary_min": null,
-    "salary_max": null,
-    "salary_currency": "",
-    "salary_period": "",
-    "salary_text": "",
-    "keywords": [
-      "machine learning",
-      "data science",
-      "analytics",
-      "Excel",
-      "human resources",
-      "recruiting",
-      "compliance"
-    ],
-    "updated_at": "",
-    "first_seen_at": "2026-09-18T11:25:26.169530+00:00",
-    "enriched_at": "2026-09-18T11:13:26.635278+00:00"
-  },
-  {
-    "company": "Capital One",
-    "fortune_rank": 63,
     "title": "Lead AI Engineer",
     "location": "Bangalore, In",
     "url": "https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/Bangalore-In/Lead-AI-Engineer_R248117",
@@ -29956,7 +29898,7 @@
     ],
     "updated_at": "",
     "first_seen_at": "2026-08-16T07:08:39.864479+00:00",
-    "enriched_at": "2026-09-13T16:16:37.917532+00:00"
+    "enriched_at": "2026-09-20T20:48:58.542648+00:00"
   },
   {
     "company": "Capital One",
@@ -35730,6 +35672,139 @@
     "updated_at": "",
     "first_seen_at": "2026-08-15T02:30:47.614898+00:00",
     "enriched_at": "2026-09-19T10:58:06.470300+00:00"
+  },
+  {
+    "company": "Northrop Grumman",
+    "fortune_rank": 112,
+    "title": "Staffl Hardware Test Engineer",
+    "location": "United States-Ohio-Cincinnati",
+    "url": "https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-Ohio-Cincinnati/Staffl-Hardware-Test-Engineer_R10251924",
+    "source": "workday",
+    "external_id": "/job/United-States-Ohio-Cincinnati/Staffl-Hardware-Test-Engineer_R10251924",
+    "employment_type": "full-time",
+    "category": "Other",
+    "h1b_status": "unknown",
+    "sponsorship_evidence": "",
+    "h1b_mentioned": false,
+    "salary_min": null,
+    "salary_max": null,
+    "salary_currency": "",
+    "salary_period": "",
+    "salary_text": "",
+    "keywords": [
+      "Python"
+    ],
+    "updated_at": "",
+    "first_seen_at": "2026-09-20T20:59:45.242468+00:00",
+    "enriched_at": "2026-09-20T20:50:14.027210+00:00"
+  },
+  {
+    "company": "Northrop Grumman",
+    "fortune_rank": 112,
+    "title": "Cyber Systems Engineer (Engineer or Principal Engineer Level)",
+    "location": "United States-Oklahoma-Oklahoma City",
+    "url": "https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-Oklahoma-Oklahoma-City/Cyber-Systems-Engineer--Engineer-or-Principal-Engineer-Level-_R10239700",
+    "source": "workday",
+    "external_id": "/job/United-States-Oklahoma-Oklahoma-City/Cyber-Systems-Engineer--Engineer-or-Principal-Engineer-Level-_R10239700",
+    "employment_type": "full-time",
+    "category": "Software & IT",
+    "h1b_status": "unknown",
+    "sponsorship_evidence": "",
+    "h1b_mentioned": false,
+    "salary_min": null,
+    "salary_max": null,
+    "salary_currency": "",
+    "salary_period": "",
+    "salary_text": "",
+    "keywords": [
+      "risk management",
+      "supply chain"
+    ],
+    "updated_at": "",
+    "first_seen_at": "2026-09-20T20:59:45.242468+00:00",
+    "enriched_at": "2026-09-20T20:50:14.041064+00:00"
+  },
+  {
+    "company": "Northrop Grumman",
+    "fortune_rank": 112,
+    "title": "Program Planning and Scheduling Analyst - Level 2",
+    "location": "United States-California-Redondo Beach",
+    "url": "https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-California-Redondo-Beach/Program-Planning-and-Scheduling-Analyst---Level-2_R10240030",
+    "source": "workday",
+    "external_id": "/job/United-States-California-Redondo-Beach/Program-Planning-and-Scheduling-Analyst---Level-2_R10240030",
+    "employment_type": "full-time",
+    "category": "Other",
+    "h1b_status": "unknown",
+    "sponsorship_evidence": "",
+    "h1b_mentioned": false,
+    "salary_min": null,
+    "salary_max": null,
+    "salary_currency": "",
+    "salary_period": "",
+    "salary_text": "",
+    "keywords": [
+      "Excel",
+      "contracts"
+    ],
+    "updated_at": "",
+    "first_seen_at": "2026-09-20T20:59:45.242468+00:00",
+    "enriched_at": "2026-09-20T20:50:14.055593+00:00"
+  },
+  {
+    "company": "Northrop Grumman",
+    "fortune_rank": 112,
+    "title": "Manager Supply Chain Programs 1",
+    "location": "United States-Virginia-Dulles",
+    "url": "https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-Virginia-Dulles/Manager-Supply-Chain-Programs-1_R10247873",
+    "source": "workday",
+    "external_id": "/job/United-States-Virginia-Dulles/Manager-Supply-Chain-Programs-1_R10247873",
+    "employment_type": "full-time",
+    "category": "Operations & Supply Chain",
+    "h1b_status": "unknown",
+    "sponsorship_evidence": "",
+    "h1b_mentioned": false,
+    "salary_min": null,
+    "salary_max": null,
+    "salary_currency": "",
+    "salary_period": "",
+    "salary_text": "",
+    "keywords": [
+      "analytics",
+      "Excel",
+      "supply chain",
+      "procurement",
+      "sales",
+      "compliance",
+      "contracts"
+    ],
+    "updated_at": "",
+    "first_seen_at": "2026-09-20T20:59:45.242468+00:00",
+    "enriched_at": "2026-09-20T20:50:14.066739+00:00"
+  },
+  {
+    "company": "Northrop Grumman",
+    "fortune_rank": 112,
+    "title": "Program Planning and Scheduling Analyst - Level 5",
+    "location": "United States-California-Redondo Beach",
+    "url": "https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-California-Redondo-Beach/Program-Planning-and-Scheduling-Analyst---Level-5_R10251921",
+    "source": "workday",
+    "external_id": "/job/United-States-California-Redondo-Beach/Program-Planning-and-Scheduling-Analyst---Level-5_R10251921",
+    "employment_type": "full-time",
+    "category": "Other",
+    "h1b_status": "unknown",
+    "sponsorship_evidence": "",
+    "h1b_mentioned": false,
+    "salary_min": null,
+    "salary_max": null,
+    "salary_currency": "",
+    "salary_period": "",
+    "salary_text": "",
+    "keywords": [
+      "Excel"
+    ],
+    "updated_at": "",
+    "first_seen_at": "2026-09-20T20:59:45.242468+00:00",
+    "enriched_at": "2026-09-20T20:50:14.084696+00:00"
   },
   {
     "company": "Northrop Grumman",
@@ -54443,7 +54518,7 @@
     ],
     "updated_at": "",
     "first_seen_at": "2026-09-13T16:25:04.609565+00:00",
-    "enriched_at": "2026-09-13T16:17:46.069618+00:00"
+    "enriched_at": "2026-09-20T20:50:14.096858+00:00"
   },
   {
     "company": "Northrop Grumman",
@@ -54466,7 +54541,7 @@
     "keywords": [],
     "updated_at": "",
     "first_seen_at": "2026-09-13T16:25:04.609565+00:00",
-    "enriched_at": "2026-09-13T16:17:46.084697+00:00"
+    "enriched_at": "2026-09-20T20:50:14.111799+00:00"
   },
   {
     "company": "Northrop Grumman",
@@ -54492,7 +54567,7 @@
     ],
     "updated_at": "",
     "first_seen_at": "2026-09-13T16:25:04.609565+00:00",
-    "enriched_at": "2026-09-13T16:17:46.093186+00:00"
+    "enriched_at": "2026-09-20T20:50:14.120453+00:00"
   },
   {
     "company": "Northrop Grumman",
@@ -121559,34 +121634,6 @@
   {
     "company": "Visa",
     "fortune_rank": 119,
-    "title": "Staff SW Engineer- Java backend with GenAI experience",
-    "location": "IN - Bengaluru, India",
-    "url": "https://visa.wd5.myworkdayjobs.com/en-US/Visa/job/IN---Bengaluru-India/Staff-SW-Engineer_REF081656W",
-    "source": "workday",
-    "external_id": "/job/IN---Bengaluru-India/Staff-SW-Engineer_REF081656W",
-    "employment_type": "full-time",
-    "category": "Software & IT",
-    "h1b_status": "unknown",
-    "sponsorship_evidence": "",
-    "h1b_mentioned": false,
-    "salary_min": null,
-    "salary_max": null,
-    "salary_currency": "",
-    "salary_period": "",
-    "salary_text": "",
-    "keywords": [
-      "Java",
-      "SQL",
-      "Azure",
-      "compliance"
-    ],
-    "updated_at": "",
-    "first_seen_at": "2026-09-19T16:04:03.769342+00:00",
-    "enriched_at": "2026-09-13T16:17:55.221804+00:00"
-  },
-  {
-    "company": "Visa",
-    "fortune_rank": 119,
     "title": "Vice President, Lifecycle Marketing, Global Marketing Services",
     "location": "US - San Francisco, CA",
     "url": "https://visa.wd5.myworkdayjobs.com/en-US/Visa/job/US---San-Francisco-CA/Vice-President--Lifecycle-Marketing--Global-Marketing-Services_REF088546W-1",
@@ -122205,6 +122252,34 @@
     "updated_at": "",
     "first_seen_at": "2026-09-20T16:16:24.776999+00:00",
     "enriched_at": "2026-09-18T04:44:31.184341+00:00"
+  },
+  {
+    "company": "Visa",
+    "fortune_rank": 119,
+    "title": "Associate Technical Program Analyst Intern - Summer 2027",
+    "location": "US - Foster City, CA",
+    "url": "https://visa.wd5.myworkdayjobs.com/en-US/Visa/job/US---Foster-City-CA/Associate-Technical-Program-Analyst-Intern---Summer-2027_REF088637W",
+    "source": "workday",
+    "external_id": "/job/US---Foster-City-CA/Associate-Technical-Program-Analyst-Intern---Summer-2027_REF088637W",
+    "employment_type": "internship",
+    "category": "Other",
+    "h1b_status": "does_not_support_h1b",
+    "sponsorship_evidence": "e in project management a plus Additional Information: Work Authorization: Visa will not sponsor applicants for work visas in connection with this position.",
+    "h1b_mentioned": false,
+    "salary_min": null,
+    "salary_max": null,
+    "salary_currency": "",
+    "salary_period": "",
+    "salary_text": "",
+    "keywords": [
+      "SQL",
+      "Excel",
+      "financial modeling",
+      "procurement"
+    ],
+    "updated_at": "",
+    "first_seen_at": "2026-09-20T20:59:45.242468+00:00",
+    "enriched_at": "2026-09-17T21:24:13.426163+00:00"
   },
   {
     "company": "Micron Technology",
@@ -131068,7 +131143,7 @@
     ],
     "updated_at": "",
     "first_seen_at": "2026-08-16T07:08:39.864479+00:00",
-    "enriched_at": "2026-09-13T16:18:38.152125+00:00"
+    "enriched_at": "2026-09-20T20:51:15.023647+00:00"
   },
   {
     "company": "Micron Technology",
@@ -132438,7 +132513,7 @@
     ],
     "updated_at": "",
     "first_seen_at": "2026-08-16T07:08:39.864479+00:00",
-    "enriched_at": "2026-09-13T16:18:38.162948+00:00"
+    "enriched_at": "2026-09-20T20:51:15.034431+00:00"
   },
   {
     "company": "Micron Technology",
@@ -166560,7 +166635,7 @@
     ],
     "updated_at": "",
     "first_seen_at": "2026-09-20T05:00:06.460185+00:00",
-    "enriched_at": "2026-09-13T16:21:07.665837+00:00"
+    "enriched_at": "2026-09-20T20:53:49.183978+00:00"
   },
   {
     "company": "RTX",
@@ -173566,38 +173641,6 @@
     "updated_at": "",
     "first_seen_at": "2026-09-17T11:53:20.020419+00:00",
     "enriched_at": "2026-09-17T11:46:18.249862+00:00"
-  },
-  {
-    "company": "RTX",
-    "fortune_rank": 49,
-    "title": "Principal Specialist, Software Developer - MRO Application",
-    "location": "IN-KA-BENGALURU-NORTHGATE ~ Sy No 2/2 Venkatala Village ~ SY NO 2/2 VENKATALA VILLAGE, Yelahanka Hobli",
-    "url": "https://globalhr.wd5.myworkdayjobs.com/en-US/REC_RTX_Ext_Gateway/job/IN-KA-BENGALURU-NORTHGATE--Sy-No-22-Venkatala-Village--SY-NO-22-VENKATALA-VILLAGE-Yelahanka-Hobli/MRO-Application-Software-Developer_01861607",
-    "source": "workday",
-    "external_id": "/job/IN-KA-BENGALURU-NORTHGATE--Sy-No-22-Venkatala-Village--SY-NO-22-VENKATALA-VILLAGE-Yelahanka-Hobli/MRO-Application-Software-Developer_01861607",
-    "employment_type": "full-time",
-    "category": "Software & IT",
-    "h1b_status": "unknown",
-    "sponsorship_evidence": "",
-    "h1b_mentioned": false,
-    "salary_min": null,
-    "salary_max": null,
-    "salary_currency": "",
-    "salary_period": "",
-    "salary_text": "",
-    "keywords": [
-      "JavaScript",
-      "TypeScript",
-      "SQL",
-      "AWS",
-      "Azure",
-      "Docker",
-      "Kubernetes",
-      "recruiting"
-    ],
-    "updated_at": "",
-    "first_seen_at": "2026-09-17T11:53:20.020419+00:00",
-    "enriched_at": "2026-09-17T11:46:18.259647+00:00"
   },
   {
     "company": "RTX",
@@ -188015,7 +188058,7 @@
     ],
     "updated_at": "",
     "first_seen_at": "2026-09-13T16:25:04.609565+00:00",
-    "enriched_at": "2026-09-13T16:21:07.676968+00:00"
+    "enriched_at": "2026-09-20T20:53:49.196444+00:00"
   },
   {
     "company": "RTX",
@@ -199149,29 +199192,6 @@
     "updated_at": "",
     "first_seen_at": "2026-09-09T16:52:58.819227+00:00",
     "enriched_at": "2026-09-16T17:02:03.913539+00:00"
-  },
-  {
-    "company": "RTX",
-    "fortune_rank": 49,
-    "title": "Senior Associate - SAP BTP IS",
-    "location": "IN-KA-BENGALURU-NORTHGATE ~ Sy No 2/2 Venkatala Village ~ SY NO 2/2 VENKATALA VILLAGE, Yelahanka Hobli",
-    "url": "https://globalhr.wd5.myworkdayjobs.com/en-US/REC_RTX_Ext_Gateway/job/IN-KA-BENGALURU-NORTHGATE--Sy-No-22-Venkatala-Village--SY-NO-22-VENKATALA-VILLAGE-Yelahanka-Hobli/Senior-Associate--Integration-Development-BTP_01853944",
-    "source": "workday",
-    "external_id": "/job/IN-KA-BENGALURU-NORTHGATE--Sy-No-22-Venkatala-Village--SY-NO-22-VENKATALA-VILLAGE-Yelahanka-Hobli/Senior-Associate--Integration-Development-BTP_01853944",
-    "employment_type": "full-time",
-    "category": "Other",
-    "h1b_status": "unknown",
-    "sponsorship_evidence": "",
-    "h1b_mentioned": false,
-    "salary_min": null,
-    "salary_max": null,
-    "salary_currency": "",
-    "salary_period": "",
-    "salary_text": "",
-    "keywords": [],
-    "updated_at": "",
-    "first_seen_at": "2026-09-03T11:25:37.195539+00:00",
-    "enriched_at": "2026-09-17T11:46:18.405244+00:00"
   },
   {
     "company": "RTX",
@@ -278773,31 +278793,6 @@
   {
     "company": "Lowe's",
     "fortune_rank": 52,
-    "title": "Full Time - Sales Specialist - Appliances - Day",
-    "location": "Rio Grande, NJ (Cape May) 1861",
-    "url": "https://lowes.wd5.myworkdayjobs.com/en-US/LWS_External_CS/job/Rio-Grande-NJ-Cape-May-1861/Full-Time---Sales-Specialist---Appliances---Day_JR-02646768-1",
-    "source": "workday",
-    "external_id": "/job/Rio-Grande-NJ-Cape-May-1861/Full-Time---Sales-Specialist---Appliances---Day_JR-02646768-1",
-    "employment_type": "full-time",
-    "category": "Sales & Marketing",
-    "h1b_status": "unknown",
-    "sponsorship_evidence": "",
-    "h1b_mentioned": false,
-    "salary_min": 17.5,
-    "salary_max": 18.2,
-    "salary_currency": "USD",
-    "salary_period": "hour",
-    "salary_text": "$17.50 - $18.20 per hour",
-    "keywords": [
-      "sales"
-    ],
-    "updated_at": "",
-    "first_seen_at": "2026-09-10T21:05:43.294276+00:00",
-    "enriched_at": "2026-09-17T21:33:47.169644+00:00"
-  },
-  {
-    "company": "Lowe's",
-    "fortune_rank": 52,
     "title": "Full Time - Receiver/Stocker - Day",
     "location": "Hudson, NY (Greenport) 2927",
     "url": "https://lowes.wd5.myworkdayjobs.com/en-US/LWS_External_CS/job/Hudson-NY-Greenport-2927/Full-Time---Receiver-Stocker---Day_JR-02647039",
@@ -293111,32 +293106,6 @@
   {
     "company": "Lowe's",
     "fortune_rank": 52,
-    "title": "Full Time - Fulfillment Associate - Day",
-    "location": "Erie, PA (W Erie) 1654",
-    "url": "https://lowes.wd5.myworkdayjobs.com/en-US/LWS_External_CS/job/Erie-PA-W-Erie-1654/Full-Time---Fulfillment-Associate---Day_JR-02640682-1",
-    "source": "workday",
-    "external_id": "/job/Erie-PA-W-Erie-1654/Full-Time---Fulfillment-Associate---Day_JR-02640682-1",
-    "employment_type": "full-time",
-    "category": "Other",
-    "h1b_status": "unknown",
-    "sponsorship_evidence": "",
-    "h1b_mentioned": false,
-    "salary_min": null,
-    "salary_max": null,
-    "salary_currency": "",
-    "salary_period": "",
-    "salary_text": "",
-    "keywords": [
-      "sales",
-      "compliance"
-    ],
-    "updated_at": "",
-    "first_seen_at": "2026-09-02T16:51:29.528318+00:00",
-    "enriched_at": "2026-09-16T17:06:53.718040+00:00"
-  },
-  {
-    "company": "Lowe's",
-    "fortune_rank": 52,
     "title": "Full Time - Head Cashier - Day",
     "location": "Kingston, NY (Ulster) 0524",
     "url": "https://lowes.wd5.myworkdayjobs.com/en-US/LWS_External_CS/job/Kingston-NY-Ulster-0524/Full-Time---Head-Cashier---Day_JR-02626150-1",
@@ -295189,6 +295158,60 @@
     "enriched_at": "2026-09-16T21:28:55.713723+00:00"
   },
   {
+    "company": "Allstate",
+    "fortune_rank": 64,
+    "title": "Field Auto Adjuster",
+    "location": "FL - St. Augustine",
+    "url": "https://allstate.wd5.myworkdayjobs.com/en-US/allstate_careers/job/FL---St-Augustine/Field-Auto-Adjuster_R34903",
+    "source": "workday",
+    "external_id": "/job/FL---St-Augustine/Field-Auto-Adjuster_R34903",
+    "employment_type": "full-time",
+    "category": "Other",
+    "h1b_status": "unknown",
+    "sponsorship_evidence": "",
+    "h1b_mentioned": false,
+    "salary_min": null,
+    "salary_max": null,
+    "salary_currency": "",
+    "salary_period": "",
+    "salary_text": "",
+    "keywords": [
+      "compliance",
+      "contracts"
+    ],
+    "updated_at": "",
+    "first_seen_at": "2026-09-20T20:59:45.242468+00:00",
+    "enriched_at": "2026-09-16T21:28:55.721702+00:00"
+  },
+  {
+    "company": "Allstate",
+    "fortune_rank": 64,
+    "title": "Legal Administrative Assistant (Remote - California)",
+    "location": "USA - CA (Remote)",
+    "url": "https://allstate.wd5.myworkdayjobs.com/en-US/allstate_careers/job/USA---CA-Remote/Legal-Administrative-Assistant--Remote---California-_R33291-1",
+    "source": "workday",
+    "external_id": "/job/USA---CA-Remote/Legal-Administrative-Assistant--Remote---California-_R33291-1",
+    "employment_type": "full-time",
+    "category": "People & Legal",
+    "h1b_status": "does_not_support_h1b",
+    "sponsorship_evidence": "Allstate generally does not sponsor individuals for employment-based visas for this position.",
+    "h1b_mentioned": false,
+    "salary_min": null,
+    "salary_max": null,
+    "salary_currency": "",
+    "salary_period": "",
+    "salary_text": "",
+    "keywords": [
+      "Excel",
+      "compliance",
+      "legal",
+      "contracts"
+    ],
+    "updated_at": "",
+    "first_seen_at": "2026-09-20T20:59:45.242468+00:00",
+    "enriched_at": "2026-09-16T17:07:15.256303+00:00"
+  },
+  {
     "company": "Caterpillar",
     "fortune_rank": 65,
     "title": "Autonomy Portfolio Analyst",
@@ -295559,60 +295582,6 @@
     "updated_at": "",
     "first_seen_at": "2026-09-18T21:07:56.083167+00:00",
     "enriched_at": "2026-09-18T21:05:32.746116+00:00"
-  },
-  {
-    "company": "Caterpillar",
-    "fortune_rank": 65,
-    "title": "Senior Design Engineer- G3500 Platform",
-    "location": "Lafayette, Indiana",
-    "url": "https://cat.wd5.myworkdayjobs.com/en-US/CaterpillarCareers/job/Lafayette-Indiana/Senior-Design-Engineer--G3500-Platform_R0000394521-1",
-    "source": "workday",
-    "external_id": "/job/Lafayette-Indiana/Senior-Design-Engineer--G3500-Platform_R0000394521-1",
-    "employment_type": "full-time",
-    "category": "Other",
-    "h1b_status": "unknown",
-    "sponsorship_evidence": "",
-    "h1b_mentioned": false,
-    "salary_min": null,
-    "salary_max": null,
-    "salary_currency": "",
-    "salary_period": "",
-    "salary_text": "",
-    "keywords": [
-      "Excel",
-      "mechanical engineering",
-      "procurement"
-    ],
-    "updated_at": "",
-    "first_seen_at": "2026-09-18T21:07:56.083167+00:00",
-    "enriched_at": "2026-09-18T21:05:32.757066+00:00"
-  },
-  {
-    "company": "Caterpillar",
-    "fortune_rank": 65,
-    "title": "Manager Logistics",
-    "location": "Pontiac, Illinois",
-    "url": "https://cat.wd5.myworkdayjobs.com/en-US/CaterpillarCareers/job/Pontiac-Illinois/Manager-Logistics_R0000394343",
-    "source": "workday",
-    "external_id": "/job/Pontiac-Illinois/Manager-Logistics_R0000394343",
-    "employment_type": "full-time",
-    "category": "Operations & Supply Chain",
-    "h1b_status": "unknown",
-    "sponsorship_evidence": "",
-    "h1b_mentioned": false,
-    "salary_min": null,
-    "salary_max": null,
-    "salary_currency": "",
-    "salary_period": "",
-    "salary_text": "",
-    "keywords": [
-      "supply chain",
-      "logistics",
-      "compliance"
-    ],
-    "updated_at": "",
-    "first_seen_at": "2026-09-18T21:07:56.083167+00:00",
-    "enriched_at": "2026-09-18T21:05:32.775983+00:00"
   },
   {
     "company": "Prudential Financial",
@@ -300037,7 +300006,7 @@
     ],
     "updated_at": "",
     "first_seen_at": "2026-09-06T15:39:07.896205+00:00",
-    "enriched_at": "2026-09-13T16:23:39.209578+00:00"
+    "enriched_at": "2026-09-20T20:58:15.374470+00:00"
   },
   {
     "company": "Cisco Systems",
@@ -300937,7 +300906,7 @@
     ],
     "updated_at": "",
     "first_seen_at": "2026-08-30T12:04:43.077476+00:00",
-    "enriched_at": "2026-09-13T16:23:39.224330+00:00"
+    "enriched_at": "2026-09-20T20:58:15.388576+00:00"
   },
   {
     "company": "Cisco Systems",
@@ -301330,7 +301299,7 @@
     ],
     "updated_at": "",
     "first_seen_at": "2026-08-23T07:11:28.250437+00:00",
-    "enriched_at": "2026-09-13T16:23:39.240505+00:00"
+    "enriched_at": "2026-09-20T20:58:15.404443+00:00"
   },
   {
     "company": "Cisco Systems",
@@ -301356,7 +301325,7 @@
     ],
     "updated_at": "",
     "first_seen_at": "2026-08-23T07:11:28.250437+00:00",
-    "enriched_at": "2026-09-13T16:23:39.253554+00:00"
+    "enriched_at": "2026-09-20T20:58:15.417313+00:00"
   },
   {
     "company": "Cisco Systems",
@@ -329261,36 +329230,6 @@
     "enriched_at": "2026-09-18T21:07:32.415556+00:00"
   },
   {
-    "company": "U.S. Bancorp",
-    "fortune_rank": 110,
-    "title": "HR Business Risk Analyst",
-    "location": "Minneapolis, MN",
-    "url": "https://usbank.wd1.myworkdayjobs.com/en-US/US_Bank_Careers/job/Minneapolis-MN/HR-Business-Risk-Analyst_2026-0028195-1",
-    "source": "workday",
-    "external_id": "/job/Minneapolis-MN/HR-Business-Risk-Analyst_2026-0028195-1",
-    "employment_type": "full-time",
-    "category": "People & Legal",
-    "h1b_status": "unknown",
-    "sponsorship_evidence": "",
-    "h1b_mentioned": false,
-    "salary_min": null,
-    "salary_max": null,
-    "salary_currency": "",
-    "salary_period": "",
-    "salary_text": "",
-    "keywords": [
-      "Excel",
-      "audit",
-      "risk management",
-      "sales",
-      "human resources",
-      "compliance"
-    ],
-    "updated_at": "",
-    "first_seen_at": "2026-09-18T21:07:56.083167+00:00",
-    "enriched_at": "2026-09-18T21:07:32.423774+00:00"
-  },
-  {
     "company": "PNC Financial Services Group",
     "fortune_rank": 136,
     "title": "Detection & Investigation Analyst Sr - Physical Security Operations Center",
@@ -329725,6 +329664,90 @@
     "updated_at": "",
     "first_seen_at": "2026-09-18T21:07:56.083167+00:00",
     "enriched_at": "2026-09-18T21:07:36.370354+00:00"
+  },
+  {
+    "company": "Truist Financial",
+    "fortune_rank": 150,
+    "title": "Relationship Banker/Senior Relationship Banker - Governor's Crossing",
+    "location": "Tallahassee, FL",
+    "url": "https://truist.wd1.myworkdayjobs.com/en-US/Careers/job/Tallahassee-FL/Relationship-Banker-Senior-Relationship-Banker---Governor-s-Crossing_R0119311",
+    "source": "workday",
+    "external_id": "/job/Tallahassee-FL/Relationship-Banker-Senior-Relationship-Banker---Governor-s-Crossing_R0119311",
+    "employment_type": "full-time",
+    "category": "Other",
+    "h1b_status": "unknown",
+    "sponsorship_evidence": "",
+    "h1b_mentioned": false,
+    "salary_min": null,
+    "salary_max": null,
+    "salary_currency": "",
+    "salary_period": "",
+    "salary_text": "",
+    "keywords": [
+      "tax",
+      "risk management",
+      "sales",
+      "compliance"
+    ],
+    "updated_at": "",
+    "first_seen_at": "2026-09-20T20:59:45.242468+00:00",
+    "enriched_at": "2026-09-16T05:01:23.170562+00:00"
+  },
+  {
+    "company": "Truist Financial",
+    "fortune_rank": 150,
+    "title": "Universal Banker - Truist Place",
+    "location": "Tallahassee, FL",
+    "url": "https://truist.wd1.myworkdayjobs.com/en-US/Careers/job/Tallahassee-FL/Universal-Banker---Truist-Place_R0118344",
+    "source": "workday",
+    "external_id": "/job/Tallahassee-FL/Universal-Banker---Truist-Place_R0118344",
+    "employment_type": "full-time",
+    "category": "Other",
+    "h1b_status": "unknown",
+    "sponsorship_evidence": "",
+    "h1b_mentioned": false,
+    "salary_min": null,
+    "salary_max": null,
+    "salary_currency": "",
+    "salary_period": "",
+    "salary_text": "",
+    "keywords": [
+      "tax",
+      "risk management",
+      "sales",
+      "compliance"
+    ],
+    "updated_at": "",
+    "first_seen_at": "2026-09-20T20:59:45.242468+00:00",
+    "enriched_at": "2026-09-20T20:59:29.681054+00:00"
+  },
+  {
+    "company": "Truist Financial",
+    "fortune_rank": 150,
+    "title": "Relationship Banker/Senior Relationship Banker - Florida State University",
+    "location": "Tallahassee, FL",
+    "url": "https://truist.wd1.myworkdayjobs.com/en-US/Careers/job/Tallahassee-FL/Relationship-Banker-Senior-Relationship-Banker---Florida-State-University_R0116675",
+    "source": "workday",
+    "external_id": "/job/Tallahassee-FL/Relationship-Banker-Senior-Relationship-Banker---Florida-State-University_R0116675",
+    "employment_type": "full-time",
+    "category": "Other",
+    "h1b_status": "unknown",
+    "sponsorship_evidence": "",
+    "h1b_mentioned": false,
+    "salary_min": null,
+    "salary_max": null,
+    "salary_currency": "",
+    "salary_period": "",
+    "salary_text": "",
+    "keywords": [
+      "tax",
+      "risk management",
+      "sales",
+      "compliance"
+    ],
+    "updated_at": "",
+    "first_seen_at": "2026-09-20T20:59:45.242468+00:00",
+    "enriched_at": "2026-09-20T20:59:29.692960+00:00"
   },
   {
     "company": "Truist Financial",
@@ -330388,62 +330411,6 @@
     "updated_at": "",
     "first_seen_at": "2026-09-18T16:37:42.131228+00:00",
     "enriched_at": "2026-09-18T16:37:19.277406+00:00"
-  },
-  {
-    "company": "Truist Financial",
-    "fortune_rank": 150,
-    "title": "Fraud Specialist I",
-    "location": "Atlanta, GA",
-    "url": "https://truist.wd1.myworkdayjobs.com/en-US/Careers/job/Atlanta-GA/Fraud-Specialist-I_R0118885",
-    "source": "workday",
-    "external_id": "/job/Atlanta-GA/Fraud-Specialist-I_R0118885",
-    "employment_type": "full-time",
-    "category": "Other",
-    "h1b_status": "unknown",
-    "sponsorship_evidence": "",
-    "h1b_mentioned": false,
-    "salary_min": null,
-    "salary_max": null,
-    "salary_currency": "",
-    "salary_period": "",
-    "salary_text": "",
-    "keywords": [
-      "audit",
-      "tax",
-      "compliance",
-      "legal"
-    ],
-    "updated_at": "",
-    "first_seen_at": "2026-09-18T16:37:42.131228+00:00",
-    "enriched_at": "2026-09-18T16:37:19.289862+00:00"
-  },
-  {
-    "company": "Truist Financial",
-    "fortune_rank": 150,
-    "title": "Fraud Senior Specialist I",
-    "location": "Charlotte, NC",
-    "url": "https://truist.wd1.myworkdayjobs.com/en-US/Careers/job/Charlotte-NC/Fraud-Senior-Specialist-I_R0118070",
-    "source": "workday",
-    "external_id": "/job/Charlotte-NC/Fraud-Senior-Specialist-I_R0118070",
-    "employment_type": "full-time",
-    "category": "Other",
-    "h1b_status": "unknown",
-    "sponsorship_evidence": "",
-    "h1b_mentioned": false,
-    "salary_min": null,
-    "salary_max": null,
-    "salary_currency": "",
-    "salary_period": "",
-    "salary_text": "",
-    "keywords": [
-      "audit",
-      "tax",
-      "compliance",
-      "legal"
-    ],
-    "updated_at": "",
-    "first_seen_at": "2026-09-18T16:37:42.131228+00:00",
-    "enriched_at": "2026-09-18T16:37:19.300373+00:00"
   },
   {
     "company": "3M",

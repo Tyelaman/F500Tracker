@@ -1,12 +1,12 @@
 # F500Tracker internships
 
-Last updated: September 20, 2026 at 16:16 UTC
+Last updated: September 20, 2026 at 20:59 UTC
 
-Current internships: 569
+Current internships: 570
 
 ## Categories
 
-[Software & IT (48)](#software-it) · [Data & AI (15)](#data-ai) · [Product & Design (2)](#product-design) · [Engineering (47)](#engineering) · [Finance & Accounting (15)](#finance-accounting) · [Sales & Marketing (17)](#sales-marketing) · [Operations & Supply Chain (34)](#operations-supply-chain) · [People & Legal (7)](#people-legal) · [Other (384)](#other)
+[Software & IT (48)](#software-it) · [Data & AI (15)](#data-ai) · [Product & Design (2)](#product-design) · [Engineering (47)](#engineering) · [Finance & Accounting (15)](#finance-accounting) · [Sales & Marketing (17)](#sales-marketing) · [Operations & Supply Chain (34)](#operations-supply-chain) · [People & Legal (7)](#people-legal) · [Other (385)](#other)
 
 <a id="software-it"></a>
 
@@ -285,7 +285,7 @@ Open positions: 7
 
 ## Other
 
-Open positions: 384
+Open positions: 385
 
 | Rank | Company | Position | Location | Category | Salary | Keywords | Sponsorship | Apply |
 |---:|---|---|---|---|---|---|---|---|
@@ -297,6 +297,7 @@ Open positions: 384
 | 112 | Northrop Grumman | Intern Business Management | United States-Florida-Melbourne | Other | $16.5–$30/hr | accounting | Not specified | [Apply](https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-Florida-Melbourne/Intern-Business-Management_R10251454) |
 | 112 | Northrop Grumman | 2027 Facilities Engineering Intern | United States-Utah-Clearfield | Other | $18.5–$33.5/hr | mechanical engineering · electrical engineering · procurement | Not specified | [Apply](https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-Utah-Clearfield/XMLNAME-2027-Facilities-Engineering-Intern_R10251663) |
 | 112 | Northrop Grumman | 2026 Part-Time Cyber Security Engineering Intern - Aurora CO | United States-Colorado-Aurora | Other | $20.5–$38/hr | mechanical engineering | Not specified | [Apply](https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-Colorado-Aurora/XMLNAME-2026-Part-Time-Cyber-Security-Engineering-Intern---Aurora-CO_R10248520) |
+| 119 | Visa | Associate Technical Program Analyst Intern - Summer 2027 | US - Foster City, CA | Other | Not disclosed | SQL · Excel · financial modeling · procurement | No sponsorship for this position | [Apply](https://visa.wd5.myworkdayjobs.com/en-US/Visa/job/US---Foster-City-CA/Associate-Technical-Program-Analyst-Intern---Summer-2027_REF088637W) |
 | 125 | Micron Technology | Intern - Category Supplier Management | Boise, ID - North Office | Other | Not disclosed | Python · SQL · analytics · Excel · supply chain | Not specified | [Apply](https://micron.wd1.myworkdayjobs.com/en-US/External/job/Boise-ID---North-Office/Intern---Category-Supplier-Management_JR110910) |
 | 125 | Micron Technology | Intern - ASIC Digital Design | Minneapolis, MN | Other | $24–$55/hr | Python · electrical engineering | Not specified | [Apply](https://micron.wd1.myworkdayjobs.com/en-US/External/job/Minneapolis-MN/Intern---ASIC-Digital-Design_JR112163) |
 | 125 | Micron Technology | Intern - TSE KEG Engineer | Boise, ID - Main Site | Other | Not disclosed | artificial intelligence · Excel · mechanical engineering · electrical engineering · CAD | Not specified | [Apply](https://micron.wd1.myworkdayjobs.com/en-US/External/job/Boise-ID---Main-Site/TSE-KEG-Intern-Engineer_JR112283) |
