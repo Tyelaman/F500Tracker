@@ -1,12 +1,12 @@
 # F500Tracker internships
 
-Last updated: September 24, 2026 at 05:01 UTC
+Last updated: September 24, 2026 at 11:57 UTC
 
-Current internships: 640
+Current internships: 635
 
 ## Categories
 
-[Software & IT (46)](#software-it) · [Data & AI (15)](#data-ai) · [Product & Design (2)](#product-design) · [Engineering (63)](#engineering) · [Finance & Accounting (17)](#finance-accounting) · [Sales & Marketing (18)](#sales-marketing) · [Operations & Supply Chain (43)](#operations-supply-chain) · [People & Legal (5)](#people-legal) · [Other (431)](#other)
+[Software & IT (46)](#software-it) · [Data & AI (15)](#data-ai) · [Product & Design (2)](#product-design) · [Engineering (62)](#engineering) · [Finance & Accounting (17)](#finance-accounting) · [Sales & Marketing (18)](#sales-marketing) · [Operations & Supply Chain (43)](#operations-supply-chain) · [People & Legal (5)](#people-legal) · [Other (427)](#other)
 
 <a id="software-it"></a>
 
@@ -108,7 +108,7 @@ Open positions: 2
 
 ## Engineering
 
-Open positions: 63
+Open positions: 62
 
 | Rank | Company | Position | Location | Category | Salary | Keywords | Sponsorship | Apply |
 |---:|---|---|---|---|---|---|---|---|
@@ -174,7 +174,6 @@ Open positions: 63
 | 52 | Lowe's | Store Operations Industrial Engineering – Undergrad Internship – Summer 2027 | Mooresville, NC (SSC) 1999 | Engineering | Not disclosed | sales | Not specified | [Apply](https://lowes.wd5.myworkdayjobs.com/en-US/LWS_External_CS/job/Mooresville-NC-SSC-1999/Store-Operations-Industrial-Engineering---Undergrad-Internship---Summer-2027_JR-02651868-1) |
 | 106 | Thermo Fisher Scientific | Industrial Engineering Co-op | Rochester, New York, USA | Engineering | Not disclosed | supply chain | Not specified | [Apply](https://thermofisher.wd5.myworkdayjobs.com/en-US/ThermoFisherCareers/job/Rochester-New-York-USA/Industrial-Engineering-Co-op_R-01366625) |
 | 106 | Thermo Fisher Scientific | Mechanical Engineering Co-op | Rochester, New York, USA | Engineering | Not disclosed | mechanical engineering · electrical engineering | Not specified | [Apply](https://thermofisher.wd5.myworkdayjobs.com/en-US/ThermoFisherCareers/job/Rochester-New-York-USA/Mechanical-Engineering-Co-op_R-01366623) |
-| 476 | Marvell Technology | Electrical Validation Intern, BS - Summer 2027 | Santa Clara, CA | Engineering | Not disclosed | Python · electrical engineering | Not specified | [Apply](https://marvell.wd1.myworkdayjobs.com/en-US/MarvellCareers/job/Santa-Clara-CA/Electrical-Validation-Intern--BS---Summer-2027_2603795-1) |
 
 [Back to categories](#categories) · [Back to README](../README.md)
 
@@ -309,13 +308,12 @@ Open positions: 5
 
 ## Other
 
-Open positions: 431
+Open positions: 427
 
 | Rank | Company | Position | Location | Category | Salary | Keywords | Sponsorship | Apply |
 |---:|---|---|---|---|---|---|---|---|
 | 329 | DoorDash | Product Design, Intern (Summer 2027) | San Francisco, CA; New York, NY | Other | Not disclosed | Excel · audit · logistics · recruiting · compliance | Not specified | [Apply](https://job-boards.greenhouse.io/doordashusa/jobs/8176863) |
 | 191 | Block | Applied Research Intern, Proactive Intelligence & Customer World Models (PhD / Graduate Co-op) | Bay Area, CA, United States of America | Other | Not disclosed | Python · machine learning · legal | Not specified | [Apply](http://block.xyz/careers/jobs/5108007008?gh_jid=5108007008) |
-| 16 | NVIDIA | PhD Research Intern, Physical AI - Foundation Models - 2027 | US, CA, Santa Clara | Other | Not disclosed | Python · recruiting | Not specified | [Apply](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/PhD-Research-Intern--Generative-AI-for-Physical-AI---2027_JR2025025) |
 | 112 | Northrop Grumman | 2027 Program Planning and Scheduling Analyst Intern - Dulles VA | United States-Virginia-Dulles | Other | $19.25–$34.75/hr | SQL · Excel · supply chain | Not specified | [Apply](https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-Virginia-Dulles/XMLNAME-2027-Program-Planning-and-Scheduling-Analyst-Intern---Dulles-VA_R10252554) |
 | 112 | Northrop Grumman | 2027 Digital Engineer Intern - Baltimore MD | United States-Maryland-Baltimore | Other | $20.5–$37.25/hr | — | Not specified | [Apply](https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-Maryland-Baltimore/XMLNAME-2027-Digital-Engineer-Intern---Baltimore-MD_R10251150-1) |
 | 112 | Northrop Grumman | 2027 Engineering Intern - Plymouth MN | United States-Minnesota-Plymouth | Other | Not disclosed | — | Not specified | [Apply](https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-Minnesota-Plymouth/XMLNAME-2027-Engineering-Intern---Plymouth-MN_R10252413) |
@@ -444,9 +442,6 @@ Open positions: 431
 | 44 | Walt Disney | Disney Live Entertainment Talent Casting Intern, Spring 2027 | Kissimmee, FL, USA | Other | $22/hr | talent acquisition · contracts | Not specified | [Apply](https://disney.wd5.myworkdayjobs.com/en-US/disneycareer/job/Kissimmee-FL-USA/Disney-Live-Entertainment-Talent-Casting-Intern--Spring-2027_10160428) |
 | 44 | Walt Disney | Hardlines Licensing Intern, Spring 2027 | Glendale, CA, USA | Other | $23/hr | contracts | Not specified | [Apply](https://disney.wd5.myworkdayjobs.com/en-US/disneycareer/job/Glendale-CA-USA/Hardlines-Licensing-Intern--Spring-2027_10160427) |
 | 44 | Walt Disney | Store Planning Intern, Spring 2027 | Anaheim, CA, USA | Other | $23/hr | Excel · sales | Not specified | [Apply](https://disney.wd5.myworkdayjobs.com/en-US/disneycareer/job/Anaheim-CA-USA/Store-Planning-Intern--Spring-2027_10161016-2) |
-| 44 | Walt Disney | Disneyland Costuming Project Analyst Intern, Spring 2027 | Anaheim, CA, USA | Other | $32/hr | SQL · data science · Excel · supply chain | Not specified | [Apply](https://disney.wd5.myworkdayjobs.com/en-US/disneycareer/job/Anaheim-CA-USA/Disneyland-Costuming-Project-Analyst-Intern--Spring-2027_10160437-2) |
-| 44 | Walt Disney | WLS-TV (ABC7) Programming, Promotion & Publicity Intern, Spring 2027 | Chicago, IL, USA | Other | $20/hr | Excel | Not specified | [Apply](https://disney.wd5.myworkdayjobs.com/en-US/disneycareer/job/Chicago-IL-USA/WLS-TV--ABC7--Programming--Promotion---Publicity-Intern--Spring-2027_10158839) |
-| 44 | Walt Disney | WLS-TV (ABC7) News Intern, Spring 2027 | Chicago, IL, USA | Other | $20/hr | — | Not specified | [Apply](https://disney.wd5.myworkdayjobs.com/en-US/disneycareer/job/Chicago-IL-USA/WLS-TV--ABC7--News-Intern--Spring-2027_10158830) |
 | 44 | Walt Disney | Global Travel & Expense Intern, Spring 2027 | Celebration, FL, USA | Other | $23/hr | SQL · data science · Excel · accounting · tax | Not specified | [Apply](https://disney.wd5.myworkdayjobs.com/en-US/disneycareer/job/Celebration-FL-USA/Global-Travel---Expense-Intern--Spring-2027_10160077) |
 | 44 | Walt Disney | WDW Fire Protection Engineering Intern, Spring 2027 | Lake Buena Vista, FL, USA | Other | $31/hr | Excel · compliance | Not specified | [Apply](https://disney.wd5.myworkdayjobs.com/en-US/disneycareer/job/Lake-Buena-Vista-FL-USA/WDW-Fire-Protection-Engineering-Intern--Spring-2027_10158135) |
 | 45 | Johnson & Johnson | Impella Pump Systems Test Engineering Co-Op | Danvers, Massachusetts, United States of America | Other | $23.5/hr | mechanical engineering · electrical engineering · CAD · SolidWorks · compliance | Not specified | [Apply](https://jj.wd5.myworkdayjobs.com/en-US/JJ/job/Danvers-Massachusetts-United-States-of-America/Impella-Pump-Systems-Test-Engineering-Co-Op_R-099097) |
@@ -706,9 +701,9 @@ Open positions: 431
 | 52 | Lowe's | Merchandising - Store Environment – Undergraduate Internship – Summer 2027 | Mooresville, NC (SSC) 1999 | Other | Not disclosed | analytics · Excel · sales | Not specified | [Apply](https://lowes.wd5.myworkdayjobs.com/en-US/LWS_External_CS/job/Mooresville-NC-SSC-1999/Merchandising---Store-Environment---Undergraduate-Internship---Summer-2027_JR-02653683) |
 | 52 | Lowe's | Planogram / Visual Space Planning – Undergraduate Internship – Summer 2027 | Mooresville, NC (SSC) 1999 | Other | Not disclosed | analytics · Excel · CAD · sales | Not specified | [Apply](https://lowes.wd5.myworkdayjobs.com/en-US/LWS_External_CS/job/Mooresville-NC-SSC-1999/Planogram---Visual-Space-Planning---Undergraduate-Internship---Summer-2027_JR-02654211) |
 | 52 | Lowe's | Merchandising Collateral Production - Undergrad Internship - Summer 2027 | Mooresville, NC (SSC) 1999 | Other | Not disclosed | Excel · supply chain · sales | Not specified | [Apply](https://lowes.wd5.myworkdayjobs.com/en-US/LWS_External_CS/job/Mooresville-NC-SSC-1999/Merchandising-Collateral-Production---Undergrad-Internship---Summer-2027_JR-02653663) |
-| 52 | Lowe's | Store Optimization – Undergrad Internship – Summer 2027 | Mooresville, NC (SSC) 1999 | Other | Not disclosed | sales | Not specified | [Apply](https://lowes.wd5.myworkdayjobs.com/en-US/LWS_External_CS/job/Mooresville-NC-SSC-1999/Store-Optimization---Undergrad-Internship---Summer-2027_JR-02651672) |
-| 52 | Lowe's | Merchandising Support – Undergrad Internship – Summer 2027 | Mooresville, NC (SSC) 1999 | Other | Not disclosed | sales | Not specified | [Apply](https://lowes.wd5.myworkdayjobs.com/en-US/LWS_External_CS/job/Mooresville-NC-SSC-1999/Merchandising-Support---Undergrad-Internship---Summer-2027_JR-02651655) |
-| 52 | Lowe's | Merchandising Field Execution – Undergrad Internship – Summer 2027 | Mooresville, NC (SSC) 1999 | Other | Not disclosed | sales | Not specified | [Apply](https://lowes.wd5.myworkdayjobs.com/en-US/LWS_External_CS/job/Mooresville-NC-SSC-1999/Merchandising-Field-Execution---Undergrad-Internship---Summer-2027_JR-02651638) |
+| 52 | Lowe's | Store Optimization – Undergrad Internship – Summer 2027 | Mooresville, NC (SSC) 1999 | Other | Not disclosed | analytics · Excel · CAD · sales | Not specified | [Apply](https://lowes.wd5.myworkdayjobs.com/en-US/LWS_External_CS/job/Mooresville-NC-SSC-1999/Store-Optimization---Undergrad-Internship---Summer-2027_JR-02651672) |
+| 52 | Lowe's | Merchandising Support – Undergrad Internship – Summer 2027 | Mooresville, NC (SSC) 1999 | Other | Not disclosed | Excel · supply chain · sales | Not specified | [Apply](https://lowes.wd5.myworkdayjobs.com/en-US/LWS_External_CS/job/Mooresville-NC-SSC-1999/Merchandising-Support---Undergrad-Internship---Summer-2027_JR-02651655) |
+| 52 | Lowe's | Merchandising Field Execution – Undergrad Internship – Summer 2027 | Mooresville, NC (SSC) 1999 | Other | Not disclosed | Excel · sales | Not specified | [Apply](https://lowes.wd5.myworkdayjobs.com/en-US/LWS_External_CS/job/Mooresville-NC-SSC-1999/Merchandising-Field-Execution---Undergrad-Internship---Summer-2027_JR-02651638) |
 | 52 | Lowe's | Merchandising Analyst - Undergrad Internship - Summer 2027 | Mooresville, NC (SSC) 1999 | Other | Not disclosed | SQL · analytics · Excel · supply chain · sales | Not specified | [Apply](https://lowes.wd5.myworkdayjobs.com/en-US/LWS_External_CS/job/Mooresville-NC-SSC-1999/Merchandising-Analyst---Undergrad-Internship---Summer-2027_JR-02650526) |
 | 78 | Prudential Financial | PGIM: 2027 Product and Institutional Client, Internship Program | Newark, NJ, USA | Other | Not disclosed | analytics · accounting · sales · compliance · legal | No sponsorship for this position | [Apply](https://pru.wd5.myworkdayjobs.com/en-US/Careers/job/Newark-NJ-USA/PGIM--2027-Product-and-Institutional-Client--Internship-Program_R-124910-1) |
 | 83 | Cisco Systems | Business Analyst I (Intern) United States | RTP, North Carolina, US | Other | Not disclosed | analytics · Excel · supply chain · procurement · sales | Not specified | [Apply](https://cisco.wd5.myworkdayjobs.com/en-US/Cisco_Careers/job/RTP-North-Carolina-US/Business-Analyst-I--Intern--United-States_2026181) |
