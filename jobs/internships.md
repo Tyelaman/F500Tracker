@@ -1,27 +1,24 @@
 # F500Tracker internships
 
-Last updated: September 25, 2026 at 05:10 UTC
+Last updated: September 25, 2026 at 12:02 UTC
 
-Current internships: 655
+Current internships: 647
 
 ## Categories
 
-[Software & IT (45)](#software-it) · [Data & AI (14)](#data-ai) · [Product & Design (2)](#product-design) · [Engineering (67)](#engineering) · [Finance & Accounting (17)](#finance-accounting) · [Sales & Marketing (19)](#sales-marketing) · [Operations & Supply Chain (46)](#operations-supply-chain) · [People & Legal (5)](#people-legal) · [Other (440)](#other)
+[Software & IT (42)](#software-it) · [Data & AI (14)](#data-ai) · [Product & Design (2)](#product-design) · [Engineering (65)](#engineering) · [Finance & Accounting (17)](#finance-accounting) · [Sales & Marketing (19)](#sales-marketing) · [Operations & Supply Chain (46)](#operations-supply-chain) · [People & Legal (5)](#people-legal) · [Other (437)](#other)
 
 <a id="software-it"></a>
 
 ## Software & IT
 
-Open positions: 45
+Open positions: 42
 
 | Rank | Company | Position | Location | Category | Salary | Keywords | Sponsorship | Apply |
 |---:|---|---|---|---|---|---|---|---|
 | 329 | DoorDash | Software Engineer, Intern (Summer 2027) - US | New York, NY; San Francisco, CA; Sunnyvale, CA; Los Angeles, CA; Seattle, WA | Software & IT | Not disclosed | Python · Java · SQL · AWS · Excel | Not specified | [Apply](https://job-boards.greenhouse.io/doordashusa/jobs/8171041) |
 | 112 | Northrop Grumman | 2027 Software Engineer Intern – Woodland Hills CA | United States-California-Woodland Hills | Software & IT | $21.5–$39/hr | Python · machine learning | Not specified | [Apply](https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-California-Woodland-Hills/XMLNAME-2027-Software-Engineer-Intern---Woodland-Hills-CA_R10249359) |
-| 112 | Northrop Grumman | 2027 Systems Engineer Intern - Woodland Hills CA | United States-California-Woodland Hills | Software & IT | $21.5–$39/hr | — | Not specified | [Apply](https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-California-Woodland-Hills/XMLNAME-2027-Systems-Engineer-Intern---Woodland-Hills-CA_R10249319-1) |
 | 112 | Northrop Grumman | 2027 Intern - Systems Security/Cybersecurity Engineer | United States-Florida-Melbourne | Software & IT | $18.5–$33.5/hr | analytics | Not specified | [Apply](https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-Florida-Melbourne/XMLNAME-2027-Intern---Systems-Security-Cybersecurity-Engineer_R10252418) |
-| 112 | Northrop Grumman | 2027 Software Engineer Intern - San Diego CA | United States-California-San Diego | Software & IT | $21.5–$39/hr | Python · Java · Rust · electrical engineering | Not specified | [Apply](https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-California-San-Diego/XMLNAME-2027-Software-Engineer-Intern---San-Diego-CA_R10252150) |
-| 112 | Northrop Grumman | 2027 Embedded Software Engineer Intern - Camarillo CA | United States-California-Camarillo | Software & IT | $20.5–$37.25/hr | — | Not specified | [Apply](https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-California-Camarillo/XMLNAME-2027-Embedded-Software-Engineer-Intern---Camarillo-CA_R10251835) |
 | 112 | Northrop Grumman | 2027 Intern Software Engineer | United States-Florida-Melbourne | Software & IT | $18.5–$33.5/hr | — | Not specified | [Apply](https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-Florida-Melbourne/XMLNAME-2027-Intern-Software-Engineer_R10243573) |
 | 112 | Northrop Grumman | 2027 Intern Software Engineer | United States-Florida-Melbourne | Software & IT | Not disclosed | — | Not specified | [Apply](https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-Florida-Melbourne/XMLNAME-2027-Intern-Software-Engineer_R10242395) |
 | 33 | Freddie Mac | Multifamily Software Development Intern – Summer 2027 | McLean, VA | Software & IT | Not disclosed | Java · AWS | Not specified | [Apply](https://freddiemac.wd5.myworkdayjobs.com/en-US/External/job/McLean-VA/Multifamily-Software-Development-Intern---Summer-2027_JR17564) |
@@ -106,7 +103,7 @@ Open positions: 2
 
 ## Engineering
 
-Open positions: 67
+Open positions: 65
 
 | Rank | Company | Position | Location | Category | Salary | Keywords | Sponsorship | Apply |
 |---:|---|---|---|---|---|---|---|---|
@@ -114,8 +111,6 @@ Open positions: 67
 | 112 | Northrop Grumman | 2027 Industrial Safety Engineering Intern - Utah | United States-Utah-Magna | Engineering | $18.5–$33.5/hr | — | Not specified | [Apply](https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-Utah-Magna/XMLNAME-2027-Industrial-Safety-Engineering-Intern---Utah_R10252924) |
 | 112 | Northrop Grumman | 2027 Electrical Engineer Intern – Woodland Hills CA | United States-California-Woodland Hills | Engineering | $21.5–$39/hr | Python · electrical engineering | Not specified | [Apply](https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-California-Woodland-Hills/XMLNAME-2027-Electrical-Engineer-Intern---Woodland-Hills-CA_R10249521) |
 | 112 | Northrop Grumman | 2027 Mechanical Engineer Intern – Woodland Hills CA | United States-California-Woodland Hills | Engineering | $21.5–$39/hr | mechanical engineering · CAD · SolidWorks · compliance | Not specified | [Apply](https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-California-Woodland-Hills/XMLNAME-2027-Mechanical-Engineer-Intern---Woodland-Hills-CA_R10249483) |
-| 112 | Northrop Grumman | 2027 Electrical Engineer Intern - San Diego CA | United States-California-San Diego | Engineering | $21.5–$39/hr | electrical engineering | Not specified | [Apply](https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-California-San-Diego/XMLNAME-2027-Electrical-Engineer-Intern---San-Diego-CA_R10252060) |
-| 112 | Northrop Grumman | 2027 Mechanical Engineer Intern - San Diego CA | United States-California-San Diego | Engineering | $21.5–$39/hr | mechanical engineering · CAD · SolidWorks | Not specified | [Apply](https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-California-San-Diego/XMLNAME-2027-Mechanical-Engineer-Intern---San-Diego-CA_R10252139) |
 | 125 | Micron Technology | Intern - ID1 Manufacturing Engineer | Boise, ID - ID1 | Engineering | Not disclosed | Python · Java · artificial intelligence · analytics · Excel | Not specified | [Apply](https://micron.wd1.myworkdayjobs.com/en-US/External/job/Boise-ID---ID1/Intern---ID1-Manufacturing-Engineer_JR113287) |
 | 125 | Micron Technology | Intern - TD Site Industrial Engineer | Boise, ID - Main Site | Engineering | Not disclosed | Python · SQL · Excel · supply chain | Not specified | [Apply](https://micron.wd1.myworkdayjobs.com/en-US/External/job/Boise-ID---Main-Site/Intern---TD-Site-Industrial-Engineer_JR108729) |
 | 44 | Walt Disney | Disneyland Resort Industrial Engineering Intern, Fall 2027 | Anaheim, CA, USA | Engineering | $32/hr | — | Not specified | [Apply](https://disney.wd5.myworkdayjobs.com/en-US/disneycareer/job/Anaheim-CA-USA/Disneyland-Resort-Industrial-Engineering-Intern--Fall-2027_10159983-1) |
@@ -315,7 +310,7 @@ Open positions: 5
 
 ## Other
 
-Open positions: 440
+Open positions: 437
 
 | Rank | Company | Position | Location | Category | Salary | Keywords | Sponsorship | Apply |
 |---:|---|---|---|---|---|---|---|---|
@@ -331,9 +326,7 @@ Open positions: 440
 | 112 | Northrop Grumman | 2027 Engineering Intern - Plymouth MN | United States-Minnesota-Plymouth | Other | Not disclosed | — | Not specified | [Apply](https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-Minnesota-Plymouth/XMLNAME-2027-Engineering-Intern---Plymouth-MN_R10252412) |
 | 112 | Northrop Grumman | 2027 Engineering Intern - Rocket Center WV | United States-West Virginia-Rocket Center | Other | Not disclosed | — | Not specified | [Apply](https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-West-Virginia-Rocket-Center/XMLNAME-2027-Engineering-Intern---Rocket-Center-WV_R10252410) |
 | 112 | Northrop Grumman | 2027 Business Intern - Plymouth MN | United States-Minnesota-Plymouth | Other | Not disclosed | analytics | Not specified | [Apply](https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-Minnesota-Plymouth/XMLNAME-2027-Business-Intern---Plymouth-MN_R10252241) |
-| 112 | Northrop Grumman | 2027 Business Management Intern | United States-Oklahoma-Oklahoma City | Other | $19.25–$34.75/hr | accounting | Not specified | [Apply](https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-Oklahoma-Oklahoma-City/XMLNAME-2027-Business-Management-Intern_R10252140) |
 | 112 | Northrop Grumman | 2027 Strategic Sourcing Intern - Baltimore MD | United States-Maryland-Linthicum | Other | $18.25–$33/hr | Excel · supply chain | Not specified | [Apply](https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-Maryland-Linthicum/XMLNAME-2027-Strategic-Sourcing-Intern---Baltimore-MD_R10252107) |
-| 112 | Northrop Grumman | 2027 Intern Business Management - San Diego CA | United States-California-San Diego | Other | $24–$29/hr | accounting | Not specified | [Apply](https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-California-San-Diego/XMLNAME-2027-Intern-Business-Management---San-Diego-CA_R10252094) |
 | 125 | Micron Technology | Intern - ASIC Validation | Minneapolis, MN | Other | Not disclosed | Python · machine learning · electrical engineering | Not specified | [Apply](https://micron.wd1.myworkdayjobs.com/en-US/External/job/Minneapolis-MN/Intern---ASIC-Validation_JR111823) |
 | 125 | Micron Technology | Intern - Category Supplier Management | Boise, ID - Main Site | Other | Not disclosed | Python · SQL · analytics · Excel · supply chain | Not specified | [Apply](https://micron.wd1.myworkdayjobs.com/en-US/External/job/Boise-ID---Main-Site/Intern---Category-Supplier-Management_JR112709) |
 | 125 | Micron Technology | Intern Design Engineer - HIG HBM | Richardson, TX | Other | Not disclosed | Python · artificial intelligence · electrical engineering · CAD | Not specified | [Apply](https://micron.wd1.myworkdayjobs.com/en-US/External/job/Richardson-TX/Intern-Design-Engineer---HIG-HBM_JR112516) |
@@ -423,6 +416,7 @@ Open positions: 440
 | 33 | Freddie Mac | Single-Family Data Intern- Summer 2027 | McLean, VA | Other | Not disclosed | Python · SQL · data science · analytics · risk management | Not specified | [Apply](https://freddiemac.wd5.myworkdayjobs.com/en-US/External/job/McLean-VA/Single-Family-Data-Intern--Summer-2027_JR17545) |
 | 39 | Morgan Stanley | Intern | Baltimore, Maryland, United States of America | Other | Not disclosed | sales · recruiting | Not specified | [Apply](https://ms.wd5.myworkdayjobs.com/en-US/External/job/Baltimore-Maryland-United-States-of-America/Intern_JR042973-2) |
 | 39 | Morgan Stanley | Intern | Jackson, Tennessee, United States of America | Other | Not disclosed | sales · recruiting | Not specified | [Apply](https://ms.wd5.myworkdayjobs.com/en-US/External/job/Jackson-Tennessee-United-States-of-America/Intern_JR042465) |
+| 44 | Walt Disney | KFSN-TV (ABC30) Newsroom Intern, Spring 2027 | Fresno, CA, USA | Other | $17.75/hr | — | Not specified | [Apply](https://disney.wd5.myworkdayjobs.com/en-US/disneycareer/job/Fresno-CA-USA/KFSN-TV--ABC30--Newsroom-Intern--Spring-2027_10158273) |
 | 44 | Walt Disney | Disney Parks International Franchise and Commercial Strategy Graduate Intern, Spring 2027 | Glendale, CA, USA | Other | $30.4/hr | data science · analytics · Excel · logistics | Not specified | [Apply](https://disney.wd5.myworkdayjobs.com/en-US/disneycareer/job/Glendale-CA-USA/Disney-Parks-International-Franchise-and-Commercial-Strategy-Graduate-Intern--Spring-2027_10159179-1) |
 | 44 | Walt Disney | WDI Master Planning Intern, Glendale, Spring 2027 | Glendale, CA, USA | Other | $32/hr | CAD | Not specified | [Apply](https://disney.wd5.myworkdayjobs.com/en-US/disneycareer/job/Glendale-CA-USA/WDI-Master-Planning-Intern--Glendale--Spring-2027_10160961) |
 | 44 | Walt Disney | Disney Kids & Family Live Action Original Series Intern, Spring 2027 | Burbank, CA, USA | Other | $23/hr | — | Not specified | [Apply](https://disney.wd5.myworkdayjobs.com/en-US/disneycareer/job/Burbank-CA-USA/Disney-Kids---Family-Live-Action-Original-Series-Intern--Spring-2027_10160172) |
@@ -452,8 +446,6 @@ Open positions: 440
 | 44 | Walt Disney | KGO-TV (ABC7) Assignment Desk News Intern, Spring 2027 | San Francisco, CA, USA | Other | $23/hr | — | Not specified | [Apply](https://disney.wd5.myworkdayjobs.com/en-US/disneycareer/job/San-Francisco-CA-USA/KGO-TV--ABC7--Assignment-Desk-News-Intern--Spring-2027_10158968) |
 | 44 | Walt Disney | Disney Live Entertainment Production Specialist Intern, Spring 2027 | Anaheim, CA, USA | Other | $22/hr | — | Not specified | [Apply](https://disney.wd5.myworkdayjobs.com/en-US/disneycareer/job/Anaheim-CA-USA/Disney-Live-Entertainment-Production-Specialist-Intern--Spring-2027_10159388-2) |
 | 44 | Walt Disney | Disney Live Entertainment Talent Casting Intern, Spring 2027 | Kissimmee, FL, USA | Other | $22/hr | talent acquisition · contracts | Not specified | [Apply](https://disney.wd5.myworkdayjobs.com/en-US/disneycareer/job/Kissimmee-FL-USA/Disney-Live-Entertainment-Talent-Casting-Intern--Spring-2027_10160428) |
-| 44 | Walt Disney | Hardlines Licensing Intern, Spring 2027 | Glendale, CA, USA | Other | $23/hr | contracts | Not specified | [Apply](https://disney.wd5.myworkdayjobs.com/en-US/disneycareer/job/Glendale-CA-USA/Hardlines-Licensing-Intern--Spring-2027_10160427) |
-| 44 | Walt Disney | Store Planning Intern, Spring 2027 | Anaheim, CA, USA | Other | $23/hr | Excel · sales | Not specified | [Apply](https://disney.wd5.myworkdayjobs.com/en-US/disneycareer/job/Anaheim-CA-USA/Store-Planning-Intern--Spring-2027_10161016-2) |
 | 45 | Johnson & Johnson | Data Science Co-op | Danvers, Massachusetts, United States of America | Other | $23.5/hr | Python · AWS · Azure · machine learning · data science | Not specified | [Apply](https://jj.wd5.myworkdayjobs.com/en-US/JJ/job/Danvers-Massachusetts-United-States-of-America/Data-Science-Co-op_R-100341) |
 | 45 | Johnson & Johnson | Access & Pump Engineering Co-op | Danvers, Massachusetts, United States of America | Other | $23.5/hr | SolidWorks | Not specified | [Apply](https://jj.wd5.myworkdayjobs.com/en-US/JJ/job/Danvers-Massachusetts-United-States-of-America/Access---Pump-Engineering-Co-op_R-101685) |
 | 45 | Johnson & Johnson | Facilities Management Co-Op | Cincinnati, Ohio, United States of America | Other | $23.5/hr | analytics · Excel · procurement · compliance · contracts | Not specified | [Apply](https://jj.wd5.myworkdayjobs.com/en-US/JJ/job/Cincinnati-Ohio-United-States-of-America/Facilities-Management-Co-Op_R-099930) |
