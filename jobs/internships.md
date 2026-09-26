@@ -1,12 +1,12 @@
 # F500Tracker internships
 
-Last updated: September 26, 2026 at 16:34 UTC
+Last updated: September 26, 2026 at 21:24 UTC
 
-Current internships: 604
+Current internships: 605
 
 ## Categories
 
-[Software & IT (45)](#software-it) · [Data & AI (16)](#data-ai) · [Product & Design (2)](#product-design) · [Engineering (51)](#engineering) · [Finance & Accounting (14)](#finance-accounting) · [Sales & Marketing (17)](#sales-marketing) · [Operations & Supply Chain (41)](#operations-supply-chain) · [People & Legal (5)](#people-legal) · [Other (413)](#other)
+[Software & IT (45)](#software-it) · [Data & AI (16)](#data-ai) · [Product & Design (2)](#product-design) · [Engineering (51)](#engineering) · [Finance & Accounting (14)](#finance-accounting) · [Sales & Marketing (17)](#sales-marketing) · [Operations & Supply Chain (41)](#operations-supply-chain) · [People & Legal (5)](#people-legal) · [Other (414)](#other)
 
 <a id="software-it"></a>
 
@@ -291,7 +291,7 @@ Open positions: 5
 
 ## Other
 
-Open positions: 413
+Open positions: 414
 
 | Rank | Company | Position | Location | Category | Salary | Keywords | Sponsorship | Apply |
 |---:|---|---|---|---|---|---|---|---|
@@ -706,6 +706,7 @@ Open positions: 413
 | 106 | Thermo Fisher Scientific | Quality Control Laboratory Intern | Plainville, Massachusetts, USA | Other | Not disclosed | — | Not specified | [Apply](https://thermofisher.wd5.myworkdayjobs.com/en-US/ThermoFisherCareers/job/Plainville-Massachusetts-USA/Quality-Control-Laboratory-Intern_R-01366593) |
 | 106 | Thermo Fisher Scientific | Vaccine Sciences Intern | Richmond, Virginia, USA | Other | Not disclosed | — | Not specified | [Apply](https://thermofisher.wd5.myworkdayjobs.com/en-US/ThermoFisherCareers/job/Richmond-Virginia-USA/Vaccine-Sciences-Intern_R-01366575-1) |
 | 106 | Thermo Fisher Scientific | Engineering Co-Op | Greenville, North Carolina, USA | Other | Not disclosed | — | Not specified | [Apply](https://thermofisher.wd5.myworkdayjobs.com/en-US/ThermoFisherCareers/job/Greenville-North-Carolina-USA/Engineering-Co-Op_R-01328052) |
+| 476 | Marvell Technology | Analog Design Intern | Santa Clara, CA | Other | Not disclosed | CAD | Not specified | [Apply](https://marvell.wd1.myworkdayjobs.com/en-US/MarvellCareers/job/Santa-Clara-CA/Analog-Design-Intern_2604084) |
 | 476 | Marvell Technology | Project Management Intern, MBA - Summer 2027 | Santa Clara, CA | Other | Not disclosed | Excel | Not specified | [Apply](https://marvell.wd1.myworkdayjobs.com/en-US/MarvellCareers/job/Santa-Clara-CA/Project-Management-Intern--MBA---Summer-2027_2604440) |
 | 476 | Marvell Technology | Security Verification/Validation Engineer Intern, BS - Summer 2027 | Chandler, AZ | Other | Not disclosed | artificial intelligence | Not specified | [Apply](https://marvell.wd1.myworkdayjobs.com/en-US/MarvellCareers/job/Chandler-AZ/Security-Verification-Validation-Engineer-Intern--BS---Summer-2027_2604148-1) |
 
