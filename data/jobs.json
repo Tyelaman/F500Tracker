@@ -563,7 +563,7 @@
     "fortune_rank": 132,
     "title": "Senior Executive Assistant",
     "location": "Seattle, USA",
-    "url": "https://www.coupang.jobs/en/jobs/?gh_jid=8089206",
+    "url": "https://job-boards.greenhouse.io/coupang/jobs/8089206",
     "source": "greenhouse",
     "external_id": "8089206",
     "employment_type": "full-time",
@@ -582,9 +582,9 @@
       "logistics",
       "recruiting"
     ],
-    "updated_at": "2026-09-15T20:54:50-04:00",
+    "updated_at": "2026-09-26T03:24:35-04:00",
     "first_seen_at": "2026-08-15T02:30:47.614898+00:00",
-    "enriched_at": "2026-09-16T04:48:16.956872+00:00"
+    "enriched_at": "2026-09-26T11:23:44.364229+00:00"
   },
   {
     "company": "Coupang",
@@ -610,9 +610,9 @@
       "logistics",
       "recruiting"
     ],
-    "updated_at": "2026-09-24T14:52:37-04:00",
+    "updated_at": "2026-09-26T03:24:47-04:00",
     "first_seen_at": "2026-08-27T09:58:06.872283+00:00",
-    "enriched_at": "2026-09-24T21:30:30.185715+00:00"
+    "enriched_at": "2026-09-26T11:23:44.392510+00:00"
   },
   {
     "company": "Coupang",
@@ -22515,6 +22515,32 @@
   {
     "company": "NVIDIA",
     "fortune_rank": 16,
+    "title": "Engineering Manager - OpenBMC Platform",
+    "location": "US, CA, Santa Clara",
+    "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Manager--Engineering---Data-Center-Management_JR1997726",
+    "source": "workday",
+    "external_id": "/job/US-CA-Santa-Clara/Manager--Engineering---Data-Center-Management_JR1997726",
+    "employment_type": "full-time",
+    "category": "Other",
+    "h1b_status": "unknown",
+    "sponsorship_evidence": "",
+    "h1b_mentioned": false,
+    "salary_min": null,
+    "salary_max": null,
+    "salary_currency": "",
+    "salary_period": "",
+    "salary_text": "",
+    "keywords": [
+      "Python",
+      "recruiting"
+    ],
+    "updated_at": "",
+    "first_seen_at": "2026-09-26T11:34:58.503170+00:00",
+    "enriched_at": "2026-09-26T11:23:50.887612+00:00"
+  },
+  {
+    "company": "NVIDIA",
+    "fortune_rank": 16,
     "title": "Senior Systems Software Engineer, Data Center Platform Enablement",
     "location": "US, CA, Santa Clara",
     "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Systems-Software-Engineer--Data-Center-Platform-Enablement_JR2019870",
@@ -23916,7 +23942,7 @@
     ],
     "updated_at": "",
     "first_seen_at": "2026-08-15T02:30:47.614898+00:00",
-    "enriched_at": "2026-09-19T10:58:04.944688+00:00"
+    "enriched_at": "2026-09-26T11:24:21.658804+00:00"
   },
   {
     "company": "Capital One",
@@ -29109,7 +29135,7 @@
     ],
     "updated_at": "",
     "first_seen_at": "2026-09-18T16:37:42.131228+00:00",
-    "enriched_at": "2026-09-19T10:58:04.912552+00:00"
+    "enriched_at": "2026-09-26T11:24:21.674567+00:00"
   },
   {
     "company": "Capital One",
@@ -29135,7 +29161,7 @@
     ],
     "updated_at": "",
     "first_seen_at": "2026-08-15T02:30:47.614898+00:00",
-    "enriched_at": "2026-09-19T10:58:04.920711+00:00"
+    "enriched_at": "2026-09-26T11:24:21.686264+00:00"
   },
   {
     "company": "Capital One",
@@ -29814,7 +29840,7 @@
     ],
     "updated_at": "",
     "first_seen_at": "2026-08-15T02:30:47.614898+00:00",
-    "enriched_at": "2026-09-19T10:58:04.934568+00:00"
+    "enriched_at": "2026-09-26T11:24:21.697464+00:00"
   },
   {
     "company": "Capital One",
@@ -29997,7 +30023,7 @@
     ],
     "updated_at": "",
     "first_seen_at": "2026-08-15T02:30:47.614898+00:00",
-    "enriched_at": "2026-09-19T10:58:04.955311+00:00"
+    "enriched_at": "2026-09-26T11:24:21.712437+00:00"
   },
   {
     "company": "Capital One",
@@ -30147,7 +30173,7 @@
     ],
     "updated_at": "",
     "first_seen_at": "2026-09-11T21:11:24.093992+00:00",
-    "enriched_at": "2026-09-19T10:58:04.993501+00:00"
+    "enriched_at": "2026-09-26T11:24:21.721475+00:00"
   },
   {
     "company": "Capital One",
@@ -30356,7 +30382,7 @@
     ],
     "updated_at": "",
     "first_seen_at": "2026-08-15T02:30:47.614898+00:00",
-    "enriched_at": "2026-09-19T10:58:05.001577+00:00"
+    "enriched_at": "2026-09-26T11:24:21.733034+00:00"
   },
   {
     "company": "Capital One",
@@ -30392,7 +30418,7 @@
     ],
     "updated_at": "",
     "first_seen_at": "2026-08-15T02:30:47.614898+00:00",
-    "enriched_at": "2026-09-19T10:58:05.008589+00:00"
+    "enriched_at": "2026-09-26T11:24:21.743092+00:00"
   },
   {
     "company": "Capital One",
@@ -30577,7 +30603,7 @@
     ],
     "updated_at": "",
     "first_seen_at": "2026-08-15T02:30:47.614898+00:00",
-    "enriched_at": "2026-09-19T10:58:05.014606+00:00"
+    "enriched_at": "2026-09-26T11:24:21.751854+00:00"
   },
   {
     "company": "Capital One",
@@ -30878,7 +30904,7 @@
     ],
     "updated_at": "",
     "first_seen_at": "2026-08-15T02:30:47.614898+00:00",
-    "enriched_at": "2026-09-19T10:58:05.036397+00:00"
+    "enriched_at": "2026-09-26T11:24:21.765540+00:00"
   },
   {
     "company": "Capital One",
@@ -30914,7 +30940,7 @@
     ],
     "updated_at": "",
     "first_seen_at": "2026-08-15T02:30:47.614898+00:00",
-    "enriched_at": "2026-09-19T10:58:05.044128+00:00"
+    "enriched_at": "2026-09-26T11:24:21.776898+00:00"
   },
   {
     "company": "Capital One",
@@ -31404,7 +31430,7 @@
     ],
     "updated_at": "",
     "first_seen_at": "2026-08-15T02:30:47.614898+00:00",
-    "enriched_at": "2026-09-19T10:58:05.050130+00:00"
+    "enriched_at": "2026-09-26T11:24:21.785619+00:00"
   },
   {
     "company": "Capital One",
@@ -31521,7 +31547,7 @@
     ],
     "updated_at": "",
     "first_seen_at": "2026-09-03T21:16:07.532271+00:00",
-    "enriched_at": "2026-09-19T10:58:05.058658+00:00"
+    "enriched_at": "2026-09-26T11:24:21.797919+00:00"
   },
   {
     "company": "Capital One",
@@ -31632,7 +31658,7 @@
     ],
     "updated_at": "",
     "first_seen_at": "2026-08-15T02:30:47.614898+00:00",
-    "enriched_at": "2026-09-19T10:58:05.074581+00:00"
+    "enriched_at": "2026-09-26T11:24:21.809858+00:00"
   },
   {
     "company": "Capital One",
@@ -31861,7 +31887,7 @@
     ],
     "updated_at": "",
     "first_seen_at": "2026-08-15T02:30:47.614898+00:00",
-    "enriched_at": "2026-09-19T10:58:05.092666+00:00"
+    "enriched_at": "2026-09-26T11:24:21.818725+00:00"
   },
   {
     "company": "Capital One",
@@ -32034,7 +32060,7 @@
     ],
     "updated_at": "",
     "first_seen_at": "2026-08-15T02:30:47.614898+00:00",
-    "enriched_at": "2026-09-19T10:58:05.103488+00:00"
+    "enriched_at": "2026-09-26T11:24:21.833999+00:00"
   },
   {
     "company": "Capital One",
@@ -32234,7 +32260,7 @@
     ],
     "updated_at": "",
     "first_seen_at": "2026-08-15T02:30:47.614898+00:00",
-    "enriched_at": "2026-09-19T10:58:05.138831+00:00"
+    "enriched_at": "2026-09-26T11:24:21.843914+00:00"
   },
   {
     "company": "Capital One",
@@ -32348,7 +32374,7 @@
     ],
     "updated_at": "",
     "first_seen_at": "2026-08-15T02:30:47.614898+00:00",
-    "enriched_at": "2026-09-19T10:58:05.145732+00:00"
+    "enriched_at": "2026-09-26T11:24:21.853982+00:00"
   },
   {
     "company": "Capital One",
@@ -32609,7 +32635,7 @@
     ],
     "updated_at": "",
     "first_seen_at": "2026-08-15T02:30:47.614898+00:00",
-    "enriched_at": "2026-09-19T10:58:05.160496+00:00"
+    "enriched_at": "2026-09-26T11:24:21.866800+00:00"
   },
   {
     "company": "Capital One",
@@ -32637,7 +32663,7 @@
     ],
     "updated_at": "",
     "first_seen_at": "2026-08-15T02:30:47.614898+00:00",
-    "enriched_at": "2026-09-19T10:58:05.172797+00:00"
+    "enriched_at": "2026-09-26T11:24:21.884525+00:00"
   },
   {
     "company": "Capital One",
@@ -32861,7 +32887,7 @@
     ],
     "updated_at": "",
     "first_seen_at": "2026-08-22T02:09:13.920304+00:00",
-    "enriched_at": "2026-09-19T10:58:05.196432+00:00"
+    "enriched_at": "2026-09-26T11:24:21.899872+00:00"
   },
   {
     "company": "Capital One",
@@ -32893,7 +32919,7 @@
     ],
     "updated_at": "",
     "first_seen_at": "2026-08-22T02:09:13.920304+00:00",
-    "enriched_at": "2026-09-19T10:58:05.207001+00:00"
+    "enriched_at": "2026-09-26T11:24:21.915202+00:00"
   },
   {
     "company": "Capital One",
@@ -33259,7 +33285,7 @@
     ],
     "updated_at": "",
     "first_seen_at": "2026-08-19T19:06:13.766292+00:00",
-    "enriched_at": "2026-09-19T10:58:05.226318+00:00"
+    "enriched_at": "2026-09-26T11:24:21.930019+00:00"
   },
   {
     "company": "Capital One",
@@ -33549,7 +33575,7 @@
     ],
     "updated_at": "",
     "first_seen_at": "2026-08-15T02:30:47.614898+00:00",
-    "enriched_at": "2026-09-19T10:58:05.238864+00:00"
+    "enriched_at": "2026-09-26T11:24:21.939011+00:00"
   },
   {
     "company": "Capital One",
@@ -33578,7 +33604,7 @@
     ],
     "updated_at": "",
     "first_seen_at": "2026-08-15T02:30:47.614898+00:00",
-    "enriched_at": "2026-09-19T10:58:05.244411+00:00"
+    "enriched_at": "2026-09-26T11:24:21.947032+00:00"
   },
   {
     "company": "Capital One",
@@ -33609,7 +33635,7 @@
     ],
     "updated_at": "",
     "first_seen_at": "2026-08-15T02:30:47.614898+00:00",
-    "enriched_at": "2026-09-19T10:58:05.251551+00:00"
+    "enriched_at": "2026-09-26T11:24:21.957442+00:00"
   },
   {
     "company": "Capital One",
@@ -33645,7 +33671,7 @@
     ],
     "updated_at": "",
     "first_seen_at": "2026-08-15T02:30:47.614898+00:00",
-    "enriched_at": "2026-09-19T10:58:05.261885+00:00"
+    "enriched_at": "2026-09-26T11:24:21.972494+00:00"
   },
   {
     "company": "Capital One",
@@ -33673,7 +33699,7 @@
     ],
     "updated_at": "",
     "first_seen_at": "2026-08-15T02:30:47.614898+00:00",
-    "enriched_at": "2026-09-19T10:58:05.278295+00:00"
+    "enriched_at": "2026-09-26T11:24:21.981301+00:00"
   },
   {
     "company": "Capital One",
@@ -33706,7 +33732,7 @@
     ],
     "updated_at": "",
     "first_seen_at": "2026-08-15T02:30:47.614898+00:00",
-    "enriched_at": "2026-09-19T10:58:05.289010+00:00"
+    "enriched_at": "2026-09-26T11:24:21.996645+00:00"
   },
   {
     "company": "Capital One",
@@ -33734,7 +33760,7 @@
     ],
     "updated_at": "",
     "first_seen_at": "2026-08-15T02:30:47.614898+00:00",
-    "enriched_at": "2026-09-19T10:58:05.302237+00:00"
+    "enriched_at": "2026-09-26T11:24:22.006760+00:00"
   },
   {
     "company": "Capital One",
@@ -33763,7 +33789,7 @@
     ],
     "updated_at": "",
     "first_seen_at": "2026-08-15T02:30:47.614898+00:00",
-    "enriched_at": "2026-09-19T10:58:05.308324+00:00"
+    "enriched_at": "2026-09-26T11:24:22.015509+00:00"
   },
   {
     "company": "Capital One",
@@ -33793,7 +33819,7 @@
     ],
     "updated_at": "",
     "first_seen_at": "2026-08-15T02:30:47.614898+00:00",
-    "enriched_at": "2026-09-19T10:58:05.316887+00:00"
+    "enriched_at": "2026-09-26T11:24:22.027931+00:00"
   },
   {
     "company": "Capital One",
@@ -33821,7 +33847,7 @@
     ],
     "updated_at": "",
     "first_seen_at": "2026-08-15T02:30:47.614898+00:00",
-    "enriched_at": "2026-09-19T10:58:05.329002+00:00"
+    "enriched_at": "2026-09-26T11:24:22.045489+00:00"
   },
   {
     "company": "Capital One",
@@ -33849,7 +33875,7 @@
     ],
     "updated_at": "",
     "first_seen_at": "2026-08-15T02:30:47.614898+00:00",
-    "enriched_at": "2026-09-19T10:58:05.339693+00:00"
+    "enriched_at": "2026-09-26T11:24:22.060836+00:00"
   },
   {
     "company": "Capital One",
@@ -33875,7 +33901,7 @@
     ],
     "updated_at": "",
     "first_seen_at": "2026-08-15T02:30:47.614898+00:00",
-    "enriched_at": "2026-09-19T10:58:05.350357+00:00"
+    "enriched_at": "2026-09-26T11:24:22.076233+00:00"
   },
   {
     "company": "Capital One",
@@ -33911,7 +33937,7 @@
     ],
     "updated_at": "",
     "first_seen_at": "2026-08-15T02:30:47.614898+00:00",
-    "enriched_at": "2026-09-19T10:58:05.379931+00:00"
+    "enriched_at": "2026-09-26T11:24:22.087433+00:00"
   },
   {
     "company": "Capital One",
@@ -33938,7 +33964,7 @@
     ],
     "updated_at": "",
     "first_seen_at": "2026-08-15T02:30:47.614898+00:00",
-    "enriched_at": "2026-09-19T10:58:05.385953+00:00"
+    "enriched_at": "2026-09-26T11:24:22.096098+00:00"
   },
   {
     "company": "Capital One",
@@ -33966,7 +33992,7 @@
     ],
     "updated_at": "",
     "first_seen_at": "2026-08-15T02:30:47.614898+00:00",
-    "enriched_at": "2026-09-19T10:58:05.394013+00:00"
+    "enriched_at": "2026-09-26T11:24:22.107879+00:00"
   },
   {
     "company": "Capital One",
@@ -33998,7 +34024,7 @@
     ],
     "updated_at": "",
     "first_seen_at": "2026-08-15T02:30:47.614898+00:00",
-    "enriched_at": "2026-09-19T10:58:05.404613+00:00"
+    "enriched_at": "2026-09-26T11:24:22.123201+00:00"
   },
   {
     "company": "Capital One",
@@ -34031,7 +34057,7 @@
     ],
     "updated_at": "",
     "first_seen_at": "2026-08-15T02:30:47.614898+00:00",
-    "enriched_at": "2026-09-19T10:58:05.414774+00:00"
+    "enriched_at": "2026-09-26T11:24:22.138027+00:00"
   },
   {
     "company": "Capital One",
@@ -34059,7 +34085,7 @@
     ],
     "updated_at": "",
     "first_seen_at": "2026-08-15T02:30:47.614898+00:00",
-    "enriched_at": "2026-09-19T10:58:05.425488+00:00"
+    "enriched_at": "2026-09-26T11:24:22.153662+00:00"
   },
   {
     "company": "Capital One",
@@ -34087,7 +34113,7 @@
     ],
     "updated_at": "",
     "first_seen_at": "2026-08-15T02:30:47.614898+00:00",
-    "enriched_at": "2026-09-19T10:58:05.432808+00:00"
+    "enriched_at": "2026-09-26T11:24:22.164315+00:00"
   },
   {
     "company": "Capital One",
@@ -34119,7 +34145,7 @@
     ],
     "updated_at": "",
     "first_seen_at": "2026-08-15T02:30:47.614898+00:00",
-    "enriched_at": "2026-09-19T10:58:05.440061+00:00"
+    "enriched_at": "2026-09-26T11:24:22.174924+00:00"
   },
   {
     "company": "Capital One",
@@ -34147,7 +34173,7 @@
     ],
     "updated_at": "",
     "first_seen_at": "2026-08-15T02:30:47.614898+00:00",
-    "enriched_at": "2026-09-19T10:58:05.475269+00:00"
+    "enriched_at": "2026-09-26T11:24:22.188996+00:00"
   },
   {
     "company": "Capital One",
@@ -34174,7 +34200,7 @@
     ],
     "updated_at": "",
     "first_seen_at": "2026-08-15T02:30:47.614898+00:00",
-    "enriched_at": "2026-09-19T10:58:05.489286+00:00"
+    "enriched_at": "2026-09-26T11:24:22.200383+00:00"
   },
   {
     "company": "Capital One",
@@ -34203,7 +34229,7 @@
     ],
     "updated_at": "",
     "first_seen_at": "2026-08-15T02:30:47.614898+00:00",
-    "enriched_at": "2026-09-19T10:58:05.506739+00:00"
+    "enriched_at": "2026-09-26T11:24:22.212755+00:00"
   },
   {
     "company": "Capital One",
@@ -34230,7 +34256,7 @@
     ],
     "updated_at": "",
     "first_seen_at": "2026-08-15T02:30:47.614898+00:00",
-    "enriched_at": "2026-09-19T10:58:05.515449+00:00"
+    "enriched_at": "2026-09-26T11:24:22.224016+00:00"
   },
   {
     "company": "Capital One",
@@ -34266,7 +34292,7 @@
     ],
     "updated_at": "",
     "first_seen_at": "2026-08-15T02:30:47.614898+00:00",
-    "enriched_at": "2026-09-19T10:58:05.524596+00:00"
+    "enriched_at": "2026-09-26T11:24:22.236930+00:00"
   },
   {
     "company": "Capital One",
@@ -34301,7 +34327,7 @@
     ],
     "updated_at": "",
     "first_seen_at": "2026-08-15T02:30:47.614898+00:00",
-    "enriched_at": "2026-09-19T10:58:05.537886+00:00"
+    "enriched_at": "2026-09-26T11:24:22.245380+00:00"
   },
   {
     "company": "Capital One",
@@ -34337,7 +34363,7 @@
     ],
     "updated_at": "",
     "first_seen_at": "2026-08-15T02:30:47.614898+00:00",
-    "enriched_at": "2026-09-19T10:58:05.550578+00:00"
+    "enriched_at": "2026-09-26T11:24:22.254524+00:00"
   },
   {
     "company": "Capital One",
@@ -34364,7 +34390,7 @@
     ],
     "updated_at": "",
     "first_seen_at": "2026-08-15T02:30:47.614898+00:00",
-    "enriched_at": "2026-09-19T10:58:05.556754+00:00"
+    "enriched_at": "2026-09-26T11:24:22.263482+00:00"
   },
   {
     "company": "Capital One",
@@ -34392,7 +34418,7 @@
     ],
     "updated_at": "",
     "first_seen_at": "2026-08-15T02:30:47.614898+00:00",
-    "enriched_at": "2026-09-19T10:58:05.572080+00:00"
+    "enriched_at": "2026-09-26T11:24:22.275567+00:00"
   },
   {
     "company": "Capital One",
@@ -34424,7 +34450,7 @@
     ],
     "updated_at": "",
     "first_seen_at": "2026-08-15T02:30:47.614898+00:00",
-    "enriched_at": "2026-09-19T10:58:05.586965+00:00"
+    "enriched_at": "2026-09-26T11:24:22.287067+00:00"
   },
   {
     "company": "Capital One",
@@ -34451,7 +34477,7 @@
     ],
     "updated_at": "",
     "first_seen_at": "2026-08-15T02:30:47.614898+00:00",
-    "enriched_at": "2026-09-19T10:58:05.629700+00:00"
+    "enriched_at": "2026-09-26T11:24:22.301576+00:00"
   },
   {
     "company": "Capital One",
@@ -34478,7 +34504,7 @@
     ],
     "updated_at": "",
     "first_seen_at": "2026-08-15T02:30:47.614898+00:00",
-    "enriched_at": "2026-09-19T10:58:05.640233+00:00"
+    "enriched_at": "2026-09-26T11:24:22.316752+00:00"
   },
   {
     "company": "Capital One",
@@ -34511,7 +34537,7 @@
     ],
     "updated_at": "",
     "first_seen_at": "2026-08-15T02:30:47.614898+00:00",
-    "enriched_at": "2026-09-19T10:58:05.650763+00:00"
+    "enriched_at": "2026-09-26T11:24:22.331887+00:00"
   },
   {
     "company": "Capital One",
@@ -34538,7 +34564,7 @@
     ],
     "updated_at": "",
     "first_seen_at": "2026-08-15T02:30:47.614898+00:00",
-    "enriched_at": "2026-09-19T10:58:05.661524+00:00"
+    "enriched_at": "2026-09-26T11:24:22.347544+00:00"
   },
   {
     "company": "Capital One",
@@ -34569,7 +34595,7 @@
     ],
     "updated_at": "",
     "first_seen_at": "2026-08-15T02:30:47.614898+00:00",
-    "enriched_at": "2026-09-19T10:58:05.675442+00:00"
+    "enriched_at": "2026-09-26T11:24:22.358824+00:00"
   },
   {
     "company": "Capital One",
@@ -34597,7 +34623,7 @@
     ],
     "updated_at": "",
     "first_seen_at": "2026-08-15T02:30:47.614898+00:00",
-    "enriched_at": "2026-09-19T10:58:05.683581+00:00"
+    "enriched_at": "2026-09-26T11:24:22.370746+00:00"
   },
   {
     "company": "Capital One",
@@ -34624,7 +34650,7 @@
     ],
     "updated_at": "",
     "first_seen_at": "2026-08-15T02:30:47.614898+00:00",
-    "enriched_at": "2026-09-19T10:58:05.714075+00:00"
+    "enriched_at": "2026-09-26T11:24:22.382336+00:00"
   },
   {
     "company": "Capital One",
@@ -34653,7 +34679,7 @@
     ],
     "updated_at": "",
     "first_seen_at": "2026-08-15T02:30:47.614898+00:00",
-    "enriched_at": "2026-09-19T10:58:05.724750+00:00"
+    "enriched_at": "2026-09-26T11:24:22.397671+00:00"
   },
   {
     "company": "Capital One",
@@ -34680,7 +34706,7 @@
     ],
     "updated_at": "",
     "first_seen_at": "2026-08-15T02:30:47.614898+00:00",
-    "enriched_at": "2026-09-19T10:58:05.740781+00:00"
+    "enriched_at": "2026-09-26T11:24:22.408512+00:00"
   },
   {
     "company": "Capital One",
@@ -34710,7 +34736,7 @@
     ],
     "updated_at": "",
     "first_seen_at": "2026-08-15T02:30:47.614898+00:00",
-    "enriched_at": "2026-09-19T10:58:05.751369+00:00"
+    "enriched_at": "2026-09-26T11:24:22.423745+00:00"
   },
   {
     "company": "Capital One",
@@ -34737,7 +34763,7 @@
     ],
     "updated_at": "",
     "first_seen_at": "2026-08-15T02:30:47.614898+00:00",
-    "enriched_at": "2026-09-19T10:58:05.757559+00:00"
+    "enriched_at": "2026-09-26T11:24:22.432667+00:00"
   },
   {
     "company": "Capital One",
@@ -34771,7 +34797,7 @@
     ],
     "updated_at": "",
     "first_seen_at": "2026-08-15T02:30:47.614898+00:00",
-    "enriched_at": "2026-09-19T10:58:05.768008+00:00"
+    "enriched_at": "2026-09-26T11:24:22.447786+00:00"
   },
   {
     "company": "Capital One",
@@ -34800,7 +34826,7 @@
     ],
     "updated_at": "",
     "first_seen_at": "2026-08-15T02:30:47.614898+00:00",
-    "enriched_at": "2026-09-19T10:58:05.776816+00:00"
+    "enriched_at": "2026-09-26T11:24:22.460676+00:00"
   },
   {
     "company": "Capital One",
@@ -34827,7 +34853,7 @@
     ],
     "updated_at": "",
     "first_seen_at": "2026-09-17T21:36:29.166729+00:00",
-    "enriched_at": "2026-09-19T10:58:05.787274+00:00"
+    "enriched_at": "2026-09-26T11:24:22.475981+00:00"
   },
   {
     "company": "Capital One",
@@ -34856,7 +34882,7 @@
     ],
     "updated_at": "",
     "first_seen_at": "2026-08-15T02:30:47.614898+00:00",
-    "enriched_at": "2026-09-19T10:58:05.795182+00:00"
+    "enriched_at": "2026-09-26T11:24:22.487407+00:00"
   },
   {
     "company": "Capital One",
@@ -34883,7 +34909,7 @@
     ],
     "updated_at": "",
     "first_seen_at": "2026-08-15T02:30:47.614898+00:00",
-    "enriched_at": "2026-09-19T10:58:05.803804+00:00"
+    "enriched_at": "2026-09-26T11:24:22.500186+00:00"
   },
   {
     "company": "Capital One",
@@ -34917,7 +34943,7 @@
     ],
     "updated_at": "",
     "first_seen_at": "2026-08-15T02:30:47.614898+00:00",
-    "enriched_at": "2026-09-19T10:58:05.814405+00:00"
+    "enriched_at": "2026-09-26T11:24:22.515554+00:00"
   },
   {
     "company": "Capital One",
@@ -34944,7 +34970,7 @@
     ],
     "updated_at": "",
     "first_seen_at": "2026-08-15T02:30:47.614898+00:00",
-    "enriched_at": "2026-09-19T10:58:05.824997+00:00"
+    "enriched_at": "2026-09-26T11:24:22.522135+00:00"
   },
   {
     "company": "Capital One",
@@ -34980,7 +35006,7 @@
     ],
     "updated_at": "",
     "first_seen_at": "2026-08-15T02:30:47.614898+00:00",
-    "enriched_at": "2026-09-19T10:58:05.879893+00:00"
+    "enriched_at": "2026-09-26T11:24:22.533809+00:00"
   },
   {
     "company": "Capital One",
@@ -35016,7 +35042,7 @@
     ],
     "updated_at": "",
     "first_seen_at": "2026-08-15T02:30:47.614898+00:00",
-    "enriched_at": "2026-09-19T10:58:05.896738+00:00"
+    "enriched_at": "2026-09-26T11:24:22.542547+00:00"
   },
   {
     "company": "Capital One",
@@ -35052,7 +35078,7 @@
     ],
     "updated_at": "",
     "first_seen_at": "2026-08-15T02:30:47.614898+00:00",
-    "enriched_at": "2026-09-19T10:58:05.902765+00:00"
+    "enriched_at": "2026-09-26T11:24:22.551268+00:00"
   },
   {
     "company": "Capital One",
@@ -35078,7 +35104,7 @@
     ],
     "updated_at": "",
     "first_seen_at": "2026-08-15T02:30:47.614898+00:00",
-    "enriched_at": "2026-09-19T10:58:05.919340+00:00"
+    "enriched_at": "2026-09-26T11:24:22.561405+00:00"
   },
   {
     "company": "Capital One",
@@ -35106,7 +35132,7 @@
     ],
     "updated_at": "",
     "first_seen_at": "2026-08-15T02:30:47.614898+00:00",
-    "enriched_at": "2026-09-19T10:58:05.947924+00:00"
+    "enriched_at": "2026-09-26T11:24:22.573975+00:00"
   },
   {
     "company": "Capital One",
@@ -35134,7 +35160,7 @@
     ],
     "updated_at": "",
     "first_seen_at": "2026-08-15T02:30:47.614898+00:00",
-    "enriched_at": "2026-09-19T10:58:05.955297+00:00"
+    "enriched_at": "2026-09-26T11:24:22.584665+00:00"
   },
   {
     "company": "Capital One",
@@ -35166,7 +35192,7 @@
     ],
     "updated_at": "",
     "first_seen_at": "2026-08-15T02:30:47.614898+00:00",
-    "enriched_at": "2026-09-19T10:58:05.962691+00:00"
+    "enriched_at": "2026-09-26T11:24:22.595267+00:00"
   },
   {
     "company": "Capital One",
@@ -35198,7 +35224,7 @@
     ],
     "updated_at": "",
     "first_seen_at": "2026-08-15T02:30:47.614898+00:00",
-    "enriched_at": "2026-09-19T10:58:05.980314+00:00"
+    "enriched_at": "2026-09-26T11:24:22.605721+00:00"
   },
   {
     "company": "Capital One",
@@ -35230,7 +35256,7 @@
     ],
     "updated_at": "",
     "first_seen_at": "2026-08-15T02:30:47.614898+00:00",
-    "enriched_at": "2026-09-19T10:58:05.989908+00:00"
+    "enriched_at": "2026-09-26T11:24:22.619606+00:00"
   },
   {
     "company": "Capital One",
@@ -35259,7 +35285,7 @@
     ],
     "updated_at": "",
     "first_seen_at": "2026-08-15T02:30:47.614898+00:00",
-    "enriched_at": "2026-09-19T10:58:05.999549+00:00"
+    "enriched_at": "2026-09-26T11:24:22.633775+00:00"
   },
   {
     "company": "Capital One",
@@ -35286,7 +35312,7 @@
     ],
     "updated_at": "",
     "first_seen_at": "2026-08-15T02:30:47.614898+00:00",
-    "enriched_at": "2026-09-19T10:58:06.008273+00:00"
+    "enriched_at": "2026-09-26T11:24:22.646413+00:00"
   },
   {
     "company": "Capital One",
@@ -35313,7 +35339,7 @@
     ],
     "updated_at": "",
     "first_seen_at": "2026-08-15T02:30:47.614898+00:00",
-    "enriched_at": "2026-09-19T10:58:06.018879+00:00"
+    "enriched_at": "2026-09-26T11:24:22.661728+00:00"
   },
   {
     "company": "Capital One",
@@ -35349,7 +35375,7 @@
     ],
     "updated_at": "",
     "first_seen_at": "2026-08-15T02:30:47.614898+00:00",
-    "enriched_at": "2026-09-19T10:58:06.029577+00:00"
+    "enriched_at": "2026-09-26T11:24:22.677107+00:00"
   },
   {
     "company": "Capital One",
@@ -35376,7 +35402,7 @@
     ],
     "updated_at": "",
     "first_seen_at": "2026-08-15T02:30:47.614898+00:00",
-    "enriched_at": "2026-09-19T10:58:06.035636+00:00"
+    "enriched_at": "2026-09-26T11:24:22.685990+00:00"
   },
   {
     "company": "Capital One",
@@ -35404,7 +35430,7 @@
     ],
     "updated_at": "",
     "first_seen_at": "2026-08-15T02:30:47.614898+00:00",
-    "enriched_at": "2026-09-19T10:58:06.052089+00:00"
+    "enriched_at": "2026-09-26T11:24:22.694730+00:00"
   },
   {
     "company": "Capital One",
@@ -35430,7 +35456,7 @@
     ],
     "updated_at": "",
     "first_seen_at": "2026-08-15T02:30:47.614898+00:00",
-    "enriched_at": "2026-09-19T10:58:06.066154+00:00"
+    "enriched_at": "2026-09-26T11:24:22.706271+00:00"
   },
   {
     "company": "Capital One",
@@ -35457,7 +35483,7 @@
     ],
     "updated_at": "",
     "first_seen_at": "2026-08-15T02:30:47.614898+00:00",
-    "enriched_at": "2026-09-19T10:58:06.075880+00:00"
+    "enriched_at": "2026-09-26T11:24:22.720244+00:00"
   },
   {
     "company": "Capital One",
@@ -35489,7 +35515,7 @@
     ],
     "updated_at": "",
     "first_seen_at": "2026-08-15T02:30:47.614898+00:00",
-    "enriched_at": "2026-09-19T10:58:06.086455+00:00"
+    "enriched_at": "2026-09-26T11:24:22.735609+00:00"
   },
   {
     "company": "Capital One",
@@ -35516,7 +35542,7 @@
     ],
     "updated_at": "",
     "first_seen_at": "2026-08-15T02:30:47.614898+00:00",
-    "enriched_at": "2026-09-19T10:58:06.094549+00:00"
+    "enriched_at": "2026-09-26T11:24:22.747276+00:00"
   },
   {
     "company": "Capital One",
@@ -35546,7 +35572,7 @@
     ],
     "updated_at": "",
     "first_seen_at": "2026-08-15T02:30:47.614898+00:00",
-    "enriched_at": "2026-09-19T10:58:06.112572+00:00"
+    "enriched_at": "2026-09-26T11:24:22.761991+00:00"
   },
   {
     "company": "Capital One",
@@ -35572,7 +35598,7 @@
     ],
     "updated_at": "",
     "first_seen_at": "2026-08-15T02:30:47.614898+00:00",
-    "enriched_at": "2026-09-19T10:58:06.122975+00:00"
+    "enriched_at": "2026-09-26T11:24:22.777155+00:00"
   },
   {
     "company": "Capital One",
@@ -35608,7 +35634,7 @@
     ],
     "updated_at": "",
     "first_seen_at": "2026-08-15T02:30:47.614898+00:00",
-    "enriched_at": "2026-09-19T10:58:06.130599+00:00"
+    "enriched_at": "2026-09-26T11:24:22.788233+00:00"
   },
   {
     "company": "Capital One",
@@ -35642,7 +35668,7 @@
     ],
     "updated_at": "",
     "first_seen_at": "2026-08-15T02:30:47.614898+00:00",
-    "enriched_at": "2026-09-19T10:58:06.142879+00:00"
+    "enriched_at": "2026-09-26T11:24:22.797047+00:00"
   },
   {
     "company": "Capital One",
@@ -35678,7 +35704,7 @@
     ],
     "updated_at": "",
     "first_seen_at": "2026-08-15T02:30:47.614898+00:00",
-    "enriched_at": "2026-09-19T10:58:06.148824+00:00"
+    "enriched_at": "2026-09-26T11:24:22.805692+00:00"
   },
   {
     "company": "Capital One",
@@ -35705,7 +35731,7 @@
     ],
     "updated_at": "",
     "first_seen_at": "2026-08-15T02:30:47.614898+00:00",
-    "enriched_at": "2026-09-19T10:58:06.164383+00:00"
+    "enriched_at": "2026-09-26T11:24:22.816599+00:00"
   },
   {
     "company": "Capital One",
@@ -35737,7 +35763,7 @@
     ],
     "updated_at": "",
     "first_seen_at": "2026-08-15T02:30:47.614898+00:00",
-    "enriched_at": "2026-09-19T10:58:06.174078+00:00"
+    "enriched_at": "2026-09-26T11:24:22.830784+00:00"
   },
   {
     "company": "Capital One",
@@ -35769,7 +35795,7 @@
     ],
     "updated_at": "",
     "first_seen_at": "2026-08-15T02:30:47.614898+00:00",
-    "enriched_at": "2026-09-19T10:58:06.183698+00:00"
+    "enriched_at": "2026-09-26T11:24:22.844745+00:00"
   },
   {
     "company": "Capital One",
@@ -35801,7 +35827,7 @@
     ],
     "updated_at": "",
     "first_seen_at": "2026-08-15T02:30:47.614898+00:00",
-    "enriched_at": "2026-09-19T10:58:06.193126+00:00"
+    "enriched_at": "2026-09-26T11:24:22.858489+00:00"
   },
   {
     "company": "Capital One",
@@ -35828,7 +35854,7 @@
     ],
     "updated_at": "",
     "first_seen_at": "2026-08-15T02:30:47.614898+00:00",
-    "enriched_at": "2026-09-19T10:58:06.200915+00:00"
+    "enriched_at": "2026-09-26T11:24:22.869866+00:00"
   },
   {
     "company": "Capital One",
@@ -35864,7 +35890,7 @@
     ],
     "updated_at": "",
     "first_seen_at": "2026-08-15T02:30:47.614898+00:00",
-    "enriched_at": "2026-09-19T10:58:06.211575+00:00"
+    "enriched_at": "2026-09-26T11:24:22.885160+00:00"
   },
   {
     "company": "Capital One",
@@ -35897,7 +35923,7 @@
     ],
     "updated_at": "",
     "first_seen_at": "2026-08-15T02:30:47.614898+00:00",
-    "enriched_at": "2026-09-19T10:58:06.221394+00:00"
+    "enriched_at": "2026-09-26T11:24:22.899405+00:00"
   },
   {
     "company": "Capital One",
@@ -35927,7 +35953,7 @@
     ],
     "updated_at": "",
     "first_seen_at": "2026-08-15T02:30:47.614898+00:00",
-    "enriched_at": "2026-09-19T10:58:06.247068+00:00"
+    "enriched_at": "2026-09-26T11:24:22.914752+00:00"
   },
   {
     "company": "Capital One",
@@ -35955,7 +35981,7 @@
     ],
     "updated_at": "",
     "first_seen_at": "2026-08-15T02:30:47.614898+00:00",
-    "enriched_at": "2026-09-19T10:58:06.257821+00:00"
+    "enriched_at": "2026-09-26T11:24:22.930480+00:00"
   },
   {
     "company": "Capital One",
@@ -35991,7 +36017,7 @@
     ],
     "updated_at": "",
     "first_seen_at": "2026-08-15T02:30:47.614898+00:00",
-    "enriched_at": "2026-09-19T10:58:06.266401+00:00"
+    "enriched_at": "2026-09-26T11:24:22.942889+00:00"
   },
   {
     "company": "Capital One",
@@ -36027,7 +36053,7 @@
     ],
     "updated_at": "",
     "first_seen_at": "2026-08-15T02:30:47.614898+00:00",
-    "enriched_at": "2026-09-19T10:58:06.290418+00:00"
+    "enriched_at": "2026-09-26T11:24:22.951689+00:00"
   },
   {
     "company": "Capital One",
@@ -36063,7 +36089,7 @@
     ],
     "updated_at": "",
     "first_seen_at": "2026-08-15T02:30:47.614898+00:00",
-    "enriched_at": "2026-09-19T10:58:06.297578+00:00"
+    "enriched_at": "2026-09-26T11:24:22.962033+00:00"
   },
   {
     "company": "Capital One",
@@ -36091,7 +36117,7 @@
     ],
     "updated_at": "",
     "first_seen_at": "2026-08-15T02:30:47.614898+00:00",
-    "enriched_at": "2026-09-19T10:58:06.303779+00:00"
+    "enriched_at": "2026-09-26T11:24:22.970980+00:00"
   },
   {
     "company": "Capital One",
@@ -36123,7 +36149,7 @@
     ],
     "updated_at": "",
     "first_seen_at": "2026-08-15T02:30:47.614898+00:00",
-    "enriched_at": "2026-09-19T10:58:06.320639+00:00"
+    "enriched_at": "2026-09-26T11:24:22.983199+00:00"
   },
   {
     "company": "Capital One",
@@ -36159,7 +36185,7 @@
     ],
     "updated_at": "",
     "first_seen_at": "2026-08-15T02:30:47.614898+00:00",
-    "enriched_at": "2026-09-19T10:58:06.327648+00:00"
+    "enriched_at": "2026-09-26T11:24:22.993384+00:00"
   },
   {
     "company": "Capital One",
@@ -36189,7 +36215,7 @@
     ],
     "updated_at": "",
     "first_seen_at": "2026-08-15T02:30:47.614898+00:00",
-    "enriched_at": "2026-09-19T10:58:06.340878+00:00"
+    "enriched_at": "2026-09-26T11:24:23.003373+00:00"
   },
   {
     "company": "Capital One",
@@ -36216,7 +36242,7 @@
     ],
     "updated_at": "",
     "first_seen_at": "2026-08-15T02:30:47.614898+00:00",
-    "enriched_at": "2026-09-19T10:58:06.349382+00:00"
+    "enriched_at": "2026-09-26T11:24:23.015805+00:00"
   },
   {
     "company": "Capital One",
@@ -36250,7 +36276,7 @@
     ],
     "updated_at": "",
     "first_seen_at": "2026-08-15T02:30:47.614898+00:00",
-    "enriched_at": "2026-09-19T10:58:06.357886+00:00"
+    "enriched_at": "2026-09-26T11:24:23.028278+00:00"
   },
   {
     "company": "Capital One",
@@ -36277,7 +36303,7 @@
     ],
     "updated_at": "",
     "first_seen_at": "2026-08-15T02:30:47.614898+00:00",
-    "enriched_at": "2026-09-19T10:58:06.368387+00:00"
+    "enriched_at": "2026-09-26T11:24:23.043646+00:00"
   },
   {
     "company": "Capital One",
@@ -36309,7 +36335,7 @@
     ],
     "updated_at": "",
     "first_seen_at": "2026-08-15T02:30:47.614898+00:00",
-    "enriched_at": "2026-09-19T10:58:06.379142+00:00"
+    "enriched_at": "2026-09-26T11:24:23.059026+00:00"
   },
   {
     "company": "Capital One",
@@ -36337,7 +36363,7 @@
     ],
     "updated_at": "",
     "first_seen_at": "2026-08-15T02:30:47.614898+00:00",
-    "enriched_at": "2026-09-19T10:58:06.393499+00:00"
+    "enriched_at": "2026-09-26T11:24:23.071028+00:00"
   },
   {
     "company": "Capital One",
@@ -36363,7 +36389,7 @@
     ],
     "updated_at": "",
     "first_seen_at": "2026-08-15T02:30:47.614898+00:00",
-    "enriched_at": "2026-09-19T10:58:06.436187+00:00"
+    "enriched_at": "2026-09-26T11:24:23.081445+00:00"
   },
   {
     "company": "Capital One",
@@ -36395,7 +36421,7 @@
     ],
     "updated_at": "",
     "first_seen_at": "2026-08-15T02:30:47.614898+00:00",
-    "enriched_at": "2026-09-19T10:58:06.443792+00:00"
+    "enriched_at": "2026-09-26T11:24:23.092537+00:00"
   },
   {
     "company": "Capital One",
@@ -36427,7 +36453,7 @@
     ],
     "updated_at": "",
     "first_seen_at": "2026-08-15T02:30:47.614898+00:00",
-    "enriched_at": "2026-09-19T10:58:06.451627+00:00"
+    "enriched_at": "2026-09-26T11:24:23.103901+00:00"
   },
   {
     "company": "Capital One",
@@ -36460,7 +36486,59 @@
     ],
     "updated_at": "",
     "first_seen_at": "2026-08-15T02:30:47.614898+00:00",
-    "enriched_at": "2026-09-19T10:58:06.470300+00:00"
+    "enriched_at": "2026-09-26T11:24:23.120141+00:00"
+  },
+  {
+    "company": "Northrop Grumman",
+    "fortune_rank": 112,
+    "title": "Manager Manufacturing Engineering 3",
+    "location": "United States-Utah-Clearfield",
+    "url": "https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-Utah-Clearfield/Manager-Manufacturing-Engineering-3_R10252548",
+    "source": "workday",
+    "external_id": "/job/United-States-Utah-Clearfield/Manager-Manufacturing-Engineering-3_R10252548",
+    "employment_type": "full-time",
+    "category": "Other",
+    "h1b_status": "unknown",
+    "sponsorship_evidence": "",
+    "h1b_mentioned": false,
+    "salary_min": null,
+    "salary_max": null,
+    "salary_currency": "",
+    "salary_period": "",
+    "salary_text": "",
+    "keywords": [
+      "compliance"
+    ],
+    "updated_at": "",
+    "first_seen_at": "2026-09-26T11:34:58.503170+00:00",
+    "enriched_at": "2026-09-26T11:25:25.799061+00:00"
+  },
+  {
+    "company": "Northrop Grumman",
+    "fortune_rank": 112,
+    "title": "Supply Chain Planning Specialist",
+    "location": "United States-Maryland-Linthicum",
+    "url": "https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-Maryland-Linthicum/Supply-Chain-Planning-Specialist_R10252178-1",
+    "source": "workday",
+    "external_id": "/job/United-States-Maryland-Linthicum/Supply-Chain-Planning-Specialist_R10252178-1",
+    "employment_type": "full-time",
+    "category": "Operations & Supply Chain",
+    "h1b_status": "unknown",
+    "sponsorship_evidence": "",
+    "h1b_mentioned": false,
+    "salary_min": null,
+    "salary_max": null,
+    "salary_currency": "",
+    "salary_period": "",
+    "salary_text": "",
+    "keywords": [
+      "supply chain",
+      "procurement",
+      "contracts"
+    ],
+    "updated_at": "",
+    "first_seen_at": "2026-09-26T11:34:58.503170+00:00",
+    "enriched_at": "2026-09-23T04:45:59.263301+00:00"
   },
   {
     "company": "Northrop Grumman",
@@ -41187,34 +41265,6 @@
   {
     "company": "Northrop Grumman",
     "fortune_rank": 112,
-    "title": "Director Manufacturing Engineering",
-    "location": "United States-California-Sunnyvale",
-    "url": "https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-California-Sunnyvale/Director-Manufacturing-Engineering_R10252641",
-    "source": "workday",
-    "external_id": "/job/United-States-California-Sunnyvale/Director-Manufacturing-Engineering_R10252641",
-    "employment_type": "full-time",
-    "category": "Other",
-    "h1b_status": "unknown",
-    "sponsorship_evidence": "",
-    "h1b_mentioned": false,
-    "salary_min": null,
-    "salary_max": null,
-    "salary_currency": "",
-    "salary_period": "",
-    "salary_text": "",
-    "keywords": [
-      "supply chain",
-      "human resources",
-      "recruiting",
-      "talent acquisition"
-    ],
-    "updated_at": "",
-    "first_seen_at": "2026-09-23T21:44:11.599620+00:00",
-    "enriched_at": "2026-09-23T21:31:52.021600+00:00"
-  },
-  {
-    "company": "Northrop Grumman",
-    "fortune_rank": 112,
     "title": "Consulting Chief Engineers",
     "location": "United States-California-San Diego",
     "url": "https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-California-San-Diego/Consulting-Chief-Engineers_R10238305",
@@ -42291,33 +42341,6 @@
     "updated_at": "",
     "first_seen_at": "2026-09-24T11:57:37.543181+00:00",
     "enriched_at": "2026-09-24T11:46:42.129685+00:00"
-  },
-  {
-    "company": "Northrop Grumman",
-    "fortune_rank": 112,
-    "title": "2026 Associate Supply Chain Planning Specialist - Remote",
-    "location": "United States-Remote",
-    "url": "https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-Remote/XMLNAME-2026-Associate-Supply-Chain-Planning-Specialist---Remote_R10252827",
-    "source": "workday",
-    "external_id": "/job/United-States-Remote/XMLNAME-2026-Associate-Supply-Chain-Planning-Specialist---Remote_R10252827",
-    "employment_type": "full-time",
-    "category": "Operations & Supply Chain",
-    "h1b_status": "unknown",
-    "sponsorship_evidence": "",
-    "h1b_mentioned": false,
-    "salary_min": null,
-    "salary_max": null,
-    "salary_currency": "",
-    "salary_period": "",
-    "salary_text": "",
-    "keywords": [
-      "Excel",
-      "supply chain",
-      "logistics"
-    ],
-    "updated_at": "",
-    "first_seen_at": "2026-09-24T17:24:42.354131+00:00",
-    "enriched_at": "2026-09-24T17:12:26.352039+00:00"
   },
   {
     "company": "Northrop Grumman",
@@ -45509,60 +45532,6 @@
   {
     "company": "Northrop Grumman",
     "fortune_rank": 112,
-    "title": "2027 Electrical Engineer Intern \u2013 Woodland Hills CA",
-    "location": "United States-California-Woodland Hills",
-    "url": "https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-California-Woodland-Hills/XMLNAME-2027-Electrical-Engineer-Intern---Woodland-Hills-CA_R10249521",
-    "source": "workday",
-    "external_id": "/job/United-States-California-Woodland-Hills/XMLNAME-2027-Electrical-Engineer-Intern---Woodland-Hills-CA_R10249521",
-    "employment_type": "internship",
-    "category": "Engineering",
-    "h1b_status": "unknown",
-    "sponsorship_evidence": "",
-    "h1b_mentioned": false,
-    "salary_min": 21.5,
-    "salary_max": 39.0,
-    "salary_currency": "USD",
-    "salary_period": "hour",
-    "salary_text": "$21.50 to $39.00 per hour",
-    "keywords": [
-      "Python",
-      "electrical engineering"
-    ],
-    "updated_at": "",
-    "first_seen_at": "2026-09-23T17:12:38.935699+00:00",
-    "enriched_at": "2026-09-23T16:59:20.354111+00:00"
-  },
-  {
-    "company": "Northrop Grumman",
-    "fortune_rank": 112,
-    "title": "2027 Mechanical Engineer Intern \u2013 Woodland Hills CA",
-    "location": "United States-California-Woodland Hills",
-    "url": "https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-California-Woodland-Hills/XMLNAME-2027-Mechanical-Engineer-Intern---Woodland-Hills-CA_R10249483",
-    "source": "workday",
-    "external_id": "/job/United-States-California-Woodland-Hills/XMLNAME-2027-Mechanical-Engineer-Intern---Woodland-Hills-CA_R10249483",
-    "employment_type": "internship",
-    "category": "Engineering",
-    "h1b_status": "unknown",
-    "sponsorship_evidence": "",
-    "h1b_mentioned": false,
-    "salary_min": 21.5,
-    "salary_max": 39.0,
-    "salary_currency": "USD",
-    "salary_period": "hour",
-    "salary_text": "$21.50 to $39.00 per hour",
-    "keywords": [
-      "mechanical engineering",
-      "CAD",
-      "SolidWorks",
-      "compliance"
-    ],
-    "updated_at": "",
-    "first_seen_at": "2026-09-23T17:12:38.935699+00:00",
-    "enriched_at": "2026-09-23T16:59:20.367127+00:00"
-  },
-  {
-    "company": "Northrop Grumman",
-    "fortune_rank": 112,
     "title": "Principal or Sr. Program Cost and Schedule Control Analyst",
     "location": "United States-Florida-Melbourne",
     "url": "https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-Florida-Melbourne/Principal-or-Sr-Program-Cost-and-Schedule-Control-Analyst_R10241673",
@@ -45586,32 +45555,6 @@
     "updated_at": "",
     "first_seen_at": "2026-08-15T02:30:47.614898+00:00",
     "enriched_at": "2026-09-19T20:42:06.088422+00:00"
-  },
-  {
-    "company": "Northrop Grumman",
-    "fortune_rank": 112,
-    "title": "2027 Software Engineer Intern \u2013 Woodland Hills CA",
-    "location": "United States-California-Woodland Hills",
-    "url": "https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-California-Woodland-Hills/XMLNAME-2027-Software-Engineer-Intern---Woodland-Hills-CA_R10249359",
-    "source": "workday",
-    "external_id": "/job/United-States-California-Woodland-Hills/XMLNAME-2027-Software-Engineer-Intern---Woodland-Hills-CA_R10249359",
-    "employment_type": "internship",
-    "category": "Software & IT",
-    "h1b_status": "unknown",
-    "sponsorship_evidence": "",
-    "h1b_mentioned": false,
-    "salary_min": 21.5,
-    "salary_max": 39.0,
-    "salary_currency": "USD",
-    "salary_period": "hour",
-    "salary_text": "$21.50 to $39.00 per hour",
-    "keywords": [
-      "Python",
-      "machine learning"
-    ],
-    "updated_at": "",
-    "first_seen_at": "2026-09-23T17:12:38.935699+00:00",
-    "enriched_at": "2026-09-23T16:59:20.378188+00:00"
   },
   {
     "company": "Northrop Grumman",
@@ -50610,33 +50553,6 @@
   {
     "company": "Northrop Grumman",
     "fortune_rank": 112,
-    "title": "2027 Supply Chain Intern - San Diego CA",
-    "location": "United States-California-San Diego",
-    "url": "https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-California-San-Diego/XMLNAME-2027-Supply-Chain-Intern---San-Diego-CA_R10252091-1",
-    "source": "workday",
-    "external_id": "/job/United-States-California-San-Diego/XMLNAME-2027-Supply-Chain-Intern---San-Diego-CA_R10252091-1",
-    "employment_type": "internship",
-    "category": "Operations & Supply Chain",
-    "h1b_status": "unknown",
-    "sponsorship_evidence": "",
-    "h1b_mentioned": false,
-    "salary_min": 19.25,
-    "salary_max": 34.75,
-    "salary_currency": "USD",
-    "salary_period": "hour",
-    "salary_text": "$19.25 to $34.75 per hour",
-    "keywords": [
-      "Excel",
-      "supply chain",
-      "logistics"
-    ],
-    "updated_at": "",
-    "first_seen_at": "2026-09-22T05:06:22.249219+00:00",
-    "enriched_at": "2026-09-22T04:56:28.345027+00:00"
-  },
-  {
-    "company": "Northrop Grumman",
-    "fortune_rank": 112,
     "title": "Network Engineer - Level 2 or Level 3",
     "location": "United States-Colorado-Aurora",
     "url": "https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-Colorado-Aurora/Network-Engineer---Level-2-or-Level-3_R10252102-1",
@@ -50656,32 +50572,6 @@
     "updated_at": "",
     "first_seen_at": "2026-09-22T05:06:22.249219+00:00",
     "enriched_at": "2026-09-22T04:56:28.367966+00:00"
-  },
-  {
-    "company": "Northrop Grumman",
-    "fortune_rank": 112,
-    "title": "2027 Supply Chain Intern - Salt Lake City UT",
-    "location": "United States-Utah-Salt Lake City",
-    "url": "https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-Utah-Salt-Lake-City/XMLNAME-2027-Supply-Chain-Intern---Salt-Lake-City-UT_R10252101",
-    "source": "workday",
-    "external_id": "/job/United-States-Utah-Salt-Lake-City/XMLNAME-2027-Supply-Chain-Intern---Salt-Lake-City-UT_R10252101",
-    "employment_type": "internship",
-    "category": "Operations & Supply Chain",
-    "h1b_status": "unknown",
-    "sponsorship_evidence": "",
-    "h1b_mentioned": false,
-    "salary_min": 16.5,
-    "salary_max": 30.0,
-    "salary_currency": "USD",
-    "salary_period": "hour",
-    "salary_text": "$16.50 to $30.00 per hour",
-    "keywords": [
-      "Excel",
-      "supply chain"
-    ],
-    "updated_at": "",
-    "first_seen_at": "2026-09-21T22:13:37.215145+00:00",
-    "enriched_at": "2026-09-21T22:00:16.952878+00:00"
   },
   {
     "company": "Northrop Grumman",
@@ -51311,31 +51201,6 @@
   {
     "company": "Northrop Grumman",
     "fortune_rank": 112,
-    "title": "2027 Associate Computer Systems Analyst - Pathways Program - Huntsville AL",
-    "location": "United States-Alabama-Huntsville",
-    "url": "https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-Alabama-Huntsville/XMLNAME-2027-Associate-Computer-Systems-Analyst---Pathways-Program---Huntsville-AL_R10250620",
-    "source": "workday",
-    "external_id": "/job/United-States-Alabama-Huntsville/XMLNAME-2027-Associate-Computer-Systems-Analyst---Pathways-Program---Huntsville-AL_R10250620",
-    "employment_type": "full-time",
-    "category": "Other",
-    "h1b_status": "unknown",
-    "sponsorship_evidence": "",
-    "h1b_mentioned": false,
-    "salary_min": null,
-    "salary_max": null,
-    "salary_currency": "",
-    "salary_period": "",
-    "salary_text": "",
-    "keywords": [
-      "contracts"
-    ],
-    "updated_at": "",
-    "first_seen_at": "2026-09-21T22:13:37.215145+00:00",
-    "enriched_at": "2026-09-21T22:00:17.223416+00:00"
-  },
-  {
-    "company": "Northrop Grumman",
-    "fortune_rank": 112,
     "title": "Supply Chain/Prncpl Supply Chain Procurement Specialist",
     "location": "United States-Ohio-Beavercreek",
     "url": "https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-Ohio-Beavercreek/Supply-Chain-Prncpl-Supply-Chain-Procurement-Specialist_R10252052",
@@ -51546,32 +51411,6 @@
     "updated_at": "",
     "first_seen_at": "2026-09-02T16:51:29.528318+00:00",
     "enriched_at": "2026-09-23T16:59:20.681535+00:00"
-  },
-  {
-    "company": "Northrop Grumman",
-    "fortune_rank": 112,
-    "title": "Staff Product Support Sub-IPT Lead",
-    "location": "United States-California-San Diego",
-    "url": "https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-California-San-Diego/Staff-Product-Support-Sub-IPT-Lead_R10252044",
-    "source": "workday",
-    "external_id": "/job/United-States-California-San-Diego/Staff-Product-Support-Sub-IPT-Lead_R10252044",
-    "employment_type": "full-time",
-    "category": "Other",
-    "h1b_status": "unknown",
-    "sponsorship_evidence": "",
-    "h1b_mentioned": false,
-    "salary_min": null,
-    "salary_max": null,
-    "salary_currency": "",
-    "salary_period": "",
-    "salary_text": "",
-    "keywords": [
-      "supply chain",
-      "logistics"
-    ],
-    "updated_at": "",
-    "first_seen_at": "2026-09-21T22:13:37.215145+00:00",
-    "enriched_at": "2026-09-21T22:00:17.320371+00:00"
   },
   {
     "company": "Northrop Grumman",
@@ -61569,32 +61408,6 @@
   {
     "company": "Northrop Grumman",
     "fortune_rank": 112,
-    "title": "Electrical Engineer / Principal Electrical Engineer Lab Designer",
-    "location": "United States-California-San Diego",
-    "url": "https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-California-San-Diego/Electrical-Engineer---Principal-Electrical-Engineer-Lab-Designer_R10250785",
-    "source": "workday",
-    "external_id": "/job/United-States-California-San-Diego/Electrical-Engineer---Principal-Electrical-Engineer-Lab-Designer_R10250785",
-    "employment_type": "full-time",
-    "category": "Engineering",
-    "h1b_status": "unknown",
-    "sponsorship_evidence": "",
-    "h1b_mentioned": false,
-    "salary_min": null,
-    "salary_max": null,
-    "salary_currency": "",
-    "salary_period": "",
-    "salary_text": "",
-    "keywords": [
-      "electrical engineering",
-      "supply chain"
-    ],
-    "updated_at": "",
-    "first_seen_at": "2026-09-16T17:10:00.364202+00:00",
-    "enriched_at": "2026-09-23T16:59:20.913414+00:00"
-  },
-  {
-    "company": "Northrop Grumman",
-    "fortune_rank": 112,
     "title": "Manager Mission Assurance 2",
     "location": "United States-California-Palmdale",
     "url": "https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-California-Palmdale/Manager-Mission-Assurance-2_R10236344",
@@ -62644,29 +62457,6 @@
   {
     "company": "Northrop Grumman",
     "fortune_rank": 112,
-    "title": "Flight Inspector Level 2 or Level 3",
-    "location": "United States-Utah-Corinne",
-    "url": "https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-Utah-Corinne/Flight-Inspector-Level-2-or-Level-3_R10250925",
-    "source": "workday",
-    "external_id": "/job/United-States-Utah-Corinne/Flight-Inspector-Level-2-or-Level-3_R10250925",
-    "employment_type": "full-time",
-    "category": "Other",
-    "h1b_status": "unknown",
-    "sponsorship_evidence": "",
-    "h1b_mentioned": false,
-    "salary_min": null,
-    "salary_max": null,
-    "salary_currency": "",
-    "salary_period": "",
-    "salary_text": "",
-    "keywords": [],
-    "updated_at": "",
-    "first_seen_at": "2026-09-15T21:35:09.732718+00:00",
-    "enriched_at": "2026-09-23T04:45:59.552339+00:00"
-  },
-  {
-    "company": "Northrop Grumman",
-    "fortune_rank": 112,
     "title": "Sr Principal Engineer Systems - External Interface (AHT)",
     "location": "United States-California-Redondo Beach",
     "url": "https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-California-Redondo-Beach/Sr-Principal-Engineer-Systems---External-Interface--AHT-_R10244568",
@@ -62688,29 +62478,6 @@
     "updated_at": "",
     "first_seen_at": "2026-08-15T02:30:47.614898+00:00",
     "enriched_at": "2026-09-19T20:41:56.704103+00:00"
-  },
-  {
-    "company": "Northrop Grumman",
-    "fortune_rank": 112,
-    "title": "Flight Inspector Level 1 or Level 2",
-    "location": "United States-Utah-Corinne",
-    "url": "https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-Utah-Corinne/Flight-Inspector-Level-1-or-Level-2_R10250932",
-    "source": "workday",
-    "external_id": "/job/United-States-Utah-Corinne/Flight-Inspector-Level-1-or-Level-2_R10250932",
-    "employment_type": "full-time",
-    "category": "Other",
-    "h1b_status": "unknown",
-    "sponsorship_evidence": "",
-    "h1b_mentioned": false,
-    "salary_min": null,
-    "salary_max": null,
-    "salary_currency": "",
-    "salary_period": "",
-    "salary_text": "",
-    "keywords": [],
-    "updated_at": "",
-    "first_seen_at": "2026-09-15T21:35:09.732718+00:00",
-    "enriched_at": "2026-09-23T04:45:59.567791+00:00"
   },
   {
     "company": "Northrop Grumman",
@@ -85960,31 +85727,6 @@
     "updated_at": "",
     "first_seen_at": "2026-08-27T22:30:17.734121+00:00",
     "enriched_at": "2026-09-19T20:41:58.117714+00:00"
-  },
-  {
-    "company": "Northrop Grumman",
-    "fortune_rank": 112,
-    "title": "Human Resources Liaison",
-    "location": "United States-Texas-Irving",
-    "url": "https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-Texas-Irving/Human-Resources-Liason_R10248280-1",
-    "source": "workday",
-    "external_id": "/job/United-States-Texas-Irving/Human-Resources-Liason_R10248280-1",
-    "employment_type": "full-time",
-    "category": "People & Legal",
-    "h1b_status": "unknown",
-    "sponsorship_evidence": "",
-    "h1b_mentioned": false,
-    "salary_min": null,
-    "salary_max": null,
-    "salary_currency": "",
-    "salary_period": "",
-    "salary_text": "",
-    "keywords": [
-      "human resources"
-    ],
-    "updated_at": "",
-    "first_seen_at": "2026-08-28T11:33:39.230906+00:00",
-    "enriched_at": "2026-09-25T21:36:18.518530+00:00"
   },
   {
     "company": "Northrop Grumman",
@@ -127363,32 +127105,6 @@
   {
     "company": "Micron Technology",
     "fortune_rank": 125,
-    "title": "SMTS/MTS/Principal Engineer - Product Quality Assurance (ID1)",
-    "location": "Boise, ID - Main Site",
-    "url": "https://micron.wd1.myworkdayjobs.com/en-US/External/job/Boise-ID---Main-Site/SMTS-MTS-Principal-Engineer---Product-Quality-Assurance--ID1-_JR112275",
-    "source": "workday",
-    "external_id": "/job/Boise-ID---Main-Site/SMTS-MTS-Principal-Engineer---Product-Quality-Assurance--ID1-_JR112275",
-    "employment_type": "full-time",
-    "category": "Other",
-    "h1b_status": "unknown",
-    "sponsorship_evidence": "",
-    "h1b_mentioned": false,
-    "salary_min": null,
-    "salary_max": null,
-    "salary_currency": "",
-    "salary_period": "",
-    "salary_text": "",
-    "keywords": [
-      "analytics",
-      "electrical engineering"
-    ],
-    "updated_at": "",
-    "first_seen_at": "2026-09-21T22:13:37.215145+00:00",
-    "enriched_at": "2026-09-21T22:01:38.710170+00:00"
-  },
-  {
-    "company": "Micron Technology",
-    "fortune_rank": 125,
     "title": "Senior/Principal Eng, FE OCT CPEE Photo EUV Track, Material & Cost Excellence",
     "location": "Boise, ID - ID1",
     "url": "https://micron.wd1.myworkdayjobs.com/en-US/External/job/Boise-ID---ID1/Senior-Principal-Eng--FE-OCT-CPEE-Photo-EUV-Track--Material---Cost-Excellence_JR103283",
@@ -129023,7 +128739,7 @@
     ],
     "updated_at": "",
     "first_seen_at": "2026-09-12T10:56:01.636978+00:00",
-    "enriched_at": "2026-09-19T11:00:56.158061+00:00"
+    "enriched_at": "2026-09-26T11:26:20.505394+00:00"
   },
   {
     "company": "Micron Technology",
@@ -144427,33 +144143,6 @@
   {
     "company": "Centene",
     "fortune_rank": 19,
-    "title": "Data Analyst II Python, R",
-    "location": "Remote-MO",
-    "url": "https://centene.wd5.myworkdayjobs.com/en-US/centene_external/job/Remote-MO/Data-Analyst-II-Python--R_1655706-1",
-    "source": "workday",
-    "external_id": "/job/Remote-MO/Data-Analyst-II-Python--R_1655706-1",
-    "employment_type": "full-time",
-    "category": "Data & AI",
-    "h1b_status": "unknown",
-    "sponsorship_evidence": "",
-    "h1b_mentioned": true,
-    "salary_min": 56200.0,
-    "salary_max": 101000.0,
-    "salary_currency": "USD",
-    "salary_period": "year",
-    "salary_text": "$56,200.00 - $101,000.00 per year",
-    "keywords": [
-      "Python",
-      "SQL",
-      "Excel"
-    ],
-    "updated_at": "",
-    "first_seen_at": "2026-09-25T17:19:44.402910+00:00",
-    "enriched_at": "2026-09-24T21:34:10.236399+00:00"
-  },
-  {
-    "company": "Centene",
-    "fortune_rank": 19,
     "title": "Care Coordinator II",
     "location": "Remote-MO",
     "url": "https://centene.wd5.myworkdayjobs.com/en-US/centene_external/job/Remote-MO/Care-Coordinator-II_1662023",
@@ -144775,6 +144464,58 @@
     "updated_at": "",
     "first_seen_at": "2026-09-26T05:09:48.706401+00:00",
     "enriched_at": "2026-09-24T21:34:10.258772+00:00"
+  },
+  {
+    "company": "Centene",
+    "fortune_rank": 19,
+    "title": "Provider Data Management Analyst I",
+    "location": "Remote-MO",
+    "url": "https://centene.wd5.myworkdayjobs.com/en-US/centene_external/job/Remote-MO/Provider-Data-Management-Analyst-I_1661672",
+    "source": "workday",
+    "external_id": "/job/Remote-MO/Provider-Data-Management-Analyst-I_1661672",
+    "employment_type": "full-time",
+    "category": "Other",
+    "h1b_status": "unknown",
+    "sponsorship_evidence": "",
+    "h1b_mentioned": false,
+    "salary_min": 19.43,
+    "salary_max": 32.98,
+    "salary_currency": "USD",
+    "salary_period": "hour",
+    "salary_text": "$19.43 - $32.98 per hour",
+    "keywords": [
+      "Excel",
+      "contracts"
+    ],
+    "updated_at": "",
+    "first_seen_at": "2026-09-26T11:34:58.503170+00:00",
+    "enriched_at": "2026-09-24T21:34:10.265605+00:00"
+  },
+  {
+    "company": "Centene",
+    "fortune_rank": 19,
+    "title": "Care Manager",
+    "location": "Remote-OK",
+    "url": "https://centene.wd5.myworkdayjobs.com/en-US/centene_external/job/Remote-OK/Care-Manager_1662048",
+    "source": "workday",
+    "external_id": "/job/Remote-OK/Care-Manager_1662048",
+    "employment_type": "full-time",
+    "category": "Other",
+    "h1b_status": "unknown",
+    "sponsorship_evidence": "",
+    "h1b_mentioned": false,
+    "salary_min": 56200.0,
+    "salary_max": 101000.0,
+    "salary_currency": "USD",
+    "salary_period": "year",
+    "salary_text": "$56,200.00 - $101,000.00 per year",
+    "keywords": [
+      "compliance",
+      "contracts"
+    ],
+    "updated_at": "",
+    "first_seen_at": "2026-09-26T11:34:58.503170+00:00",
+    "enriched_at": "2026-09-24T21:34:10.269891+00:00"
   },
   {
     "company": "Chevron",
@@ -145915,29 +145656,6 @@
     "updated_at": "",
     "first_seen_at": "2026-09-24T21:45:16.125443+00:00",
     "enriched_at": "2026-09-24T21:34:19.008466+00:00"
-  },
-  {
-    "company": "General Motors",
-    "fortune_rank": 23,
-    "title": "Group Leader - Maintenance",
-    "location": "Warren, Michigan, United States of America",
-    "url": "https://generalmotors.wd5.myworkdayjobs.com/en-US/Careers_GM/job/Warren-Michigan-United-States-of-America/Group-Leader---Maintenance_JR-202619823",
-    "source": "workday",
-    "external_id": "/job/Warren-Michigan-United-States-of-America/Group-Leader---Maintenance_JR-202619823",
-    "employment_type": "full-time",
-    "category": "Other",
-    "h1b_status": "unknown",
-    "sponsorship_evidence": "",
-    "h1b_mentioned": false,
-    "salary_min": null,
-    "salary_max": null,
-    "salary_currency": "",
-    "salary_period": "",
-    "salary_text": "",
-    "keywords": [],
-    "updated_at": "",
-    "first_seen_at": "2026-09-25T17:19:44.402910+00:00",
-    "enriched_at": "2026-09-25T17:13:44.369356+00:00"
   },
   {
     "company": "Fannie Mae",
@@ -153365,29 +153083,6 @@
   {
     "company": "Walt Disney",
     "fortune_rank": 44,
-    "title": "Disney Live Entertainment Lighting Design Intern, Spring 2027",
-    "location": "Anaheim, CA, USA",
-    "url": "https://disney.wd5.myworkdayjobs.com/en-US/disneycareer/job/Anaheim-CA-USA/Disney-Live-Entertainment-Lighting-Design-Intern--Spring-2027_10159167",
-    "source": "workday",
-    "external_id": "/job/Anaheim-CA-USA/Disney-Live-Entertainment-Lighting-Design-Intern--Spring-2027_10159167",
-    "employment_type": "internship",
-    "category": "Other",
-    "h1b_status": "unknown",
-    "sponsorship_evidence": "",
-    "h1b_mentioned": false,
-    "salary_min": 22.0,
-    "salary_max": 22.0,
-    "salary_currency": "USD",
-    "salary_period": "hour",
-    "salary_text": "$22.00 per hour",
-    "keywords": [],
-    "updated_at": "",
-    "first_seen_at": "2026-09-21T05:07:08.069636+00:00",
-    "enriched_at": "2026-09-26T05:00:32.008381+00:00"
-  },
-  {
-    "company": "Walt Disney",
-    "fortune_rank": 44,
     "title": "Software Engineer",
     "location": "Orlando, FL, USA",
     "url": "https://disney.wd5.myworkdayjobs.com/en-US/disneycareer/job/Orlando-FL-USA/Software-Engineer_10157986",
@@ -153833,29 +153528,6 @@
     "updated_at": "",
     "first_seen_at": "2026-09-17T05:04:18.855329+00:00",
     "enriched_at": "2026-09-24T11:48:54.025580+00:00"
-  },
-  {
-    "company": "Walt Disney",
-    "fortune_rank": 44,
-    "title": "Disney Live Entertainment Production Specialist Intern, Spring 2027",
-    "location": "Anaheim, CA, USA",
-    "url": "https://disney.wd5.myworkdayjobs.com/en-US/disneycareer/job/Anaheim-CA-USA/Disney-Live-Entertainment-Production-Specialist-Intern--Spring-2027_10159388-2",
-    "source": "workday",
-    "external_id": "/job/Anaheim-CA-USA/Disney-Live-Entertainment-Production-Specialist-Intern--Spring-2027_10159388-2",
-    "employment_type": "internship",
-    "category": "Other",
-    "h1b_status": "unknown",
-    "sponsorship_evidence": "",
-    "h1b_mentioned": false,
-    "salary_min": 22.0,
-    "salary_max": 22.0,
-    "salary_currency": "USD",
-    "salary_period": "hour",
-    "salary_text": "$22.00 per hour",
-    "keywords": [],
-    "updated_at": "",
-    "first_seen_at": "2026-09-18T04:55:20.669830+00:00",
-    "enriched_at": "2026-09-25T05:00:45.064300+00:00"
   },
   {
     "company": "Walt Disney",
@@ -154467,52 +154139,6 @@
   {
     "company": "Walt Disney",
     "fortune_rank": 44,
-    "title": "Disneyland Resort Industrial Engineering Intern, Fall 2027",
-    "location": "Anaheim, CA, USA",
-    "url": "https://disney.wd5.myworkdayjobs.com/en-US/disneycareer/job/Anaheim-CA-USA/Disneyland-Resort-Industrial-Engineering-Intern--Fall-2027_10159983-1",
-    "source": "workday",
-    "external_id": "/job/Anaheim-CA-USA/Disneyland-Resort-Industrial-Engineering-Intern--Fall-2027_10159983-1",
-    "employment_type": "internship",
-    "category": "Engineering",
-    "h1b_status": "unknown",
-    "sponsorship_evidence": "",
-    "h1b_mentioned": false,
-    "salary_min": 32.0,
-    "salary_max": 32.0,
-    "salary_currency": "USD",
-    "salary_period": "hour",
-    "salary_text": "$32.00 per hour",
-    "keywords": [],
-    "updated_at": "",
-    "first_seen_at": "2026-09-14T12:56:51.028096+00:00",
-    "enriched_at": "2026-09-21T12:50:39.213552+00:00"
-  },
-  {
-    "company": "Walt Disney",
-    "fortune_rank": 44,
-    "title": "Disneyland Resort Industrial Engineering Intern, Summer 2027",
-    "location": "Anaheim, CA, USA",
-    "url": "https://disney.wd5.myworkdayjobs.com/en-US/disneycareer/job/Anaheim-CA-USA/Disneyland-Resort-Industrial-Engineering-Intern--Summer-2027_10159978-1",
-    "source": "workday",
-    "external_id": "/job/Anaheim-CA-USA/Disneyland-Resort-Industrial-Engineering-Intern--Summer-2027_10159978-1",
-    "employment_type": "internship",
-    "category": "Engineering",
-    "h1b_status": "unknown",
-    "sponsorship_evidence": "",
-    "h1b_mentioned": false,
-    "salary_min": 32.0,
-    "salary_max": 32.0,
-    "salary_currency": "USD",
-    "salary_period": "hour",
-    "salary_text": "$32.00 per hour",
-    "keywords": [],
-    "updated_at": "",
-    "first_seen_at": "2026-09-14T12:56:51.028096+00:00",
-    "enriched_at": "2026-09-21T12:50:39.219125+00:00"
-  },
-  {
-    "company": "Walt Disney",
-    "fortune_rank": 44,
     "title": "Senior Specialist, Strategic Sourcing",
     "location": "Burbank, CA, USA",
     "url": "https://disney.wd5.myworkdayjobs.com/en-US/disneycareer/job/Burbank-CA-USA/Senior-Specialist--Marketing-Sourcing_10133957",
@@ -154567,29 +154193,6 @@
     "updated_at": "",
     "first_seen_at": "2026-09-12T04:45:11.324524+00:00",
     "enriched_at": "2026-09-26T05:00:32.094602+00:00"
-  },
-  {
-    "company": "Walt Disney",
-    "fortune_rank": 44,
-    "title": "Security K9 Manager",
-    "location": "Anaheim, CA, USA",
-    "url": "https://disney.wd5.myworkdayjobs.com/en-US/disneycareer/job/Anaheim-CA-USA/Security-K9-Manager_10160219",
-    "source": "workday",
-    "external_id": "/job/Anaheim-CA-USA/Security-K9-Manager_10160219",
-    "employment_type": "full-time",
-    "category": "Other",
-    "h1b_status": "unknown",
-    "sponsorship_evidence": "",
-    "h1b_mentioned": false,
-    "salary_min": 72000.0,
-    "salary_max": 96500.0,
-    "salary_currency": "USD",
-    "salary_period": "year",
-    "salary_text": "$72,000 to $96,500 per year",
-    "keywords": [],
-    "updated_at": "",
-    "first_seen_at": "2026-09-11T21:11:24.093992+00:00",
-    "enriched_at": "2026-09-26T05:00:32.105738+00:00"
   },
   {
     "company": "Walt Disney",
@@ -155082,35 +154685,6 @@
   {
     "company": "Walt Disney",
     "fortune_rank": 44,
-    "title": "Manager, Operations",
-    "location": "Burbank, CA, USA",
-    "url": "https://disney.wd5.myworkdayjobs.com/en-US/disneycareer/job/Burbank-CA-USA/Manager--Operations_10156060-1",
-    "source": "workday",
-    "external_id": "/job/Burbank-CA-USA/Manager--Operations_10156060-1",
-    "employment_type": "full-time",
-    "category": "Operations & Supply Chain",
-    "h1b_status": "unknown",
-    "sponsorship_evidence": "",
-    "h1b_mentioned": false,
-    "salary_min": 105100.0,
-    "salary_max": 140900.0,
-    "salary_currency": "USD",
-    "salary_period": "year",
-    "salary_text": "$105,100 to $140,900 per year",
-    "keywords": [
-      "risk management",
-      "procurement",
-      "human resources",
-      "compliance",
-      "contracts"
-    ],
-    "updated_at": "",
-    "first_seen_at": "2026-09-05T04:39:16.588778+00:00",
-    "enriched_at": "2026-09-26T05:00:32.129531+00:00"
-  },
-  {
-    "company": "Walt Disney",
-    "fortune_rank": 44,
     "title": "Project Manager",
     "location": "Anaheim, CA, USA",
     "url": "https://disney.wd5.myworkdayjobs.com/en-US/disneycareer/job/Anaheim-CA-USA/Project-Manager_10155878-1",
@@ -155293,34 +154867,6 @@
     "updated_at": "",
     "first_seen_at": "2026-09-02T21:21:26.794344+00:00",
     "enriched_at": "2026-09-24T11:48:54.061650+00:00"
-  },
-  {
-    "company": "Walt Disney",
-    "fortune_rank": 44,
-    "title": "Senior Financial Analyst- Disney Entertainment Television",
-    "location": "Burbank, CA, USA",
-    "url": "https://disney.wd5.myworkdayjobs.com/en-US/disneycareer/job/Burbank-CA-USA/Senior-Financial-Analyst--Disney-Entertainment-Television_10159202",
-    "source": "workday",
-    "external_id": "/job/Burbank-CA-USA/Senior-Financial-Analyst--Disney-Entertainment-Television_10159202",
-    "employment_type": "full-time",
-    "category": "Finance & Accounting",
-    "h1b_status": "unknown",
-    "sponsorship_evidence": "",
-    "h1b_mentioned": false,
-    "salary_min": 104800.0,
-    "salary_max": 128000.0,
-    "salary_currency": "USD",
-    "salary_period": "year",
-    "salary_text": "$104,800.00-$128,000.00 per year",
-    "keywords": [
-      "analytics",
-      "Excel",
-      "financial modeling",
-      "accounting"
-    ],
-    "updated_at": "",
-    "first_seen_at": "2026-09-02T21:21:26.794344+00:00",
-    "enriched_at": "2026-09-24T11:48:54.065385+00:00"
   },
   {
     "company": "Walt Disney",
@@ -166788,7 +166334,7 @@
     ],
     "updated_at": "",
     "first_seen_at": "2026-09-12T10:56:01.636978+00:00",
-    "enriched_at": "2026-09-19T11:02:04.299744+00:00"
+    "enriched_at": "2026-09-26T11:27:29.752345+00:00"
   },
   {
     "company": "Johnson & Johnson",
@@ -176388,35 +175934,6 @@
   {
     "company": "RTX",
     "fortune_rank": 49,
-    "title": "Mechanical Engineering Intern (Summer 2027)",
-    "location": "US-AZ-TUCSON-M10 ~ 3360 E Hemisphere Loop ~ BLDG M10",
-    "url": "https://globalhr.wd5.myworkdayjobs.com/en-US/REC_RTX_Ext_Gateway/job/US-AZ-TUCSON-M10--3360-E-Hemisphere-Loop--BLDG-M10/Mechanical-Engineering-Intern--Summer-2027-_01873571",
-    "source": "workday",
-    "external_id": "/job/US-AZ-TUCSON-M10--3360-E-Hemisphere-Loop--BLDG-M10/Mechanical-Engineering-Intern--Summer-2027-_01873571",
-    "employment_type": "internship",
-    "category": "Engineering",
-    "h1b_status": "unknown",
-    "sponsorship_evidence": "",
-    "h1b_mentioned": false,
-    "salary_min": null,
-    "salary_max": null,
-    "salary_currency": "",
-    "salary_period": "",
-    "salary_text": "",
-    "keywords": [
-      "Python",
-      "mechanical engineering",
-      "electrical engineering",
-      "CAD",
-      "compliance"
-    ],
-    "updated_at": "",
-    "first_seen_at": "2026-09-24T21:45:16.125443+00:00",
-    "enriched_at": "2026-09-24T21:37:51.451895+00:00"
-  },
-  {
-    "company": "RTX",
-    "fortune_rank": 49,
     "title": "Principal Industrial Engineer (Onsite)",
     "location": "US-IA-CORALVILLE-155 ~ 2855 Heartland Dr ~ HEARTLAND BLDG 155",
     "url": "https://globalhr.wd5.myworkdayjobs.com/en-US/REC_RTX_Ext_Gateway/job/US-IA-CORALVILLE-155--2855-Heartland-Dr--HEARTLAND-BLDG-155/Industrial-Engineering-Manager--Onsite-_01873482",
@@ -178578,32 +178095,6 @@
     "updated_at": "",
     "first_seen_at": "2026-09-24T17:24:42.354131+00:00",
     "enriched_at": "2026-09-24T17:17:23.451894+00:00"
-  },
-  {
-    "company": "RTX",
-    "fortune_rank": 49,
-    "title": "HWIL Electrical Engineer I",
-    "location": "US-AZ-TUCSON-805 ~ 1151 E Hermans Rd ~ BLDG 805",
-    "url": "https://globalhr.wd5.myworkdayjobs.com/en-US/REC_RTX_Ext_Gateway/job/US-AZ-TUCSON-805--1151-E-Hermans-Rd--BLDG-805/HWIL-Electrical-Engineer-I_01874563",
-    "source": "workday",
-    "external_id": "/job/US-AZ-TUCSON-805--1151-E-Hermans-Rd--BLDG-805/HWIL-Electrical-Engineer-I_01874563",
-    "employment_type": "full-time",
-    "category": "Engineering",
-    "h1b_status": "unknown",
-    "sponsorship_evidence": "",
-    "h1b_mentioned": false,
-    "salary_min": null,
-    "salary_max": null,
-    "salary_currency": "",
-    "salary_period": "",
-    "salary_text": "",
-    "keywords": [
-      "C#",
-      "compliance"
-    ],
-    "updated_at": "",
-    "first_seen_at": "2026-09-24T17:24:42.354131+00:00",
-    "enriched_at": "2026-09-24T17:17:23.465202+00:00"
   },
   {
     "company": "RTX",
@@ -184801,37 +184292,6 @@
   {
     "company": "RTX",
     "fortune_rank": 49,
-    "title": "Mechanical Engineering Intern (Summer 2027)",
-    "location": "US-CA-CARLSBAD-582 ~ 2752 Loker Ave W ~ LOKER",
-    "url": "https://globalhr.wd5.myworkdayjobs.com/en-US/REC_RTX_Ext_Gateway/job/US-CA-CARLSBAD-582--2752-Loker-Ave-W--LOKER/Mechanical-Engineering-Intern--Summer-2027-_01873759",
-    "source": "workday",
-    "external_id": "/job/US-CA-CARLSBAD-582--2752-Loker-Ave-W--LOKER/Mechanical-Engineering-Intern--Summer-2027-_01873759",
-    "employment_type": "internship",
-    "category": "Engineering",
-    "h1b_status": "unknown",
-    "sponsorship_evidence": "",
-    "h1b_mentioned": false,
-    "salary_min": null,
-    "salary_max": null,
-    "salary_currency": "",
-    "salary_period": "",
-    "salary_text": "",
-    "keywords": [
-      "Excel",
-      "mechanical engineering",
-      "electrical engineering",
-      "CAD",
-      "SolidWorks",
-      "compliance",
-      "contracts"
-    ],
-    "updated_at": "",
-    "first_seen_at": "2026-09-23T04:57:12.732337+00:00",
-    "enriched_at": "2026-09-23T04:50:11.660078+00:00"
-  },
-  {
-    "company": "RTX",
-    "fortune_rank": 49,
     "title": "Systems Engineer II",
     "location": "US-TX-MCKINNEY-513WD ~ 2501 W University Dr ~ WING D BLDG",
     "url": "https://globalhr.wd5.myworkdayjobs.com/en-US/REC_RTX_Ext_Gateway/job/US-TX-MCKINNEY-513WD--2501-W-University-Dr--WING-D-BLDG/Systems-Engineer-II_01872223",
@@ -185604,83 +185064,6 @@
     "updated_at": "",
     "first_seen_at": "2026-09-22T21:32:02.842751+00:00",
     "enriched_at": "2026-09-22T21:24:52.928586+00:00"
-  },
-  {
-    "company": "RTX",
-    "fortune_rank": 49,
-    "title": "Mechanical Engineer Intern (2027 Summer)",
-    "location": "US-AZ-TUCSON-928 ~ 1151 E Hermans Rd ~ MULTI PURPOSE FAC 928",
-    "url": "https://globalhr.wd5.myworkdayjobs.com/en-US/REC_RTX_Ext_Gateway/job/US-AZ-TUCSON-928--1151-E-Hermans-Rd--MULTI-PURPOSE-FAC-928/Mechanical-Engineer-Intern--2027-Summer-_01874513",
-    "source": "workday",
-    "external_id": "/job/US-AZ-TUCSON-928--1151-E-Hermans-Rd--MULTI-PURPOSE-FAC-928/Mechanical-Engineer-Intern--2027-Summer-_01874513",
-    "employment_type": "internship",
-    "category": "Engineering",
-    "h1b_status": "unknown",
-    "sponsorship_evidence": "",
-    "h1b_mentioned": false,
-    "salary_min": null,
-    "salary_max": null,
-    "salary_currency": "",
-    "salary_period": "",
-    "salary_text": "",
-    "keywords": [
-      "mechanical engineering",
-      "compliance"
-    ],
-    "updated_at": "",
-    "first_seen_at": "2026-09-22T21:32:02.842751+00:00",
-    "enriched_at": "2026-09-22T21:24:52.935837+00:00"
-  },
-  {
-    "company": "RTX",
-    "fortune_rank": 49,
-    "title": "Mechanical Engineer II (Onsite)",
-    "location": "US-AZ-TUCSON-928 ~ 1151 E Hermans Rd ~ MULTI PURPOSE FAC 928",
-    "url": "https://globalhr.wd5.myworkdayjobs.com/en-US/REC_RTX_Ext_Gateway/job/US-AZ-TUCSON-928--1151-E-Hermans-Rd--MULTI-PURPOSE-FAC-928/Mechanical-Engineer-II--Onsite-_01874326",
-    "source": "workday",
-    "external_id": "/job/US-AZ-TUCSON-928--1151-E-Hermans-Rd--MULTI-PURPOSE-FAC-928/Mechanical-Engineer-II--Onsite-_01874326",
-    "employment_type": "full-time",
-    "category": "Engineering",
-    "h1b_status": "unknown",
-    "sponsorship_evidence": "",
-    "h1b_mentioned": false,
-    "salary_min": null,
-    "salary_max": null,
-    "salary_currency": "",
-    "salary_period": "",
-    "salary_text": "",
-    "keywords": [
-      "compliance"
-    ],
-    "updated_at": "",
-    "first_seen_at": "2026-09-22T21:32:02.842751+00:00",
-    "enriched_at": "2026-09-22T21:24:52.942529+00:00"
-  },
-  {
-    "company": "RTX",
-    "fortune_rank": 49,
-    "title": "Mechanical Engineer I (Onsite)",
-    "location": "US-AZ-TUCSON-928 ~ 1151 E Hermans Rd ~ MULTI PURPOSE FAC 928",
-    "url": "https://globalhr.wd5.myworkdayjobs.com/en-US/REC_RTX_Ext_Gateway/job/US-AZ-TUCSON-928--1151-E-Hermans-Rd--MULTI-PURPOSE-FAC-928/Mechanical-Engineer-I--Onsite-_01874328",
-    "source": "workday",
-    "external_id": "/job/US-AZ-TUCSON-928--1151-E-Hermans-Rd--MULTI-PURPOSE-FAC-928/Mechanical-Engineer-I--Onsite-_01874328",
-    "employment_type": "full-time",
-    "category": "Engineering",
-    "h1b_status": "unknown",
-    "sponsorship_evidence": "",
-    "h1b_mentioned": false,
-    "salary_min": null,
-    "salary_max": null,
-    "salary_currency": "",
-    "salary_period": "",
-    "salary_text": "",
-    "keywords": [
-      "CAD",
-      "compliance"
-    ],
-    "updated_at": "",
-    "first_seen_at": "2026-09-22T21:32:02.842751+00:00",
-    "enriched_at": "2026-09-22T21:24:52.949898+00:00"
   },
   {
     "company": "RTX",
@@ -190205,34 +189588,6 @@
   {
     "company": "RTX",
     "fortune_rank": 49,
-    "title": "Systems Engineer I - Guidance, Navigation, and Control (Onsite)",
-    "location": "US-AZ-TUCSON-805 ~ 1151 E Hermans Rd ~ BLDG 805",
-    "url": "https://globalhr.wd5.myworkdayjobs.com/en-US/REC_RTX_Ext_Gateway/job/US-AZ-TUCSON-805--1151-E-Hermans-Rd--BLDG-805/Systems-Engineer-I---Guidance--Navigation--and-Control--Onsite-_01873842",
-    "source": "workday",
-    "external_id": "/job/US-AZ-TUCSON-805--1151-E-Hermans-Rd--BLDG-805/Systems-Engineer-I---Guidance--Navigation--and-Control--Onsite-_01873842",
-    "employment_type": "full-time",
-    "category": "Software & IT",
-    "h1b_status": "unknown",
-    "sponsorship_evidence": "",
-    "h1b_mentioned": false,
-    "salary_min": null,
-    "salary_max": null,
-    "salary_currency": "",
-    "salary_period": "",
-    "salary_text": "",
-    "keywords": [
-      "Python",
-      "mechanical engineering",
-      "electrical engineering",
-      "compliance"
-    ],
-    "updated_at": "",
-    "first_seen_at": "2026-09-21T22:13:37.215145+00:00",
-    "enriched_at": "2026-09-21T22:05:19.181667+00:00"
-  },
-  {
-    "company": "RTX",
-    "fortune_rank": 49,
     "title": "Microelectronics Integration Engineer",
     "location": "US-MA-ANDOVER-AR2 ~ 362 Lowell St ~ AR2 PLYMOUTH BLDG",
     "url": "https://globalhr.wd5.myworkdayjobs.com/en-US/REC_RTX_Ext_Gateway/job/US-MA-ANDOVER-AR2--362-Lowell-St--AR2-PLYMOUTH-BLDG/Microelectronics-Integration-Engineer_01876507",
@@ -194101,7 +193456,7 @@
     ],
     "updated_at": "",
     "first_seen_at": "2026-09-19T11:09:13.046280+00:00",
-    "enriched_at": "2026-09-19T11:03:20.854319+00:00"
+    "enriched_at": "2026-09-26T11:28:54.639687+00:00"
   },
   {
     "company": "RTX",
@@ -194128,7 +193483,7 @@
     ],
     "updated_at": "",
     "first_seen_at": "2026-09-19T11:09:13.046280+00:00",
-    "enriched_at": "2026-09-19T11:03:20.863554+00:00"
+    "enriched_at": "2026-09-26T11:28:54.650923+00:00"
   },
   {
     "company": "RTX",
@@ -209547,35 +208902,6 @@
   {
     "company": "RTX",
     "fortune_rank": 49,
-    "title": "Senior Material Program Manager",
-    "location": "US-CA-EL SEGUNDO-E02 ~ 2002 E El Segundo Blvd ~ BLDG E02",
-    "url": "https://globalhr.wd5.myworkdayjobs.com/en-US/REC_RTX_Ext_Gateway/job/US-CA-EL-SEGUNDO-E02--2002-E-El-Segundo-Blvd--BLDG-E02/Sr-Supply-Chain-Manager_01857103",
-    "source": "workday",
-    "external_id": "/job/US-CA-EL-SEGUNDO-E02--2002-E-El-Segundo-Blvd--BLDG-E02/Sr-Supply-Chain-Manager_01857103",
-    "employment_type": "full-time",
-    "category": "Other",
-    "h1b_status": "unknown",
-    "sponsorship_evidence": "",
-    "h1b_mentioned": false,
-    "salary_min": null,
-    "salary_max": null,
-    "salary_currency": "",
-    "salary_period": "",
-    "salary_text": "",
-    "keywords": [
-      "supply chain",
-      "procurement",
-      "sales",
-      "compliance",
-      "contracts"
-    ],
-    "updated_at": "",
-    "first_seen_at": "2026-09-12T20:47:28.257316+00:00",
-    "enriched_at": "2026-09-19T20:47:38.234862+00:00"
-  },
-  {
-    "company": "RTX",
-    "fortune_rank": 49,
     "title": "Engine Technician , Grade 03 (Onsite)",
     "location": "US-CA-EDWARDS-AFB-CUST ~ 295 N Wolfe Ave ~ EDWARDS AFB (External Site)",
     "url": "https://globalhr.wd5.myworkdayjobs.com/en-US/REC_RTX_Ext_Gateway/job/US-CA-EDWARDS-AFB-CUST--295-N-Wolfe-Ave--EDWARDS-AFB-External-Site/Engine-Technician---Grade-03--Onsite-_01874689",
@@ -209598,7 +208924,7 @@
     ],
     "updated_at": "",
     "first_seen_at": "2026-09-12T10:56:01.636978+00:00",
-    "enriched_at": "2026-09-19T11:03:20.871914+00:00"
+    "enriched_at": "2026-09-26T11:28:54.661432+00:00"
   },
   {
     "company": "RTX",
@@ -220449,35 +219775,6 @@
     "updated_at": "",
     "first_seen_at": "2026-09-08T16:51:59.828686+00:00",
     "enriched_at": "2026-09-22T21:24:54.053387+00:00"
-  },
-  {
-    "company": "RTX",
-    "fortune_rank": 49,
-    "title": "Material Program Manager",
-    "location": "US-CA-GOLETA-B03 ~ 75 Coromar Dr ~ BLDG B03",
-    "url": "https://globalhr.wd5.myworkdayjobs.com/en-US/REC_RTX_Ext_Gateway/job/US-CA-GOLETA-B03--75-Coromar-Dr--BLDG-B03/Material-Program-Manager_01871474",
-    "source": "workday",
-    "external_id": "/job/US-CA-GOLETA-B03--75-Coromar-Dr--BLDG-B03/Material-Program-Manager_01871474",
-    "employment_type": "full-time",
-    "category": "Other",
-    "h1b_status": "unknown",
-    "sponsorship_evidence": "",
-    "h1b_mentioned": false,
-    "salary_min": null,
-    "salary_max": null,
-    "salary_currency": "",
-    "salary_period": "",
-    "salary_text": "",
-    "keywords": [
-      "supply chain",
-      "procurement",
-      "sales",
-      "compliance",
-      "contracts"
-    ],
-    "updated_at": "",
-    "first_seen_at": "2026-09-08T16:51:59.828686+00:00",
-    "enriched_at": "2026-09-22T21:24:54.060649+00:00"
   },
   {
     "company": "RTX",
@@ -276348,6 +275645,56 @@
   {
     "company": "Lowe's",
     "fortune_rank": 52,
+    "title": "Full Time - Cashier - Day",
+    "location": "Alcoa, TN (Blount County) 0638",
+    "url": "https://lowes.wd5.myworkdayjobs.com/en-US/LWS_External_CS/job/Alcoa-TN-Blount-County-0638/Full-Time---Cashier---Day_JR-02658131",
+    "source": "workday",
+    "external_id": "/job/Alcoa-TN-Blount-County-0638/Full-Time---Cashier---Day_JR-02658131",
+    "employment_type": "full-time",
+    "category": "Other",
+    "h1b_status": "unknown",
+    "sponsorship_evidence": "",
+    "h1b_mentioned": false,
+    "salary_min": null,
+    "salary_max": null,
+    "salary_currency": "",
+    "salary_period": "",
+    "salary_text": "",
+    "keywords": [
+      "sales"
+    ],
+    "updated_at": "",
+    "first_seen_at": "2026-09-26T11:34:58.503170+00:00",
+    "enriched_at": "2026-09-26T11:33:03.634771+00:00"
+  },
+  {
+    "company": "Lowe's",
+    "fortune_rank": 52,
+    "title": "Full Time - Merchandising Service Associate - Day",
+    "location": "Columbia, SC (Richland County) 2356",
+    "url": "https://lowes.wd5.myworkdayjobs.com/en-US/LWS_External_CS/job/Columbia-SC-Richland-County-2356/Full-Time---Merchandising-Service-Associate---Day_JR-02658129",
+    "source": "workday",
+    "external_id": "/job/Columbia-SC-Richland-County-2356/Full-Time---Merchandising-Service-Associate---Day_JR-02658129",
+    "employment_type": "full-time",
+    "category": "Other",
+    "h1b_status": "unknown",
+    "sponsorship_evidence": "",
+    "h1b_mentioned": false,
+    "salary_min": null,
+    "salary_max": null,
+    "salary_currency": "",
+    "salary_period": "",
+    "salary_text": "",
+    "keywords": [
+      "sales"
+    ],
+    "updated_at": "",
+    "first_seen_at": "2026-09-26T11:34:58.503170+00:00",
+    "enriched_at": "2026-09-26T11:33:03.644875+00:00"
+  },
+  {
+    "company": "Lowe's",
+    "fortune_rank": 52,
     "title": "Full Time - Sales Specialist - Millwork - Day",
     "location": "Ypsilanti, MI (Ann Arbor) 0734",
     "url": "https://lowes.wd5.myworkdayjobs.com/en-US/LWS_External_CS/job/Ypsilanti-MI-Ann-Arbor-0734/Full-Time---Sales-Specialist---Millwork---Day_JR-02649664-1",
@@ -299492,32 +298839,6 @@
   {
     "company": "Lowe's",
     "fortune_rank": 52,
-    "title": "Full Time - Head Cashier - Closing",
-    "location": "Colorado Springs, CO (E Colorado Springs) 1099",
-    "url": "https://lowes.wd5.myworkdayjobs.com/en-US/LWS_External_CS/job/Colorado-Springs-CO-E-Colorado-Springs-1099/Full-Time---Head-Cashier---Closing_JR-02641275-1",
-    "source": "workday",
-    "external_id": "/job/Colorado-Springs-CO-E-Colorado-Springs-1099/Full-Time---Head-Cashier---Closing_JR-02641275-1",
-    "employment_type": "full-time",
-    "category": "Other",
-    "h1b_status": "unknown",
-    "sponsorship_evidence": "",
-    "h1b_mentioned": false,
-    "salary_min": 15.5,
-    "salary_max": 16.75,
-    "salary_currency": "USD",
-    "salary_period": "hour",
-    "salary_text": "$15.50 - $16.75 per hour",
-    "keywords": [
-      "sales",
-      "compliance"
-    ],
-    "updated_at": "",
-    "first_seen_at": "2026-09-07T21:43:32.031422+00:00",
-    "enriched_at": "2026-09-21T22:10:34.609538+00:00"
-  },
-  {
-    "company": "Lowe's",
-    "fortune_rank": 52,
     "title": "Asset Protection & Safety Mgr",
     "location": "Oklahoma City, OK (S Oklahoma City) 0268",
     "url": "https://lowes.wd5.myworkdayjobs.com/en-US/LWS_External_CS/job/Oklahoma-City-OK-S-Oklahoma-City-0268/Asset-Protection---Safety-Mgr_JR-02622361-1",
@@ -305829,32 +305150,6 @@
     "updated_at": "",
     "first_seen_at": "2026-09-24T21:45:16.125443+00:00",
     "enriched_at": "2026-09-24T21:43:25.397219+00:00"
-  },
-  {
-    "company": "Cisco Systems",
-    "fortune_rank": 83,
-    "title": "Software Engineering Technical Leader",
-    "location": "Milpitas, California, US",
-    "url": "https://cisco.wd5.myworkdayjobs.com/en-US/Cisco_Careers/job/Milpitas-California-US/Software-Engineering-Technical-Leader_2022605",
-    "source": "workday",
-    "external_id": "/job/Milpitas-California-US/Software-Engineering-Technical-Leader_2022605",
-    "employment_type": "full-time",
-    "category": "Software & IT",
-    "h1b_status": "unknown",
-    "sponsorship_evidence": "",
-    "h1b_mentioned": false,
-    "salary_min": null,
-    "salary_max": null,
-    "salary_currency": "",
-    "salary_period": "",
-    "salary_text": "",
-    "keywords": [
-      "Python",
-      "sales"
-    ],
-    "updated_at": "",
-    "first_seen_at": "2026-09-24T21:45:16.125443+00:00",
-    "enriched_at": "2026-09-24T21:43:25.408949+00:00"
   },
   {
     "company": "Cisco Systems",
@@ -314878,104 +314173,6 @@
   {
     "company": "Nike",
     "fortune_rank": 99,
-    "title": "Global Retail Marketing, Retail Experience Manager",
-    "location": "Beaverton, Oregon",
-    "url": "https://nike.wd1.myworkdayjobs.com/en-US/nke/job/Beaverton-Oregon/Global-Retail-Marketing--Retail-Experience-Manager_R-88233",
-    "source": "workday",
-    "external_id": "/job/Beaverton-Oregon/Global-Retail-Marketing--Retail-Experience-Manager_R-88233",
-    "employment_type": "full-time",
-    "category": "Sales & Marketing",
-    "h1b_status": "unknown",
-    "sponsorship_evidence": "",
-    "h1b_mentioned": false,
-    "salary_min": null,
-    "salary_max": null,
-    "salary_currency": "",
-    "salary_period": "",
-    "salary_text": "",
-    "keywords": [],
-    "updated_at": "",
-    "first_seen_at": "2026-08-15T02:30:47.614898+00:00",
-    "enriched_at": "2026-09-19T20:53:22.872455+00:00"
-  },
-  {
-    "company": "Nike",
-    "fortune_rank": 99,
-    "title": "Lead Process Analyst",
-    "location": "Beaverton, Oregon",
-    "url": "https://nike.wd1.myworkdayjobs.com/en-US/nke/job/Beaverton-Oregon/Lead-Process-Analyst_R-88191",
-    "source": "workday",
-    "external_id": "/job/Beaverton-Oregon/Lead-Process-Analyst_R-88191",
-    "employment_type": "full-time",
-    "category": "Other",
-    "h1b_status": "unknown",
-    "sponsorship_evidence": "",
-    "h1b_mentioned": false,
-    "salary_min": null,
-    "salary_max": null,
-    "salary_currency": "",
-    "salary_period": "",
-    "salary_text": "",
-    "keywords": [
-      "machine learning",
-      "analytics",
-      "supply chain"
-    ],
-    "updated_at": "",
-    "first_seen_at": "2026-08-15T02:30:47.614898+00:00",
-    "enriched_at": "2026-09-19T20:53:22.879633+00:00"
-  },
-  {
-    "company": "Nike",
-    "fortune_rank": 99,
-    "title": "Lead Product Engineer",
-    "location": "Beaverton, Oregon",
-    "url": "https://nike.wd1.myworkdayjobs.com/en-US/nke/job/Beaverton-Oregon/Lead-Product-Engineer_R-88193",
-    "source": "workday",
-    "external_id": "/job/Beaverton-Oregon/Lead-Product-Engineer_R-88193",
-    "employment_type": "full-time",
-    "category": "Other",
-    "h1b_status": "unknown",
-    "sponsorship_evidence": "",
-    "h1b_mentioned": false,
-    "salary_min": null,
-    "salary_max": null,
-    "salary_currency": "",
-    "salary_period": "",
-    "salary_text": "",
-    "keywords": [
-      "CAD"
-    ],
-    "updated_at": "",
-    "first_seen_at": "2026-08-15T02:30:47.614898+00:00",
-    "enriched_at": "2026-09-19T20:53:22.886952+00:00"
-  },
-  {
-    "company": "Nike",
-    "fortune_rank": 99,
-    "title": "Senior Footwear Developer",
-    "location": "Beaverton, Oregon",
-    "url": "https://nike.wd1.myworkdayjobs.com/en-US/nke/job/Beaverton-Oregon/Senior-Footwear-Developer_R-88115-1",
-    "source": "workday",
-    "external_id": "/job/Beaverton-Oregon/Senior-Footwear-Developer_R-88115-1",
-    "employment_type": "full-time",
-    "category": "Software & IT",
-    "h1b_status": "unknown",
-    "sponsorship_evidence": "",
-    "h1b_mentioned": false,
-    "salary_min": null,
-    "salary_max": null,
-    "salary_currency": "",
-    "salary_period": "",
-    "salary_text": "",
-    "keywords": [],
-    "updated_at": "",
-    "first_seen_at": "2026-08-15T02:30:47.614898+00:00",
-    "enriched_at": "2026-09-19T20:53:22.894237+00:00"
-  },
-  {
-    "company": "Nike",
-    "fortune_rank": 99,
     "title": "Director, Accessories Design, Licensing",
     "location": "Beaverton, Oregon",
     "url": "https://nike.wd1.myworkdayjobs.com/en-US/nke/job/Beaverton-Oregon/Director--Accessories-Design--Licensing_R-88129",
@@ -321361,29 +320558,6 @@
     "updated_at": "",
     "first_seen_at": "2026-09-21T22:13:37.215145+00:00",
     "enriched_at": "2026-09-21T22:13:01.527048+00:00"
-  },
-  {
-    "company": "Thermo Fisher Scientific",
-    "fortune_rank": 106,
-    "title": "Field Service Engineer III (SDB/SEM) Denver, CO - REMOTE",
-    "location": "Denver, Colorado, USA",
-    "url": "https://thermofisher.wd5.myworkdayjobs.com/en-US/ThermoFisherCareers/job/Denver-Colorado-USA/Field-Service-Engineer-II--SDB-SEM--Denver--CO---REMOTE_R-01360684-1",
-    "source": "workday",
-    "external_id": "/job/Denver-Colorado-USA/Field-Service-Engineer-II--SDB-SEM--Denver--CO---REMOTE_R-01360684-1",
-    "employment_type": "full-time",
-    "category": "Other",
-    "h1b_status": "unknown",
-    "sponsorship_evidence": "",
-    "h1b_mentioned": false,
-    "salary_min": null,
-    "salary_max": null,
-    "salary_currency": "",
-    "salary_period": "",
-    "salary_text": "",
-    "keywords": [],
-    "updated_at": "",
-    "first_seen_at": "2026-09-15T21:35:09.732718+00:00",
-    "enriched_at": "2026-09-23T04:56:43.207202+00:00"
   },
   {
     "company": "Thermo Fisher Scientific",
@@ -391763,32 +390937,6 @@
     "updated_at": "",
     "first_seen_at": "2026-08-25T19:12:58.464710+00:00",
     "enriched_at": "2026-09-23T04:57:03.984547+00:00"
-  },
-  {
-    "company": "Broadcom",
-    "fortune_rank": 70,
-    "title": "Electrical Hardware & AI Integration Engineer",
-    "location": "USA-Colorado-Fort Collins-4380 Ziegler Road",
-    "url": "https://broadcom.wd1.myworkdayjobs.com/en-US/External_Career/job/USA-Colorado-Fort-Collins-4380-Ziegler-Road/Electrical-Hardware---AI-Integration-Engineer_R025609",
-    "source": "workday",
-    "external_id": "/job/USA-Colorado-Fort-Collins-4380-Ziegler-Road/Electrical-Hardware---AI-Integration-Engineer_R025609",
-    "employment_type": "full-time",
-    "category": "Engineering",
-    "h1b_status": "unknown",
-    "sponsorship_evidence": "",
-    "h1b_mentioned": false,
-    "salary_min": null,
-    "salary_max": null,
-    "salary_currency": "",
-    "salary_period": "",
-    "salary_text": "",
-    "keywords": [
-      "Python",
-      "electrical engineering"
-    ],
-    "updated_at": "",
-    "first_seen_at": "2026-08-25T19:12:58.464710+00:00",
-    "enriched_at": "2026-09-23T04:57:03.991442+00:00"
   },
   {
     "company": "Broadcom",

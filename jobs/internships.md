@@ -1,23 +1,22 @@
 # F500Tracker internships
 
-Last updated: September 26, 2026 at 05:09 UTC
+Last updated: September 26, 2026 at 11:34 UTC
 
-Current internships: 617
+Current internships: 605
 
 ## Categories
 
-[Software & IT (46)](#software-it) · [Data & AI (16)](#data-ai) · [Product & Design (2)](#product-design) · [Engineering (58)](#engineering) · [Finance & Accounting (14)](#finance-accounting) · [Sales & Marketing (17)](#sales-marketing) · [Operations & Supply Chain (44)](#operations-supply-chain) · [People & Legal (5)](#people-legal) · [Other (415)](#other)
+[Software & IT (45)](#software-it) · [Data & AI (16)](#data-ai) · [Product & Design (2)](#product-design) · [Engineering (51)](#engineering) · [Finance & Accounting (14)](#finance-accounting) · [Sales & Marketing (17)](#sales-marketing) · [Operations & Supply Chain (42)](#operations-supply-chain) · [People & Legal (5)](#people-legal) · [Other (413)](#other)
 
 <a id="software-it"></a>
 
 ## Software & IT
 
-Open positions: 46
+Open positions: 45
 
 | Rank | Company | Position | Location | Category | Salary | Keywords | Sponsorship | Apply |
 |---:|---|---|---|---|---|---|---|---|
 | 329 | DoorDash | Software Engineer, Intern (Summer 2027) - US | New York, NY; San Francisco, CA; Sunnyvale, CA; Los Angeles, CA; Seattle, WA | Software & IT | Not disclosed | Python · Java · SQL · AWS · Excel | Not specified | [Apply](https://job-boards.greenhouse.io/doordashusa/jobs/8171041) |
-| 112 | Northrop Grumman | 2027 Software Engineer Intern – Woodland Hills CA | United States-California-Woodland Hills | Software & IT | $21.5–$39/hr | Python · machine learning | Not specified | [Apply](https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-California-Woodland-Hills/XMLNAME-2027-Software-Engineer-Intern---Woodland-Hills-CA_R10249359) |
 | 112 | Northrop Grumman | 2027 Intern Software Engineer | United States-Florida-Melbourne | Software & IT | $18.5–$33.5/hr | — | Not specified | [Apply](https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-Florida-Melbourne/XMLNAME-2027-Intern-Software-Engineer_R10243573) |
 | 112 | Northrop Grumman | 2027 Intern Software Engineer | United States-Florida-Melbourne | Software & IT | Not disclosed | — | Not specified | [Apply](https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-Florida-Melbourne/XMLNAME-2027-Intern-Software-Engineer_R10242395) |
 | 88 | Intel | Software Solutions PhD Intern New 2027 | US, Oregon, Hillsboro | Software & IT | Not disclosed | Python · mechanical engineering · electrical engineering · CAD · compliance | Not specified | [Apply](https://intel.wd1.myworkdayjobs.com/en-US/External/job/US-Oregon-Hillsboro/Software-Solutions-PhD-Intern-New-2027_JR0287314) |
@@ -109,18 +108,14 @@ Open positions: 2
 
 ## Engineering
 
-Open positions: 58
+Open positions: 51
 
 | Rank | Company | Position | Location | Category | Salary | Keywords | Sponsorship | Apply |
 |---:|---|---|---|---|---|---|---|---|
 | 112 | Northrop Grumman | 2027 Operations Industrial Engineering Intern | United States-Florida-Melbourne | Engineering | $18.5–$33.5/hr | mechanical engineering | Not specified | [Apply](https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-Florida-Melbourne/XMLNAME-2027-Operations-Industrial-Engineering-Intern_R10253047) |
 | 112 | Northrop Grumman | 2027 Industrial Safety Engineering Intern - Utah | United States-Utah-Magna | Engineering | $18.5–$33.5/hr | — | Not specified | [Apply](https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-Utah-Magna/XMLNAME-2027-Industrial-Safety-Engineering-Intern---Utah_R10252924) |
-| 112 | Northrop Grumman | 2027 Electrical Engineer Intern – Woodland Hills CA | United States-California-Woodland Hills | Engineering | $21.5–$39/hr | Python · electrical engineering | Not specified | [Apply](https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-California-Woodland-Hills/XMLNAME-2027-Electrical-Engineer-Intern---Woodland-Hills-CA_R10249521) |
-| 112 | Northrop Grumman | 2027 Mechanical Engineer Intern – Woodland Hills CA | United States-California-Woodland Hills | Engineering | $21.5–$39/hr | mechanical engineering · CAD · SolidWorks · compliance | Not specified | [Apply](https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-California-Woodland-Hills/XMLNAME-2027-Mechanical-Engineer-Intern---Woodland-Hills-CA_R10249483) |
 | 125 | Micron Technology | Intern - ID1 Manufacturing Engineer | Boise, ID - ID1 | Engineering | Not disclosed | Python · Java · artificial intelligence · analytics · Excel | Not specified | [Apply](https://micron.wd1.myworkdayjobs.com/en-US/External/job/Boise-ID---ID1/Intern---ID1-Manufacturing-Engineer_JR113287) |
 | 125 | Micron Technology | Intern - TD Site Industrial Engineer | Boise, ID - Main Site | Engineering | Not disclosed | Python · SQL · Excel · supply chain | Not specified | [Apply](https://micron.wd1.myworkdayjobs.com/en-US/External/job/Boise-ID---Main-Site/Intern---TD-Site-Industrial-Engineer_JR108729) |
-| 44 | Walt Disney | Disneyland Resort Industrial Engineering Intern, Fall 2027 | Anaheim, CA, USA | Engineering | $32/hr | — | Not specified | [Apply](https://disney.wd5.myworkdayjobs.com/en-US/disneycareer/job/Anaheim-CA-USA/Disneyland-Resort-Industrial-Engineering-Intern--Fall-2027_10159983-1) |
-| 44 | Walt Disney | Disneyland Resort Industrial Engineering Intern, Summer 2027 | Anaheim, CA, USA | Engineering | $32/hr | — | Not specified | [Apply](https://disney.wd5.myworkdayjobs.com/en-US/disneycareer/job/Anaheim-CA-USA/Disneyland-Resort-Industrial-Engineering-Intern--Summer-2027_10159978-1) |
 | 45 | Johnson & Johnson | Beatbox Electrical Engineering Co-op | Danvers, Massachusetts, United States of America | Engineering | $23.5/hr | Python · electrical engineering | Not specified | [Apply](https://jj.wd5.myworkdayjobs.com/en-US/JJ/job/Danvers-Massachusetts-United-States-of-America/Beatbox-Electrical-Engineering-Co-op_R-101679) |
 | 45 | Johnson & Johnson | Industrial Engineer Co-Op | Irving, Texas, United States of America | Engineering | Not disclosed | analytics · Excel · supply chain · compliance · contracts | Not specified | [Apply](https://jj.wd5.myworkdayjobs.com/en-US/JJ/job/Irving-Texas-United-States-of-America/Industrial-Engineer-Co-Op_R-099653) |
 | 45 | Johnson & Johnson | Mechanical Engineering Intern - Robotics R&D | Santa Clara, California, United States of America | Engineering | Not disclosed | mechanical engineering · CAD | No sponsorship for this position | [Apply](https://jj.wd5.myworkdayjobs.com/en-US/JJ/job/Santa-Clara-California-United-States-of-America/Mechanical-Engineering-Intern---Robotics-R-D_R-099647-1) |
@@ -131,7 +126,6 @@ Open positions: 58
 | 49 | RTX | Mechanical Engineering Intern (Summer 2027) | US-TX-MCKINNEY-513WC ~ 2501 W University Dr ~ WING C BLDG | Engineering | Not disclosed | mechanical engineering · CAD · compliance · contracts | Not specified | [Apply](https://globalhr.wd5.myworkdayjobs.com/en-US/REC_RTX_Ext_Gateway/job/US-TX-MCKINNEY-513WC--2501-W-University-Dr--WING-C-BLDG/Mechanical-Engineering-Intern--Summer-2027-_01878117) |
 | 49 | RTX | Stage - Hiver 2027 - Stage en conception mécanique – Support aux opérations / Internship - Winter 2027 - Mechanical Designer - Support to operations | CA-QC-LONGUEUIL-J01 ~ 1000 Blvd Marie-Victorin ~ J01 BLDG | Engineering | Not disclosed | — | Not specified | [Apply](https://globalhr.wd5.myworkdayjobs.com/en-US/REC_RTX_Ext_Gateway/job/CA-QC-LONGUEUIL-J01--1000-Blvd-Marie-Victorin--J01-BLDG/Stage---Hiver-2027---Stage-en-conception-mcanique---Support-aux-oprations---Internship---Winter-2027---Mechanical-Designer---Support-to-operations_01877752) |
 | 49 | RTX | Mechanical Engineering Intern (Summer 2027) | US-MN-BURNSVILLE-NORTH ~ 2900 County Rd 42 W ~ NORTH BLDG | Engineering | Not disclosed | Excel · mechanical engineering · CAD · SolidWorks · compliance | Not specified | [Apply](https://globalhr.wd5.myworkdayjobs.com/en-US/REC_RTX_Ext_Gateway/job/US-MN-BURNSVILLE-NORTH--2900-County-Rd-42-W--NORTH-BLDG/Mechanical-Engineering-Intern--Summer-2027-_01870958) |
-| 49 | RTX | Mechanical Engineering Intern (Summer 2027) | US-AZ-TUCSON-M10 ~ 3360 E Hemisphere Loop ~ BLDG M10 | Engineering | Not disclosed | Python · mechanical engineering · electrical engineering · CAD · compliance | Not specified | [Apply](https://globalhr.wd5.myworkdayjobs.com/en-US/REC_RTX_Ext_Gateway/job/US-AZ-TUCSON-M10--3360-E-Hemisphere-Loop--BLDG-M10/Mechanical-Engineering-Intern--Summer-2027-_01873571) |
 | 49 | RTX | Industrial Engineering Co-Op (Spring/Summer 2027) | US-FL-MELBOURNE-310 ~ 1100 W Hibiscus Blvd ~ BLDG 310 | Engineering | Not disclosed | SQL · Excel · logistics · compliance | Not specified | [Apply](https://globalhr.wd5.myworkdayjobs.com/en-US/REC_RTX_Ext_Gateway/job/US-FL-MELBOURNE-310--1100-W-Hibiscus-Blvd--BLDG-310/Industrial-Engineering-Co-Op--Spring-Summer-2027-_01871770) |
 | 49 | RTX | Industrial Engineering Co-Op (Summer/Fall 2027) | US-FL-MELBOURNE-310 ~ 1100 W Hibiscus Blvd ~ BLDG 310 | Engineering | Not disclosed | SQL · Excel · logistics · compliance | Not specified | [Apply](https://globalhr.wd5.myworkdayjobs.com/en-US/REC_RTX_Ext_Gateway/job/US-FL-MELBOURNE-310--1100-W-Hibiscus-Blvd--BLDG-310/Industrial-Engineering-Co-Op--Summer-Fall-2027-_01871387) |
 | 49 | RTX | Industrial Engineering Co-op (Spring/Summer 2027) | US-IA-BELLEVUE-186 ~ 1500 State St ~ STATE | Engineering | Not disclosed | CAD · SolidWorks · compliance · contracts | Not specified | [Apply](https://globalhr.wd5.myworkdayjobs.com/en-US/REC_RTX_Ext_Gateway/job/US-IA-BELLEVUE-186--1500-State-St--STATE/Industrial-Engineering-Co-op--Spring-Summer-2027-_01876770) |
@@ -139,8 +133,6 @@ Open positions: 58
 | 49 | RTX | Electrical Engineering for Manufacturing Co-Op (Summer/Fall 2027) | US-IA-BELLEVUE-186 ~ 1500 State St ~ STATE | Engineering | Not disclosed | electrical engineering · compliance · contracts | Not specified | [Apply](https://globalhr.wd5.myworkdayjobs.com/en-US/REC_RTX_Ext_Gateway/job/US-IA-BELLEVUE-186--1500-State-St--STATE/Electrical-Engineering-for-Manufacturing-Co-Op--Summer-Fall-2027-_01876821) |
 | 49 | RTX | Electrical Engineering for Manufacturing Co-op (Spring/Summer 2027) | US-IA-BELLEVUE-186 ~ 1500 State St ~ STATE | Engineering | Not disclosed | electrical engineering · compliance · contracts | Not specified | [Apply](https://globalhr.wd5.myworkdayjobs.com/en-US/REC_RTX_Ext_Gateway/job/US-IA-BELLEVUE-186--1500-State-St--STATE/Electrical-Engineering-for-Manufacturing-Co-op--Spring-Summer-2027-_01876808) |
 | 49 | RTX | Receiver, Exciter & Processing Architecture Electrical Engineer Intern (Summer 2027) | US-MA-TEWKSBURY-TB1 ~ 50 Apple Hill Dr ~ ASSABET BLDG | Engineering | Not disclosed | compliance | Not specified | [Apply](https://globalhr.wd5.myworkdayjobs.com/en-US/REC_RTX_Ext_Gateway/job/US-MA-TEWKSBURY-TB1--50-Apple-Hill-Dr--ASSABET-BLDG/Receiver--Exciter---Processing-Architecture-Electrical-Engineer-Intern--Summer-2027-_01873437) |
-| 49 | RTX | Mechanical Engineering Intern (Summer 2027) | US-CA-CARLSBAD-582 ~ 2752 Loker Ave W ~ LOKER | Engineering | Not disclosed | Excel · mechanical engineering · electrical engineering · CAD · SolidWorks | Not specified | [Apply](https://globalhr.wd5.myworkdayjobs.com/en-US/REC_RTX_Ext_Gateway/job/US-CA-CARLSBAD-582--2752-Loker-Ave-W--LOKER/Mechanical-Engineering-Intern--Summer-2027-_01873759) |
-| 49 | RTX | Mechanical Engineer Intern (2027 Summer) | US-AZ-TUCSON-928 ~ 1151 E Hermans Rd ~ MULTI PURPOSE FAC 928 | Engineering | Not disclosed | mechanical engineering · compliance | Not specified | [Apply](https://globalhr.wd5.myworkdayjobs.com/en-US/REC_RTX_Ext_Gateway/job/US-AZ-TUCSON-928--1151-E-Hermans-Rd--MULTI-PURPOSE-FAC-928/Mechanical-Engineer-Intern--2027-Summer-_01874513) |
 | 49 | RTX | Mechanical Engineer Intern - Test Equipment | US-AZ-TUCSON-805 ~ 1151 E Hermans Rd ~ BLDG 805 | Engineering | Not disclosed | mechanical engineering · procurement · compliance | Not specified | [Apply](https://globalhr.wd5.myworkdayjobs.com/en-US/REC_RTX_Ext_Gateway/job/US-AZ-TUCSON-805--1151-E-Hermans-Rd--BLDG-805/Mechanical-Engineer-Intern---Test-Equipment_01874237) |
 | 49 | RTX | Electrical Engineer Intern | US-AZ-TUCSON-805 ~ 1151 E Hermans Rd ~ BLDG 805 | Engineering | Not disclosed | Python · compliance | Not specified | [Apply](https://globalhr.wd5.myworkdayjobs.com/en-US/REC_RTX_Ext_Gateway/job/US-AZ-TUCSON-805--1151-E-Hermans-Rd--BLDG-805/Electrical-Engineer-Intern_01874283) |
 | 49 | RTX | Stage - Hiver 2027- Stagiaire en technologies chimiques / Internship - Winter 2027- Intern in Chemical Technology and Process | CA-QC-LONGUEUIL-J01 ~ 1000 Blvd Marie-Victorin ~ J01 BLDG | Engineering | Not disclosed | — | Not specified | [Apply](https://globalhr.wd5.myworkdayjobs.com/en-US/REC_RTX_Ext_Gateway/job/CA-QC-LONGUEUIL-J01--1000-Blvd-Marie-Victorin--J01-BLDG/Stage---Hiver-2027--Stagiaire-en-technologies-chimiques---Internship---Winter-2027--Intern-in-Chemical-Technology-and-Process_01867640) |
@@ -231,13 +223,11 @@ Open positions: 17
 
 ## Operations & Supply Chain
 
-Open positions: 44
+Open positions: 42
 
 | Rank | Company | Position | Location | Category | Salary | Keywords | Sponsorship | Apply |
 |---:|---|---|---|---|---|---|---|---|
 | 112 | Northrop Grumman | 2027 Supply Chain Intern - Annapolis MD | United States-Maryland-Annapolis | Operations & Supply Chain | $18.25–$33/hr | Excel · supply chain | Not specified | [Apply](https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-Maryland-Annapolis/XMLNAME-2027-Supply-Chain-Intern---Annapolis-MD_R10252030) |
-| 112 | Northrop Grumman | 2027 Supply Chain Intern - San Diego CA | United States-California-San Diego | Operations & Supply Chain | $19.25–$34.75/hr | Excel · supply chain · logistics | Not specified | [Apply](https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-California-San-Diego/XMLNAME-2027-Supply-Chain-Intern---San-Diego-CA_R10252091-1) |
-| 112 | Northrop Grumman | 2027 Supply Chain Intern - Salt Lake City UT | United States-Utah-Salt Lake City | Operations & Supply Chain | $16.5–$30/hr | Excel · supply chain | Not specified | [Apply](https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-Utah-Salt-Lake-City/XMLNAME-2027-Supply-Chain-Intern---Salt-Lake-City-UT_R10252101) |
 | 125 | Micron Technology | Intern - Automation, Operations Improvement | Boise, ID - ID1 | Operations & Supply Chain | Not disclosed | Python · C# · SQL · data science · Excel | Not specified | [Apply](https://micron.wd1.myworkdayjobs.com/en-US/External/job/Boise-ID---ID1/Intern---Automation--Operations-Improvement_JR110774) |
 | 125 | Micron Technology | Intern – Procurement Cost Analyst | Boise, ID - North Office | Operations & Supply Chain | Not disclosed | analytics · Excel · mechanical engineering · electrical engineering · supply chain | Not specified | [Apply](https://micron.wd1.myworkdayjobs.com/en-US/External/job/Boise-ID---North-Office/Intern---Procurement-Cost-Analyst_JR112690) |
 | 125 | Micron Technology | Intern - Operations Improvement Scheduling | Boise, ID - Main Site | Operations & Supply Chain | Not disclosed | Python · C# · SQL · data science · Excel | Not specified | [Apply](https://micron.wd1.myworkdayjobs.com/en-US/External/job/Boise-ID---Main-Site/Intern---Operation-Improvement-Scheduling_JR111097) |
@@ -302,7 +292,7 @@ Open positions: 5
 
 ## Other
 
-Open positions: 415
+Open positions: 413
 
 | Rank | Company | Position | Location | Category | Salary | Keywords | Sponsorship | Apply |
 |---:|---|---|---|---|---|---|---|---|
@@ -431,12 +421,10 @@ Open positions: 415
 | 44 | Walt Disney | Disney Kids and Family Production Management Intern, Spring 2027 | Glendale, CA, USA | Other | $23/hr | Excel | Not specified | [Apply](https://disney.wd5.myworkdayjobs.com/en-US/disneycareer/job/Glendale-CA-USA/Disney-Kids-and-Family-Production-Management-Intern--Spring-2027_10160168-2) |
 | 44 | Walt Disney | Production Admin Intern, Spring 2027 | Burbank, CA, USA | Other | $23/hr | Excel | Not specified | [Apply](https://disney.wd5.myworkdayjobs.com/en-US/disneycareer/job/Burbank-CA-USA/Production-Admin-Intern--Spring-2027_10160178) |
 | 44 | Walt Disney | WDI Construction Management Intern, Spring 2027 | Anaheim, CA, USA | Other | $31/hr | Excel | Not specified | [Apply](https://disney.wd5.myworkdayjobs.com/en-US/disneycareer/job/Anaheim-CA-USA/WDI-Construction-Management-Intern--Spring-2027_10157976) |
-| 44 | Walt Disney | Disney Live Entertainment Lighting Design Intern, Spring 2027 | Anaheim, CA, USA | Other | $22/hr | — | Not specified | [Apply](https://disney.wd5.myworkdayjobs.com/en-US/disneycareer/job/Anaheim-CA-USA/Disney-Live-Entertainment-Lighting-Design-Intern--Spring-2027_10159167) |
 | 44 | Walt Disney | Global Security Design & Engineering Intern, Spring 2027 | Glendale, CA, USA | Other | $23/hr | artificial intelligence · analytics · Excel | Not specified | [Apply](https://disney.wd5.myworkdayjobs.com/en-US/disneycareer/job/Glendale-CA-USA/Global-Security-Design---Engineering-Intern--Spring-2027_10160013) |
 | 44 | Walt Disney | Disney Live Entertainment Character Content Creator Intern, Spring 2027 | Kissimmee, FL, USA | Other | $22/hr | audit | Not specified | [Apply](https://disney.wd5.myworkdayjobs.com/en-US/disneycareer/job/Kissimmee-FL-USA/Disney-Live-Entertainment-Character-Content-Creator-Intern--Spring-2027_10160035) |
 | 44 | Walt Disney | KGO-TV (ABC7) 7 On Your Side Intern, Spring 2027 | San Francisco, CA, USA | Other | $23/hr | Excel | Not specified | [Apply](https://disney.wd5.myworkdayjobs.com/en-US/disneycareer/job/San-Francisco-CA-USA/KGO-TV--ABC7--7-On-Your-Side-Intern--Spring-2027_10157762) |
 | 44 | Walt Disney | KGO-TV (ABC7) Assignment Desk News Intern, Spring 2027 | San Francisco, CA, USA | Other | $23/hr | — | Not specified | [Apply](https://disney.wd5.myworkdayjobs.com/en-US/disneycareer/job/San-Francisco-CA-USA/KGO-TV--ABC7--Assignment-Desk-News-Intern--Spring-2027_10158968) |
-| 44 | Walt Disney | Disney Live Entertainment Production Specialist Intern, Spring 2027 | Anaheim, CA, USA | Other | $22/hr | — | Not specified | [Apply](https://disney.wd5.myworkdayjobs.com/en-US/disneycareer/job/Anaheim-CA-USA/Disney-Live-Entertainment-Production-Specialist-Intern--Spring-2027_10159388-2) |
 | 45 | Johnson & Johnson | R&D Co-Op | Raritan, New Jersey, United States of America | Other | $23.5/hr | Excel · mechanical engineering · recruiting | Not specified | [Apply](https://jj.wd5.myworkdayjobs.com/en-US/JJ/job/Raritan-New-Jersey-United-States-of-America/R-D-Co-Op_R-097655) |
 | 45 | Johnson & Johnson | Spring 2027 Hip/Knee R&D Co-op | Warsaw, Indiana, United States of America | Other | Not disclosed | risk management · mechanical engineering · CAD · recruiting · legal | Not specified | [Apply](https://jj.wd5.myworkdayjobs.com/en-US/JJ/job/Warsaw-Indiana-United-States-of-America/Spring-2027-Hip-Knee-R-D-Co-op_R-099938) |
 | 45 | Johnson & Johnson | Distribution Co-Op | Somerset, New Jersey, United States of America | Other | $23.5/hr | Excel · supply chain | Not specified | [Apply](https://jj.wd5.myworkdayjobs.com/en-US/JJ/job/Somerset-New-Jersey-United-States-of-America/Distribution-Co-Op_R-097287) |
