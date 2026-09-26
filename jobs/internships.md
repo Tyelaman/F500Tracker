@@ -1,12 +1,12 @@
 # F500Tracker internships
 
-Last updated: September 26, 2026 at 11:34 UTC
+Last updated: September 26, 2026 at 16:34 UTC
 
-Current internships: 605
+Current internships: 604
 
 ## Categories
 
-[Software & IT (45)](#software-it) · [Data & AI (16)](#data-ai) · [Product & Design (2)](#product-design) · [Engineering (51)](#engineering) · [Finance & Accounting (14)](#finance-accounting) · [Sales & Marketing (17)](#sales-marketing) · [Operations & Supply Chain (42)](#operations-supply-chain) · [People & Legal (5)](#people-legal) · [Other (413)](#other)
+[Software & IT (45)](#software-it) · [Data & AI (16)](#data-ai) · [Product & Design (2)](#product-design) · [Engineering (51)](#engineering) · [Finance & Accounting (14)](#finance-accounting) · [Sales & Marketing (17)](#sales-marketing) · [Operations & Supply Chain (41)](#operations-supply-chain) · [People & Legal (5)](#people-legal) · [Other (413)](#other)
 
 <a id="software-it"></a>
 
@@ -223,7 +223,7 @@ Open positions: 17
 
 ## Operations & Supply Chain
 
-Open positions: 42
+Open positions: 41
 
 | Rank | Company | Position | Location | Category | Salary | Keywords | Sponsorship | Apply |
 |---:|---|---|---|---|---|---|---|---|
@@ -235,7 +235,6 @@ Open positions: 42
 | 44 | Walt Disney | Disney Central Operations Support Intern, Spring 2027 | Orlando, FL, USA | Operations & Supply Chain | $23/hr | compliance | Not specified | [Apply](https://disney.wd5.myworkdayjobs.com/en-US/disneycareer/job/Orlando-FL-USA/Disney-Central-Operations-Support-Intern--Spring-2027_10158058) |
 | 45 | Johnson & Johnson | Technical Operations Engineering Co-Op | San Lorenzo, Puerto Rico, United States of America | Operations & Supply Chain | Not disclosed | Excel · mechanical engineering · electrical engineering · compliance | Not specified | [Apply](https://jj.wd5.myworkdayjobs.com/en-US/JJ/job/San-Lorenzo-Puerto-Rico-United-States-of-America/Technical-Operations-Engineering-Co-Op_R-099385) |
 | 45 | Johnson & Johnson | Operations Co-Op | San Lorenzo, Puerto Rico, United States of America | Operations & Supply Chain | Not disclosed | Excel | Not specified | [Apply](https://jj.wd5.myworkdayjobs.com/en-US/JJ/job/San-Lorenzo-Puerto-Rico-United-States-of-America/Operations-Co-Op_R-099330) |
-| 45 | Johnson & Johnson | Global Transportation Spring Co-Op | New Brunswick, New Jersey, United States of America | Operations & Supply Chain | $23.5/hr | Python · SQL · analytics · Excel · audit | Not specified | [Apply](https://jj.wd5.myworkdayjobs.com/en-US/JJ/job/New-Brunswick-New-Jersey-United-States-of-America/Global-Transportation-Spring-Co-Op_R-098375) |
 | 45 | Johnson & Johnson | Warehouse and Logistics Process Improvement Co-Op | Gurabo, Puerto Rico, United States of America | Operations & Supply Chain | Not disclosed | analytics · Excel · supply chain · logistics | Not specified | [Apply](https://jj.wd5.myworkdayjobs.com/en-US/JJ/job/Gurabo-Puerto-Rico-United-States-of-America/Warehouse-Data-Analytics-Co-Op_R-098705) |
 | 45 | Johnson & Johnson | Operations Continuous Improvement Co-Op | Gurabo, Puerto Rico, United States of America | Operations & Supply Chain | Not disclosed | analytics · Excel · mechanical engineering · supply chain · compliance | Not specified | [Apply](https://jj.wd5.myworkdayjobs.com/en-US/JJ/job/Gurabo-Puerto-Rico-United-States-of-America/Operations-Continuous-Improvement-Co-Op_R-099631) |
 | 45 | Johnson & Johnson | Supply Chain Distributions Co-op | Mooresville, Indiana, United States of America | Operations & Supply Chain | Not disclosed | analytics · Excel · supply chain · legal | Not specified | [Apply](https://jj.wd5.myworkdayjobs.com/en-US/JJ/job/Mooresville-Indiana-United-States-of-America/Supply-Chain-Distributions-Co-op_R-099096) |

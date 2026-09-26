@@ -22723,7 +22723,7 @@
     ],
     "updated_at": "",
     "first_seen_at": "2026-09-24T21:45:16.125443+00:00",
-    "enriched_at": "2026-09-19T15:52:40.427229+00:00"
+    "enriched_at": "2026-09-26T16:22:52.129965+00:00"
   },
   {
     "company": "NVIDIA",
@@ -36487,6 +36487,29 @@
     "updated_at": "",
     "first_seen_at": "2026-08-15T02:30:47.614898+00:00",
     "enriched_at": "2026-09-26T11:24:23.120141+00:00"
+  },
+  {
+    "company": "Northrop Grumman",
+    "fortune_rank": 112,
+    "title": "Test Engineer TS SCI",
+    "location": "United States-Virginia-Stafford",
+    "url": "https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-Virginia-Stafford/test-Engineer-TS-SCI-CI-Poly_R10253071",
+    "source": "workday",
+    "external_id": "/job/United-States-Virginia-Stafford/test-Engineer-TS-SCI-CI-Poly_R10253071",
+    "employment_type": "full-time",
+    "category": "Other",
+    "h1b_status": "unknown",
+    "sponsorship_evidence": "",
+    "h1b_mentioned": false,
+    "salary_min": null,
+    "salary_max": null,
+    "salary_currency": "",
+    "salary_period": "",
+    "salary_text": "",
+    "keywords": [],
+    "updated_at": "",
+    "first_seen_at": "2026-09-26T16:34:09.415223+00:00",
+    "enriched_at": "2026-09-26T16:24:23.941006+00:00"
   },
   {
     "company": "Northrop Grumman",
@@ -91281,29 +91304,6 @@
   {
     "company": "Northrop Grumman",
     "fortune_rank": 112,
-    "title": "Electromechanical Engineer / Principal Electromechanical Engineer (AHT)",
-    "location": "United States-Colorado-Aurora",
-    "url": "https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-Colorado-Aurora/Electromechanical-Engineer---Principal-Electromechanical-Engineer--AHT-_R10245434-1",
-    "source": "workday",
-    "external_id": "/job/United-States-Colorado-Aurora/Electromechanical-Engineer---Principal-Electromechanical-Engineer--AHT-_R10245434-1",
-    "employment_type": "full-time",
-    "category": "Other",
-    "h1b_status": "unknown",
-    "sponsorship_evidence": "",
-    "h1b_mentioned": false,
-    "salary_min": null,
-    "salary_max": null,
-    "salary_currency": "",
-    "salary_period": "",
-    "salary_text": "",
-    "keywords": [],
-    "updated_at": "",
-    "first_seen_at": "2026-08-15T02:30:47.614898+00:00",
-    "enriched_at": "2026-09-19T20:41:58.992049+00:00"
-  },
-  {
-    "company": "Northrop Grumman",
-    "fortune_rank": 112,
     "title": "Principal / Sr. Principal Electromechanical Engineer - (AHT)",
     "location": "United States-Colorado-Aurora",
     "url": "https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-Colorado-Aurora/Principal---Sr-Principal-Electromechanical-Engineer----AHT-_R10245592-1",
@@ -143679,29 +143679,6 @@
     "enriched_at": "2026-09-25T05:00:08.302484+00:00"
   },
   {
-    "company": "Cigna Group",
-    "fortune_rank": 14,
-    "title": "Pharmacy Production Clerk - Accredo - Onsite",
-    "location": "Orlando, FL",
-    "url": "https://cigna.wd5.myworkdayjobs.com/en-US/cignacareers/job/Orlando-FL/Pharmacy-Production-Clerk---Accredo---Onsite_26010090",
-    "source": "workday",
-    "external_id": "/job/Orlando-FL/Pharmacy-Production-Clerk---Accredo---Onsite_26010090",
-    "employment_type": "full-time",
-    "category": "Other",
-    "h1b_status": "unknown",
-    "sponsorship_evidence": "",
-    "h1b_mentioned": false,
-    "salary_min": null,
-    "salary_max": null,
-    "salary_currency": "",
-    "salary_period": "",
-    "salary_text": "",
-    "keywords": [],
-    "updated_at": "",
-    "first_seen_at": "2026-09-25T05:10:09.019400+00:00",
-    "enriched_at": "2026-09-25T05:00:08.308721+00:00"
-  },
-  {
     "company": "Centene",
     "fortune_rank": 19,
     "title": "Finance Analyst III - Managed Care",
@@ -150071,6 +150048,60 @@
   {
     "company": "Morgan Stanley",
     "fortune_rank": 39,
+    "title": "Registered Client Service Asscicate",
+    "location": "Mclean, Virginia, United States of America",
+    "url": "https://ms.wd5.myworkdayjobs.com/en-US/External/job/Mclean-Virginia-United-States-of-America/Registered-Client-Service-Asscicate_JR043920",
+    "source": "workday",
+    "external_id": "/job/Mclean-Virginia-United-States-of-America/Registered-Client-Service-Asscicate_JR043920",
+    "employment_type": "full-time",
+    "category": "Other",
+    "h1b_status": "unknown",
+    "sponsorship_evidence": "",
+    "h1b_mentioned": false,
+    "salary_min": 90000.0,
+    "salary_max": 90000.0,
+    "salary_currency": "USD",
+    "salary_period": "year",
+    "salary_text": "$90,000 per year",
+    "keywords": [
+      "Excel",
+      "logistics",
+      "recruiting"
+    ],
+    "updated_at": "",
+    "first_seen_at": "2026-09-26T16:34:09.415223+00:00",
+    "enriched_at": "2026-09-26T16:25:39.542768+00:00"
+  },
+  {
+    "company": "Morgan Stanley",
+    "fortune_rank": 39,
+    "title": "Registered Client Service Associate",
+    "location": "Mclean, Virginia, United States of America",
+    "url": "https://ms.wd5.myworkdayjobs.com/en-US/External/job/Mclean-Virginia-United-States-of-America/Registered-Client-Service-Associate_JR043919",
+    "source": "workday",
+    "external_id": "/job/Mclean-Virginia-United-States-of-America/Registered-Client-Service-Associate_JR043919",
+    "employment_type": "full-time",
+    "category": "Other",
+    "h1b_status": "unknown",
+    "sponsorship_evidence": "",
+    "h1b_mentioned": false,
+    "salary_min": 90000.0,
+    "salary_max": 90000.0,
+    "salary_currency": "USD",
+    "salary_period": "year",
+    "salary_text": "$90,000 per year",
+    "keywords": [
+      "Excel",
+      "logistics",
+      "recruiting"
+    ],
+    "updated_at": "",
+    "first_seen_at": "2026-09-26T16:34:09.415223+00:00",
+    "enriched_at": "2026-09-26T16:25:39.551492+00:00"
+  },
+  {
+    "company": "Morgan Stanley",
+    "fortune_rank": 39,
     "title": "Senior Cloud Network Engineer",
     "location": "New York, New York, United States of America",
     "url": "https://ms.wd5.myworkdayjobs.com/en-US/External/job/New-York-New-York-United-States-of-America/Senior-Cloud-Network-Engineer_PT-JR044651",
@@ -150231,35 +150262,6 @@
     "updated_at": "",
     "first_seen_at": "2026-09-25T21:47:26.928317+00:00",
     "enriched_at": "2026-09-25T21:38:10.828799+00:00"
-  },
-  {
-    "company": "Morgan Stanley",
-    "fortune_rank": 39,
-    "title": "Global Financial Crimes Change Management Director (AVP)",
-    "location": "Dallas, Texas, United States of America",
-    "url": "https://ms.wd5.myworkdayjobs.com/en-US/External/job/Dallas-Texas-United-States-of-America/Global-Financial-Crimes-Change-Management-Director--AVP-_PT-JR042274",
-    "source": "workday",
-    "external_id": "/job/Dallas-Texas-United-States-of-America/Global-Financial-Crimes-Change-Management-Director--AVP-_PT-JR042274",
-    "employment_type": "full-time",
-    "category": "Finance & Accounting",
-    "h1b_status": "unknown",
-    "sponsorship_evidence": "",
-    "h1b_mentioned": false,
-    "salary_min": null,
-    "salary_max": null,
-    "salary_currency": "",
-    "salary_period": "",
-    "salary_text": "",
-    "keywords": [
-      "tax",
-      "risk management",
-      "recruiting",
-      "compliance",
-      "legal"
-    ],
-    "updated_at": "",
-    "first_seen_at": "2026-09-25T21:47:26.928317+00:00",
-    "enriched_at": "2026-09-25T21:38:10.839904+00:00"
   },
   {
     "company": "Walt Disney",
@@ -156498,6 +156500,33 @@
   {
     "company": "Johnson & Johnson",
     "fortune_rank": 45,
+    "title": "Global Marketing Manager, Downstream \u2013 Complex Spine",
+    "location": "Raynham, Massachusetts, United States of America",
+    "url": "https://jj.wd5.myworkdayjobs.com/en-US/JJ/job/Raynham-Massachusetts-United-States-of-America/Global-Marketing-Manager--Downstream---Complex-Spine_R-097400",
+    "source": "workday",
+    "external_id": "/job/Raynham-Massachusetts-United-States-of-America/Global-Marketing-Manager--Downstream---Complex-Spine_R-097400",
+    "employment_type": "full-time",
+    "category": "Sales & Marketing",
+    "h1b_status": "unknown",
+    "sponsorship_evidence": "",
+    "h1b_mentioned": false,
+    "salary_min": null,
+    "salary_max": null,
+    "salary_currency": "",
+    "salary_period": "",
+    "salary_text": "",
+    "keywords": [
+      "supply chain",
+      "sales",
+      "legal"
+    ],
+    "updated_at": "",
+    "first_seen_at": "2026-09-26T16:34:09.415223+00:00",
+    "enriched_at": "2026-09-26T16:26:32.450823+00:00"
+  },
+  {
+    "company": "Johnson & Johnson",
+    "fortune_rank": 45,
     "title": "Sr. Design Quality Engineer - Shockwave Medical",
     "location": "Santa Clara, California, United States of America",
     "url": "https://jj.wd5.myworkdayjobs.com/en-US/JJ/job/Santa-Clara-California-United-States-of-America/Sr-Design-Quality-Engineer---Shockwave-Medical_R-101847",
@@ -161473,39 +161502,6 @@
     "updated_at": "",
     "first_seen_at": "2026-09-22T05:06:22.249219+00:00",
     "enriched_at": "2026-09-22T04:58:49.579551+00:00"
-  },
-  {
-    "company": "Johnson & Johnson",
-    "fortune_rank": 45,
-    "title": "Global Transportation Spring Co-Op",
-    "location": "New Brunswick, New Jersey, United States of America",
-    "url": "https://jj.wd5.myworkdayjobs.com/en-US/JJ/job/New-Brunswick-New-Jersey-United-States-of-America/Global-Transportation-Spring-Co-Op_R-098375",
-    "source": "workday",
-    "external_id": "/job/New-Brunswick-New-Jersey-United-States-of-America/Global-Transportation-Spring-Co-Op_R-098375",
-    "employment_type": "internship",
-    "category": "Operations & Supply Chain",
-    "h1b_status": "unknown",
-    "sponsorship_evidence": "",
-    "h1b_mentioned": true,
-    "salary_min": 23.5,
-    "salary_max": 23.5,
-    "salary_currency": "USD",
-    "salary_period": "hour",
-    "salary_text": "$23.50 per hour",
-    "keywords": [
-      "Python",
-      "SQL",
-      "analytics",
-      "Excel",
-      "audit",
-      "supply chain",
-      "logistics",
-      "compliance",
-      "contracts"
-    ],
-    "updated_at": "",
-    "first_seen_at": "2026-09-22T05:06:22.249219+00:00",
-    "enriched_at": "2026-09-22T04:58:49.599226+00:00"
   },
   {
     "company": "Johnson & Johnson",
@@ -169766,6 +169762,114 @@
     "updated_at": "",
     "first_seen_at": "2026-08-15T02:30:47.614898+00:00",
     "enriched_at": "2026-09-19T20:44:56.432328+00:00"
+  },
+  {
+    "company": "RTX",
+    "fortune_rank": 49,
+    "title": "Field Support Technician \u2013 1st Shift (Onsite)",
+    "location": "US-WA-EVERETT-11404 ~ 11404 Commando Rd ~ COMMANDO",
+    "url": "https://globalhr.wd5.myworkdayjobs.com/en-US/REC_RTX_Ext_Gateway/job/US-WA-EVERETT-11404--11404-Commando-Rd--COMMANDO/Field-Support-Technician---1st-Shift--Onsite-_01878171",
+    "source": "workday",
+    "external_id": "/job/US-WA-EVERETT-11404--11404-Commando-Rd--COMMANDO/Field-Support-Technician---1st-Shift--Onsite-_01878171",
+    "employment_type": "full-time",
+    "category": "Other",
+    "h1b_status": "unknown",
+    "sponsorship_evidence": "",
+    "h1b_mentioned": false,
+    "salary_min": null,
+    "salary_max": null,
+    "salary_currency": "",
+    "salary_period": "",
+    "salary_text": "",
+    "keywords": [
+      "compliance",
+      "legal"
+    ],
+    "updated_at": "",
+    "first_seen_at": "2026-09-26T16:34:09.415223+00:00",
+    "enriched_at": "2026-09-26T16:27:54.222551+00:00"
+  },
+  {
+    "company": "RTX",
+    "fortune_rank": 49,
+    "title": "Logistics Manager (Onsite)",
+    "location": "US-IL-ROCKFORD-P6 ~ 4747 Harrison Ave ~ 4747 HARRISON AVE-P6",
+    "url": "https://globalhr.wd5.myworkdayjobs.com/en-US/REC_RTX_Ext_Gateway/job/US-IL-ROCKFORD-P6--4747-Harrison-Ave--4747-HARRISON-AVE-P6/Logistics-Manager--Onsite-_01878194",
+    "source": "workday",
+    "external_id": "/job/US-IL-ROCKFORD-P6--4747-Harrison-Ave--4747-HARRISON-AVE-P6/Logistics-Manager--Onsite-_01878194",
+    "employment_type": "full-time",
+    "category": "Operations & Supply Chain",
+    "h1b_status": "unknown",
+    "sponsorship_evidence": "",
+    "h1b_mentioned": false,
+    "salary_min": null,
+    "salary_max": null,
+    "salary_currency": "",
+    "salary_period": "",
+    "salary_text": "",
+    "keywords": [
+      "Excel",
+      "supply chain",
+      "logistics",
+      "compliance",
+      "legal",
+      "contracts"
+    ],
+    "updated_at": "",
+    "first_seen_at": "2026-09-26T16:34:09.415223+00:00",
+    "enriched_at": "2026-09-26T16:27:54.234699+00:00"
+  },
+  {
+    "company": "RTX",
+    "fortune_rank": 49,
+    "title": "RF Product Development Engineering Section Leader",
+    "location": "US-AZ-TUCSON-M10 ~ 3360 E Hemisphere Loop ~ BLDG M10",
+    "url": "https://globalhr.wd5.myworkdayjobs.com/en-US/REC_RTX_Ext_Gateway/job/US-AZ-TUCSON-M10--3360-E-Hemisphere-Loop--BLDG-M10/RF-Product-Development-Engineering-Section-Leader_01878360",
+    "source": "workday",
+    "external_id": "/job/US-AZ-TUCSON-M10--3360-E-Hemisphere-Loop--BLDG-M10/RF-Product-Development-Engineering-Section-Leader_01878360",
+    "employment_type": "full-time",
+    "category": "Other",
+    "h1b_status": "unknown",
+    "sponsorship_evidence": "",
+    "h1b_mentioned": false,
+    "salary_min": null,
+    "salary_max": null,
+    "salary_currency": "",
+    "salary_period": "",
+    "salary_text": "",
+    "keywords": [
+      "supply chain",
+      "recruiting",
+      "compliance"
+    ],
+    "updated_at": "",
+    "first_seen_at": "2026-09-26T16:34:09.415223+00:00",
+    "enriched_at": "2026-09-26T16:27:54.246263+00:00"
+  },
+  {
+    "company": "RTX",
+    "fortune_rank": 49,
+    "title": "Senior Principal Systems Engineer, Hardware Tech Lead Onsite",
+    "location": "US-MA-WOBURN-WB1 ~ 235 Presidential Way ~ SPENCER BLDG",
+    "url": "https://globalhr.wd5.myworkdayjobs.com/en-US/REC_RTX_Ext_Gateway/job/US-MA-WOBURN-WB1--235-Presidential-Way--SPENCER-BLDG/Senior-Principal-Systems-Engineer--Hardware-Tech-Lead-Onsite_01878186",
+    "source": "workday",
+    "external_id": "/job/US-MA-WOBURN-WB1--235-Presidential-Way--SPENCER-BLDG/Senior-Principal-Systems-Engineer--Hardware-Tech-Lead-Onsite_01878186",
+    "employment_type": "full-time",
+    "category": "Software & IT",
+    "h1b_status": "unknown",
+    "sponsorship_evidence": "",
+    "h1b_mentioned": false,
+    "salary_min": null,
+    "salary_max": null,
+    "salary_currency": "",
+    "salary_period": "",
+    "salary_text": "",
+    "keywords": [
+      "compliance"
+    ],
+    "updated_at": "",
+    "first_seen_at": "2026-09-26T16:34:09.415223+00:00",
+    "enriched_at": "2026-09-26T16:27:54.260511+00:00"
   },
   {
     "company": "RTX",
@@ -193403,7 +193507,7 @@
     ],
     "updated_at": "",
     "first_seen_at": "2026-09-19T16:04:03.769342+00:00",
-    "enriched_at": "2026-09-19T15:57:59.689415+00:00"
+    "enriched_at": "2026-09-26T16:27:54.271074+00:00"
   },
   {
     "company": "RTX",
@@ -193428,7 +193532,7 @@
     ],
     "updated_at": "",
     "first_seen_at": "2026-09-19T16:04:03.769342+00:00",
-    "enriched_at": "2026-09-19T15:57:59.703619+00:00"
+    "enriched_at": "2026-09-26T16:27:54.281764+00:00"
   },
   {
     "company": "RTX",
@@ -234959,58 +235063,6 @@
   {
     "company": "RTX",
     "fortune_rank": 49,
-    "title": "AN/TPY-2 CAM Principal Systems Engineer",
-    "location": "US-CO-COLORADO SPRINGS-1275 ~ 1275 N Newport Rd ~ NEWPORT",
-    "url": "https://globalhr.wd5.myworkdayjobs.com/en-US/REC_RTX_Ext_Gateway/job/US-CO-COLORADO-SPRINGS-1275--1275-N-Newport-Rd--NEWPORT/AN-TPY-2-CAM-Principal-Systems-Engineer_01870213",
-    "source": "workday",
-    "external_id": "/job/US-CO-COLORADO-SPRINGS-1275--1275-N-Newport-Rd--NEWPORT/AN-TPY-2-CAM-Principal-Systems-Engineer_01870213",
-    "employment_type": "full-time",
-    "category": "Software & IT",
-    "h1b_status": "unknown",
-    "sponsorship_evidence": "",
-    "h1b_mentioned": false,
-    "salary_min": null,
-    "salary_max": null,
-    "salary_currency": "",
-    "salary_period": "",
-    "salary_text": "",
-    "keywords": [
-      "Excel",
-      "compliance"
-    ],
-    "updated_at": "",
-    "first_seen_at": "2026-08-26T20:16:29.305120+00:00",
-    "enriched_at": "2026-09-24T11:51:15.719281+00:00"
-  },
-  {
-    "company": "RTX",
-    "fortune_rank": 49,
-    "title": "AN/TPY-2 CAM Senior Systems Engineer",
-    "location": "US-CO-COLORADO SPRINGS-1275 ~ 1275 N Newport Rd ~ NEWPORT",
-    "url": "https://globalhr.wd5.myworkdayjobs.com/en-US/REC_RTX_Ext_Gateway/job/US-CO-COLORADO-SPRINGS-1275--1275-N-Newport-Rd--NEWPORT/AN-TPY-2-CAM-Senior-Systems-Engineer_01870210",
-    "source": "workday",
-    "external_id": "/job/US-CO-COLORADO-SPRINGS-1275--1275-N-Newport-Rd--NEWPORT/AN-TPY-2-CAM-Senior-Systems-Engineer_01870210",
-    "employment_type": "full-time",
-    "category": "Software & IT",
-    "h1b_status": "unknown",
-    "sponsorship_evidence": "",
-    "h1b_mentioned": false,
-    "salary_min": null,
-    "salary_max": null,
-    "salary_currency": "",
-    "salary_period": "",
-    "salary_text": "",
-    "keywords": [
-      "Excel",
-      "compliance"
-    ],
-    "updated_at": "",
-    "first_seen_at": "2026-08-26T20:16:29.305120+00:00",
-    "enriched_at": "2026-09-24T11:51:15.728450+00:00"
-  },
-  {
-    "company": "RTX",
-    "fortune_rank": 49,
     "title": "Mecanicien d'entretien industriel",
     "location": "CA-QC-LONGUEUIL-J01 ~ 1000 Blvd Marie-Victorin ~ J01 BLDG",
     "url": "https://globalhr.wd5.myworkdayjobs.com/en-US/REC_RTX_Ext_Gateway/job/CA-QC-LONGUEUIL-J01--1000-Blvd-Marie-Victorin--J01-BLDG/Mecanicien-d-entretien-industriel_01865527",
@@ -275645,6 +275697,232 @@
   {
     "company": "Lowe's",
     "fortune_rank": 52,
+    "title": "Full Time - Receiver/Stocker - Day",
+    "location": "Fort Worth, TX (White Settlement) 1619",
+    "url": "https://lowes.wd5.myworkdayjobs.com/en-US/LWS_External_CS/job/Fort-Worth-TX-White-Settlement-1619/Full-Time---Receiver-Stocker---Day_JR-02658314",
+    "source": "workday",
+    "external_id": "/job/Fort-Worth-TX-White-Settlement-1619/Full-Time---Receiver-Stocker---Day_JR-02658314",
+    "employment_type": "full-time",
+    "category": "Other",
+    "h1b_status": "unknown",
+    "sponsorship_evidence": "",
+    "h1b_mentioned": false,
+    "salary_min": null,
+    "salary_max": null,
+    "salary_currency": "",
+    "salary_period": "",
+    "salary_text": "",
+    "keywords": [
+      "sales"
+    ],
+    "updated_at": "",
+    "first_seen_at": "2026-09-26T16:34:09.415223+00:00",
+    "enriched_at": "2026-09-26T16:32:13.337602+00:00"
+  },
+  {
+    "company": "Lowe's",
+    "fortune_rank": 52,
+    "title": "Full Time - Sales Associate - Electrical & Lighting - Day",
+    "location": "Abilene, TX (N Abilene) 2719",
+    "url": "https://lowes.wd5.myworkdayjobs.com/en-US/LWS_External_CS/job/Abilene-TX-N-Abilene-2719/Full-Time---Sales-Associate---Electrical---Lighting---Day_JR-02658294",
+    "source": "workday",
+    "external_id": "/job/Abilene-TX-N-Abilene-2719/Full-Time---Sales-Associate---Electrical---Lighting---Day_JR-02658294",
+    "employment_type": "full-time",
+    "category": "Engineering",
+    "h1b_status": "unknown",
+    "sponsorship_evidence": "",
+    "h1b_mentioned": false,
+    "salary_min": null,
+    "salary_max": null,
+    "salary_currency": "",
+    "salary_period": "",
+    "salary_text": "",
+    "keywords": [
+      "sales"
+    ],
+    "updated_at": "",
+    "first_seen_at": "2026-09-26T16:34:09.415223+00:00",
+    "enriched_at": "2026-09-26T16:32:13.346306+00:00"
+  },
+  {
+    "company": "Lowe's",
+    "fortune_rank": 52,
+    "title": "Full Time - Receiver/Stocker - Day",
+    "location": "Conway, NH (N Conway) 2374",
+    "url": "https://lowes.wd5.myworkdayjobs.com/en-US/LWS_External_CS/job/Conway-NH-N-Conway-2374/Full-Time---Receiver-Stocker---Day_JR-02658265",
+    "source": "workday",
+    "external_id": "/job/Conway-NH-N-Conway-2374/Full-Time---Receiver-Stocker---Day_JR-02658265",
+    "employment_type": "full-time",
+    "category": "Other",
+    "h1b_status": "unknown",
+    "sponsorship_evidence": "",
+    "h1b_mentioned": false,
+    "salary_min": null,
+    "salary_max": null,
+    "salary_currency": "",
+    "salary_period": "",
+    "salary_text": "",
+    "keywords": [
+      "sales"
+    ],
+    "updated_at": "",
+    "first_seen_at": "2026-09-26T16:34:09.415223+00:00",
+    "enriched_at": "2026-09-26T16:32:13.355270+00:00"
+  },
+  {
+    "company": "Lowe's",
+    "fortune_rank": 52,
+    "title": "Full Time - Fulfillment Associate - Day",
+    "location": "Washington, MO 1648",
+    "url": "https://lowes.wd5.myworkdayjobs.com/en-US/LWS_External_CS/job/Washington-MO-1648/Full-Time---Fulfillment-Associate---Day_JR-02658207",
+    "source": "workday",
+    "external_id": "/job/Washington-MO-1648/Full-Time---Fulfillment-Associate---Day_JR-02658207",
+    "employment_type": "full-time",
+    "category": "Other",
+    "h1b_status": "unknown",
+    "sponsorship_evidence": "",
+    "h1b_mentioned": false,
+    "salary_min": null,
+    "salary_max": null,
+    "salary_currency": "",
+    "salary_period": "",
+    "salary_text": "",
+    "keywords": [
+      "sales",
+      "compliance"
+    ],
+    "updated_at": "",
+    "first_seen_at": "2026-09-26T16:34:09.415223+00:00",
+    "enriched_at": "2026-09-26T16:32:13.363838+00:00"
+  },
+  {
+    "company": "Lowe's",
+    "fortune_rank": 52,
+    "title": "Full Time - Merchandising Service Associate - Day",
+    "location": "Kathleen, GA (S Warner Robins) 2478",
+    "url": "https://lowes.wd5.myworkdayjobs.com/en-US/LWS_External_CS/job/Kathleen-GA-S-Warner-Robins-2478/Full-Time---Merchandising-Service-Associate---Day_JR-02658185",
+    "source": "workday",
+    "external_id": "/job/Kathleen-GA-S-Warner-Robins-2478/Full-Time---Merchandising-Service-Associate---Day_JR-02658185",
+    "employment_type": "full-time",
+    "category": "Other",
+    "h1b_status": "unknown",
+    "sponsorship_evidence": "",
+    "h1b_mentioned": false,
+    "salary_min": null,
+    "salary_max": null,
+    "salary_currency": "",
+    "salary_period": "",
+    "salary_text": "",
+    "keywords": [
+      "sales"
+    ],
+    "updated_at": "",
+    "first_seen_at": "2026-09-26T16:34:09.415223+00:00",
+    "enriched_at": "2026-09-26T16:32:13.368027+00:00"
+  },
+  {
+    "company": "Lowe's",
+    "fortune_rank": 52,
+    "title": "Full Time - Merchandising Service Associate - Day",
+    "location": "Kathleen, GA (S Warner Robins) 2478",
+    "url": "https://lowes.wd5.myworkdayjobs.com/en-US/LWS_External_CS/job/Kathleen-GA-S-Warner-Robins-2478/Full-Time---Merchandising-Service-Associate---Day_JR-02658183",
+    "source": "workday",
+    "external_id": "/job/Kathleen-GA-S-Warner-Robins-2478/Full-Time---Merchandising-Service-Associate---Day_JR-02658183",
+    "employment_type": "full-time",
+    "category": "Other",
+    "h1b_status": "unknown",
+    "sponsorship_evidence": "",
+    "h1b_mentioned": false,
+    "salary_min": null,
+    "salary_max": null,
+    "salary_currency": "",
+    "salary_period": "",
+    "salary_text": "",
+    "keywords": [
+      "sales"
+    ],
+    "updated_at": "",
+    "first_seen_at": "2026-09-26T16:34:09.415223+00:00",
+    "enriched_at": "2026-09-26T16:32:13.376986+00:00"
+  },
+  {
+    "company": "Lowe's",
+    "fortune_rank": 52,
+    "title": "Full Time - Receiver/Stocker - Overnight",
+    "location": "York, PA (W York) 2409",
+    "url": "https://lowes.wd5.myworkdayjobs.com/en-US/LWS_External_CS/job/York-PA-W-York-2409/Full-Time---Receiver-Stocker---Overnight_JR-02658182",
+    "source": "workday",
+    "external_id": "/job/York-PA-W-York-2409/Full-Time---Receiver-Stocker---Overnight_JR-02658182",
+    "employment_type": "full-time",
+    "category": "Other",
+    "h1b_status": "unknown",
+    "sponsorship_evidence": "",
+    "h1b_mentioned": false,
+    "salary_min": null,
+    "salary_max": null,
+    "salary_currency": "",
+    "salary_period": "",
+    "salary_text": "",
+    "keywords": [
+      "sales"
+    ],
+    "updated_at": "",
+    "first_seen_at": "2026-09-26T16:34:09.415223+00:00",
+    "enriched_at": "2026-09-26T16:32:13.385917+00:00"
+  },
+  {
+    "company": "Lowe's",
+    "fortune_rank": 52,
+    "title": "Full Time - Merchandising Service Associate - Day",
+    "location": "Winston-salem, NC (N Winston) 0480",
+    "url": "https://lowes.wd5.myworkdayjobs.com/en-US/LWS_External_CS/job/Winston-salem-NC-N-Winston-0480/Full-Time---Merchandising-Service-Associate---Day_JR-02658165",
+    "source": "workday",
+    "external_id": "/job/Winston-salem-NC-N-Winston-0480/Full-Time---Merchandising-Service-Associate---Day_JR-02658165",
+    "employment_type": "full-time",
+    "category": "Other",
+    "h1b_status": "unknown",
+    "sponsorship_evidence": "",
+    "h1b_mentioned": false,
+    "salary_min": null,
+    "salary_max": null,
+    "salary_currency": "",
+    "salary_period": "",
+    "salary_text": "",
+    "keywords": [
+      "sales"
+    ],
+    "updated_at": "",
+    "first_seen_at": "2026-09-26T16:34:09.415223+00:00",
+    "enriched_at": "2026-09-26T16:32:13.394502+00:00"
+  },
+  {
+    "company": "Lowe's",
+    "fortune_rank": 52,
+    "title": "Full Time - Sales Associate - Plumbing - Closing",
+    "location": "North Chesterfield, VA (Midlothian) 0113",
+    "url": "https://lowes.wd5.myworkdayjobs.com/en-US/LWS_External_CS/job/North-Chesterfield-VA-Midlothian-0113/Full-Time---Sales-Associate---Plumbing---Closing_JR-02658163",
+    "source": "workday",
+    "external_id": "/job/North-Chesterfield-VA-Midlothian-0113/Full-Time---Sales-Associate---Plumbing---Closing_JR-02658163",
+    "employment_type": "full-time",
+    "category": "Sales & Marketing",
+    "h1b_status": "unknown",
+    "sponsorship_evidence": "",
+    "h1b_mentioned": false,
+    "salary_min": 15.0,
+    "salary_max": 16.2,
+    "salary_currency": "USD",
+    "salary_period": "hour",
+    "salary_text": "$15.00 - $16.20 per hour",
+    "keywords": [
+      "sales"
+    ],
+    "updated_at": "",
+    "first_seen_at": "2026-09-26T16:34:09.415223+00:00",
+    "enriched_at": "2026-09-26T16:32:13.403467+00:00"
+  },
+  {
+    "company": "Lowe's",
+    "fortune_rank": 52,
     "title": "Full Time - Cashier - Day",
     "location": "Alcoa, TN (Blount County) 0638",
     "url": "https://lowes.wd5.myworkdayjobs.com/en-US/LWS_External_CS/job/Alcoa-TN-Blount-County-0638/Full-Time---Cashier---Day_JR-02658131",
@@ -282804,31 +283082,6 @@
   {
     "company": "Lowe's",
     "fortune_rank": 52,
-    "title": "Full Time - Receiver/Stocker - Overnight",
-    "location": "High Point, NC (N High Point) 0459",
-    "url": "https://lowes.wd5.myworkdayjobs.com/en-US/LWS_External_CS/job/High-Point-NC-N-High-Point-0459/Full-Time---Receiver-Stocker---Overnight_JR-02653979",
-    "source": "workday",
-    "external_id": "/job/High-Point-NC-N-High-Point-0459/Full-Time---Receiver-Stocker---Overnight_JR-02653979",
-    "employment_type": "full-time",
-    "category": "Other",
-    "h1b_status": "unknown",
-    "sponsorship_evidence": "",
-    "h1b_mentioned": false,
-    "salary_min": null,
-    "salary_max": null,
-    "salary_currency": "",
-    "salary_period": "",
-    "salary_text": "",
-    "keywords": [
-      "sales"
-    ],
-    "updated_at": "",
-    "first_seen_at": "2026-09-21T22:13:37.215145+00:00",
-    "enriched_at": "2026-09-21T22:10:33.664652+00:00"
-  },
-  {
-    "company": "Lowe's",
-    "fortune_rank": 52,
     "title": "Full Time - Sales Associate - Flooring - Opening",
     "location": "Tulsa, OK (S Tulsa) 0243",
     "url": "https://lowes.wd5.myworkdayjobs.com/en-US/LWS_External_CS/job/Tulsa-OK-S-Tulsa-0243/Full-Time---Sales-Associate---Flooring---Opening_JR-02653980-1",
@@ -284367,7 +284620,7 @@
     ],
     "updated_at": "",
     "first_seen_at": "2026-09-19T16:04:03.769342+00:00",
-    "enriched_at": "2026-09-19T16:02:02.515146+00:00"
+    "enriched_at": "2026-09-26T16:32:13.415669+00:00"
   },
   {
     "company": "Lowe's",
@@ -284392,7 +284645,7 @@
     ],
     "updated_at": "",
     "first_seen_at": "2026-09-19T16:04:03.769342+00:00",
-    "enriched_at": "2026-09-19T16:02:02.541366+00:00"
+    "enriched_at": "2026-09-26T16:32:13.423474+00:00"
   },
   {
     "company": "Lowe's",
@@ -287716,31 +287969,6 @@
   {
     "company": "Lowe's",
     "fortune_rank": 52,
-    "title": "Full Time - Sales Specialist - Appliances - Day",
-    "location": "San Antonio, TX (N San Antonio) 1579",
-    "url": "https://lowes.wd5.myworkdayjobs.com/en-US/LWS_External_CS/job/San-Antonio-TX-N-San-Antonio-1579/Full-Time---Sales-Specialist---Appliances---Day_JR-02650439-1",
-    "source": "workday",
-    "external_id": "/job/San-Antonio-TX-N-San-Antonio-1579/Full-Time---Sales-Specialist---Appliances---Day_JR-02650439-1",
-    "employment_type": "full-time",
-    "category": "Sales & Marketing",
-    "h1b_status": "unknown",
-    "sponsorship_evidence": "",
-    "h1b_mentioned": false,
-    "salary_min": null,
-    "salary_max": null,
-    "salary_currency": "",
-    "salary_period": "",
-    "salary_text": "",
-    "keywords": [
-      "sales"
-    ],
-    "updated_at": "",
-    "first_seen_at": "2026-09-15T21:35:09.732718+00:00",
-    "enriched_at": "2026-09-23T04:54:53.632726+00:00"
-  },
-  {
-    "company": "Lowe's",
-    "fortune_rank": 52,
     "title": "Front End Department Supervisor",
     "location": "Omaha, NE (Central Omaha) 1159",
     "url": "https://lowes.wd5.myworkdayjobs.com/en-US/LWS_External_CS/job/Omaha-NE-Central-Omaha-1159/Front-End-Department-Supervisor_JR-02646340-1",
@@ -289314,31 +289542,6 @@
   {
     "company": "Lowe's",
     "fortune_rank": 52,
-    "title": "Full Time - Sales Associate - Inside Lawn & Garden - Opening",
-    "location": "Ft. Worth, TX (E Fort Worth) 2546",
-    "url": "https://lowes.wd5.myworkdayjobs.com/en-US/LWS_External_CS/job/Ft-Worth-TX-E-Fort-Worth-2546/Full-Time---Sales-Associate---Inside-Lawn---Garden---Opening_JR-02649362",
-    "source": "workday",
-    "external_id": "/job/Ft-Worth-TX-E-Fort-Worth-2546/Full-Time---Sales-Associate---Inside-Lawn---Garden---Opening_JR-02649362",
-    "employment_type": "full-time",
-    "category": "Sales & Marketing",
-    "h1b_status": "unknown",
-    "sponsorship_evidence": "",
-    "h1b_mentioned": false,
-    "salary_min": null,
-    "salary_max": null,
-    "salary_currency": "",
-    "salary_period": "",
-    "salary_text": "",
-    "keywords": [
-      "sales"
-    ],
-    "updated_at": "",
-    "first_seen_at": "2026-09-14T22:01:50.296679+00:00",
-    "enriched_at": "2026-09-21T22:10:34.364983+00:00"
-  },
-  {
-    "company": "Lowe's",
-    "fortune_rank": 52,
     "title": "Full Time - Sales Associate - Paint - Day",
     "location": "Kansas City, MO (Gladstone) 2767",
     "url": "https://lowes.wd5.myworkdayjobs.com/en-US/LWS_External_CS/job/Kansas-City-MO-Gladstone-2767/Full-Time---Sales-Associate---Paint---Day_JR-02649357-1",
@@ -289649,31 +289852,6 @@
   {
     "company": "Lowe's",
     "fortune_rank": 52,
-    "title": "Full Time - Merchandising Service Associate - Day",
-    "location": "Knoxville, TN (N Knoxville) 0637",
-    "url": "https://lowes.wd5.myworkdayjobs.com/en-US/LWS_External_CS/job/Knoxville-TN-N-Knoxville-0637/Full-Time---Merchandising-Service-Associate---Day_JR-02649181",
-    "source": "workday",
-    "external_id": "/job/Knoxville-TN-N-Knoxville-0637/Full-Time---Merchandising-Service-Associate---Day_JR-02649181",
-    "employment_type": "full-time",
-    "category": "Other",
-    "h1b_status": "unknown",
-    "sponsorship_evidence": "",
-    "h1b_mentioned": false,
-    "salary_min": null,
-    "salary_max": null,
-    "salary_currency": "",
-    "salary_period": "",
-    "salary_text": "",
-    "keywords": [
-      "sales"
-    ],
-    "updated_at": "",
-    "first_seen_at": "2026-09-14T12:56:51.028096+00:00",
-    "enriched_at": "2026-09-21T12:57:17.747614+00:00"
-  },
-  {
-    "company": "Lowe's",
-    "fortune_rank": 52,
     "title": "Full Time - Receiver/Stocker - Day",
     "location": "Bradenton, FL (Central Bradenton) 1843",
     "url": "https://lowes.wd5.myworkdayjobs.com/en-US/LWS_External_CS/job/Bradenton-FL-Central-Bradenton-1843/Full-Time---Receiver-Stocker---Day_JR-02649155",
@@ -289947,7 +290125,7 @@
     ],
     "updated_at": "",
     "first_seen_at": "2026-09-12T15:42:24.254758+00:00",
-    "enriched_at": "2026-09-19T16:02:02.572074+00:00"
+    "enriched_at": "2026-09-26T16:32:13.435367+00:00"
   },
   {
     "company": "Lowe's",
@@ -289972,7 +290150,7 @@
     ],
     "updated_at": "",
     "first_seen_at": "2026-09-12T15:42:24.254758+00:00",
-    "enriched_at": "2026-09-19T16:02:02.582152+00:00"
+    "enriched_at": "2026-09-26T16:32:13.443124+00:00"
   },
   {
     "company": "Lowe's",
@@ -289997,32 +290175,7 @@
     ],
     "updated_at": "",
     "first_seen_at": "2026-09-12T15:42:24.254758+00:00",
-    "enriched_at": "2026-09-19T16:02:02.593664+00:00"
-  },
-  {
-    "company": "Lowe's",
-    "fortune_rank": 52,
-    "title": "Full Time - Cashier - Day",
-    "location": "Lumberton, NJ (Mt Holly) 1575",
-    "url": "https://lowes.wd5.myworkdayjobs.com/en-US/LWS_External_CS/job/Lumberton-NJ-Mt-Holly-1575/Full-Time---Cashier---Day_JR-02648721",
-    "source": "workday",
-    "external_id": "/job/Lumberton-NJ-Mt-Holly-1575/Full-Time---Cashier---Day_JR-02648721",
-    "employment_type": "full-time",
-    "category": "Other",
-    "h1b_status": "unknown",
-    "sponsorship_evidence": "",
-    "h1b_mentioned": false,
-    "salary_min": 15.92,
-    "salary_max": 16.75,
-    "salary_currency": "USD",
-    "salary_period": "hour",
-    "salary_text": "$15.92 - $16.75 per hour",
-    "keywords": [
-      "sales"
-    ],
-    "updated_at": "",
-    "first_seen_at": "2026-09-12T15:42:24.254758+00:00",
-    "enriched_at": "2026-09-19T16:02:02.609328+00:00"
+    "enriched_at": "2026-09-26T16:32:13.451902+00:00"
   },
   {
     "company": "Lowe's",
@@ -290047,7 +290200,7 @@
     ],
     "updated_at": "",
     "first_seen_at": "2026-09-12T15:42:24.254758+00:00",
-    "enriched_at": "2026-09-19T16:02:02.623538+00:00"
+    "enriched_at": "2026-09-26T16:32:13.463915+00:00"
   },
   {
     "company": "Lowe's",
@@ -290072,32 +290225,7 @@
     ],
     "updated_at": "",
     "first_seen_at": "2026-09-12T15:42:24.254758+00:00",
-    "enriched_at": "2026-09-19T16:02:02.639164+00:00"
-  },
-  {
-    "company": "Lowe's",
-    "fortune_rank": 52,
-    "title": "Full Time - Receiver/Stocker - Day",
-    "location": "Sewell, NJ (Mantua Township) 2402",
-    "url": "https://lowes.wd5.myworkdayjobs.com/en-US/LWS_External_CS/job/Sewell-NJ-Mantua-Township-2402/Full-Time---Receiver-Stocker---Day_JR-02648715",
-    "source": "workday",
-    "external_id": "/job/Sewell-NJ-Mantua-Township-2402/Full-Time---Receiver-Stocker---Day_JR-02648715",
-    "employment_type": "full-time",
-    "category": "Other",
-    "h1b_status": "unknown",
-    "sponsorship_evidence": "",
-    "h1b_mentioned": false,
-    "salary_min": 15.92,
-    "salary_max": 16.75,
-    "salary_currency": "USD",
-    "salary_period": "hour",
-    "salary_text": "$15.92 - $16.75 per hour",
-    "keywords": [
-      "sales"
-    ],
-    "updated_at": "",
-    "first_seen_at": "2026-09-12T15:42:24.254758+00:00",
-    "enriched_at": "2026-09-19T16:02:02.654717+00:00"
+    "enriched_at": "2026-09-26T16:32:13.476007+00:00"
   },
   {
     "company": "Lowe's",
@@ -290122,7 +290250,7 @@
     ],
     "updated_at": "",
     "first_seen_at": "2026-09-12T15:42:24.254758+00:00",
-    "enriched_at": "2026-09-19T16:02:02.669489+00:00"
+    "enriched_at": "2026-09-26T16:32:13.488009+00:00"
   },
   {
     "company": "Lowe's",
@@ -290147,7 +290275,7 @@
     ],
     "updated_at": "",
     "first_seen_at": "2026-09-12T15:42:24.254758+00:00",
-    "enriched_at": "2026-09-19T16:02:02.680828+00:00"
+    "enriched_at": "2026-09-26T16:32:13.496802+00:00"
   },
   {
     "company": "Lowe's",
@@ -290172,7 +290300,7 @@
     ],
     "updated_at": "",
     "first_seen_at": "2026-09-12T15:42:24.254758+00:00",
-    "enriched_at": "2026-09-19T16:02:02.692140+00:00"
+    "enriched_at": "2026-09-26T16:32:13.505587+00:00"
   },
   {
     "company": "Lowe's",
@@ -290197,7 +290325,7 @@
     ],
     "updated_at": "",
     "first_seen_at": "2026-09-12T15:42:24.254758+00:00",
-    "enriched_at": "2026-09-19T16:02:02.707498+00:00"
+    "enriched_at": "2026-09-26T16:32:13.517694+00:00"
   },
   {
     "company": "Lowe's",
@@ -290222,7 +290350,7 @@
     ],
     "updated_at": "",
     "first_seen_at": "2026-09-12T15:42:24.254758+00:00",
-    "enriched_at": "2026-09-19T16:02:02.722554+00:00"
+    "enriched_at": "2026-09-26T16:32:13.529360+00:00"
   },
   {
     "company": "Lowe's",
@@ -290707,31 +290835,6 @@
     "updated_at": "",
     "first_seen_at": "2026-09-10T21:05:43.294276+00:00",
     "enriched_at": "2026-09-24T21:42:49.361505+00:00"
-  },
-  {
-    "company": "Lowe's",
-    "fortune_rank": 52,
-    "title": "Full Time - Merchandising Service Associate - Day",
-    "location": "Highland, NY (Lloyd) 2326",
-    "url": "https://lowes.wd5.myworkdayjobs.com/en-US/LWS_External_CS/job/Highland-NY-Lloyd-2326/Full-Time---Merchandising-Service-Associate---Day_JR-02647273",
-    "source": "workday",
-    "external_id": "/job/Highland-NY-Lloyd-2326/Full-Time---Merchandising-Service-Associate---Day_JR-02647273",
-    "employment_type": "full-time",
-    "category": "Other",
-    "h1b_status": "unknown",
-    "sponsorship_evidence": "",
-    "h1b_mentioned": false,
-    "salary_min": 16.0,
-    "salary_max": 16.15,
-    "salary_currency": "USD",
-    "salary_period": "hour",
-    "salary_text": "$16.00 - $16.15 per hour",
-    "keywords": [
-      "sales"
-    ],
-    "updated_at": "",
-    "first_seen_at": "2026-09-10T21:05:43.294276+00:00",
-    "enriched_at": "2026-09-24T21:42:49.365630+00:00"
   },
   {
     "company": "Lowe's",
@@ -300590,31 +300693,6 @@
   {
     "company": "Lowe's",
     "fortune_rank": 52,
-    "title": "Full Time - Receiver/Stocker - Overnight",
-    "location": "Dickson City, PA (Scranton) 0242",
-    "url": "https://lowes.wd5.myworkdayjobs.com/en-US/LWS_External_CS/job/Dickson-City-PA-Scranton-0242/Full-Time---Receiver-Stocker---Overnight_JR-02641690",
-    "source": "workday",
-    "external_id": "/job/Dickson-City-PA-Scranton-0242/Full-Time---Receiver-Stocker---Overnight_JR-02641690",
-    "employment_type": "full-time",
-    "category": "Other",
-    "h1b_status": "unknown",
-    "sponsorship_evidence": "",
-    "h1b_mentioned": false,
-    "salary_min": null,
-    "salary_max": null,
-    "salary_currency": "",
-    "salary_period": "",
-    "salary_text": "",
-    "keywords": [
-      "sales"
-    ],
-    "updated_at": "",
-    "first_seen_at": "2026-09-03T16:38:31.304318+00:00",
-    "enriched_at": "2026-09-24T21:42:49.472107+00:00"
-  },
-  {
-    "company": "Lowe's",
-    "fortune_rank": 52,
     "title": "Team Member",
     "location": "North Wilkesboro, NC (Import Consolidation Program) 0964",
     "url": "https://lowes.wd5.myworkdayjobs.com/en-US/LWS_External_CS/job/North-Wilkesboro-NC-Import-Consolidation-Program-0964/Team-Member_JR-02600237",
@@ -302772,6 +302850,31 @@
     "updated_at": "",
     "first_seen_at": "2026-09-24T17:24:42.354131+00:00",
     "enriched_at": "2026-09-22T21:29:35.929562+00:00"
+  },
+  {
+    "company": "Caterpillar",
+    "fortune_rank": 65,
+    "title": "Technology Strategist",
+    "location": "Irving, Texas",
+    "url": "https://cat.wd5.myworkdayjobs.com/en-US/CaterpillarCareers/job/Irving-Texas/Technology-Strategist_R0000395359",
+    "source": "workday",
+    "external_id": "/job/Irving-Texas/Technology-Strategist_R0000395359",
+    "employment_type": "full-time",
+    "category": "Other",
+    "h1b_status": "unknown",
+    "sponsorship_evidence": "",
+    "h1b_mentioned": false,
+    "salary_min": null,
+    "salary_max": null,
+    "salary_currency": "",
+    "salary_period": "",
+    "salary_text": "",
+    "keywords": [
+      "sales"
+    ],
+    "updated_at": "",
+    "first_seen_at": "2026-09-26T16:34:09.415223+00:00",
+    "enriched_at": "2026-09-26T16:32:18.171109+00:00"
   },
   {
     "company": "Caterpillar",
@@ -307374,7 +307477,7 @@
     ],
     "updated_at": "",
     "first_seen_at": "2026-09-12T15:42:24.254758+00:00",
-    "enriched_at": "2026-09-19T16:02:28.827612+00:00"
+    "enriched_at": "2026-09-26T16:32:40.616935+00:00"
   },
   {
     "company": "Cisco Systems",
@@ -309597,33 +309700,6 @@
   {
     "company": "Cisco Systems",
     "fortune_rank": 83,
-    "title": "Senior Software Development Engineer in Test (SDET), Hybrid, RTP, NC",
-    "location": "RTP, North Carolina, US",
-    "url": "https://cisco.wd5.myworkdayjobs.com/en-US/Cisco_Careers/job/RTP-North-Carolina-US/Software-Development-Engineer-in-Test--SDET-_2011992",
-    "source": "workday",
-    "external_id": "/job/RTP-North-Carolina-US/Software-Development-Engineer-in-Test--SDET-_2011992",
-    "employment_type": "full-time",
-    "category": "Software & IT",
-    "h1b_status": "unknown",
-    "sponsorship_evidence": "",
-    "h1b_mentioned": false,
-    "salary_min": null,
-    "salary_max": null,
-    "salary_currency": "",
-    "salary_period": "",
-    "salary_text": "",
-    "keywords": [
-      "Python",
-      "Go",
-      "sales"
-    ],
-    "updated_at": "",
-    "first_seen_at": "2026-08-15T02:30:47.614898+00:00",
-    "enriched_at": "2026-09-19T20:52:52.657595+00:00"
-  },
-  {
-    "company": "Cisco Systems",
-    "fortune_rank": 83,
     "title": "Finance Rotation Program - LIFT (Full Time) - United States",
     "location": "RTP, North Carolina, US",
     "url": "https://cisco.wd5.myworkdayjobs.com/en-US/Cisco_Careers/job/RTP-North-Carolina-US/Finance-Rotation-Program---LIFT--Full-Time----United-States_2022093",
@@ -309648,6 +309724,33 @@
     "updated_at": "",
     "first_seen_at": "2026-08-15T02:30:47.614898+00:00",
     "enriched_at": "2026-09-19T20:52:52.670349+00:00"
+  },
+  {
+    "company": "Cisco Systems",
+    "fortune_rank": 83,
+    "title": "Senior Software Development Engineer in Test (SDET), Hybrid, RTP, NC",
+    "location": "RTP, North Carolina, US",
+    "url": "https://cisco.wd5.myworkdayjobs.com/en-US/Cisco_Careers/job/RTP-North-Carolina-US/Software-Development-Engineer-in-Test--SDET-_2011992",
+    "source": "workday",
+    "external_id": "/job/RTP-North-Carolina-US/Software-Development-Engineer-in-Test--SDET-_2011992",
+    "employment_type": "full-time",
+    "category": "Software & IT",
+    "h1b_status": "unknown",
+    "sponsorship_evidence": "",
+    "h1b_mentioned": false,
+    "salary_min": null,
+    "salary_max": null,
+    "salary_currency": "",
+    "salary_period": "",
+    "salary_text": "",
+    "keywords": [
+      "Python",
+      "Go",
+      "sales"
+    ],
+    "updated_at": "",
+    "first_seen_at": "2026-08-15T02:30:47.614898+00:00",
+    "enriched_at": "2026-09-19T20:52:52.657595+00:00"
   },
   {
     "company": "Cisco Systems",
@@ -310717,6 +310820,31 @@
   {
     "company": "Nike",
     "fortune_rank": 99,
+    "title": "Distribution Center Operations Manager",
+    "location": "Atlanta, Georgia",
+    "url": "https://nike.wd1.myworkdayjobs.com/en-US/nke/job/Atlanta-Georgia/Distribution-Center-Operations-Manager_R-93859",
+    "source": "workday",
+    "external_id": "/job/Atlanta-Georgia/Distribution-Center-Operations-Manager_R-93859",
+    "employment_type": "full-time",
+    "category": "Operations & Supply Chain",
+    "h1b_status": "unknown",
+    "sponsorship_evidence": "",
+    "h1b_mentioned": false,
+    "salary_min": null,
+    "salary_max": null,
+    "salary_currency": "",
+    "salary_period": "",
+    "salary_text": "",
+    "keywords": [
+      "Excel"
+    ],
+    "updated_at": "",
+    "first_seen_at": "2026-09-26T16:34:09.415223+00:00",
+    "enriched_at": "2026-09-26T16:32:55.696813+00:00"
+  },
+  {
+    "company": "Nike",
+    "fortune_rank": 99,
     "title": "Senior Administrative Assistant - Organizational Development & Strategic Workforce Planning.",
     "location": "Beaverton, Oregon",
     "url": "https://nike.wd1.myworkdayjobs.com/en-US/nke/job/Beaverton-Oregon/Senior-Administrative-Assistant---Organizational-Development---Strategic-Workforce-Planning_R-90442",
@@ -310738,31 +310866,6 @@
     "updated_at": "",
     "first_seen_at": "2026-09-26T05:09:48.706401+00:00",
     "enriched_at": "2026-09-26T05:08:17.799872+00:00"
-  },
-  {
-    "company": "Nike",
-    "fortune_rank": 99,
-    "title": "Distribution Center Operations Manager",
-    "location": "Savannah, Georgia",
-    "url": "https://nike.wd1.myworkdayjobs.com/en-US/nke/job/Savannah-Georgia/Distribution-Center-Operations-Manager_R-93859",
-    "source": "workday",
-    "external_id": "/job/Savannah-Georgia/Distribution-Center-Operations-Manager_R-93859",
-    "employment_type": "full-time",
-    "category": "Operations & Supply Chain",
-    "h1b_status": "unknown",
-    "sponsorship_evidence": "",
-    "h1b_mentioned": false,
-    "salary_min": null,
-    "salary_max": null,
-    "salary_currency": "",
-    "salary_period": "",
-    "salary_text": "",
-    "keywords": [
-      "Excel"
-    ],
-    "updated_at": "",
-    "first_seen_at": "2026-09-26T05:09:48.706401+00:00",
-    "enriched_at": "2026-09-26T05:08:17.811430+00:00"
   },
   {
     "company": "Nike",
@@ -315168,6 +315271,33 @@
     "updated_at": "",
     "first_seen_at": "2026-08-15T02:30:47.614898+00:00",
     "enriched_at": "2026-09-19T20:53:30.822692+00:00"
+  },
+  {
+    "company": "Thermo Fisher Scientific",
+    "fortune_rank": 106,
+    "title": "FSP Experienced Clinical Research Associate (CRA II/Sr. CRA I) - Oncology",
+    "location": "Remote, Oregon, USA",
+    "url": "https://thermofisher.wd5.myworkdayjobs.com/en-US/ThermoFisherCareers/job/Remote-Oregon-USA/FSP-Experienced-Clinical-Research-Associate--CRA-II-Sr-CRA-I----Oncology_R-01368039",
+    "source": "workday",
+    "external_id": "/job/Remote-Oregon-USA/FSP-Experienced-Clinical-Research-Associate--CRA-II-Sr-CRA-I----Oncology_R-01368039",
+    "employment_type": "full-time",
+    "category": "Other",
+    "h1b_status": "unknown",
+    "sponsorship_evidence": "",
+    "h1b_mentioned": false,
+    "salary_min": null,
+    "salary_max": null,
+    "salary_currency": "",
+    "salary_period": "",
+    "salary_text": "",
+    "keywords": [
+      "GCP",
+      "audit",
+      "compliance"
+    ],
+    "updated_at": "",
+    "first_seen_at": "2026-09-26T16:34:09.415223+00:00",
+    "enriched_at": "2026-09-26T16:33:48.270925+00:00"
   },
   {
     "company": "Thermo Fisher Scientific",
@@ -393915,29 +394045,6 @@
     "updated_at": "",
     "first_seen_at": "2026-09-24T17:24:42.354131+00:00",
     "enriched_at": "2026-09-24T17:24:40.501966+00:00"
-  },
-  {
-    "company": "Analog Devices",
-    "fortune_rank": 396,
-    "title": "Equipment Maintenance Technician (BH Days)",
-    "location": "US, MA, Wilmington",
-    "url": "https://analogdevices.wd1.myworkdayjobs.com/en-US/External/job/US-MA-Wilmington/Equipment-Maintenance-Technician--BH-Days-_R264584-1",
-    "source": "workday",
-    "external_id": "/job/US-MA-Wilmington/Equipment-Maintenance-Technician--BH-Days-_R264584-1",
-    "employment_type": "full-time",
-    "category": "Other",
-    "h1b_status": "unknown",
-    "sponsorship_evidence": "",
-    "h1b_mentioned": false,
-    "salary_min": null,
-    "salary_max": null,
-    "salary_currency": "",
-    "salary_period": "",
-    "salary_text": "",
-    "keywords": [],
-    "updated_at": "",
-    "first_seen_at": "2026-09-24T17:24:42.354131+00:00",
-    "enriched_at": "2026-09-24T17:24:40.512468+00:00"
   },
   {
     "company": "Marvell Technology",
