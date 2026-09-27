@@ -15281,6 +15281,25 @@
   },
   {
     "company": "Workday",
+    "title": "Principal Cloud Security Engineer, Identity & Access (IAM)",
+    "location": "USA.VA.Reston",
+    "employment_type": "full-time",
+    "category": "Software & IT",
+    "salary": "Not disclosed",
+    "salary_min": null,
+    "keywords": [
+      "AWS",
+      "GCP",
+      "Terraform",
+      "recruiting"
+    ],
+    "sponsorship_evidence": "",
+    "h1b_status": "unknown",
+    "sponsorship_label": "Not specified",
+    "url": "https://workday.wd5.myworkdayjobs.com/en-US/Workday/job/USAVAReston/Principal-Cloud-IAM-Engineer_JR-0106596"
+  },
+  {
+    "company": "Workday",
     "title": "Software Development Engineer, SRE (US Federal)",
     "location": "USA.VA.Reston",
     "employment_type": "full-time",
@@ -15485,24 +15504,37 @@
     "url": "https://workday.wd5.myworkdayjobs.com/en-US/Workday/job/USA-NY-New-York-City/Senior-Engagement-Manager---Sana-Learn_JR-0109829"
   },
   {
-    "company": "Workday",
-    "title": "Sr. Principal Architect - Observability",
-    "location": "USA, CA, Pleasanton",
+    "company": "NVIDIA",
+    "title": "Senior Software Program Manager - Datacenter Compute Server",
+    "location": "US, CA, Santa Clara",
     "employment_type": "full-time",
-    "category": "Other",
+    "category": "Software & IT",
     "salary": "Not disclosed",
     "salary_min": null,
     "keywords": [
-      "Python",
-      "Java",
-      "Kubernetes",
-      "analytics",
+      "electrical engineering",
       "recruiting"
     ],
     "sponsorship_evidence": "",
     "h1b_status": "unknown",
     "sponsorship_label": "Not specified",
-    "url": "https://workday.wd5.myworkdayjobs.com/en-US/Workday/job/USA-CA-Pleasanton/Sr-Principal-Architect---Observability_JR-0110234"
+    "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Software-Program-Manager---Datacenter-Compute-Server_JR1996363"
+  },
+  {
+    "company": "NVIDIA",
+    "title": "Software Engineering Manager - GPU Communications Libraries",
+    "location": "US, CA, Santa Clara",
+    "employment_type": "full-time",
+    "category": "Software & IT",
+    "salary": "Not disclosed",
+    "salary_min": null,
+    "keywords": [
+      "recruiting"
+    ],
+    "sponsorship_evidence": "",
+    "h1b_status": "unknown",
+    "sponsorship_label": "Not specified",
+    "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Software-Engineering-Manager---GPU-Communications-Libraries_JR1980109"
   },
   {
     "company": "NVIDIA",
@@ -15662,82 +15694,6 @@
     "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Systems-Architect---Datacenter_JR2019127"
   },
   {
-    "company": "NVIDIA",
-    "title": "Internal Audit and SOX Manager",
-    "location": "US, CA, Santa Clara",
-    "employment_type": "full-time",
-    "category": "Finance & Accounting",
-    "salary": "Not disclosed",
-    "salary_min": null,
-    "keywords": [
-      "analytics",
-      "accounting",
-      "audit",
-      "recruiting",
-      "compliance"
-    ],
-    "sponsorship_evidence": "",
-    "h1b_status": "unknown",
-    "sponsorship_label": "Not specified",
-    "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Internal-Audit-and-SOX-Manager_JR2026121"
-  },
-  {
-    "company": "NVIDIA",
-    "title": "Software QA Engineer",
-    "location": "US, CA, Santa Clara",
-    "employment_type": "full-time",
-    "category": "Software & IT",
-    "salary": "Not disclosed",
-    "salary_min": null,
-    "keywords": [
-      "Java",
-      "JavaScript",
-      "digital marketing",
-      "recruiting"
-    ],
-    "sponsorship_evidence": "",
-    "h1b_status": "unknown",
-    "sponsorship_label": "Not specified",
-    "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Software-QA-Engineer_JR2026239"
-  },
-  {
-    "company": "NVIDIA",
-    "title": "Software QA Engineer",
-    "location": "US, CA, Santa Clara",
-    "employment_type": "full-time",
-    "category": "Software & IT",
-    "salary": "Not disclosed",
-    "salary_min": null,
-    "keywords": [
-      "Java",
-      "JavaScript",
-      "digital marketing",
-      "recruiting"
-    ],
-    "sponsorship_evidence": "",
-    "h1b_status": "unknown",
-    "sponsorship_label": "Not specified",
-    "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Software-QA-Engineer_JR2026242"
-  },
-  {
-    "company": "NVIDIA",
-    "title": "Senior Applied AI Engineer, Manufacturing & System Co-Design",
-    "location": "US, CA, Santa Clara",
-    "employment_type": "full-time",
-    "category": "Data & AI",
-    "salary": "Not disclosed",
-    "salary_min": null,
-    "keywords": [
-      "Python",
-      "electrical engineering",
-      "recruiting"
-    ],
-    "sponsorship_evidence": "",
-    "h1b_status": "unknown",
-    "sponsorship_label": "Not specified",
-    "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Manufacturing-and-System-Co-Design-Workflow-Engineer_JR2021337"
-  },
-  {
     "company": "Salesforce",
     "title": "Sr Solution Engineer",
     "location": "California - Remote",
@@ -15842,6 +15798,144 @@
     "h1b_status": "unknown",
     "sponsorship_label": "Not specified",
     "url": "https://salesforce.wd12.myworkdayjobs.com/en-US/External_Career_Site/job/Indiana---Indianapolis/Senior-Analyst--Partner-Operations_JR360321"
+  },
+  {
+    "company": "Capital One",
+    "title": "Full-stack Engineer 5",
+    "location": "Chicago, IL",
+    "employment_type": "full-time",
+    "category": "Software & IT",
+    "salary": "Not disclosed",
+    "salary_min": null,
+    "keywords": [
+      "Python",
+      "Java",
+      "C#",
+      "JavaScript",
+      "TypeScript",
+      "Rust",
+      "Node.js",
+      "AWS"
+    ],
+    "sponsorship_evidence": "",
+    "h1b_status": "unknown",
+    "sponsorship_label": "Not specified",
+    "url": "https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/Chicago-IL/Full-stack-Engineer-5_R1001878-1"
+  },
+  {
+    "company": "Capital One",
+    "title": "Full-stack Engineer 5",
+    "location": "McLean, VA",
+    "employment_type": "full-time",
+    "category": "Software & IT",
+    "salary": "Not disclosed",
+    "salary_min": null,
+    "keywords": [
+      "Python",
+      "Java",
+      "C#",
+      "JavaScript",
+      "TypeScript",
+      "Rust",
+      "Node.js",
+      "AWS"
+    ],
+    "sponsorship_evidence": "",
+    "h1b_status": "unknown",
+    "sponsorship_label": "Not specified",
+    "url": "https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/McLean-VA/Full-stack-Engineer-5_R1001899-1"
+  },
+  {
+    "company": "Capital One",
+    "title": "Full-stack Engineer 4",
+    "location": "McLean, VA",
+    "employment_type": "full-time",
+    "category": "Software & IT",
+    "salary": "Not disclosed",
+    "salary_min": null,
+    "keywords": [
+      "Python",
+      "Java",
+      "C#",
+      "JavaScript",
+      "TypeScript",
+      "Rust",
+      "Node.js",
+      "AWS"
+    ],
+    "sponsorship_evidence": "ing coding standards and design patterns across teams At this time, Capital One will not sponsor a new applicant for employment authorization, or offer any immigration related support for this position (e.",
+    "h1b_status": "does_not_support_h1b",
+    "sponsorship_label": "No sponsorship for this position",
+    "url": "https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/McLean-VA/Full-stack-Engineer-4_R1002191-1"
+  },
+  {
+    "company": "Capital One",
+    "title": "Full-stack Engineer 4",
+    "location": "McLean, VA",
+    "employment_type": "full-time",
+    "category": "Software & IT",
+    "salary": "Not disclosed",
+    "salary_min": null,
+    "keywords": [
+      "Python",
+      "Java",
+      "C#",
+      "JavaScript",
+      "TypeScript",
+      "Rust",
+      "Node.js",
+      "AWS"
+    ],
+    "sponsorship_evidence": "ing coding standards and design patterns across teams At this time, Capital One will not sponsor a new applicant for employment authorization, or offer any immigration related support for this position (e.",
+    "h1b_status": "does_not_support_h1b",
+    "sponsorship_label": "No sponsorship for this position",
+    "url": "https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/McLean-VA/Full-stack-Engineer-4_R1002223-1"
+  },
+  {
+    "company": "Capital One",
+    "title": "Full-stack Engineer 4",
+    "location": "Richmond, VA",
+    "employment_type": "full-time",
+    "category": "Software & IT",
+    "salary": "Not disclosed",
+    "salary_min": null,
+    "keywords": [
+      "Python",
+      "Java",
+      "C#",
+      "JavaScript",
+      "TypeScript",
+      "Rust",
+      "Node.js",
+      "AWS"
+    ],
+    "sponsorship_evidence": "ing coding standards and design patterns across teams At this time, Capital One will not sponsor a new applicant for employment authorization, or offer any immigration related support for this position (e.",
+    "h1b_status": "does_not_support_h1b",
+    "sponsorship_label": "No sponsorship for this position",
+    "url": "https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/Richmond-VA/Full-stack-Engineer-4_R1002215"
+  },
+  {
+    "company": "Capital One",
+    "title": "Full-stack Engineer 4",
+    "location": "New York, NY",
+    "employment_type": "full-time",
+    "category": "Software & IT",
+    "salary": "Not disclosed",
+    "salary_min": null,
+    "keywords": [
+      "Python",
+      "Java",
+      "C#",
+      "JavaScript",
+      "TypeScript",
+      "Rust",
+      "Node.js",
+      "AWS"
+    ],
+    "sponsorship_evidence": "ing coding standards and design patterns across teams At this time, Capital One will not sponsor a new applicant for employment authorization, or offer any immigration related support for this position (e.",
+    "h1b_status": "does_not_support_h1b",
+    "sponsorship_label": "No sponsorship for this position",
+    "url": "https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/New-York-NY/Full-stack-Engineer-4_R1002218-1"
   },
   {
     "company": "Capital One",
@@ -24818,6 +24912,26 @@
   },
   {
     "company": "Northrop Grumman",
+    "title": "Accountant - Secret --Falls Church",
+    "location": "United States-Virginia-Arlington",
+    "employment_type": "full-time",
+    "category": "Finance & Accounting",
+    "salary": "Not disclosed",
+    "salary_min": null,
+    "keywords": [
+      "Excel",
+      "accounting",
+      "audit",
+      "compliance",
+      "contracts"
+    ],
+    "sponsorship_evidence": "",
+    "h1b_status": "unknown",
+    "sponsorship_label": "Not specified",
+    "url": "https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-Virginia-Arlington/Accountant---Secret---Falls-Church-VA_R10246570"
+  },
+  {
+    "company": "Northrop Grumman",
     "title": "MBSE Model Governance Liaison - Systems Engineer/Principal Systems Engineer",
     "location": "United States-Florida-Melbourne",
     "employment_type": "full-time",
@@ -32511,25 +32625,6 @@
     "h1b_status": "unknown",
     "sponsorship_label": "Not specified",
     "url": "https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-Mississippi-Iuka/Milling-Machine-Machinist-Level-2-3_R10252282"
-  },
-  {
-    "company": "Northrop Grumman",
-    "title": "Project Management",
-    "location": "United States-California-Sunnyvale",
-    "employment_type": "full-time",
-    "category": "Other",
-    "salary": "Not disclosed",
-    "salary_min": null,
-    "keywords": [
-      "accounting",
-      "risk management",
-      "supply chain",
-      "legal"
-    ],
-    "sponsorship_evidence": "",
-    "h1b_status": "unknown",
-    "sponsorship_label": "Not specified",
-    "url": "https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-California-Sunnyvale/Project-Management_R10251783"
   },
   {
     "company": "Northrop Grumman",
@@ -42644,24 +42739,6 @@
   },
   {
     "company": "Northrop Grumman",
-    "title": "Accounting Assistant 4",
-    "location": "United States-Texas-Irving",
-    "employment_type": "full-time",
-    "category": "Finance & Accounting",
-    "salary": "Not disclosed",
-    "salary_min": null,
-    "keywords": [
-      "Excel",
-      "accounting",
-      "audit"
-    ],
-    "sponsorship_evidence": "",
-    "h1b_status": "unknown",
-    "sponsorship_label": "Not specified",
-    "url": "https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-Texas-Irving/Accounting-Assistant-4_R10250823"
-  },
-  {
-    "company": "Northrop Grumman",
     "title": "Inspector 2/3",
     "location": "United States-Maryland-Elkton",
     "employment_type": "full-time",
@@ -50482,26 +50559,6 @@
     "h1b_status": "unknown",
     "sponsorship_label": "Not specified",
     "url": "https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-Alabama-Huntsville/Electrical-Engineer---Level-3-or-4--AHT-_R10249179"
-  },
-  {
-    "company": "Northrop Grumman",
-    "title": "Accountant - Secret --Falls Church",
-    "location": "United States-Virginia-Virginia Beach",
-    "employment_type": "full-time",
-    "category": "Finance & Accounting",
-    "salary": "Not disclosed",
-    "salary_min": null,
-    "keywords": [
-      "Excel",
-      "accounting",
-      "audit",
-      "compliance",
-      "contracts"
-    ],
-    "sponsorship_evidence": "",
-    "h1b_status": "unknown",
-    "sponsorship_label": "Not specified",
-    "url": "https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-Virginia-Virginia-Beach/Accountant---Secret---Falls-Church-VA_R10246570"
   },
   {
     "company": "Northrop Grumman",
@@ -58983,24 +59040,6 @@
     "h1b_status": "unknown",
     "sponsorship_label": "Not specified",
     "url": "https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-Florida-Melbourne/Principal-Engineer-Human-Factors_R10245917"
-  },
-  {
-    "company": "Northrop Grumman",
-    "title": "Principal Supply Chain Planning Specialist",
-    "location": "United States-Maryland-Baltimore",
-    "employment_type": "full-time",
-    "category": "Operations & Supply Chain",
-    "salary": "Not disclosed",
-    "salary_min": null,
-    "keywords": [
-      "Excel",
-      "supply chain",
-      "contracts"
-    ],
-    "sponsorship_evidence": "",
-    "h1b_status": "unknown",
-    "sponsorship_label": "Not specified",
-    "url": "https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-Maryland-Baltimore/Principal-Supply-Chain-Planning-Specialist_R10247562"
   },
   {
     "company": "Northrop Grumman",
@@ -79495,6 +79534,60 @@
   },
   {
     "company": "Mastercard",
+    "title": "Manager, Accounting",
+    "location": "Purchase, New York",
+    "employment_type": "full-time",
+    "category": "Finance & Accounting",
+    "salary": "Not disclosed",
+    "salary_min": null,
+    "keywords": [
+      "Excel",
+      "accounting",
+      "audit",
+      "risk management",
+      "compliance"
+    ],
+    "sponsorship_evidence": "",
+    "h1b_status": "unknown",
+    "sponsorship_label": "Not specified",
+    "url": "https://mastercard.wd1.myworkdayjobs.com/en-US/CorporateCareers/job/Purchase-New-York/Manager--Accounting_R-279156"
+  },
+  {
+    "company": "Mastercard",
+    "title": "Director, Legal Compliance",
+    "location": "Purchase, New York",
+    "employment_type": "full-time",
+    "category": "People & Legal",
+    "salary": "Not disclosed",
+    "salary_min": null,
+    "keywords": [
+      "audit",
+      "compliance",
+      "legal"
+    ],
+    "sponsorship_evidence": "",
+    "h1b_status": "unknown",
+    "sponsorship_label": "Not specified",
+    "url": "https://mastercard.wd1.myworkdayjobs.com/en-US/CorporateCareers/job/Purchase-New-York/Director--Legal-Compliance_R-280811"
+  },
+  {
+    "company": "Mastercard",
+    "title": "Analyst, Account Management",
+    "location": "New York City, New York",
+    "employment_type": "full-time",
+    "category": "Other",
+    "salary": "Not disclosed",
+    "salary_min": null,
+    "keywords": [
+      "sales"
+    ],
+    "sponsorship_evidence": "",
+    "h1b_status": "unknown",
+    "sponsorship_label": "Not specified",
+    "url": "https://mastercard.wd1.myworkdayjobs.com/en-US/CorporateCareers/job/New-York-City-New-York/Analyst--Account-Management_R-291149"
+  },
+  {
+    "company": "Mastercard",
     "title": "Senior Software Engineer",
     "location": "O'Fallon, Missouri",
     "employment_type": "full-time",
@@ -79704,39 +79797,6 @@
     "h1b_status": "unknown",
     "sponsorship_label": "Not specified",
     "url": "https://mastercard.wd1.myworkdayjobs.com/en-US/CorporateCareers/job/New-York-City-New-York/Senior-Physical-Security-Analyst_R-291243-1"
-  },
-  {
-    "company": "Mastercard",
-    "title": "Senior Software Engineer",
-    "location": "O'Fallon, Missouri",
-    "employment_type": "full-time",
-    "category": "Software & IT",
-    "salary": "Not disclosed",
-    "salary_min": null,
-    "keywords": [
-      "Java",
-      "Kubernetes"
-    ],
-    "sponsorship_evidence": "",
-    "h1b_status": "unknown",
-    "sponsorship_label": "Not specified",
-    "url": "https://mastercard.wd1.myworkdayjobs.com/en-US/CorporateCareers/job/OFallon-Missouri/Senior-Software-Engineer_R-281539"
-  },
-  {
-    "company": "Mastercard",
-    "title": "Vice President, Software Engineering",
-    "location": "New York City, New York",
-    "employment_type": "full-time",
-    "category": "Software & IT",
-    "salary": "Not disclosed",
-    "salary_min": null,
-    "keywords": [
-      "compliance"
-    ],
-    "sponsorship_evidence": "",
-    "h1b_status": "unknown",
-    "sponsorship_label": "Not specified",
-    "url": "https://mastercard.wd1.myworkdayjobs.com/en-US/CorporateCareers/job/New-York-City-New-York/Vice-President--Software-Engineering_R-286632"
   },
   {
     "company": "Boeing",
@@ -80913,24 +80973,6 @@
     "h1b_status": "unknown",
     "sponsorship_label": "Not specified",
     "url": "https://intel.wd1.myworkdayjobs.com/en-US/External/job/US-Oregon-Hillsboro/Senior-Advanced-Packaging-Defect-Inspection-Engineer_JR0287476"
-  },
-  {
-    "company": "Intel",
-    "title": "Senior Thermal Validation Engineer",
-    "location": "US, Oregon, Hillsboro",
-    "employment_type": "full-time",
-    "category": "Other",
-    "salary": "Not disclosed",
-    "salary_min": null,
-    "keywords": [
-      "mechanical engineering",
-      "electrical engineering",
-      "compliance"
-    ],
-    "sponsorship_evidence": "",
-    "h1b_status": "unknown",
-    "sponsorship_label": "Not specified",
-    "url": "https://intel.wd1.myworkdayjobs.com/en-US/External/job/US-Oregon-Hillsboro/Senior-Thermal-Validation-Engineer_JR0287495"
   },
   {
     "company": "Visa",
@@ -93724,24 +93766,6 @@
   },
   {
     "company": "S&P Global",
-    "title": "AD, Cloud Security Architect",
-    "location": "IN - HYDERABAD SKYVIEW",
-    "employment_type": "full-time",
-    "category": "Software & IT",
-    "salary": "Not disclosed",
-    "salary_min": null,
-    "keywords": [
-      "Docker",
-      "supply chain",
-      "compliance"
-    ],
-    "sponsorship_evidence": "",
-    "h1b_status": "unknown",
-    "sponsorship_label": "Not specified",
-    "url": "https://spgi.wd5.myworkdayjobs.com/en-US/SPGI_Careers/job/IN---HYDERABAD-SKYVIEW/Product-Manager_328344-1"
-  },
-  {
-    "company": "S&P Global",
     "title": "Senior Lead, Java Application Developer",
     "location": "New York, NY",
     "employment_type": "full-time",
@@ -95158,6 +95182,22 @@
   },
   {
     "company": "General Motors",
+    "title": "Senior Implementation Engineer - Machining",
+    "location": "Spring Hill, Tennessee, United States of America",
+    "employment_type": "full-time",
+    "category": "Other",
+    "salary": "Not disclosed",
+    "salary_min": null,
+    "keywords": [
+      "electrical engineering"
+    ],
+    "sponsorship_evidence": "",
+    "h1b_status": "unknown",
+    "sponsorship_label": "Not specified",
+    "url": "https://generalmotors.wd5.myworkdayjobs.com/en-US/Careers_GM/job/Spring-Hill-Tennessee-United-States-of-America/Senior-Execution-Lead---Machining_JR-202613953"
+  },
+  {
+    "company": "General Motors",
     "title": "Principal Software Engineer \u2013 Core OS, Vehicle Compute",
     "location": "Mountain View, California, United States of America",
     "employment_type": "full-time",
@@ -95558,24 +95598,6 @@
     "h1b_status": "unknown",
     "sponsorship_label": "Not specified",
     "url": "https://generalmotors.wd5.myworkdayjobs.com/en-US/Careers_GM/job/Warren-Michigan-United-States-of-America/Manufacturing-Systems-Integration-Engineer--Global-General-Assembly-Manufacturing-Engineering_JR-202614785"
-  },
-  {
-    "company": "General Motors",
-    "title": "Manufacturing Process Engineer - Additive Manufacturing",
-    "location": "Warren, Michigan, United States of America",
-    "employment_type": "full-time",
-    "category": "Other",
-    "salary": "Not disclosed",
-    "salary_min": null,
-    "keywords": [
-      "mechanical engineering",
-      "electrical engineering",
-      "procurement"
-    ],
-    "sponsorship_evidence": "",
-    "h1b_status": "unknown",
-    "sponsorship_label": "Not specified",
-    "url": "https://generalmotors.wd5.myworkdayjobs.com/en-US/Careers_GM/job/Warren-Michigan-United-States-of-America/Manufacturing-Process-Engineer---Additive-Manufacturing_JR-202620280"
   },
   {
     "company": "Fannie Mae",
@@ -98744,6 +98766,26 @@
   },
   {
     "company": "Walt Disney",
+    "title": "Data Analyst Intern, Global Security Control Center, Spring 2027",
+    "location": "Burbank, CA, USA",
+    "employment_type": "internship",
+    "category": "Data & AI",
+    "salary": "$32/hr",
+    "salary_min": 32.0,
+    "keywords": [
+      "Python",
+      "SQL",
+      "data science",
+      "analytics",
+      "Excel"
+    ],
+    "sponsorship_evidence": "",
+    "h1b_status": "unknown",
+    "sponsorship_label": "Not specified",
+    "url": "https://disney.wd5.myworkdayjobs.com/en-US/disneycareer/job/Burbank-CA-USA/Data-Analyst-Intern--Global-Security-Control-Center--Spring-2027027_10160010"
+  },
+  {
+    "company": "Walt Disney",
     "title": "COE Associate Project Manager",
     "location": "Burbank, CA, USA",
     "employment_type": "full-time",
@@ -99387,23 +99429,6 @@
     "h1b_status": "unknown",
     "sponsorship_label": "Not specified",
     "url": "https://disney.wd5.myworkdayjobs.com/en-US/disneycareer/job/Bristol-CT-USA/Programming-Coordinator--Format-Analysis_10160307"
-  },
-  {
-    "company": "Walt Disney",
-    "title": "Product Software Engineer II",
-    "location": "Bristol, CT, USA",
-    "employment_type": "full-time",
-    "category": "Software & IT",
-    "salary": "$117.5k\u2013$157.5k/yr",
-    "salary_min": 117500.0,
-    "keywords": [
-      "Java",
-      "AWS"
-    ],
-    "sponsorship_evidence": "",
-    "h1b_status": "unknown",
-    "sponsorship_label": "Not specified",
-    "url": "https://disney.wd5.myworkdayjobs.com/en-US/disneycareer/job/Bristol-CT-USA/Product-Software-Engineer-II_10160716-1"
   },
   {
     "company": "Walt Disney",
@@ -111596,6 +111621,80 @@
   },
   {
     "company": "RTX",
+    "title": "Senior Manager - Global Trade",
+    "location": "IN-KA-BENGALURU-NORTHGATE ~ Sy No 2/2 Venkatala Village ~ SY NO 2/2 VENKATALA VILLAGE, Yelahanka Hobli",
+    "employment_type": "full-time",
+    "category": "Other",
+    "salary": "Not disclosed",
+    "salary_min": null,
+    "keywords": [
+      "supply chain",
+      "recruiting",
+      "compliance"
+    ],
+    "sponsorship_evidence": "",
+    "h1b_status": "unknown",
+    "sponsorship_label": "Not specified",
+    "url": "https://globalhr.wd5.myworkdayjobs.com/en-US/REC_RTX_Ext_Gateway/job/IN-KA-BENGALURU-NORTHGATE--Sy-No-22-Venkatala-Village--SY-NO-22-VENKATALA-VILLAGE-Yelahanka-Hobli/Senior-Manager---Global-Trade_01867523-1"
+  },
+  {
+    "company": "RTX",
+    "title": "Information Systems Security Officer (Onsite)",
+    "location": "US-AZ-TUCSON-M05 ~ 1151 E Hermans Rd ~ BLDG M05 (External Site)",
+    "employment_type": "full-time",
+    "category": "Other",
+    "salary": "Not disclosed",
+    "salary_min": null,
+    "keywords": [
+      "audit",
+      "risk management",
+      "compliance"
+    ],
+    "sponsorship_evidence": "",
+    "h1b_status": "unknown",
+    "sponsorship_label": "Not specified",
+    "url": "https://globalhr.wd5.myworkdayjobs.com/en-US/REC_RTX_Ext_Gateway/job/US-AZ-TUCSON-M05--1151-E-Hermans-Rd--BLDG-M05-External-Site/Information-Systems-Security-Officer--Onsite-_01878315"
+  },
+  {
+    "company": "RTX",
+    "title": "Cybersecurity Analyst (Onsite)",
+    "location": "US-AZ-TUCSON-M05 ~ 1151 E Hermans Rd ~ BLDG M05 (External Site)",
+    "employment_type": "full-time",
+    "category": "Software & IT",
+    "salary": "Not disclosed",
+    "salary_min": null,
+    "keywords": [
+      "risk management",
+      "compliance"
+    ],
+    "sponsorship_evidence": "",
+    "h1b_status": "unknown",
+    "sponsorship_label": "Not specified",
+    "url": "https://globalhr.wd5.myworkdayjobs.com/en-US/REC_RTX_Ext_Gateway/job/US-AZ-TUCSON-M05--1151-E-Hermans-Rd--BLDG-M05-External-Site/Cybersecurity-Analyst--Onsite-_01877614"
+  },
+  {
+    "company": "RTX",
+    "title": "Manufacturing Engineer II (Onsite)",
+    "location": "US-OH-TROY-101 ~ 101 Waco St ~ WACO",
+    "employment_type": "full-time",
+    "category": "Engineering",
+    "salary": "Not disclosed",
+    "salary_min": null,
+    "keywords": [
+      "audit",
+      "CAD",
+      "supply chain",
+      "compliance",
+      "legal",
+      "contracts"
+    ],
+    "sponsorship_evidence": "",
+    "h1b_status": "unknown",
+    "sponsorship_label": "Not specified",
+    "url": "https://globalhr.wd5.myworkdayjobs.com/en-US/REC_RTX_Ext_Gateway/job/US-OH-TROY-101--101-Waco-St--WACO/Manufacturing-Engineer-II--Onsite-_01877985"
+  },
+  {
+    "company": "RTX",
     "title": "Ejection Seating Co-Op - SEIT",
     "location": "US-CO-COLORADO SPRINGS-793 ~ 1225 Aeroplaza Dr ~ AEROPLAZA",
     "employment_type": "internship",
@@ -118262,26 +118361,6 @@
     "h1b_status": "unknown",
     "sponsorship_label": "Not specified",
     "url": "https://globalhr.wd5.myworkdayjobs.com/en-US/REC_RTX_Ext_Gateway/job/IN-KA-BENGALURU-NORTHGATE--Sy-No-22-Venkatala-Village--SY-NO-22-VENKATALA-VILLAGE-Yelahanka-Hobli/Senior-Associate---Business-Integration-Analyst--O2C-_01855602"
-  },
-  {
-    "company": "RTX",
-    "title": "Associate Business Intelligence Analyst(AI/ML,Generative AI & Python,1-3 years,Bangalore)",
-    "location": "IN-KA-BENGALURU-NORTHGATE ~ Sy No 2/2 Venkatala Village ~ SY NO 2/2 VENKATALA VILLAGE, Yelahanka Hobli",
-    "employment_type": "full-time",
-    "category": "Data & AI",
-    "salary": "Not disclosed",
-    "salary_min": null,
-    "keywords": [
-      "Python",
-      "JavaScript",
-      "SQL",
-      "artificial intelligence",
-      "data science"
-    ],
-    "sponsorship_evidence": "",
-    "h1b_status": "unknown",
-    "sponsorship_label": "Not specified",
-    "url": "https://globalhr.wd5.myworkdayjobs.com/en-US/REC_RTX_Ext_Gateway/job/IN-KA-BENGALURU-NORTHGATE--Sy-No-22-Venkatala-Village--SY-NO-22-VENKATALA-VILLAGE-Yelahanka-Hobli/Associate-Business-Intelligence-Analyst-AI-ML-Generative-AI---Python-1-3-years-Bangalore-_01876631"
   },
   {
     "company": "RTX",
@@ -148302,25 +148381,6 @@
   },
   {
     "company": "RTX",
-    "title": "SkillBridge: Senior Analyst, Program Cost Controls",
-    "location": "US-AZ-TUCSON-9022 ~ 9022 S Rita Rd ~ BLDG 9022",
-    "employment_type": "full-time",
-    "category": "Other",
-    "salary": "Not disclosed",
-    "salary_min": null,
-    "keywords": [
-      "Excel",
-      "accounting",
-      "supply chain",
-      "compliance"
-    ],
-    "sponsorship_evidence": "",
-    "h1b_status": "unknown",
-    "sponsorship_label": "Not specified",
-    "url": "https://globalhr.wd5.myworkdayjobs.com/en-US/REC_RTX_Ext_Gateway/job/US-AZ-TUCSON-9022--9022-S-Rita-Rd--BLDG-9022/SkillBridge--Senior-Analyst--Program-Cost-Controls_01871493"
-  },
-  {
-    "company": "RTX",
     "title": "Stage - Hiver 2027 - Ing\u00e9nierie de services / Internship - Winter 2027 - Customer Engineering",
     "location": "CA-QC-LONGUEUIL-J01 ~ 1000 Blvd Marie-Victorin ~ J01 BLDG",
     "employment_type": "internship",
@@ -158148,25 +158208,6 @@
     "h1b_status": "unknown",
     "sponsorship_label": "Not specified",
     "url": "https://globalhr.wd5.myworkdayjobs.com/en-US/REC_RTX_Ext_Gateway/job/US-OK-TINKER-AFB-CUST--3001-Staff-Dr--TINKER-AFB-External-Site/Heavy-Maintenance-Center-Planner-Scheduler_01867694"
-  },
-  {
-    "company": "RTX",
-    "title": "Identity Management Lead Developer",
-    "location": "IN-KA-BENGALURU-NORTHGATE ~ Sy No 2/2 Venkatala Village ~ SY NO 2/2 VENKATALA VILLAGE, Yelahanka Hobli",
-    "employment_type": "full-time",
-    "category": "Software & IT",
-    "salary": "Not disclosed",
-    "salary_min": null,
-    "keywords": [
-      "Python",
-      "Java",
-      "SQL",
-      "recruiting"
-    ],
-    "sponsorship_evidence": "",
-    "h1b_status": "unknown",
-    "sponsorship_label": "Not specified",
-    "url": "https://globalhr.wd5.myworkdayjobs.com/en-US/REC_RTX_Ext_Gateway/job/IN-KA-BENGALURU-NORTHGATE--Sy-No-22-Venkatala-Village--SY-NO-22-VENKATALA-VILLAGE-Yelahanka-Hobli/Identity-Management-Lead-Developer_01866548"
   },
   {
     "company": "RTX",
@@ -185398,22 +185439,6 @@
   },
   {
     "company": "Lowe's",
-    "title": "Full Time - Sales Associate - Electrical & Lighting - Opening",
-    "location": "Columbia, SC (N Richland County) 3026",
-    "employment_type": "full-time",
-    "category": "Engineering",
-    "salary": "Not disclosed",
-    "salary_min": null,
-    "keywords": [
-      "sales"
-    ],
-    "sponsorship_evidence": "",
-    "h1b_status": "unknown",
-    "sponsorship_label": "Not specified",
-    "url": "https://lowes.wd5.myworkdayjobs.com/en-US/LWS_External_CS/job/Columbia-SC-N-Richland-County-3026/Full-Time---Sales-Associate---Electrical---Lighting---Opening_JR-02655272"
-  },
-  {
-    "company": "Lowe's",
     "title": "Full Time - Merchandising Service Associate - Day",
     "location": "Asheville, NC (W Asheville) 0526",
     "employment_type": "full-time",
@@ -187172,22 +187197,6 @@
     "h1b_status": "unknown",
     "sponsorship_label": "Not specified",
     "url": "https://lowes.wd5.myworkdayjobs.com/en-US/LWS_External_CS/job/Asheville-NC-W-Asheville-0526/Full-Time---Receiver-Stocker---Overnight_JR-02653725"
-  },
-  {
-    "company": "Lowe's",
-    "title": "Full Time - Loader/Cart Associate - Opening",
-    "location": "Indian Land, SC (N Lancaster) 3040",
-    "employment_type": "full-time",
-    "category": "Other",
-    "salary": "Not disclosed",
-    "salary_min": null,
-    "keywords": [
-      "sales"
-    ],
-    "sponsorship_evidence": "",
-    "h1b_status": "unknown",
-    "sponsorship_label": "Not specified",
-    "url": "https://lowes.wd5.myworkdayjobs.com/en-US/LWS_External_CS/job/Indian-Land-SC-N-Lancaster-3040/Full-Time---Loader-Cart-Associate---Opening_JR-02653723"
   },
   {
     "company": "Lowe's",
@@ -192611,22 +192620,6 @@
   },
   {
     "company": "Lowe's",
-    "title": "Full Time - Sales Associate - Electrical & Lighting - Day",
-    "location": "Anchorage, AK (NE Anchorage) 2955",
-    "employment_type": "full-time",
-    "category": "Engineering",
-    "salary": "Not disclosed",
-    "salary_min": null,
-    "keywords": [
-      "sales"
-    ],
-    "sponsorship_evidence": "",
-    "h1b_status": "unknown",
-    "sponsorship_label": "Not specified",
-    "url": "https://lowes.wd5.myworkdayjobs.com/en-US/LWS_External_CS/job/Anchorage-AK-NE-Anchorage-2955/Full-Time---Sales-Associate---Electrical---Lighting---Day_JR-02638489"
-  },
-  {
-    "company": "Lowe's",
     "title": "Full Time - Sales Associate - Paint - Opening",
     "location": "Lansing, MI (W Lansing) 0777",
     "employment_type": "full-time",
@@ -196136,22 +196129,6 @@
   },
   {
     "company": "Lowe's",
-    "title": "Full Time - Cashier - Day",
-    "location": "Rochester, NY (Henrietta) 0645",
-    "employment_type": "full-time",
-    "category": "Other",
-    "salary": "$16.5\u2013$17.2/hr",
-    "salary_min": 16.5,
-    "keywords": [
-      "sales"
-    ],
-    "sponsorship_evidence": "",
-    "h1b_status": "unknown",
-    "sponsorship_label": "Not specified",
-    "url": "https://lowes.wd5.myworkdayjobs.com/en-US/LWS_External_CS/job/Rochester-NY-Henrietta-0645/Full-Time---Cashier---Day_JR-02646188"
-  },
-  {
-    "company": "Lowe's",
     "title": "Market Delivery Warehouse Associate - Nights",
     "location": "Hazelwood, MO (XDT) 3887",
     "employment_type": "full-time",
@@ -199351,23 +199328,6 @@
     "h1b_status": "does_not_support_h1b",
     "sponsorship_label": "No sponsorship for this position",
     "url": "https://allstate.wd5.myworkdayjobs.com/en-US/allstate_careers/job/TX---Fort-Worth/Property-Adjuster---Field-Estimating---Dallas-Fort-Worth_R30098"
-  },
-  {
-    "company": "Allstate",
-    "title": "MD Claims Adjuster - IS",
-    "location": "US - Remote",
-    "employment_type": "full-time",
-    "category": "Other",
-    "salary": "Not disclosed",
-    "salary_min": null,
-    "keywords": [
-      "compliance",
-      "contracts"
-    ],
-    "sponsorship_evidence": "",
-    "h1b_status": "unknown",
-    "sponsorship_label": "Not specified",
-    "url": "https://allstate.wd5.myworkdayjobs.com/en-US/allstate_careers/job/US---Remote/MD-Claims-Adjuster---IS_R35406"
   },
   {
     "company": "Allstate",
@@ -250669,7 +250629,7 @@
   {
     "company": "Oscar Health",
     "title": "Associate Director, Claims Compliance",
-    "location": "Atlanta, Georgia, United States",
+    "location": "Dallas, Texas, United States",
     "employment_type": "full-time",
     "category": "People & Legal",
     "salary": "$134.136k\u2013$176.053k/yr",
@@ -250685,7 +250645,7 @@
     "sponsorship_evidence": "",
     "h1b_status": "unknown",
     "sponsorship_label": "Not specified",
-    "url": "https://job-boards.greenhouse.io/oscar/jobs/8188877"
+    "url": "https://job-boards.greenhouse.io/oscar/jobs/8188874"
   },
   {
     "company": "Oscar Health",
@@ -250732,7 +250692,7 @@
   {
     "company": "Oscar Health",
     "title": "Associate Director, Claims Compliance",
-    "location": "Dallas, Texas, United States",
+    "location": "Atlanta, Georgia, United States",
     "employment_type": "full-time",
     "category": "People & Legal",
     "salary": "$134.136k\u2013$176.053k/yr",
@@ -250748,16 +250708,16 @@
     "sponsorship_evidence": "",
     "h1b_status": "unknown",
     "sponsorship_label": "Not specified",
-    "url": "https://job-boards.greenhouse.io/oscar/jobs/8188874"
+    "url": "https://job-boards.greenhouse.io/oscar/jobs/8188877"
   },
   {
     "company": "Oscar Health",
     "title": "Associate Director, Corporate Compliance",
-    "location": "Tempe, Arizona, United States",
+    "location": "New York, New York, United States",
     "employment_type": "full-time",
     "category": "People & Legal",
-    "salary": "$134.136k\u2013$176.053k/yr",
-    "salary_min": 134136.0,
+    "salary": "Not disclosed",
+    "salary_min": null,
     "keywords": [
       "artificial intelligence",
       "audit",
@@ -250769,7 +250729,7 @@
     "sponsorship_evidence": "",
     "h1b_status": "unknown",
     "sponsorship_label": "Not specified",
-    "url": "https://job-boards.greenhouse.io/oscar/jobs/8072656"
+    "url": "https://job-boards.greenhouse.io/oscar/jobs/8067627"
   },
   {
     "company": "Oscar Health",
@@ -250795,11 +250755,11 @@
   {
     "company": "Oscar Health",
     "title": "Associate Director, Corporate Compliance",
-    "location": "New York, New York, United States",
+    "location": "Tempe, Arizona, United States",
     "employment_type": "full-time",
     "category": "People & Legal",
-    "salary": "Not disclosed",
-    "salary_min": null,
+    "salary": "$134.136k\u2013$176.053k/yr",
+    "salary_min": 134136.0,
     "keywords": [
       "artificial intelligence",
       "audit",
@@ -250811,7 +250771,7 @@
     "sponsorship_evidence": "",
     "h1b_status": "unknown",
     "sponsorship_label": "Not specified",
-    "url": "https://job-boards.greenhouse.io/oscar/jobs/8067627"
+    "url": "https://job-boards.greenhouse.io/oscar/jobs/8072656"
   },
   {
     "company": "Oscar Health",
@@ -250903,27 +250863,6 @@
   {
     "company": "Oscar Health",
     "title": "Associate Director of Product Marketing, ICHRA",
-    "location": "Atlanta, Georgia, United States",
-    "employment_type": "full-time",
-    "category": "Sales & Marketing",
-    "salary": "$147.549k\u2013$193.658k/yr",
-    "salary_min": 147549.0,
-    "keywords": [
-      "artificial intelligence",
-      "analytics",
-      "sales",
-      "recruiting",
-      "compliance",
-      "legal"
-    ],
-    "sponsorship_evidence": "",
-    "h1b_status": "unknown",
-    "sponsorship_label": "Not specified",
-    "url": "https://job-boards.greenhouse.io/oscar/jobs/8076166"
-  },
-  {
-    "company": "Oscar Health",
-    "title": "Associate Director of Product Marketing, ICHRA",
     "location": "Dallas, Texas, United States",
     "employment_type": "full-time",
     "category": "Sales & Marketing",
@@ -250941,6 +250880,27 @@
     "h1b_status": "unknown",
     "sponsorship_label": "Not specified",
     "url": "https://job-boards.greenhouse.io/oscar/jobs/8076171"
+  },
+  {
+    "company": "Oscar Health",
+    "title": "Associate Director of Product Marketing, ICHRA",
+    "location": "Atlanta, Georgia, United States",
+    "employment_type": "full-time",
+    "category": "Sales & Marketing",
+    "salary": "$147.549k\u2013$193.658k/yr",
+    "salary_min": 147549.0,
+    "keywords": [
+      "artificial intelligence",
+      "analytics",
+      "sales",
+      "recruiting",
+      "compliance",
+      "legal"
+    ],
+    "sponsorship_evidence": "",
+    "h1b_status": "unknown",
+    "sponsorship_label": "Not specified",
+    "url": "https://job-boards.greenhouse.io/oscar/jobs/8076166"
   },
   {
     "company": "Oscar Health",
@@ -250966,27 +250926,6 @@
   {
     "company": "Oscar Health",
     "title": "Associate, Inquiries and Investigations",
-    "location": "Dallas, Texas, United States",
-    "employment_type": "full-time",
-    "category": "Other",
-    "salary": "$87.188k\u2013$114.434k/yr",
-    "salary_min": 87188.0,
-    "keywords": [
-      "SQL",
-      "artificial intelligence",
-      "analytics",
-      "Excel",
-      "recruiting",
-      "compliance"
-    ],
-    "sponsorship_evidence": "",
-    "h1b_status": "unknown",
-    "sponsorship_label": "Not specified",
-    "url": "https://job-boards.greenhouse.io/oscar/jobs/8168372"
-  },
-  {
-    "company": "Oscar Health",
-    "title": "Associate, Inquiries and Investigations",
     "location": "Atlanta, Georgia, United States",
     "employment_type": "full-time",
     "category": "Other",
@@ -251004,6 +250943,27 @@
     "h1b_status": "unknown",
     "sponsorship_label": "Not specified",
     "url": "https://job-boards.greenhouse.io/oscar/jobs/8168373"
+  },
+  {
+    "company": "Oscar Health",
+    "title": "Associate, Inquiries and Investigations",
+    "location": "New York, New York, United States",
+    "employment_type": "full-time",
+    "category": "Other",
+    "salary": "$96.876k\u2013$127.149k/yr",
+    "salary_min": 96876.0,
+    "keywords": [
+      "SQL",
+      "artificial intelligence",
+      "analytics",
+      "Excel",
+      "recruiting",
+      "compliance"
+    ],
+    "sponsorship_evidence": "",
+    "h1b_status": "unknown",
+    "sponsorship_label": "Not specified",
+    "url": "https://job-boards.greenhouse.io/oscar/jobs/8168186"
   },
   {
     "company": "Oscar Health",
@@ -251029,11 +250989,11 @@
   {
     "company": "Oscar Health",
     "title": "Associate, Inquiries and Investigations",
-    "location": "New York, New York, United States",
+    "location": "Dallas, Texas, United States",
     "employment_type": "full-time",
     "category": "Other",
-    "salary": "$96.876k\u2013$127.149k/yr",
-    "salary_min": 96876.0,
+    "salary": "$87.188k\u2013$114.434k/yr",
+    "salary_min": 87188.0,
     "keywords": [
       "SQL",
       "artificial intelligence",
@@ -251045,7 +251005,7 @@
     "sponsorship_evidence": "",
     "h1b_status": "unknown",
     "sponsorship_label": "Not specified",
-    "url": "https://job-boards.greenhouse.io/oscar/jobs/8168186"
+    "url": "https://job-boards.greenhouse.io/oscar/jobs/8168372"
   },
   {
     "company": "Oscar Health",
@@ -251091,6 +251051,25 @@
   {
     "company": "Oscar Health",
     "title": "Associate Manager, CG&A and MPCT",
+    "location": "Los Angeles, California, United States",
+    "employment_type": "full-time",
+    "category": "Other",
+    "salary": "$72.036k\u2013$99.049k/yr",
+    "salary_min": 72036.0,
+    "keywords": [
+      "artificial intelligence",
+      "recruiting",
+      "compliance",
+      "legal"
+    ],
+    "sponsorship_evidence": "",
+    "h1b_status": "unknown",
+    "sponsorship_label": "Not specified",
+    "url": "https://job-boards.greenhouse.io/oscar/jobs/8178767"
+  },
+  {
+    "company": "Oscar Health",
+    "title": "Associate Manager, CG&A and MPCT",
     "location": "Florida, United States",
     "employment_type": "full-time",
     "category": "Other",
@@ -251129,6 +251108,25 @@
   {
     "company": "Oscar Health",
     "title": "Associate Manager, CG&A and MPCT",
+    "location": "Atlanta, Georgia, United States",
+    "employment_type": "full-time",
+    "category": "Other",
+    "salary": "$64.832k\u2013$89.144k/yr",
+    "salary_min": 64832.0,
+    "keywords": [
+      "artificial intelligence",
+      "recruiting",
+      "compliance",
+      "legal"
+    ],
+    "sponsorship_evidence": "",
+    "h1b_status": "unknown",
+    "sponsorship_label": "Not specified",
+    "url": "https://job-boards.greenhouse.io/oscar/jobs/8178777"
+  },
+  {
+    "company": "Oscar Health",
+    "title": "Associate Manager, CG&A and MPCT",
     "location": "Dallas, Texas, United States",
     "employment_type": "full-time",
     "category": "Other",
@@ -251147,14 +251145,18 @@
   },
   {
     "company": "Oscar Health",
-    "title": "Associate Manager, CG&A and MPCT",
-    "location": "Los Angeles, California, United States",
+    "title": "Associate, Member and Provider Optimization",
+    "location": "Tempe, Arizona, United States",
     "employment_type": "full-time",
     "category": "Other",
-    "salary": "$72.036k\u2013$99.049k/yr",
-    "salary_min": 72036.0,
+    "salary": "Not disclosed",
+    "salary_min": null,
     "keywords": [
+      "Python",
+      "SQL",
       "artificial intelligence",
+      "analytics",
+      "Excel",
       "recruiting",
       "compliance",
       "legal"
@@ -251162,18 +251164,22 @@
     "sponsorship_evidence": "",
     "h1b_status": "unknown",
     "sponsorship_label": "Not specified",
-    "url": "https://job-boards.greenhouse.io/oscar/jobs/8178767"
+    "url": "https://job-boards.greenhouse.io/oscar/jobs/8044675"
   },
   {
     "company": "Oscar Health",
-    "title": "Associate Manager, CG&A and MPCT",
-    "location": "Atlanta, Georgia, United States",
+    "title": "Associate, Member and Provider Optimization",
+    "location": "Dallas, Texas, United States",
     "employment_type": "full-time",
     "category": "Other",
-    "salary": "$64.832k\u2013$89.144k/yr",
-    "salary_min": 64832.0,
+    "salary": "Not disclosed",
+    "salary_min": null,
     "keywords": [
+      "Python",
+      "SQL",
       "artificial intelligence",
+      "analytics",
+      "Excel",
       "recruiting",
       "compliance",
       "legal"
@@ -251181,7 +251187,76 @@
     "sponsorship_evidence": "",
     "h1b_status": "unknown",
     "sponsorship_label": "Not specified",
-    "url": "https://job-boards.greenhouse.io/oscar/jobs/8178777"
+    "url": "https://job-boards.greenhouse.io/oscar/jobs/8044682"
+  },
+  {
+    "company": "Oscar Health",
+    "title": "Associate, Member and Provider Optimization",
+    "location": "Dallas, Texas, United States",
+    "employment_type": "full-time",
+    "category": "Other",
+    "salary": "$84.24k\u2013$101.565k/yr",
+    "salary_min": 84240.0,
+    "keywords": [
+      "Python",
+      "SQL",
+      "artificial intelligence",
+      "analytics",
+      "Excel",
+      "recruiting",
+      "compliance",
+      "legal"
+    ],
+    "sponsorship_evidence": "",
+    "h1b_status": "unknown",
+    "sponsorship_label": "Not specified",
+    "url": "https://job-boards.greenhouse.io/oscar/jobs/8167131"
+  },
+  {
+    "company": "Oscar Health",
+    "title": "Associate, Member and Provider Optimization",
+    "location": "Atlanta, Georgia, United States",
+    "employment_type": "full-time",
+    "category": "Other",
+    "salary": "$84.24k\u2013$101.565k/yr",
+    "salary_min": 84240.0,
+    "keywords": [
+      "Python",
+      "SQL",
+      "artificial intelligence",
+      "analytics",
+      "Excel",
+      "recruiting",
+      "compliance",
+      "legal"
+    ],
+    "sponsorship_evidence": "",
+    "h1b_status": "unknown",
+    "sponsorship_label": "Not specified",
+    "url": "https://job-boards.greenhouse.io/oscar/jobs/8167122"
+  },
+  {
+    "company": "Oscar Health",
+    "title": "Associate, Member and Provider Optimization",
+    "location": "Tempe, Arizona, United States",
+    "employment_type": "full-time",
+    "category": "Other",
+    "salary": "$84.24k\u2013$101.565k/yr",
+    "salary_min": 84240.0,
+    "keywords": [
+      "Python",
+      "SQL",
+      "artificial intelligence",
+      "analytics",
+      "Excel",
+      "recruiting",
+      "compliance",
+      "legal"
+    ],
+    "sponsorship_evidence": "",
+    "h1b_status": "unknown",
+    "sponsorship_label": "Not specified",
+    "url": "https://job-boards.greenhouse.io/oscar/jobs/8167119"
   },
   {
     "company": "Oscar Health",
@@ -251251,121 +251326,6 @@
     "h1b_status": "unknown",
     "sponsorship_label": "Not specified",
     "url": "https://job-boards.greenhouse.io/oscar/jobs/8044667"
-  },
-  {
-    "company": "Oscar Health",
-    "title": "Associate, Member and Provider Optimization",
-    "location": "Tempe, Arizona, United States",
-    "employment_type": "full-time",
-    "category": "Other",
-    "salary": "$84.24k\u2013$101.565k/yr",
-    "salary_min": 84240.0,
-    "keywords": [
-      "Python",
-      "SQL",
-      "artificial intelligence",
-      "analytics",
-      "Excel",
-      "recruiting",
-      "compliance",
-      "legal"
-    ],
-    "sponsorship_evidence": "",
-    "h1b_status": "unknown",
-    "sponsorship_label": "Not specified",
-    "url": "https://job-boards.greenhouse.io/oscar/jobs/8167119"
-  },
-  {
-    "company": "Oscar Health",
-    "title": "Associate, Member and Provider Optimization",
-    "location": "Atlanta, Georgia, United States",
-    "employment_type": "full-time",
-    "category": "Other",
-    "salary": "$84.24k\u2013$101.565k/yr",
-    "salary_min": 84240.0,
-    "keywords": [
-      "Python",
-      "SQL",
-      "artificial intelligence",
-      "analytics",
-      "Excel",
-      "recruiting",
-      "compliance",
-      "legal"
-    ],
-    "sponsorship_evidence": "",
-    "h1b_status": "unknown",
-    "sponsorship_label": "Not specified",
-    "url": "https://job-boards.greenhouse.io/oscar/jobs/8167122"
-  },
-  {
-    "company": "Oscar Health",
-    "title": "Associate, Member and Provider Optimization",
-    "location": "Dallas, Texas, United States",
-    "employment_type": "full-time",
-    "category": "Other",
-    "salary": "$84.24k\u2013$101.565k/yr",
-    "salary_min": 84240.0,
-    "keywords": [
-      "Python",
-      "SQL",
-      "artificial intelligence",
-      "analytics",
-      "Excel",
-      "recruiting",
-      "compliance",
-      "legal"
-    ],
-    "sponsorship_evidence": "",
-    "h1b_status": "unknown",
-    "sponsorship_label": "Not specified",
-    "url": "https://job-boards.greenhouse.io/oscar/jobs/8167131"
-  },
-  {
-    "company": "Oscar Health",
-    "title": "Associate, Member and Provider Optimization",
-    "location": "Dallas, Texas, United States",
-    "employment_type": "full-time",
-    "category": "Other",
-    "salary": "Not disclosed",
-    "salary_min": null,
-    "keywords": [
-      "Python",
-      "SQL",
-      "artificial intelligence",
-      "analytics",
-      "Excel",
-      "recruiting",
-      "compliance",
-      "legal"
-    ],
-    "sponsorship_evidence": "",
-    "h1b_status": "unknown",
-    "sponsorship_label": "Not specified",
-    "url": "https://job-boards.greenhouse.io/oscar/jobs/8044682"
-  },
-  {
-    "company": "Oscar Health",
-    "title": "Associate, Member and Provider Optimization",
-    "location": "Tempe, Arizona, United States",
-    "employment_type": "full-time",
-    "category": "Other",
-    "salary": "Not disclosed",
-    "salary_min": null,
-    "keywords": [
-      "Python",
-      "SQL",
-      "artificial intelligence",
-      "analytics",
-      "Excel",
-      "recruiting",
-      "compliance",
-      "legal"
-    ],
-    "sponsorship_evidence": "",
-    "h1b_status": "unknown",
-    "sponsorship_label": "Not specified",
-    "url": "https://job-boards.greenhouse.io/oscar/jobs/8044675"
   },
   {
     "company": "Oscar Health",
@@ -251456,28 +251416,6 @@
   {
     "company": "Oscar Health",
     "title": "Associate, Process Improvement",
-    "location": "Dallas, Texas, United States",
-    "employment_type": "full-time",
-    "category": "Other",
-    "salary": "$87.188k\u2013$114.434k/yr",
-    "salary_min": 87188.0,
-    "keywords": [
-      "Python",
-      "SQL",
-      "artificial intelligence",
-      "analytics",
-      "Excel",
-      "recruiting",
-      "compliance"
-    ],
-    "sponsorship_evidence": "",
-    "h1b_status": "unknown",
-    "sponsorship_label": "Not specified",
-    "url": "https://job-boards.greenhouse.io/oscar/jobs/8172530"
-  },
-  {
-    "company": "Oscar Health",
-    "title": "Associate, Process Improvement",
     "location": "New York, New York, United States",
     "employment_type": "full-time",
     "category": "Other",
@@ -251500,7 +251438,7 @@
   {
     "company": "Oscar Health",
     "title": "Associate, Process Improvement",
-    "location": "Tempe, Arizona, United States",
+    "location": "Dallas, Texas, United States",
     "employment_type": "full-time",
     "category": "Other",
     "salary": "$87.188k\u2013$114.434k/yr",
@@ -251517,7 +251455,7 @@
     "sponsorship_evidence": "",
     "h1b_status": "unknown",
     "sponsorship_label": "Not specified",
-    "url": "https://job-boards.greenhouse.io/oscar/jobs/8172528"
+    "url": "https://job-boards.greenhouse.io/oscar/jobs/8172530"
   },
   {
     "company": "Oscar Health",
@@ -251543,8 +251481,8 @@
   },
   {
     "company": "Oscar Health",
-    "title": "Associate, Process Optimization",
-    "location": "Atlanta, Georgia, United States",
+    "title": "Associate, Process Improvement",
+    "location": "Tempe, Arizona, United States",
     "employment_type": "full-time",
     "category": "Other",
     "salary": "$87.188k\u2013$114.434k/yr",
@@ -251556,13 +251494,12 @@
       "analytics",
       "Excel",
       "recruiting",
-      "compliance",
-      "legal"
+      "compliance"
     ],
     "sponsorship_evidence": "",
     "h1b_status": "unknown",
     "sponsorship_label": "Not specified",
-    "url": "https://job-boards.greenhouse.io/oscar/jobs/8147979"
+    "url": "https://job-boards.greenhouse.io/oscar/jobs/8172528"
   },
   {
     "company": "Oscar Health",
@@ -251590,7 +251527,7 @@
   {
     "company": "Oscar Health",
     "title": "Associate, Process Optimization",
-    "location": "Tempe, Arizona, United States",
+    "location": "Atlanta, Georgia, United States",
     "employment_type": "full-time",
     "category": "Other",
     "salary": "$87.188k\u2013$114.434k/yr",
@@ -251608,7 +251545,7 @@
     "sponsorship_evidence": "",
     "h1b_status": "unknown",
     "sponsorship_label": "Not specified",
-    "url": "https://job-boards.greenhouse.io/oscar/jobs/8147966"
+    "url": "https://job-boards.greenhouse.io/oscar/jobs/8147979"
   },
   {
     "company": "Oscar Health",
@@ -251635,6 +251572,29 @@
   },
   {
     "company": "Oscar Health",
+    "title": "Associate, Process Optimization",
+    "location": "Tempe, Arizona, United States",
+    "employment_type": "full-time",
+    "category": "Other",
+    "salary": "$87.188k\u2013$114.434k/yr",
+    "salary_min": 87188.0,
+    "keywords": [
+      "Python",
+      "SQL",
+      "artificial intelligence",
+      "analytics",
+      "Excel",
+      "recruiting",
+      "compliance",
+      "legal"
+    ],
+    "sponsorship_evidence": "",
+    "h1b_status": "unknown",
+    "sponsorship_label": "Not specified",
+    "url": "https://job-boards.greenhouse.io/oscar/jobs/8147966"
+  },
+  {
+    "company": "Oscar Health",
     "title": "Associate, Provider Success",
     "location": "Dallas, Texas, United States",
     "employment_type": "full-time",
@@ -251651,6 +251611,25 @@
     "h1b_status": "unknown",
     "sponsorship_label": "Not specified",
     "url": "https://job-boards.greenhouse.io/oscar/jobs/8163562"
+  },
+  {
+    "company": "Oscar Health",
+    "title": "Associate, Provider Success",
+    "location": "Atlanta, Georgia, United States",
+    "employment_type": "full-time",
+    "category": "Other",
+    "salary": "$87.188k\u2013$114.434k/yr",
+    "salary_min": 87188.0,
+    "keywords": [
+      "SQL",
+      "artificial intelligence",
+      "recruiting",
+      "compliance"
+    ],
+    "sponsorship_evidence": "",
+    "h1b_status": "unknown",
+    "sponsorship_label": "Not specified",
+    "url": "https://job-boards.greenhouse.io/oscar/jobs/8163563"
   },
   {
     "company": "Oscar Health",
@@ -251692,25 +251671,6 @@
   },
   {
     "company": "Oscar Health",
-    "title": "Associate, Provider Success",
-    "location": "Atlanta, Georgia, United States",
-    "employment_type": "full-time",
-    "category": "Other",
-    "salary": "$87.188k\u2013$114.434k/yr",
-    "salary_min": 87188.0,
-    "keywords": [
-      "SQL",
-      "artificial intelligence",
-      "recruiting",
-      "compliance"
-    ],
-    "sponsorship_evidence": "",
-    "h1b_status": "unknown",
-    "sponsorship_label": "Not specified",
-    "url": "https://job-boards.greenhouse.io/oscar/jobs/8163563"
-  },
-  {
-    "company": "Oscar Health",
     "title": "Associate, Risk/Compliance",
     "location": "New York, New York, United States",
     "employment_type": "full-time",
@@ -251728,26 +251688,6 @@
     "h1b_status": "unknown",
     "sponsorship_label": "Not specified",
     "url": "https://job-boards.greenhouse.io/oscar/jobs/8164914"
-  },
-  {
-    "company": "Oscar Health",
-    "title": "Associate, Risk/Compliance",
-    "location": "Tempe, Arizona, United States",
-    "employment_type": "full-time",
-    "category": "People & Legal",
-    "salary": "$87.188k\u2013$114.434k/yr",
-    "salary_min": 87188.0,
-    "keywords": [
-      "artificial intelligence",
-      "audit",
-      "recruiting",
-      "compliance",
-      "legal"
-    ],
-    "sponsorship_evidence": "",
-    "h1b_status": "unknown",
-    "sponsorship_label": "Not specified",
-    "url": "https://job-boards.greenhouse.io/oscar/jobs/8177761"
   },
   {
     "company": "Oscar Health",
@@ -251791,6 +251731,26 @@
   },
   {
     "company": "Oscar Health",
+    "title": "Associate, Risk/Compliance",
+    "location": "Tempe, Arizona, United States",
+    "employment_type": "full-time",
+    "category": "People & Legal",
+    "salary": "$87.188k\u2013$114.434k/yr",
+    "salary_min": 87188.0,
+    "keywords": [
+      "artificial intelligence",
+      "audit",
+      "recruiting",
+      "compliance",
+      "legal"
+    ],
+    "sponsorship_evidence": "",
+    "h1b_status": "unknown",
+    "sponsorship_label": "Not specified",
+    "url": "https://job-boards.greenhouse.io/oscar/jobs/8177761"
+  },
+  {
+    "company": "Oscar Health",
     "title": "Associate, Strategic Finance",
     "location": "Dallas, Texas, United States",
     "employment_type": "full-time",
@@ -251814,28 +251774,6 @@
   {
     "company": "Oscar Health",
     "title": "Associate, Strategic Finance",
-    "location": "New York, New York, United States",
-    "employment_type": "full-time",
-    "category": "Finance & Accounting",
-    "salary": "$87.188k\u2013$114.434k/yr",
-    "salary_min": 87188.0,
-    "keywords": [
-      "SQL",
-      "artificial intelligence",
-      "analytics",
-      "sales",
-      "recruiting",
-      "compliance",
-      "legal"
-    ],
-    "sponsorship_evidence": "",
-    "h1b_status": "unknown",
-    "sponsorship_label": "Not specified",
-    "url": "https://job-boards.greenhouse.io/oscar/jobs/8011066"
-  },
-  {
-    "company": "Oscar Health",
-    "title": "Associate, Strategic Finance",
     "location": "Atlanta, Georgia, United States",
     "employment_type": "full-time",
     "category": "Finance & Accounting",
@@ -251854,6 +251792,28 @@
     "h1b_status": "unknown",
     "sponsorship_label": "Not specified",
     "url": "https://job-boards.greenhouse.io/oscar/jobs/8013108"
+  },
+  {
+    "company": "Oscar Health",
+    "title": "Associate, Strategic Finance",
+    "location": "New York, New York, United States",
+    "employment_type": "full-time",
+    "category": "Finance & Accounting",
+    "salary": "$87.188k\u2013$114.434k/yr",
+    "salary_min": 87188.0,
+    "keywords": [
+      "SQL",
+      "artificial intelligence",
+      "analytics",
+      "sales",
+      "recruiting",
+      "compliance",
+      "legal"
+    ],
+    "sponsorship_evidence": "",
+    "h1b_status": "unknown",
+    "sponsorship_label": "Not specified",
+    "url": "https://job-boards.greenhouse.io/oscar/jobs/8011066"
   },
   {
     "company": "Oscar Health",
@@ -252101,25 +252061,6 @@
   {
     "company": "Oscar Health",
     "title": "Business Operations Senior Manager",
-    "location": "New York, New York, United States",
-    "employment_type": "full-time",
-    "category": "Operations & Supply Chain",
-    "salary": "$149.04k\u2013$195.615k/yr",
-    "salary_min": 149040.0,
-    "keywords": [
-      "artificial intelligence",
-      "recruiting",
-      "compliance",
-      "legal"
-    ],
-    "sponsorship_evidence": "",
-    "h1b_status": "unknown",
-    "sponsorship_label": "Not specified",
-    "url": "https://job-boards.greenhouse.io/oscar/jobs/8193708"
-  },
-  {
-    "company": "Oscar Health",
-    "title": "Business Operations Senior Manager",
     "location": "Atlanta, Georgia, United States",
     "employment_type": "full-time",
     "category": "Operations & Supply Chain",
@@ -252157,21 +252098,22 @@
   },
   {
     "company": "Oscar Health",
-    "title": "Care Coordinator",
-    "location": "Tempe, Arizona, United States",
+    "title": "Business Operations Senior Manager",
+    "location": "New York, New York, United States",
     "employment_type": "full-time",
-    "category": "Other",
-    "salary": "$17.91\u2013$23.51/yr",
-    "salary_min": 17.91,
+    "category": "Operations & Supply Chain",
+    "salary": "$149.04k\u2013$195.615k/yr",
+    "salary_min": 149040.0,
     "keywords": [
       "artificial intelligence",
       "recruiting",
+      "compliance",
       "legal"
     ],
     "sponsorship_evidence": "",
     "h1b_status": "unknown",
     "sponsorship_label": "Not specified",
-    "url": "https://job-boards.greenhouse.io/oscar/jobs/8193685"
+    "url": "https://job-boards.greenhouse.io/oscar/jobs/8193708"
   },
   {
     "company": "Oscar Health",
@@ -252226,6 +252168,24 @@
     "h1b_status": "unknown",
     "sponsorship_label": "Not specified",
     "url": "https://job-boards.greenhouse.io/oscar/jobs/8196677"
+  },
+  {
+    "company": "Oscar Health",
+    "title": "Care Coordinator",
+    "location": "Tempe, Arizona, United States",
+    "employment_type": "full-time",
+    "category": "Other",
+    "salary": "$17.91\u2013$23.51/yr",
+    "salary_min": 17.91,
+    "keywords": [
+      "artificial intelligence",
+      "recruiting",
+      "legal"
+    ],
+    "sponsorship_evidence": "",
+    "h1b_status": "unknown",
+    "sponsorship_label": "Not specified",
+    "url": "https://job-boards.greenhouse.io/oscar/jobs/8193685"
   },
   {
     "company": "Oscar Health",
@@ -252305,7 +252265,7 @@
   {
     "company": "Oscar Health",
     "title": "Customer Service Representative",
-    "location": "Georgia, United States",
+    "location": "Texas, United States",
     "employment_type": "full-time",
     "category": "Other",
     "salary": "$19\u2013$21/hr",
@@ -252319,7 +252279,7 @@
     "sponsorship_evidence": "",
     "h1b_status": "unknown",
     "sponsorship_label": "Not specified",
-    "url": "https://job-boards.greenhouse.io/oscar/jobs/8138272"
+    "url": "https://job-boards.greenhouse.io/oscar/jobs/8138273"
   },
   {
     "company": "Oscar Health",
@@ -252362,7 +252322,7 @@
   {
     "company": "Oscar Health",
     "title": "Customer Service Representative",
-    "location": "Texas, United States",
+    "location": "Georgia, United States",
     "employment_type": "full-time",
     "category": "Other",
     "salary": "$19\u2013$21/hr",
@@ -252376,7 +252336,7 @@
     "sponsorship_evidence": "",
     "h1b_status": "unknown",
     "sponsorship_label": "Not specified",
-    "url": "https://job-boards.greenhouse.io/oscar/jobs/8138273"
+    "url": "https://job-boards.greenhouse.io/oscar/jobs/8138272"
   },
   {
     "company": "Oscar Health",
@@ -252426,28 +252386,6 @@
   {
     "company": "Oscar Health",
     "title": "Data Scientist II",
-    "location": "Tempe, Arizona, United States",
-    "employment_type": "full-time",
-    "category": "Data & AI",
-    "salary": "$131.2k\u2013$172.2k/yr",
-    "salary_min": 131200.0,
-    "keywords": [
-      "Python",
-      "SQL",
-      "artificial intelligence",
-      "data science",
-      "analytics",
-      "recruiting",
-      "legal"
-    ],
-    "sponsorship_evidence": "",
-    "h1b_status": "unknown",
-    "sponsorship_label": "Not specified",
-    "url": "https://job-boards.greenhouse.io/oscar/jobs/7594416"
-  },
-  {
-    "company": "Oscar Health",
-    "title": "Data Scientist II",
     "location": "New York, New York, United States",
     "employment_type": "full-time",
     "category": "Data & AI",
@@ -252469,25 +252407,25 @@
   },
   {
     "company": "Oscar Health",
-    "title": "Director, Accounting",
-    "location": "New York, New York, United States",
+    "title": "Data Scientist II",
+    "location": "Tempe, Arizona, United States",
     "employment_type": "full-time",
-    "category": "Finance & Accounting",
-    "salary": "$180.504k\u2013$236.912k/yr",
-    "salary_min": 180504.0,
+    "category": "Data & AI",
+    "salary": "$131.2k\u2013$172.2k/yr",
+    "salary_min": 131200.0,
     "keywords": [
+      "Python",
+      "SQL",
       "artificial intelligence",
+      "data science",
       "analytics",
-      "accounting",
-      "tax",
       "recruiting",
-      "compliance",
       "legal"
     ],
     "sponsorship_evidence": "",
     "h1b_status": "unknown",
     "sponsorship_label": "Not specified",
-    "url": "https://job-boards.greenhouse.io/oscar/jobs/8192058"
+    "url": "https://job-boards.greenhouse.io/oscar/jobs/7594416"
   },
   {
     "company": "Oscar Health",
@@ -252535,12 +252473,34 @@
   },
   {
     "company": "Oscar Health",
-    "title": "Director, Internal Audit",
-    "location": "Hartford, Connecticut, United States",
+    "title": "Director, Accounting",
+    "location": "New York, New York, United States",
     "employment_type": "full-time",
     "category": "Finance & Accounting",
-    "salary": "$180.504k\u2013$236.911k/yr",
+    "salary": "$180.504k\u2013$236.912k/yr",
     "salary_min": 180504.0,
+    "keywords": [
+      "artificial intelligence",
+      "analytics",
+      "accounting",
+      "tax",
+      "recruiting",
+      "compliance",
+      "legal"
+    ],
+    "sponsorship_evidence": "",
+    "h1b_status": "unknown",
+    "sponsorship_label": "Not specified",
+    "url": "https://job-boards.greenhouse.io/oscar/jobs/8192058"
+  },
+  {
+    "company": "Oscar Health",
+    "title": "Director, Internal Audit",
+    "location": "Atlanta, Georgia, United States",
+    "employment_type": "full-time",
+    "category": "Finance & Accounting",
+    "salary": "$162.453k\u2013$213.22k/yr",
+    "salary_min": 162453.0,
     "keywords": [
       "artificial intelligence",
       "analytics",
@@ -252553,7 +252513,7 @@
     "sponsorship_evidence": "",
     "h1b_status": "unknown",
     "sponsorship_label": "Not specified",
-    "url": "https://job-boards.greenhouse.io/oscar/jobs/8036434"
+    "url": "https://job-boards.greenhouse.io/oscar/jobs/8036433"
   },
   {
     "company": "Oscar Health",
@@ -252624,11 +252584,11 @@
   {
     "company": "Oscar Health",
     "title": "Director, Internal Audit",
-    "location": "Atlanta, Georgia, United States",
+    "location": "Hartford, Connecticut, United States",
     "employment_type": "full-time",
     "category": "Finance & Accounting",
-    "salary": "$162.453k\u2013$213.22k/yr",
-    "salary_min": 162453.0,
+    "salary": "$180.504k\u2013$236.911k/yr",
+    "salary_min": 180504.0,
     "keywords": [
       "artificial intelligence",
       "analytics",
@@ -252641,7 +252601,7 @@
     "sponsorship_evidence": "",
     "h1b_status": "unknown",
     "sponsorship_label": "Not specified",
-    "url": "https://job-boards.greenhouse.io/oscar/jobs/8036433"
+    "url": "https://job-boards.greenhouse.io/oscar/jobs/8036434"
   },
   {
     "company": "Oscar Health",
@@ -252662,25 +252622,6 @@
     "h1b_status": "unknown",
     "sponsorship_label": "Not specified",
     "url": "https://job-boards.greenhouse.io/oscar/jobs/8073842"
-  },
-  {
-    "company": "Oscar Health",
-    "title": "Director, Provider Experience",
-    "location": "Dallas, Texas, United States",
-    "employment_type": "full-time",
-    "category": "Other",
-    "salary": "$178.848k\u2013$234.738k/yr",
-    "salary_min": 178848.0,
-    "keywords": [
-      "artificial intelligence",
-      "Excel",
-      "recruiting",
-      "compliance"
-    ],
-    "sponsorship_evidence": "",
-    "h1b_status": "unknown",
-    "sponsorship_label": "Not specified",
-    "url": "https://job-boards.greenhouse.io/oscar/jobs/8178324"
   },
   {
     "company": "Oscar Health",
@@ -252738,6 +252679,25 @@
     "h1b_status": "unknown",
     "sponsorship_label": "Not specified",
     "url": "https://job-boards.greenhouse.io/oscar/jobs/8103028"
+  },
+  {
+    "company": "Oscar Health",
+    "title": "Director, Provider Experience",
+    "location": "Dallas, Texas, United States",
+    "employment_type": "full-time",
+    "category": "Other",
+    "salary": "$178.848k\u2013$234.738k/yr",
+    "salary_min": 178848.0,
+    "keywords": [
+      "artificial intelligence",
+      "Excel",
+      "recruiting",
+      "compliance"
+    ],
+    "sponsorship_evidence": "",
+    "h1b_status": "unknown",
+    "sponsorship_label": "Not specified",
+    "url": "https://job-boards.greenhouse.io/oscar/jobs/8178324"
   },
   {
     "company": "Oscar Health",
@@ -253196,6 +253156,25 @@
   {
     "company": "Oscar Health",
     "title": "Manager, Strategic Planning",
+    "location": "New York, New York, United States",
+    "employment_type": "full-time",
+    "category": "Other",
+    "salary": "$117.576k\u2013$154.319k/yr",
+    "salary_min": 117576.0,
+    "keywords": [
+      "artificial intelligence",
+      "recruiting",
+      "compliance",
+      "legal"
+    ],
+    "sponsorship_evidence": "",
+    "h1b_status": "unknown",
+    "sponsorship_label": "Not specified",
+    "url": "https://job-boards.greenhouse.io/oscar/jobs/8132496"
+  },
+  {
+    "company": "Oscar Health",
+    "title": "Manager, Strategic Planning",
     "location": "Atlanta, Georgia, United States",
     "employment_type": "full-time",
     "category": "Other",
@@ -253252,30 +253231,11 @@
   },
   {
     "company": "Oscar Health",
-    "title": "Manager, Strategic Planning",
-    "location": "New York, New York, United States",
-    "employment_type": "full-time",
-    "category": "Other",
-    "salary": "$117.576k\u2013$154.319k/yr",
-    "salary_min": 117576.0,
-    "keywords": [
-      "artificial intelligence",
-      "recruiting",
-      "compliance",
-      "legal"
-    ],
-    "sponsorship_evidence": "",
-    "h1b_status": "unknown",
-    "sponsorship_label": "Not specified",
-    "url": "https://job-boards.greenhouse.io/oscar/jobs/8132496"
-  },
-  {
-    "company": "Oscar Health",
     "title": "NP/PA - Virtual Urgent Care",
     "location": "New York, New York, United States",
     "employment_type": "full-time",
     "category": "Other",
-    "salary": "$116.4k\u2013$135k/yr",
+    "salary": "$116.4k\u2013$152.775k/yr",
     "salary_min": 116400.0,
     "keywords": [
       "artificial intelligence",
@@ -253285,7 +253245,7 @@
     "sponsorship_evidence": "",
     "h1b_status": "unknown",
     "sponsorship_label": "Not specified",
-    "url": "https://job-boards.greenhouse.io/oscar/jobs/7766426"
+    "url": "https://job-boards.greenhouse.io/oscar/jobs/7908859"
   },
   {
     "company": "Oscar Health",
@@ -253329,7 +253289,7 @@
     "location": "New York, New York, United States",
     "employment_type": "full-time",
     "category": "Other",
-    "salary": "$116.4k\u2013$152.775k/yr",
+    "salary": "$116.4k\u2013$135k/yr",
     "salary_min": 116400.0,
     "keywords": [
       "artificial intelligence",
@@ -253339,7 +253299,7 @@
     "sponsorship_evidence": "",
     "h1b_status": "unknown",
     "sponsorship_label": "Not specified",
-    "url": "https://job-boards.greenhouse.io/oscar/jobs/7908859"
+    "url": "https://job-boards.greenhouse.io/oscar/jobs/7766426"
   },
   {
     "company": "Oscar Health",
@@ -253547,44 +253507,6 @@
   {
     "company": "Oscar Health",
     "title": "Project Manager- Pharmacy Associate",
-    "location": "Tempe, Arizona, United States",
-    "employment_type": "full-time",
-    "category": "Other",
-    "salary": "Not disclosed",
-    "salary_min": null,
-    "keywords": [
-      "artificial intelligence",
-      "recruiting",
-      "compliance",
-      "legal"
-    ],
-    "sponsorship_evidence": "",
-    "h1b_status": "unknown",
-    "sponsorship_label": "Not specified",
-    "url": "https://job-boards.greenhouse.io/oscar/jobs/8044774"
-  },
-  {
-    "company": "Oscar Health",
-    "title": "Project Manager- Pharmacy Associate",
-    "location": "Atlanta, Georgia, United States",
-    "employment_type": "full-time",
-    "category": "Other",
-    "salary": "Not disclosed",
-    "salary_min": null,
-    "keywords": [
-      "artificial intelligence",
-      "recruiting",
-      "compliance",
-      "legal"
-    ],
-    "sponsorship_evidence": "",
-    "h1b_status": "unknown",
-    "sponsorship_label": "Not specified",
-    "url": "https://job-boards.greenhouse.io/oscar/jobs/8044775"
-  },
-  {
-    "company": "Oscar Health",
-    "title": "Project Manager- Pharmacy Associate",
     "location": "New York, United States",
     "employment_type": "full-time",
     "category": "Other",
@@ -253619,6 +253541,44 @@
     "h1b_status": "unknown",
     "sponsorship_label": "Not specified",
     "url": "https://job-boards.greenhouse.io/oscar/jobs/8044288"
+  },
+  {
+    "company": "Oscar Health",
+    "title": "Project Manager- Pharmacy Associate",
+    "location": "Tempe, Arizona, United States",
+    "employment_type": "full-time",
+    "category": "Other",
+    "salary": "Not disclosed",
+    "salary_min": null,
+    "keywords": [
+      "artificial intelligence",
+      "recruiting",
+      "compliance",
+      "legal"
+    ],
+    "sponsorship_evidence": "",
+    "h1b_status": "unknown",
+    "sponsorship_label": "Not specified",
+    "url": "https://job-boards.greenhouse.io/oscar/jobs/8044774"
+  },
+  {
+    "company": "Oscar Health",
+    "title": "Project Manager- Pharmacy Associate",
+    "location": "Atlanta, Georgia, United States",
+    "employment_type": "full-time",
+    "category": "Other",
+    "salary": "Not disclosed",
+    "salary_min": null,
+    "keywords": [
+      "artificial intelligence",
+      "recruiting",
+      "compliance",
+      "legal"
+    ],
+    "sponsorship_evidence": "",
+    "h1b_status": "unknown",
+    "sponsorship_label": "Not specified",
+    "url": "https://job-boards.greenhouse.io/oscar/jobs/8044775"
   },
   {
     "company": "Oscar Health",
@@ -253864,26 +253824,6 @@
   {
     "company": "Oscar Health",
     "title": "Senior Director, Corporate Development",
-    "location": "Tempe, Arizona, United States",
-    "employment_type": "full-time",
-    "category": "Other",
-    "salary": "$196.733k\u2013$258.212k/yr",
-    "salary_min": 196733.0,
-    "keywords": [
-      "artificial intelligence",
-      "financial modeling",
-      "recruiting",
-      "compliance",
-      "legal"
-    ],
-    "sponsorship_evidence": "",
-    "h1b_status": "unknown",
-    "sponsorship_label": "Not specified",
-    "url": "https://job-boards.greenhouse.io/oscar/jobs/8197670"
-  },
-  {
-    "company": "Oscar Health",
-    "title": "Senior Director, Corporate Development",
     "location": "New York, New York, United States",
     "employment_type": "full-time",
     "category": "Other",
@@ -253900,6 +253840,26 @@
     "h1b_status": "unknown",
     "sponsorship_label": "Not specified",
     "url": "https://job-boards.greenhouse.io/oscar/jobs/8189336"
+  },
+  {
+    "company": "Oscar Health",
+    "title": "Senior Director, Corporate Development",
+    "location": "Tempe, Arizona, United States",
+    "employment_type": "full-time",
+    "category": "Other",
+    "salary": "$196.733k\u2013$258.212k/yr",
+    "salary_min": 196733.0,
+    "keywords": [
+      "artificial intelligence",
+      "financial modeling",
+      "recruiting",
+      "compliance",
+      "legal"
+    ],
+    "sponsorship_evidence": "",
+    "h1b_status": "unknown",
+    "sponsorship_label": "Not specified",
+    "url": "https://job-boards.greenhouse.io/oscar/jobs/8197670"
   },
   {
     "company": "Oscar Health",
@@ -253947,48 +253907,6 @@
   {
     "company": "Oscar Health",
     "title": "Senior Director, Enterprise Compliance",
-    "location": "Tempe, Arizona, United States",
-    "employment_type": "full-time",
-    "category": "People & Legal",
-    "salary": "$196.733k\u2013$258.212k/yr",
-    "salary_min": 196733.0,
-    "keywords": [
-      "artificial intelligence",
-      "audit",
-      "risk management",
-      "recruiting",
-      "compliance",
-      "legal"
-    ],
-    "sponsorship_evidence": "",
-    "h1b_status": "unknown",
-    "sponsorship_label": "Not specified",
-    "url": "https://job-boards.greenhouse.io/oscar/jobs/8204767"
-  },
-  {
-    "company": "Oscar Health",
-    "title": "Senior Director, Enterprise Compliance",
-    "location": "Atlanta, Georgia, United States",
-    "employment_type": "full-time",
-    "category": "People & Legal",
-    "salary": "$196.733k\u2013$258.212k/yr",
-    "salary_min": 196733.0,
-    "keywords": [
-      "artificial intelligence",
-      "audit",
-      "risk management",
-      "recruiting",
-      "compliance",
-      "legal"
-    ],
-    "sponsorship_evidence": "",
-    "h1b_status": "unknown",
-    "sponsorship_label": "Not specified",
-    "url": "https://job-boards.greenhouse.io/oscar/jobs/8204771"
-  },
-  {
-    "company": "Oscar Health",
-    "title": "Senior Director, Enterprise Compliance",
     "location": "New York, New York, United States",
     "employment_type": "full-time",
     "category": "People & Legal",
@@ -254010,6 +253928,27 @@
   {
     "company": "Oscar Health",
     "title": "Senior Director, Enterprise Compliance",
+    "location": "Tempe, Arizona, United States",
+    "employment_type": "full-time",
+    "category": "People & Legal",
+    "salary": "$196.733k\u2013$258.212k/yr",
+    "salary_min": 196733.0,
+    "keywords": [
+      "artificial intelligence",
+      "audit",
+      "risk management",
+      "recruiting",
+      "compliance",
+      "legal"
+    ],
+    "sponsorship_evidence": "",
+    "h1b_status": "unknown",
+    "sponsorship_label": "Not specified",
+    "url": "https://job-boards.greenhouse.io/oscar/jobs/8204767"
+  },
+  {
+    "company": "Oscar Health",
+    "title": "Senior Director, Enterprise Compliance",
     "location": "Dallas, Texas, United States",
     "employment_type": "full-time",
     "category": "People & Legal",
@@ -254027,6 +253966,27 @@
     "h1b_status": "unknown",
     "sponsorship_label": "Not specified",
     "url": "https://job-boards.greenhouse.io/oscar/jobs/8204769"
+  },
+  {
+    "company": "Oscar Health",
+    "title": "Senior Director, Enterprise Compliance",
+    "location": "Atlanta, Georgia, United States",
+    "employment_type": "full-time",
+    "category": "People & Legal",
+    "salary": "$196.733k\u2013$258.212k/yr",
+    "salary_min": 196733.0,
+    "keywords": [
+      "artificial intelligence",
+      "audit",
+      "risk management",
+      "recruiting",
+      "compliance",
+      "legal"
+    ],
+    "sponsorship_evidence": "",
+    "h1b_status": "unknown",
+    "sponsorship_label": "Not specified",
+    "url": "https://job-boards.greenhouse.io/oscar/jobs/8204771"
   },
   {
     "company": "Oscar Health",
@@ -254071,44 +254031,6 @@
   {
     "company": "Oscar Health",
     "title": "Senior Director, Network Contracting",
-    "location": "New York, New York, United States",
-    "employment_type": "full-time",
-    "category": "Other",
-    "salary": "$198.72k\u2013$260.82k/yr",
-    "salary_min": 198720.0,
-    "keywords": [
-      "artificial intelligence",
-      "recruiting",
-      "compliance",
-      "contracts"
-    ],
-    "sponsorship_evidence": "",
-    "h1b_status": "unknown",
-    "sponsorship_label": "Not specified",
-    "url": "https://job-boards.greenhouse.io/oscar/jobs/8070643"
-  },
-  {
-    "company": "Oscar Health",
-    "title": "Senior Director, Network Contracting",
-    "location": "Tempe, Arizona, United States",
-    "employment_type": "full-time",
-    "category": "Other",
-    "salary": "Not disclosed",
-    "salary_min": null,
-    "keywords": [
-      "artificial intelligence",
-      "recruiting",
-      "compliance",
-      "contracts"
-    ],
-    "sponsorship_evidence": "",
-    "h1b_status": "unknown",
-    "sponsorship_label": "Not specified",
-    "url": "https://job-boards.greenhouse.io/oscar/jobs/8113120"
-  },
-  {
-    "company": "Oscar Health",
-    "title": "Senior Director, Network Contracting",
     "location": "Atlanta, Georgia, United States",
     "employment_type": "full-time",
     "category": "Other",
@@ -254124,6 +254046,25 @@
     "h1b_status": "unknown",
     "sponsorship_label": "Not specified",
     "url": "https://job-boards.greenhouse.io/oscar/jobs/8113128"
+  },
+  {
+    "company": "Oscar Health",
+    "title": "Senior Director, Network Contracting",
+    "location": "New York, New York, United States",
+    "employment_type": "full-time",
+    "category": "Other",
+    "salary": "$198.72k\u2013$260.82k/yr",
+    "salary_min": 198720.0,
+    "keywords": [
+      "artificial intelligence",
+      "recruiting",
+      "compliance",
+      "contracts"
+    ],
+    "sponsorship_evidence": "",
+    "h1b_status": "unknown",
+    "sponsorship_label": "Not specified",
+    "url": "https://job-boards.greenhouse.io/oscar/jobs/8070643"
   },
   {
     "company": "Oscar Health",
@@ -254146,22 +254087,22 @@
   },
   {
     "company": "Oscar Health",
-    "title": "Senior Director, Strategic Finance & Enterprise Planning",
-    "location": "Atlanta, Georgia, United States",
+    "title": "Senior Director, Network Contracting",
+    "location": "Tempe, Arizona, United States",
     "employment_type": "full-time",
-    "category": "Finance & Accounting",
-    "salary": "$196.733k\u2013$258.212k/yr",
-    "salary_min": 196733.0,
+    "category": "Other",
+    "salary": "Not disclosed",
+    "salary_min": null,
     "keywords": [
       "artificial intelligence",
-      "financial modeling",
       "recruiting",
-      "compliance"
+      "compliance",
+      "contracts"
     ],
     "sponsorship_evidence": "",
     "h1b_status": "unknown",
     "sponsorship_label": "Not specified",
-    "url": "https://job-boards.greenhouse.io/oscar/jobs/8232870"
+    "url": "https://job-boards.greenhouse.io/oscar/jobs/8113120"
   },
   {
     "company": "Oscar Health",
@@ -254185,25 +254126,6 @@
   {
     "company": "Oscar Health",
     "title": "Senior Director, Strategic Finance & Enterprise Planning",
-    "location": "Tempe, Arizona, United States",
-    "employment_type": "full-time",
-    "category": "Finance & Accounting",
-    "salary": "$258.212k/yr",
-    "salary_min": 258212.0,
-    "keywords": [
-      "artificial intelligence",
-      "financial modeling",
-      "recruiting",
-      "compliance"
-    ],
-    "sponsorship_evidence": "",
-    "h1b_status": "unknown",
-    "sponsorship_label": "Not specified",
-    "url": "https://job-boards.greenhouse.io/oscar/jobs/8232864"
-  },
-  {
-    "company": "Oscar Health",
-    "title": "Senior Director, Strategic Finance & Enterprise Planning",
     "location": "New York, New York, United States",
     "employment_type": "full-time",
     "category": "Finance & Accounting",
@@ -254219,6 +254141,44 @@
     "h1b_status": "unknown",
     "sponsorship_label": "Not specified",
     "url": "https://job-boards.greenhouse.io/oscar/jobs/8224484"
+  },
+  {
+    "company": "Oscar Health",
+    "title": "Senior Director, Strategic Finance & Enterprise Planning",
+    "location": "Atlanta, Georgia, United States",
+    "employment_type": "full-time",
+    "category": "Finance & Accounting",
+    "salary": "$196.733k\u2013$258.212k/yr",
+    "salary_min": 196733.0,
+    "keywords": [
+      "artificial intelligence",
+      "financial modeling",
+      "recruiting",
+      "compliance"
+    ],
+    "sponsorship_evidence": "",
+    "h1b_status": "unknown",
+    "sponsorship_label": "Not specified",
+    "url": "https://job-boards.greenhouse.io/oscar/jobs/8232870"
+  },
+  {
+    "company": "Oscar Health",
+    "title": "Senior Director, Strategic Finance & Enterprise Planning",
+    "location": "Tempe, Arizona, United States",
+    "employment_type": "full-time",
+    "category": "Finance & Accounting",
+    "salary": "$258.212k/yr",
+    "salary_min": 258212.0,
+    "keywords": [
+      "artificial intelligence",
+      "financial modeling",
+      "recruiting",
+      "compliance"
+    ],
+    "sponsorship_evidence": "",
+    "h1b_status": "unknown",
+    "sponsorship_label": "Not specified",
+    "url": "https://job-boards.greenhouse.io/oscar/jobs/8232864"
   },
   {
     "company": "Oscar Health",
@@ -254481,28 +254441,6 @@
   {
     "company": "Oscar Health",
     "title": "Senior Software Engineer, Backend",
-    "location": "Los Angeles, California, United States",
-    "employment_type": "full-time",
-    "category": "Software & IT",
-    "salary": "$158.4k\u2013$207.9k/yr",
-    "salary_min": 158400.0,
-    "keywords": [
-      "Python",
-      "Go",
-      "Kubernetes",
-      "artificial intelligence",
-      "recruiting",
-      "compliance",
-      "legal"
-    ],
-    "sponsorship_evidence": "",
-    "h1b_status": "unknown",
-    "sponsorship_label": "Not specified",
-    "url": "https://job-boards.greenhouse.io/oscar/jobs/7205649"
-  },
-  {
-    "company": "Oscar Health",
-    "title": "Senior Software Engineer, Backend",
     "location": "New York, New York, United States",
     "employment_type": "full-time",
     "category": "Software & IT",
@@ -254525,6 +254463,28 @@
   {
     "company": "Oscar Health",
     "title": "Senior Software Engineer, Backend",
+    "location": "Los Angeles, California, United States",
+    "employment_type": "full-time",
+    "category": "Software & IT",
+    "salary": "$158.4k\u2013$207.9k/yr",
+    "salary_min": 158400.0,
+    "keywords": [
+      "Python",
+      "Go",
+      "Kubernetes",
+      "artificial intelligence",
+      "recruiting",
+      "compliance",
+      "legal"
+    ],
+    "sponsorship_evidence": "",
+    "h1b_status": "unknown",
+    "sponsorship_label": "Not specified",
+    "url": "https://job-boards.greenhouse.io/oscar/jobs/7205649"
+  },
+  {
+    "company": "Oscar Health",
+    "title": "Senior Software Engineer, Backend",
     "location": "Tempe, Arizona, United States",
     "employment_type": "full-time",
     "category": "Software & IT",
@@ -254543,6 +254503,52 @@
     "h1b_status": "unknown",
     "sponsorship_label": "Not specified",
     "url": "https://job-boards.greenhouse.io/oscar/jobs/7205654"
+  },
+  {
+    "company": "Oscar Health",
+    "title": "Senior Software Engineer, Cloud Infrastructure / SRE",
+    "location": "Boston, Massachusetts, United States",
+    "employment_type": "full-time",
+    "category": "Software & IT",
+    "salary": "$180.504k\u2013$236.911k/yr",
+    "salary_min": 180504.0,
+    "keywords": [
+      "AWS",
+      "GCP",
+      "Kubernetes",
+      "Terraform",
+      "artificial intelligence",
+      "recruiting",
+      "compliance",
+      "legal"
+    ],
+    "sponsorship_evidence": "",
+    "h1b_status": "unknown",
+    "sponsorship_label": "Not specified",
+    "url": "https://job-boards.greenhouse.io/oscar/jobs/7573018"
+  },
+  {
+    "company": "Oscar Health",
+    "title": "Senior Software Engineer, Cloud Infrastructure / SRE",
+    "location": "New York, New York, United States",
+    "employment_type": "full-time",
+    "category": "Software & IT",
+    "salary": "$180.504k\u2013$236.911k/yr",
+    "salary_min": 180504.0,
+    "keywords": [
+      "AWS",
+      "GCP",
+      "Kubernetes",
+      "Terraform",
+      "artificial intelligence",
+      "recruiting",
+      "compliance",
+      "legal"
+    ],
+    "sponsorship_evidence": "",
+    "h1b_status": "unknown",
+    "sponsorship_label": "Not specified",
+    "url": "https://job-boards.greenhouse.io/oscar/jobs/7572045"
   },
   {
     "company": "Oscar Health",
@@ -254593,29 +254599,6 @@
   {
     "company": "Oscar Health",
     "title": "Senior Software Engineer, Cloud Infrastructure / SRE",
-    "location": "Boston, Massachusetts, United States",
-    "employment_type": "full-time",
-    "category": "Software & IT",
-    "salary": "$180.504k\u2013$236.911k/yr",
-    "salary_min": 180504.0,
-    "keywords": [
-      "AWS",
-      "GCP",
-      "Kubernetes",
-      "Terraform",
-      "artificial intelligence",
-      "recruiting",
-      "compliance",
-      "legal"
-    ],
-    "sponsorship_evidence": "",
-    "h1b_status": "unknown",
-    "sponsorship_label": "Not specified",
-    "url": "https://job-boards.greenhouse.io/oscar/jobs/7573018"
-  },
-  {
-    "company": "Oscar Health",
-    "title": "Senior Software Engineer, Cloud Infrastructure / SRE",
     "location": "Tempe, Arizona, United States",
     "employment_type": "full-time",
     "category": "Software & IT",
@@ -254635,29 +254618,6 @@
     "h1b_status": "unknown",
     "sponsorship_label": "Not specified",
     "url": "https://job-boards.greenhouse.io/oscar/jobs/7573016"
-  },
-  {
-    "company": "Oscar Health",
-    "title": "Senior Software Engineer, Cloud Infrastructure / SRE",
-    "location": "New York, New York, United States",
-    "employment_type": "full-time",
-    "category": "Software & IT",
-    "salary": "$180.504k\u2013$236.911k/yr",
-    "salary_min": 180504.0,
-    "keywords": [
-      "AWS",
-      "GCP",
-      "Kubernetes",
-      "Terraform",
-      "artificial intelligence",
-      "recruiting",
-      "compliance",
-      "legal"
-    ],
-    "sponsorship_evidence": "",
-    "h1b_status": "unknown",
-    "sponsorship_label": "Not specified",
-    "url": "https://job-boards.greenhouse.io/oscar/jobs/7572045"
   },
   {
     "company": "Oscar Health",
@@ -254685,25 +254645,6 @@
   {
     "company": "Oscar Health",
     "title": "Senior Specialist, Process Improvement",
-    "location": "Atlanta, Georgia, United States",
-    "employment_type": "full-time",
-    "category": "Other",
-    "salary": "Not disclosed",
-    "salary_min": null,
-    "keywords": [
-      "artificial intelligence",
-      "recruiting",
-      "compliance",
-      "legal"
-    ],
-    "sponsorship_evidence": "",
-    "h1b_status": "unknown",
-    "sponsorship_label": "Not specified",
-    "url": "https://job-boards.greenhouse.io/oscar/jobs/8120537"
-  },
-  {
-    "company": "Oscar Health",
-    "title": "Senior Specialist, Process Improvement",
     "location": "Dallas, Texas, United States",
     "employment_type": "full-time",
     "category": "Other",
@@ -254719,6 +254660,25 @@
     "h1b_status": "unknown",
     "sponsorship_label": "Not specified",
     "url": "https://job-boards.greenhouse.io/oscar/jobs/8120540"
+  },
+  {
+    "company": "Oscar Health",
+    "title": "Senior Specialist, Process Improvement",
+    "location": "New York, New York, United States",
+    "employment_type": "full-time",
+    "category": "Other",
+    "salary": "$75.348k\u2013$98.8942k/yr",
+    "salary_min": 75348.0,
+    "keywords": [
+      "artificial intelligence",
+      "recruiting",
+      "compliance",
+      "legal"
+    ],
+    "sponsorship_evidence": "",
+    "h1b_status": "unknown",
+    "sponsorship_label": "Not specified",
+    "url": "https://job-boards.greenhouse.io/oscar/jobs/8107488"
   },
   {
     "company": "Oscar Health",
@@ -254742,11 +254702,11 @@
   {
     "company": "Oscar Health",
     "title": "Senior Specialist, Process Improvement",
-    "location": "New York, New York, United States",
+    "location": "Atlanta, Georgia, United States",
     "employment_type": "full-time",
     "category": "Other",
-    "salary": "$75.348k\u2013$98.8942k/yr",
-    "salary_min": 75348.0,
+    "salary": "Not disclosed",
+    "salary_min": null,
     "keywords": [
       "artificial intelligence",
       "recruiting",
@@ -254756,7 +254716,53 @@
     "sponsorship_evidence": "",
     "h1b_status": "unknown",
     "sponsorship_label": "Not specified",
-    "url": "https://job-boards.greenhouse.io/oscar/jobs/8107488"
+    "url": "https://job-boards.greenhouse.io/oscar/jobs/8120537"
+  },
+  {
+    "company": "Oscar Health",
+    "title": "Senior Tax Accountant",
+    "location": "Tempe, Arizona, United States",
+    "employment_type": "full-time",
+    "category": "Finance & Accounting",
+    "salary": "$87k\u2013$114k/yr",
+    "salary_min": 87000.0,
+    "keywords": [
+      "artificial intelligence",
+      "accounting",
+      "audit",
+      "tax",
+      "sales",
+      "recruiting",
+      "compliance",
+      "legal"
+    ],
+    "sponsorship_evidence": "",
+    "h1b_status": "unknown",
+    "sponsorship_label": "Not specified",
+    "url": "https://job-boards.greenhouse.io/oscar/jobs/7833003"
+  },
+  {
+    "company": "Oscar Health",
+    "title": "Senior Tax Accountant",
+    "location": "Dallas, Texas, United States",
+    "employment_type": "full-time",
+    "category": "Finance & Accounting",
+    "salary": "$87k\u2013$114k/yr",
+    "salary_min": 87000.0,
+    "keywords": [
+      "artificial intelligence",
+      "accounting",
+      "audit",
+      "tax",
+      "sales",
+      "recruiting",
+      "compliance",
+      "legal"
+    ],
+    "sponsorship_evidence": "",
+    "h1b_status": "unknown",
+    "sponsorship_label": "Not specified",
+    "url": "https://job-boards.greenhouse.io/oscar/jobs/7833017"
   },
   {
     "company": "Oscar Health",
@@ -254803,52 +254809,6 @@
     "h1b_status": "unknown",
     "sponsorship_label": "Not specified",
     "url": "https://job-boards.greenhouse.io/oscar/jobs/7762241"
-  },
-  {
-    "company": "Oscar Health",
-    "title": "Senior Tax Accountant",
-    "location": "Dallas, Texas, United States",
-    "employment_type": "full-time",
-    "category": "Finance & Accounting",
-    "salary": "$87k\u2013$114k/yr",
-    "salary_min": 87000.0,
-    "keywords": [
-      "artificial intelligence",
-      "accounting",
-      "audit",
-      "tax",
-      "sales",
-      "recruiting",
-      "compliance",
-      "legal"
-    ],
-    "sponsorship_evidence": "",
-    "h1b_status": "unknown",
-    "sponsorship_label": "Not specified",
-    "url": "https://job-boards.greenhouse.io/oscar/jobs/7833017"
-  },
-  {
-    "company": "Oscar Health",
-    "title": "Senior Tax Accountant",
-    "location": "Tempe, Arizona, United States",
-    "employment_type": "full-time",
-    "category": "Finance & Accounting",
-    "salary": "$87k\u2013$114k/yr",
-    "salary_min": 87000.0,
-    "keywords": [
-      "artificial intelligence",
-      "accounting",
-      "audit",
-      "tax",
-      "sales",
-      "recruiting",
-      "compliance",
-      "legal"
-    ],
-    "sponsorship_evidence": "",
-    "h1b_status": "unknown",
-    "sponsorship_label": "Not specified",
-    "url": "https://job-boards.greenhouse.io/oscar/jobs/7833003"
   },
   {
     "company": "Oscar Health",
@@ -254915,25 +254875,6 @@
   {
     "company": "Oscar Health",
     "title": "Staff Product Manager",
-    "location": "Los Angeles, California, United States",
-    "employment_type": "full-time",
-    "category": "Product & Design",
-    "salary": "$180.504k\u2013$236.911k/yr",
-    "salary_min": 180504.0,
-    "keywords": [
-      "SQL",
-      "artificial intelligence",
-      "recruiting",
-      "compliance"
-    ],
-    "sponsorship_evidence": "",
-    "h1b_status": "unknown",
-    "sponsorship_label": "Not specified",
-    "url": "https://job-boards.greenhouse.io/oscar/jobs/7921616"
-  },
-  {
-    "company": "Oscar Health",
-    "title": "Staff Product Manager",
     "location": "New York, New York, United States",
     "employment_type": "full-time",
     "category": "Product & Design",
@@ -254977,6 +254918,25 @@
   },
   {
     "company": "Oscar Health",
+    "title": "Staff Product Manager",
+    "location": "Los Angeles, California, United States",
+    "employment_type": "full-time",
+    "category": "Product & Design",
+    "salary": "$180.504k\u2013$236.911k/yr",
+    "salary_min": 180504.0,
+    "keywords": [
+      "SQL",
+      "artificial intelligence",
+      "recruiting",
+      "compliance"
+    ],
+    "sponsorship_evidence": "",
+    "h1b_status": "unknown",
+    "sponsorship_label": "Not specified",
+    "url": "https://job-boards.greenhouse.io/oscar/jobs/7921616"
+  },
+  {
+    "company": "Oscar Health",
     "title": "Staff Security Engineer, GRC",
     "location": "New York, New York, United States",
     "employment_type": "full-time",
@@ -254997,6 +254957,25 @@
     "h1b_status": "unknown",
     "sponsorship_label": "Not specified",
     "url": "https://job-boards.greenhouse.io/oscar/jobs/8131843"
+  },
+  {
+    "company": "Oscar Health",
+    "title": "Staff Software Engineer, Fullstack",
+    "location": "New York, New York, United States",
+    "employment_type": "full-time",
+    "category": "Software & IT",
+    "salary": "$192k\u2013$252k/yr",
+    "salary_min": 192000.0,
+    "keywords": [
+      "artificial intelligence",
+      "recruiting",
+      "compliance",
+      "legal"
+    ],
+    "sponsorship_evidence": "",
+    "h1b_status": "unknown",
+    "sponsorship_label": "Not specified",
+    "url": "https://job-boards.greenhouse.io/oscar/jobs/6623974"
   },
   {
     "company": "Oscar Health",
@@ -255035,25 +255014,6 @@
     "h1b_status": "unknown",
     "sponsorship_label": "Not specified",
     "url": "https://job-boards.greenhouse.io/oscar/jobs/7205683"
-  },
-  {
-    "company": "Oscar Health",
-    "title": "Staff Software Engineer, Fullstack",
-    "location": "New York, New York, United States",
-    "employment_type": "full-time",
-    "category": "Software & IT",
-    "salary": "$192k\u2013$252k/yr",
-    "salary_min": 192000.0,
-    "keywords": [
-      "artificial intelligence",
-      "recruiting",
-      "compliance",
-      "legal"
-    ],
-    "sponsorship_evidence": "",
-    "h1b_status": "unknown",
-    "sponsorship_label": "Not specified",
-    "url": "https://job-boards.greenhouse.io/oscar/jobs/6623974"
   },
   {
     "company": "Oscar Health",

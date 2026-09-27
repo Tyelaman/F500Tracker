@@ -1,12 +1,12 @@
 # F500Tracker internships
 
-Last updated: September 27, 2026 at 17:09 UTC
+Last updated: September 27, 2026 at 21:32 UTC
 
-Current internships: 595
+Current internships: 596
 
 ## Categories
 
-[Software & IT (45)](#software-it) · [Data & AI (15)](#data-ai) · [Product & Design (1)](#product-design) · [Engineering (51)](#engineering) · [Finance & Accounting (14)](#finance-accounting) · [Sales & Marketing (16)](#sales-marketing) · [Operations & Supply Chain (39)](#operations-supply-chain) · [People & Legal (5)](#people-legal) · [Other (409)](#other)
+[Software & IT (45)](#software-it) · [Data & AI (16)](#data-ai) · [Product & Design (1)](#product-design) · [Engineering (51)](#engineering) · [Finance & Accounting (14)](#finance-accounting) · [Sales & Marketing (16)](#sales-marketing) · [Operations & Supply Chain (39)](#operations-supply-chain) · [People & Legal (5)](#people-legal) · [Other (409)](#other)
 
 <a id="software-it"></a>
 
@@ -68,7 +68,7 @@ Open positions: 45
 
 ## Data & AI
 
-Open positions: 15
+Open positions: 16
 
 | Rank | Company | Position | Location | Category | Salary | Keywords | Sponsorship | Apply |
 |---:|---|---|---|---|---|---|---|---|
@@ -77,6 +77,7 @@ Open positions: 15
 | 125 | Micron Technology | Intern - Marketing Analytics | Meridian, ID | Data & AI | Not disclosed | artificial intelligence · data science · analytics · Excel · CRM | Not specified | [Apply](https://micron.wd1.myworkdayjobs.com/en-US/External/job/Meridian-ID/Intern---Marketing-Analytics_JR109458) |
 | 26 | Fannie Mae | Campus – Finance Analytics Intern (Analytics & Modeling Program) | Washington, DC | Data & AI | Not disclosed | SQL · artificial intelligence · analytics · risk management | No sponsorship for this position | [Apply](https://fanniemae.wd1.myworkdayjobs.com/en-US/FannieMaeCareers/job/Washington-DC/Campus---Finance-Analytics-Intern--Analytics---Modeling-Program-_JR2814) |
 | 26 | Fannie Mae | Campus – Data Science Intern (Analytics & Modeling Program) | Washington, DC | Data & AI | Not disclosed | Python · SQL · artificial intelligence · data science · analytics | No sponsorship for this position | [Apply](https://fanniemae.wd1.myworkdayjobs.com/en-US/FannieMaeCareers/job/Washington-DC/Campus---Data-Science-Intern--Analytics---Modeling-Program-_JR2815) |
+| 44 | Walt Disney | Data Analyst Intern, Global Security Control Center, Spring 2027 | Burbank, CA, USA | Data & AI | $32/hr | Python · SQL · data science · analytics · Excel | Not specified | [Apply](https://disney.wd5.myworkdayjobs.com/en-US/disneycareer/job/Burbank-CA-USA/Data-Analyst-Intern--Global-Security-Control-Center--Spring-2027027_10160010) |
 | 44 | Walt Disney | Consumer Insight Data Analyst Intern, Spring 2027 | Celebration, FL, USA | Data & AI | $32/hr | data science · analytics · Excel · sales | Not specified | [Apply](https://disney.wd5.myworkdayjobs.com/en-US/disneycareer/job/Celebration-FL-USA/Consumer-Insight-Data-Analyst-Intern--Spring-2027_10159634-2) |
 | 45 | Johnson & Johnson | Advanced Process Analytics Co-op | Titusville, New Jersey, United States of America | Data & AI | $23.5/hr | Python · machine learning · data science · analytics | Not specified | [Apply](https://jj.wd5.myworkdayjobs.com/en-US/JJ/job/Titusville-New-Jersey-United-States-of-America/Advanced-Process-Analytics-Co-op_R-098443) |
 | 45 | Johnson & Johnson | Production Data Analyst Co-Op | Danvers, Massachusetts, United States of America | Data & AI | $23.5/hr | analytics · supply chain | Not specified | [Apply](https://jj.wd5.myworkdayjobs.com/en-US/JJ/job/Danvers-Massachusetts-United-States-of-America/Production-Data-Analyst-Co-Op_R-098904) |
