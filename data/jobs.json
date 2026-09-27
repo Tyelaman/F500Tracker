@@ -332,9 +332,9 @@
       "compliance",
       "legal"
     ],
-    "updated_at": "2026-09-25T20:55:34-04:00",
+    "updated_at": "2026-09-26T21:10:52-04:00",
     "first_seen_at": "2026-09-02T21:21:26.794344+00:00",
-    "enriched_at": "2026-09-26T04:56:49.868656+00:00"
+    "enriched_at": "2026-09-27T05:17:36.191091+00:00"
   },
   {
     "company": "Coupang",
@@ -440,9 +440,9 @@
       "tax",
       "recruiting"
     ],
-    "updated_at": "2026-09-25T20:55:42-04:00",
+    "updated_at": "2026-09-26T21:11:02-04:00",
     "first_seen_at": "2026-09-03T11:25:37.195539+00:00",
-    "enriched_at": "2026-09-26T04:56:49.883156+00:00"
+    "enriched_at": "2026-09-27T05:17:36.205609+00:00"
   },
   {
     "company": "Coupang",
@@ -470,9 +470,9 @@
       "tax",
       "recruiting"
     ],
-    "updated_at": "2026-09-25T20:55:31-04:00",
+    "updated_at": "2026-09-26T21:10:50-04:00",
     "first_seen_at": "2026-08-28T11:33:39.230906+00:00",
-    "enriched_at": "2026-09-26T04:56:49.900611+00:00"
+    "enriched_at": "2026-09-27T05:17:36.223222+00:00"
   },
   {
     "company": "Coupang",
@@ -499,9 +499,9 @@
       "tax",
       "recruiting"
     ],
-    "updated_at": "2026-09-25T20:55:28-04:00",
+    "updated_at": "2026-09-26T21:10:46-04:00",
     "first_seen_at": "2026-08-25T02:04:19.043316+00:00",
-    "enriched_at": "2026-09-26T04:56:49.917260+00:00"
+    "enriched_at": "2026-09-27T05:17:36.240307+00:00"
   },
   {
     "company": "Coupang",
@@ -1552,9 +1552,9 @@
       "electrical engineering",
       "recruiting"
     ],
-    "updated_at": "2026-09-25T20:55:37-04:00",
+    "updated_at": "2026-09-26T21:10:56-04:00",
     "first_seen_at": "2026-09-24T17:24:42.354131+00:00",
-    "enriched_at": "2026-09-26T04:56:49.937118+00:00"
+    "enriched_at": "2026-09-27T05:17:36.260776+00:00"
   },
   {
     "company": "Coupang",
@@ -1746,9 +1746,9 @@
       "sales",
       "recruiting"
     ],
-    "updated_at": "2026-09-25T20:55:21-04:00",
+    "updated_at": "2026-09-26T21:10:38-04:00",
     "first_seen_at": "2026-08-15T02:30:47.614898+00:00",
-    "enriched_at": "2026-09-26T04:56:49.954741+00:00"
+    "enriched_at": "2026-09-27T05:17:36.278671+00:00"
   },
   {
     "company": "Coupang",
@@ -1873,9 +1873,9 @@
       "logistics",
       "recruiting"
     ],
-    "updated_at": "2026-09-25T20:55:25-04:00",
+    "updated_at": "2026-09-26T21:10:43-04:00",
     "first_seen_at": "2026-08-15T02:30:47.614898+00:00",
-    "enriched_at": "2026-09-26T04:56:49.970385+00:00"
+    "enriched_at": "2026-09-27T05:17:36.294733+00:00"
   },
   {
     "company": "Block",
@@ -22748,7 +22748,7 @@
     ],
     "updated_at": "",
     "first_seen_at": "2026-09-24T17:24:42.354131+00:00",
-    "enriched_at": "2026-09-20T04:53:09.132263+00:00"
+    "enriched_at": "2026-09-27T05:17:43.470941+00:00"
   },
   {
     "company": "NVIDIA",
@@ -28965,7 +28965,7 @@
     ],
     "updated_at": "",
     "first_seen_at": "2026-09-20T05:00:06.460185+00:00",
-    "enriched_at": "2026-09-20T04:53:36.468702+00:00"
+    "enriched_at": "2026-09-27T05:18:12.519429+00:00"
   },
   {
     "company": "Capital One",
@@ -36491,6 +36491,31 @@
   {
     "company": "Northrop Grumman",
     "fortune_rank": 112,
+    "title": "MBSE Model Governance Liaison - Systems Engineer/Principal Systems Engineer",
+    "location": "United States-Florida-Melbourne",
+    "url": "https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-Florida-Melbourne/MBSE-Model-Governance-Liaison---Systems-Engineer-Principal-Systems-Engineer_R10251789",
+    "source": "workday",
+    "external_id": "/job/United-States-Florida-Melbourne/MBSE-Model-Governance-Liaison---Systems-Engineer-Principal-Systems-Engineer_R10251789",
+    "employment_type": "full-time",
+    "category": "Software & IT",
+    "h1b_status": "unknown",
+    "sponsorship_evidence": "",
+    "h1b_mentioned": false,
+    "salary_min": null,
+    "salary_max": null,
+    "salary_currency": "",
+    "salary_period": "",
+    "salary_text": "",
+    "keywords": [
+      "compliance"
+    ],
+    "updated_at": "",
+    "first_seen_at": "2026-09-27T05:28:47.212288+00:00",
+    "enriched_at": "2026-09-27T05:19:17.014686+00:00"
+  },
+  {
+    "company": "Northrop Grumman",
+    "fortune_rank": 112,
     "title": "Test Engineer TS SCI",
     "location": "United States-Virginia-Stafford",
     "url": "https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-Virginia-Stafford/test-Engineer-TS-SCI-CI-Poly_R10253071",
@@ -37372,29 +37397,6 @@
     "updated_at": "",
     "first_seen_at": "2026-09-25T05:10:09.019400+00:00",
     "enriched_at": "2026-09-25T04:58:47.176866+00:00"
-  },
-  {
-    "company": "Northrop Grumman",
-    "fortune_rank": 112,
-    "title": "2027 Associate Propulsion Engineer - Palm Beach Gardens FL",
-    "location": "United States-Florida-Palm Beach Gardens",
-    "url": "https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-Florida-Palm-Beach-Gardens/XMLNAME-2027-Associate-Propulsion-Engineer---Palm-Beach-Gardens-FL_R10253058",
-    "source": "workday",
-    "external_id": "/job/United-States-Florida-Palm-Beach-Gardens/XMLNAME-2027-Associate-Propulsion-Engineer---Palm-Beach-Gardens-FL_R10253058",
-    "employment_type": "full-time",
-    "category": "Other",
-    "h1b_status": "unknown",
-    "sponsorship_evidence": "",
-    "h1b_mentioned": false,
-    "salary_min": null,
-    "salary_max": null,
-    "salary_currency": "",
-    "salary_period": "",
-    "salary_text": "",
-    "keywords": [],
-    "updated_at": "",
-    "first_seen_at": "2026-09-25T05:10:09.019400+00:00",
-    "enriched_at": "2026-09-25T04:58:47.187919+00:00"
   },
   {
     "company": "Northrop Grumman",
@@ -39748,38 +39750,6 @@
   {
     "company": "Northrop Grumman",
     "fortune_rank": 112,
-    "title": "Principal Software Engineer  - Full-stack application developement",
-    "location": "United States-Ohio-Cincinnati",
-    "url": "https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-Ohio-Cincinnati/Principal-Software-Engineer----Full-stack-application-developement_R10252897",
-    "source": "workday",
-    "external_id": "/job/United-States-Ohio-Cincinnati/Principal-Software-Engineer----Full-stack-application-developement_R10252897",
-    "employment_type": "full-time",
-    "category": "Software & IT",
-    "h1b_status": "unknown",
-    "sponsorship_evidence": "",
-    "h1b_mentioned": false,
-    "salary_min": null,
-    "salary_max": null,
-    "salary_currency": "",
-    "salary_period": "",
-    "salary_text": "",
-    "keywords": [
-      "Python",
-      "JavaScript",
-      "TypeScript",
-      "React",
-      "AWS",
-      "Azure",
-      "Docker",
-      "analytics"
-    ],
-    "updated_at": "",
-    "first_seen_at": "2026-09-24T21:45:16.125443+00:00",
-    "enriched_at": "2026-09-24T21:32:45.455806+00:00"
-  },
-  {
-    "company": "Northrop Grumman",
-    "fortune_rank": 112,
     "title": "Administrative Assistant 3",
     "location": "United States-Georgia-Warner Robins",
     "url": "https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-Georgia-Warner-Robins/Administrative-Assistant-3_R10252913",
@@ -41871,32 +41841,6 @@
     "updated_at": "",
     "first_seen_at": "2026-09-18T16:37:42.131228+00:00",
     "enriched_at": "2026-09-25T17:12:12.497642+00:00"
-  },
-  {
-    "company": "Northrop Grumman",
-    "fortune_rank": 112,
-    "title": "2027 Supply Chain Intern - Annapolis MD",
-    "location": "United States-Maryland-Annapolis",
-    "url": "https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-Maryland-Annapolis/XMLNAME-2027-Supply-Chain-Intern---Annapolis-MD_R10252030",
-    "source": "workday",
-    "external_id": "/job/United-States-Maryland-Annapolis/XMLNAME-2027-Supply-Chain-Intern---Annapolis-MD_R10252030",
-    "employment_type": "internship",
-    "category": "Operations & Supply Chain",
-    "h1b_status": "unknown",
-    "sponsorship_evidence": "",
-    "h1b_mentioned": false,
-    "salary_min": 18.25,
-    "salary_max": 33.0,
-    "salary_currency": "USD",
-    "salary_period": "hour",
-    "salary_text": "$18.25 to $33.00 per hour",
-    "keywords": [
-      "Excel",
-      "supply chain"
-    ],
-    "updated_at": "",
-    "first_seen_at": "2026-09-24T17:24:42.354131+00:00",
-    "enriched_at": "2026-09-24T17:12:26.590605+00:00"
   },
   {
     "company": "Northrop Grumman",
@@ -45383,33 +45327,6 @@
   {
     "company": "Northrop Grumman",
     "fortune_rank": 112,
-    "title": "2027 Associate Supply Chain Planning Specialist - Pathways Program - Baltimore MD",
-    "location": "United States-Maryland-Baltimore",
-    "url": "https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-Maryland-Baltimore/XMLNAME-2027-Associate-Supply-Chain-Planning-Specialist---Pathways-Program---Baltimore-MD_R10252504-1",
-    "source": "workday",
-    "external_id": "/job/United-States-Maryland-Baltimore/XMLNAME-2027-Associate-Supply-Chain-Planning-Specialist---Pathways-Program---Baltimore-MD_R10252504-1",
-    "employment_type": "full-time",
-    "category": "Operations & Supply Chain",
-    "h1b_status": "unknown",
-    "sponsorship_evidence": "",
-    "h1b_mentioned": false,
-    "salary_min": null,
-    "salary_max": null,
-    "salary_currency": "",
-    "salary_period": "",
-    "salary_text": "",
-    "keywords": [
-      "Excel",
-      "supply chain",
-      "procurement"
-    ],
-    "updated_at": "",
-    "first_seen_at": "2026-09-23T17:12:38.935699+00:00",
-    "enriched_at": "2026-09-23T16:59:20.250024+00:00"
-  },
-  {
-    "company": "Northrop Grumman",
-    "fortune_rank": 112,
     "title": "Manager Manufacturing Engineering 3",
     "location": "United States-California-Palmdale",
     "url": "https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-California-Palmdale/Manager-Manufacturing-Engineering-3_R10251056",
@@ -45857,33 +45774,6 @@
     "updated_at": "",
     "first_seen_at": "2026-09-23T17:12:38.935699+00:00",
     "enriched_at": "2026-09-23T16:59:20.477753+00:00"
-  },
-  {
-    "company": "Northrop Grumman",
-    "fortune_rank": 112,
-    "title": "2027 Associate Logistics Planner/Logistics Planner",
-    "location": "United States-Florida-Melbourne",
-    "url": "https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-Florida-Melbourne/XMLNAME-2027-Associate-Logistics-Planner-Logistics-Planner_R10246679",
-    "source": "workday",
-    "external_id": "/job/United-States-Florida-Melbourne/XMLNAME-2027-Associate-Logistics-Planner-Logistics-Planner_R10246679",
-    "employment_type": "full-time",
-    "category": "Operations & Supply Chain",
-    "h1b_status": "unknown",
-    "sponsorship_evidence": "",
-    "h1b_mentioned": false,
-    "salary_min": null,
-    "salary_max": null,
-    "salary_currency": "",
-    "salary_period": "",
-    "salary_text": "",
-    "keywords": [
-      "supply chain",
-      "logistics",
-      "compliance"
-    ],
-    "updated_at": "",
-    "first_seen_at": "2026-09-23T17:12:38.935699+00:00",
-    "enriched_at": "2026-09-23T16:59:20.489869+00:00"
   },
   {
     "company": "Northrop Grumman",
@@ -47138,75 +47028,6 @@
   {
     "company": "Northrop Grumman",
     "fortune_rank": 112,
-    "title": "2027 Engineering Intern - Plymouth MN",
-    "location": "United States-Minnesota-Plymouth",
-    "url": "https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-Minnesota-Plymouth/XMLNAME-2027-Engineering-Intern---Plymouth-MN_R10252413",
-    "source": "workday",
-    "external_id": "/job/United-States-Minnesota-Plymouth/XMLNAME-2027-Engineering-Intern---Plymouth-MN_R10252413",
-    "employment_type": "internship",
-    "category": "Other",
-    "h1b_status": "unknown",
-    "sponsorship_evidence": "",
-    "h1b_mentioned": false,
-    "salary_min": null,
-    "salary_max": null,
-    "salary_currency": "",
-    "salary_period": "",
-    "salary_text": "",
-    "keywords": [],
-    "updated_at": "",
-    "first_seen_at": "2026-09-23T04:57:12.732337+00:00",
-    "enriched_at": "2026-09-23T04:45:59.113084+00:00"
-  },
-  {
-    "company": "Northrop Grumman",
-    "fortune_rank": 112,
-    "title": "2027 Engineering Intern - Plymouth MN",
-    "location": "United States-Minnesota-Plymouth",
-    "url": "https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-Minnesota-Plymouth/XMLNAME-2027-Engineering-Intern---Plymouth-MN_R10252412",
-    "source": "workday",
-    "external_id": "/job/United-States-Minnesota-Plymouth/XMLNAME-2027-Engineering-Intern---Plymouth-MN_R10252412",
-    "employment_type": "internship",
-    "category": "Other",
-    "h1b_status": "unknown",
-    "sponsorship_evidence": "",
-    "h1b_mentioned": false,
-    "salary_min": null,
-    "salary_max": null,
-    "salary_currency": "",
-    "salary_period": "",
-    "salary_text": "",
-    "keywords": [],
-    "updated_at": "",
-    "first_seen_at": "2026-09-23T04:57:12.732337+00:00",
-    "enriched_at": "2026-09-23T04:45:59.121375+00:00"
-  },
-  {
-    "company": "Northrop Grumman",
-    "fortune_rank": 112,
-    "title": "2027 Engineering Intern - Rocket Center WV",
-    "location": "United States-West Virginia-Rocket Center",
-    "url": "https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-West-Virginia-Rocket-Center/XMLNAME-2027-Engineering-Intern---Rocket-Center-WV_R10252410",
-    "source": "workday",
-    "external_id": "/job/United-States-West-Virginia-Rocket-Center/XMLNAME-2027-Engineering-Intern---Rocket-Center-WV_R10252410",
-    "employment_type": "internship",
-    "category": "Other",
-    "h1b_status": "unknown",
-    "sponsorship_evidence": "",
-    "h1b_mentioned": false,
-    "salary_min": null,
-    "salary_max": null,
-    "salary_currency": "",
-    "salary_period": "",
-    "salary_text": "",
-    "keywords": [],
-    "updated_at": "",
-    "first_seen_at": "2026-09-23T04:57:12.732337+00:00",
-    "enriched_at": "2026-09-23T04:45:59.129670+00:00"
-  },
-  {
-    "company": "Northrop Grumman",
-    "fortune_rank": 112,
     "title": "Navigation Engineer  Level 2 or Level 3",
     "location": "United States-California-San Diego",
     "url": "https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-California-San-Diego/Navigation-Engineer--Level-2-or-Level-3_R10252403",
@@ -47892,32 +47713,6 @@
   {
     "company": "Northrop Grumman",
     "fortune_rank": 112,
-    "title": "2027 Associate (Thermal) Mechanical Engineer / (Thermal) Mechanical Engineer - Hanover MD",
-    "location": "United States-Maryland-Hanover",
-    "url": "https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-Maryland-Hanover/XMLNAME-2027-Associate-Mechanical-Engineer---Mechanical-Engineer---Hanover-MD_R10251949",
-    "source": "workday",
-    "external_id": "/job/United-States-Maryland-Hanover/XMLNAME-2027-Associate-Mechanical-Engineer---Mechanical-Engineer---Hanover-MD_R10251949",
-    "employment_type": "full-time",
-    "category": "Engineering",
-    "h1b_status": "unknown",
-    "sponsorship_evidence": "",
-    "h1b_mentioned": false,
-    "salary_min": null,
-    "salary_max": null,
-    "salary_currency": "",
-    "salary_period": "",
-    "salary_text": "",
-    "keywords": [
-      "mechanical engineering",
-      "CAD"
-    ],
-    "updated_at": "",
-    "first_seen_at": "2026-09-21T22:13:37.215145+00:00",
-    "enriched_at": "2026-09-21T22:00:17.839776+00:00"
-  },
-  {
-    "company": "Northrop Grumman",
-    "fortune_rank": 112,
     "title": "Principal Environmental Engineer",
     "location": "United States-Minnesota-Elk River",
     "url": "https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-Minnesota-Elk-River/Principal-Environmental-Engineer_R10252345",
@@ -48066,31 +47861,6 @@
     "updated_at": "",
     "first_seen_at": "2026-09-22T21:32:02.842751+00:00",
     "enriched_at": "2026-09-22T21:20:15.766523+00:00"
-  },
-  {
-    "company": "Northrop Grumman",
-    "fortune_rank": 112,
-    "title": "2027 Associate Technical Editor and Writer/Technical Editor and Writer",
-    "location": "United States-Florida-Melbourne",
-    "url": "https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-Florida-Melbourne/XMLNAME-2027-Associate-Technical-Editor-and-Writer-Technical-Editor-and-Writer_R10248030",
-    "source": "workday",
-    "external_id": "/job/United-States-Florida-Melbourne/XMLNAME-2027-Associate-Technical-Editor-and-Writer-Technical-Editor-and-Writer_R10248030",
-    "employment_type": "full-time",
-    "category": "Other",
-    "h1b_status": "unknown",
-    "sponsorship_evidence": "",
-    "h1b_mentioned": false,
-    "salary_min": null,
-    "salary_max": null,
-    "salary_currency": "",
-    "salary_period": "",
-    "salary_text": "",
-    "keywords": [
-      "supply chain"
-    ],
-    "updated_at": "",
-    "first_seen_at": "2026-09-22T21:32:02.842751+00:00",
-    "enriched_at": "2026-09-22T21:20:15.774896+00:00"
   },
   {
     "company": "Northrop Grumman",
@@ -48619,31 +48389,6 @@
   {
     "company": "Northrop Grumman",
     "fortune_rank": 112,
-    "title": "Inventory Material Control Support - Level 1",
-    "location": "United States-Virginia-Sterling",
-    "url": "https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-Virginia-Sterling/Inventory-Material-Control-Support---Level-1_R10252290",
-    "source": "workday",
-    "external_id": "/job/United-States-Virginia-Sterling/Inventory-Material-Control-Support---Level-1_R10252290",
-    "employment_type": "full-time",
-    "category": "Operations & Supply Chain",
-    "h1b_status": "unknown",
-    "sponsorship_evidence": "",
-    "h1b_mentioned": false,
-    "salary_min": null,
-    "salary_max": null,
-    "salary_currency": "",
-    "salary_period": "",
-    "salary_text": "",
-    "keywords": [
-      "Excel"
-    ],
-    "updated_at": "",
-    "first_seen_at": "2026-09-22T21:32:02.842751+00:00",
-    "enriched_at": "2026-09-22T21:20:15.950972+00:00"
-  },
-  {
-    "company": "Northrop Grumman",
-    "fortune_rank": 112,
     "title": "Manager Programs 3",
     "location": "United States-Maryland-Sykesville",
     "url": "https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-Maryland-Sykesville/Manager-Programs-3_R10252200",
@@ -49112,31 +48857,6 @@
     "updated_at": "",
     "first_seen_at": "2026-09-22T17:12:50.897592+00:00",
     "enriched_at": "2026-09-22T16:59:25.548015+00:00"
-  },
-  {
-    "company": "Northrop Grumman",
-    "fortune_rank": 112,
-    "title": "2027 Business Intern - Plymouth MN",
-    "location": "United States-Minnesota-Plymouth",
-    "url": "https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-Minnesota-Plymouth/XMLNAME-2027-Business-Intern---Plymouth-MN_R10252241",
-    "source": "workday",
-    "external_id": "/job/United-States-Minnesota-Plymouth/XMLNAME-2027-Business-Intern---Plymouth-MN_R10252241",
-    "employment_type": "internship",
-    "category": "Other",
-    "h1b_status": "unknown",
-    "sponsorship_evidence": "",
-    "h1b_mentioned": false,
-    "salary_min": null,
-    "salary_max": null,
-    "salary_currency": "",
-    "salary_period": "",
-    "salary_text": "",
-    "keywords": [
-      "analytics"
-    ],
-    "updated_at": "",
-    "first_seen_at": "2026-09-22T17:12:50.897592+00:00",
-    "enriched_at": "2026-09-22T16:59:25.558839+00:00"
   },
   {
     "company": "Northrop Grumman",
@@ -56688,31 +56408,6 @@
     "updated_at": "",
     "first_seen_at": "2026-09-17T21:36:29.166729+00:00",
     "enriched_at": "2026-09-24T21:32:45.935972+00:00"
-  },
-  {
-    "company": "Northrop Grumman",
-    "fortune_rank": 112,
-    "title": "Flight Test Technician 3/4",
-    "location": "United States-North Dakota-Emerado",
-    "url": "https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-North-Dakota-Emerado/Flight-Test-Technician-3-4_R10249399-1",
-    "source": "workday",
-    "external_id": "/job/United-States-North-Dakota-Emerado/Flight-Test-Technician-3-4_R10249399-1",
-    "employment_type": "full-time",
-    "category": "Other",
-    "h1b_status": "unknown",
-    "sponsorship_evidence": "",
-    "h1b_mentioned": false,
-    "salary_min": null,
-    "salary_max": null,
-    "salary_currency": "",
-    "salary_period": "",
-    "salary_text": "",
-    "keywords": [
-      "Excel"
-    ],
-    "updated_at": "",
-    "first_seen_at": "2026-09-17T21:36:29.166729+00:00",
-    "enriched_at": "2026-09-24T21:32:45.944413+00:00"
   },
   {
     "company": "Northrop Grumman",
@@ -91420,7 +91115,7 @@
     "keywords": [],
     "updated_at": "",
     "first_seen_at": "2026-08-22T18:58:46.842216+00:00",
-    "enriched_at": "2026-09-20T04:54:40.570033+00:00"
+    "enriched_at": "2026-09-27T05:19:17.027788+00:00"
   },
   {
     "company": "Northrop Grumman",
@@ -91445,7 +91140,7 @@
     ],
     "updated_at": "",
     "first_seen_at": "2026-08-22T18:58:46.842216+00:00",
-    "enriched_at": "2026-09-20T04:54:40.579781+00:00"
+    "enriched_at": "2026-09-27T05:19:17.037719+00:00"
   },
   {
     "company": "Northrop Grumman",
@@ -91470,7 +91165,7 @@
     ],
     "updated_at": "",
     "first_seen_at": "2026-08-22T18:58:46.842216+00:00",
-    "enriched_at": "2026-09-20T04:54:40.593401+00:00"
+    "enriched_at": "2026-09-27T05:19:17.051610+00:00"
   },
   {
     "company": "Northrop Grumman",
@@ -121086,6 +120781,63 @@
   {
     "company": "Mastercard",
     "fortune_rank": 141,
+    "title": "Senior Software Engineer",
+    "location": "O'Fallon, Missouri",
+    "url": "https://mastercard.wd1.myworkdayjobs.com/en-US/CorporateCareers/job/OFallon-Missouri/Senior-Software-Engineer_R-287829",
+    "source": "workday",
+    "external_id": "/job/OFallon-Missouri/Senior-Software-Engineer_R-287829",
+    "employment_type": "full-time",
+    "category": "Software & IT",
+    "h1b_status": "unknown",
+    "sponsorship_evidence": "",
+    "h1b_mentioned": false,
+    "salary_min": null,
+    "salary_max": null,
+    "salary_currency": "",
+    "salary_period": "",
+    "salary_text": "",
+    "keywords": [
+      "Java",
+      "Docker",
+      "compliance"
+    ],
+    "updated_at": "",
+    "first_seen_at": "2026-09-27T05:28:47.212288+00:00",
+    "enriched_at": "2026-09-25T04:58:51.306380+00:00"
+  },
+  {
+    "company": "Mastercard",
+    "fortune_rank": 141,
+    "title": "Director, Platform Engineering",
+    "location": "O'Fallon, Missouri",
+    "url": "https://mastercard.wd1.myworkdayjobs.com/en-US/CorporateCareers/job/OFallon-Missouri/Director--Platform-Engineering_R-273321",
+    "source": "workday",
+    "external_id": "/job/OFallon-Missouri/Director--Platform-Engineering_R-273321",
+    "employment_type": "full-time",
+    "category": "Other",
+    "h1b_status": "unknown",
+    "sponsorship_evidence": "",
+    "h1b_mentioned": false,
+    "salary_min": null,
+    "salary_max": null,
+    "salary_currency": "",
+    "salary_period": "",
+    "salary_text": "",
+    "keywords": [
+      "Python",
+      "AWS",
+      "Azure",
+      "GCP",
+      "Terraform",
+      "compliance"
+    ],
+    "updated_at": "",
+    "first_seen_at": "2026-09-27T05:28:47.212288+00:00",
+    "enriched_at": "2026-09-27T05:19:19.035581+00:00"
+  },
+  {
+    "company": "Mastercard",
+    "fortune_rank": 141,
     "title": "Manager, Partner Success \u2013 Security Solutions",
     "location": "Atlanta, Georgia",
     "url": "https://mastercard.wd1.myworkdayjobs.com/en-US/CorporateCareers/job/Atlanta-Georgia/Manager--Partner-Success---Security-Solutions_R-291509",
@@ -144900,35 +144652,6 @@
   {
     "company": "Chevron",
     "fortune_rank": 21,
-    "title": "SAP Asset Management Solution Architect",
-    "location": "Houston, Texas, United States of America",
-    "url": "https://chevron.wd5.myworkdayjobs.com/en-US/jobs/job/Houston-Texas-United-States-of-America/SAP-Asset-Management-Solution-Architect_R000073322",
-    "source": "workday",
-    "external_id": "/job/Houston-Texas-United-States-of-America/SAP-Asset-Management-Solution-Architect_R000073322",
-    "employment_type": "full-time",
-    "category": "Other",
-    "h1b_status": "does_not_support_h1b",
-    "sponsorship_evidence": "Chevron regrets that it is unable to sponsor employment Visas or consider individuals on time-limited Visa status for this position.",
-    "h1b_mentioned": false,
-    "salary_min": null,
-    "salary_max": null,
-    "salary_currency": "",
-    "salary_period": "",
-    "salary_text": "",
-    "keywords": [
-      "Azure",
-      "analytics",
-      "mechanical engineering",
-      "electrical engineering",
-      "compliance"
-    ],
-    "updated_at": "",
-    "first_seen_at": "2026-09-08T21:24:06.836602+00:00",
-    "enriched_at": "2026-09-23T04:47:14.379015+00:00"
-  },
-  {
-    "company": "Chevron",
-    "fortune_rank": 21,
     "title": "Biodiesel Operator, Nights",
     "location": "Mason City, Iowa, United States of America",
     "url": "https://chevron.wd5.myworkdayjobs.com/en-US/jobs/job/Mason-City-Iowa-United-States-of-America/Biodiesel-Operator--Nights_R000073207",
@@ -145928,33 +145651,6 @@
   {
     "company": "Marathon Petroleum",
     "fortune_rank": 30,
-    "title": "Finance & Treasury Coordinating Analyst",
-    "location": "Findlay, Ohio",
-    "url": "https://mpc.wd1.myworkdayjobs.com/en-US/MPCCareers/job/Findlay-Ohio/Finance---Treasury-Coordinating-Analyst_00023224",
-    "source": "workday",
-    "external_id": "/job/Findlay-Ohio/Finance---Treasury-Coordinating-Analyst_00023224",
-    "employment_type": "full-time",
-    "category": "Finance & Accounting",
-    "h1b_status": "unknown",
-    "sponsorship_evidence": "",
-    "h1b_mentioned": false,
-    "salary_min": null,
-    "salary_max": null,
-    "salary_currency": "",
-    "salary_period": "",
-    "salary_text": "",
-    "keywords": [
-      "accounting",
-      "logistics",
-      "human resources"
-    ],
-    "updated_at": "",
-    "first_seen_at": "2026-09-26T05:09:48.706401+00:00",
-    "enriched_at": "2026-09-26T05:00:09.603983+00:00"
-  },
-  {
-    "company": "Marathon Petroleum",
-    "fortune_rank": 30,
     "title": "Maintenance Mechanic",
     "location": "Carlsbad, New Mexico",
     "url": "https://mpc.wd1.myworkdayjobs.com/en-US/MPCCareers/job/Carlsbad-New-Mexico/Maintenance-Mechanic_00024404",
@@ -146348,6 +146044,57 @@
     "updated_at": "",
     "first_seen_at": "2026-09-22T21:32:02.842751+00:00",
     "enriched_at": "2026-09-22T21:21:56.830864+00:00"
+  },
+  {
+    "company": "Marathon Petroleum",
+    "fortune_rank": 30,
+    "title": "Senior Commercial Sourcing Advisor - Los Angeles Refinery",
+    "location": "Carson, California",
+    "url": "https://mpc.wd1.myworkdayjobs.com/en-US/MPCCareers/job/Carson-California/Senior-Commercial-Sourcing-Advisor---Los-Angeles-Refinery_00024248",
+    "source": "workday",
+    "external_id": "/job/Carson-California/Senior-Commercial-Sourcing-Advisor---Los-Angeles-Refinery_00024248",
+    "employment_type": "full-time",
+    "category": "Other",
+    "h1b_status": "unknown",
+    "sponsorship_evidence": "",
+    "h1b_mentioned": false,
+    "salary_min": null,
+    "salary_max": null,
+    "salary_currency": "",
+    "salary_period": "",
+    "salary_text": "",
+    "keywords": [
+      "supply chain",
+      "human resources"
+    ],
+    "updated_at": "",
+    "first_seen_at": "2026-09-27T05:28:47.212288+00:00",
+    "enriched_at": "2026-09-22T21:21:56.836960+00:00"
+  },
+  {
+    "company": "Marathon Petroleum",
+    "fortune_rank": 30,
+    "title": "Transport Driver - Crude Oil",
+    "location": "Cadiz, Ohio",
+    "url": "https://mpc.wd1.myworkdayjobs.com/en-US/MPCCareers/job/Cadiz-Ohio/Transport-Driver---Crude-Oil_00024326",
+    "source": "workday",
+    "external_id": "/job/Cadiz-Ohio/Transport-Driver---Crude-Oil_00024326",
+    "employment_type": "full-time",
+    "category": "Other",
+    "h1b_status": "unknown",
+    "sponsorship_evidence": "",
+    "h1b_mentioned": false,
+    "salary_min": null,
+    "salary_max": null,
+    "salary_currency": "",
+    "salary_period": "",
+    "salary_text": "",
+    "keywords": [
+      "human resources"
+    ],
+    "updated_at": "",
+    "first_seen_at": "2026-09-27T05:28:47.212288+00:00",
+    "enriched_at": "2026-09-22T21:21:56.844171+00:00"
   },
   {
     "company": "Freddie Mac",
@@ -151834,32 +151581,6 @@
   {
     "company": "Walt Disney",
     "fortune_rank": 44,
-    "title": "Talent Connection Marketing Account Management Intern, Spring 2027",
-    "location": "Celebration, FL, USA",
-    "url": "https://disney.wd5.myworkdayjobs.com/en-US/disneycareer/job/Celebration-FL-USA/Talent-Connection-Marketing-Account-Management-Intern--Spring-2027_10159837",
-    "source": "workday",
-    "external_id": "/job/Celebration-FL-USA/Talent-Connection-Marketing-Account-Management-Intern--Spring-2027_10159837",
-    "employment_type": "internship",
-    "category": "Sales & Marketing",
-    "h1b_status": "unknown",
-    "sponsorship_evidence": "",
-    "h1b_mentioned": false,
-    "salary_min": 23.0,
-    "salary_max": 23.0,
-    "salary_currency": "USD",
-    "salary_period": "hour",
-    "salary_text": "$23.00 per hour",
-    "keywords": [
-      "Excel",
-      "logistics"
-    ],
-    "updated_at": "",
-    "first_seen_at": "2026-09-23T04:57:12.732337+00:00",
-    "enriched_at": "2026-09-23T04:47:43.859304+00:00"
-  },
-  {
-    "company": "Walt Disney",
-    "fortune_rank": 44,
     "title": "Retail Creative Intern, Spring 2027",
     "location": "Glendale, CA, USA",
     "url": "https://disney.wd5.myworkdayjobs.com/en-US/disneycareer/job/Glendale-CA-USA/Retail-Creative-Intern--Spring-2027_10160430",
@@ -153375,31 +153096,6 @@
     "updated_at": "",
     "first_seen_at": "2026-09-11T21:11:24.093992+00:00",
     "enriched_at": "2026-09-26T05:00:32.060289+00:00"
-  },
-  {
-    "company": "Walt Disney",
-    "fortune_rank": 44,
-    "title": "Disney Live Entertainment Character Content Creator Intern, Spring 2027",
-    "location": "Kissimmee, FL, USA",
-    "url": "https://disney.wd5.myworkdayjobs.com/en-US/disneycareer/job/Kissimmee-FL-USA/Disney-Live-Entertainment-Character-Content-Creator-Intern--Spring-2027_10160035",
-    "source": "workday",
-    "external_id": "/job/Kissimmee-FL-USA/Disney-Live-Entertainment-Character-Content-Creator-Intern--Spring-2027_10160035",
-    "employment_type": "internship",
-    "category": "Other",
-    "h1b_status": "unknown",
-    "sponsorship_evidence": "",
-    "h1b_mentioned": false,
-    "salary_min": 22.0,
-    "salary_max": 22.0,
-    "salary_currency": "USD",
-    "salary_period": "hour",
-    "salary_text": "$22.00 per hour",
-    "keywords": [
-      "audit"
-    ],
-    "updated_at": "",
-    "first_seen_at": "2026-09-18T16:37:42.131228+00:00",
-    "enriched_at": "2026-09-25T17:14:17.339173+00:00"
   },
   {
     "company": "Walt Disney",
@@ -162426,7 +162122,7 @@
     ],
     "updated_at": "",
     "first_seen_at": "2026-09-20T05:00:06.460185+00:00",
-    "enriched_at": "2026-09-20T04:56:40.353238+00:00"
+    "enriched_at": "2026-09-27T05:21:18.765823+00:00"
   },
   {
     "company": "Johnson & Johnson",
@@ -165017,33 +164713,6 @@
   {
     "company": "Johnson & Johnson",
     "fortune_rank": 45,
-    "title": "Product Management Co-Op",
-    "location": "Jacksonville, Florida, United States of America",
-    "url": "https://jj.wd5.myworkdayjobs.com/en-US/JJ/job/Jacksonville-Florida-United-States-of-America/Product-Management-Co-Op_R-098262",
-    "source": "workday",
-    "external_id": "/job/Jacksonville-Florida-United-States-of-America/Product-Management-Co-Op_R-098262",
-    "employment_type": "internship",
-    "category": "Product & Design",
-    "h1b_status": "unknown",
-    "sponsorship_evidence": "",
-    "h1b_mentioned": true,
-    "salary_min": null,
-    "salary_max": null,
-    "salary_currency": "",
-    "salary_period": "",
-    "salary_text": "",
-    "keywords": [
-      "analytics",
-      "supply chain",
-      "contracts"
-    ],
-    "updated_at": "",
-    "first_seen_at": "2026-09-16T05:01:44.516712+00:00",
-    "enriched_at": "2026-09-23T11:38:52.859902+00:00"
-  },
-  {
-    "company": "Johnson & Johnson",
-    "fortune_rank": 45,
     "title": "OPEx Communications Co-Op",
     "location": "Gurabo, Puerto Rico, United States of America",
     "url": "https://jj.wd5.myworkdayjobs.com/en-US/JJ/job/Gurabo-Puerto-Rico-United-States-of-America/OPEx-Communications-Co-Op_R-096859",
@@ -166084,34 +165753,6 @@
     "updated_at": "",
     "first_seen_at": "2026-09-14T22:01:50.296679+00:00",
     "enriched_at": "2026-09-21T22:03:16.607903+00:00"
-  },
-  {
-    "company": "Johnson & Johnson",
-    "fortune_rank": 45,
-    "title": "Business Intelligence Co-Op",
-    "location": "Irving, Texas, United States of America",
-    "url": "https://jj.wd5.myworkdayjobs.com/en-US/JJ/job/Irving-Texas-United-States-of-America/Business-Intelligence-Co-Op_R-097003-1",
-    "source": "workday",
-    "external_id": "/job/Irving-Texas-United-States-of-America/Business-Intelligence-Co-Op_R-097003-1",
-    "employment_type": "internship",
-    "category": "Data & AI",
-    "h1b_status": "unknown",
-    "sponsorship_evidence": "",
-    "h1b_mentioned": true,
-    "salary_min": null,
-    "salary_max": null,
-    "salary_currency": "",
-    "salary_period": "",
-    "salary_text": "",
-    "keywords": [
-      "Python",
-      "SQL",
-      "analytics",
-      "contracts"
-    ],
-    "updated_at": "",
-    "first_seen_at": "2026-09-14T22:01:50.296679+00:00",
-    "enriched_at": "2026-09-21T22:03:16.648003+00:00"
   },
   {
     "company": "Johnson & Johnson",
@@ -167434,35 +167075,6 @@
   {
     "company": "Johnson & Johnson",
     "fortune_rank": 45,
-    "title": "Supply Chain Data Management Co-Op",
-    "location": "New Brunswick, New Jersey, United States of America",
-    "url": "https://jj.wd5.myworkdayjobs.com/en-US/JJ/job/New-Brunswick-New-Jersey-United-States-of-America/Supply-Chain-Data-Management-Co-Op_R-096999",
-    "source": "workday",
-    "external_id": "/job/New-Brunswick-New-Jersey-United-States-of-America/Supply-Chain-Data-Management-Co-Op_R-096999",
-    "employment_type": "internship",
-    "category": "Operations & Supply Chain",
-    "h1b_status": "unknown",
-    "sponsorship_evidence": "",
-    "h1b_mentioned": true,
-    "salary_min": 23.5,
-    "salary_max": 23.5,
-    "salary_currency": "USD",
-    "salary_period": "hour",
-    "salary_text": "$23.50 per hour",
-    "keywords": [
-      "SQL",
-      "Excel",
-      "supply chain",
-      "compliance",
-      "contracts"
-    ],
-    "updated_at": "",
-    "first_seen_at": "2026-09-09T04:52:26.018921+00:00",
-    "enriched_at": "2026-09-23T11:38:52.894550+00:00"
-  },
-  {
-    "company": "Johnson & Johnson",
-    "fortune_rank": 45,
     "title": "Area Sales Leader- Monarch Urology- Great Lakes",
     "location": "Detroit, Michigan, United States",
     "url": "https://jj.wd5.myworkdayjobs.com/en-US/JJ/job/Detroit-Michigan-United-States/Area-Sales-Leader--Monarch-Urology--Great-Lakes_R-098325-1",
@@ -167729,34 +167341,6 @@
     "updated_at": "",
     "first_seen_at": "2026-09-03T21:16:07.532271+00:00",
     "enriched_at": "2026-09-25T05:01:24.388652+00:00"
-  },
-  {
-    "company": "Johnson & Johnson",
-    "fortune_rank": 45,
-    "title": "Early Stage Innovation R&D Co-Op",
-    "location": "Raritan, New Jersey, United States of America",
-    "url": "https://jj.wd5.myworkdayjobs.com/en-US/JJ/job/Raritan-New-Jersey-United-States-of-America/Early-Stage-Innovation-R-D-Co-Op_R-095530",
-    "source": "workday",
-    "external_id": "/job/Raritan-New-Jersey-United-States-of-America/Early-Stage-Innovation-R-D-Co-Op_R-095530",
-    "employment_type": "internship",
-    "category": "Other",
-    "h1b_status": "unknown",
-    "sponsorship_evidence": "",
-    "h1b_mentioned": true,
-    "salary_min": 23.5,
-    "salary_max": 23.5,
-    "salary_currency": "USD",
-    "salary_period": "hour",
-    "salary_text": "$23.50 per hour",
-    "keywords": [
-      "Excel",
-      "CAD",
-      "SolidWorks",
-      "contracts"
-    ],
-    "updated_at": "",
-    "first_seen_at": "2026-09-03T16:38:31.304318+00:00",
-    "enriched_at": "2026-09-24T21:35:46.784439+00:00"
   },
   {
     "company": "Johnson & Johnson",
@@ -169767,6 +169351,87 @@
     "updated_at": "",
     "first_seen_at": "2026-08-15T02:30:47.614898+00:00",
     "enriched_at": "2026-09-26T21:14:49.441429+00:00"
+  },
+  {
+    "company": "RTX",
+    "fortune_rank": 49,
+    "title": "Systems Engineer I - Tac Comm (Onsite)",
+    "location": "US-IA-CEDAR RAPIDS-137 ~ 855 35Th St NE ~ BLDG 137",
+    "url": "https://globalhr.wd5.myworkdayjobs.com/en-US/REC_RTX_Ext_Gateway/job/US-IA-CEDAR-RAPIDS-137--855-35Th-St-NE--BLDG-137/Systems-Engineer-I---Tac-Comm--Onsite-_01870089",
+    "source": "workday",
+    "external_id": "/job/US-IA-CEDAR-RAPIDS-137--855-35Th-St-NE--BLDG-137/Systems-Engineer-I---Tac-Comm--Onsite-_01870089",
+    "employment_type": "full-time",
+    "category": "Software & IT",
+    "h1b_status": "unknown",
+    "sponsorship_evidence": "",
+    "h1b_mentioned": false,
+    "salary_min": null,
+    "salary_max": null,
+    "salary_currency": "",
+    "salary_period": "",
+    "salary_text": "",
+    "keywords": [
+      "Python",
+      "recruiting",
+      "compliance"
+    ],
+    "updated_at": "",
+    "first_seen_at": "2026-09-27T05:28:47.212288+00:00",
+    "enriched_at": "2026-09-27T05:22:42.414387+00:00"
+  },
+  {
+    "company": "RTX",
+    "fortune_rank": 49,
+    "title": "Systems Engineer I-Onsite",
+    "location": "US-MA-MARLBOROUGH-MA1 ~ 1001 Boston Post Rd ~ BLDG 1",
+    "url": "https://globalhr.wd5.myworkdayjobs.com/en-US/REC_RTX_Ext_Gateway/job/US-MA-MARLBOROUGH-MA1--1001-Boston-Post-Rd--BLDG-1/Systems-Engineer-I_01874214",
+    "source": "workday",
+    "external_id": "/job/US-MA-MARLBOROUGH-MA1--1001-Boston-Post-Rd--BLDG-1/Systems-Engineer-I_01874214",
+    "employment_type": "full-time",
+    "category": "Software & IT",
+    "h1b_status": "unknown",
+    "sponsorship_evidence": "",
+    "h1b_mentioned": false,
+    "salary_min": null,
+    "salary_max": null,
+    "salary_currency": "",
+    "salary_period": "",
+    "salary_text": "",
+    "keywords": [
+      "Python",
+      "C#",
+      "compliance"
+    ],
+    "updated_at": "",
+    "first_seen_at": "2026-09-27T05:28:47.212288+00:00",
+    "enriched_at": "2026-09-22T21:24:53.579378+00:00"
+  },
+  {
+    "company": "RTX",
+    "fortune_rank": 49,
+    "title": "Systems Engineering Intern- Onsite",
+    "location": "US-MA-TEWKSBURY-TB1 ~ 50 Apple Hill Dr ~ ASSABET BLDG",
+    "url": "https://globalhr.wd5.myworkdayjobs.com/en-US/REC_RTX_Ext_Gateway/job/US-MA-TEWKSBURY-TB1--50-Apple-Hill-Dr--ASSABET-BLDG/Systems-Engineering-Intern--Onsite_01874255",
+    "source": "workday",
+    "external_id": "/job/US-MA-TEWKSBURY-TB1--50-Apple-Hill-Dr--ASSABET-BLDG/Systems-Engineering-Intern--Onsite_01874255",
+    "employment_type": "internship",
+    "category": "Other",
+    "h1b_status": "unknown",
+    "sponsorship_evidence": "",
+    "h1b_mentioned": false,
+    "salary_min": null,
+    "salary_max": null,
+    "salary_currency": "",
+    "salary_period": "",
+    "salary_text": "",
+    "keywords": [
+      "Python",
+      "C#",
+      "compliance"
+    ],
+    "updated_at": "",
+    "first_seen_at": "2026-09-27T05:28:47.212288+00:00",
+    "enriched_at": "2026-09-21T05:00:51.664097+00:00"
   },
   {
     "company": "RTX",
@@ -181970,33 +181635,6 @@
   {
     "company": "RTX",
     "fortune_rank": 49,
-    "title": "RF Systems Engineer I (Onsite)",
-    "location": "US-TX-MCKINNEY-513WC ~ 2501 W University Dr ~ WING C BLDG",
-    "url": "https://globalhr.wd5.myworkdayjobs.com/en-US/REC_RTX_Ext_Gateway/job/US-TX-MCKINNEY-513WC--2501-W-University-Dr--WING-C-BLDG/RF-Systems-Engineer-I--Onsite-_01875468",
-    "source": "workday",
-    "external_id": "/job/US-TX-MCKINNEY-513WC--2501-W-University-Dr--WING-C-BLDG/RF-Systems-Engineer-I--Onsite-_01875468",
-    "employment_type": "full-time",
-    "category": "Software & IT",
-    "h1b_status": "unknown",
-    "sponsorship_evidence": "",
-    "h1b_mentioned": false,
-    "salary_min": null,
-    "salary_max": null,
-    "salary_currency": "",
-    "salary_period": "",
-    "salary_text": "",
-    "keywords": [
-      "Python",
-      "C#",
-      "compliance"
-    ],
-    "updated_at": "",
-    "first_seen_at": "2026-09-23T17:12:38.935699+00:00",
-    "enriched_at": "2026-09-23T17:04:51.454174+00:00"
-  },
-  {
-    "company": "RTX",
-    "fortune_rank": 49,
     "title": "OD Dress Engineer I (Onsite)",
     "location": "US-CT-MIDDLETOWN-220A ~ Aircraft Rd ~ BLDG 220A",
     "url": "https://globalhr.wd5.myworkdayjobs.com/en-US/REC_RTX_Ext_Gateway/job/US-CT-MIDDLETOWN-220A--Aircraft-Rd--BLDG-220A/OD-Dress-Engineer-I--Onsite-_01872107",
@@ -193427,7 +193065,7 @@
     ],
     "updated_at": "",
     "first_seen_at": "2026-09-20T05:00:06.460185+00:00",
-    "enriched_at": "2026-09-20T04:58:03.743906+00:00"
+    "enriched_at": "2026-09-27T05:22:42.425299+00:00"
   },
   {
     "company": "RTX",
@@ -193487,7 +193125,7 @@
     ],
     "updated_at": "",
     "first_seen_at": "2026-09-20T05:00:06.460185+00:00",
-    "enriched_at": "2026-09-20T04:58:03.755725+00:00"
+    "enriched_at": "2026-09-27T05:22:42.437353+00:00"
   },
   {
     "company": "RTX",
@@ -208979,7 +208617,7 @@
     ],
     "updated_at": "",
     "first_seen_at": "2026-09-13T04:57:05.478844+00:00",
-    "enriched_at": "2026-09-20T04:58:03.766396+00:00"
+    "enriched_at": "2026-09-27T05:22:42.448420+00:00"
   },
   {
     "company": "RTX",
@@ -209006,7 +208644,7 @@
     ],
     "updated_at": "",
     "first_seen_at": "2026-09-13T04:57:05.478844+00:00",
-    "enriched_at": "2026-09-20T04:58:03.779628+00:00"
+    "enriched_at": "2026-09-27T05:22:42.462199+00:00"
   },
   {
     "company": "RTX",
@@ -220270,31 +219908,6 @@
   {
     "company": "RTX",
     "fortune_rank": 49,
-    "title": "Werkstudent (m/w/d) - Environment, Health & Safety",
-    "location": "DE-BY-NORDLINGEN-010 ~ Anton-Jaumann-Industriepark 10 ~ BLDG 10",
-    "url": "https://globalhr.wd5.myworkdayjobs.com/en-US/REC_RTX_Ext_Gateway/job/DE-BY-NORDLINGEN-010--Anton-Jaumann-Industriepark-10--BLDG-10/Werkstudent---Environment--Health---Safety_01873310",
-    "source": "workday",
-    "external_id": "/job/DE-BY-NORDLINGEN-010--Anton-Jaumann-Industriepark-10--BLDG-10/Werkstudent---Environment--Health---Safety_01873310",
-    "employment_type": "full-time",
-    "category": "Other",
-    "h1b_status": "unknown",
-    "sponsorship_evidence": "",
-    "h1b_mentioned": false,
-    "salary_min": null,
-    "salary_max": null,
-    "salary_currency": "",
-    "salary_period": "",
-    "salary_text": "",
-    "keywords": [
-      "Excel"
-    ],
-    "updated_at": "",
-    "first_seen_at": "2026-09-08T16:51:59.828686+00:00",
-    "enriched_at": "2026-09-22T21:24:54.169474+00:00"
-  },
-  {
-    "company": "RTX",
-    "fortune_rank": 49,
     "title": "Machine Operator B- 3rd Shift",
     "location": "US-MA-ANDOVER-AN3 ~ 354 Lowell St ~ AN3 SUFFOLK BLDG",
     "url": "https://globalhr.wd5.myworkdayjobs.com/en-US/REC_RTX_Ext_Gateway/job/US-MA-ANDOVER-AN3--354-Lowell-St--AN3-SUFFOLK-BLDG/Machine-Operator-B--3rd-Shift_01872564",
@@ -230912,7 +230525,7 @@
     ],
     "updated_at": "",
     "first_seen_at": "2026-08-29T21:06:04.160747+00:00",
-    "enriched_at": "2026-09-20T04:58:03.792878+00:00"
+    "enriched_at": "2026-09-27T05:22:42.475843+00:00"
   },
   {
     "company": "RTX",
@@ -246423,7 +246036,7 @@
     ],
     "updated_at": "",
     "first_seen_at": "2026-09-18T16:37:42.131228+00:00",
-    "enriched_at": "2026-09-20T04:58:03.805805+00:00"
+    "enriched_at": "2026-09-27T05:22:42.489128+00:00"
   },
   {
     "company": "RTX",
@@ -275652,6 +275265,108 @@
   {
     "company": "Lowe's",
     "fortune_rank": 52,
+    "title": "Full Time - Back End Clerk - Day",
+    "location": "Jacksonville, FL (S Central Jacksonville) 1842",
+    "url": "https://lowes.wd5.myworkdayjobs.com/en-US/LWS_External_CS/job/Jacksonville-FL-S-Central-Jacksonville-1842/Full-Time---Back-End-Clerk---Day_JR-02654270-1",
+    "source": "workday",
+    "external_id": "/job/Jacksonville-FL-S-Central-Jacksonville-1842/Full-Time---Back-End-Clerk---Day_JR-02654270-1",
+    "employment_type": "full-time",
+    "category": "Other",
+    "h1b_status": "unknown",
+    "sponsorship_evidence": "",
+    "h1b_mentioned": false,
+    "salary_min": null,
+    "salary_max": null,
+    "salary_currency": "",
+    "salary_period": "",
+    "salary_text": "",
+    "keywords": [
+      "sales",
+      "contracts"
+    ],
+    "updated_at": "",
+    "first_seen_at": "2026-09-27T05:28:47.212288+00:00",
+    "enriched_at": "2026-09-27T05:26:46.443205+00:00"
+  },
+  {
+    "company": "Lowe's",
+    "fortune_rank": 52,
+    "title": "Full Time - Fulfillment Associate - Day",
+    "location": "Milwaukie, OR (Clackamas County) 1824",
+    "url": "https://lowes.wd5.myworkdayjobs.com/en-US/LWS_External_CS/job/Milwaukie-OR-Clackamas-County-1824/Full-Time---Fulfillment-Associate---Day_JR-02658485",
+    "source": "workday",
+    "external_id": "/job/Milwaukie-OR-Clackamas-County-1824/Full-Time---Fulfillment-Associate---Day_JR-02658485",
+    "employment_type": "full-time",
+    "category": "Other",
+    "h1b_status": "unknown",
+    "sponsorship_evidence": "",
+    "h1b_mentioned": false,
+    "salary_min": null,
+    "salary_max": null,
+    "salary_currency": "",
+    "salary_period": "",
+    "salary_text": "",
+    "keywords": [
+      "sales",
+      "compliance"
+    ],
+    "updated_at": "",
+    "first_seen_at": "2026-09-27T05:28:47.212288+00:00",
+    "enriched_at": "2026-09-27T05:26:46.450005+00:00"
+  },
+  {
+    "company": "Lowe's",
+    "fortune_rank": 52,
+    "title": "Full Time - Sales Associate - Outside Lawn & Garden - Closing",
+    "location": "Arden, NC (S Asheville) 2201",
+    "url": "https://lowes.wd5.myworkdayjobs.com/en-US/LWS_External_CS/job/Arden-NC-S-Asheville-2201/Full-Time---Sales-Associate---Outside-Lawn---Garden---Closing_JR-02658479",
+    "source": "workday",
+    "external_id": "/job/Arden-NC-S-Asheville-2201/Full-Time---Sales-Associate---Outside-Lawn---Garden---Closing_JR-02658479",
+    "employment_type": "full-time",
+    "category": "Sales & Marketing",
+    "h1b_status": "unknown",
+    "sponsorship_evidence": "",
+    "h1b_mentioned": false,
+    "salary_min": null,
+    "salary_max": null,
+    "salary_currency": "",
+    "salary_period": "",
+    "salary_text": "",
+    "keywords": [
+      "sales"
+    ],
+    "updated_at": "",
+    "first_seen_at": "2026-09-27T05:28:47.212288+00:00",
+    "enriched_at": "2026-09-27T05:26:46.455331+00:00"
+  },
+  {
+    "company": "Lowe's",
+    "fortune_rank": 52,
+    "title": "Sales Floor Dept Supervisor - Flooring-Decor",
+    "location": "Omaha, NE (Central Omaha) 1159",
+    "url": "https://lowes.wd5.myworkdayjobs.com/en-US/LWS_External_CS/job/Omaha-NE-Central-Omaha-1159/Sales-Floor-Dept-Supervisor---Flooring-Decor_JR-02648996-1",
+    "source": "workday",
+    "external_id": "/job/Omaha-NE-Central-Omaha-1159/Sales-Floor-Dept-Supervisor---Flooring-Decor_JR-02648996-1",
+    "employment_type": "full-time",
+    "category": "Sales & Marketing",
+    "h1b_status": "unknown",
+    "sponsorship_evidence": "",
+    "h1b_mentioned": false,
+    "salary_min": null,
+    "salary_max": null,
+    "salary_currency": "",
+    "salary_period": "",
+    "salary_text": "",
+    "keywords": [
+      "sales"
+    ],
+    "updated_at": "",
+    "first_seen_at": "2026-09-27T05:28:47.212288+00:00",
+    "enriched_at": "2026-09-27T05:26:46.466440+00:00"
+  },
+  {
+    "company": "Lowe's",
+    "fortune_rank": 52,
     "title": "Full Time - Fulfillment Associate - Day",
     "location": "Brick, NJ (Brick Township) 1535",
     "url": "https://lowes.wd5.myworkdayjobs.com/en-US/LWS_External_CS/job/Brick-NJ-Brick-Township-1535/Full-Time---Fulfillment-Associate---Day_JR-02658430",
@@ -294822,57 +294537,6 @@
   {
     "company": "Lowe's",
     "fortune_rank": 52,
-    "title": "Full Time - CDL Delivery Driver",
-    "location": "Omaha, NE (SW Omaha) 1184",
-    "url": "https://lowes.wd5.myworkdayjobs.com/en-US/LWS_External_CS/job/Omaha-NE-SW-Omaha-1184/Full-Time---CDL-Delivery-Driver_JR-02617938",
-    "source": "workday",
-    "external_id": "/job/Omaha-NE-SW-Omaha-1184/Full-Time---CDL-Delivery-Driver_JR-02617938",
-    "employment_type": "full-time",
-    "category": "Other",
-    "h1b_status": "unknown",
-    "sponsorship_evidence": "",
-    "h1b_mentioned": false,
-    "salary_min": null,
-    "salary_max": null,
-    "salary_currency": "",
-    "salary_period": "",
-    "salary_text": "",
-    "keywords": [
-      "sales",
-      "compliance"
-    ],
-    "updated_at": "",
-    "first_seen_at": "2026-08-15T02:30:47.614898+00:00",
-    "enriched_at": "2026-09-26T21:21:49.612540+00:00"
-  },
-  {
-    "company": "Lowe's",
-    "fortune_rank": 52,
-    "title": "Full Time - Cashier - Day",
-    "location": "Omaha, NE (SW Omaha) 1184",
-    "url": "https://lowes.wd5.myworkdayjobs.com/en-US/LWS_External_CS/job/Omaha-NE-SW-Omaha-1184/Full-Time---Cashier---Day_JR-02618151-1",
-    "source": "workday",
-    "external_id": "/job/Omaha-NE-SW-Omaha-1184/Full-Time---Cashier---Day_JR-02618151-1",
-    "employment_type": "full-time",
-    "category": "Other",
-    "h1b_status": "unknown",
-    "sponsorship_evidence": "",
-    "h1b_mentioned": false,
-    "salary_min": null,
-    "salary_max": null,
-    "salary_currency": "",
-    "salary_period": "",
-    "salary_text": "",
-    "keywords": [
-      "sales"
-    ],
-    "updated_at": "",
-    "first_seen_at": "2026-08-15T02:30:47.614898+00:00",
-    "enriched_at": "2026-09-26T21:21:49.621370+00:00"
-  },
-  {
-    "company": "Lowe's",
-    "fortune_rank": 52,
     "title": "Full Time - Cashier - Day",
     "location": "Trotwood, OH (Dayton-Trotwood) 0042",
     "url": "https://lowes.wd5.myworkdayjobs.com/en-US/LWS_External_CS/job/Trotwood-OH-Dayton-Trotwood-0042/Full-Time---Cashier---Day_JR-02618510",
@@ -295072,31 +294736,6 @@
     "updated_at": "",
     "first_seen_at": "2026-08-15T02:30:47.614898+00:00",
     "enriched_at": "2026-09-26T21:21:49.641533+00:00"
-  },
-  {
-    "company": "Lowe's",
-    "fortune_rank": 52,
-    "title": "Full Time - Merchandising Service Associate - Day",
-    "location": "Cincinnati, OH (Norwood) 1585",
-    "url": "https://lowes.wd5.myworkdayjobs.com/en-US/LWS_External_CS/job/Cincinnati-OH-Norwood-1585/Full-Time---Merchandising-Service-Associate---Day_JR-02617750",
-    "source": "workday",
-    "external_id": "/job/Cincinnati-OH-Norwood-1585/Full-Time---Merchandising-Service-Associate---Day_JR-02617750",
-    "employment_type": "full-time",
-    "category": "Other",
-    "h1b_status": "unknown",
-    "sponsorship_evidence": "",
-    "h1b_mentioned": false,
-    "salary_min": null,
-    "salary_max": null,
-    "salary_currency": "",
-    "salary_period": "",
-    "salary_text": "",
-    "keywords": [
-      "sales"
-    ],
-    "updated_at": "",
-    "first_seen_at": "2026-08-15T02:30:47.614898+00:00",
-    "enriched_at": "2026-09-26T21:21:49.651124+00:00"
   },
   {
     "company": "Lowe's",
@@ -295353,31 +294992,6 @@
   {
     "company": "Lowe's",
     "fortune_rank": 52,
-    "title": "Full Time - Sales Associate - ProServices - Opening",
-    "location": "Kingsport, TN (W Kingsport) 2773",
-    "url": "https://lowes.wd5.myworkdayjobs.com/en-US/LWS_External_CS/job/Kingsport-TN-W-Kingsport-2773/Full-Time---Sales-Associate---ProServices---Opening_JR-02618154",
-    "source": "workday",
-    "external_id": "/job/Kingsport-TN-W-Kingsport-2773/Full-Time---Sales-Associate---ProServices---Opening_JR-02618154",
-    "employment_type": "full-time",
-    "category": "Sales & Marketing",
-    "h1b_status": "unknown",
-    "sponsorship_evidence": "",
-    "h1b_mentioned": false,
-    "salary_min": null,
-    "salary_max": null,
-    "salary_currency": "",
-    "salary_period": "",
-    "salary_text": "",
-    "keywords": [
-      "sales"
-    ],
-    "updated_at": "",
-    "first_seen_at": "2026-08-15T02:30:47.614898+00:00",
-    "enriched_at": "2026-09-26T21:21:49.695492+00:00"
-  },
-  {
-    "company": "Lowe's",
-    "fortune_rank": 52,
     "title": "Insurance & Risk Analyst",
     "location": "Mooresville, NC (SSC) 1999",
     "url": "https://lowes.wd5.myworkdayjobs.com/en-US/LWS_External_CS/job/Mooresville-NC-SSC-1999/Insurance---Risk-Analyst_JR-02616801",
@@ -295512,32 +295126,6 @@
     "updated_at": "",
     "first_seen_at": "2026-08-15T02:30:47.614898+00:00",
     "enriched_at": "2026-09-26T21:21:49.723997+00:00"
-  },
-  {
-    "company": "Lowe's",
-    "fortune_rank": 52,
-    "title": "Full Time - Head Cashier - Day",
-    "location": "Tampa, FL (S Tampa) 1629",
-    "url": "https://lowes.wd5.myworkdayjobs.com/en-US/LWS_External_CS/job/Tampa-FL-S-Tampa-1629/Full-Time---Head-Cashier---Day_JR-02617195-1",
-    "source": "workday",
-    "external_id": "/job/Tampa-FL-S-Tampa-1629/Full-Time---Head-Cashier---Day_JR-02617195-1",
-    "employment_type": "full-time",
-    "category": "Other",
-    "h1b_status": "unknown",
-    "sponsorship_evidence": "",
-    "h1b_mentioned": false,
-    "salary_min": null,
-    "salary_max": null,
-    "salary_currency": "",
-    "salary_period": "",
-    "salary_text": "",
-    "keywords": [
-      "sales",
-      "compliance"
-    ],
-    "updated_at": "",
-    "first_seen_at": "2026-08-15T02:30:47.614898+00:00",
-    "enriched_at": "2026-09-26T21:21:49.733318+00:00"
   },
   {
     "company": "Lowe's",
@@ -301294,31 +300882,6 @@
   {
     "company": "Lowe's",
     "fortune_rank": 52,
-    "title": "Full Time - Sales Associate - Hardware - Closing",
-    "location": "Arden, NC (S Asheville) 2201",
-    "url": "https://lowes.wd5.myworkdayjobs.com/en-US/LWS_External_CS/job/Arden-NC-S-Asheville-2201/Full-Time---Sales-Associate---Hardware---Closing_JR-02639899",
-    "source": "workday",
-    "external_id": "/job/Arden-NC-S-Asheville-2201/Full-Time---Sales-Associate---Hardware---Closing_JR-02639899",
-    "employment_type": "full-time",
-    "category": "Sales & Marketing",
-    "h1b_status": "unknown",
-    "sponsorship_evidence": "",
-    "h1b_mentioned": false,
-    "salary_min": null,
-    "salary_max": null,
-    "salary_currency": "",
-    "salary_period": "",
-    "salary_text": "",
-    "keywords": [
-      "sales"
-    ],
-    "updated_at": "",
-    "first_seen_at": "2026-09-02T04:48:17.945763+00:00",
-    "enriched_at": "2026-09-23T11:42:08.551163+00:00"
-  },
-  {
-    "company": "Lowe's",
-    "fortune_rank": 52,
     "title": "Full Time - Loader/Cart Associate - Day",
     "location": "Greenville, NC (E Greenville) 2837",
     "url": "https://lowes.wd5.myworkdayjobs.com/en-US/LWS_External_CS/job/Greenville-NC-E-Greenville-2837/Full-Time---Loader-Cart-Associate---Day_JR-02639875",
@@ -304865,6 +304428,58 @@
     "updated_at": "",
     "first_seen_at": "2026-08-15T02:30:47.614898+00:00",
     "enriched_at": "2026-09-26T21:22:18.911796+00:00"
+  },
+  {
+    "company": "Cisco Systems",
+    "fortune_rank": 83,
+    "title": "Technical Marketing Engineering Technical Leader",
+    "location": "Richardson, Texas, US",
+    "url": "https://cisco.wd5.myworkdayjobs.com/en-US/Cisco_Careers/job/Richardson-Texas-US/Technical-Marketing-Engineering-Technical-Leader_2024360",
+    "source": "workday",
+    "external_id": "/job/Richardson-Texas-US/Technical-Marketing-Engineering-Technical-Leader_2024360",
+    "employment_type": "full-time",
+    "category": "Sales & Marketing",
+    "h1b_status": "unknown",
+    "sponsorship_evidence": "",
+    "h1b_mentioned": false,
+    "salary_min": null,
+    "salary_max": null,
+    "salary_currency": "",
+    "salary_period": "",
+    "salary_text": "",
+    "keywords": [
+      "Python",
+      "sales"
+    ],
+    "updated_at": "",
+    "first_seen_at": "2026-09-27T05:28:47.212288+00:00",
+    "enriched_at": "2026-09-27T05:27:12.782969+00:00"
+  },
+  {
+    "company": "Cisco Systems",
+    "fortune_rank": 83,
+    "title": "Reliability/Component Engineer - Optics/Silicon Photonics",
+    "location": "Allentown, Pennsylvania, US",
+    "url": "https://cisco.wd5.myworkdayjobs.com/en-US/Cisco_Careers/job/Allentown-Pennsylvania-US/Reliability-Component-Engineer---Optics-Silicon-Photonics_2025733",
+    "source": "workday",
+    "external_id": "/job/Allentown-Pennsylvania-US/Reliability-Component-Engineer---Optics-Silicon-Photonics_2025733",
+    "employment_type": "full-time",
+    "category": "Other",
+    "h1b_status": "unknown",
+    "sponsorship_evidence": "",
+    "h1b_mentioned": false,
+    "salary_min": null,
+    "salary_max": null,
+    "salary_currency": "",
+    "salary_period": "",
+    "salary_text": "",
+    "keywords": [
+      "Excel",
+      "sales"
+    ],
+    "updated_at": "",
+    "first_seen_at": "2026-09-27T05:28:47.212288+00:00",
+    "enriched_at": "2026-09-27T05:27:12.795393+00:00"
   },
   {
     "company": "Cisco Systems",
@@ -311563,36 +311178,6 @@
   {
     "company": "Nike",
     "fortune_rank": 99,
-    "title": "Inventory Operations Analayst II",
-    "location": "Memphis, Tennessee",
-    "url": "https://nike.wd1.myworkdayjobs.com/en-US/nke/job/Memphis-Tennessee/Inventory-Operations-Analayst-II_R-91951",
-    "source": "workday",
-    "external_id": "/job/Memphis-Tennessee/Inventory-Operations-Analayst-II_R-91951",
-    "employment_type": "full-time",
-    "category": "Operations & Supply Chain",
-    "h1b_status": "unknown",
-    "sponsorship_evidence": "",
-    "h1b_mentioned": false,
-    "salary_min": null,
-    "salary_max": null,
-    "salary_currency": "",
-    "salary_period": "",
-    "salary_text": "",
-    "keywords": [
-      "SQL",
-      "Excel",
-      "accounting",
-      "supply chain",
-      "logistics",
-      "compliance"
-    ],
-    "updated_at": "",
-    "first_seen_at": "2026-09-18T04:55:20.669830+00:00",
-    "enriched_at": "2026-09-25T05:08:18.894975+00:00"
-  },
-  {
-    "company": "Nike",
-    "fortune_rank": 99,
     "title": "Expert Basketball Apparel Designer, Global Jordan",
     "location": "Beaverton, Oregon",
     "url": "https://nike.wd1.myworkdayjobs.com/en-US/nke/job/Beaverton-Oregon/Expert-Designer--Basketball-Apparel-Product-Design--Global-Jordan_R-92074",
@@ -312144,29 +311729,6 @@
     "updated_at": "",
     "first_seen_at": "2026-09-15T05:05:44.481766+00:00",
     "enriched_at": "2026-09-22T05:05:01.830500+00:00"
-  },
-  {
-    "company": "Nike",
-    "fortune_rank": 99,
-    "title": "Designer II, SB Mens Footwear & Apparel Color Design",
-    "location": "Beaverton, Oregon",
-    "url": "https://nike.wd1.myworkdayjobs.com/en-US/nke/job/Beaverton-Oregon/Designer-II--SB-Mens-Footwear---Apparel-Color-Design_R-91122",
-    "source": "workday",
-    "external_id": "/job/Beaverton-Oregon/Designer-II--SB-Mens-Footwear---Apparel-Color-Design_R-91122",
-    "employment_type": "full-time",
-    "category": "Other",
-    "h1b_status": "unknown",
-    "sponsorship_evidence": "",
-    "h1b_mentioned": false,
-    "salary_min": null,
-    "salary_max": null,
-    "salary_currency": "",
-    "salary_period": "",
-    "salary_text": "",
-    "keywords": [],
-    "updated_at": "",
-    "first_seen_at": "2026-09-15T05:05:44.481766+00:00",
-    "enriched_at": "2026-09-22T05:05:01.838753+00:00"
   },
   {
     "company": "Nike",
@@ -320515,7 +320077,7 @@
     ],
     "updated_at": "",
     "first_seen_at": "2026-09-20T05:00:06.460185+00:00",
-    "enriched_at": "2026-09-20T04:59:41.201494+00:00"
+    "enriched_at": "2026-09-27T05:28:21.229433+00:00"
   },
   {
     "company": "Thermo Fisher Scientific",
@@ -389367,7 +388929,7 @@
     ],
     "updated_at": "",
     "first_seen_at": "2026-08-15T02:30:47.614898+00:00",
-    "enriched_at": "2026-09-20T04:59:58.729487+00:00"
+    "enriched_at": "2026-09-27T05:28:38.912686+00:00"
   },
   {
     "company": "Broadcom",
@@ -389581,7 +389143,7 @@
     ],
     "updated_at": "",
     "first_seen_at": "2026-08-15T02:30:47.614898+00:00",
-    "enriched_at": "2026-09-20T04:59:58.401996+00:00"
+    "enriched_at": "2026-09-27T05:28:38.925037+00:00"
   },
   {
     "company": "Broadcom",
@@ -389860,7 +389422,7 @@
     ],
     "updated_at": "",
     "first_seen_at": "2026-08-15T02:30:47.614898+00:00",
-    "enriched_at": "2026-09-20T04:59:58.352678+00:00"
+    "enriched_at": "2026-09-27T05:28:38.936942+00:00"
   },
   {
     "company": "Broadcom",
@@ -389886,7 +389448,7 @@
     ],
     "updated_at": "",
     "first_seen_at": "2026-08-15T02:30:47.614898+00:00",
-    "enriched_at": "2026-09-20T04:59:58.359368+00:00"
+    "enriched_at": "2026-09-27T05:28:38.943523+00:00"
   },
   {
     "company": "Broadcom",
@@ -390264,7 +389826,7 @@
     ],
     "updated_at": "",
     "first_seen_at": "2026-08-15T02:30:47.614898+00:00",
-    "enriched_at": "2026-09-20T04:59:58.383456+00:00"
+    "enriched_at": "2026-09-27T05:28:38.950788+00:00"
   },
   {
     "company": "Broadcom",
@@ -390764,7 +390326,7 @@
     "keywords": [],
     "updated_at": "",
     "first_seen_at": "2026-08-15T02:30:47.614898+00:00",
-    "enriched_at": "2026-09-20T04:59:58.414434+00:00"
+    "enriched_at": "2026-09-27T05:28:38.960931+00:00"
   },
   {
     "company": "Broadcom",
@@ -391007,7 +390569,7 @@
     ],
     "updated_at": "",
     "first_seen_at": "2026-08-15T02:30:47.614898+00:00",
-    "enriched_at": "2026-09-20T04:59:58.420340+00:00"
+    "enriched_at": "2026-09-27T05:28:38.966977+00:00"
   },
   {
     "company": "Broadcom",
@@ -391207,7 +390769,7 @@
     ],
     "updated_at": "",
     "first_seen_at": "2026-08-15T02:30:47.614898+00:00",
-    "enriched_at": "2026-09-20T04:59:58.432617+00:00"
+    "enriched_at": "2026-09-27T05:28:38.979357+00:00"
   },
   {
     "company": "Broadcom",
@@ -391285,7 +390847,7 @@
     ],
     "updated_at": "",
     "first_seen_at": "2026-08-15T02:30:47.614898+00:00",
-    "enriched_at": "2026-09-20T04:59:58.447317+00:00"
+    "enriched_at": "2026-09-27T05:28:38.994050+00:00"
   },
   {
     "company": "Broadcom",
@@ -391478,7 +391040,7 @@
     "keywords": [],
     "updated_at": "",
     "first_seen_at": "2026-08-15T02:30:47.614898+00:00",
-    "enriched_at": "2026-09-20T04:59:58.453452+00:00"
+    "enriched_at": "2026-09-27T05:28:39.000236+00:00"
   },
   {
     "company": "Broadcom",
@@ -391503,7 +391065,7 @@
     ],
     "updated_at": "",
     "first_seen_at": "2026-08-15T02:30:47.614898+00:00",
-    "enriched_at": "2026-09-20T04:59:58.466574+00:00"
+    "enriched_at": "2026-09-27T05:28:39.013469+00:00"
   },
   {
     "company": "Broadcom",
@@ -391530,7 +391092,7 @@
     ],
     "updated_at": "",
     "first_seen_at": "2026-08-15T02:30:47.614898+00:00",
-    "enriched_at": "2026-09-20T04:59:58.475071+00:00"
+    "enriched_at": "2026-09-27T05:28:39.022039+00:00"
   },
   {
     "company": "Broadcom",
@@ -391556,7 +391118,7 @@
     ],
     "updated_at": "",
     "first_seen_at": "2026-08-15T02:30:47.614898+00:00",
-    "enriched_at": "2026-09-20T04:59:58.488383+00:00"
+    "enriched_at": "2026-09-27T05:28:39.035476+00:00"
   },
   {
     "company": "Broadcom",
@@ -391583,7 +391145,7 @@
     ],
     "updated_at": "",
     "first_seen_at": "2026-08-15T02:30:47.614898+00:00",
-    "enriched_at": "2026-09-20T04:59:58.495625+00:00"
+    "enriched_at": "2026-09-27T05:28:39.042775+00:00"
   },
   {
     "company": "Broadcom",
@@ -391608,7 +391170,7 @@
     ],
     "updated_at": "",
     "first_seen_at": "2026-08-15T02:30:47.614898+00:00",
-    "enriched_at": "2026-09-20T04:59:58.501602+00:00"
+    "enriched_at": "2026-09-27T05:28:39.048772+00:00"
   },
   {
     "company": "Broadcom",
@@ -391633,7 +391195,7 @@
     ],
     "updated_at": "",
     "first_seen_at": "2026-08-15T02:30:47.614898+00:00",
-    "enriched_at": "2026-09-20T04:59:58.511212+00:00"
+    "enriched_at": "2026-09-27T05:28:39.058414+00:00"
   },
   {
     "company": "Broadcom",
@@ -391660,7 +391222,7 @@
     ],
     "updated_at": "",
     "first_seen_at": "2026-08-15T02:30:47.614898+00:00",
-    "enriched_at": "2026-09-20T04:59:58.517096+00:00"
+    "enriched_at": "2026-09-27T05:28:39.064424+00:00"
   },
   {
     "company": "Broadcom",
@@ -391685,7 +391247,7 @@
     ],
     "updated_at": "",
     "first_seen_at": "2026-08-15T02:30:47.614898+00:00",
-    "enriched_at": "2026-09-20T04:59:58.529001+00:00"
+    "enriched_at": "2026-09-27T05:28:39.070149+00:00"
   },
   {
     "company": "Broadcom",
@@ -391710,7 +391272,7 @@
     ],
     "updated_at": "",
     "first_seen_at": "2026-08-15T02:30:47.614898+00:00",
-    "enriched_at": "2026-09-20T04:59:58.536488+00:00"
+    "enriched_at": "2026-09-27T05:28:39.077766+00:00"
   },
   {
     "company": "Broadcom",
@@ -391733,7 +391295,7 @@
     "keywords": [],
     "updated_at": "",
     "first_seen_at": "2026-08-15T02:30:47.614898+00:00",
-    "enriched_at": "2026-09-20T04:59:58.543755+00:00"
+    "enriched_at": "2026-09-27T05:28:39.084975+00:00"
   },
   {
     "company": "Broadcom",
@@ -391763,7 +391325,7 @@
     ],
     "updated_at": "",
     "first_seen_at": "2026-08-15T02:30:47.614898+00:00",
-    "enriched_at": "2026-09-20T04:59:58.550593+00:00"
+    "enriched_at": "2026-09-27T05:28:39.091908+00:00"
   },
   {
     "company": "Broadcom",
@@ -391793,7 +391355,7 @@
     ],
     "updated_at": "",
     "first_seen_at": "2026-08-15T02:30:47.614898+00:00",
-    "enriched_at": "2026-09-20T04:59:58.563852+00:00"
+    "enriched_at": "2026-09-27T05:28:39.105094+00:00"
   },
   {
     "company": "Broadcom",
@@ -391819,7 +391381,7 @@
     ],
     "updated_at": "",
     "first_seen_at": "2026-08-15T02:30:47.614898+00:00",
-    "enriched_at": "2026-09-20T04:59:58.577145+00:00"
+    "enriched_at": "2026-09-27T05:28:39.118287+00:00"
   },
   {
     "company": "Broadcom",
@@ -391842,7 +391404,7 @@
     "keywords": [],
     "updated_at": "",
     "first_seen_at": "2026-08-15T02:30:47.614898+00:00",
-    "enriched_at": "2026-09-20T04:59:58.584061+00:00"
+    "enriched_at": "2026-09-27T05:28:39.125316+00:00"
   },
   {
     "company": "Broadcom",
@@ -391872,7 +391434,7 @@
     ],
     "updated_at": "",
     "first_seen_at": "2026-08-15T02:30:47.614898+00:00",
-    "enriched_at": "2026-09-20T04:59:58.589447+00:00"
+    "enriched_at": "2026-09-27T05:28:39.130782+00:00"
   },
   {
     "company": "Broadcom",
@@ -391899,7 +391461,7 @@
     ],
     "updated_at": "",
     "first_seen_at": "2026-08-15T02:30:47.614898+00:00",
-    "enriched_at": "2026-09-20T04:59:58.598626+00:00"
+    "enriched_at": "2026-09-27T05:28:39.139856+00:00"
   },
   {
     "company": "Broadcom",
@@ -391926,7 +391488,7 @@
     ],
     "updated_at": "",
     "first_seen_at": "2026-08-15T02:30:47.614898+00:00",
-    "enriched_at": "2026-09-20T04:59:58.607037+00:00"
+    "enriched_at": "2026-09-27T05:28:39.148146+00:00"
   },
   {
     "company": "Broadcom",
@@ -391949,7 +391511,7 @@
     "keywords": [],
     "updated_at": "",
     "first_seen_at": "2026-08-15T02:30:47.614898+00:00",
-    "enriched_at": "2026-09-20T04:59:58.615435+00:00"
+    "enriched_at": "2026-09-27T05:28:39.156499+00:00"
   },
   {
     "company": "Broadcom",
@@ -391976,7 +391538,7 @@
     ],
     "updated_at": "",
     "first_seen_at": "2026-08-15T02:30:47.614898+00:00",
-    "enriched_at": "2026-09-20T04:59:58.620782+00:00"
+    "enriched_at": "2026-09-27T05:28:39.161932+00:00"
   },
   {
     "company": "Broadcom",
@@ -391999,7 +391561,7 @@
     "keywords": [],
     "updated_at": "",
     "first_seen_at": "2026-08-15T02:30:47.614898+00:00",
-    "enriched_at": "2026-09-20T04:59:58.637585+00:00"
+    "enriched_at": "2026-09-27T05:28:39.170140+00:00"
   },
   {
     "company": "Broadcom",
@@ -392024,7 +391586,7 @@
     ],
     "updated_at": "",
     "first_seen_at": "2026-08-15T02:30:47.614898+00:00",
-    "enriched_at": "2026-09-20T04:59:58.645126+00:00"
+    "enriched_at": "2026-09-27T05:28:39.177647+00:00"
   },
   {
     "company": "Broadcom",
@@ -392047,7 +391609,7 @@
     "keywords": [],
     "updated_at": "",
     "first_seen_at": "2026-08-15T02:30:47.614898+00:00",
-    "enriched_at": "2026-09-20T04:59:58.653326+00:00"
+    "enriched_at": "2026-09-27T05:28:39.185761+00:00"
   },
   {
     "company": "Broadcom",
@@ -392074,7 +391636,7 @@
     ],
     "updated_at": "",
     "first_seen_at": "2026-08-15T02:30:47.614898+00:00",
-    "enriched_at": "2026-09-20T04:59:58.663307+00:00"
+    "enriched_at": "2026-09-27T05:28:39.195593+00:00"
   },
   {
     "company": "Broadcom",
@@ -392100,7 +391662,7 @@
     ],
     "updated_at": "",
     "first_seen_at": "2026-08-15T02:30:47.614898+00:00",
-    "enriched_at": "2026-09-20T04:59:58.680207+00:00"
+    "enriched_at": "2026-09-27T05:28:39.204240+00:00"
   },
   {
     "company": "Broadcom",
@@ -392126,7 +391688,7 @@
     ],
     "updated_at": "",
     "first_seen_at": "2026-08-15T02:30:47.614898+00:00",
-    "enriched_at": "2026-09-20T04:59:58.686102+00:00"
+    "enriched_at": "2026-09-27T05:28:39.210209+00:00"
   },
   {
     "company": "Broadcom",
@@ -392149,7 +391711,7 @@
     "keywords": [],
     "updated_at": "",
     "first_seen_at": "2026-08-15T02:30:47.614898+00:00",
-    "enriched_at": "2026-09-20T04:59:58.696192+00:00"
+    "enriched_at": "2026-09-27T05:28:39.220217+00:00"
   },
   {
     "company": "Broadcom",
@@ -392172,7 +391734,7 @@
     "keywords": [],
     "updated_at": "",
     "first_seen_at": "2026-08-15T02:30:47.614898+00:00",
-    "enriched_at": "2026-09-20T04:59:58.704911+00:00"
+    "enriched_at": "2026-09-27T05:28:39.228762+00:00"
   },
   {
     "company": "Broadcom",
@@ -392197,7 +391759,7 @@
     ],
     "updated_at": "",
     "first_seen_at": "2026-08-15T02:30:47.614898+00:00",
-    "enriched_at": "2026-09-20T04:59:58.713300+00:00"
+    "enriched_at": "2026-09-27T05:28:39.237164+00:00"
   },
   {
     "company": "Broadcom",
@@ -392223,7 +391785,7 @@
     ],
     "updated_at": "",
     "first_seen_at": "2026-08-15T02:30:47.614898+00:00",
-    "enriched_at": "2026-09-20T04:59:58.720744+00:00"
+    "enriched_at": "2026-09-27T05:28:39.244700+00:00"
   },
   {
     "company": "Broadcom",
@@ -392251,7 +391813,7 @@
     ],
     "updated_at": "",
     "first_seen_at": "2026-08-15T02:30:47.614898+00:00",
-    "enriched_at": "2026-09-20T04:59:58.743700+00:00"
+    "enriched_at": "2026-09-27T05:28:39.253614+00:00"
   },
   {
     "company": "Broadcom",
@@ -392278,7 +391840,7 @@
     ],
     "updated_at": "",
     "first_seen_at": "2026-08-15T02:30:47.614898+00:00",
-    "enriched_at": "2026-09-20T04:59:58.751169+00:00"
+    "enriched_at": "2026-09-27T05:28:39.261131+00:00"
   },
   {
     "company": "Broadcom",
@@ -392304,7 +391866,7 @@
     ],
     "updated_at": "",
     "first_seen_at": "2026-08-15T02:30:47.614898+00:00",
-    "enriched_at": "2026-09-20T04:59:58.757405+00:00"
+    "enriched_at": "2026-09-27T05:28:39.267399+00:00"
   },
   {
     "company": "Broadcom",
@@ -392330,7 +391892,7 @@
     ],
     "updated_at": "",
     "first_seen_at": "2026-08-15T02:30:47.614898+00:00",
-    "enriched_at": "2026-09-20T04:59:58.766939+00:00"
+    "enriched_at": "2026-09-27T05:28:39.277026+00:00"
   },
   {
     "company": "Broadcom",
@@ -392357,7 +391919,7 @@
     ],
     "updated_at": "",
     "first_seen_at": "2026-08-15T02:30:47.614898+00:00",
-    "enriched_at": "2026-09-20T04:59:58.776516+00:00"
+    "enriched_at": "2026-09-27T05:28:39.286711+00:00"
   },
   {
     "company": "Broadcom",
@@ -392385,7 +391947,7 @@
     ],
     "updated_at": "",
     "first_seen_at": "2026-08-15T02:30:47.614898+00:00",
-    "enriched_at": "2026-09-20T04:59:58.787188+00:00"
+    "enriched_at": "2026-09-27T05:28:39.297499+00:00"
   },
   {
     "company": "Broadcom",
@@ -392412,7 +391974,7 @@
     ],
     "updated_at": "",
     "first_seen_at": "2026-08-15T02:30:47.614898+00:00",
-    "enriched_at": "2026-09-20T04:59:58.795966+00:00"
+    "enriched_at": "2026-09-27T05:28:39.306380+00:00"
   },
   {
     "company": "Broadcom",
@@ -392437,7 +391999,7 @@
     ],
     "updated_at": "",
     "first_seen_at": "2026-08-15T02:30:47.614898+00:00",
-    "enriched_at": "2026-09-20T04:59:58.802685+00:00"
+    "enriched_at": "2026-09-27T05:28:39.313246+00:00"
   },
   {
     "company": "Broadcom",
@@ -392464,7 +392026,7 @@
     ],
     "updated_at": "",
     "first_seen_at": "2026-08-15T02:30:47.614898+00:00",
-    "enriched_at": "2026-09-20T04:59:58.810131+00:00"
+    "enriched_at": "2026-09-27T05:28:39.320855+00:00"
   },
   {
     "company": "Broadcom",
@@ -392489,7 +392051,7 @@
     ],
     "updated_at": "",
     "first_seen_at": "2026-08-15T02:30:47.614898+00:00",
-    "enriched_at": "2026-09-20T04:59:58.819664+00:00"
+    "enriched_at": "2026-09-27T05:28:39.330466+00:00"
   },
   {
     "company": "Broadcom",
@@ -392512,7 +392074,7 @@
     "keywords": [],
     "updated_at": "",
     "first_seen_at": "2026-08-15T02:30:47.614898+00:00",
-    "enriched_at": "2026-09-20T04:59:58.827267+00:00"
+    "enriched_at": "2026-09-27T05:28:39.338163+00:00"
   },
   {
     "company": "Broadcom",
@@ -392538,7 +392100,7 @@
     ],
     "updated_at": "",
     "first_seen_at": "2026-08-15T02:30:47.614898+00:00",
-    "enriched_at": "2026-09-20T04:59:58.843143+00:00"
+    "enriched_at": "2026-09-27T05:28:39.354421+00:00"
   },
   {
     "company": "Broadcom",
@@ -392566,7 +392128,7 @@
     ],
     "updated_at": "",
     "first_seen_at": "2026-08-15T02:30:47.614898+00:00",
-    "enriched_at": "2026-09-20T04:59:58.851609+00:00"
+    "enriched_at": "2026-09-27T05:28:39.363033+00:00"
   },
   {
     "company": "Broadcom",
@@ -392592,7 +392154,7 @@
     ],
     "updated_at": "",
     "first_seen_at": "2026-08-15T02:30:47.614898+00:00",
-    "enriched_at": "2026-09-20T04:59:58.861120+00:00"
+    "enriched_at": "2026-09-27T05:28:39.372716+00:00"
   },
   {
     "company": "Broadcom",
@@ -392618,7 +392180,7 @@
     ],
     "updated_at": "",
     "first_seen_at": "2026-08-15T02:30:47.614898+00:00",
-    "enriched_at": "2026-09-20T04:59:58.870942+00:00"
+    "enriched_at": "2026-09-27T05:28:39.382960+00:00"
   },
   {
     "company": "Broadcom",
@@ -392641,7 +392203,7 @@
     "keywords": [],
     "updated_at": "",
     "first_seen_at": "2026-08-15T02:30:47.614898+00:00",
-    "enriched_at": "2026-09-20T04:59:58.877787+00:00"
+    "enriched_at": "2026-09-27T05:28:39.389865+00:00"
   },
   {
     "company": "Broadcom",
@@ -392669,7 +392231,7 @@
     ],
     "updated_at": "",
     "first_seen_at": "2026-08-15T02:30:47.614898+00:00",
-    "enriched_at": "2026-09-20T04:59:58.882482+00:00"
+    "enriched_at": "2026-09-27T05:28:39.394725+00:00"
   },
   {
     "company": "Broadcom",
@@ -392694,7 +392256,7 @@
     ],
     "updated_at": "",
     "first_seen_at": "2026-08-15T02:30:47.614898+00:00",
-    "enriched_at": "2026-09-20T04:59:58.890212+00:00"
+    "enriched_at": "2026-09-27T05:28:39.402583+00:00"
   },
   {
     "company": "Broadcom",
@@ -392719,7 +392281,7 @@
     ],
     "updated_at": "",
     "first_seen_at": "2026-08-15T02:30:47.614898+00:00",
-    "enriched_at": "2026-09-20T04:59:58.898054+00:00"
+    "enriched_at": "2026-09-27T05:28:39.410519+00:00"
   },
   {
     "company": "Broadcom",
@@ -392745,7 +392307,7 @@
     ],
     "updated_at": "",
     "first_seen_at": "2026-08-15T02:30:47.614898+00:00",
-    "enriched_at": "2026-09-20T04:59:58.912530+00:00"
+    "enriched_at": "2026-09-27T05:28:39.425177+00:00"
   },
   {
     "company": "Broadcom",
@@ -392768,7 +392330,7 @@
     "keywords": [],
     "updated_at": "",
     "first_seen_at": "2026-08-15T02:30:47.614898+00:00",
-    "enriched_at": "2026-09-20T04:59:58.921216+00:00"
+    "enriched_at": "2026-09-27T05:28:39.433938+00:00"
   },
   {
     "company": "Broadcom",
@@ -392791,7 +392353,7 @@
     "keywords": [],
     "updated_at": "",
     "first_seen_at": "2026-08-15T02:30:47.614898+00:00",
-    "enriched_at": "2026-09-20T04:59:58.926725+00:00"
+    "enriched_at": "2026-09-27T05:28:39.439488+00:00"
   },
   {
     "company": "Broadcom",
@@ -392817,7 +392379,7 @@
     ],
     "updated_at": "",
     "first_seen_at": "2026-08-15T02:30:47.614898+00:00",
-    "enriched_at": "2026-09-20T04:59:58.931422+00:00"
+    "enriched_at": "2026-09-27T05:28:39.444218+00:00"
   },
   {
     "company": "Broadcom",
@@ -392840,7 +392402,7 @@
     "keywords": [],
     "updated_at": "",
     "first_seen_at": "2026-08-15T02:30:47.614898+00:00",
-    "enriched_at": "2026-09-20T04:59:58.939290+00:00"
+    "enriched_at": "2026-09-27T05:28:39.452115+00:00"
   },
   {
     "company": "Broadcom",
@@ -392869,7 +392431,7 @@
     ],
     "updated_at": "",
     "first_seen_at": "2026-08-15T02:30:47.614898+00:00",
-    "enriched_at": "2026-09-20T04:59:58.943985+00:00"
+    "enriched_at": "2026-09-27T05:28:39.456829+00:00"
   },
   {
     "company": "Broadcom",
@@ -392894,7 +392456,7 @@
     ],
     "updated_at": "",
     "first_seen_at": "2026-08-15T02:30:47.614898+00:00",
-    "enriched_at": "2026-09-20T04:59:58.953417+00:00"
+    "enriched_at": "2026-09-27T05:28:39.466344+00:00"
   },
   {
     "company": "Broadcom",
@@ -392921,7 +392483,7 @@
     ],
     "updated_at": "",
     "first_seen_at": "2026-08-15T02:30:47.614898+00:00",
-    "enriched_at": "2026-09-20T04:59:58.959410+00:00"
+    "enriched_at": "2026-09-27T05:28:39.472391+00:00"
   },
   {
     "company": "Broadcom",
@@ -392948,7 +392510,7 @@
     ],
     "updated_at": "",
     "first_seen_at": "2026-08-15T02:30:47.614898+00:00",
-    "enriched_at": "2026-09-20T04:59:58.968916+00:00"
+    "enriched_at": "2026-09-27T05:28:39.481951+00:00"
   },
   {
     "company": "Broadcom",
@@ -392977,7 +392539,7 @@
     ],
     "updated_at": "",
     "first_seen_at": "2026-08-15T02:30:47.614898+00:00",
-    "enriched_at": "2026-09-20T04:59:58.979091+00:00"
+    "enriched_at": "2026-09-27T05:28:39.492231+00:00"
   },
   {
     "company": "Broadcom",
@@ -393004,7 +392566,7 @@
     ],
     "updated_at": "",
     "first_seen_at": "2026-08-15T02:30:47.614898+00:00",
-    "enriched_at": "2026-09-20T04:59:58.987220+00:00"
+    "enriched_at": "2026-09-27T05:28:39.500485+00:00"
   },
   {
     "company": "Broadcom",
@@ -393030,7 +392592,7 @@
     ],
     "updated_at": "",
     "first_seen_at": "2026-08-15T02:30:47.614898+00:00",
-    "enriched_at": "2026-09-20T04:59:58.997229+00:00"
+    "enriched_at": "2026-09-27T05:28:39.510519+00:00"
   },
   {
     "company": "Broadcom",
@@ -393055,7 +392617,7 @@
     ],
     "updated_at": "",
     "first_seen_at": "2026-08-15T02:30:47.614898+00:00",
-    "enriched_at": "2026-09-20T04:59:59.004850+00:00"
+    "enriched_at": "2026-09-27T05:28:39.518097+00:00"
   },
   {
     "company": "Broadcom",
@@ -393080,7 +392642,7 @@
     ],
     "updated_at": "",
     "first_seen_at": "2026-08-15T02:30:47.614898+00:00",
-    "enriched_at": "2026-09-20T04:59:59.011429+00:00"
+    "enriched_at": "2026-09-27T05:28:39.524658+00:00"
   },
   {
     "company": "Broadcom",
@@ -393106,7 +392668,7 @@
     ],
     "updated_at": "",
     "first_seen_at": "2026-08-15T02:30:47.614898+00:00",
-    "enriched_at": "2026-09-20T04:59:59.016944+00:00"
+    "enriched_at": "2026-09-27T05:28:39.530172+00:00"
   },
   {
     "company": "Broadcom",
@@ -393131,7 +392693,7 @@
     ],
     "updated_at": "",
     "first_seen_at": "2026-08-15T02:30:47.614898+00:00",
-    "enriched_at": "2026-09-20T04:59:59.023867+00:00"
+    "enriched_at": "2026-09-27T05:28:39.537198+00:00"
   },
   {
     "company": "Hewlett Packard Enterprise",
@@ -393363,7 +392925,7 @@
     ],
     "updated_at": "",
     "first_seen_at": "2026-08-15T02:30:47.614898+00:00",
-    "enriched_at": "2026-09-20T05:00:03.488052+00:00"
+    "enriched_at": "2026-09-27T05:28:44.532072+00:00"
   },
   {
     "company": "Applied Materials",
@@ -393390,7 +392952,7 @@
     ],
     "updated_at": "",
     "first_seen_at": "2026-08-15T02:30:47.614898+00:00",
-    "enriched_at": "2026-09-20T05:00:03.511467+00:00"
+    "enriched_at": "2026-09-27T05:28:44.556107+00:00"
   },
   {
     "company": "Applied Materials",

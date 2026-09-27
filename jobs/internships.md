@@ -1,12 +1,12 @@
 # F500Tracker internships
 
-Last updated: September 26, 2026 at 21:24 UTC
+Last updated: September 27, 2026 at 05:28 UTC
 
-Current internships: 605
+Current internships: 595
 
 ## Categories
 
-[Software & IT (45)](#software-it) · [Data & AI (16)](#data-ai) · [Product & Design (2)](#product-design) · [Engineering (51)](#engineering) · [Finance & Accounting (14)](#finance-accounting) · [Sales & Marketing (17)](#sales-marketing) · [Operations & Supply Chain (41)](#operations-supply-chain) · [People & Legal (5)](#people-legal) · [Other (414)](#other)
+[Software & IT (45)](#software-it) · [Data & AI (15)](#data-ai) · [Product & Design (1)](#product-design) · [Engineering (51)](#engineering) · [Finance & Accounting (14)](#finance-accounting) · [Sales & Marketing (16)](#sales-marketing) · [Operations & Supply Chain (39)](#operations-supply-chain) · [People & Legal (5)](#people-legal) · [Other (409)](#other)
 
 <a id="software-it"></a>
 
@@ -68,7 +68,7 @@ Open positions: 45
 
 ## Data & AI
 
-Open positions: 16
+Open positions: 15
 
 | Rank | Company | Position | Location | Category | Salary | Keywords | Sponsorship | Apply |
 |---:|---|---|---|---|---|---|---|---|
@@ -80,7 +80,6 @@ Open positions: 16
 | 44 | Walt Disney | Consumer Insight Data Analyst Intern, Spring 2027 | Celebration, FL, USA | Data & AI | $32/hr | data science · analytics · Excel · sales | Not specified | [Apply](https://disney.wd5.myworkdayjobs.com/en-US/disneycareer/job/Celebration-FL-USA/Consumer-Insight-Data-Analyst-Intern--Spring-2027_10159634-2) |
 | 45 | Johnson & Johnson | Advanced Process Analytics Co-op | Titusville, New Jersey, United States of America | Data & AI | $23.5/hr | Python · machine learning · data science · analytics | Not specified | [Apply](https://jj.wd5.myworkdayjobs.com/en-US/JJ/job/Titusville-New-Jersey-United-States-of-America/Advanced-Process-Analytics-Co-op_R-098443) |
 | 45 | Johnson & Johnson | Production Data Analyst Co-Op | Danvers, Massachusetts, United States of America | Data & AI | $23.5/hr | analytics · supply chain | Not specified | [Apply](https://jj.wd5.myworkdayjobs.com/en-US/JJ/job/Danvers-Massachusetts-United-States-of-America/Production-Data-Analyst-Co-Op_R-098904) |
-| 45 | Johnson & Johnson | Business Intelligence Co-Op | Irving, Texas, United States of America | Data & AI | Not disclosed | Python · SQL · analytics · contracts | Not specified | [Apply](https://jj.wd5.myworkdayjobs.com/en-US/JJ/job/Irving-Texas-United-States-of-America/Business-Intelligence-Co-Op_R-097003-1) |
 | 45 | Johnson & Johnson | Warehouse Operations & Analytics Co-Op – Spring 2026 (CAR-T Manufacturing) | Raritan, New Jersey, United States of America | Data & AI | $23.5/hr | Python · SQL · analytics · Excel · supply chain | Not specified | [Apply](https://jj.wd5.myworkdayjobs.com/en-US/JJ/job/Raritan-New-Jersey-United-States-of-America/Warehouse-Operations---Analytics-Co-Op---Spring-2026--CAR-T-Manufacturing-_R-095094) |
 | 49 | RTX | Stage - Hiver 2027 -  Analyste d’affaires et de Données / Internship - Winter 2027 -  Business & Data Analyst | CA-QC-LONGUEUIL-J01 ~ 1000 Blvd Marie-Victorin ~ J01 BLDG | Data & AI | Not disclosed | data science · analytics | Not specified | [Apply](https://globalhr.wd5.myworkdayjobs.com/en-US/REC_RTX_Ext_Gateway/job/CA-QC-LONGUEUIL-J01--1000-Blvd-Marie-Victorin--J01-BLDG/Stage---Hiver-2027----Analyste-d-affaires-et-de-Donnes---Internship---Winter-2027----Business---Data-Analyst_01863946) |
 | 49 | RTX | Stage - Hiver 2027 - Analyste de données, Services de pièces de rechange / Internship - Winter 2027 - Data Analyst, Spare Parts Services | CA-QC-LONGUEUIL-J01 ~ 1000 Blvd Marie-Victorin ~ J01 BLDG | Data & AI | Not disclosed | Python · analytics · Excel | Not specified | [Apply](https://globalhr.wd5.myworkdayjobs.com/en-US/REC_RTX_Ext_Gateway/job/CA-QC-LONGUEUIL-J01--1000-Blvd-Marie-Victorin--J01-BLDG/Stage---Hiver-2027---Analyste-de-donnes--Services-de-pices-de-rechange---Internship---Winter-2027---Data-Analyst--Spare-Parts-Services_01872182) |
@@ -95,12 +94,11 @@ Open positions: 16
 
 ## Product & Design
 
-Open positions: 2
+Open positions: 1
 
 | Rank | Company | Position | Location | Category | Salary | Keywords | Sponsorship | Apply |
 |---:|---|---|---|---|---|---|---|---|
 | 45 | Johnson & Johnson | Product Management Co-Op | Danvers, Massachusetts, United States of America | Product & Design | $23.5/hr | — | Not specified | [Apply](https://jj.wd5.myworkdayjobs.com/en-US/JJ/job/Danvers-Massachusetts-United-States-of-America/Product-Management-Co-Op_R-096757) |
-| 45 | Johnson & Johnson | Product Management Co-Op | Jacksonville, Florida, United States of America | Product & Design | Not disclosed | analytics · supply chain · contracts | Not specified | [Apply](https://jj.wd5.myworkdayjobs.com/en-US/JJ/job/Jacksonville-Florida-United-States-of-America/Product-Management-Co-Op_R-098262) |
 
 [Back to categories](#categories) · [Back to README](../README.md)
 
@@ -195,7 +193,7 @@ Open positions: 14
 
 ## Sales & Marketing
 
-Open positions: 17
+Open positions: 16
 
 | Rank | Company | Position | Location | Category | Salary | Keywords | Sponsorship | Apply |
 |---:|---|---|---|---|---|---|---|---|
@@ -204,7 +202,6 @@ Open positions: 17
 | 125 | Micron Technology | Intern - Corporate Marketing Storytelling | San Jose, CA | Sales & Marketing | Not disclosed | artificial intelligence | Not specified | [Apply](https://micron.wd1.myworkdayjobs.com/en-US/External/job/San-Jose-CA/Corporate-Marketing-Storytelling-Intern_JR109493) |
 | 125 | Micron Technology | Intern - Marketing Research | Meridian, ID | Sales & Marketing | Not disclosed | artificial intelligence · analytics | Not specified | [Apply](https://micron.wd1.myworkdayjobs.com/en-US/External/job/Meridian-ID/Intern---Marketing-Research_JR109460) |
 | 125 | Micron Technology | Intern - CDBU Marketing | San Jose, CA | Sales & Marketing | Not disclosed | artificial intelligence · electrical engineering · sales | Not specified | [Apply](https://micron.wd1.myworkdayjobs.com/en-US/External/job/San-Jose-CA/Intern---CDBU-Marketing_JR109697) |
-| 44 | Walt Disney | Talent Connection Marketing Account Management Intern, Spring 2027 | Celebration, FL, USA | Sales & Marketing | $23/hr | Excel · logistics | Not specified | [Apply](https://disney.wd5.myworkdayjobs.com/en-US/disneycareer/job/Celebration-FL-USA/Talent-Connection-Marketing-Account-Management-Intern--Spring-2027_10159837) |
 | 44 | Walt Disney | Travel Agency Sales Intern, Spring 2027 | Celebration, FL, USA | Sales & Marketing | $23/hr | Excel · sales | Not specified | [Apply](https://disney.wd5.myworkdayjobs.com/en-US/disneycareer/job/Celebration-FL-USA/Travel-Agency-Sales-Intern--Spring-2027_10161251) |
 | 44 | Walt Disney | Disney's Fairy Tale Weddings & Honeymoons Marketing Strategy Intern, Spring 2027 | Celebration, FL, USA | Sales & Marketing | $23/hr | analytics · Excel · sales | Not specified | [Apply](https://disney.wd5.myworkdayjobs.com/en-US/disneycareer/job/Celebration-FL-USA/Disney-s-Fairy-Tale-Weddings---Honeymoons-Marketing-Strategy-Intern--Spring-2027_10159284) |
 | 44 | Walt Disney | Instructional Design Intern, Sales Learning Services, Spring 2027 | Celebration, FL, USA | Sales & Marketing | $23/hr | sales | Not specified | [Apply](https://disney.wd5.myworkdayjobs.com/en-US/disneycareer/job/Celebration-FL-USA/Instructional-Design-Intern--Sales-Learning-Services--Spring-2027_10157959-1) |
@@ -223,11 +220,10 @@ Open positions: 17
 
 ## Operations & Supply Chain
 
-Open positions: 41
+Open positions: 39
 
 | Rank | Company | Position | Location | Category | Salary | Keywords | Sponsorship | Apply |
 |---:|---|---|---|---|---|---|---|---|
-| 112 | Northrop Grumman | 2027 Supply Chain Intern - Annapolis MD | United States-Maryland-Annapolis | Operations & Supply Chain | $18.25–$33/hr | Excel · supply chain | Not specified | [Apply](https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-Maryland-Annapolis/XMLNAME-2027-Supply-Chain-Intern---Annapolis-MD_R10252030) |
 | 125 | Micron Technology | Intern - Automation, Operations Improvement | Boise, ID - ID1 | Operations & Supply Chain | Not disclosed | Python · C# · SQL · data science · Excel | Not specified | [Apply](https://micron.wd1.myworkdayjobs.com/en-US/External/job/Boise-ID---ID1/Intern---Automation--Operations-Improvement_JR110774) |
 | 125 | Micron Technology | Intern – Procurement Cost Analyst | Boise, ID - North Office | Operations & Supply Chain | Not disclosed | analytics · Excel · mechanical engineering · electrical engineering · supply chain | Not specified | [Apply](https://micron.wd1.myworkdayjobs.com/en-US/External/job/Boise-ID---North-Office/Intern---Procurement-Cost-Analyst_JR112690) |
 | 125 | Micron Technology | Intern - Operations Improvement Scheduling | Boise, ID - Main Site | Operations & Supply Chain | Not disclosed | Python · C# · SQL · data science · Excel | Not specified | [Apply](https://micron.wd1.myworkdayjobs.com/en-US/External/job/Boise-ID---Main-Site/Intern---Operation-Improvement-Scheduling_JR111097) |
@@ -238,7 +234,6 @@ Open positions: 41
 | 45 | Johnson & Johnson | Warehouse and Logistics Process Improvement Co-Op | Gurabo, Puerto Rico, United States of America | Operations & Supply Chain | Not disclosed | analytics · Excel · supply chain · logistics | Not specified | [Apply](https://jj.wd5.myworkdayjobs.com/en-US/JJ/job/Gurabo-Puerto-Rico-United-States-of-America/Warehouse-Data-Analytics-Co-Op_R-098705) |
 | 45 | Johnson & Johnson | Operations Continuous Improvement Co-Op | Gurabo, Puerto Rico, United States of America | Operations & Supply Chain | Not disclosed | analytics · Excel · mechanical engineering · supply chain · compliance | Not specified | [Apply](https://jj.wd5.myworkdayjobs.com/en-US/JJ/job/Gurabo-Puerto-Rico-United-States-of-America/Operations-Continuous-Improvement-Co-Op_R-099631) |
 | 45 | Johnson & Johnson | Supply Chain Distributions Co-op | Mooresville, Indiana, United States of America | Operations & Supply Chain | Not disclosed | analytics · Excel · supply chain · legal | Not specified | [Apply](https://jj.wd5.myworkdayjobs.com/en-US/JJ/job/Mooresville-Indiana-United-States-of-America/Supply-Chain-Distributions-Co-op_R-099096) |
-| 45 | Johnson & Johnson | Supply Chain Data Management Co-Op | New Brunswick, New Jersey, United States of America | Operations & Supply Chain | $23.5/hr | SQL · Excel · supply chain · compliance · contracts | Not specified | [Apply](https://jj.wd5.myworkdayjobs.com/en-US/JJ/job/New-Brunswick-New-Jersey-United-States-of-America/Supply-Chain-Data-Management-Co-Op_R-096999) |
 | 45 | Johnson & Johnson | Electrophysiology Supply Chain (Engineers) Intern | Irvine, California, United States of America | Operations & Supply Chain | $23.5/hr | Excel · electrical engineering · SolidWorks · supply chain | Not specified | [Apply](https://jj.wd5.myworkdayjobs.com/en-US/JJ/job/Irvine-California-United-States-of-America/Electrophysiology-Supply-Chain--Engineers--Intern_R-094578) |
 | 45 | Johnson & Johnson | Electrophysiology Supply Chain (Business) Intern | Irvine, California, United States of America | Operations & Supply Chain | $23.5/hr | Excel · supply chain | Not specified | [Apply](https://jj.wd5.myworkdayjobs.com/en-US/JJ/job/Irvine-California-United-States-of-America/Electrophysiology-Supply-Chain-Intern_R-094580-1) |
 | 49 | RTX | Global Supply Chain Co-Op (January 2027) (Hybrid) | US-PR-AGUADILLA-110 ~ Rd 110 N Km 28.8 ~ RD110 | Operations & Supply Chain | Not disclosed | supply chain · procurement · compliance · contracts | Not specified | [Apply](https://globalhr.wd5.myworkdayjobs.com/en-US/REC_RTX_Ext_Gateway/job/US-PR-AGUADILLA-110--Rd-110-N-Km-288--RD110/Global-Supply-Chain-Co-Op--January-2027---Hybrid-_01876313) |
@@ -291,7 +286,7 @@ Open positions: 5
 
 ## Other
 
-Open positions: 414
+Open positions: 409
 
 | Rank | Company | Position | Location | Category | Salary | Keywords | Sponsorship | Apply |
 |---:|---|---|---|---|---|---|---|---|
@@ -303,10 +298,6 @@ Open positions: 414
 | 112 | Northrop Grumman | 2027 Program Cost and Schedule Control Intern - Rocket Center  WV | United States-West Virginia-Rocket Center | Other | Not disclosed | accounting | Not specified | [Apply](https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-West-Virginia-Rocket-Center/XMLNAME-2027-Program-Cost-and-Schedule-Control-Intern---Rocket-Center--WV_R10252859) |
 | 112 | Northrop Grumman | 2027 Electronics Engineering Internship - Rolling Meadows IL | United States-Illinois-Rolling Meadows | Other | Not disclosed | electrical engineering | Not specified | [Apply](https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-Illinois-Rolling-Meadows/XMLNAME-2027-Electronics-Engineering-Internship---Rolling-Meadows-IL_R10252818) |
 | 112 | Northrop Grumman | 2027 Program Planning and Scheduling Analyst Intern - Dulles VA | United States-Virginia-Dulles | Other | $19.25–$34.75/hr | SQL · Excel · supply chain | Not specified | [Apply](https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-Virginia-Dulles/XMLNAME-2027-Program-Planning-and-Scheduling-Analyst-Intern---Dulles-VA_R10252554) |
-| 112 | Northrop Grumman | 2027 Engineering Intern - Plymouth MN | United States-Minnesota-Plymouth | Other | Not disclosed | — | Not specified | [Apply](https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-Minnesota-Plymouth/XMLNAME-2027-Engineering-Intern---Plymouth-MN_R10252413) |
-| 112 | Northrop Grumman | 2027 Engineering Intern - Plymouth MN | United States-Minnesota-Plymouth | Other | Not disclosed | — | Not specified | [Apply](https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-Minnesota-Plymouth/XMLNAME-2027-Engineering-Intern---Plymouth-MN_R10252412) |
-| 112 | Northrop Grumman | 2027 Engineering Intern - Rocket Center WV | United States-West Virginia-Rocket Center | Other | Not disclosed | — | Not specified | [Apply](https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-West-Virginia-Rocket-Center/XMLNAME-2027-Engineering-Intern---Rocket-Center-WV_R10252410) |
-| 112 | Northrop Grumman | 2027 Business Intern - Plymouth MN | United States-Minnesota-Plymouth | Other | Not disclosed | analytics | Not specified | [Apply](https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-Minnesota-Plymouth/XMLNAME-2027-Business-Intern---Plymouth-MN_R10252241) |
 | 125 | Micron Technology | Intern - Process Development Engineer, DRAM Thin Films | Boise, ID - Main Site | Other | Not disclosed | Python · machine learning · artificial intelligence · data science · analytics | Not specified | [Apply](https://micron.wd1.myworkdayjobs.com/en-US/External/job/Boise-ID---Main-Site/Intern---Process-Development-Engineer--DRAM-Thin-Films_JR107203) |
 | 125 | Micron Technology | Intern - Government & Public Affairs (Global Policy) | MTI - WASHINGTON  DC - 25 Mass - Office | Other | Not disclosed | Excel · compliance | Not specified | [Apply](https://micron.wd1.myworkdayjobs.com/en-US/External/job/MTI---WASHINGTON--DC---25-Mass---Office/Intern---Government---Public-Affairs--Global-Policy-_JR113475) |
 | 125 | Micron Technology | Intern - ASIC Validation | Minneapolis, MN | Other | Not disclosed | Python · machine learning · electrical engineering | Not specified | [Apply](https://micron.wd1.myworkdayjobs.com/en-US/External/job/Minneapolis-MN/Intern---ASIC-Validation_JR111823) |
@@ -421,7 +412,6 @@ Open positions: 414
 | 44 | Walt Disney | Production Admin Intern, Spring 2027 | Burbank, CA, USA | Other | $23/hr | Excel | Not specified | [Apply](https://disney.wd5.myworkdayjobs.com/en-US/disneycareer/job/Burbank-CA-USA/Production-Admin-Intern--Spring-2027_10160178) |
 | 44 | Walt Disney | WDI Construction Management Intern, Spring 2027 | Anaheim, CA, USA | Other | $31/hr | Excel | Not specified | [Apply](https://disney.wd5.myworkdayjobs.com/en-US/disneycareer/job/Anaheim-CA-USA/WDI-Construction-Management-Intern--Spring-2027_10157976) |
 | 44 | Walt Disney | Global Security Design & Engineering Intern, Spring 2027 | Glendale, CA, USA | Other | $23/hr | artificial intelligence · analytics · Excel | Not specified | [Apply](https://disney.wd5.myworkdayjobs.com/en-US/disneycareer/job/Glendale-CA-USA/Global-Security-Design---Engineering-Intern--Spring-2027_10160013) |
-| 44 | Walt Disney | Disney Live Entertainment Character Content Creator Intern, Spring 2027 | Kissimmee, FL, USA | Other | $22/hr | audit | Not specified | [Apply](https://disney.wd5.myworkdayjobs.com/en-US/disneycareer/job/Kissimmee-FL-USA/Disney-Live-Entertainment-Character-Content-Creator-Intern--Spring-2027_10160035) |
 | 44 | Walt Disney | KGO-TV (ABC7) 7 On Your Side Intern, Spring 2027 | San Francisco, CA, USA | Other | $23/hr | Excel | Not specified | [Apply](https://disney.wd5.myworkdayjobs.com/en-US/disneycareer/job/San-Francisco-CA-USA/KGO-TV--ABC7--7-On-Your-Side-Intern--Spring-2027_10157762) |
 | 44 | Walt Disney | KGO-TV (ABC7) Assignment Desk News Intern, Spring 2027 | San Francisco, CA, USA | Other | $23/hr | — | Not specified | [Apply](https://disney.wd5.myworkdayjobs.com/en-US/disneycareer/job/San-Francisco-CA-USA/KGO-TV--ABC7--Assignment-Desk-News-Intern--Spring-2027_10158968) |
 | 45 | Johnson & Johnson | R&D Co-Op | Raritan, New Jersey, United States of America | Other | $23.5/hr | Excel · mechanical engineering · recruiting | Not specified | [Apply](https://jj.wd5.myworkdayjobs.com/en-US/JJ/job/Raritan-New-Jersey-United-States-of-America/R-D-Co-Op_R-097655) |
@@ -497,7 +487,6 @@ Open positions: 414
 | 45 | Johnson & Johnson | Spring 2027 Biomaterials Research Co-op | Warsaw, Indiana, United States of America | Other | Not disclosed | recruiting · legal | Not specified | [Apply](https://jj.wd5.myworkdayjobs.com/en-US/JJ/job/Warsaw-Indiana-United-States-of-America/Spring-2027-Biomaterials-Research-Co-op_R-097640) |
 | 45 | Johnson & Johnson | Kentucky Distribution Center Summer 2027 Intern | Shepherdsville, Kentucky, United States of America | Other | Not disclosed | Excel · supply chain · logistics · compliance | Not specified | [Apply](https://jj.wd5.myworkdayjobs.com/en-US/JJ/job/Shepherdsville-Kentucky-United-States-of-America/Kentucky-Distribution-Center-Summer-2027-Intern_R-096263) |
 | 45 | Johnson & Johnson | Athens Manufacturing Plant 2027 Co-Op | Athens, Georgia, United States of America | Other | Not disclosed | supply chain · recruiting · compliance | Not specified | [Apply](https://jj.wd5.myworkdayjobs.com/en-US/JJ/job/Athens-Georgia-United-States-of-America/Athens-Manufacturing-Plant-2027-Co-Op_R-097654-1) |
-| 45 | Johnson & Johnson | Early Stage Innovation R&D Co-Op | Raritan, New Jersey, United States of America | Other | $23.5/hr | Excel · CAD · SolidWorks · contracts | Not specified | [Apply](https://jj.wd5.myworkdayjobs.com/en-US/JJ/job/Raritan-New-Jersey-United-States-of-America/Early-Stage-Innovation-R-D-Co-Op_R-095530) |
 | 45 | Johnson & Johnson | R&D MIS Spring 2027 Co-op | Raritan, New Jersey, United States of America | Other | $23.5/hr | Excel · mechanical engineering · SolidWorks · recruiting · legal | Not specified | [Apply](https://jj.wd5.myworkdayjobs.com/en-US/JJ/job/Raritan-New-Jersey-United-States-of-America/R-D-MIS-Spring-2027-Co-op_R-096256) |
 | 45 | Johnson & Johnson | Data Science Co-Op, Summer 2027 | Cincinnati, Ohio, United States of America | Other | $23.5/hr | Python · SQL · data science · electrical engineering · recruiting | Not specified | [Apply](https://jj.wd5.myworkdayjobs.com/en-US/JJ/job/Cincinnati-Ohio-United-States-of-America/Data-Science-Co-Op--Summer-2027_R-096746) |
 | 45 | Johnson & Johnson | Design and Development Co-Op, Summer 2027 | Cincinnati, Ohio, United States of America | Other | $23.5/hr | mechanical engineering · electrical engineering · CAD · recruiting | Not specified | [Apply](https://jj.wd5.myworkdayjobs.com/en-US/JJ/job/Cincinnati-Ohio-United-States-of-America/Design-and-Development-Co-Op--Summer-2027_R-096727) |
@@ -505,6 +494,7 @@ Open positions: 414
 | 45 | Johnson & Johnson | Materials Engineering Co-Op Spring 2027 | Jacksonville, Florida, United States of America | Other | Not disclosed | — | Not specified | [Apply](https://jj.wd5.myworkdayjobs.com/en-US/JJ/job/Jacksonville-Florida-United-States-of-America/Materials-Engineering-Co-Op_R-093889-1) |
 | 45 | Johnson & Johnson | Data Science Co-Op, Spring 2027 | Cincinnati, Ohio, United States of America | Other | $23.5/hr | Python · SQL · data science · electrical engineering · recruiting | Not specified | [Apply](https://jj.wd5.myworkdayjobs.com/en-US/JJ/job/Cincinnati-Ohio-United-States-of-America/Data-Science-Co-Op--Spring-2027_R-095743) |
 | 45 | Johnson & Johnson | Design and Development, Co-Op Spring 2027 | Cincinnati, Ohio, United States of America | Other | $23.5/hr | mechanical engineering · electrical engineering · CAD · recruiting | Not specified | [Apply](https://jj.wd5.myworkdayjobs.com/en-US/JJ/job/Cincinnati-Ohio-United-States-of-America/Design-and-Development-Co-Op-Spring-2027_R-095696) |
+| 49 | RTX | Systems Engineering Intern- Onsite | US-MA-TEWKSBURY-TB1 ~ 50 Apple Hill Dr ~ ASSABET BLDG | Other | Not disclosed | Python · C# · compliance | Not specified | [Apply](https://globalhr.wd5.myworkdayjobs.com/en-US/REC_RTX_Ext_Gateway/job/US-MA-TEWKSBURY-TB1--50-Apple-Hill-Dr--ASSABET-BLDG/Systems-Engineering-Intern--Onsite_01874255) |
 | 49 | RTX | 2027 Network Engineering Intern | US-CO-COLORADO SPRINGS-9970-CUST ~ 9970 Federal Dr ~ FEDERAL (External Site) | Other | Not disclosed | compliance | Not specified | [Apply](https://globalhr.wd5.myworkdayjobs.com/en-US/REC_RTX_Ext_Gateway/job/US-CO-COLORADO-SPRINGS-9970-CUST--9970-Federal-Dr--FEDERAL-External-Site/XMLNAME-2027-Network-Engineering-Intern_01877666) |
 | 49 | RTX | Stage – Hiver 2027 – Automatisation /Internship – Winter 2027 – Automation | CA-QC-MIRABEL-M01 ~ 11155 Julien-Audette ~ M01 BLDG | Other | Not disclosed | mechanical engineering · electrical engineering | Not specified | [Apply](https://globalhr.wd5.myworkdayjobs.com/en-US/REC_RTX_Ext_Gateway/job/CA-QC-MIRABEL-M01--11155-Julien-Audette--M01-BLDG/Stage---Hiver-2027---Automatisation--Internship---Winter-2027---Automation_01864888) |
 | 49 | RTX | Service Engineering Co-op (Summer/Fall 2027) | US-IL-ROCKFORD-P6 ~ 4747 Harrison Ave ~ 4747 HARRISON AVE-P6 | Other | Not disclosed | Python · Excel · mechanical engineering · electrical engineering · compliance | Not specified | [Apply](https://globalhr.wd5.myworkdayjobs.com/en-US/REC_RTX_Ext_Gateway/job/US-IL-ROCKFORD-P6--4747-Harrison-Ave--4747-HARRISON-AVE-P6/Service-Engineering-Co-op--Summer-Fall-2027-_01872687) |
