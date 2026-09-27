@@ -10961,9 +10961,9 @@
       "logistics",
       "recruiting"
     ],
-    "updated_at": "2026-09-25T16:59:04-04:00",
+    "updated_at": "2026-09-27T09:15:30-04:00",
     "first_seen_at": "2026-09-25T21:47:26.928317+00:00",
-    "enriched_at": "2026-09-25T21:34:09.559808+00:00"
+    "enriched_at": "2026-09-27T16:57:23.971224+00:00"
   },
   {
     "company": "DoorDash",
@@ -10997,9 +10997,9 @@
       "logistics",
       "recruiting"
     ],
-    "updated_at": "2026-09-25T16:59:06-04:00",
+    "updated_at": "2026-09-27T09:16:32-04:00",
     "first_seen_at": "2026-09-25T21:47:26.928317+00:00",
-    "enriched_at": "2026-09-25T21:34:09.575708+00:00"
+    "enriched_at": "2026-09-27T16:57:23.987221+00:00"
   },
   {
     "company": "DoorDash",
@@ -82976,7 +82976,7 @@
     ],
     "updated_at": "",
     "first_seen_at": "2026-08-30T05:34:31.943819+00:00",
-    "enriched_at": "2026-09-20T16:06:44.985943+00:00"
+    "enriched_at": "2026-09-27T16:59:08.167103+00:00"
   },
   {
     "company": "Northrop Grumman",
@@ -123270,37 +123270,6 @@
     "updated_at": "",
     "first_seen_at": "2026-09-24T21:45:16.125443+00:00",
     "enriched_at": "2026-09-24T21:32:59.801297+00:00"
-  },
-  {
-    "company": "Visa",
-    "fortune_rank": 119,
-    "title": "Sr Software Engineer (3-5 yrs of experience - Java Full Stack - Java, JavaScript, Spring Boot, SQL,Angular, Node JS or React)",
-    "location": "IN - Bengaluru, India",
-    "url": "https://visa.wd5.myworkdayjobs.com/en-US/Visa/job/IN---Bengaluru-India/Sr-Software-Engineer_REF078405W",
-    "source": "workday",
-    "external_id": "/job/IN---Bengaluru-India/Sr-Software-Engineer_REF078405W",
-    "employment_type": "full-time",
-    "category": "Software & IT",
-    "h1b_status": "unknown",
-    "sponsorship_evidence": "",
-    "h1b_mentioned": false,
-    "salary_min": null,
-    "salary_max": null,
-    "salary_currency": "",
-    "salary_period": "",
-    "salary_text": "",
-    "keywords": [
-      "Java",
-      "C#",
-      "JavaScript",
-      "SQL",
-      "React",
-      "Docker",
-      "Kubernetes"
-    ],
-    "updated_at": "",
-    "first_seen_at": "2026-09-24T21:45:16.125443+00:00",
-    "enriched_at": "2026-09-24T21:32:59.810704+00:00"
   },
   {
     "company": "Visa",
@@ -230133,7 +230102,7 @@
     ],
     "updated_at": "",
     "first_seen_at": "2026-08-30T05:34:31.943819+00:00",
-    "enriched_at": "2026-09-20T16:10:26.119493+00:00"
+    "enriched_at": "2026-09-27T17:02:53.664302+00:00"
   },
   {
     "company": "RTX",
@@ -282256,31 +282225,6 @@
   {
     "company": "Lowe's",
     "fortune_rank": 52,
-    "title": "Full Time - Sales Associate - Inside Lawn & Garden - Day",
-    "location": "San Antonio, TX (N San Antonio) 1579",
-    "url": "https://lowes.wd5.myworkdayjobs.com/en-US/LWS_External_CS/job/San-Antonio-TX-N-San-Antonio-1579/Full-Time---Sales-Associate---Inside-Lawn---Garden---Day_JR-02654041",
-    "source": "workday",
-    "external_id": "/job/San-Antonio-TX-N-San-Antonio-1579/Full-Time---Sales-Associate---Inside-Lawn---Garden---Day_JR-02654041",
-    "employment_type": "full-time",
-    "category": "Sales & Marketing",
-    "h1b_status": "unknown",
-    "sponsorship_evidence": "",
-    "h1b_mentioned": false,
-    "salary_min": null,
-    "salary_max": null,
-    "salary_currency": "",
-    "salary_period": "",
-    "salary_text": "",
-    "keywords": [
-      "sales"
-    ],
-    "updated_at": "",
-    "first_seen_at": "2026-09-21T22:13:37.215145+00:00",
-    "enriched_at": "2026-09-21T22:10:33.601735+00:00"
-  },
-  {
-    "company": "Lowe's",
-    "fortune_rank": 52,
     "title": "Full Time - Sales Associate - Building Materials - Opening",
     "location": "Toledo, OH (SW Toledo) 1643",
     "url": "https://lowes.wd5.myworkdayjobs.com/en-US/LWS_External_CS/job/Toledo-OH-SW-Toledo-1643/Full-Time---Sales-Associate---Building-Materials---Opening_JR-02654013",
@@ -283637,7 +283581,7 @@
     ],
     "updated_at": "",
     "first_seen_at": "2026-09-20T16:16:24.776999+00:00",
-    "enriched_at": "2026-09-20T16:14:31.123077+00:00"
+    "enriched_at": "2026-09-27T17:07:14.065809+00:00"
   },
   {
     "company": "Lowe's",
@@ -290994,7 +290938,7 @@
     ],
     "updated_at": "",
     "first_seen_at": "2026-08-30T05:34:31.943819+00:00",
-    "enriched_at": "2026-09-20T16:14:31.134668+00:00"
+    "enriched_at": "2026-09-27T17:07:14.077709+00:00"
   },
   {
     "company": "Lowe's",
@@ -301173,6 +301117,31 @@
   {
     "company": "Sysco",
     "fortune_rank": 55,
+    "title": "CDL A Local Delivery Truck Driver",
+    "location": "Greco Missouri",
+    "url": "https://sysco.wd5.myworkdayjobs.com/en-US/syscocareers/job/Greco-Missouri/CDL-B-Local-Delivery-Truck-Driver_R259067",
+    "source": "workday",
+    "external_id": "/job/Greco-Missouri/CDL-B-Local-Delivery-Truck-Driver_R259067",
+    "employment_type": "full-time",
+    "category": "Other",
+    "h1b_status": "unknown",
+    "sponsorship_evidence": "",
+    "h1b_mentioned": false,
+    "salary_min": 27.0,
+    "salary_max": 27.0,
+    "salary_currency": "USD",
+    "salary_period": "hour",
+    "salary_text": "$27.00/hourly",
+    "keywords": [
+      "sales"
+    ],
+    "updated_at": "",
+    "first_seen_at": "2026-09-27T17:09:15.030050+00:00",
+    "enriched_at": "2026-09-27T17:07:15.902894+00:00"
+  },
+  {
+    "company": "Sysco",
+    "fortune_rank": 55,
     "title": "Meat Packer",
     "location": "Buckhead New York",
     "url": "https://sysco.wd5.myworkdayjobs.com/en-US/syscocareers/job/Buckhead-New-York/Meat-Packer_R269230",
@@ -301559,31 +301528,6 @@
     "updated_at": "",
     "first_seen_at": "2026-09-25T21:47:26.928317+00:00",
     "enriched_at": "2026-09-25T21:45:05.641091+00:00"
-  },
-  {
-    "company": "Sysco",
-    "fortune_rank": 55,
-    "title": "CDL A Local Delivery Truck Driver",
-    "location": "Sysco Arkansas",
-    "url": "https://sysco.wd5.myworkdayjobs.com/en-US/syscocareers/job/Sysco-Arkansas/CDL-A-Local-Delivery-Truck-Driver_R265745",
-    "source": "workday",
-    "external_id": "/job/Sysco-Arkansas/CDL-A-Local-Delivery-Truck-Driver_R265745",
-    "employment_type": "full-time",
-    "category": "Other",
-    "h1b_status": "unknown",
-    "sponsorship_evidence": "",
-    "h1b_mentioned": false,
-    "salary_min": null,
-    "salary_max": null,
-    "salary_currency": "",
-    "salary_period": "",
-    "salary_text": "",
-    "keywords": [
-      "sales"
-    ],
-    "updated_at": "",
-    "first_seen_at": "2026-09-25T21:47:26.928317+00:00",
-    "enriched_at": "2026-09-23T17:09:55.125575+00:00"
   },
   {
     "company": "Allstate",
@@ -303389,7 +303333,7 @@
     ],
     "updated_at": "",
     "first_seen_at": "2026-09-13T12:01:37.004436+00:00",
-    "enriched_at": "2026-09-20T16:14:57.787571+00:00"
+    "enriched_at": "2026-09-27T17:07:40.949455+00:00"
   },
   {
     "company": "Cisco Systems",
@@ -319662,7 +319606,7 @@
     ],
     "updated_at": "",
     "first_seen_at": "2026-09-20T16:16:24.776999+00:00",
-    "enriched_at": "2026-09-20T16:16:04.959284+00:00"
+    "enriched_at": "2026-09-27T17:08:53.899441+00:00"
   },
   {
     "company": "Thermo Fisher Scientific",
@@ -322809,7 +322753,7 @@
     ],
     "updated_at": "",
     "first_seen_at": "2026-08-23T02:06:05.749708+00:00",
-    "enriched_at": "2026-09-20T16:16:04.965977+00:00"
+    "enriched_at": "2026-09-27T17:08:53.906376+00:00"
   },
   {
     "company": "Thermo Fisher Scientific",
@@ -327484,7 +327428,7 @@
     ],
     "updated_at": "",
     "first_seen_at": "2026-08-23T02:06:05.749708+00:00",
-    "enriched_at": "2026-09-20T16:16:04.974301+00:00"
+    "enriched_at": "2026-09-27T17:08:53.914596+00:00"
   },
   {
     "company": "Thermo Fisher Scientific",
@@ -335412,31 +335356,6 @@
     "updated_at": "",
     "first_seen_at": "2026-08-15T02:30:47.614898+00:00",
     "enriched_at": "2026-09-26T21:23:55.148009+00:00"
-  },
-  {
-    "company": "Thermo Fisher Scientific",
-    "fortune_rank": 106,
-    "title": "EHS Specialist III -Environmental",
-    "location": "Stafford Springs, Connecticut, USA",
-    "url": "https://thermofisher.wd5.myworkdayjobs.com/en-US/ThermoFisherCareers/job/Stafford-Springs-Connecticut-USA/Environmental-Health-and-Safety-Specialist-III_R-01339936",
-    "source": "workday",
-    "external_id": "/job/Stafford-Springs-Connecticut-USA/Environmental-Health-and-Safety-Specialist-III_R-01339936",
-    "employment_type": "full-time",
-    "category": "Other",
-    "h1b_status": "unknown",
-    "sponsorship_evidence": "",
-    "h1b_mentioned": false,
-    "salary_min": null,
-    "salary_max": null,
-    "salary_currency": "",
-    "salary_period": "",
-    "salary_text": "",
-    "keywords": [
-      "compliance"
-    ],
-    "updated_at": "",
-    "first_seen_at": "2026-08-15T02:30:47.614898+00:00",
-    "enriched_at": "2026-09-26T21:23:55.153739+00:00"
   },
   {
     "company": "Thermo Fisher Scientific",
@@ -392596,6 +392515,31 @@
     "enriched_at": "2026-09-22T17:12:46.099748+00:00"
   },
   {
+    "company": "Applied Materials",
+    "fortune_rank": 160,
+    "title": "Process Engineer",
+    "location": "Santa Clara,CA",
+    "url": "https://amat.wd1.myworkdayjobs.com/en-US/External/job/Santa-ClaraCA/Process-Engineer_R2628443",
+    "source": "workday",
+    "external_id": "/job/Santa-ClaraCA/Process-Engineer_R2628443",
+    "employment_type": "full-time",
+    "category": "Other",
+    "h1b_status": "unknown",
+    "sponsorship_evidence": "",
+    "h1b_mentioned": false,
+    "salary_min": null,
+    "salary_max": null,
+    "salary_currency": "",
+    "salary_period": "",
+    "salary_text": "",
+    "keywords": [
+      "sales"
+    ],
+    "updated_at": "",
+    "first_seen_at": "2026-09-27T17:09:15.030050+00:00",
+    "enriched_at": "2026-09-27T17:09:12.294225+00:00"
+  },
+  {
     "company": "Analog Devices",
     "fortune_rank": 396,
     "title": "Global Head of Enterprise Standards",
@@ -392893,29 +392837,6 @@
     "updated_at": "",
     "first_seen_at": "2026-09-25T05:10:09.019400+00:00",
     "enriched_at": "2026-09-25T05:10:07.322218+00:00"
-  },
-  {
-    "company": "Analog Devices",
-    "fortune_rank": 396,
-    "title": "Equipment Maintenance Technician (Nights)",
-    "location": "US, MA, Wilmington",
-    "url": "https://analogdevices.wd1.myworkdayjobs.com/en-US/External/job/US-MA-Wilmington/Equipment-Maintenance-Technician--Nights-_R263163",
-    "source": "workday",
-    "external_id": "/job/US-MA-Wilmington/Equipment-Maintenance-Technician--Nights-_R263163",
-    "employment_type": "full-time",
-    "category": "Other",
-    "h1b_status": "unknown",
-    "sponsorship_evidence": "",
-    "h1b_mentioned": false,
-    "salary_min": null,
-    "salary_max": null,
-    "salary_currency": "",
-    "salary_period": "",
-    "salary_text": "",
-    "keywords": [],
-    "updated_at": "",
-    "first_seen_at": "2026-09-24T17:24:42.354131+00:00",
-    "enriched_at": "2026-09-24T17:24:40.501966+00:00"
   },
   {
     "company": "Marvell Technology",

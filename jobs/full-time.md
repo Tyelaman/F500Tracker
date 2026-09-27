@@ -1,18 +1,18 @@
 # F500Tracker full-time positions
 
-Last updated: September 27, 2026 at 12:12 UTC
+Last updated: September 27, 2026 at 17:09 UTC
 
-Current positions: 14870
+Current positions: 14867
 
 ## Categories
 
-[Software & IT (2045)](#software-it) · [Data & AI (237)](#data-ai) · [Product & Design (101)](#product-design) · [Engineering (990)](#engineering) · [Finance & Accounting (239)](#finance-accounting) · [Sales & Marketing (1100)](#sales-marketing) · [Operations & Supply Chain (854)](#operations-supply-chain) · [People & Legal (152)](#people-legal) · [Other (9152)](#other)
+[Software & IT (2044)](#software-it) · [Data & AI (237)](#data-ai) · [Product & Design (101)](#product-design) · [Engineering (990)](#engineering) · [Finance & Accounting (239)](#finance-accounting) · [Sales & Marketing (1099)](#sales-marketing) · [Operations & Supply Chain (854)](#operations-supply-chain) · [People & Legal (152)](#people-legal) · [Other (9151)](#other)
 
 <a id="software-it"></a>
 
 ## Software & IT
 
-Open positions: 2045
+Open positions: 2044
 
 | Rank | Company | Position | Location | Category | Salary | Keywords | Sponsorship | Apply |
 |---:|---|---|---|---|---|---|---|---|
@@ -1067,7 +1067,6 @@ Open positions: 2045
 | 88 | Intel | Software Application Development Engineer | US, Arizona, Phoenix | Software & IT | Not disclosed | C# · TypeScript · SQL · supply chain · logistics | Not specified | [Apply](https://intel.wd1.myworkdayjobs.com/en-US/External/job/US-Arizona-Phoenix/Software-Application-Development-Engineer-Grade_JR0283627) |
 | 119 | Visa | Sr. Manager, Software Engineering (10 to 14 years, GenAI) | IN - Bengaluru, India | Software & IT | Not disclosed | Python · Java · C# · Node.js · AWS | Not specified | [Apply](https://visa.wd5.myworkdayjobs.com/en-US/Visa/job/IN---Bengaluru-India/Sr-Manager--Software-Engineering--10-to-14-years--GenAI-_REF087950W) |
 | 119 | Visa | Sr. Software Engineer - Core Automation Platform | US - Ashburn, VA | Software & IT | Not disclosed | Python · TypeScript · React · Node.js · AWS | Not specified | [Apply](https://visa.wd5.myworkdayjobs.com/en-US/Visa/job/US---Ashburn-VA/Sr-Software-Engineer---Core-Automation-Platform_REF085123W) |
-| 119 | Visa | Sr Software Engineer (3-5 yrs of experience - Java Full Stack - Java, JavaScript, Spring Boot, SQL,Angular, Node JS or React) | IN - Bengaluru, India | Software & IT | Not disclosed | Java · C# · JavaScript · SQL · React | Not specified | [Apply](https://visa.wd5.myworkdayjobs.com/en-US/Visa/job/IN---Bengaluru-India/Sr-Software-Engineer_REF078405W) |
 | 119 | Visa | Staff Software Engineer, Sr. Consultant (Agentic AI, Cloud, LLM, API) | US - Foster City, CA | Software & IT | Not disclosed | Java · C++ · C# · React · AWS | Not specified | [Apply](https://visa.wd5.myworkdayjobs.com/en-US/Visa/job/US---Foster-City-CA/Software-Engineer---Sr-Consultant-level-1_REF080662W) |
 | 119 | Visa | Cybersecurity Engineer - Product Development | US - Austin, TX | Software & IT | Not disclosed | Python · Java · SQL · React · sales | Not specified | [Apply](https://visa.wd5.myworkdayjobs.com/en-US/Visa/job/US---Austin-TX/Cybersecurity-Engineer---Product-Development_REF088499W) |
 | 119 | Visa | Software Engineer - Sr Consultant level-2 | US - Foster City, CA | Software & IT | Not disclosed | Java · C++ · C# · React · AWS | Not specified | [Apply](https://visa.wd5.myworkdayjobs.com/en-US/Visa/job/US---Foster-City-CA/Software-Engineer---Sr-Consultant-level-2_REF080663W) |
@@ -3679,7 +3678,7 @@ Open positions: 239
 
 ## Sales & Marketing
 
-Open positions: 1100
+Open positions: 1099
 
 | Rank | Company | Position | Location | Category | Salary | Keywords | Sponsorship | Apply |
 |---:|---|---|---|---|---|---|---|---|
@@ -4106,7 +4105,6 @@ Open positions: 1100
 | 52 | Lowe's | Full Time - Sales Associate - Building Materials - Day | Langhorne, PA (Middletown Township) 1572 | Sales & Marketing | Not disclosed | sales | Not specified | [Apply](https://lowes.wd5.myworkdayjobs.com/en-US/LWS_External_CS/job/Langhorne-PA-Middletown-Township-1572/Full-Time---Sales-Associate---Building-Materials---Day_JR-02654141-1) |
 | 52 | Lowe's | Full Time - Sales Associate - ProServices - Day | Princeton, NJ (W Windsor) 1185 | Sales & Marketing | $16–$16.65/hr | sales | Not specified | [Apply](https://lowes.wd5.myworkdayjobs.com/en-US/LWS_External_CS/job/Princeton-NJ-W-Windsor-1185/Full-Time---Sales-Associate---ProServices---Day_JR-02654140) |
 | 52 | Lowe's | Full Time - Sales Associate - Building Materials - Day | Jackson, TN (S Jackson) 1893 | Sales & Marketing | Not disclosed | sales | Not specified | [Apply](https://lowes.wd5.myworkdayjobs.com/en-US/LWS_External_CS/job/Jackson-TN-S-Jackson-1893/Full-Time---Sales-Associate---Building-Materials---Day_JR-02654048) |
-| 52 | Lowe's | Full Time - Sales Associate - Inside Lawn & Garden - Day | San Antonio, TX (N San Antonio) 1579 | Sales & Marketing | Not disclosed | sales | Not specified | [Apply](https://lowes.wd5.myworkdayjobs.com/en-US/LWS_External_CS/job/San-Antonio-TX-N-San-Antonio-1579/Full-Time---Sales-Associate---Inside-Lawn---Garden---Day_JR-02654041) |
 | 52 | Lowe's | Full Time - Sales Associate - Building Materials - Opening | Toledo, OH (SW Toledo) 1643 | Sales & Marketing | Not disclosed | sales | Not specified | [Apply](https://lowes.wd5.myworkdayjobs.com/en-US/LWS_External_CS/job/Toledo-OH-SW-Toledo-1643/Full-Time---Sales-Associate---Building-Materials---Opening_JR-02654013) |
 | 52 | Lowe's | Full Time - Sales Associate - Flooring - Opening | Tulsa, OK (S Tulsa) 0243 | Sales & Marketing | Not disclosed | sales | Not specified | [Apply](https://lowes.wd5.myworkdayjobs.com/en-US/LWS_External_CS/job/Tulsa-OK-S-Tulsa-0243/Full-Time---Sales-Associate---Flooring---Opening_JR-02653980-1) |
 | 52 | Lowe's | Full Time - Sales Associate - Paint - Closing | Houston, TX (N Central Houston) 0681 | Sales & Marketing | Not disclosed | sales | Not specified | [Apply](https://lowes.wd5.myworkdayjobs.com/en-US/LWS_External_CS/job/Houston-TX-N-Central-Houston-0681/Full-Time---Sales-Associate---Paint---Closing_JR-02653955) |
@@ -5818,7 +5816,7 @@ Open positions: 152
 
 ## Other
 
-Open positions: 9152
+Open positions: 9151
 
 | Rank | Company | Position | Location | Category | Salary | Keywords | Sponsorship | Apply |
 |---:|---|---|---|---|---|---|---|---|
@@ -13677,6 +13675,7 @@ Open positions: 9152
 | 52 | Lowe's | Full Time - Fulfillment Associate - Day | Louisville, KY (SW Louisville) 0705 | Other | Not disclosed | sales · compliance | Not specified | [Apply](https://lowes.wd5.myworkdayjobs.com/en-US/LWS_External_CS/job/Louisville-KY-SW-Louisville-0705/Full-Time---Fulfillment-Associate---Day_JR-02639432) |
 | 52 | Lowe's | Full Time - Merchandising Service Associate - Day | Cape Coral, FL (W Cape Coral) 2361 | Other | Not disclosed | sales | Not specified | [Apply](https://lowes.wd5.myworkdayjobs.com/en-US/LWS_External_CS/job/Cape-Coral-FL-W-Cape-Coral-2361/Full-Time---Merchandising-Service-Associate---Day_JR-02639419) |
 | 52 | Lowe's | Full Time - Cashier - Opening | Anchorage, AK (NE Anchorage) 2955 | Other | Not disclosed | sales | Not specified | [Apply](https://lowes.wd5.myworkdayjobs.com/en-US/LWS_External_CS/job/Anchorage-AK-NE-Anchorage-2955/Full-Time---Cashier---Opening_JR-02639347) |
+| 55 | Sysco | CDL A Local Delivery Truck Driver | Greco Missouri | Other | $27/hr | sales | Not specified | [Apply](https://sysco.wd5.myworkdayjobs.com/en-US/syscocareers/job/Greco-Missouri/CDL-B-Local-Delivery-Truck-Driver_R259067) |
 | 55 | Sysco | Meat Packer | Buckhead New York | Other | Not disclosed | sales · compliance | Not specified | [Apply](https://sysco.wd5.myworkdayjobs.com/en-US/syscocareers/job/Buckhead-New-York/Meat-Packer_R269230) |
 | 55 | Sysco | Facility Technician III | Sysco Minnesota | Other | Not disclosed | sales · compliance | Not specified | [Apply](https://sysco.wd5.myworkdayjobs.com/en-US/syscocareers/job/Sysco-Minnesota/Facility-Technician-III_R269227) |
 | 55 | Sysco | Field Project Manager | Edward Don & Company - The Colony - TX | Other | Not disclosed | sales · contracts | Not specified | [Apply](https://sysco.wd5.myworkdayjobs.com/en-US/syscocareers/job/Edward-Don--Company---The-Colony---TX/Field-Project-Manager_R268408-1) |
@@ -13691,7 +13690,6 @@ Open positions: 9152
 | 55 | Sysco | Repack Associate | Freshpoint Connecticut | Other | Not disclosed | sales · compliance | Not specified | [Apply](https://sysco.wd5.myworkdayjobs.com/en-US/syscocareers/job/Freshpoint-Connecticut/Repack-Associate_R264645) |
 | 55 | Sysco | Short Runner | Sysco Central FL  -  Ocoee | Other | Not disclosed | Excel · sales | Not specified | [Apply](https://sysco.wd5.myworkdayjobs.com/en-US/syscocareers/job/Sysco-Central-FL-----Ocoee/Short-Runner_R268778) |
 | 55 | Sysco | CDL A Local Delivery Truck Driver (Food/Bev) | Sysco East Texas Main Office Longview | Other | Not disclosed | sales | Not specified | [Apply](https://sysco.wd5.myworkdayjobs.com/en-US/syscocareers/job/Sysco-East-Texas-Main-Office-Longview/CDL-A-Local-Delivery-Truck-Driver--Food-Bev-_R269203) |
-| 55 | Sysco | CDL A Local Delivery Truck Driver | Sysco Arkansas | Other | Not disclosed | sales | Not specified | [Apply](https://sysco.wd5.myworkdayjobs.com/en-US/syscocareers/job/Sysco-Arkansas/CDL-A-Local-Delivery-Truck-Driver_R265745) |
 | 64 | Allstate | Property Adjuster - Field Estimating - Fort Worth | TX - Fort Worth | Other | $56k–$98.45k/yr | compliance · legal · contracts | No sponsorship for this position | [Apply](https://allstate.wd5.myworkdayjobs.com/en-US/allstate_careers/job/TX---Fort-Worth/Property-Adjuster---Field-Estimating---Dallas-Fort-Worth_R30098) |
 | 64 | Allstate | MD Claims Adjuster - IS | US - Remote | Other | Not disclosed | compliance · contracts | Not specified | [Apply](https://allstate.wd5.myworkdayjobs.com/en-US/allstate_careers/job/US---Remote/MD-Claims-Adjuster---IS_R35406) |
 | 64 | Allstate | Project & Program Management Senior Manager | USA - GA (Remote) | Other | Not disclosed | compliance · contracts | No sponsorship for this position | [Apply](https://allstate.wd5.myworkdayjobs.com/en-US/allstate_careers/job/USA---GA-Remote/Project---Program-Management-Senior-Manager_R35304-1) |
@@ -14595,7 +14593,6 @@ Open positions: 9152
 | 106 | Thermo Fisher Scientific | Staff Scientist - Injectable Device Testing | Middleton, Wisconsin, USA | Other | Not disclosed | Excel · compliance | Not specified | [Apply](https://thermofisher.wd5.myworkdayjobs.com/en-US/ThermoFisherCareers/job/Middleton-Wisconsin-USA/Research-Scientist---Small-Molecule_R-01345170-1) |
 | 106 | Thermo Fisher Scientific | Scientist III, R&D - Chromatography Consumables Development and Applications | Sunnyvale, California, USA | Other | Not disclosed | — | No sponsorship for this position | [Apply](https://thermofisher.wd5.myworkdayjobs.com/en-US/ThermoFisherCareers/job/Sunnyvale-California-USA/Scientist-III--R-D---Chromatography-Consumables-Development-and-Applications_R-01356226) |
 | 106 | Thermo Fisher Scientific | Engineer II, Manufacturing Engineering | Cincinnati, Ohio, USA | Other | Not disclosed | CAD | Not specified | [Apply](https://thermofisher.wd5.myworkdayjobs.com/en-US/ThermoFisherCareers/job/Cincinnati-Ohio-USA/Engineer-II--Manufacturing-Engineering_R-01357083) |
-| 106 | Thermo Fisher Scientific | EHS Specialist III -Environmental | Stafford Springs, Connecticut, USA | Other | Not disclosed | compliance | Not specified | [Apply](https://thermofisher.wd5.myworkdayjobs.com/en-US/ThermoFisherCareers/job/Stafford-Springs-Connecticut-USA/Environmental-Health-and-Safety-Specialist-III_R-01339936) |
 | 106 | Thermo Fisher Scientific | Scientist III, R&D - Chromatography Consumables Development and Processes | Sunnyvale, California, USA | Other | Not disclosed | — | No sponsorship for this position | [Apply](https://thermofisher.wd5.myworkdayjobs.com/en-US/ThermoFisherCareers/job/Sunnyvale-California-USA/Enter-Job-Posting-Title-hScientist-III--R-D---Chromatography-Consumables-Development-and-Processes_R-01356225) |
 | 106 | Thermo Fisher Scientific | Scientist III, Bioinformatics, Upstream Process Development | Grand Island, New York, USA | Other | Not disclosed | Python · machine learning | Not specified | [Apply](https://thermofisher.wd5.myworkdayjobs.com/en-US/ThermoFisherCareers/job/Grand-Island-New-York-USA/Scientist-III--Bioinformatics--Upstream-Process-Development_R-01355180-1) |
 | 106 | Thermo Fisher Scientific | Test Technician II - 1st Shift | Madison, Wisconsin, USA | Other | Not disclosed | — | Not specified | [Apply](https://thermofisher.wd5.myworkdayjobs.com/en-US/ThermoFisherCareers/job/Madison-Wisconsin-USA/Test-Technician-II---1st-Shift_R-01351513) |
@@ -14819,6 +14816,7 @@ Open positions: 9152
 | 133 | Hewlett Packard Enterprise | Hardware Product Line Manager, SASE & Security | San Jose, California, United States of America | Other | Not disclosed | electrical engineering · supply chain · logistics · sales · legal | Not specified | [Apply](https://hpe.wd5.myworkdayjobs.com/en-US/Jobsathpe/job/San-Jose-California-United-States-of-America/Hardware-Product-Line-Manager--SASE---Security_1210959-2) |
 | 160 | Applied Materials | Automation & Technology Solutions Engineer | Gloucester,MA | Other | Not disclosed | Python · Excel · audit · CAD · logistics | Not specified | [Apply](https://amat.wd1.myworkdayjobs.com/en-US/External/job/GloucesterMA/Automation---Technology-Solutions-Engineer_R2627515) |
 | 160 | Applied Materials | Supplier Engineer E4 | Austin,TX | Other | Not disclosed | risk management · mechanical engineering · supply chain · procurement · sales | Not specified | [Apply](https://amat.wd1.myworkdayjobs.com/en-US/External/job/AustinTX/Supplier-Engineer-E4_R2625398) |
+| 160 | Applied Materials | Process Engineer | Santa Clara,CA | Other | Not disclosed | sales | Not specified | [Apply](https://amat.wd1.myworkdayjobs.com/en-US/External/job/Santa-ClaraCA/Process-Engineer_R2628443) |
 | 396 | Analog Devices | Global Head of Enterprise Standards | US, TX, Austin, Plaza on the Lake | Other | Not disclosed | audit · risk management · compliance · legal | Not specified | [Apply](https://analogdevices.wd1.myworkdayjobs.com/en-US/External/job/US-TX-Austin-Plaza-on-the-Lake/Global-Head-of-Enterprise-Standards_R265760) |
 | 396 | Analog Devices | Staff Applications Engineer – Power | US, CA, San Jose, Rio Robles | Other | Not disclosed | Python · CAD · sales | Not specified | [Apply](https://analogdevices.wd1.myworkdayjobs.com/en-US/External/job/US-CA-San-Jose-Rio-Robles/Staff-Applications-Engineer---Power_R266296) |
 | 396 | Analog Devices | Staff Field Applications Engineer – Power | US, CA, San Jose, Rio Robles | Other | Not disclosed | Python | Not specified | [Apply](https://analogdevices.wd1.myworkdayjobs.com/en-US/External/job/US-CA-San-Jose-Rio-Robles/Staff-Field-Applications-Engineer---Power_R266295-1) |
@@ -14828,7 +14826,6 @@ Open positions: 9152
 | 396 | Analog Devices | Staff Process Sustaining Engineer | US, MA, Wilmington | Other | Not disclosed | electrical engineering | Not specified | [Apply](https://analogdevices.wd1.myworkdayjobs.com/en-US/External/job/US-MA-Wilmington/Staff-Process-Sustaining-Engineer_R266172-1) |
 | 396 | Analog Devices | Staff Network Engineer | US, OR, Beaverton | Other | Not disclosed | AWS · Azure · GCP | Not specified | [Apply](https://analogdevices.wd1.myworkdayjobs.com/en-US/External/job/US-OR-Beaverton/Staff-Network-Engineer_R265603) |
 | 396 | Analog Devices | Packaging Engineer | US, CA, San Jose, Rio Robles | Other | Not disclosed | mechanical engineering · electrical engineering · CAD · supply chain | Not specified | [Apply](https://analogdevices.wd1.myworkdayjobs.com/en-US/External/job/US-CA-San-Jose-Rio-Robles/Packaging-Engineer_R265554) |
-| 396 | Analog Devices | Equipment Maintenance Technician (Nights) | US, MA, Wilmington | Other | Not disclosed | — | Not specified | [Apply](https://analogdevices.wd1.myworkdayjobs.com/en-US/External/job/US-MA-Wilmington/Equipment-Maintenance-Technician--Nights-_R263163) |
 | 476 | Marvell Technology | Principal ATE Test Development Engineer | Santa Clara, CA | Other | Not disclosed | Python · C++ · electrical engineering | Not specified | [Apply](https://marvell.wd1.myworkdayjobs.com/en-US/MarvellCareers/job/Santa-Clara-CA/Principal-Test-Development-Engineer_2604754) |
 | 476 | Marvell Technology | Executive Administrative Assistant | Santa Clara, CA | Other | Not disclosed | Excel | Not specified | [Apply](https://marvell.wd1.myworkdayjobs.com/en-US/MarvellCareers/job/Santa-Clara-CA/Executive-Administrative-Assistant_2604740) |
 | 476 | Marvell Technology | Senior Principal Engineer – Hardware Chip Lead, Connectivity BU | Santa Clara, CA | Other | Not disclosed | electrical engineering | Not specified | [Apply](https://marvell.wd1.myworkdayjobs.com/en-US/MarvellCareers/job/Santa-Clara-CA/Senior-Principal-Engineer---Hardware-Chip-Lead--Connectivity-BU_2602772) |
