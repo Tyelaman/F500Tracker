@@ -1,12 +1,12 @@
 # F500Tracker internships
 
-Last updated: September 29, 2026 at 05:55 UTC
+Last updated: September 29, 2026 at 13:09 UTC
 
-Current internships: 664
+Current internships: 665
 
 ## Categories
 
-[Software & IT (60)](#software-it) · [Data & AI (14)](#data-ai) · [Product & Design (1)](#product-design) · [Engineering (82)](#engineering) · [Finance & Accounting (14)](#finance-accounting) · [Sales & Marketing (17)](#sales-marketing) · [Operations & Supply Chain (37)](#operations-supply-chain) · [People & Legal (5)](#people-legal) · [Other (434)](#other)
+[Software & IT (60)](#software-it) · [Data & AI (14)](#data-ai) · [Product & Design (1)](#product-design) · [Engineering (82)](#engineering) · [Finance & Accounting (14)](#finance-accounting) · [Sales & Marketing (17)](#sales-marketing) · [Operations & Supply Chain (37)](#operations-supply-chain) · [People & Legal (5)](#people-legal) · [Other (435)](#other)
 
 <a id="software-it"></a>
 
@@ -330,7 +330,7 @@ Open positions: 5
 
 ## Other
 
-Open positions: 434
+Open positions: 435
 
 | Rank | Company | Position | Location | Category | Salary | Keywords | Sponsorship | Apply |
 |---:|---|---|---|---|---|---|---|---|
@@ -432,6 +432,7 @@ Open positions: 434
 | 33 | Freddie Mac | Single-Family Data Intern- Summer 2027 | McLean, VA | Other | Not disclosed | Python · SQL · data science · analytics · risk management | Not specified | [Apply](https://freddiemac.wd5.myworkdayjobs.com/en-US/External/job/McLean-VA/Single-Family-Data-Intern--Summer-2027_JR17545) |
 | 39 | Morgan Stanley | Intern | Baltimore, Maryland, United States of America | Other | Not disclosed | sales · recruiting | Not specified | [Apply](https://ms.wd5.myworkdayjobs.com/en-US/External/job/Baltimore-Maryland-United-States-of-America/Intern_JR042973-2) |
 | 39 | Morgan Stanley | Intern | Jackson, Tennessee, United States of America | Other | Not disclosed | sales · recruiting | Not specified | [Apply](https://ms.wd5.myworkdayjobs.com/en-US/External/job/Jackson-Tennessee-United-States-of-America/Intern_JR042465) |
+| 44 | Walt Disney | Disney Live Entertainment Costume Production Intern, Spring 2027 | Anaheim, CA, USA | Other | $22/hr | CAD | Not specified | [Apply](https://disney.wd5.myworkdayjobs.com/en-US/disneycareer/job/Anaheim-CA-USA/Disney-Live-Entertainment-Costume-Production-Intern--Spring-2027_10159481) |
 | 44 | Walt Disney | Marketplace & Portfolio Insights Intern, Spring 2027 | New York, NY, USA | Other | $23/hr | analytics · Excel | Not specified | [Apply](https://disney.wd5.myworkdayjobs.com/en-US/disneycareer/job/New-York-NY-USA/Marketplace---Portfolio-Insights-Intern--Spring-2027_10158498) |
 | 44 | Walt Disney | Marvel and Lucasfilm Product Design (Hardlines) Intern, Spring 2027 | Glendale, CA, USA | Other | $23/hr | CAD · legal | Not specified | [Apply](https://disney.wd5.myworkdayjobs.com/en-US/disneycareer/job/Glendale-CA-USA/Marvel-and-Lucasfilm-Product-Design--Hardlines--Intern--Spring-2027_10160439) |
 | 44 | Walt Disney | Product Design (Accessories) Intern, Spring 2027 | Glendale, CA, USA | Other | $23/hr | Excel · CAD | Not specified | [Apply](https://disney.wd5.myworkdayjobs.com/en-US/disneycareer/job/Glendale-CA-USA/Product-Design--Accessories--Intern--Spring-2027_10160436) |
@@ -446,7 +447,6 @@ Open positions: 434
 | 44 | Walt Disney | Retail Creative Intern, Spring 2027 | Glendale, CA, USA | Other | $23/hr | — | Not specified | [Apply](https://disney.wd5.myworkdayjobs.com/en-US/disneycareer/job/Glendale-CA-USA/Retail-Creative-Intern--Spring-2027_10160430) |
 | 44 | Walt Disney | Disneyland Resort Labor Relations, Intern Spring 2027 | Anaheim, CA, USA | Other | $23/hr | logistics · human resources · legal · contracts | Not specified | [Apply](https://disney.wd5.myworkdayjobs.com/en-US/disneycareer/job/Anaheim-CA-USA/Disneyland-Resort-Labor-Relations--Intern-Spring-2027_10161154-2) |
 | 44 | Walt Disney | Walt Disney World Labor Relations Intern, Spring 2027 | Lake Buena Vista, FL, USA | Other | $23/hr | logistics · human resources · legal · contracts | Not specified | [Apply](https://disney.wd5.myworkdayjobs.com/en-US/disneycareer/job/Lake-Buena-Vista-FL-USA/Walt-Disney-World-Labor-Relations-Intern--Spring-2027_10159002) |
-| 44 | Walt Disney | FX Production & Special Projects Intern, Spring 2027 | Burbank, CA, USA | Other | $23/hr | Excel | Not specified | [Apply](https://disney.wd5.myworkdayjobs.com/en-US/disneycareer/job/Burbank-CA-USA/FX-Production---Special-Projects-Intern--Spring-2027_10159820-1) |
 | 44 | Walt Disney | Global Security Investigations Intern, Spring 2027 | Glendale, CA, USA | Other | $23/hr | Excel | Not specified | [Apply](https://disney.wd5.myworkdayjobs.com/en-US/disneycareer/job/Glendale-CA-USA/Global-Security-Investigations-Intern--Spring-2027_10160006) |
 | 44 | Walt Disney | Disney Experiences Commercial Integration Intern, Spring 2027 | Celebration, FL, USA | Other | $23/hr | — | Not specified | [Apply](https://disney.wd5.myworkdayjobs.com/en-US/disneycareer/job/Celebration-FL-USA/Disney-Experiences-Commercial-Integration-Intern--Spring-2027_10158969) |
 | 44 | Walt Disney | KABC Digital News Intern, ABC7 en Español, Spring 2027 | Glendale, CA, USA | Other | $18.47/hr | — | Not specified | [Apply](https://disney.wd5.myworkdayjobs.com/en-US/disneycareer/job/Glendale-CA-USA/KABC-Digital-News-Intern--ABC7-en-Espaol--Spring-2027_10158940) |
@@ -468,7 +468,6 @@ Open positions: 434
 | 45 | Johnson & Johnson | Impella Pump Systems Test Engineering Co-Op | Danvers, Massachusetts, United States of America | Other | $23.5/hr | mechanical engineering · electrical engineering · CAD · SolidWorks · compliance | Not specified | [Apply](https://jj.wd5.myworkdayjobs.com/en-US/JJ/job/Danvers-Massachusetts-United-States-of-America/Impella-Pump-Systems-Test-Engineering-Co-Op_R-099097) |
 | 45 | Johnson & Johnson | AIC Systems Test Engineering Co-Op | Danvers, Massachusetts, United States of America | Other | $23.5/hr | mechanical engineering · electrical engineering · CAD · SolidWorks · compliance | Not specified | [Apply](https://jj.wd5.myworkdayjobs.com/en-US/JJ/job/Danvers-Massachusetts-United-States-of-America/AIC-Systems-Test-Engineering-Co-Op_R-099094) |
 | 45 | Johnson & Johnson | Facilities Management Intern | Shepherdsville, Kentucky, United States of America | Other | Not disclosed | analytics · Excel · supply chain · procurement · compliance | Not specified | [Apply](https://jj.wd5.myworkdayjobs.com/en-US/JJ/job/Shepherdsville-Kentucky-United-States-of-America/Facilities-Management-Intern_R-100366) |
-| 45 | Johnson & Johnson | Automation & Robotics Engineering Spring Co-op | Santa Clara, California, United States of America | Other | $27/hr | Python · artificial intelligence · analytics · mechanical engineering · electrical engineering | Not specified | [Apply](https://jj.wd5.myworkdayjobs.com/en-US/JJ/job/Santa-Clara-California-United-States-of-America/Automation---Robotics-Engineering-Spring-Co-op_R-093526) |
 | 45 | Johnson & Johnson | Facilities Engineering Co-op | San Lorenzo, Puerto Rico, United States of America | Other | Not disclosed | Excel · mechanical engineering · electrical engineering · CAD · compliance | Not specified | [Apply](https://jj.wd5.myworkdayjobs.com/en-US/JJ/job/San-Lorenzo-Puerto-Rico-United-States-of-America/Facilities-Engineering-Co-op_R-099343) |
 | 45 | Johnson & Johnson | Manufacturing Engineering Co-Op | Milpitas, California, United States of America | Other | $27/hr | Python · Excel · mechanical engineering · electrical engineering · CAD | Not specified | [Apply](https://jj.wd5.myworkdayjobs.com/en-US/JJ/job/Milpitas-California-United-States-of-America/Manufacturing-Engineering-Co-Op_R-099376) |
 | 45 | Johnson & Johnson | Biosurgery R&D Lifecycle Management Intern | Raritan, New Jersey, United States of America | Other | $23.5/hr | Excel · mechanical engineering · compliance | Not specified | [Apply](https://jj.wd5.myworkdayjobs.com/en-US/JJ/job/Raritan-New-Jersey-United-States-of-America/Biosurgery-R-D-Lifecycle-Management-Intern_R-097552) |
@@ -530,6 +529,8 @@ Open positions: 434
 | 45 | Johnson & Johnson | Design and Development Co-Op, Summer 2027 | Cincinnati, Ohio, United States of America | Other | $23.5/hr | mechanical engineering · electrical engineering · CAD · recruiting | Not specified | [Apply](https://jj.wd5.myworkdayjobs.com/en-US/JJ/job/Cincinnati-Ohio-United-States-of-America/Design-and-Development-Co-Op--Summer-2027_R-096727) |
 | 45 | Johnson & Johnson | Data Science Co-Op, Spring 2027 | Cincinnati, Ohio, United States of America | Other | $23.5/hr | Python · SQL · data science · electrical engineering · recruiting | Not specified | [Apply](https://jj.wd5.myworkdayjobs.com/en-US/JJ/job/Cincinnati-Ohio-United-States-of-America/Data-Science-Co-Op--Spring-2027_R-095743) |
 | 45 | Johnson & Johnson | Design and Development, Co-Op Spring 2027 | Cincinnati, Ohio, United States of America | Other | $23.5/hr | mechanical engineering · electrical engineering · CAD · recruiting | Not specified | [Apply](https://jj.wd5.myworkdayjobs.com/en-US/JJ/job/Cincinnati-Ohio-United-States-of-America/Design-and-Development-Co-Op-Spring-2027_R-095696) |
+| 49 | RTX | Structural Engineering Co-op (Winter/Spring 2027) | US-ND-JAMESTOWN-P1 ~ 2604 Highway 20 N ~ PLANT 1 | Other | Not disclosed | Excel · mechanical engineering · CAD · SolidWorks · compliance | Not specified | [Apply](https://globalhr.wd5.myworkdayjobs.com/en-US/REC_RTX_Ext_Gateway/job/US-ND-JAMESTOWN-P1--2604-Highway-20-N--PLANT-1/Structural-Engineering-Co-op--Winter-Spring-2027-_01873938) |
+| 49 | RTX | Structural Engineering Co-op (Summer/Fall 2027) | US-ND-JAMESTOWN-P1 ~ 2604 Highway 20 N ~ PLANT 1 | Other | Not disclosed | Excel · mechanical engineering · CAD · SolidWorks · compliance | Not specified | [Apply](https://globalhr.wd5.myworkdayjobs.com/en-US/REC_RTX_Ext_Gateway/job/US-ND-JAMESTOWN-P1--2604-Highway-20-N--PLANT-1/Structural-Engineering-Co-op--Summer-Fall-2027-_01873941) |
 | 49 | RTX | Display Systems Engineering Co-Op (Summer/Fall 2027) - Onsite | US-IA-CEDAR RAPIDS-106 ~ 400 Collins Rd NE ~ BLDG 106 | Other | Not disclosed | Python · Excel · recruiting · compliance | Not specified | [Apply](https://globalhr.wd5.myworkdayjobs.com/en-US/REC_RTX_Ext_Gateway/job/US-IA-CEDAR-RAPIDS-106--400-Collins-Rd-NE--BLDG-106/Display-Systems-Engineering-Co-Op--Summer-Fall-2027----Onsite_01868917) |
 | 49 | RTX | Display Systems Engineering Co-op (Spring/Summer 2027) - Onsite | US-IA-CEDAR RAPIDS-106 ~ 400 Collins Rd NE ~ BLDG 106 | Other | Not disclosed | Python · Excel · recruiting · compliance | Not specified | [Apply](https://globalhr.wd5.myworkdayjobs.com/en-US/REC_RTX_Ext_Gateway/job/US-IA-CEDAR-RAPIDS-106--400-Collins-Rd-NE--BLDG-106/Display-Systems-Engineering-Co-op--Spring-Summer-2027----Onsite_01870090) |
 | 49 | RTX | 2027 Summer/Fall Co-op - Secure Systems (Onsite) | US-IA-CEDAR RAPIDS-137 ~ 855 35Th St NE ~ BLDG 137 | Other | Not disclosed | Python · compliance | Not specified | [Apply](https://globalhr.wd5.myworkdayjobs.com/en-US/REC_RTX_Ext_Gateway/job/US-IA-CEDAR-RAPIDS-137--855-35Th-St-NE--BLDG-137/XMLNAME-2027-Summer-Fall-Co-op---Secure-Systems--Onsite-_01877633) |
