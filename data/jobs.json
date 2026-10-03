@@ -412,9 +412,9 @@
       "recruiting",
       "compliance"
     ],
-    "updated_at": "2026-10-02T14:38:15-04:00",
+    "updated_at": "2026-10-03T04:11:43-04:00",
     "first_seen_at": "2026-10-02T22:26:55.027201+00:00",
-    "enriched_at": "2026-10-02T22:13:16.803566+00:00"
+    "enriched_at": "2026-10-03T11:38:26.114672+00:00"
   },
   {
     "company": "Coupang",
@@ -534,34 +534,6 @@
     "company": "Coupang",
     "fortune_rank": 132,
     "title": "Senior Executive Assistant",
-    "location": "Seattle, USA",
-    "url": "https://www.coupang.jobs/en/jobs/?gh_jid=8089206",
-    "source": "greenhouse",
-    "external_id": "8089206",
-    "employment_type": "full-time",
-    "category": "Other",
-    "h1b_status": "unknown",
-    "sponsorship_evidence": "",
-    "h1b_mentioned": false,
-    "salary_min": 89000.0,
-    "salary_max": 89000.0,
-    "salary_currency": "USD",
-    "salary_period": "year",
-    "salary_text": "$89,000/year",
-    "keywords": [
-      "Excel",
-      "tax",
-      "logistics",
-      "recruiting"
-    ],
-    "updated_at": "2026-10-01T04:26:09-04:00",
-    "first_seen_at": "2026-08-15T02:30:47.614898+00:00",
-    "enriched_at": "2026-10-01T13:12:16.538373+00:00"
-  },
-  {
-    "company": "Coupang",
-    "fortune_rank": 132,
-    "title": "Senior Executive Assistant",
     "location": "Mountain View, USA",
     "url": "https://www.coupang.jobs/en/jobs/?gh_jid=8160724",
     "source": "greenhouse",
@@ -585,6 +557,34 @@
     "updated_at": "2026-10-01T04:26:09-04:00",
     "first_seen_at": "2026-08-27T09:58:06.872283+00:00",
     "enriched_at": "2026-10-01T13:12:16.560085+00:00"
+  },
+  {
+    "company": "Coupang",
+    "fortune_rank": 132,
+    "title": "Senior Executive Assistant",
+    "location": "Seattle, USA",
+    "url": "https://www.coupang.jobs/en/jobs/?gh_jid=8089206",
+    "source": "greenhouse",
+    "external_id": "8089206",
+    "employment_type": "full-time",
+    "category": "Other",
+    "h1b_status": "unknown",
+    "sponsorship_evidence": "",
+    "h1b_mentioned": false,
+    "salary_min": 89000.0,
+    "salary_max": 89000.0,
+    "salary_currency": "USD",
+    "salary_period": "year",
+    "salary_text": "$89,000/year",
+    "keywords": [
+      "Excel",
+      "tax",
+      "logistics",
+      "recruiting"
+    ],
+    "updated_at": "2026-10-01T04:26:09-04:00",
+    "first_seen_at": "2026-08-15T02:30:47.614898+00:00",
+    "enriched_at": "2026-10-01T13:12:16.538373+00:00"
   },
   {
     "company": "Coupang",
@@ -684,39 +684,6 @@
     "company": "Coupang",
     "fortune_rank": 132,
     "title": "Senior Staff Backend Engineer - Cloud Infrastructure",
-    "location": "Seattle, USA",
-    "url": "https://www.coupang.jobs/en/jobs/?gh_jid=7438944",
-    "source": "greenhouse",
-    "external_id": "7438944",
-    "employment_type": "full-time",
-    "category": "Software & IT",
-    "h1b_status": "unknown",
-    "sponsorship_evidence": "",
-    "h1b_mentioned": false,
-    "salary_min": 174000.0,
-    "salary_max": 174000.0,
-    "salary_currency": "USD",
-    "salary_period": "year",
-    "salary_text": "$174,000/year",
-    "keywords": [
-      "Python",
-      "AWS",
-      "Azure",
-      "GCP",
-      "Docker",
-      "Kubernetes",
-      "Terraform",
-      "tax",
-      "recruiting"
-    ],
-    "updated_at": "2026-10-01T04:26:09-04:00",
-    "first_seen_at": "2026-08-15T02:30:47.614898+00:00",
-    "enriched_at": "2026-10-01T13:12:16.656214+00:00"
-  },
-  {
-    "company": "Coupang",
-    "fortune_rank": 132,
-    "title": "Senior Staff Backend Engineer - Cloud Infrastructure",
     "location": "Mountain View, USA",
     "url": "https://www.coupang.jobs/en/jobs/?gh_jid=7962133",
     "source": "greenhouse",
@@ -745,6 +712,39 @@
     "updated_at": "2026-10-01T04:26:09-04:00",
     "first_seen_at": "2026-08-15T02:30:47.614898+00:00",
     "enriched_at": "2026-10-01T13:12:16.690355+00:00"
+  },
+  {
+    "company": "Coupang",
+    "fortune_rank": 132,
+    "title": "Senior Staff Backend Engineer - Cloud Infrastructure",
+    "location": "Seattle, USA",
+    "url": "https://www.coupang.jobs/en/jobs/?gh_jid=7438944",
+    "source": "greenhouse",
+    "external_id": "7438944",
+    "employment_type": "full-time",
+    "category": "Software & IT",
+    "h1b_status": "unknown",
+    "sponsorship_evidence": "",
+    "h1b_mentioned": false,
+    "salary_min": 174000.0,
+    "salary_max": 174000.0,
+    "salary_currency": "USD",
+    "salary_period": "year",
+    "salary_text": "$174,000/year",
+    "keywords": [
+      "Python",
+      "AWS",
+      "Azure",
+      "GCP",
+      "Docker",
+      "Kubernetes",
+      "Terraform",
+      "tax",
+      "recruiting"
+    ],
+    "updated_at": "2026-10-01T04:26:09-04:00",
+    "first_seen_at": "2026-08-15T02:30:47.614898+00:00",
+    "enriched_at": "2026-10-01T13:12:16.656214+00:00"
   },
   {
     "company": "Coupang",
@@ -1595,9 +1595,9 @@
       "sales",
       "recruiting"
     ],
-    "updated_at": "2026-10-01T04:26:09-04:00",
+    "updated_at": "2026-10-03T04:11:20-04:00",
     "first_seen_at": "2026-09-16T05:01:44.516712+00:00",
-    "enriched_at": "2026-10-01T13:12:17.127260+00:00"
+    "enriched_at": "2026-10-03T11:38:26.133996+00:00"
   },
   {
     "company": "Coupang",
@@ -23990,7 +23990,7 @@
     ],
     "updated_at": "",
     "first_seen_at": "2026-08-15T02:30:47.614898+00:00",
-    "enriched_at": "2026-09-26T11:24:21.697464+00:00"
+    "enriched_at": "2026-10-03T11:39:03.817519+00:00"
   },
   {
     "company": "Capital One",
@@ -24047,7 +24047,7 @@
     ],
     "updated_at": "",
     "first_seen_at": "2026-08-15T02:30:47.614898+00:00",
-    "enriched_at": "2026-09-26T11:24:21.658804+00:00"
+    "enriched_at": "2026-10-03T11:39:03.832671+00:00"
   },
   {
     "company": "Capital One",
@@ -26075,7 +26075,7 @@
     ],
     "updated_at": "",
     "first_seen_at": "2026-08-15T02:30:47.614898+00:00",
-    "enriched_at": "2026-09-26T11:24:21.751854+00:00"
+    "enriched_at": "2026-10-03T11:39:03.848095+00:00"
   },
   {
     "company": "Capital One",
@@ -26456,7 +26456,7 @@
     ],
     "updated_at": "",
     "first_seen_at": "2026-09-17T21:36:29.166729+00:00",
-    "enriched_at": "2026-09-26T11:24:22.475981+00:00"
+    "enriched_at": "2026-10-03T11:39:03.861621+00:00"
   },
   {
     "company": "Capital One",
@@ -33232,7 +33232,7 @@
     ],
     "updated_at": "",
     "first_seen_at": "2026-09-18T16:37:42.131228+00:00",
-    "enriched_at": "2026-09-26T11:24:21.674567+00:00"
+    "enriched_at": "2026-10-03T11:39:03.873072+00:00"
   },
   {
     "company": "Capital One",
@@ -33258,7 +33258,7 @@
     ],
     "updated_at": "",
     "first_seen_at": "2026-08-15T02:30:47.614898+00:00",
-    "enriched_at": "2026-09-26T11:24:21.686264+00:00"
+    "enriched_at": "2026-10-03T11:39:03.884677+00:00"
   },
   {
     "company": "Capital One",
@@ -33962,7 +33962,7 @@
     ],
     "updated_at": "",
     "first_seen_at": "2026-09-11T21:11:24.093992+00:00",
-    "enriched_at": "2026-09-26T11:24:21.721475+00:00"
+    "enriched_at": "2026-10-03T11:39:03.895928+00:00"
   },
   {
     "company": "Capital One",
@@ -34320,7 +34320,7 @@
     ],
     "updated_at": "",
     "first_seen_at": "2026-08-15T02:30:47.614898+00:00",
-    "enriched_at": "2026-09-26T11:24:21.765540+00:00"
+    "enriched_at": "2026-10-03T11:39:03.907444+00:00"
   },
   {
     "company": "Capital One",
@@ -34774,7 +34774,7 @@
     ],
     "updated_at": "",
     "first_seen_at": "2026-08-15T02:30:47.614898+00:00",
-    "enriched_at": "2026-09-26T11:24:21.785619+00:00"
+    "enriched_at": "2026-10-03T11:39:03.918920+00:00"
   },
   {
     "company": "Capital One",
@@ -34891,7 +34891,7 @@
     ],
     "updated_at": "",
     "first_seen_at": "2026-09-03T21:16:07.532271+00:00",
-    "enriched_at": "2026-09-26T11:24:21.797919+00:00"
+    "enriched_at": "2026-10-03T11:39:03.931319+00:00"
   },
   {
     "company": "Capital One",
@@ -35085,7 +35085,7 @@
     ],
     "updated_at": "",
     "first_seen_at": "2026-08-15T02:30:47.614898+00:00",
-    "enriched_at": "2026-09-26T11:24:21.818725+00:00"
+    "enriched_at": "2026-10-03T11:39:03.943251+00:00"
   },
   {
     "company": "Capital One",
@@ -35530,7 +35530,7 @@
     ],
     "updated_at": "",
     "first_seen_at": "2026-08-15T02:30:47.614898+00:00",
-    "enriched_at": "2026-09-26T11:24:21.866800+00:00"
+    "enriched_at": "2026-10-03T11:39:03.958485+00:00"
   },
   {
     "company": "Capital One",
@@ -35652,7 +35652,7 @@
     ],
     "updated_at": "",
     "first_seen_at": "2026-08-22T02:09:13.920304+00:00",
-    "enriched_at": "2026-09-26T11:24:21.915202+00:00"
+    "enriched_at": "2026-10-03T11:39:03.976331+00:00"
   },
   {
     "company": "Capital One",
@@ -36075,7 +36075,7 @@
     ],
     "updated_at": "",
     "first_seen_at": "2026-08-15T02:30:47.614898+00:00",
-    "enriched_at": "2026-09-26T11:24:21.947032+00:00"
+    "enriched_at": "2026-10-03T11:39:03.991181+00:00"
   },
   {
     "company": "Capital One",
@@ -36106,7 +36106,7 @@
     ],
     "updated_at": "",
     "first_seen_at": "2026-08-15T02:30:47.614898+00:00",
-    "enriched_at": "2026-09-26T11:24:21.957442+00:00"
+    "enriched_at": "2026-10-03T11:39:04.001623+00:00"
   },
   {
     "company": "Capital One",
@@ -36134,7 +36134,7 @@
     ],
     "updated_at": "",
     "first_seen_at": "2026-08-15T02:30:47.614898+00:00",
-    "enriched_at": "2026-09-26T11:24:21.981301+00:00"
+    "enriched_at": "2026-10-03T11:39:04.016728+00:00"
   },
   {
     "company": "Capital One",
@@ -36167,7 +36167,7 @@
     ],
     "updated_at": "",
     "first_seen_at": "2026-08-15T02:30:47.614898+00:00",
-    "enriched_at": "2026-09-26T11:24:21.996645+00:00"
+    "enriched_at": "2026-10-03T11:39:04.032106+00:00"
   },
   {
     "company": "Capital One",
@@ -36195,7 +36195,7 @@
     ],
     "updated_at": "",
     "first_seen_at": "2026-08-15T02:30:47.614898+00:00",
-    "enriched_at": "2026-09-26T11:24:22.006760+00:00"
+    "enriched_at": "2026-10-03T11:39:04.042274+00:00"
   },
   {
     "company": "Capital One",
@@ -36224,7 +36224,7 @@
     ],
     "updated_at": "",
     "first_seen_at": "2026-08-15T02:30:47.614898+00:00",
-    "enriched_at": "2026-09-26T11:24:22.015509+00:00"
+    "enriched_at": "2026-10-03T11:39:04.051058+00:00"
   },
   {
     "company": "Capital One",
@@ -36254,7 +36254,7 @@
     ],
     "updated_at": "",
     "first_seen_at": "2026-08-15T02:30:47.614898+00:00",
-    "enriched_at": "2026-09-26T11:24:22.027931+00:00"
+    "enriched_at": "2026-10-03T11:39:04.063410+00:00"
   },
   {
     "company": "Capital One",
@@ -36282,7 +36282,7 @@
     ],
     "updated_at": "",
     "first_seen_at": "2026-08-15T02:30:47.614898+00:00",
-    "enriched_at": "2026-09-26T11:24:22.045489+00:00"
+    "enriched_at": "2026-10-03T11:39:04.080926+00:00"
   },
   {
     "company": "Capital One",
@@ -36310,7 +36310,7 @@
     ],
     "updated_at": "",
     "first_seen_at": "2026-08-15T02:30:47.614898+00:00",
-    "enriched_at": "2026-09-26T11:24:22.060836+00:00"
+    "enriched_at": "2026-10-03T11:39:04.096269+00:00"
   },
   {
     "company": "Capital One",
@@ -36336,7 +36336,7 @@
     ],
     "updated_at": "",
     "first_seen_at": "2026-08-15T02:30:47.614898+00:00",
-    "enriched_at": "2026-09-26T11:24:22.076233+00:00"
+    "enriched_at": "2026-10-03T11:39:04.111638+00:00"
   },
   {
     "company": "Capital One",
@@ -36363,7 +36363,7 @@
     ],
     "updated_at": "",
     "first_seen_at": "2026-08-15T02:30:47.614898+00:00",
-    "enriched_at": "2026-09-26T11:24:22.096098+00:00"
+    "enriched_at": "2026-10-03T11:39:04.122903+00:00"
   },
   {
     "company": "Capital One",
@@ -36391,7 +36391,7 @@
     ],
     "updated_at": "",
     "first_seen_at": "2026-08-15T02:30:47.614898+00:00",
-    "enriched_at": "2026-09-26T11:24:22.107879+00:00"
+    "enriched_at": "2026-10-03T11:39:04.134665+00:00"
   },
   {
     "company": "Capital One",
@@ -36423,7 +36423,7 @@
     ],
     "updated_at": "",
     "first_seen_at": "2026-08-15T02:30:47.614898+00:00",
-    "enriched_at": "2026-09-26T11:24:22.123201+00:00"
+    "enriched_at": "2026-10-03T11:39:04.149968+00:00"
   },
   {
     "company": "Capital One",
@@ -36456,7 +36456,7 @@
     ],
     "updated_at": "",
     "first_seen_at": "2026-08-15T02:30:47.614898+00:00",
-    "enriched_at": "2026-09-26T11:24:22.138027+00:00"
+    "enriched_at": "2026-10-03T11:39:04.164718+00:00"
   },
   {
     "company": "Capital One",
@@ -36484,7 +36484,7 @@
     ],
     "updated_at": "",
     "first_seen_at": "2026-08-15T02:30:47.614898+00:00",
-    "enriched_at": "2026-09-26T11:24:22.153662+00:00"
+    "enriched_at": "2026-10-03T11:39:04.180473+00:00"
   },
   {
     "company": "Capital One",
@@ -36512,7 +36512,7 @@
     ],
     "updated_at": "",
     "first_seen_at": "2026-08-15T02:30:47.614898+00:00",
-    "enriched_at": "2026-09-26T11:24:22.164315+00:00"
+    "enriched_at": "2026-10-03T11:39:04.191103+00:00"
   },
   {
     "company": "Capital One",
@@ -36544,7 +36544,7 @@
     ],
     "updated_at": "",
     "first_seen_at": "2026-08-15T02:30:47.614898+00:00",
-    "enriched_at": "2026-09-26T11:24:22.174924+00:00"
+    "enriched_at": "2026-10-03T11:39:04.201686+00:00"
   },
   {
     "company": "Capital One",
@@ -36572,7 +36572,7 @@
     ],
     "updated_at": "",
     "first_seen_at": "2026-08-15T02:30:47.614898+00:00",
-    "enriched_at": "2026-09-26T11:24:22.188996+00:00"
+    "enriched_at": "2026-10-03T11:39:04.215606+00:00"
   },
   {
     "company": "Capital One",
@@ -36599,7 +36599,7 @@
     ],
     "updated_at": "",
     "first_seen_at": "2026-08-15T02:30:47.614898+00:00",
-    "enriched_at": "2026-09-26T11:24:22.200383+00:00"
+    "enriched_at": "2026-10-03T11:39:04.226941+00:00"
   },
   {
     "company": "Capital One",
@@ -36628,7 +36628,7 @@
     ],
     "updated_at": "",
     "first_seen_at": "2026-08-15T02:30:47.614898+00:00",
-    "enriched_at": "2026-09-26T11:24:22.212755+00:00"
+    "enriched_at": "2026-10-03T11:39:04.239381+00:00"
   },
   {
     "company": "Capital One",
@@ -36655,7 +36655,7 @@
     ],
     "updated_at": "",
     "first_seen_at": "2026-08-15T02:30:47.614898+00:00",
-    "enriched_at": "2026-09-26T11:24:22.224016+00:00"
+    "enriched_at": "2026-10-03T11:39:04.250640+00:00"
   },
   {
     "company": "Capital One",
@@ -36682,7 +36682,7 @@
     ],
     "updated_at": "",
     "first_seen_at": "2026-08-15T02:30:47.614898+00:00",
-    "enriched_at": "2026-09-26T11:24:22.263482+00:00"
+    "enriched_at": "2026-10-03T11:39:04.263098+00:00"
   },
   {
     "company": "Capital One",
@@ -36710,7 +36710,7 @@
     ],
     "updated_at": "",
     "first_seen_at": "2026-08-15T02:30:47.614898+00:00",
-    "enriched_at": "2026-09-26T11:24:22.275567+00:00"
+    "enriched_at": "2026-10-03T11:39:04.275236+00:00"
   },
   {
     "company": "Capital One",
@@ -36737,7 +36737,7 @@
     ],
     "updated_at": "",
     "first_seen_at": "2026-08-15T02:30:47.614898+00:00",
-    "enriched_at": "2026-09-26T11:24:22.301576+00:00"
+    "enriched_at": "2026-10-03T11:39:04.286760+00:00"
   },
   {
     "company": "Capital One",
@@ -36764,7 +36764,7 @@
     ],
     "updated_at": "",
     "first_seen_at": "2026-08-15T02:30:47.614898+00:00",
-    "enriched_at": "2026-09-26T11:24:22.316752+00:00"
+    "enriched_at": "2026-10-03T11:39:04.301965+00:00"
   },
   {
     "company": "Capital One",
@@ -36797,7 +36797,7 @@
     ],
     "updated_at": "",
     "first_seen_at": "2026-08-15T02:30:47.614898+00:00",
-    "enriched_at": "2026-09-26T11:24:22.331887+00:00"
+    "enriched_at": "2026-10-03T11:39:04.317529+00:00"
   },
   {
     "company": "Capital One",
@@ -36824,7 +36824,7 @@
     ],
     "updated_at": "",
     "first_seen_at": "2026-08-15T02:30:47.614898+00:00",
-    "enriched_at": "2026-09-26T11:24:22.347544+00:00"
+    "enriched_at": "2026-10-03T11:39:04.333234+00:00"
   },
   {
     "company": "Capital One",
@@ -36855,7 +36855,7 @@
     ],
     "updated_at": "",
     "first_seen_at": "2026-08-15T02:30:47.614898+00:00",
-    "enriched_at": "2026-09-26T11:24:22.358824+00:00"
+    "enriched_at": "2026-10-03T11:39:04.344507+00:00"
   },
   {
     "company": "Capital One",
@@ -36883,7 +36883,7 @@
     ],
     "updated_at": "",
     "first_seen_at": "2026-08-15T02:30:47.614898+00:00",
-    "enriched_at": "2026-09-26T11:24:22.370746+00:00"
+    "enriched_at": "2026-10-03T11:39:04.356372+00:00"
   },
   {
     "company": "Capital One",
@@ -36912,7 +36912,7 @@
     ],
     "updated_at": "",
     "first_seen_at": "2026-08-15T02:30:47.614898+00:00",
-    "enriched_at": "2026-09-26T11:24:22.397671+00:00"
+    "enriched_at": "2026-10-03T11:39:04.367858+00:00"
   },
   {
     "company": "Capital One",
@@ -36939,7 +36939,7 @@
     ],
     "updated_at": "",
     "first_seen_at": "2026-08-15T02:30:47.614898+00:00",
-    "enriched_at": "2026-09-26T11:24:22.408512+00:00"
+    "enriched_at": "2026-10-03T11:39:04.378721+00:00"
   },
   {
     "company": "Capital One",
@@ -36969,7 +36969,7 @@
     ],
     "updated_at": "",
     "first_seen_at": "2026-08-15T02:30:47.614898+00:00",
-    "enriched_at": "2026-09-26T11:24:22.423745+00:00"
+    "enriched_at": "2026-10-03T11:39:04.393980+00:00"
   },
   {
     "company": "Capital One",
@@ -36996,7 +36996,7 @@
     ],
     "updated_at": "",
     "first_seen_at": "2026-08-15T02:30:47.614898+00:00",
-    "enriched_at": "2026-09-26T11:24:22.432667+00:00"
+    "enriched_at": "2026-10-03T11:39:04.402909+00:00"
   },
   {
     "company": "Capital One",
@@ -37025,7 +37025,7 @@
     ],
     "updated_at": "",
     "first_seen_at": "2026-08-15T02:30:47.614898+00:00",
-    "enriched_at": "2026-09-26T11:24:22.460676+00:00"
+    "enriched_at": "2026-10-03T11:39:04.418820+00:00"
   },
   {
     "company": "Capital One",
@@ -37054,7 +37054,7 @@
     ],
     "updated_at": "",
     "first_seen_at": "2026-08-15T02:30:47.614898+00:00",
-    "enriched_at": "2026-09-26T11:24:22.487407+00:00"
+    "enriched_at": "2026-10-03T11:39:04.435032+00:00"
   },
   {
     "company": "Capital One",
@@ -37081,7 +37081,7 @@
     ],
     "updated_at": "",
     "first_seen_at": "2026-08-15T02:30:47.614898+00:00",
-    "enriched_at": "2026-09-26T11:24:22.500186+00:00"
+    "enriched_at": "2026-10-03T11:39:04.447905+00:00"
   },
   {
     "company": "Capital One",
@@ -37115,7 +37115,7 @@
     ],
     "updated_at": "",
     "first_seen_at": "2026-08-15T02:30:47.614898+00:00",
-    "enriched_at": "2026-09-26T11:24:22.515554+00:00"
+    "enriched_at": "2026-10-03T11:39:04.463113+00:00"
   },
   {
     "company": "Capital One",
@@ -37142,7 +37142,7 @@
     ],
     "updated_at": "",
     "first_seen_at": "2026-08-15T02:30:47.614898+00:00",
-    "enriched_at": "2026-09-26T11:24:22.522135+00:00"
+    "enriched_at": "2026-10-03T11:39:04.469771+00:00"
   },
   {
     "company": "Capital One",
@@ -37170,7 +37170,7 @@
     ],
     "updated_at": "",
     "first_seen_at": "2026-08-15T02:30:47.614898+00:00",
-    "enriched_at": "2026-09-26T11:24:22.573975+00:00"
+    "enriched_at": "2026-10-03T11:39:04.481505+00:00"
   },
   {
     "company": "Capital One",
@@ -37198,7 +37198,7 @@
     ],
     "updated_at": "",
     "first_seen_at": "2026-08-15T02:30:47.614898+00:00",
-    "enriched_at": "2026-09-26T11:24:22.584665+00:00"
+    "enriched_at": "2026-10-03T11:39:04.492201+00:00"
   },
   {
     "company": "Capital One",
@@ -37230,7 +37230,7 @@
     ],
     "updated_at": "",
     "first_seen_at": "2026-08-15T02:30:47.614898+00:00",
-    "enriched_at": "2026-09-26T11:24:22.605721+00:00"
+    "enriched_at": "2026-10-03T11:39:04.502789+00:00"
   },
   {
     "company": "Capital One",
@@ -37262,7 +37262,7 @@
     ],
     "updated_at": "",
     "first_seen_at": "2026-08-15T02:30:47.614898+00:00",
-    "enriched_at": "2026-09-26T11:24:22.619606+00:00"
+    "enriched_at": "2026-10-03T11:39:04.516550+00:00"
   },
   {
     "company": "Capital One",
@@ -37291,7 +37291,7 @@
     ],
     "updated_at": "",
     "first_seen_at": "2026-08-15T02:30:47.614898+00:00",
-    "enriched_at": "2026-09-26T11:24:22.633775+00:00"
+    "enriched_at": "2026-10-03T11:39:04.530736+00:00"
   },
   {
     "company": "Capital One",
@@ -37318,7 +37318,7 @@
     ],
     "updated_at": "",
     "first_seen_at": "2026-08-15T02:30:47.614898+00:00",
-    "enriched_at": "2026-09-26T11:24:22.685990+00:00"
+    "enriched_at": "2026-10-03T11:39:04.543426+00:00"
   },
   {
     "company": "Capital One",
@@ -37346,7 +37346,7 @@
     ],
     "updated_at": "",
     "first_seen_at": "2026-08-15T02:30:47.614898+00:00",
-    "enriched_at": "2026-09-26T11:24:22.694730+00:00"
+    "enriched_at": "2026-10-03T11:39:04.552176+00:00"
   },
   {
     "company": "Capital One",
@@ -37373,7 +37373,7 @@
     ],
     "updated_at": "",
     "first_seen_at": "2026-08-15T02:30:47.614898+00:00",
-    "enriched_at": "2026-09-26T11:24:22.720244+00:00"
+    "enriched_at": "2026-10-03T11:39:04.563721+00:00"
   },
   {
     "company": "Capital One",
@@ -37400,7 +37400,7 @@
     ],
     "updated_at": "",
     "first_seen_at": "2026-08-15T02:30:47.614898+00:00",
-    "enriched_at": "2026-09-26T11:24:22.747276+00:00"
+    "enriched_at": "2026-10-03T11:39:04.579090+00:00"
   },
   {
     "company": "Capital One",
@@ -37430,7 +37430,7 @@
     ],
     "updated_at": "",
     "first_seen_at": "2026-08-15T02:30:47.614898+00:00",
-    "enriched_at": "2026-09-26T11:24:22.761991+00:00"
+    "enriched_at": "2026-10-03T11:39:04.593854+00:00"
   },
   {
     "company": "Capital One",
@@ -37456,7 +37456,7 @@
     ],
     "updated_at": "",
     "first_seen_at": "2026-08-15T02:30:47.614898+00:00",
-    "enriched_at": "2026-09-26T11:24:22.777155+00:00"
+    "enriched_at": "2026-10-03T11:39:04.609087+00:00"
   },
   {
     "company": "Capital One",
@@ -37490,7 +37490,7 @@
     ],
     "updated_at": "",
     "first_seen_at": "2026-08-15T02:30:47.614898+00:00",
-    "enriched_at": "2026-09-26T11:24:22.797047+00:00"
+    "enriched_at": "2026-10-03T11:39:04.620277+00:00"
   },
   {
     "company": "Capital One",
@@ -37517,7 +37517,7 @@
     ],
     "updated_at": "",
     "first_seen_at": "2026-08-15T02:30:47.614898+00:00",
-    "enriched_at": "2026-09-26T11:24:22.816599+00:00"
+    "enriched_at": "2026-10-03T11:39:04.628931+00:00"
   },
   {
     "company": "Capital One",
@@ -37549,7 +37549,7 @@
     ],
     "updated_at": "",
     "first_seen_at": "2026-08-15T02:30:47.614898+00:00",
-    "enriched_at": "2026-09-26T11:24:22.844745+00:00"
+    "enriched_at": "2026-10-03T11:39:04.643119+00:00"
   },
   {
     "company": "Capital One",
@@ -37581,7 +37581,7 @@
     ],
     "updated_at": "",
     "first_seen_at": "2026-08-15T02:30:47.614898+00:00",
-    "enriched_at": "2026-09-26T11:24:22.858489+00:00"
+    "enriched_at": "2026-10-03T11:39:04.656863+00:00"
   },
   {
     "company": "Capital One",
@@ -37614,7 +37614,7 @@
     ],
     "updated_at": "",
     "first_seen_at": "2026-08-15T02:30:47.614898+00:00",
-    "enriched_at": "2026-09-26T11:24:22.899405+00:00"
+    "enriched_at": "2026-10-03T11:39:04.668202+00:00"
   },
   {
     "company": "Capital One",
@@ -37644,7 +37644,7 @@
     ],
     "updated_at": "",
     "first_seen_at": "2026-08-15T02:30:47.614898+00:00",
-    "enriched_at": "2026-09-26T11:24:22.914752+00:00"
+    "enriched_at": "2026-10-03T11:39:04.683522+00:00"
   },
   {
     "company": "Capital One",
@@ -37672,7 +37672,7 @@
     ],
     "updated_at": "",
     "first_seen_at": "2026-08-15T02:30:47.614898+00:00",
-    "enriched_at": "2026-09-26T11:24:22.930480+00:00"
+    "enriched_at": "2026-10-03T11:39:04.699282+00:00"
   },
   {
     "company": "Capital One",
@@ -37708,7 +37708,7 @@
     ],
     "updated_at": "",
     "first_seen_at": "2026-08-15T02:30:47.614898+00:00",
-    "enriched_at": "2026-09-26T11:24:22.962033+00:00"
+    "enriched_at": "2026-10-03T11:39:04.711662+00:00"
   },
   {
     "company": "Capital One",
@@ -37738,7 +37738,7 @@
     ],
     "updated_at": "",
     "first_seen_at": "2026-08-15T02:30:47.614898+00:00",
-    "enriched_at": "2026-09-26T11:24:23.003373+00:00"
+    "enriched_at": "2026-10-03T11:39:04.720633+00:00"
   },
   {
     "company": "Capital One",
@@ -37765,7 +37765,7 @@
     ],
     "updated_at": "",
     "first_seen_at": "2026-08-15T02:30:47.614898+00:00",
-    "enriched_at": "2026-09-26T11:24:23.015805+00:00"
+    "enriched_at": "2026-10-03T11:39:04.733168+00:00"
   },
   {
     "company": "Capital One",
@@ -37792,7 +37792,7 @@
     ],
     "updated_at": "",
     "first_seen_at": "2026-08-15T02:30:47.614898+00:00",
-    "enriched_at": "2026-09-26T11:24:23.043646+00:00"
+    "enriched_at": "2026-10-03T11:39:04.745668+00:00"
   },
   {
     "company": "Capital One",
@@ -37820,7 +37820,7 @@
     ],
     "updated_at": "",
     "first_seen_at": "2026-08-15T02:30:47.614898+00:00",
-    "enriched_at": "2026-09-26T11:24:23.071028+00:00"
+    "enriched_at": "2026-10-03T11:39:04.761116+00:00"
   },
   {
     "company": "Capital One",
@@ -37846,7 +37846,7 @@
     ],
     "updated_at": "",
     "first_seen_at": "2026-08-15T02:30:47.614898+00:00",
-    "enriched_at": "2026-09-26T11:24:23.081445+00:00"
+    "enriched_at": "2026-10-03T11:39:04.771644+00:00"
   },
   {
     "company": "Capital One",
@@ -37878,7 +37878,7 @@
     ],
     "updated_at": "",
     "first_seen_at": "2026-08-15T02:30:47.614898+00:00",
-    "enriched_at": "2026-09-26T11:24:23.092537+00:00"
+    "enriched_at": "2026-10-03T11:39:04.782808+00:00"
   },
   {
     "company": "Capital One",
@@ -37910,7 +37910,7 @@
     ],
     "updated_at": "",
     "first_seen_at": "2026-08-15T02:30:47.614898+00:00",
-    "enriched_at": "2026-09-26T11:24:23.103901+00:00"
+    "enriched_at": "2026-10-03T11:39:04.794180+00:00"
   },
   {
     "company": "Capital One",
@@ -37943,7 +37943,58 @@
     ],
     "updated_at": "",
     "first_seen_at": "2026-08-15T02:30:47.614898+00:00",
-    "enriched_at": "2026-09-26T11:24:23.120141+00:00"
+    "enriched_at": "2026-10-03T11:39:04.810523+00:00"
+  },
+  {
+    "company": "Northrop Grumman",
+    "fortune_rank": 112,
+    "title": "Systems Engineer / Principal Systems Engineer",
+    "location": "United States-California-Woodland Hills",
+    "url": "https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-California-Woodland-Hills/Systems-Engineer---Principal-Systems-Engineer_R10254249",
+    "source": "workday",
+    "external_id": "/job/United-States-California-Woodland-Hills/Systems-Engineer---Principal-Systems-Engineer_R10254249",
+    "employment_type": "full-time",
+    "category": "Software & IT",
+    "h1b_status": "unknown",
+    "sponsorship_evidence": "",
+    "h1b_mentioned": false,
+    "salary_min": null,
+    "salary_max": null,
+    "salary_currency": "",
+    "salary_period": "",
+    "salary_text": "",
+    "keywords": [
+      "Python",
+      "compliance"
+    ],
+    "updated_at": "",
+    "first_seen_at": "2026-10-03T11:49:36.393698+00:00",
+    "enriched_at": "2026-10-03T11:40:11.243937+00:00"
+  },
+  {
+    "company": "Northrop Grumman",
+    "fortune_rank": 112,
+    "title": "Staff SEIT Lead",
+    "location": "United States-California-Woodland Hills",
+    "url": "https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-California-Woodland-Hills/Staff-SEIT-Lead_R10254248",
+    "source": "workday",
+    "external_id": "/job/United-States-California-Woodland-Hills/Staff-SEIT-Lead_R10254248",
+    "employment_type": "full-time",
+    "category": "Other",
+    "h1b_status": "unknown",
+    "sponsorship_evidence": "",
+    "h1b_mentioned": false,
+    "salary_min": null,
+    "salary_max": null,
+    "salary_currency": "",
+    "salary_period": "",
+    "salary_text": "",
+    "keywords": [
+      "compliance"
+    ],
+    "updated_at": "",
+    "first_seen_at": "2026-10-03T11:49:36.393698+00:00",
+    "enriched_at": "2026-10-03T11:40:11.259512+00:00"
   },
   {
     "company": "Northrop Grumman",
@@ -52412,34 +52463,6 @@
   {
     "company": "Northrop Grumman",
     "fortune_rank": 112,
-    "title": "2026 Associate Signature Management & Survivability Engineer/Signature Management & Survivability Engineer",
-    "location": "United States-California-Redondo Beach",
-    "url": "https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-California-Redondo-Beach/XMLNAME-2026-Associate-Signature-Management---Survivability-Engineer-Signature-Management---Survivability-Engineer_R10253648-1",
-    "source": "workday",
-    "external_id": "/job/United-States-California-Redondo-Beach/XMLNAME-2026-Associate-Signature-Management---Survivability-Engineer-Signature-Management---Survivability-Engineer_R10253648-1",
-    "employment_type": "full-time",
-    "category": "Other",
-    "h1b_status": "unknown",
-    "sponsorship_evidence": "",
-    "h1b_mentioned": false,
-    "salary_min": 83300.0,
-    "salary_max": 125800.0,
-    "salary_currency": "USD",
-    "salary_period": "year",
-    "salary_text": "$83,300 - $125,800/year",
-    "keywords": [
-      "Python",
-      "mechanical engineering",
-      "electrical engineering",
-      "CAD"
-    ],
-    "updated_at": "",
-    "first_seen_at": "2026-09-30T05:44:19.820688+00:00",
-    "enriched_at": "2026-09-30T05:33:36.813930+00:00"
-  },
-  {
-    "company": "Northrop Grumman",
-    "fortune_rank": 112,
     "title": "Avionics Integration Section Manager 2",
     "location": "United States-Florida-Melbourne",
     "url": "https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-Florida-Melbourne/Avionics-Integration-Section-Manager-2_R10247366-1",
@@ -52615,35 +52638,6 @@
     "updated_at": "",
     "first_seen_at": "2026-09-30T05:44:19.820688+00:00",
     "enriched_at": "2026-09-30T05:33:36.872793+00:00"
-  },
-  {
-    "company": "Northrop Grumman",
-    "fortune_rank": 112,
-    "title": "Engineering Designer \u2013 Level 3/4",
-    "location": "United States-Arizona-Chandler",
-    "url": "https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-Arizona-Chandler/Engineering-Designer---Level-3-4_R10253641",
-    "source": "workday",
-    "external_id": "/job/United-States-Arizona-Chandler/Engineering-Designer---Level-3-4_R10253641",
-    "employment_type": "full-time",
-    "category": "Other",
-    "h1b_status": "unknown",
-    "sponsorship_evidence": "",
-    "h1b_mentioned": false,
-    "salary_min": null,
-    "salary_max": null,
-    "salary_currency": "",
-    "salary_period": "",
-    "salary_text": "",
-    "keywords": [
-      "AWS",
-      "Excel",
-      "mechanical engineering",
-      "CAD",
-      "compliance"
-    ],
-    "updated_at": "",
-    "first_seen_at": "2026-09-30T05:44:19.820688+00:00",
-    "enriched_at": "2026-09-30T05:33:36.886317+00:00"
   },
   {
     "company": "Northrop Grumman",
@@ -56098,29 +56092,6 @@
   {
     "company": "Northrop Grumman",
     "fortune_rank": 112,
-    "title": "Manufacturing Technician 3/4",
-    "location": "United States-California-Santa Rosa",
-    "url": "https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-California-Santa-Rosa/Manufacturing-Technician-3-4_R10241535",
-    "source": "workday",
-    "external_id": "/job/United-States-California-Santa-Rosa/Manufacturing-Technician-3-4_R10241535",
-    "employment_type": "full-time",
-    "category": "Other",
-    "h1b_status": "unknown",
-    "sponsorship_evidence": "",
-    "h1b_mentioned": false,
-    "salary_min": null,
-    "salary_max": null,
-    "salary_currency": "",
-    "salary_period": "",
-    "salary_text": "",
-    "keywords": [],
-    "updated_at": "",
-    "first_seen_at": "2026-09-29T22:28:40.118786+00:00",
-    "enriched_at": "2026-09-29T22:16:58.722478+00:00"
-  },
-  {
-    "company": "Northrop Grumman",
-    "fortune_rank": 112,
     "title": "Principal Engineer Systems/Sr. Principal Engineer Systems",
     "location": "United States-Oklahoma-Tinker AFB",
     "url": "https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-Oklahoma-Tinker-AFB/Principal-Engineer-Systems-Sr-Principal-Engineer-Systems_R10250252-1",
@@ -57171,32 +57142,6 @@
     "updated_at": "",
     "first_seen_at": "2026-09-29T05:55:07.156914+00:00",
     "enriched_at": "2026-09-29T05:45:20.321874+00:00"
-  },
-  {
-    "company": "Northrop Grumman",
-    "fortune_rank": 112,
-    "title": "Resource Control Team Software Engineer (Level 1 or 2) - AHT",
-    "location": "United States-California-Manhattan Beach",
-    "url": "https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-California-Manhattan-Beach/Resource-Control-Team-Software-Engineer--Level-1-or-2----AHT_R10247178",
-    "source": "workday",
-    "external_id": "/job/United-States-California-Manhattan-Beach/Resource-Control-Team-Software-Engineer--Level-1-or-2----AHT_R10247178",
-    "employment_type": "full-time",
-    "category": "Software & IT",
-    "h1b_status": "unknown",
-    "sponsorship_evidence": "",
-    "h1b_mentioned": false,
-    "salary_min": null,
-    "salary_max": null,
-    "salary_currency": "",
-    "salary_period": "",
-    "salary_text": "",
-    "keywords": [
-      "Python",
-      "Java"
-    ],
-    "updated_at": "",
-    "first_seen_at": "2026-09-29T05:55:07.156914+00:00",
-    "enriched_at": "2026-09-29T05:45:20.331159+00:00"
   },
   {
     "company": "Northrop Grumman",
@@ -59205,33 +59150,6 @@
   {
     "company": "Northrop Grumman",
     "fortune_rank": 112,
-    "title": "Windows Systems Administrator - Secret",
-    "location": "United States-Utah-Layton",
-    "url": "https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-Utah-Layton/Windows-Systems-Administrator---Secret_R10252837",
-    "source": "workday",
-    "external_id": "/job/United-States-Utah-Layton/Windows-Systems-Administrator---Secret_R10252837",
-    "employment_type": "full-time",
-    "category": "Other",
-    "h1b_status": "unknown",
-    "sponsorship_evidence": "",
-    "h1b_mentioned": false,
-    "salary_min": null,
-    "salary_max": null,
-    "salary_currency": "",
-    "salary_period": "",
-    "salary_text": "",
-    "keywords": [
-      "audit",
-      "compliance",
-      "contracts"
-    ],
-    "updated_at": "",
-    "first_seen_at": "2026-09-28T14:09:27.663175+00:00",
-    "enriched_at": "2026-09-28T13:54:43.680072+00:00"
-  },
-  {
-    "company": "Northrop Grumman",
-    "fortune_rank": 112,
     "title": "Contracts Administration Manager 2",
     "location": "United States-Florida-Melbourne",
     "url": "https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-Florida-Melbourne/Contracts-Administration-Manager-2_R10252989",
@@ -59686,7 +59604,7 @@
     ],
     "updated_at": "",
     "first_seen_at": "2026-09-26T11:34:58.503170+00:00",
-    "enriched_at": "2026-09-26T11:25:25.799061+00:00"
+    "enriched_at": "2026-10-03T11:40:11.271504+00:00"
   },
   {
     "company": "Northrop Grumman",
@@ -61888,29 +61806,6 @@
   {
     "company": "Northrop Grumman",
     "fortune_rank": 112,
-    "title": "2026 Associate Process Engineer/Process Engineer - Promontory UT",
-    "location": "United States-Utah-Corinne",
-    "url": "https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-Utah-Corinne/XMLNAME-2026-Associate-Process-Engineer-Process-Engineer---Promontory-UT_R10252875",
-    "source": "workday",
-    "external_id": "/job/United-States-Utah-Corinne/XMLNAME-2026-Associate-Process-Engineer-Process-Engineer---Promontory-UT_R10252875",
-    "employment_type": "full-time",
-    "category": "Other",
-    "h1b_status": "unknown",
-    "sponsorship_evidence": "",
-    "h1b_mentioned": false,
-    "salary_min": null,
-    "salary_max": null,
-    "salary_currency": "",
-    "salary_period": "",
-    "salary_text": "",
-    "keywords": [],
-    "updated_at": "",
-    "first_seen_at": "2026-09-24T21:45:16.125443+00:00",
-    "enriched_at": "2026-10-01T22:43:21.760635+00:00"
-  },
-  {
-    "company": "Northrop Grumman",
-    "fortune_rank": 112,
     "title": "Manager Field Engineering Services 1",
     "location": "United States-California-San Diego",
     "url": "https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-California-San-Diego/Manager-Field-Engineering-Services-1_R10252693",
@@ -63274,31 +63169,6 @@
     "updated_at": "",
     "first_seen_at": "2026-09-24T11:57:37.543181+00:00",
     "enriched_at": "2026-10-01T13:15:04.136485+00:00"
-  },
-  {
-    "company": "Northrop Grumman",
-    "fortune_rank": 112,
-    "title": "Configurable On-Board Router (COR) Team - Software Engineer (AHT)",
-    "location": "United States-California-Manhattan Beach",
-    "url": "https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-California-Manhattan-Beach/Configurable-On-Board-Router--COR--Team---Software-Engineer--AHT-_R10247177",
-    "source": "workday",
-    "external_id": "/job/United-States-California-Manhattan-Beach/Configurable-On-Board-Router--COR--Team---Software-Engineer--AHT-_R10247177",
-    "employment_type": "full-time",
-    "category": "Software & IT",
-    "h1b_status": "unknown",
-    "sponsorship_evidence": "",
-    "h1b_mentioned": false,
-    "salary_min": null,
-    "salary_max": null,
-    "salary_currency": "",
-    "salary_period": "",
-    "salary_text": "",
-    "keywords": [
-      "Python"
-    ],
-    "updated_at": "",
-    "first_seen_at": "2026-09-25T05:10:09.019400+00:00",
-    "enriched_at": "2026-10-02T05:37:39.338880+00:00"
   },
   {
     "company": "Northrop Grumman",
@@ -75026,31 +74896,6 @@
     "updated_at": "",
     "first_seen_at": "2026-08-15T02:30:47.614898+00:00",
     "enriched_at": "2026-09-26T21:11:59.315735+00:00"
-  },
-  {
-    "company": "Northrop Grumman",
-    "fortune_rank": 112,
-    "title": "Staff Deputy SEIT Lead",
-    "location": "United States-California-Woodland Hills",
-    "url": "https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-California-Woodland-Hills/Staff-Deputy-SEIT-Lead_R10251253",
-    "source": "workday",
-    "external_id": "/job/United-States-California-Woodland-Hills/Staff-Deputy-SEIT-Lead_R10251253",
-    "employment_type": "full-time",
-    "category": "Other",
-    "h1b_status": "unknown",
-    "sponsorship_evidence": "",
-    "h1b_mentioned": false,
-    "salary_min": null,
-    "salary_max": null,
-    "salary_currency": "",
-    "salary_period": "",
-    "salary_text": "",
-    "keywords": [
-      "compliance"
-    ],
-    "updated_at": "",
-    "first_seen_at": "2026-09-16T21:31:34.745587+00:00",
-    "enriched_at": "2026-09-30T22:17:22.940266+00:00"
   },
   {
     "company": "Northrop Grumman",
@@ -108879,32 +108724,6 @@
   {
     "company": "Northrop Grumman",
     "fortune_rank": 112,
-    "title": "Systems Engineer / Principal Systems Engineer (MBSE)",
-    "location": "United States-California-Woodland Hills",
-    "url": "https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-California-Woodland-Hills/Systems-Engineer---Principal-Systems-Engineer--MBSE-_R10242768",
-    "source": "workday",
-    "external_id": "/job/United-States-California-Woodland-Hills/Systems-Engineer---Principal-Systems-Engineer--MBSE-_R10242768",
-    "employment_type": "full-time",
-    "category": "Software & IT",
-    "h1b_status": "unknown",
-    "sponsorship_evidence": "",
-    "h1b_mentioned": false,
-    "salary_min": null,
-    "salary_max": null,
-    "salary_currency": "",
-    "salary_period": "",
-    "salary_text": "",
-    "keywords": [
-      "Python",
-      "compliance"
-    ],
-    "updated_at": "",
-    "first_seen_at": "2026-08-15T02:30:47.614898+00:00",
-    "enriched_at": "2026-09-26T21:12:05.909386+00:00"
-  },
-  {
-    "company": "Northrop Grumman",
-    "fortune_rank": 112,
     "title": "Principal Human Factors Engineer",
     "location": "United States-Florida-Melbourne",
     "url": "https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-Florida-Melbourne/Principal-Human-Factors-Engineer_R10242760",
@@ -121898,33 +121717,6 @@
     "enriched_at": "2026-10-02T22:15:43.871342+00:00"
   },
   {
-    "company": "Boeing",
-    "fortune_rank": 47,
-    "title": "Lead Software Engineer-Simulation",
-    "location": "USA - Berkeley, MO",
-    "url": "https://boeing.wd1.myworkdayjobs.com/en-US/EXTERNAL_CAREERS/job/USA---Berkeley-MO/Lead-Software-Engineer-Simulation_JR2026525612-1",
-    "source": "workday",
-    "external_id": "/job/USA---Berkeley-MO/Lead-Software-Engineer-Simulation_JR2026525612-1",
-    "employment_type": "full-time",
-    "category": "Software & IT",
-    "h1b_status": "does_not_support_h1b",
-    "sponsorship_evidence": "Visa Sponsorship: Employer will not sponsor applicants for employment visa status.",
-    "h1b_mentioned": false,
-    "salary_min": null,
-    "salary_max": null,
-    "salary_currency": "",
-    "salary_period": "",
-    "salary_text": "",
-    "keywords": [
-      "Java",
-      "data science",
-      "compliance"
-    ],
-    "updated_at": "",
-    "first_seen_at": "2026-10-02T22:26:55.027201+00:00",
-    "enriched_at": "2026-10-02T22:15:43.878371+00:00"
-  },
-  {
     "company": "HP",
     "fortune_rank": 84,
     "title": "ACS Quality Engineer - Workstation Products",
@@ -130670,7 +130462,7 @@
     ],
     "updated_at": "",
     "first_seen_at": "2026-09-12T10:56:01.636978+00:00",
-    "enriched_at": "2026-09-26T11:26:20.505394+00:00"
+    "enriched_at": "2026-10-03T11:41:03.212622+00:00"
   },
   {
     "company": "Micron Technology",
@@ -143373,6 +143165,33 @@
   {
     "company": "Centene",
     "fortune_rank": 19,
+    "title": "Finance Analyst III - Managed Care",
+    "location": "Remote-MO",
+    "url": "https://centene.wd5.myworkdayjobs.com/en-US/centene_external/job/Remote-MO/Finance-Analyst-III---Managed-Care_1657973",
+    "source": "workday",
+    "external_id": "/job/Remote-MO/Finance-Analyst-III---Managed-Care_1657973",
+    "employment_type": "full-time",
+    "category": "Finance & Accounting",
+    "h1b_status": "unknown",
+    "sponsorship_evidence": "",
+    "h1b_mentioned": true,
+    "salary_min": null,
+    "salary_max": null,
+    "salary_currency": "",
+    "salary_period": "",
+    "salary_text": "",
+    "keywords": [
+      "Excel",
+      "financial modeling",
+      "accounting"
+    ],
+    "updated_at": "",
+    "first_seen_at": "2026-10-03T11:49:36.393698+00:00",
+    "enriched_at": "2026-10-03T11:41:11.528588+00:00"
+  },
+  {
+    "company": "Centene",
+    "fortune_rank": 19,
     "title": "Team Lead, Care Management Support Coordinator",
     "location": "Remote-PA",
     "url": "https://centene.wd5.myworkdayjobs.com/en-US/centene_external/job/Remote-PA/Team-Lead--Care-Management-Support-Coordinator_1664680",
@@ -152550,29 +152369,6 @@
   {
     "company": "Walt Disney",
     "fortune_rank": 44,
-    "title": "COE Associate Project Manager",
-    "location": "Burbank, CA, USA",
-    "url": "https://disney.wd5.myworkdayjobs.com/en-US/disneycareer/job/Burbank-CA-USA/COE-Associate-Project-Manager_10161038",
-    "source": "workday",
-    "external_id": "/job/Burbank-CA-USA/COE-Associate-Project-Manager_10161038",
-    "employment_type": "full-time",
-    "category": "Other",
-    "h1b_status": "unknown",
-    "sponsorship_evidence": "",
-    "h1b_mentioned": false,
-    "salary_min": 72000.0,
-    "salary_max": 96500.0,
-    "salary_currency": "USD",
-    "salary_period": "year",
-    "salary_text": "$72,000 to $96,500 per year",
-    "keywords": [],
-    "updated_at": "",
-    "first_seen_at": "2026-09-25T21:47:26.928317+00:00",
-    "enriched_at": "2026-10-02T22:17:52.402218+00:00"
-  },
-  {
-    "company": "Walt Disney",
-    "fortune_rank": 44,
     "title": "Senior Financial Analyst, Corporate FP&A",
     "location": "Burbank, CA, USA",
     "url": "https://disney.wd5.myworkdayjobs.com/en-US/disneycareer/job/Burbank-CA-USA/Senior-Financial-Analyst--Corporate-FP-A_10160709-1",
@@ -154901,31 +154697,6 @@
   {
     "company": "Walt Disney",
     "fortune_rank": 44,
-    "title": "Manager, Corporate Development",
-    "location": "Burbank, CA, USA",
-    "url": "https://disney.wd5.myworkdayjobs.com/en-US/disneycareer/job/Burbank-CA-USA/Manager--Corporate-Development_10145556-1",
-    "source": "workday",
-    "external_id": "/job/Burbank-CA-USA/Manager--Corporate-Development_10145556-1",
-    "employment_type": "full-time",
-    "category": "Other",
-    "h1b_status": "unknown",
-    "sponsorship_evidence": "",
-    "h1b_mentioned": false,
-    "salary_min": 139200.0,
-    "salary_max": 186600.0,
-    "salary_currency": "USD",
-    "salary_period": "year",
-    "salary_text": "$139,200.00 to $186,600.00 per year",
-    "keywords": [
-      "accounting"
-    ],
-    "updated_at": "",
-    "first_seen_at": "2026-09-03T16:38:31.304318+00:00",
-    "enriched_at": "2026-10-01T22:45:44.833027+00:00"
-  },
-  {
-    "company": "Walt Disney",
-    "fortune_rank": 44,
     "title": "Staff Software Engineer - USD Authoring",
     "location": "Burbank, CA, USA",
     "url": "https://disney.wd5.myworkdayjobs.com/en-US/disneycareer/job/Burbank-CA-USA/Staff-Software-Engineer---USD-Authoring_10159880",
@@ -155207,31 +154978,6 @@
     "updated_at": "",
     "first_seen_at": "2026-08-15T02:30:47.614898+00:00",
     "enriched_at": "2026-09-26T21:14:09.330198+00:00"
-  },
-  {
-    "company": "Walt Disney",
-    "fortune_rank": 44,
-    "title": "Staff Content Security Engineer",
-    "location": "Glendale, CA, USA",
-    "url": "https://disney.wd5.myworkdayjobs.com/en-US/disneycareer/job/Glendale-CA-USA/Staff-Content-Security-Engineer_10141912",
-    "source": "workday",
-    "external_id": "/job/Glendale-CA-USA/Staff-Content-Security-Engineer_10141912",
-    "employment_type": "full-time",
-    "category": "Software & IT",
-    "h1b_status": "unknown",
-    "sponsorship_evidence": "",
-    "h1b_mentioned": false,
-    "salary_min": 141900.0,
-    "salary_max": 170000.0,
-    "salary_currency": "USD",
-    "salary_period": "year",
-    "salary_text": "$141,900.00 to $170,000.00 per year",
-    "keywords": [
-      "AWS"
-    ],
-    "updated_at": "",
-    "first_seen_at": "2026-08-25T02:04:19.043316+00:00",
-    "enriched_at": "2026-09-29T22:19:15.999026+00:00"
   },
   {
     "company": "Walt Disney",
@@ -167893,11 +167639,11 @@
   {
     "company": "RTX",
     "fortune_rank": 49,
-    "title": "Senior Design Engineer (AWW) \u2013 Hybrid",
-    "location": "US-CT-MIDDLETOWN-130 ~ Aircraft Rd ~ BLDG 130",
-    "url": "https://globalhr.wd5.myworkdayjobs.com/en-US/REC_RTX_Ext_Gateway/job/US-CT-MIDDLETOWN-130--Aircraft-Rd--BLDG-130/Senior-Design-Engineer--AWW----Hybrid_01878421",
+    "title": "Assembly & Test Inspector , 2nd Shift  (Onsite)",
+    "location": "US-FL-JUPITER-ADR ~ 17900 Beeline Hwy ~ ADR BLDG",
+    "url": "https://globalhr.wd5.myworkdayjobs.com/en-US/REC_RTX_Ext_Gateway/job/US-FL-JUPITER-ADR--17900-Beeline-Hwy--ADR-BLDG/Assembly---Test-Inspector---2nd-Shift---Onsite-_01879708",
     "source": "workday",
-    "external_id": "/job/US-CT-MIDDLETOWN-130--Aircraft-Rd--BLDG-130/Senior-Design-Engineer--AWW----Hybrid_01878421",
+    "external_id": "/job/US-FL-JUPITER-ADR--17900-Beeline-Hwy--ADR-BLDG/Assembly---Test-Inspector---2nd-Shift---Onsite-_01879708",
     "employment_type": "full-time",
     "category": "Other",
     "h1b_status": "unknown",
@@ -167909,16 +167655,13 @@
     "salary_period": "",
     "salary_text": "",
     "keywords": [
-      "risk management",
-      "mechanical engineering",
-      "supply chain",
       "recruiting",
       "compliance",
       "contracts"
     ],
     "updated_at": "",
-    "first_seen_at": "2026-10-03T05:29:56.777821+00:00",
-    "enriched_at": "2026-10-03T05:23:31.273495+00:00"
+    "first_seen_at": "2026-10-03T11:49:36.393698+00:00",
+    "enriched_at": "2026-10-03T11:43:30.999779+00:00"
   },
   {
     "company": "RTX",
@@ -169799,33 +169542,6 @@
     "updated_at": "",
     "first_seen_at": "2026-10-02T22:26:55.027201+00:00",
     "enriched_at": "2026-10-02T22:20:20.846193+00:00"
-  },
-  {
-    "company": "RTX",
-    "fortune_rank": 49,
-    "title": "Production Test Engineer II (Onsite)",
-    "location": "US-AZ-TUCSON-9022 ~ 9022 S Rita Rd ~ BLDG 9022",
-    "url": "https://globalhr.wd5.myworkdayjobs.com/en-US/REC_RTX_Ext_Gateway/job/US-AZ-TUCSON-9022--9022-S-Rita-Rd--BLDG-9022/Production-Test-Engineer-II--Onsite-_01872264",
-    "source": "workday",
-    "external_id": "/job/US-AZ-TUCSON-9022--9022-S-Rita-Rd--BLDG-9022/Production-Test-Engineer-II--Onsite-_01872264",
-    "employment_type": "full-time",
-    "category": "Other",
-    "h1b_status": "unknown",
-    "sponsorship_evidence": "",
-    "h1b_mentioned": false,
-    "salary_min": null,
-    "salary_max": null,
-    "salary_currency": "",
-    "salary_period": "",
-    "salary_text": "",
-    "keywords": [
-      "mechanical engineering",
-      "electrical engineering",
-      "compliance"
-    ],
-    "updated_at": "",
-    "first_seen_at": "2026-10-02T22:26:55.027201+00:00",
-    "enriched_at": "2026-10-02T22:20:20.853176+00:00"
   },
   {
     "company": "RTX",
@@ -171801,61 +171517,6 @@
   {
     "company": "RTX",
     "fortune_rank": 49,
-    "title": "Mechanical Engineering Intern (Summer 2027)",
-    "location": "US-AZ-TUCSON-M10 ~ 3360 E Hemisphere Loop ~ BLDG M10",
-    "url": "https://globalhr.wd5.myworkdayjobs.com/en-US/REC_RTX_Ext_Gateway/job/US-AZ-TUCSON-M10--3360-E-Hemisphere-Loop--BLDG-M10/Mechanical-Engineering-Intern--Summer-2027-_01873571",
-    "source": "workday",
-    "external_id": "/job/US-AZ-TUCSON-M10--3360-E-Hemisphere-Loop--BLDG-M10/Mechanical-Engineering-Intern--Summer-2027-_01873571",
-    "employment_type": "internship",
-    "category": "Engineering",
-    "h1b_status": "unknown",
-    "sponsorship_evidence": "",
-    "h1b_mentioned": false,
-    "salary_min": null,
-    "salary_max": null,
-    "salary_currency": "",
-    "salary_period": "",
-    "salary_text": "",
-    "keywords": [
-      "Python",
-      "mechanical engineering",
-      "electrical engineering",
-      "CAD",
-      "compliance"
-    ],
-    "updated_at": "",
-    "first_seen_at": "2026-10-01T22:55:30.968656+00:00",
-    "enriched_at": "2026-10-01T22:48:15.448401+00:00"
-  },
-  {
-    "company": "RTX",
-    "fortune_rank": 49,
-    "title": "Mechanical Engineering I (Onsite)",
-    "location": "US-AZ-TUCSON-M10 ~ 3360 E Hemisphere Loop ~ BLDG M10",
-    "url": "https://globalhr.wd5.myworkdayjobs.com/en-US/REC_RTX_Ext_Gateway/job/US-AZ-TUCSON-M10--3360-E-Hemisphere-Loop--BLDG-M10/Mechanical-Engineering-I--Onsite-_01872084",
-    "source": "workday",
-    "external_id": "/job/US-AZ-TUCSON-M10--3360-E-Hemisphere-Loop--BLDG-M10/Mechanical-Engineering-I--Onsite-_01872084",
-    "employment_type": "full-time",
-    "category": "Engineering",
-    "h1b_status": "unknown",
-    "sponsorship_evidence": "",
-    "h1b_mentioned": false,
-    "salary_min": null,
-    "salary_max": null,
-    "salary_currency": "",
-    "salary_period": "",
-    "salary_text": "",
-    "keywords": [
-      "mechanical engineering",
-      "compliance"
-    ],
-    "updated_at": "",
-    "first_seen_at": "2026-10-01T22:55:30.968656+00:00",
-    "enriched_at": "2026-10-01T22:48:15.457271+00:00"
-  },
-  {
-    "company": "RTX",
-    "fortune_rank": 49,
     "title": "Test Equipment Engineer",
     "location": "US-TX-MCKINNEY-513WD ~ 2501 W University Dr ~ WING D BLDG",
     "url": "https://globalhr.wd5.myworkdayjobs.com/en-US/REC_RTX_Ext_Gateway/job/US-TX-MCKINNEY-513WD--2501-W-University-Dr--WING-D-BLDG/Test-Equipment-Engineer_01879583",
@@ -171936,58 +171597,6 @@
   {
     "company": "RTX",
     "fortune_rank": 49,
-    "title": "Mechanical Thermal Engineer I (Onsite)",
-    "location": "US-AZ-TUCSON-805 ~ 1151 E Hermans Rd ~ BLDG 805",
-    "url": "https://globalhr.wd5.myworkdayjobs.com/en-US/REC_RTX_Ext_Gateway/job/US-AZ-TUCSON-805--1151-E-Hermans-Rd--BLDG-805/Mechanical-Thermal-Engineer-I--Onsite-_01873508",
-    "source": "workday",
-    "external_id": "/job/US-AZ-TUCSON-805--1151-E-Hermans-Rd--BLDG-805/Mechanical-Thermal-Engineer-I--Onsite-_01873508",
-    "employment_type": "full-time",
-    "category": "Engineering",
-    "h1b_status": "unknown",
-    "sponsorship_evidence": "",
-    "h1b_mentioned": false,
-    "salary_min": null,
-    "salary_max": null,
-    "salary_currency": "",
-    "salary_period": "",
-    "salary_text": "",
-    "keywords": [
-      "CAD",
-      "compliance"
-    ],
-    "updated_at": "",
-    "first_seen_at": "2026-10-01T22:55:30.968656+00:00",
-    "enriched_at": "2026-10-01T22:48:15.498272+00:00"
-  },
-  {
-    "company": "RTX",
-    "fortune_rank": 49,
-    "title": "Mechanical Structural Engineer II (Onsite)",
-    "location": "US-AZ-TUCSON-805 ~ 1151 E Hermans Rd ~ BLDG 805",
-    "url": "https://globalhr.wd5.myworkdayjobs.com/en-US/REC_RTX_Ext_Gateway/job/US-AZ-TUCSON-805--1151-E-Hermans-Rd--BLDG-805/Mechanical-Structural-Engineer-II--Onsite-_01874737",
-    "source": "workday",
-    "external_id": "/job/US-AZ-TUCSON-805--1151-E-Hermans-Rd--BLDG-805/Mechanical-Structural-Engineer-II--Onsite-_01874737",
-    "employment_type": "full-time",
-    "category": "Engineering",
-    "h1b_status": "unknown",
-    "sponsorship_evidence": "",
-    "h1b_mentioned": false,
-    "salary_min": null,
-    "salary_max": null,
-    "salary_currency": "",
-    "salary_period": "",
-    "salary_text": "",
-    "keywords": [
-      "CAD",
-      "compliance"
-    ],
-    "updated_at": "",
-    "first_seen_at": "2026-10-01T22:55:30.968656+00:00",
-    "enriched_at": "2026-10-01T22:48:15.508284+00:00"
-  },
-  {
-    "company": "RTX",
-    "fortune_rank": 49,
     "title": "Quality Engineer II (Onsite - Puerto Rico)",
     "location": "US-PR-SANTA ISABEL-B4 ~ Felicia Industrial Park - St B4 ~ BLDG 4",
     "url": "https://globalhr.wd5.myworkdayjobs.com/en-US/REC_RTX_Ext_Gateway/job/US-PR-SANTA-ISABEL-B4--Felicia-Industrial-Park---St-B4--BLDG-4/Quality-Engineer-II--Onsite---Puerto-Rico-_01879057-1",
@@ -172012,60 +171621,6 @@
     "updated_at": "",
     "first_seen_at": "2026-10-01T22:55:30.968656+00:00",
     "enriched_at": "2026-10-01T22:48:15.518172+00:00"
-  },
-  {
-    "company": "RTX",
-    "fortune_rank": 49,
-    "title": "Mechanical Structural Engineer I (Onsite)",
-    "location": "US-AZ-TUCSON-805 ~ 1151 E Hermans Rd ~ BLDG 805",
-    "url": "https://globalhr.wd5.myworkdayjobs.com/en-US/REC_RTX_Ext_Gateway/job/US-AZ-TUCSON-805--1151-E-Hermans-Rd--BLDG-805/Mechanical-Structural-Engineer-I--Onsite-_01874735",
-    "source": "workday",
-    "external_id": "/job/US-AZ-TUCSON-805--1151-E-Hermans-Rd--BLDG-805/Mechanical-Structural-Engineer-I--Onsite-_01874735",
-    "employment_type": "full-time",
-    "category": "Engineering",
-    "h1b_status": "unknown",
-    "sponsorship_evidence": "",
-    "h1b_mentioned": false,
-    "salary_min": null,
-    "salary_max": null,
-    "salary_currency": "",
-    "salary_period": "",
-    "salary_text": "",
-    "keywords": [
-      "mechanical engineering",
-      "CAD",
-      "compliance"
-    ],
-    "updated_at": "",
-    "first_seen_at": "2026-10-01T22:55:30.968656+00:00",
-    "enriched_at": "2026-10-01T22:48:15.526675+00:00"
-  },
-  {
-    "company": "RTX",
-    "fortune_rank": 49,
-    "title": "Mechanical Thermal Engineer II (Onsite)",
-    "location": "US-AZ-TUCSON-805 ~ 1151 E Hermans Rd ~ BLDG 805",
-    "url": "https://globalhr.wd5.myworkdayjobs.com/en-US/REC_RTX_Ext_Gateway/job/US-AZ-TUCSON-805--1151-E-Hermans-Rd--BLDG-805/Mechanical-Thermal-Engineer-II--Onsite-_01874738",
-    "source": "workday",
-    "external_id": "/job/US-AZ-TUCSON-805--1151-E-Hermans-Rd--BLDG-805/Mechanical-Thermal-Engineer-II--Onsite-_01874738",
-    "employment_type": "full-time",
-    "category": "Engineering",
-    "h1b_status": "unknown",
-    "sponsorship_evidence": "",
-    "h1b_mentioned": false,
-    "salary_min": null,
-    "salary_max": null,
-    "salary_currency": "",
-    "salary_period": "",
-    "salary_text": "",
-    "keywords": [
-      "mechanical engineering",
-      "CAD",
-      "compliance"
-    ],
-    "updated_at": "",
-    "first_seen_at": "2026-10-01T22:55:30.968656+00:00",
-    "enriched_at": "2026-10-01T22:48:15.536776+00:00"
   },
   {
     "company": "RTX",
@@ -173012,32 +172567,6 @@
   {
     "company": "RTX",
     "fortune_rank": 49,
-    "title": "Mechanical Engineer Intern (2027 Summer)",
-    "location": "US-AZ-TUCSON-928 ~ 1151 E Hermans Rd ~ MULTI PURPOSE FAC 928",
-    "url": "https://globalhr.wd5.myworkdayjobs.com/en-US/REC_RTX_Ext_Gateway/job/US-AZ-TUCSON-928--1151-E-Hermans-Rd--MULTI-PURPOSE-FAC-928/Mechanical-Engineer-Intern--2027-Summer-_01874513",
-    "source": "workday",
-    "external_id": "/job/US-AZ-TUCSON-928--1151-E-Hermans-Rd--MULTI-PURPOSE-FAC-928/Mechanical-Engineer-Intern--2027-Summer-_01874513",
-    "employment_type": "internship",
-    "category": "Engineering",
-    "h1b_status": "unknown",
-    "sponsorship_evidence": "",
-    "h1b_mentioned": false,
-    "salary_min": null,
-    "salary_max": null,
-    "salary_currency": "",
-    "salary_period": "",
-    "salary_text": "",
-    "keywords": [
-      "mechanical engineering",
-      "compliance"
-    ],
-    "updated_at": "",
-    "first_seen_at": "2026-10-01T22:55:30.968656+00:00",
-    "enriched_at": "2026-10-01T22:48:15.925504+00:00"
-  },
-  {
-    "company": "RTX",
-    "fortune_rank": 49,
     "title": "Principal Industrial Engineer (Onsite)",
     "location": "US-CT-EAST HARTFORD-J ~ 400 Main St ~ BLDG J",
     "url": "https://globalhr.wd5.myworkdayjobs.com/en-US/REC_RTX_Ext_Gateway/job/US-CT-EAST-HARTFORD-J--400-Main-St--BLDG-J/Sr-Industrial-Engineer_01868412",
@@ -173169,88 +172698,6 @@
     "updated_at": "",
     "first_seen_at": "2026-10-01T22:55:30.968656+00:00",
     "enriched_at": "2026-10-01T22:48:15.967055+00:00"
-  },
-  {
-    "company": "RTX",
-    "fortune_rank": 49,
-    "title": "Production Test Engineering Intern (Summer 2027)",
-    "location": "US-AZ-TUCSON-801 ~ 1151 E Hermans Rd ~ BLDG 801 (External Site)",
-    "url": "https://globalhr.wd5.myworkdayjobs.com/en-US/REC_RTX_Ext_Gateway/job/US-AZ-TUCSON-801--1151-E-Hermans-Rd--BLDG-801-External-Site/Production-Test-Engineering-Intern--Summer-2027-_01872992",
-    "source": "workday",
-    "external_id": "/job/US-AZ-TUCSON-801--1151-E-Hermans-Rd--BLDG-801-External-Site/Production-Test-Engineering-Intern--Summer-2027-_01872992",
-    "employment_type": "internship",
-    "category": "Other",
-    "h1b_status": "unknown",
-    "sponsorship_evidence": "",
-    "h1b_mentioned": false,
-    "salary_min": null,
-    "salary_max": null,
-    "salary_currency": "",
-    "salary_period": "",
-    "salary_text": "",
-    "keywords": [
-      "electrical engineering",
-      "supply chain",
-      "compliance"
-    ],
-    "updated_at": "",
-    "first_seen_at": "2026-10-01T22:55:30.968656+00:00",
-    "enriched_at": "2026-10-01T22:48:15.976517+00:00"
-  },
-  {
-    "company": "RTX",
-    "fortune_rank": 49,
-    "title": "Manufacturing Engineering Intern (Summer 2027)",
-    "location": "US-AZ-TUCSON-801 ~ 1151 E Hermans Rd ~ BLDG 801 (External Site)",
-    "url": "https://globalhr.wd5.myworkdayjobs.com/en-US/REC_RTX_Ext_Gateway/job/US-AZ-TUCSON-801--1151-E-Hermans-Rd--BLDG-801-External-Site/Manufacturing-Engineering-Intern--Summer-2027-_01872988",
-    "source": "workday",
-    "external_id": "/job/US-AZ-TUCSON-801--1151-E-Hermans-Rd--BLDG-801-External-Site/Manufacturing-Engineering-Intern--Summer-2027-_01872988",
-    "employment_type": "internship",
-    "category": "Other",
-    "h1b_status": "unknown",
-    "sponsorship_evidence": "",
-    "h1b_mentioned": false,
-    "salary_min": null,
-    "salary_max": null,
-    "salary_currency": "",
-    "salary_period": "",
-    "salary_text": "",
-    "keywords": [
-      "mechanical engineering",
-      "supply chain",
-      "compliance"
-    ],
-    "updated_at": "",
-    "first_seen_at": "2026-10-01T22:55:30.968656+00:00",
-    "enriched_at": "2026-10-01T22:48:15.986626+00:00"
-  },
-  {
-    "company": "RTX",
-    "fortune_rank": 49,
-    "title": "Production Test Engineer Intern (Summer 2027)",
-    "location": "US-NM-FARMINGTON-426S ~ 10059 Hwy 371 S ~ SOUTH BLDG",
-    "url": "https://globalhr.wd5.myworkdayjobs.com/en-US/REC_RTX_Ext_Gateway/job/US-NM-FARMINGTON-426S--10059-Hwy-371-S--SOUTH-BLDG/Production-Test-Engineer-Intern--Summer-2027-_01872985",
-    "source": "workday",
-    "external_id": "/job/US-NM-FARMINGTON-426S--10059-Hwy-371-S--SOUTH-BLDG/Production-Test-Engineer-Intern--Summer-2027-_01872985",
-    "employment_type": "internship",
-    "category": "Other",
-    "h1b_status": "unknown",
-    "sponsorship_evidence": "",
-    "h1b_mentioned": false,
-    "salary_min": null,
-    "salary_max": null,
-    "salary_currency": "",
-    "salary_period": "",
-    "salary_text": "",
-    "keywords": [
-      "electrical engineering",
-      "supply chain",
-      "compliance",
-      "contracts"
-    ],
-    "updated_at": "",
-    "first_seen_at": "2026-10-01T22:55:30.968656+00:00",
-    "enriched_at": "2026-10-01T22:48:15.996094+00:00"
   },
   {
     "company": "RTX",
@@ -177589,34 +177036,6 @@
   {
     "company": "RTX",
     "fortune_rank": 49,
-    "title": "Kinaxis IT Analyst",
-    "location": "US-AZ-REMOTE",
-    "url": "https://globalhr.wd5.myworkdayjobs.com/en-US/REC_RTX_Ext_Gateway/job/US-AZ-REMOTE/Kinaxis-IT-Analyst_01874123",
-    "source": "workday",
-    "external_id": "/job/US-AZ-REMOTE/Kinaxis-IT-Analyst_01874123",
-    "employment_type": "full-time",
-    "category": "Software & IT",
-    "h1b_status": "unknown",
-    "sponsorship_evidence": "",
-    "h1b_mentioned": false,
-    "salary_min": null,
-    "salary_max": null,
-    "salary_currency": "",
-    "salary_period": "",
-    "salary_text": "",
-    "keywords": [
-      "Excel",
-      "procurement",
-      "compliance",
-      "contracts"
-    ],
-    "updated_at": "",
-    "first_seen_at": "2026-09-30T22:30:14.606761+00:00",
-    "enriched_at": "2026-09-30T22:22:36.209068+00:00"
-  },
-  {
-    "company": "RTX",
-    "fortune_rank": 49,
     "title": "Mechanical Assembly - McKinney, TX",
     "location": "US-TX-MCKINNEY-513WZ ~ 2501 W University Dr ~ WING Z BLDG",
     "url": "https://globalhr.wd5.myworkdayjobs.com/en-US/REC_RTX_Ext_Gateway/job/US-TX-MCKINNEY-513WZ--2501-W-University-Dr--WING-Z-BLDG/Mechanical-Assembly---McKinney--TX_01875415",
@@ -177825,57 +177244,6 @@
     "updated_at": "",
     "first_seen_at": "2026-09-30T22:30:14.606761+00:00",
     "enriched_at": "2026-09-30T22:22:36.294268+00:00"
-  },
-  {
-    "company": "RTX",
-    "fortune_rank": 49,
-    "title": "Mechanical Engineer II (Onsite)",
-    "location": "US-AZ-TUCSON-928 ~ 1151 E Hermans Rd ~ MULTI PURPOSE FAC 928",
-    "url": "https://globalhr.wd5.myworkdayjobs.com/en-US/REC_RTX_Ext_Gateway/job/US-AZ-TUCSON-928--1151-E-Hermans-Rd--MULTI-PURPOSE-FAC-928/Mechanical-Engineer-II--Onsite-_01874326",
-    "source": "workday",
-    "external_id": "/job/US-AZ-TUCSON-928--1151-E-Hermans-Rd--MULTI-PURPOSE-FAC-928/Mechanical-Engineer-II--Onsite-_01874326",
-    "employment_type": "full-time",
-    "category": "Engineering",
-    "h1b_status": "unknown",
-    "sponsorship_evidence": "",
-    "h1b_mentioned": false,
-    "salary_min": null,
-    "salary_max": null,
-    "salary_currency": "",
-    "salary_period": "",
-    "salary_text": "",
-    "keywords": [
-      "compliance"
-    ],
-    "updated_at": "",
-    "first_seen_at": "2026-09-30T22:30:14.606761+00:00",
-    "enriched_at": "2026-09-30T22:22:36.304695+00:00"
-  },
-  {
-    "company": "RTX",
-    "fortune_rank": 49,
-    "title": "Mechanical Engineer I (Onsite)",
-    "location": "US-AZ-TUCSON-928 ~ 1151 E Hermans Rd ~ MULTI PURPOSE FAC 928",
-    "url": "https://globalhr.wd5.myworkdayjobs.com/en-US/REC_RTX_Ext_Gateway/job/US-AZ-TUCSON-928--1151-E-Hermans-Rd--MULTI-PURPOSE-FAC-928/Mechanical-Engineer-I--Onsite-_01874328",
-    "source": "workday",
-    "external_id": "/job/US-AZ-TUCSON-928--1151-E-Hermans-Rd--MULTI-PURPOSE-FAC-928/Mechanical-Engineer-I--Onsite-_01874328",
-    "employment_type": "full-time",
-    "category": "Engineering",
-    "h1b_status": "unknown",
-    "sponsorship_evidence": "",
-    "h1b_mentioned": false,
-    "salary_min": null,
-    "salary_max": null,
-    "salary_currency": "",
-    "salary_period": "",
-    "salary_text": "",
-    "keywords": [
-      "CAD",
-      "compliance"
-    ],
-    "updated_at": "",
-    "first_seen_at": "2026-09-30T22:30:14.606761+00:00",
-    "enriched_at": "2026-09-30T22:22:36.330046+00:00"
   },
   {
     "company": "RTX",
@@ -180265,32 +179633,6 @@
   {
     "company": "RTX",
     "fortune_rank": 49,
-    "title": "Finishing Operator I",
-    "location": "US-WA-SPOKANE-11135 ~ 11135 W Westbow Ln ~ WESTBOW",
-    "url": "https://globalhr.wd5.myworkdayjobs.com/en-US/REC_RTX_Ext_Gateway/job/US-WA-SPOKANE-11135--11135-W-Westbow-Ln--WESTBOW/Finishing-Operator-I_01879078-1",
-    "source": "workday",
-    "external_id": "/job/US-WA-SPOKANE-11135--11135-W-Westbow-Ln--WESTBOW/Finishing-Operator-I_01879078-1",
-    "employment_type": "full-time",
-    "category": "Other",
-    "h1b_status": "unknown",
-    "sponsorship_evidence": "",
-    "h1b_mentioned": false,
-    "salary_min": 50000.0,
-    "salary_max": 50000.0,
-    "salary_currency": "USD",
-    "salary_period": "year",
-    "salary_text": "$50,000 per year",
-    "keywords": [
-      "compliance",
-      "legal"
-    ],
-    "updated_at": "",
-    "first_seen_at": "2026-09-30T22:30:14.606761+00:00",
-    "enriched_at": "2026-09-30T22:22:37.254858+00:00"
-  },
-  {
-    "company": "RTX",
-    "fortune_rank": 49,
     "title": "Air Dominance Yield Improvement Lead",
     "location": "US-AZ-TUCSON-801 ~ 1151 E Hermans Rd ~ BLDG 801 (External Site)",
     "url": "https://globalhr.wd5.myworkdayjobs.com/en-US/REC_RTX_Ext_Gateway/job/US-AZ-TUCSON-801--1151-E-Hermans-Rd--BLDG-801-External-Site/Air-Dominance-Yield-Improvement-Lead_01878970",
@@ -180443,89 +179785,6 @@
     "updated_at": "",
     "first_seen_at": "2026-09-30T22:30:14.606761+00:00",
     "enriched_at": "2026-09-30T22:22:37.315784+00:00"
-  },
-  {
-    "company": "RTX",
-    "fortune_rank": 49,
-    "title": "P2 \u2013 Manufacturing Engineer II (Onsite)",
-    "location": "US-AZ-TUCSON-809 ~ 1151 E Hermans Rd ~ BLDG 809 (External Site)",
-    "url": "https://globalhr.wd5.myworkdayjobs.com/en-US/REC_RTX_Ext_Gateway/job/US-AZ-TUCSON-809--1151-E-Hermans-Rd--BLDG-809-External-Site/P2---Manufacturing-Engineer-II--Onsite-_01872061",
-    "source": "workday",
-    "external_id": "/job/US-AZ-TUCSON-809--1151-E-Hermans-Rd--BLDG-809-External-Site/P2---Manufacturing-Engineer-II--Onsite-_01872061",
-    "employment_type": "full-time",
-    "category": "Engineering",
-    "h1b_status": "unknown",
-    "sponsorship_evidence": "",
-    "h1b_mentioned": false,
-    "salary_min": null,
-    "salary_max": null,
-    "salary_currency": "",
-    "salary_period": "",
-    "salary_text": "",
-    "keywords": [
-      "Excel",
-      "mechanical engineering",
-      "CAD",
-      "compliance"
-    ],
-    "updated_at": "",
-    "first_seen_at": "2026-09-30T22:30:14.606761+00:00",
-    "enriched_at": "2026-09-30T22:22:37.326959+00:00"
-  },
-  {
-    "company": "RTX",
-    "fortune_rank": 49,
-    "title": "Manufacturing Engineer I (Onsite)",
-    "location": "US-AZ-TUCSON-809 ~ 1151 E Hermans Rd ~ BLDG 809 (External Site)",
-    "url": "https://globalhr.wd5.myworkdayjobs.com/en-US/REC_RTX_Ext_Gateway/job/US-AZ-TUCSON-809--1151-E-Hermans-Rd--BLDG-809-External-Site/Manufacturing-Engineer-I--Onsite-_01872058",
-    "source": "workday",
-    "external_id": "/job/US-AZ-TUCSON-809--1151-E-Hermans-Rd--BLDG-809-External-Site/Manufacturing-Engineer-I--Onsite-_01872058",
-    "employment_type": "full-time",
-    "category": "Engineering",
-    "h1b_status": "unknown",
-    "sponsorship_evidence": "",
-    "h1b_mentioned": false,
-    "salary_min": null,
-    "salary_max": null,
-    "salary_currency": "",
-    "salary_period": "",
-    "salary_text": "",
-    "keywords": [
-      "Excel",
-      "mechanical engineering",
-      "CAD",
-      "compliance"
-    ],
-    "updated_at": "",
-    "first_seen_at": "2026-09-30T22:30:14.606761+00:00",
-    "enriched_at": "2026-09-30T22:22:37.349955+00:00"
-  },
-  {
-    "company": "RTX",
-    "fortune_rank": 49,
-    "title": "Production Test Engineer I (Onsite)",
-    "location": "US-AZ-TUCSON-9022 ~ 9022 S Rita Rd ~ BLDG 9022",
-    "url": "https://globalhr.wd5.myworkdayjobs.com/en-US/REC_RTX_Ext_Gateway/job/US-AZ-TUCSON-9022--9022-S-Rita-Rd--BLDG-9022/Production-Test-Engineer-I--Onsite-_01878941",
-    "source": "workday",
-    "external_id": "/job/US-AZ-TUCSON-9022--9022-S-Rita-Rd--BLDG-9022/Production-Test-Engineer-I--Onsite-_01878941",
-    "employment_type": "full-time",
-    "category": "Other",
-    "h1b_status": "unknown",
-    "sponsorship_evidence": "",
-    "h1b_mentioned": false,
-    "salary_min": null,
-    "salary_max": null,
-    "salary_currency": "",
-    "salary_period": "",
-    "salary_text": "",
-    "keywords": [
-      "mechanical engineering",
-      "electrical engineering",
-      "compliance"
-    ],
-    "updated_at": "",
-    "first_seen_at": "2026-09-30T22:30:14.606761+00:00",
-    "enriched_at": "2026-09-30T22:22:37.360094+00:00"
   },
   {
     "company": "RTX",
@@ -191390,32 +190649,6 @@
     "updated_at": "",
     "first_seen_at": "2026-09-27T21:32:36.547855+00:00",
     "enriched_at": "2026-09-27T21:26:25.932573+00:00"
-  },
-  {
-    "company": "RTX",
-    "fortune_rank": 49,
-    "title": "Ejection Seating Co-Op - SEIT",
-    "location": "US-CO-COLORADO SPRINGS-793 ~ 1225 Aeroplaza Dr ~ AEROPLAZA",
-    "url": "https://globalhr.wd5.myworkdayjobs.com/en-US/REC_RTX_Ext_Gateway/job/US-CO-COLORADO-SPRINGS-793--1225-Aeroplaza-Dr--AEROPLAZA/Ejection-Seating-Co-Op---SEIT_01874163",
-    "source": "workday",
-    "external_id": "/job/US-CO-COLORADO-SPRINGS-793--1225-Aeroplaza-Dr--AEROPLAZA/Ejection-Seating-Co-Op---SEIT_01874163",
-    "employment_type": "internship",
-    "category": "Other",
-    "h1b_status": "unknown",
-    "sponsorship_evidence": "",
-    "h1b_mentioned": false,
-    "salary_min": null,
-    "salary_max": null,
-    "salary_currency": "",
-    "salary_period": "",
-    "salary_text": "",
-    "keywords": [
-      "compliance",
-      "contracts"
-    ],
-    "updated_at": "",
-    "first_seen_at": "2026-09-27T12:12:51.815311+00:00",
-    "enriched_at": "2026-09-27T12:06:42.173313+00:00"
   },
   {
     "company": "RTX",
@@ -208092,34 +207325,6 @@
   {
     "company": "RTX",
     "fortune_rank": 49,
-    "title": "Material Program Manager",
-    "location": "US-AZ-TUCSON-848 ~ 1151 E Hermans Rd ~ BLDG 848",
-    "url": "https://globalhr.wd5.myworkdayjobs.com/en-US/REC_RTX_Ext_Gateway/job/US-AZ-TUCSON-848--1151-E-Hermans-Rd--BLDG-848/Material-Program-Manager_01873315",
-    "source": "workday",
-    "external_id": "/job/US-AZ-TUCSON-848--1151-E-Hermans-Rd--BLDG-848/Material-Program-Manager_01873315",
-    "employment_type": "full-time",
-    "category": "Other",
-    "h1b_status": "unknown",
-    "sponsorship_evidence": "",
-    "h1b_mentioned": false,
-    "salary_min": null,
-    "salary_max": null,
-    "salary_currency": "",
-    "salary_period": "",
-    "salary_text": "",
-    "keywords": [
-      "supply chain",
-      "procurement",
-      "compliance",
-      "contracts"
-    ],
-    "updated_at": "",
-    "first_seen_at": "2026-09-19T11:09:13.046280+00:00",
-    "enriched_at": "2026-09-26T11:28:54.639687+00:00"
-  },
-  {
-    "company": "RTX",
-    "fortune_rank": 49,
     "title": "Software Project Engineer Intern (Summer 2027) Onsite",
     "location": "US-CT-WINDSOR LOCKS-B1 ~ 1 Hamilton Rd ~ BLDG 1",
     "url": "https://globalhr.wd5.myworkdayjobs.com/en-US/REC_RTX_Ext_Gateway/job/US-CT-WINDSOR-LOCKS-B1--1-Hamilton-Rd--BLDG-1/Software-Project-Engineer-Intern--Summer-2027--Onsite_01872660",
@@ -208142,7 +207347,7 @@
     ],
     "updated_at": "",
     "first_seen_at": "2026-09-19T11:09:13.046280+00:00",
-    "enriched_at": "2026-09-26T11:28:54.650923+00:00"
+    "enriched_at": "2026-10-03T11:43:31.014293+00:00"
   },
   {
     "company": "RTX",
@@ -280327,31 +279532,6 @@
   {
     "company": "Lowe's",
     "fortune_rank": 52,
-    "title": "Full Time - Cashier - Opening",
-    "location": "Elverson, PA (Morgantown) 2476",
-    "url": "https://lowes.wd5.myworkdayjobs.com/en-US/LWS_External_CS/job/Elverson-PA-Morgantown-2476/Full-Time---Cashier---Opening_JR-02659524",
-    "source": "workday",
-    "external_id": "/job/Elverson-PA-Morgantown-2476/Full-Time---Cashier---Opening_JR-02659524",
-    "employment_type": "full-time",
-    "category": "Other",
-    "h1b_status": "unknown",
-    "sponsorship_evidence": "",
-    "h1b_mentioned": false,
-    "salary_min": null,
-    "salary_max": null,
-    "salary_currency": "",
-    "salary_period": "",
-    "salary_text": "",
-    "keywords": [
-      "sales"
-    ],
-    "updated_at": "",
-    "first_seen_at": "2026-09-28T23:30:10.107160+00:00",
-    "enriched_at": "2026-09-28T23:27:40.161500+00:00"
-  },
-  {
-    "company": "Lowe's",
-    "fortune_rank": 52,
     "title": "Full Time - Cashier - Day",
     "location": "Elverson, PA (Morgantown) 2476",
     "url": "https://lowes.wd5.myworkdayjobs.com/en-US/LWS_External_CS/job/Elverson-PA-Morgantown-2476/Full-Time---Cashier---Day_JR-02659523",
@@ -282376,7 +281556,7 @@
     ],
     "updated_at": "",
     "first_seen_at": "2026-09-26T11:34:58.503170+00:00",
-    "enriched_at": "2026-09-26T11:33:03.634771+00:00"
+    "enriched_at": "2026-10-03T11:47:41.588696+00:00"
   },
   {
     "company": "Lowe's",
@@ -282401,7 +281581,7 @@
     ],
     "updated_at": "",
     "first_seen_at": "2026-09-26T11:34:58.503170+00:00",
-    "enriched_at": "2026-09-26T11:33:03.644875+00:00"
+    "enriched_at": "2026-10-03T11:47:41.598888+00:00"
   },
   {
     "company": "Lowe's",
@@ -296634,32 +295814,6 @@
   {
     "company": "Lowe's",
     "fortune_rank": 52,
-    "title": "Merchandising Service Associate - Plant Service Lead",
-    "location": "Arden, NC (S Asheville) 2201",
-    "url": "https://lowes.wd5.myworkdayjobs.com/en-US/LWS_External_CS/job/Arden-NC-S-Asheville-2201/Merchandising-Service-Associate---Plant-Service-Lead_JR-02598848-1",
-    "source": "workday",
-    "external_id": "/job/Arden-NC-S-Asheville-2201/Merchandising-Service-Associate---Plant-Service-Lead_JR-02598848-1",
-    "employment_type": "full-time",
-    "category": "Other",
-    "h1b_status": "unknown",
-    "sponsorship_evidence": "",
-    "h1b_mentioned": false,
-    "salary_min": null,
-    "salary_max": null,
-    "salary_currency": "",
-    "salary_period": "",
-    "salary_text": "",
-    "keywords": [
-      "sales",
-      "compliance"
-    ],
-    "updated_at": "",
-    "first_seen_at": "2026-08-15T02:30:47.614898+00:00",
-    "enriched_at": "2026-09-26T21:21:49.938762+00:00"
-  },
-  {
-    "company": "Lowe's",
-    "fortune_rank": 52,
     "title": "Regional Sales Lead, Americas - LCS",
     "location": "Remote, NC (SSC) 4932",
     "url": "https://lowes.wd5.myworkdayjobs.com/en-US/LWS_External_CS/job/Remote-NC-SSC-4932/Regional-Sales-Lead--Americas---LCS_JR-02591849",
@@ -301374,6 +300528,31 @@
     "enriched_at": "2026-10-02T22:24:33.696620+00:00"
   },
   {
+    "company": "Sysco",
+    "fortune_rank": 55,
+    "title": "CDL A Shuttle Truck Driver",
+    "location": "Sysco Arkansas",
+    "url": "https://sysco.wd5.myworkdayjobs.com/en-US/syscocareers/job/Sysco-Arkansas/CDL-A-Shuttle-Truck-Driver_R269472",
+    "source": "workday",
+    "external_id": "/job/Sysco-Arkansas/CDL-A-Shuttle-Truck-Driver_R269472",
+    "employment_type": "full-time",
+    "category": "Other",
+    "h1b_status": "unknown",
+    "sponsorship_evidence": "",
+    "h1b_mentioned": false,
+    "salary_min": null,
+    "salary_max": null,
+    "salary_currency": "",
+    "salary_period": "",
+    "salary_text": "",
+    "keywords": [
+      "sales"
+    ],
+    "updated_at": "",
+    "first_seen_at": "2026-10-03T11:49:36.393698+00:00",
+    "enriched_at": "2026-10-03T11:47:43.415817+00:00"
+  },
+  {
     "company": "Allstate",
     "fortune_rank": 64,
     "title": "Licensed Insurance Sales Representative (Remote / Home-Based)",
@@ -304167,32 +303346,6 @@
   {
     "company": "Cisco Systems",
     "fortune_rank": 83,
-    "title": "Hardware (Power) Engineer",
-    "location": "San Jose, California, US",
-    "url": "https://cisco.wd5.myworkdayjobs.com/en-US/Cisco_Careers/job/San-Jose-California-US/Hardware--Power--Engineer_2012254",
-    "source": "workday",
-    "external_id": "/job/San-Jose-California-US/Hardware--Power--Engineer_2012254",
-    "employment_type": "full-time",
-    "category": "Other",
-    "h1b_status": "unknown",
-    "sponsorship_evidence": "",
-    "h1b_mentioned": false,
-    "salary_min": null,
-    "salary_max": null,
-    "salary_currency": "",
-    "salary_period": "",
-    "salary_text": "",
-    "keywords": [
-      "Python",
-      "sales"
-    ],
-    "updated_at": "",
-    "first_seen_at": "2026-09-03T21:16:07.532271+00:00",
-    "enriched_at": "2026-10-02T05:47:03.453976+00:00"
-  },
-  {
-    "company": "Cisco Systems",
-    "fortune_rank": 83,
     "title": "Distinguished Machine Learning Engineer, AISWP  (Hybrid)",
     "location": "San Jose, California, US",
     "url": "https://cisco.wd5.myworkdayjobs.com/en-US/Cisco_Careers/job/San-Jose-California-US/Distinguished-Machine-Learning-Engineer--AISWP---Hybrid-_2021423",
@@ -304436,6 +303589,85 @@
     "updated_at": "",
     "first_seen_at": "2026-08-15T02:30:47.614898+00:00",
     "enriched_at": "2026-09-26T21:22:18.911796+00:00"
+  },
+  {
+    "company": "Cisco Systems",
+    "fortune_rank": 83,
+    "title": "Lead Photonics Validation Engineer",
+    "location": "Santa Monica, California, US",
+    "url": "https://cisco.wd5.myworkdayjobs.com/en-US/Cisco_Careers/job/Santa-Monica-California-US/Lead-Photonics-Validation-Engineer_2023651",
+    "source": "workday",
+    "external_id": "/job/Santa-Monica-California-US/Lead-Photonics-Validation-Engineer_2023651",
+    "employment_type": "full-time",
+    "category": "Other",
+    "h1b_status": "unknown",
+    "sponsorship_evidence": "",
+    "h1b_mentioned": false,
+    "salary_min": null,
+    "salary_max": null,
+    "salary_currency": "",
+    "salary_period": "",
+    "salary_text": "",
+    "keywords": [
+      "Python",
+      "sales",
+      "compliance"
+    ],
+    "updated_at": "",
+    "first_seen_at": "2026-10-03T11:49:36.393698+00:00",
+    "enriched_at": "2026-10-03T11:48:09.074006+00:00"
+  },
+  {
+    "company": "Cisco Systems",
+    "fortune_rank": 83,
+    "title": "Networking Tech Lead- L2/L3 Forwarding Engineer",
+    "location": "Milpitas, California, US",
+    "url": "https://cisco.wd5.myworkdayjobs.com/en-US/Cisco_Careers/job/Milpitas-California-US/Networking-Tech-Lead--L2-L3-Forwarding-Engineer_2025768",
+    "source": "workday",
+    "external_id": "/job/Milpitas-California-US/Networking-Tech-Lead--L2-L3-Forwarding-Engineer_2025768",
+    "employment_type": "full-time",
+    "category": "Other",
+    "h1b_status": "unknown",
+    "sponsorship_evidence": "",
+    "h1b_mentioned": false,
+    "salary_min": null,
+    "salary_max": null,
+    "salary_currency": "",
+    "salary_period": "",
+    "salary_text": "",
+    "keywords": [
+      "Python",
+      "sales"
+    ],
+    "updated_at": "",
+    "first_seen_at": "2026-10-03T11:49:36.393698+00:00",
+    "enriched_at": "2026-10-03T11:48:09.089864+00:00"
+  },
+  {
+    "company": "Cisco Systems",
+    "fortune_rank": 83,
+    "title": "Senior Software Engineer",
+    "location": "Milpitas, California, US",
+    "url": "https://cisco.wd5.myworkdayjobs.com/en-US/Cisco_Careers/job/Milpitas-California-US/Senior-Software-Engineer_2015106",
+    "source": "workday",
+    "external_id": "/job/Milpitas-California-US/Senior-Software-Engineer_2015106",
+    "employment_type": "full-time",
+    "category": "Software & IT",
+    "h1b_status": "unknown",
+    "sponsorship_evidence": "",
+    "h1b_mentioned": false,
+    "salary_min": null,
+    "salary_max": null,
+    "salary_currency": "",
+    "salary_period": "",
+    "salary_text": "",
+    "keywords": [
+      "Python",
+      "sales"
+    ],
+    "updated_at": "",
+    "first_seen_at": "2026-10-03T11:49:36.393698+00:00",
+    "enriched_at": "2026-10-03T11:48:09.105714+00:00"
   },
   {
     "company": "Cisco Systems",
@@ -307029,31 +306261,6 @@
     "updated_at": "",
     "first_seen_at": "2026-09-25T05:10:09.019400+00:00",
     "enriched_at": "2026-10-03T05:28:11.453235+00:00"
-  },
-  {
-    "company": "Cisco Systems",
-    "fortune_rank": 83,
-    "title": "Solutions Engineer",
-    "location": "Denver, Colorado, US",
-    "url": "https://cisco.wd5.myworkdayjobs.com/en-US/Cisco_Careers/job/Denver-Colorado-US/Solutions-Engineer_2026310",
-    "source": "workday",
-    "external_id": "/job/Denver-Colorado-US/Solutions-Engineer_2026310",
-    "employment_type": "full-time",
-    "category": "Other",
-    "h1b_status": "unknown",
-    "sponsorship_evidence": "",
-    "h1b_mentioned": false,
-    "salary_min": null,
-    "salary_max": null,
-    "salary_currency": "",
-    "salary_period": "",
-    "salary_text": "",
-    "keywords": [
-      "sales"
-    ],
-    "updated_at": "",
-    "first_seen_at": "2026-09-24T05:01:25.371705+00:00",
-    "enriched_at": "2026-10-01T06:01:18.718795+00:00"
   },
   {
     "company": "Cisco Systems",
@@ -314635,87 +313842,6 @@
     "updated_at": "",
     "first_seen_at": "2026-09-18T21:07:56.083167+00:00",
     "enriched_at": "2026-10-02T22:25:34.141762+00:00"
-  },
-  {
-    "company": "GE Aerospace",
-    "fortune_rank": 101,
-    "title": "Unison Engineering Part-time Co-op - US - Fall 2027",
-    "location": "Saint George UT US 1",
-    "url": "https://geaerospace.wd5.myworkdayjobs.com/en-US/GE_ExternalSite/job/Saint-George-UT-US-1/Unison-Engineering-Part-time-Co-op---US---Fall-2027_R5040164-1",
-    "source": "workday",
-    "external_id": "/job/Saint-George-UT-US-1/Unison-Engineering-Part-time-Co-op---US---Fall-2027_R5040164-1",
-    "employment_type": "internship",
-    "category": "Other",
-    "h1b_status": "does_not_support_h1b",
-    "sponsorship_evidence": "We will not sponsor individuals for employment visas, now or in the future, for this job opening.",
-    "h1b_mentioned": false,
-    "salary_min": 20.0,
-    "salary_max": 20.0,
-    "salary_currency": "USD",
-    "salary_period": "hour",
-    "salary_text": "$20/hour",
-    "keywords": [
-      "mechanical engineering",
-      "electrical engineering",
-      "legal"
-    ],
-    "updated_at": "",
-    "first_seen_at": "2026-09-16T21:31:34.745587+00:00",
-    "enriched_at": "2026-09-30T22:28:29.409404+00:00"
-  },
-  {
-    "company": "GE Aerospace",
-    "fortune_rank": 101,
-    "title": "Unison Engineering Part-time Intern - US - Summer 2027",
-    "location": "Saint George UT US 1",
-    "url": "https://geaerospace.wd5.myworkdayjobs.com/en-US/GE_ExternalSite/job/Saint-George-UT-US-1/Unison-Engineering-Part-time-Intern---US---Summer-2027_R5040163-1",
-    "source": "workday",
-    "external_id": "/job/Saint-George-UT-US-1/Unison-Engineering-Part-time-Intern---US---Summer-2027_R5040163-1",
-    "employment_type": "internship",
-    "category": "Other",
-    "h1b_status": "does_not_support_h1b",
-    "sponsorship_evidence": "We will not sponsor individuals for employment visas, now or in the future, for this job opening.",
-    "h1b_mentioned": false,
-    "salary_min": 20.0,
-    "salary_max": 20.0,
-    "salary_currency": "USD",
-    "salary_period": "hour",
-    "salary_text": "$20/hour",
-    "keywords": [
-      "mechanical engineering",
-      "electrical engineering",
-      "legal"
-    ],
-    "updated_at": "",
-    "first_seen_at": "2026-09-16T21:31:34.745587+00:00",
-    "enriched_at": "2026-09-30T22:28:29.416028+00:00"
-  },
-  {
-    "company": "GE Aerospace",
-    "fortune_rank": 101,
-    "title": "Unison Engineering Part-time Co-op - US - Spring 2027",
-    "location": "Saint George UT US 1",
-    "url": "https://geaerospace.wd5.myworkdayjobs.com/en-US/GE_ExternalSite/job/Saint-George-UT-US-1/Unison-Engineering-Part-time-Co-op---US---Spring-2027_R5040016",
-    "source": "workday",
-    "external_id": "/job/Saint-George-UT-US-1/Unison-Engineering-Part-time-Co-op---US---Spring-2027_R5040016",
-    "employment_type": "internship",
-    "category": "Other",
-    "h1b_status": "does_not_support_h1b",
-    "sponsorship_evidence": "We will not sponsor individuals for employment visas, now or in the future, for this job opening.",
-    "h1b_mentioned": false,
-    "salary_min": 20.0,
-    "salary_max": 20.0,
-    "salary_currency": "USD",
-    "salary_period": "hour",
-    "salary_text": "$20/hour",
-    "keywords": [
-      "mechanical engineering",
-      "electrical engineering",
-      "legal"
-    ],
-    "updated_at": "",
-    "first_seen_at": "2026-09-16T21:31:34.745587+00:00",
-    "enriched_at": "2026-09-30T22:28:29.422681+00:00"
   },
   {
     "company": "GE Aerospace",
@@ -392760,32 +391886,6 @@
     "updated_at": "",
     "first_seen_at": "2026-08-15T02:30:47.614898+00:00",
     "enriched_at": "2026-09-27T05:28:39.524658+00:00"
-  },
-  {
-    "company": "Broadcom",
-    "fortune_rank": 70,
-    "title": "Staff Memory Circuit Design Engineer",
-    "location": "USA-CA Irvine Alton Parkway Bldg 1",
-    "url": "https://broadcom.wd1.myworkdayjobs.com/en-US/External_Career/job/USA-CA-Irvine-Alton-Parkway-Bldg-1/Staff-Memory-Circuit-Design-Engineer_R025580-1",
-    "source": "workday",
-    "external_id": "/job/USA-CA-Irvine-Alton-Parkway-Bldg-1/Staff-Memory-Circuit-Design-Engineer_R025580-1",
-    "employment_type": "full-time",
-    "category": "Other",
-    "h1b_status": "unknown",
-    "sponsorship_evidence": "",
-    "h1b_mentioned": false,
-    "salary_min": null,
-    "salary_max": null,
-    "salary_currency": "",
-    "salary_period": "",
-    "salary_text": "",
-    "keywords": [
-      "Python",
-      "electrical engineering"
-    ],
-    "updated_at": "",
-    "first_seen_at": "2026-08-15T02:30:47.614898+00:00",
-    "enriched_at": "2026-09-27T05:28:39.530172+00:00"
   },
   {
     "company": "Hewlett Packard Enterprise",

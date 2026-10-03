@@ -362,25 +362,6 @@
   {
     "company": "Coupang",
     "title": "Senior Executive Assistant",
-    "location": "Seattle, USA",
-    "employment_type": "full-time",
-    "category": "Other",
-    "salary": "$89k/yr",
-    "salary_min": 89000.0,
-    "keywords": [
-      "Excel",
-      "tax",
-      "logistics",
-      "recruiting"
-    ],
-    "sponsorship_evidence": "",
-    "h1b_status": "unknown",
-    "sponsorship_label": "Not specified",
-    "url": "https://www.coupang.jobs/en/jobs/?gh_jid=8089206"
-  },
-  {
-    "company": "Coupang",
-    "title": "Senior Executive Assistant",
     "location": "Mountain View, USA",
     "employment_type": "full-time",
     "category": "Other",
@@ -396,6 +377,25 @@
     "h1b_status": "unknown",
     "sponsorship_label": "Not specified",
     "url": "https://www.coupang.jobs/en/jobs/?gh_jid=8160724"
+  },
+  {
+    "company": "Coupang",
+    "title": "Senior Executive Assistant",
+    "location": "Seattle, USA",
+    "employment_type": "full-time",
+    "category": "Other",
+    "salary": "$89k/yr",
+    "salary_min": 89000.0,
+    "keywords": [
+      "Excel",
+      "tax",
+      "logistics",
+      "recruiting"
+    ],
+    "sponsorship_evidence": "",
+    "h1b_status": "unknown",
+    "sponsorship_label": "Not specified",
+    "url": "https://www.coupang.jobs/en/jobs/?gh_jid=8089206"
   },
   {
     "company": "Coupang",
@@ -464,29 +464,6 @@
   {
     "company": "Coupang",
     "title": "Senior Staff Backend Engineer - Cloud Infrastructure",
-    "location": "Seattle, USA",
-    "employment_type": "full-time",
-    "category": "Software & IT",
-    "salary": "$174k/yr",
-    "salary_min": 174000.0,
-    "keywords": [
-      "Python",
-      "AWS",
-      "Azure",
-      "GCP",
-      "Docker",
-      "Kubernetes",
-      "Terraform",
-      "tax"
-    ],
-    "sponsorship_evidence": "",
-    "h1b_status": "unknown",
-    "sponsorship_label": "Not specified",
-    "url": "https://www.coupang.jobs/en/jobs/?gh_jid=7438944"
-  },
-  {
-    "company": "Coupang",
-    "title": "Senior Staff Backend Engineer - Cloud Infrastructure",
     "location": "Mountain View, USA",
     "employment_type": "full-time",
     "category": "Software & IT",
@@ -506,6 +483,29 @@
     "h1b_status": "unknown",
     "sponsorship_label": "Not specified",
     "url": "https://www.coupang.jobs/en/jobs/?gh_jid=7962133"
+  },
+  {
+    "company": "Coupang",
+    "title": "Senior Staff Backend Engineer - Cloud Infrastructure",
+    "location": "Seattle, USA",
+    "employment_type": "full-time",
+    "category": "Software & IT",
+    "salary": "$174k/yr",
+    "salary_min": 174000.0,
+    "keywords": [
+      "Python",
+      "AWS",
+      "Azure",
+      "GCP",
+      "Docker",
+      "Kubernetes",
+      "Terraform",
+      "tax"
+    ],
+    "sponsorship_evidence": "",
+    "h1b_status": "unknown",
+    "sponsorship_label": "Not specified",
+    "url": "https://www.coupang.jobs/en/jobs/?gh_jid=7438944"
   },
   {
     "company": "Coupang",
@@ -25772,6 +25772,39 @@
   },
   {
     "company": "Northrop Grumman",
+    "title": "Systems Engineer / Principal Systems Engineer",
+    "location": "United States-California-Woodland Hills",
+    "employment_type": "full-time",
+    "category": "Software & IT",
+    "salary": "Not disclosed",
+    "salary_min": null,
+    "keywords": [
+      "Python",
+      "compliance"
+    ],
+    "sponsorship_evidence": "",
+    "h1b_status": "unknown",
+    "sponsorship_label": "Not specified",
+    "url": "https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-California-Woodland-Hills/Systems-Engineer---Principal-Systems-Engineer_R10254249"
+  },
+  {
+    "company": "Northrop Grumman",
+    "title": "Staff SEIT Lead",
+    "location": "United States-California-Woodland Hills",
+    "employment_type": "full-time",
+    "category": "Other",
+    "salary": "Not disclosed",
+    "salary_min": null,
+    "keywords": [
+      "compliance"
+    ],
+    "sponsorship_evidence": "",
+    "h1b_status": "unknown",
+    "sponsorship_label": "Not specified",
+    "url": "https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-California-Woodland-Hills/Staff-SEIT-Lead_R10254248"
+  },
+  {
+    "company": "Northrop Grumman",
     "title": "Principal Weapons Systems Engineer",
     "location": "United States-Florida-Melbourne",
     "employment_type": "full-time",
@@ -35202,25 +35235,6 @@
   },
   {
     "company": "Northrop Grumman",
-    "title": "2026 Associate Signature Management & Survivability Engineer/Signature Management & Survivability Engineer",
-    "location": "United States-California-Redondo Beach",
-    "employment_type": "full-time",
-    "category": "Other",
-    "salary": "$83.3k\u2013$125.8k/yr",
-    "salary_min": 83300.0,
-    "keywords": [
-      "Python",
-      "mechanical engineering",
-      "electrical engineering",
-      "CAD"
-    ],
-    "sponsorship_evidence": "",
-    "h1b_status": "unknown",
-    "sponsorship_label": "Not specified",
-    "url": "https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-California-Redondo-Beach/XMLNAME-2026-Associate-Signature-Management---Survivability-Engineer-Signature-Management---Survivability-Engineer_R10253648-1"
-  },
-  {
-    "company": "Northrop Grumman",
     "title": "Avionics Integration Section Manager 2",
     "location": "United States-Florida-Melbourne",
     "employment_type": "full-time",
@@ -35334,26 +35348,6 @@
     "h1b_status": "unknown",
     "sponsorship_label": "Not specified",
     "url": "https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-California-Redondo-Beach/Principal-Test-Conductor-Senior-Principal-Test-Conductor---2nd-3rd-Shift-Lead_R10252768-1"
-  },
-  {
-    "company": "Northrop Grumman",
-    "title": "Engineering Designer \u2013 Level 3/4",
-    "location": "United States-Arizona-Chandler",
-    "employment_type": "full-time",
-    "category": "Other",
-    "salary": "Not disclosed",
-    "salary_min": null,
-    "keywords": [
-      "AWS",
-      "Excel",
-      "mechanical engineering",
-      "CAD",
-      "compliance"
-    ],
-    "sponsorship_evidence": "",
-    "h1b_status": "unknown",
-    "sponsorship_label": "Not specified",
-    "url": "https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-Arizona-Chandler/Engineering-Designer---Level-3-4_R10253641"
   },
   {
     "company": "Northrop Grumman",
@@ -37610,20 +37604,6 @@
   },
   {
     "company": "Northrop Grumman",
-    "title": "Manufacturing Technician 3/4",
-    "location": "United States-California-Santa Rosa",
-    "employment_type": "full-time",
-    "category": "Other",
-    "salary": "Not disclosed",
-    "salary_min": null,
-    "keywords": [],
-    "sponsorship_evidence": "",
-    "h1b_status": "unknown",
-    "sponsorship_label": "Not specified",
-    "url": "https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-California-Santa-Rosa/Manufacturing-Technician-3-4_R10241535"
-  },
-  {
-    "company": "Northrop Grumman",
     "title": "Principal Engineer Systems/Sr. Principal Engineer Systems",
     "location": "United States-Oklahoma-Tinker AFB",
     "employment_type": "full-time",
@@ -38306,23 +38286,6 @@
     "h1b_status": "unknown",
     "sponsorship_label": "Not specified",
     "url": "https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-Arizona-Chandler/Electronic-Test-Technician--Level-1-_R10252061"
-  },
-  {
-    "company": "Northrop Grumman",
-    "title": "Resource Control Team Software Engineer (Level 1 or 2) - AHT",
-    "location": "United States-California-Manhattan Beach",
-    "employment_type": "full-time",
-    "category": "Software & IT",
-    "salary": "Not disclosed",
-    "salary_min": null,
-    "keywords": [
-      "Python",
-      "Java"
-    ],
-    "sponsorship_evidence": "",
-    "h1b_status": "unknown",
-    "sponsorship_label": "Not specified",
-    "url": "https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-California-Manhattan-Beach/Resource-Control-Team-Software-Engineer--Level-1-or-2----AHT_R10247178"
   },
   {
     "company": "Northrop Grumman",
@@ -39625,24 +39588,6 @@
     "h1b_status": "unknown",
     "sponsorship_label": "Not specified",
     "url": "https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-Mississippi-Iuka/PC-Network-Support-2---Weekends---Secret_R10252841"
-  },
-  {
-    "company": "Northrop Grumman",
-    "title": "Windows Systems Administrator - Secret",
-    "location": "United States-Utah-Layton",
-    "employment_type": "full-time",
-    "category": "Other",
-    "salary": "Not disclosed",
-    "salary_min": null,
-    "keywords": [
-      "audit",
-      "compliance",
-      "contracts"
-    ],
-    "sponsorship_evidence": "",
-    "h1b_status": "unknown",
-    "sponsorship_label": "Not specified",
-    "url": "https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-Utah-Layton/Windows-Systems-Administrator---Secret_R10252837"
   },
   {
     "company": "Northrop Grumman",
@@ -41384,20 +41329,6 @@
   },
   {
     "company": "Northrop Grumman",
-    "title": "2026 Associate Process Engineer/Process Engineer - Promontory UT",
-    "location": "United States-Utah-Corinne",
-    "employment_type": "full-time",
-    "category": "Other",
-    "salary": "Not disclosed",
-    "salary_min": null,
-    "keywords": [],
-    "sponsorship_evidence": "",
-    "h1b_status": "unknown",
-    "sponsorship_label": "Not specified",
-    "url": "https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-Utah-Corinne/XMLNAME-2026-Associate-Process-Engineer-Process-Engineer---Promontory-UT_R10252875"
-  },
-  {
-    "company": "Northrop Grumman",
     "title": "Manager Field Engineering Services 1",
     "location": "United States-California-San Diego",
     "employment_type": "full-time",
@@ -42294,22 +42225,6 @@
     "h1b_status": "unknown",
     "sponsorship_label": "Not specified",
     "url": "https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-Utah-Clearfield/Principal-Systems-Engineer---Configuration-Management--17837-_R10250181"
-  },
-  {
-    "company": "Northrop Grumman",
-    "title": "Configurable On-Board Router (COR) Team - Software Engineer (AHT)",
-    "location": "United States-California-Manhattan Beach",
-    "employment_type": "full-time",
-    "category": "Software & IT",
-    "salary": "Not disclosed",
-    "salary_min": null,
-    "keywords": [
-      "Python"
-    ],
-    "sponsorship_evidence": "",
-    "h1b_status": "unknown",
-    "sponsorship_label": "Not specified",
-    "url": "https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-California-Manhattan-Beach/Configurable-On-Board-Router--COR--Team---Software-Engineer--AHT-_R10247177"
   },
   {
     "company": "Northrop Grumman",
@@ -49938,22 +49853,6 @@
     "h1b_status": "unknown",
     "sponsorship_label": "Not specified",
     "url": "https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-California-San-Diego/Software-Engineer---Embedded_R10236526"
-  },
-  {
-    "company": "Northrop Grumman",
-    "title": "Staff Deputy SEIT Lead",
-    "location": "United States-California-Woodland Hills",
-    "employment_type": "full-time",
-    "category": "Other",
-    "salary": "Not disclosed",
-    "salary_min": null,
-    "keywords": [
-      "compliance"
-    ],
-    "sponsorship_evidence": "",
-    "h1b_status": "unknown",
-    "sponsorship_label": "Not specified",
-    "url": "https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-California-Woodland-Hills/Staff-Deputy-SEIT-Lead_R10251253"
   },
   {
     "company": "Northrop Grumman",
@@ -71932,23 +71831,6 @@
   },
   {
     "company": "Northrop Grumman",
-    "title": "Systems Engineer / Principal Systems Engineer (MBSE)",
-    "location": "United States-California-Woodland Hills",
-    "employment_type": "full-time",
-    "category": "Software & IT",
-    "salary": "Not disclosed",
-    "salary_min": null,
-    "keywords": [
-      "Python",
-      "compliance"
-    ],
-    "sponsorship_evidence": "",
-    "h1b_status": "unknown",
-    "sponsorship_label": "Not specified",
-    "url": "https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-California-Woodland-Hills/Systems-Engineer---Principal-Systems-Engineer--MBSE-_R10242768"
-  },
-  {
-    "company": "Northrop Grumman",
     "title": "Principal Human Factors Engineer",
     "location": "United States-Florida-Melbourne",
     "employment_type": "full-time",
@@ -80360,24 +80242,6 @@
     "h1b_status": "does_not_support_h1b",
     "sponsorship_label": "No sponsorship for this position",
     "url": "https://boeing.wd1.myworkdayjobs.com/en-US/EXTERNAL_CAREERS/job/USA---Colorado-Springs-CO/Systems-Engineering-Manager--Systems-Engineering-Management-_JR2026519414-1"
-  },
-  {
-    "company": "Boeing",
-    "title": "Lead Software Engineer-Simulation",
-    "location": "USA - Berkeley, MO",
-    "employment_type": "full-time",
-    "category": "Software & IT",
-    "salary": "Not disclosed",
-    "salary_min": null,
-    "keywords": [
-      "Java",
-      "data science",
-      "compliance"
-    ],
-    "sponsorship_evidence": "Visa Sponsorship: Employer will not sponsor applicants for employment visa status.",
-    "h1b_status": "does_not_support_h1b",
-    "sponsorship_label": "No sponsorship for this position",
-    "url": "https://boeing.wd1.myworkdayjobs.com/en-US/EXTERNAL_CAREERS/job/USA---Berkeley-MO/Lead-Software-Engineer-Simulation_JR2026525612-1"
   },
   {
     "company": "HP",
@@ -94501,6 +94365,24 @@
   },
   {
     "company": "Centene",
+    "title": "Finance Analyst III - Managed Care",
+    "location": "Remote-MO",
+    "employment_type": "full-time",
+    "category": "Finance & Accounting",
+    "salary": "Not disclosed",
+    "salary_min": null,
+    "keywords": [
+      "Excel",
+      "financial modeling",
+      "accounting"
+    ],
+    "sponsorship_evidence": "",
+    "h1b_status": "unknown",
+    "sponsorship_label": "Not specified",
+    "url": "https://centene.wd5.myworkdayjobs.com/en-US/centene_external/job/Remote-MO/Finance-Analyst-III---Managed-Care_1657973"
+  },
+  {
+    "company": "Centene",
     "title": "Team Lead, Care Management Support Coordinator",
     "location": "Remote-PA",
     "employment_type": "full-time",
@@ -100574,20 +100456,6 @@
   },
   {
     "company": "Walt Disney",
-    "title": "COE Associate Project Manager",
-    "location": "Burbank, CA, USA",
-    "employment_type": "full-time",
-    "category": "Other",
-    "salary": "$72k\u2013$96.5k/yr",
-    "salary_min": 72000.0,
-    "keywords": [],
-    "sponsorship_evidence": "",
-    "h1b_status": "unknown",
-    "sponsorship_label": "Not specified",
-    "url": "https://disney.wd5.myworkdayjobs.com/en-US/disneycareer/job/Burbank-CA-USA/COE-Associate-Project-Manager_10161038"
-  },
-  {
-    "company": "Walt Disney",
     "title": "Senior Financial Analyst, Corporate FP&A",
     "location": "Burbank, CA, USA",
     "employment_type": "full-time",
@@ -102124,22 +101992,6 @@
   },
   {
     "company": "Walt Disney",
-    "title": "Manager, Corporate Development",
-    "location": "Burbank, CA, USA",
-    "employment_type": "full-time",
-    "category": "Other",
-    "salary": "$139.2k\u2013$186.6k/yr",
-    "salary_min": 139200.0,
-    "keywords": [
-      "accounting"
-    ],
-    "sponsorship_evidence": "",
-    "h1b_status": "unknown",
-    "sponsorship_label": "Not specified",
-    "url": "https://disney.wd5.myworkdayjobs.com/en-US/disneycareer/job/Burbank-CA-USA/Manager--Corporate-Development_10145556-1"
-  },
-  {
-    "company": "Walt Disney",
     "title": "Staff Software Engineer - USD Authoring",
     "location": "Burbank, CA, USA",
     "employment_type": "full-time",
@@ -102323,22 +102175,6 @@
     "h1b_status": "unknown",
     "sponsorship_label": "Not specified",
     "url": "https://disney.wd5.myworkdayjobs.com/en-US/disneycareer/job/Palm-Desert-CA-USA/Sales-Manager---Cotino--A-Storyliving-by-Disney--Community_10156886-1"
-  },
-  {
-    "company": "Walt Disney",
-    "title": "Staff Content Security Engineer",
-    "location": "Glendale, CA, USA",
-    "employment_type": "full-time",
-    "category": "Software & IT",
-    "salary": "$141.9k\u2013$170k/yr",
-    "salary_min": 141900.0,
-    "keywords": [
-      "AWS"
-    ],
-    "sponsorship_evidence": "",
-    "h1b_status": "unknown",
-    "sponsorship_label": "Not specified",
-    "url": "https://disney.wd5.myworkdayjobs.com/en-US/disneycareer/job/Glendale-CA-USA/Staff-Content-Security-Engineer_10141912"
   },
   {
     "company": "Walt Disney",
@@ -110851,16 +110687,13 @@
   },
   {
     "company": "RTX",
-    "title": "Senior Design Engineer (AWW) \u2013 Hybrid",
-    "location": "US-CT-MIDDLETOWN-130 ~ Aircraft Rd ~ BLDG 130",
+    "title": "Assembly & Test Inspector , 2nd Shift  (Onsite)",
+    "location": "US-FL-JUPITER-ADR ~ 17900 Beeline Hwy ~ ADR BLDG",
     "employment_type": "full-time",
     "category": "Other",
     "salary": "Not disclosed",
     "salary_min": null,
     "keywords": [
-      "risk management",
-      "mechanical engineering",
-      "supply chain",
       "recruiting",
       "compliance",
       "contracts"
@@ -110868,7 +110701,7 @@
     "sponsorship_evidence": "",
     "h1b_status": "unknown",
     "sponsorship_label": "Not specified",
-    "url": "https://globalhr.wd5.myworkdayjobs.com/en-US/REC_RTX_Ext_Gateway/job/US-CT-MIDDLETOWN-130--Aircraft-Rd--BLDG-130/Senior-Design-Engineer--AWW----Hybrid_01878421"
+    "url": "https://globalhr.wd5.myworkdayjobs.com/en-US/REC_RTX_Ext_Gateway/job/US-FL-JUPITER-ADR--17900-Beeline-Hwy--ADR-BLDG/Assembly---Test-Inspector---2nd-Shift---Onsite-_01879708"
   },
   {
     "company": "RTX",
@@ -112125,24 +111958,6 @@
     "h1b_status": "unknown",
     "sponsorship_label": "Not specified",
     "url": "https://globalhr.wd5.myworkdayjobs.com/en-US/REC_RTX_Ext_Gateway/job/US-VA-ARLINGTON-108--1100-Wilson-Blvd--ROSSLYN-HQ/Human-Resources-Rotational-Leadership-Development-Program_01879338"
-  },
-  {
-    "company": "RTX",
-    "title": "Production Test Engineer II (Onsite)",
-    "location": "US-AZ-TUCSON-9022 ~ 9022 S Rita Rd ~ BLDG 9022",
-    "employment_type": "full-time",
-    "category": "Other",
-    "salary": "Not disclosed",
-    "salary_min": null,
-    "keywords": [
-      "mechanical engineering",
-      "electrical engineering",
-      "compliance"
-    ],
-    "sponsorship_evidence": "",
-    "h1b_status": "unknown",
-    "sponsorship_label": "Not specified",
-    "url": "https://globalhr.wd5.myworkdayjobs.com/en-US/REC_RTX_Ext_Gateway/job/US-AZ-TUCSON-9022--9022-S-Rita-Rd--BLDG-9022/Production-Test-Engineer-II--Onsite-_01872264"
   },
   {
     "company": "RTX",
@@ -113460,43 +113275,6 @@
   },
   {
     "company": "RTX",
-    "title": "Mechanical Engineering Intern (Summer 2027)",
-    "location": "US-AZ-TUCSON-M10 ~ 3360 E Hemisphere Loop ~ BLDG M10",
-    "employment_type": "internship",
-    "category": "Engineering",
-    "salary": "Not disclosed",
-    "salary_min": null,
-    "keywords": [
-      "Python",
-      "mechanical engineering",
-      "electrical engineering",
-      "CAD",
-      "compliance"
-    ],
-    "sponsorship_evidence": "",
-    "h1b_status": "unknown",
-    "sponsorship_label": "Not specified",
-    "url": "https://globalhr.wd5.myworkdayjobs.com/en-US/REC_RTX_Ext_Gateway/job/US-AZ-TUCSON-M10--3360-E-Hemisphere-Loop--BLDG-M10/Mechanical-Engineering-Intern--Summer-2027-_01873571"
-  },
-  {
-    "company": "RTX",
-    "title": "Mechanical Engineering I (Onsite)",
-    "location": "US-AZ-TUCSON-M10 ~ 3360 E Hemisphere Loop ~ BLDG M10",
-    "employment_type": "full-time",
-    "category": "Engineering",
-    "salary": "Not disclosed",
-    "salary_min": null,
-    "keywords": [
-      "mechanical engineering",
-      "compliance"
-    ],
-    "sponsorship_evidence": "",
-    "h1b_status": "unknown",
-    "sponsorship_label": "Not specified",
-    "url": "https://globalhr.wd5.myworkdayjobs.com/en-US/REC_RTX_Ext_Gateway/job/US-AZ-TUCSON-M10--3360-E-Hemisphere-Loop--BLDG-M10/Mechanical-Engineering-I--Onsite-_01872084"
-  },
-  {
-    "company": "RTX",
     "title": "Test Equipment Engineer",
     "location": "US-TX-MCKINNEY-513WD ~ 2501 W University Dr ~ WING D BLDG",
     "employment_type": "full-time",
@@ -113550,40 +113328,6 @@
   },
   {
     "company": "RTX",
-    "title": "Mechanical Thermal Engineer I (Onsite)",
-    "location": "US-AZ-TUCSON-805 ~ 1151 E Hermans Rd ~ BLDG 805",
-    "employment_type": "full-time",
-    "category": "Engineering",
-    "salary": "Not disclosed",
-    "salary_min": null,
-    "keywords": [
-      "CAD",
-      "compliance"
-    ],
-    "sponsorship_evidence": "",
-    "h1b_status": "unknown",
-    "sponsorship_label": "Not specified",
-    "url": "https://globalhr.wd5.myworkdayjobs.com/en-US/REC_RTX_Ext_Gateway/job/US-AZ-TUCSON-805--1151-E-Hermans-Rd--BLDG-805/Mechanical-Thermal-Engineer-I--Onsite-_01873508"
-  },
-  {
-    "company": "RTX",
-    "title": "Mechanical Structural Engineer II (Onsite)",
-    "location": "US-AZ-TUCSON-805 ~ 1151 E Hermans Rd ~ BLDG 805",
-    "employment_type": "full-time",
-    "category": "Engineering",
-    "salary": "Not disclosed",
-    "salary_min": null,
-    "keywords": [
-      "CAD",
-      "compliance"
-    ],
-    "sponsorship_evidence": "",
-    "h1b_status": "unknown",
-    "sponsorship_label": "Not specified",
-    "url": "https://globalhr.wd5.myworkdayjobs.com/en-US/REC_RTX_Ext_Gateway/job/US-AZ-TUCSON-805--1151-E-Hermans-Rd--BLDG-805/Mechanical-Structural-Engineer-II--Onsite-_01874737"
-  },
-  {
-    "company": "RTX",
     "title": "Quality Engineer II (Onsite - Puerto Rico)",
     "location": "US-PR-SANTA ISABEL-B4 ~ Felicia Industrial Park - St B4 ~ BLDG 4",
     "employment_type": "full-time",
@@ -113600,42 +113344,6 @@
     "h1b_status": "unknown",
     "sponsorship_label": "Not specified",
     "url": "https://globalhr.wd5.myworkdayjobs.com/en-US/REC_RTX_Ext_Gateway/job/US-PR-SANTA-ISABEL-B4--Felicia-Industrial-Park---St-B4--BLDG-4/Quality-Engineer-II--Onsite---Puerto-Rico-_01879057-1"
-  },
-  {
-    "company": "RTX",
-    "title": "Mechanical Structural Engineer I (Onsite)",
-    "location": "US-AZ-TUCSON-805 ~ 1151 E Hermans Rd ~ BLDG 805",
-    "employment_type": "full-time",
-    "category": "Engineering",
-    "salary": "Not disclosed",
-    "salary_min": null,
-    "keywords": [
-      "mechanical engineering",
-      "CAD",
-      "compliance"
-    ],
-    "sponsorship_evidence": "",
-    "h1b_status": "unknown",
-    "sponsorship_label": "Not specified",
-    "url": "https://globalhr.wd5.myworkdayjobs.com/en-US/REC_RTX_Ext_Gateway/job/US-AZ-TUCSON-805--1151-E-Hermans-Rd--BLDG-805/Mechanical-Structural-Engineer-I--Onsite-_01874735"
-  },
-  {
-    "company": "RTX",
-    "title": "Mechanical Thermal Engineer II (Onsite)",
-    "location": "US-AZ-TUCSON-805 ~ 1151 E Hermans Rd ~ BLDG 805",
-    "employment_type": "full-time",
-    "category": "Engineering",
-    "salary": "Not disclosed",
-    "salary_min": null,
-    "keywords": [
-      "mechanical engineering",
-      "CAD",
-      "compliance"
-    ],
-    "sponsorship_evidence": "",
-    "h1b_status": "unknown",
-    "sponsorship_label": "Not specified",
-    "url": "https://globalhr.wd5.myworkdayjobs.com/en-US/REC_RTX_Ext_Gateway/job/US-AZ-TUCSON-805--1151-E-Hermans-Rd--BLDG-805/Mechanical-Thermal-Engineer-II--Onsite-_01874738"
   },
   {
     "company": "RTX",
@@ -114275,23 +113983,6 @@
   },
   {
     "company": "RTX",
-    "title": "Mechanical Engineer Intern (2027 Summer)",
-    "location": "US-AZ-TUCSON-928 ~ 1151 E Hermans Rd ~ MULTI PURPOSE FAC 928",
-    "employment_type": "internship",
-    "category": "Engineering",
-    "salary": "Not disclosed",
-    "salary_min": null,
-    "keywords": [
-      "mechanical engineering",
-      "compliance"
-    ],
-    "sponsorship_evidence": "",
-    "h1b_status": "unknown",
-    "sponsorship_label": "Not specified",
-    "url": "https://globalhr.wd5.myworkdayjobs.com/en-US/REC_RTX_Ext_Gateway/job/US-AZ-TUCSON-928--1151-E-Hermans-Rd--MULTI-PURPOSE-FAC-928/Mechanical-Engineer-Intern--2027-Summer-_01874513"
-  },
-  {
-    "company": "RTX",
     "title": "Principal Industrial Engineer (Onsite)",
     "location": "US-CT-EAST HARTFORD-J ~ 400 Main St ~ BLDG J",
     "employment_type": "full-time",
@@ -114379,61 +114070,6 @@
     "h1b_status": "unknown",
     "sponsorship_label": "Not specified",
     "url": "https://globalhr.wd5.myworkdayjobs.com/en-US/REC_RTX_Ext_Gateway/job/US-MA-TEWKSBURY-TB3--50-Apple-Hill-Dr--CONCORD-BLDG-Tewksbury-Tb3-300-Concord/Software-Engineer-I--Onsite-_01875565"
-  },
-  {
-    "company": "RTX",
-    "title": "Production Test Engineering Intern (Summer 2027)",
-    "location": "US-AZ-TUCSON-801 ~ 1151 E Hermans Rd ~ BLDG 801 (External Site)",
-    "employment_type": "internship",
-    "category": "Other",
-    "salary": "Not disclosed",
-    "salary_min": null,
-    "keywords": [
-      "electrical engineering",
-      "supply chain",
-      "compliance"
-    ],
-    "sponsorship_evidence": "",
-    "h1b_status": "unknown",
-    "sponsorship_label": "Not specified",
-    "url": "https://globalhr.wd5.myworkdayjobs.com/en-US/REC_RTX_Ext_Gateway/job/US-AZ-TUCSON-801--1151-E-Hermans-Rd--BLDG-801-External-Site/Production-Test-Engineering-Intern--Summer-2027-_01872992"
-  },
-  {
-    "company": "RTX",
-    "title": "Manufacturing Engineering Intern (Summer 2027)",
-    "location": "US-AZ-TUCSON-801 ~ 1151 E Hermans Rd ~ BLDG 801 (External Site)",
-    "employment_type": "internship",
-    "category": "Other",
-    "salary": "Not disclosed",
-    "salary_min": null,
-    "keywords": [
-      "mechanical engineering",
-      "supply chain",
-      "compliance"
-    ],
-    "sponsorship_evidence": "",
-    "h1b_status": "unknown",
-    "sponsorship_label": "Not specified",
-    "url": "https://globalhr.wd5.myworkdayjobs.com/en-US/REC_RTX_Ext_Gateway/job/US-AZ-TUCSON-801--1151-E-Hermans-Rd--BLDG-801-External-Site/Manufacturing-Engineering-Intern--Summer-2027-_01872988"
-  },
-  {
-    "company": "RTX",
-    "title": "Production Test Engineer Intern (Summer 2027)",
-    "location": "US-NM-FARMINGTON-426S ~ 10059 Hwy 371 S ~ SOUTH BLDG",
-    "employment_type": "internship",
-    "category": "Other",
-    "salary": "Not disclosed",
-    "salary_min": null,
-    "keywords": [
-      "electrical engineering",
-      "supply chain",
-      "compliance",
-      "contracts"
-    ],
-    "sponsorship_evidence": "",
-    "h1b_status": "unknown",
-    "sponsorship_label": "Not specified",
-    "url": "https://globalhr.wd5.myworkdayjobs.com/en-US/REC_RTX_Ext_Gateway/job/US-NM-FARMINGTON-426S--10059-Hwy-371-S--SOUTH-BLDG/Production-Test-Engineer-Intern--Summer-2027-_01872985"
   },
   {
     "company": "RTX",
@@ -117331,25 +116967,6 @@
   },
   {
     "company": "RTX",
-    "title": "Kinaxis IT Analyst",
-    "location": "US-AZ-REMOTE",
-    "employment_type": "full-time",
-    "category": "Software & IT",
-    "salary": "Not disclosed",
-    "salary_min": null,
-    "keywords": [
-      "Excel",
-      "procurement",
-      "compliance",
-      "contracts"
-    ],
-    "sponsorship_evidence": "",
-    "h1b_status": "unknown",
-    "sponsorship_label": "Not specified",
-    "url": "https://globalhr.wd5.myworkdayjobs.com/en-US/REC_RTX_Ext_Gateway/job/US-AZ-REMOTE/Kinaxis-IT-Analyst_01874123"
-  },
-  {
-    "company": "RTX",
     "title": "Mechanical Assembly - McKinney, TX",
     "location": "US-TX-MCKINNEY-513WZ ~ 2501 W University Dr ~ WING Z BLDG",
     "employment_type": "full-time",
@@ -117487,39 +117104,6 @@
     "h1b_status": "unknown",
     "sponsorship_label": "Not specified",
     "url": "https://globalhr.wd5.myworkdayjobs.com/en-US/REC_RTX_Ext_Gateway/job/US-CT-EAST-HARTFORD-RTRC-A--411-Silver-Ln--RTRC-A/Information-System-Security-Officer--ISSO-_01877478-1"
-  },
-  {
-    "company": "RTX",
-    "title": "Mechanical Engineer II (Onsite)",
-    "location": "US-AZ-TUCSON-928 ~ 1151 E Hermans Rd ~ MULTI PURPOSE FAC 928",
-    "employment_type": "full-time",
-    "category": "Engineering",
-    "salary": "Not disclosed",
-    "salary_min": null,
-    "keywords": [
-      "compliance"
-    ],
-    "sponsorship_evidence": "",
-    "h1b_status": "unknown",
-    "sponsorship_label": "Not specified",
-    "url": "https://globalhr.wd5.myworkdayjobs.com/en-US/REC_RTX_Ext_Gateway/job/US-AZ-TUCSON-928--1151-E-Hermans-Rd--MULTI-PURPOSE-FAC-928/Mechanical-Engineer-II--Onsite-_01874326"
-  },
-  {
-    "company": "RTX",
-    "title": "Mechanical Engineer I (Onsite)",
-    "location": "US-AZ-TUCSON-928 ~ 1151 E Hermans Rd ~ MULTI PURPOSE FAC 928",
-    "employment_type": "full-time",
-    "category": "Engineering",
-    "salary": "Not disclosed",
-    "salary_min": null,
-    "keywords": [
-      "CAD",
-      "compliance"
-    ],
-    "sponsorship_evidence": "",
-    "h1b_status": "unknown",
-    "sponsorship_label": "Not specified",
-    "url": "https://globalhr.wd5.myworkdayjobs.com/en-US/REC_RTX_Ext_Gateway/job/US-AZ-TUCSON-928--1151-E-Hermans-Rd--MULTI-PURPOSE-FAC-928/Mechanical-Engineer-I--Onsite-_01874328"
   },
   {
     "company": "RTX",
@@ -119125,23 +118709,6 @@
   },
   {
     "company": "RTX",
-    "title": "Finishing Operator I",
-    "location": "US-WA-SPOKANE-11135 ~ 11135 W Westbow Ln ~ WESTBOW",
-    "employment_type": "full-time",
-    "category": "Other",
-    "salary": "$50k/yr",
-    "salary_min": 50000.0,
-    "keywords": [
-      "compliance",
-      "legal"
-    ],
-    "sponsorship_evidence": "",
-    "h1b_status": "unknown",
-    "sponsorship_label": "Not specified",
-    "url": "https://globalhr.wd5.myworkdayjobs.com/en-US/REC_RTX_Ext_Gateway/job/US-WA-SPOKANE-11135--11135-W-Westbow-Ln--WESTBOW/Finishing-Operator-I_01879078-1"
-  },
-  {
-    "company": "RTX",
     "title": "Air Dominance Yield Improvement Lead",
     "location": "US-AZ-TUCSON-801 ~ 1151 E Hermans Rd ~ BLDG 801 (External Site)",
     "employment_type": "full-time",
@@ -119241,62 +118808,6 @@
     "h1b_status": "unknown",
     "sponsorship_label": "Not specified",
     "url": "https://globalhr.wd5.myworkdayjobs.com/en-US/REC_RTX_Ext_Gateway/job/US-AL-HUNTSVILLE-401--401-Jan-Davis-Dr-NW--JAN-DAVIS-401/Principal-Software-Test-Engineer-Onsite_01879184"
-  },
-  {
-    "company": "RTX",
-    "title": "P2 \u2013 Manufacturing Engineer II (Onsite)",
-    "location": "US-AZ-TUCSON-809 ~ 1151 E Hermans Rd ~ BLDG 809 (External Site)",
-    "employment_type": "full-time",
-    "category": "Engineering",
-    "salary": "Not disclosed",
-    "salary_min": null,
-    "keywords": [
-      "Excel",
-      "mechanical engineering",
-      "CAD",
-      "compliance"
-    ],
-    "sponsorship_evidence": "",
-    "h1b_status": "unknown",
-    "sponsorship_label": "Not specified",
-    "url": "https://globalhr.wd5.myworkdayjobs.com/en-US/REC_RTX_Ext_Gateway/job/US-AZ-TUCSON-809--1151-E-Hermans-Rd--BLDG-809-External-Site/P2---Manufacturing-Engineer-II--Onsite-_01872061"
-  },
-  {
-    "company": "RTX",
-    "title": "Manufacturing Engineer I (Onsite)",
-    "location": "US-AZ-TUCSON-809 ~ 1151 E Hermans Rd ~ BLDG 809 (External Site)",
-    "employment_type": "full-time",
-    "category": "Engineering",
-    "salary": "Not disclosed",
-    "salary_min": null,
-    "keywords": [
-      "Excel",
-      "mechanical engineering",
-      "CAD",
-      "compliance"
-    ],
-    "sponsorship_evidence": "",
-    "h1b_status": "unknown",
-    "sponsorship_label": "Not specified",
-    "url": "https://globalhr.wd5.myworkdayjobs.com/en-US/REC_RTX_Ext_Gateway/job/US-AZ-TUCSON-809--1151-E-Hermans-Rd--BLDG-809-External-Site/Manufacturing-Engineer-I--Onsite-_01872058"
-  },
-  {
-    "company": "RTX",
-    "title": "Production Test Engineer I (Onsite)",
-    "location": "US-AZ-TUCSON-9022 ~ 9022 S Rita Rd ~ BLDG 9022",
-    "employment_type": "full-time",
-    "category": "Other",
-    "salary": "Not disclosed",
-    "salary_min": null,
-    "keywords": [
-      "mechanical engineering",
-      "electrical engineering",
-      "compliance"
-    ],
-    "sponsorship_evidence": "",
-    "h1b_status": "unknown",
-    "sponsorship_label": "Not specified",
-    "url": "https://globalhr.wd5.myworkdayjobs.com/en-US/REC_RTX_Ext_Gateway/job/US-AZ-TUCSON-9022--9022-S-Rita-Rd--BLDG-9022/Production-Test-Engineer-I--Onsite-_01878941"
   },
   {
     "company": "RTX",
@@ -126534,23 +126045,6 @@
     "h1b_status": "unknown",
     "sponsorship_label": "Not specified",
     "url": "https://globalhr.wd5.myworkdayjobs.com/en-US/REC_RTX_Ext_Gateway/job/US-OH-TROY-101--101-Waco-St--WACO/Manufacturing-Engineer-II--Onsite-_01877985"
-  },
-  {
-    "company": "RTX",
-    "title": "Ejection Seating Co-Op - SEIT",
-    "location": "US-CO-COLORADO SPRINGS-793 ~ 1225 Aeroplaza Dr ~ AEROPLAZA",
-    "employment_type": "internship",
-    "category": "Other",
-    "salary": "Not disclosed",
-    "salary_min": null,
-    "keywords": [
-      "compliance",
-      "contracts"
-    ],
-    "sponsorship_evidence": "",
-    "h1b_status": "unknown",
-    "sponsorship_label": "Not specified",
-    "url": "https://globalhr.wd5.myworkdayjobs.com/en-US/REC_RTX_Ext_Gateway/job/US-CO-COLORADO-SPRINGS-793--1225-Aeroplaza-Dr--AEROPLAZA/Ejection-Seating-Co-Op---SEIT_01874163"
   },
   {
     "company": "RTX",
@@ -137676,25 +137170,6 @@
     "h1b_status": "unknown",
     "sponsorship_label": "Not specified",
     "url": "https://globalhr.wd5.myworkdayjobs.com/en-US/REC_RTX_Ext_Gateway/job/US-GA-WARNER-ROBINS-512--1230-Carl-Vinson-Pkwy--ROBINS-ENGINEERING-CTR/Systems-Engineer-I--Onsite-_01869496"
-  },
-  {
-    "company": "RTX",
-    "title": "Material Program Manager",
-    "location": "US-AZ-TUCSON-848 ~ 1151 E Hermans Rd ~ BLDG 848",
-    "employment_type": "full-time",
-    "category": "Other",
-    "salary": "Not disclosed",
-    "salary_min": null,
-    "keywords": [
-      "supply chain",
-      "procurement",
-      "compliance",
-      "contracts"
-    ],
-    "sponsorship_evidence": "",
-    "h1b_status": "unknown",
-    "sponsorship_label": "Not specified",
-    "url": "https://globalhr.wd5.myworkdayjobs.com/en-US/REC_RTX_Ext_Gateway/job/US-AZ-TUCSON-848--1151-E-Hermans-Rd--BLDG-848/Material-Program-Manager_01873315"
   },
   {
     "company": "RTX",
@@ -185573,22 +185048,6 @@
   },
   {
     "company": "Lowe's",
-    "title": "Full Time - Cashier - Opening",
-    "location": "Elverson, PA (Morgantown) 2476",
-    "employment_type": "full-time",
-    "category": "Other",
-    "salary": "Not disclosed",
-    "salary_min": null,
-    "keywords": [
-      "sales"
-    ],
-    "sponsorship_evidence": "",
-    "h1b_status": "unknown",
-    "sponsorship_label": "Not specified",
-    "url": "https://lowes.wd5.myworkdayjobs.com/en-US/LWS_External_CS/job/Elverson-PA-Morgantown-2476/Full-Time---Cashier---Opening_JR-02659524"
-  },
-  {
-    "company": "Lowe's",
     "title": "Full Time - Cashier - Day",
     "location": "Elverson, PA (Morgantown) 2476",
     "employment_type": "full-time",
@@ -196156,23 +195615,6 @@
   },
   {
     "company": "Lowe's",
-    "title": "Merchandising Service Associate - Plant Service Lead",
-    "location": "Arden, NC (S Asheville) 2201",
-    "employment_type": "full-time",
-    "category": "Other",
-    "salary": "Not disclosed",
-    "salary_min": null,
-    "keywords": [
-      "sales",
-      "compliance"
-    ],
-    "sponsorship_evidence": "",
-    "h1b_status": "unknown",
-    "sponsorship_label": "Not specified",
-    "url": "https://lowes.wd5.myworkdayjobs.com/en-US/LWS_External_CS/job/Arden-NC-S-Asheville-2201/Merchandising-Service-Associate---Plant-Service-Lead_JR-02598848-1"
-  },
-  {
-    "company": "Lowe's",
     "title": "Regional Sales Lead, Americas - LCS",
     "location": "Remote, NC (SSC) 4932",
     "employment_type": "full-time",
@@ -199241,6 +198683,22 @@
     "url": "https://sysco.wd5.myworkdayjobs.com/en-US/syscocareers/job/Freshpoint-Southern-California/Loader_R259344"
   },
   {
+    "company": "Sysco",
+    "title": "CDL A Shuttle Truck Driver",
+    "location": "Sysco Arkansas",
+    "employment_type": "full-time",
+    "category": "Other",
+    "salary": "Not disclosed",
+    "salary_min": null,
+    "keywords": [
+      "sales"
+    ],
+    "sponsorship_evidence": "",
+    "h1b_status": "unknown",
+    "sponsorship_label": "Not specified",
+    "url": "https://sysco.wd5.myworkdayjobs.com/en-US/syscocareers/job/Sysco-Arkansas/CDL-A-Shuttle-Truck-Driver_R269472"
+  },
+  {
     "company": "Allstate",
     "title": "Licensed Insurance Sales Representative (Remote / Home-Based)",
     "location": "USA - NV (Remote)",
@@ -201105,23 +200563,6 @@
   },
   {
     "company": "Cisco Systems",
-    "title": "Hardware (Power) Engineer",
-    "location": "San Jose, California, US",
-    "employment_type": "full-time",
-    "category": "Other",
-    "salary": "Not disclosed",
-    "salary_min": null,
-    "keywords": [
-      "Python",
-      "sales"
-    ],
-    "sponsorship_evidence": "",
-    "h1b_status": "unknown",
-    "sponsorship_label": "Not specified",
-    "url": "https://cisco.wd5.myworkdayjobs.com/en-US/Cisco_Careers/job/San-Jose-California-US/Hardware--Power--Engineer_2012254"
-  },
-  {
-    "company": "Cisco Systems",
     "title": "Distinguished Machine Learning Engineer, AISWP  (Hybrid)",
     "location": "San Jose, California, US",
     "employment_type": "full-time",
@@ -201285,6 +200726,58 @@
     "h1b_status": "unknown",
     "sponsorship_label": "Not specified",
     "url": "https://cisco.wd5.myworkdayjobs.com/en-US/Cisco_Careers/job/San-Jose-California-US/Lab-HW-Engineer_2009057"
+  },
+  {
+    "company": "Cisco Systems",
+    "title": "Lead Photonics Validation Engineer",
+    "location": "Santa Monica, California, US",
+    "employment_type": "full-time",
+    "category": "Other",
+    "salary": "Not disclosed",
+    "salary_min": null,
+    "keywords": [
+      "Python",
+      "sales",
+      "compliance"
+    ],
+    "sponsorship_evidence": "",
+    "h1b_status": "unknown",
+    "sponsorship_label": "Not specified",
+    "url": "https://cisco.wd5.myworkdayjobs.com/en-US/Cisco_Careers/job/Santa-Monica-California-US/Lead-Photonics-Validation-Engineer_2023651"
+  },
+  {
+    "company": "Cisco Systems",
+    "title": "Networking Tech Lead- L2/L3 Forwarding Engineer",
+    "location": "Milpitas, California, US",
+    "employment_type": "full-time",
+    "category": "Other",
+    "salary": "Not disclosed",
+    "salary_min": null,
+    "keywords": [
+      "Python",
+      "sales"
+    ],
+    "sponsorship_evidence": "",
+    "h1b_status": "unknown",
+    "sponsorship_label": "Not specified",
+    "url": "https://cisco.wd5.myworkdayjobs.com/en-US/Cisco_Careers/job/Milpitas-California-US/Networking-Tech-Lead--L2-L3-Forwarding-Engineer_2025768"
+  },
+  {
+    "company": "Cisco Systems",
+    "title": "Senior Software Engineer",
+    "location": "Milpitas, California, US",
+    "employment_type": "full-time",
+    "category": "Software & IT",
+    "salary": "Not disclosed",
+    "salary_min": null,
+    "keywords": [
+      "Python",
+      "sales"
+    ],
+    "sponsorship_evidence": "",
+    "h1b_status": "unknown",
+    "sponsorship_label": "Not specified",
+    "url": "https://cisco.wd5.myworkdayjobs.com/en-US/Cisco_Careers/job/Milpitas-California-US/Senior-Software-Engineer_2015106"
   },
   {
     "company": "Cisco Systems",
@@ -203023,22 +202516,6 @@
     "h1b_status": "unknown",
     "sponsorship_label": "Not specified",
     "url": "https://cisco.wd5.myworkdayjobs.com/en-US/Cisco_Careers/job/RTP-North-Carolina-US/AI-Operations-Engineer_2021485"
-  },
-  {
-    "company": "Cisco Systems",
-    "title": "Solutions Engineer",
-    "location": "Denver, Colorado, US",
-    "employment_type": "full-time",
-    "category": "Other",
-    "salary": "Not disclosed",
-    "salary_min": null,
-    "keywords": [
-      "sales"
-    ],
-    "sponsorship_evidence": "",
-    "h1b_status": "unknown",
-    "sponsorship_label": "Not specified",
-    "url": "https://cisco.wd5.myworkdayjobs.com/en-US/Cisco_Careers/job/Denver-Colorado-US/Solutions-Engineer_2026310"
   },
   {
     "company": "Cisco Systems",
@@ -207995,60 +207472,6 @@
     "h1b_status": "unknown",
     "sponsorship_label": "Not specified",
     "url": "https://geaerospace.wd5.myworkdayjobs.com/en-US/GE_ExternalSite/job/Auburn-AL-USA/Auburn-Manufacturing-Associate--4th-and-5th-Shift--Weekend-Day-Night_R5040445-1"
-  },
-  {
-    "company": "GE Aerospace",
-    "title": "Unison Engineering Part-time Co-op - US - Fall 2027",
-    "location": "Saint George UT US 1",
-    "employment_type": "internship",
-    "category": "Other",
-    "salary": "$20/hr",
-    "salary_min": 20.0,
-    "keywords": [
-      "mechanical engineering",
-      "electrical engineering",
-      "legal"
-    ],
-    "sponsorship_evidence": "We will not sponsor individuals for employment visas, now or in the future, for this job opening.",
-    "h1b_status": "does_not_support_h1b",
-    "sponsorship_label": "No sponsorship for this position",
-    "url": "https://geaerospace.wd5.myworkdayjobs.com/en-US/GE_ExternalSite/job/Saint-George-UT-US-1/Unison-Engineering-Part-time-Co-op---US---Fall-2027_R5040164-1"
-  },
-  {
-    "company": "GE Aerospace",
-    "title": "Unison Engineering Part-time Intern - US - Summer 2027",
-    "location": "Saint George UT US 1",
-    "employment_type": "internship",
-    "category": "Other",
-    "salary": "$20/hr",
-    "salary_min": 20.0,
-    "keywords": [
-      "mechanical engineering",
-      "electrical engineering",
-      "legal"
-    ],
-    "sponsorship_evidence": "We will not sponsor individuals for employment visas, now or in the future, for this job opening.",
-    "h1b_status": "does_not_support_h1b",
-    "sponsorship_label": "No sponsorship for this position",
-    "url": "https://geaerospace.wd5.myworkdayjobs.com/en-US/GE_ExternalSite/job/Saint-George-UT-US-1/Unison-Engineering-Part-time-Intern---US---Summer-2027_R5040163-1"
-  },
-  {
-    "company": "GE Aerospace",
-    "title": "Unison Engineering Part-time Co-op - US - Spring 2027",
-    "location": "Saint George UT US 1",
-    "employment_type": "internship",
-    "category": "Other",
-    "salary": "$20/hr",
-    "salary_min": 20.0,
-    "keywords": [
-      "mechanical engineering",
-      "electrical engineering",
-      "legal"
-    ],
-    "sponsorship_evidence": "We will not sponsor individuals for employment visas, now or in the future, for this job opening.",
-    "h1b_status": "does_not_support_h1b",
-    "sponsorship_label": "No sponsorship for this position",
-    "url": "https://geaerospace.wd5.myworkdayjobs.com/en-US/GE_ExternalSite/job/Saint-George-UT-US-1/Unison-Engineering-Part-time-Co-op---US---Spring-2027_R5040016"
   },
   {
     "company": "GE Aerospace",
@@ -258086,23 +257509,6 @@
     "h1b_status": "unknown",
     "sponsorship_label": "Not specified",
     "url": "https://broadcom.wd1.myworkdayjobs.com/en-US/External_Career/job/USA-Colorado-Colorado-Springs-4420-Arrowswest-Drive/US-Payroll-Analyst_R025785"
-  },
-  {
-    "company": "Broadcom",
-    "title": "Staff Memory Circuit Design Engineer",
-    "location": "USA-CA Irvine Alton Parkway Bldg 1",
-    "employment_type": "full-time",
-    "category": "Other",
-    "salary": "Not disclosed",
-    "salary_min": null,
-    "keywords": [
-      "Python",
-      "electrical engineering"
-    ],
-    "sponsorship_evidence": "",
-    "h1b_status": "unknown",
-    "sponsorship_label": "Not specified",
-    "url": "https://broadcom.wd1.myworkdayjobs.com/en-US/External_Career/job/USA-CA-Irvine-Alton-Parkway-Bldg-1/Staff-Memory-Circuit-Design-Engineer_R025580-1"
   },
   {
     "company": "Hewlett Packard Enterprise",
