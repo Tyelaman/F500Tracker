@@ -1,12 +1,12 @@
 # F500Tracker internships
 
-Last updated: October 03, 2026 at 16:27 UTC
+Last updated: October 03, 2026 at 21:27 UTC
 
-Current internships: 696
+Current internships: 697
 
 ## Categories
 
-[Software & IT (81)](#software-it) · [Data & AI (12)](#data-ai) · [Product & Design (1)](#product-design) · [Engineering (71)](#engineering) · [Finance & Accounting (12)](#finance-accounting) · [Sales & Marketing (16)](#sales-marketing) · [Operations & Supply Chain (49)](#operations-supply-chain) · [People & Legal (6)](#people-legal) · [Other (448)](#other)
+[Software & IT (81)](#software-it) · [Data & AI (12)](#data-ai) · [Product & Design (1)](#product-design) · [Engineering (71)](#engineering) · [Finance & Accounting (13)](#finance-accounting) · [Sales & Marketing (16)](#sales-marketing) · [Operations & Supply Chain (49)](#operations-supply-chain) · [People & Legal (6)](#people-legal) · [Other (448)](#other)
 
 <a id="software-it"></a>
 
@@ -221,12 +221,13 @@ Open positions: 71
 
 ## Finance & Accounting
 
-Open positions: 12
+Open positions: 13
 
 | Rank | Company | Position | Location | Category | Salary | Keywords | Sponsorship | Apply |
 |---:|---|---|---|---|---|---|---|---|
 | 33 | Freddie Mac | Internal Audit Intern - Summer 2027 | McLean, VA | Finance & Accounting | Not disclosed | Python · SQL · artificial intelligence · analytics · accounting | Not specified | [Apply](https://freddiemac.wd5.myworkdayjobs.com/en-US/External/job/McLean-VA/Internal-Audit-Intern---Summer-2027_JR17565) |
 | 33 | Freddie Mac | Accounting and Finance Intern- Summer 2027 | McLean, VA | Finance & Accounting | Not disclosed | accounting | Not specified | [Apply](https://freddiemac.wd5.myworkdayjobs.com/en-US/External/job/McLean-VA/Accounting-and-Finance-Intern--Summer-2027_JR17543) |
+| 44 | Walt Disney | Finance & Data Intern, Spring 2027 | Anaheim, CA, USA | Finance & Accounting | $23/hr | Python · SQL · analytics · Excel · accounting | Not specified | [Apply](https://disney.wd5.myworkdayjobs.com/en-US/disneycareer/job/Anaheim-CA-USA/Finance---Data-Intern--Spring-2027_10160502-1) |
 | 45 | Johnson & Johnson | Summer 2027 Finance Internship – El Paso, TX/Juarez, MX | El Paso, Texas, United States of America | Finance & Accounting | $26/hr | analytics · Excel · accounting · supply chain · legal | Not specified | [Apply](https://jj.wd5.myworkdayjobs.com/en-US/JJ/job/El-Paso-Texas-United-States-of-America/Summer-2027-Finance-Internship---El-Paso--TX-Juarez--MX_R-095343) |
 | 49 | RTX | Stage - Hiver 2027 - Finance de l'ingénierie / Internship - Winter 2027 -  Engineering Finance | CA-QC-LONGUEUIL-AY ~ 1000 Blvd Marie-Victorin ~ AY BLDG | Finance & Accounting | Not disclosed | Excel · accounting · compliance | Not specified | [Apply](https://globalhr.wd5.myworkdayjobs.com/en-US/REC_RTX_Ext_Gateway/job/CA-QC-LONGUEUIL-AY--1000-Blvd-Marie-Victorin--AY-BLDG/Stage---Hiver-2027---Finance-de-l-ingnierie---Internship---Winter-2027----Engineering-Finance_01874020) |
 | 49 | RTX | Stage - Hiver 2027 - Finance chaîne d'approvisionnement / Internship - Winter 2027 - Supply Chain Finance | CA-QC-LONGUEUIL-J01 ~ 1000 Blvd Marie-Victorin ~ J01 BLDG | Finance & Accounting | Not disclosed | Excel · accounting · audit · supply chain | Not specified | [Apply](https://globalhr.wd5.myworkdayjobs.com/en-US/REC_RTX_Ext_Gateway/job/CA-QC-LONGUEUIL-J01--1000-Blvd-Marie-Victorin--J01-BLDG/Stage---Hiver-2027---Finance-chane-d-approvisionnement---Internship---Winter-2027---Supply-Chain-Finance_01868444) |
