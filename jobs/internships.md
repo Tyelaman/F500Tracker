@@ -1,12 +1,12 @@
 # F500Tracker internships
 
-Last updated: October 04, 2026 at 12:31 UTC
+Last updated: October 04, 2026 at 21:34 UTC
 
-Current internships: 682
+Current internships: 681
 
 ## Categories
 
-[Software & IT (82)](#software-it) · [Data & AI (12)](#data-ai) · [Product & Design (1)](#product-design) · [Engineering (69)](#engineering) · [Finance & Accounting (13)](#finance-accounting) · [Sales & Marketing (16)](#sales-marketing) · [Operations & Supply Chain (48)](#operations-supply-chain) · [People & Legal (6)](#people-legal) · [Other (435)](#other)
+[Software & IT (82)](#software-it) · [Data & AI (12)](#data-ai) · [Product & Design (1)](#product-design) · [Engineering (69)](#engineering) · [Finance & Accounting (13)](#finance-accounting) · [Sales & Marketing (15)](#sales-marketing) · [Operations & Supply Chain (48)](#operations-supply-chain) · [People & Legal (6)](#people-legal) · [Other (435)](#other)
 
 <a id="software-it"></a>
 
@@ -244,7 +244,7 @@ Open positions: 13
 
 ## Sales & Marketing
 
-Open positions: 16
+Open positions: 15
 
 | Rank | Company | Position | Location | Category | Salary | Keywords | Sponsorship | Apply |
 |---:|---|---|---|---|---|---|---|---|
@@ -253,7 +253,6 @@ Open positions: 16
 | 125 | Micron Technology | Intern - CDBU Marketing | San Jose, CA | Sales & Marketing | Not disclosed | artificial intelligence · electrical engineering · sales | Not specified | [Apply](https://micron.wd1.myworkdayjobs.com/en-US/External/job/San-Jose-CA/Intern---CDBU-Marketing_JR109697) |
 | 44 | Walt Disney | FX Advertising & Media Intern, Spring 2027 | Burbank, CA, USA | Sales & Marketing | $23/hr | Excel | Not specified | [Apply](https://disney.wd5.myworkdayjobs.com/en-US/disneycareer/job/Burbank-CA-USA/FX-Advertising---Media-Intern--Spring-2027_10160492) |
 | 44 | Walt Disney | Instructional Design Intern, Sales Learning Services, Spring 2027 | Celebration, FL, USA | Sales & Marketing | $23/hr | sales | Not specified | [Apply](https://disney.wd5.myworkdayjobs.com/en-US/disneycareer/job/Celebration-FL-USA/Instructional-Design-Intern--Sales-Learning-Services--Spring-2027_10157959-1) |
-| 44 | Walt Disney | Travel Agency Sales Intern, Spring 2027 | Celebration, FL, USA | Sales & Marketing | $23/hr | Excel · sales | Not specified | [Apply](https://disney.wd5.myworkdayjobs.com/en-US/disneycareer/job/Celebration-FL-USA/Travel-Agency-Sales-Intern--Spring-2027_10161251) |
 | 45 | Johnson & Johnson | Summer Sales Intern | Jacksonville, Florida, United States of America | Sales & Marketing | Not disclosed | analytics · sales | Not specified | [Apply](https://jj.wd5.myworkdayjobs.com/en-US/JJ/job/Jacksonville-Florida-United-States-of-America/Summer-Sales-Intern_R-098551) |
 | 45 | Johnson & Johnson | OPEx Communications Co-Op | Gurabo, Puerto Rico, United States of America | Sales & Marketing | Not disclosed | analytics · Excel | Not specified | [Apply](https://jj.wd5.myworkdayjobs.com/en-US/JJ/job/Gurabo-Puerto-Rico-United-States-of-America/OPEx-Communications-Co-Op_R-096859) |
 | 49 | RTX | Factory Modernization Marketing Co-Op (Summer/Fall 2027) | US-IA-CEDAR RAPIDS-105 ~ 400 Collins Rd NE ~ BLDG 105 | Sales & Marketing | Not disclosed | Excel · compliance | Not specified | [Apply](https://globalhr.wd5.myworkdayjobs.com/en-US/REC_RTX_Ext_Gateway/job/US-IA-CEDAR-RAPIDS-105--400-Collins-Rd-NE--BLDG-105/Factory-Modernization-Marketing-Co-Op--Summer-Fall-2027-_01873901) |
