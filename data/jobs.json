@@ -301,9 +301,9 @@
       "compliance",
       "legal"
     ],
-    "updated_at": "2026-10-02T20:54:54-04:00",
+    "updated_at": "2026-10-03T21:11:32-04:00",
     "first_seen_at": "2026-09-02T21:21:26.794344+00:00",
-    "enriched_at": "2026-10-03T05:17:35.083608+00:00"
+    "enriched_at": "2026-10-04T05:51:02.825189+00:00"
   },
   {
     "company": "Coupang",
@@ -383,9 +383,9 @@
       "tax",
       "recruiting"
     ],
-    "updated_at": "2026-10-02T20:55:03-04:00",
+    "updated_at": "2026-10-03T21:11:45-04:00",
     "first_seen_at": "2026-09-03T11:25:37.195539+00:00",
-    "enriched_at": "2026-10-03T05:17:35.098061+00:00"
+    "enriched_at": "2026-10-04T05:51:02.836426+00:00"
   },
   {
     "company": "Coupang",
@@ -442,9 +442,9 @@
       "tax",
       "recruiting"
     ],
-    "updated_at": "2026-10-02T20:54:50-04:00",
+    "updated_at": "2026-10-03T21:11:28-04:00",
     "first_seen_at": "2026-08-28T11:33:39.230906+00:00",
-    "enriched_at": "2026-10-03T05:17:35.115816+00:00"
+    "enriched_at": "2026-10-04T05:51:02.850084+00:00"
   },
   {
     "company": "Coupang",
@@ -471,9 +471,9 @@
       "tax",
       "recruiting"
     ],
-    "updated_at": "2026-10-02T20:54:47-04:00",
+    "updated_at": "2026-10-03T21:11:25-04:00",
     "first_seen_at": "2026-08-25T02:04:19.043316+00:00",
-    "enriched_at": "2026-10-03T05:17:35.133026+00:00"
+    "enriched_at": "2026-10-04T05:51:02.863423+00:00"
   },
   {
     "company": "Coupang",
@@ -1655,9 +1655,9 @@
       "sales",
       "recruiting"
     ],
-    "updated_at": "2026-10-02T20:54:40-04:00",
+    "updated_at": "2026-10-03T21:11:18-04:00",
     "first_seen_at": "2026-08-15T02:30:47.614898+00:00",
-    "enriched_at": "2026-10-03T05:17:35.153141+00:00"
+    "enriched_at": "2026-10-04T05:51:02.879077+00:00"
   },
   {
     "company": "Coupang",
@@ -1749,9 +1749,9 @@
       "logistics",
       "recruiting"
     ],
-    "updated_at": "2026-10-02T20:54:43-04:00",
+    "updated_at": "2026-10-03T21:11:21-04:00",
     "first_seen_at": "2026-08-15T02:30:47.614898+00:00",
-    "enriched_at": "2026-10-03T05:17:35.169333+00:00"
+    "enriched_at": "2026-10-04T05:51:02.891433+00:00"
   },
   {
     "company": "Coupang",
@@ -22744,6 +22744,31 @@
   {
     "company": "NVIDIA",
     "fortune_rank": 16,
+    "title": "Senior Systems Architect - Datacenter",
+    "location": "US, CA, Santa Clara",
+    "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Systems-Architect---Datacenter_JR2019127",
+    "source": "workday",
+    "external_id": "/job/US-CA-Santa-Clara/Senior-Systems-Architect---Datacenter_JR2019127",
+    "employment_type": "full-time",
+    "category": "Other",
+    "h1b_status": "unknown",
+    "sponsorship_evidence": "",
+    "h1b_mentioned": false,
+    "salary_min": null,
+    "salary_max": null,
+    "salary_currency": "",
+    "salary_period": "",
+    "salary_text": "",
+    "keywords": [
+      "recruiting"
+    ],
+    "updated_at": "",
+    "first_seen_at": "2026-10-04T06:03:15.979436+00:00",
+    "enriched_at": "2026-10-04T05:51:10.484979+00:00"
+  },
+  {
+    "company": "NVIDIA",
+    "fortune_rank": 16,
     "title": "Senior Software Engineer, NCCL",
     "location": "US, CA, Santa Clara",
     "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Software-Engineer--GPU-Communications-and-Networking_JR1997186",
@@ -23484,40 +23509,6 @@
     "updated_at": "",
     "first_seen_at": "2026-10-02T22:26:55.027201+00:00",
     "enriched_at": "2026-10-02T22:13:27.942913+00:00"
-  },
-  {
-    "company": "Salesforce",
-    "fortune_rank": 114,
-    "title": "Global Incentive Compensation Analyst",
-    "location": "Indiana - Indianapolis",
-    "url": "https://salesforce.wd12.myworkdayjobs.com/en-US/External_Career_Site/job/Indiana---Indianapolis/Global-Incentive-Compensation-Analyst---Plan-Operations_JR302303",
-    "source": "workday",
-    "external_id": "/job/Indiana---Indianapolis/Global-Incentive-Compensation-Analyst---Plan-Operations_JR302303",
-    "employment_type": "full-time",
-    "category": "Other",
-    "h1b_status": "unknown",
-    "sponsorship_evidence": "",
-    "h1b_mentioned": false,
-    "salary_min": null,
-    "salary_max": null,
-    "salary_currency": "",
-    "salary_period": "",
-    "salary_text": "",
-    "keywords": [
-      "Python",
-      "SQL",
-      "artificial intelligence",
-      "data science",
-      "analytics",
-      "Excel",
-      "sales",
-      "CRM",
-      "recruiting",
-      "legal"
-    ],
-    "updated_at": "",
-    "first_seen_at": "2026-10-02T22:26:55.027201+00:00",
-    "enriched_at": "2026-09-29T22:14:40.523230+00:00"
   },
   {
     "company": "Capital One",
@@ -33116,7 +33107,7 @@
     ],
     "updated_at": "",
     "first_seen_at": "2026-09-20T05:00:06.460185+00:00",
-    "enriched_at": "2026-09-27T05:18:12.519429+00:00"
+    "enriched_at": "2026-10-04T05:51:40.634616+00:00"
   },
   {
     "company": "Capital One",
@@ -52388,32 +52379,6 @@
   {
     "company": "Northrop Grumman",
     "fortune_rank": 112,
-    "title": "Recruiting Assistant 3",
-    "location": "United States-Remote",
-    "url": "https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-Remote/Recruiting-Assistant-3_R10253800",
-    "source": "workday",
-    "external_id": "/job/United-States-Remote/Recruiting-Assistant-3_R10253800",
-    "employment_type": "full-time",
-    "category": "People & Legal",
-    "h1b_status": "unknown",
-    "sponsorship_evidence": "",
-    "h1b_mentioned": false,
-    "salary_min": null,
-    "salary_max": null,
-    "salary_currency": "",
-    "salary_period": "",
-    "salary_text": "",
-    "keywords": [
-      "recruiting",
-      "talent acquisition"
-    ],
-    "updated_at": "",
-    "first_seen_at": "2026-09-30T22:30:14.606761+00:00",
-    "enriched_at": "2026-09-30T22:17:21.086337+00:00"
-  },
-  {
-    "company": "Northrop Grumman",
-    "fortune_rank": 112,
     "title": "Talent Acquisition Business Partner 2/3",
     "location": "United States-Maryland-Linthicum",
     "url": "https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-Maryland-Linthicum/Talent-Acquisition-Business-Partner-2-3_R10253659",
@@ -53117,31 +53082,6 @@
   {
     "company": "Northrop Grumman",
     "fortune_rank": 112,
-    "title": "2027 Associate Liaison/MRB Engineer/ Liaison/MRB Engineer",
-    "location": "United States-Mississippi-Iuka",
-    "url": "https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-Mississippi-Iuka/XMLNAME-2027-Associate-Liaison-MRB-Engineer--Liaison-MRB-Engineer_R10253619",
-    "source": "workday",
-    "external_id": "/job/United-States-Mississippi-Iuka/XMLNAME-2027-Associate-Liaison-MRB-Engineer--Liaison-MRB-Engineer_R10253619",
-    "employment_type": "full-time",
-    "category": "Other",
-    "h1b_status": "unknown",
-    "sponsorship_evidence": "",
-    "h1b_mentioned": false,
-    "salary_min": null,
-    "salary_max": null,
-    "salary_currency": "",
-    "salary_period": "",
-    "salary_text": "",
-    "keywords": [
-      "mechanical engineering"
-    ],
-    "updated_at": "",
-    "first_seen_at": "2026-09-30T05:44:19.820688+00:00",
-    "enriched_at": "2026-09-30T05:33:37.050021+00:00"
-  },
-  {
-    "company": "Northrop Grumman",
-    "fortune_rank": 112,
     "title": "Sentinel - Principal Financial Analyst / Sr. Principal Financial Analyst ( 20107)",
     "location": "United States-Utah-Roy",
     "url": "https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-Utah-Roy/Sentinel---Principal-Financial-Analyst---Sr-Principal-Financial-Analyst---20107-_R10253351",
@@ -53686,33 +53626,6 @@
     "updated_at": "",
     "first_seen_at": "2026-09-29T22:28:40.118786+00:00",
     "enriched_at": "2026-09-29T22:16:57.683105+00:00"
-  },
-  {
-    "company": "Northrop Grumman",
-    "fortune_rank": 112,
-    "title": "2026 Associate Accountant - Irving TX",
-    "location": "United States-Texas-Irving",
-    "url": "https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-Texas-Irving/XMLNAME-2026-Associate-Accountant---Irving-TX_R10252915",
-    "source": "workday",
-    "external_id": "/job/United-States-Texas-Irving/XMLNAME-2026-Associate-Accountant---Irving-TX_R10252915",
-    "employment_type": "full-time",
-    "category": "Finance & Accounting",
-    "h1b_status": "unknown",
-    "sponsorship_evidence": "",
-    "h1b_mentioned": false,
-    "salary_min": null,
-    "salary_max": null,
-    "salary_currency": "",
-    "salary_period": "",
-    "salary_text": "",
-    "keywords": [
-      "Excel",
-      "accounting",
-      "audit"
-    ],
-    "updated_at": "",
-    "first_seen_at": "2026-09-29T22:28:40.118786+00:00",
-    "enriched_at": "2026-09-29T22:16:57.712409+00:00"
   },
   {
     "company": "Northrop Grumman",
@@ -55036,33 +54949,6 @@
     "updated_at": "",
     "first_seen_at": "2026-09-29T22:28:40.118786+00:00",
     "enriched_at": "2026-09-29T22:16:58.274003+00:00"
-  },
-  {
-    "company": "Northrop Grumman",
-    "fortune_rank": 112,
-    "title": "Sr Principal Chief Engineer",
-    "location": "United States-Maryland-Baltimore",
-    "url": "https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-Maryland-Baltimore/Sr-Principal-Chief-Engineer_R10253487",
-    "source": "workday",
-    "external_id": "/job/United-States-Maryland-Baltimore/Sr-Principal-Chief-Engineer_R10253487",
-    "employment_type": "full-time",
-    "category": "Other",
-    "h1b_status": "unknown",
-    "sponsorship_evidence": "",
-    "h1b_mentioned": false,
-    "salary_min": null,
-    "salary_max": null,
-    "salary_currency": "",
-    "salary_period": "",
-    "salary_text": "",
-    "keywords": [
-      "mechanical engineering",
-      "supply chain",
-      "procurement"
-    ],
-    "updated_at": "",
-    "first_seen_at": "2026-09-29T22:28:40.118786+00:00",
-    "enriched_at": "2026-09-29T22:16:58.283992+00:00"
   },
   {
     "company": "Northrop Grumman",
@@ -56558,33 +56444,6 @@
     "updated_at": "",
     "first_seen_at": "2026-09-29T22:28:40.118786+00:00",
     "enriched_at": "2026-09-29T22:16:58.892826+00:00"
-  },
-  {
-    "company": "Northrop Grumman",
-    "fortune_rank": 112,
-    "title": "2027 Supply Chain Intern - Plymouth MN",
-    "location": "United States-Minnesota-Plymouth",
-    "url": "https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-Minnesota-Plymouth/XMLNAME-2027-Supply-Chain-Intern---Plymouth-MN_R10253411",
-    "source": "workday",
-    "external_id": "/job/United-States-Minnesota-Plymouth/XMLNAME-2027-Supply-Chain-Intern---Plymouth-MN_R10253411",
-    "employment_type": "internship",
-    "category": "Operations & Supply Chain",
-    "h1b_status": "unknown",
-    "sponsorship_evidence": "",
-    "h1b_mentioned": false,
-    "salary_min": null,
-    "salary_max": null,
-    "salary_currency": "",
-    "salary_period": "",
-    "salary_text": "",
-    "keywords": [
-      "Excel",
-      "supply chain",
-      "procurement"
-    ],
-    "updated_at": "",
-    "first_seen_at": "2026-09-29T22:28:40.118786+00:00",
-    "enriched_at": "2026-09-29T22:16:58.909745+00:00"
   },
   {
     "company": "Northrop Grumman",
@@ -98373,7 +98232,7 @@
     "keywords": [],
     "updated_at": "",
     "first_seen_at": "2026-08-22T18:58:46.842216+00:00",
-    "enriched_at": "2026-09-27T05:19:17.027788+00:00"
+    "enriched_at": "2026-10-04T05:52:59.702480+00:00"
   },
   {
     "company": "Northrop Grumman",
@@ -98398,7 +98257,7 @@
     ],
     "updated_at": "",
     "first_seen_at": "2026-08-22T18:58:46.842216+00:00",
-    "enriched_at": "2026-09-27T05:19:17.037719+00:00"
+    "enriched_at": "2026-10-04T05:52:59.710297+00:00"
   },
   {
     "company": "Northrop Grumman",
@@ -98423,7 +98282,7 @@
     ],
     "updated_at": "",
     "first_seen_at": "2026-08-22T18:58:46.842216+00:00",
-    "enriched_at": "2026-09-27T05:19:17.051610+00:00"
+    "enriched_at": "2026-10-04T05:52:59.721217+00:00"
   },
   {
     "company": "Northrop Grumman",
@@ -142255,6 +142114,33 @@
     "enriched_at": "2026-09-28T23:20:03.929800+00:00"
   },
   {
+    "company": "S&P Global",
+    "fortune_rank": 294,
+    "title": "AD, Cloud Security Architect",
+    "location": "IN - HYDERABAD SKYVIEW",
+    "url": "https://spgi.wd5.myworkdayjobs.com/en-US/SPGI_Careers/job/IN---HYDERABAD-SKYVIEW/Product-Manager_328344-1",
+    "source": "workday",
+    "external_id": "/job/IN---HYDERABAD-SKYVIEW/Product-Manager_328344-1",
+    "employment_type": "full-time",
+    "category": "Software & IT",
+    "h1b_status": "unknown",
+    "sponsorship_evidence": "",
+    "h1b_mentioned": false,
+    "salary_min": null,
+    "salary_max": null,
+    "salary_currency": "",
+    "salary_period": "",
+    "salary_text": "",
+    "keywords": [
+      "Docker",
+      "supply chain",
+      "compliance"
+    ],
+    "updated_at": "",
+    "first_seen_at": "2026-10-04T06:03:15.979436+00:00",
+    "enriched_at": "2026-09-30T22:19:12.761088+00:00"
+  },
+  {
     "company": "McKesson",
     "fortune_rank": 8,
     "title": "Sr IT Project Manager - Remote US",
@@ -143110,29 +142996,6 @@
     "enriched_at": "2026-10-01T22:45:04.065743+00:00"
   },
   {
-    "company": "Cigna Group",
-    "fortune_rank": 14,
-    "title": "Pharmacy Technician Associate - Accredo - Newark, DE",
-    "location": "DE, Newark, 2051 Old Coochs Bridge Rd",
-    "url": "https://cigna.wd5.myworkdayjobs.com/en-US/cignacareers/job/DE-Newark-2051-Old-Coochs-Bridge-Rd/Pharmacy-Technician-Associate---Accredo---Newark--DE_26011744",
-    "source": "workday",
-    "external_id": "/job/DE-Newark-2051-Old-Coochs-Bridge-Rd/Pharmacy-Technician-Associate---Accredo---Newark--DE_26011744",
-    "employment_type": "full-time",
-    "category": "Other",
-    "h1b_status": "unknown",
-    "sponsorship_evidence": "",
-    "h1b_mentioned": false,
-    "salary_min": null,
-    "salary_max": null,
-    "salary_currency": "",
-    "salary_period": "",
-    "salary_text": "",
-    "keywords": [],
-    "updated_at": "",
-    "first_seen_at": "2026-10-01T22:55:30.968656+00:00",
-    "enriched_at": "2026-10-01T22:45:04.082522+00:00"
-  },
-  {
     "company": "Centene",
     "fortune_rank": 19,
     "title": "Finance Analyst III - Managed Care",
@@ -143417,34 +143280,6 @@
   {
     "company": "Centene",
     "fortune_rank": 19,
-    "title": "Program Manager III - SIU Intelligence & Innovation",
-    "location": "Remote-NY",
-    "url": "https://centene.wd5.myworkdayjobs.com/en-US/centene_external/job/Remote-NY/Program-Manager-III---SIU-Intelligence---Innovation_1664741",
-    "source": "workday",
-    "external_id": "/job/Remote-NY/Program-Manager-III---SIU-Intelligence---Innovation_1664741",
-    "employment_type": "full-time",
-    "category": "Other",
-    "h1b_status": "unknown",
-    "sponsorship_evidence": "",
-    "h1b_mentioned": false,
-    "salary_min": 87700.0,
-    "salary_max": 157800.0,
-    "salary_currency": "USD",
-    "salary_period": "year",
-    "salary_text": "$87,700.00 - $157,800.00 per year",
-    "keywords": [
-      "data science",
-      "analytics",
-      "audit",
-      "compliance"
-    ],
-    "updated_at": "",
-    "first_seen_at": "2026-10-02T22:26:55.027201+00:00",
-    "enriched_at": "2026-10-02T22:17:19.231887+00:00"
-  },
-  {
-    "company": "Centene",
-    "fortune_rank": 19,
     "title": "VP, Network Development & Contracting - Sunshine State Health Plan",
     "location": "Remote-FL",
     "url": "https://centene.wd5.myworkdayjobs.com/en-US/centene_external/job/Remote-FL/VP--Network-Development---Contracting---Sunshine-State-Health-Plan_1658424",
@@ -143692,61 +143527,113 @@
   {
     "company": "Centene",
     "fortune_rank": 19,
-    "title": "Senior LTSS Service Care Manager (RN)",
-    "location": "Remote-TX",
-    "url": "https://centene.wd5.myworkdayjobs.com/en-US/centene_external/job/Remote-TX/Senior-LTSS-Service-Care-Manager--RN-_1662175",
+    "title": "Provider Engagement Account Manager",
+    "location": "Remote-KS",
+    "url": "https://centene.wd5.myworkdayjobs.com/en-US/centene_external/job/Remote-KS/Provider-Engagement-Account-Manager_1663715",
     "source": "workday",
-    "external_id": "/job/Remote-TX/Senior-LTSS-Service-Care-Manager--RN-_1662175",
+    "external_id": "/job/Remote-KS/Provider-Engagement-Account-Manager_1663715",
     "employment_type": "full-time",
     "category": "Other",
     "h1b_status": "unknown",
     "sponsorship_evidence": "",
     "h1b_mentioned": false,
-    "salary_min": 36.21,
-    "salary_max": 65.09,
+    "salary_min": 56200.0,
+    "salary_max": 101000.0,
     "salary_currency": "USD",
-    "salary_period": "hour",
-    "salary_text": "$36.21 - $65.09 per hour",
+    "salary_period": "year",
+    "salary_text": "$56,200.00 - $101,000.00 per year",
     "keywords": [
-      "compliance"
+      "contracts"
     ],
     "updated_at": "",
-    "first_seen_at": "2026-10-02T12:45:55.508618+00:00",
-    "enriched_at": "2026-10-02T12:36:14.147211+00:00"
+    "first_seen_at": "2026-10-04T06:03:15.979436+00:00",
+    "enriched_at": "2026-10-01T22:45:06.815052+00:00"
   },
   {
     "company": "Centene",
     "fortune_rank": 19,
-    "title": "Senior LTSS Service Care Manager (RN)",
+    "title": "Quality Practice Advisor",
     "location": "Remote-TX",
-    "url": "https://centene.wd5.myworkdayjobs.com/en-US/centene_external/job/Remote-TX/Senior-LTSS-Service-Care-Manager--RN-_1662177",
+    "url": "https://centene.wd5.myworkdayjobs.com/en-US/centene_external/job/Remote-TX/Quality-Practice-Advisor_1662939",
     "source": "workday",
-    "external_id": "/job/Remote-TX/Senior-LTSS-Service-Care-Manager--RN-_1662177",
+    "external_id": "/job/Remote-TX/Quality-Practice-Advisor_1662939",
+    "employment_type": "full-time",
+    "category": "Other",
+    "h1b_status": "unknown",
+    "sponsorship_evidence": "",
+    "h1b_mentioned": true,
+    "salary_min": 27.02,
+    "salary_max": 48.55,
+    "salary_currency": "USD",
+    "salary_period": "hour",
+    "salary_text": "$27.02 - $48.55 per hour",
+    "keywords": [
+      "compliance"
+    ],
+    "updated_at": "",
+    "first_seen_at": "2026-10-04T06:03:15.979436+00:00",
+    "enriched_at": "2026-10-01T22:45:06.820234+00:00"
+  },
+  {
+    "company": "Centene",
+    "fortune_rank": 19,
+    "title": "Provider Engagement Account Manager",
+    "location": "Remote-KS",
+    "url": "https://centene.wd5.myworkdayjobs.com/en-US/centene_external/job/Remote-KS/Provider-Engagement-Account-Manager_1663716",
+    "source": "workday",
+    "external_id": "/job/Remote-KS/Provider-Engagement-Account-Manager_1663716",
     "employment_type": "full-time",
     "category": "Other",
     "h1b_status": "unknown",
     "sponsorship_evidence": "",
     "h1b_mentioned": false,
-    "salary_min": 36.21,
-    "salary_max": 65.09,
+    "salary_min": 56200.0,
+    "salary_max": 101000.0,
     "salary_currency": "USD",
-    "salary_period": "hour",
-    "salary_text": "$36.21 - $65.09 per hour",
+    "salary_period": "year",
+    "salary_text": "$56,200.00 - $101,000.00 per year",
     "keywords": [
-      "compliance"
+      "contracts"
     ],
     "updated_at": "",
-    "first_seen_at": "2026-10-02T12:45:55.508618+00:00",
-    "enriched_at": "2026-10-02T12:36:14.157943+00:00"
+    "first_seen_at": "2026-10-04T06:03:15.979436+00:00",
+    "enriched_at": "2026-10-01T22:45:06.826249+00:00"
   },
   {
     "company": "Centene",
     "fortune_rank": 19,
-    "title": "LTSS Service Care Coordinator",
-    "location": "Remote-TX",
-    "url": "https://centene.wd5.myworkdayjobs.com/en-US/centene_external/job/Remote-TX/LTSS-Service-Care-Coordinator_1649761-1",
+    "title": "Senior Quality Auditor",
+    "location": "Remote-MO",
+    "url": "https://centene.wd5.myworkdayjobs.com/en-US/centene_external/job/Remote-MO/Senior-Quality-Auditor_1658226-1",
     "source": "workday",
-    "external_id": "/job/Remote-TX/LTSS-Service-Care-Coordinator_1649761-1",
+    "external_id": "/job/Remote-MO/Senior-Quality-Auditor_1658226-1",
+    "employment_type": "full-time",
+    "category": "Finance & Accounting",
+    "h1b_status": "unknown",
+    "sponsorship_evidence": "",
+    "h1b_mentioned": true,
+    "salary_min": 23.23,
+    "salary_max": 39.61,
+    "salary_currency": "USD",
+    "salary_period": "hour",
+    "salary_text": "$23.23 - $39.61 per hour",
+    "keywords": [
+      "audit",
+      "compliance",
+      "contracts"
+    ],
+    "updated_at": "",
+    "first_seen_at": "2026-10-04T06:03:15.979436+00:00",
+    "enriched_at": "2026-10-01T22:45:06.831433+00:00"
+  },
+  {
+    "company": "Centene",
+    "fortune_rank": 19,
+    "title": "Care Navigator - Foster Care",
+    "location": "Remote-MO",
+    "url": "https://centene.wd5.myworkdayjobs.com/en-US/centene_external/job/Remote-MO/Care-Navigator---Foster-Care_1663759",
+    "source": "workday",
+    "external_id": "/job/Remote-MO/Care-Navigator---Foster-Care_1663759",
     "employment_type": "full-time",
     "category": "Other",
     "h1b_status": "unknown",
@@ -143758,87 +143645,162 @@
     "salary_period": "hour",
     "salary_text": "$22.94 - $38.79 per hour",
     "keywords": [
-      "Excel",
       "compliance"
     ],
     "updated_at": "",
-    "first_seen_at": "2026-10-02T12:45:55.508618+00:00",
-    "enriched_at": "2026-10-02T12:36:14.168380+00:00"
+    "first_seen_at": "2026-10-04T06:03:15.979436+00:00",
+    "enriched_at": "2026-10-01T22:45:06.836882+00:00"
   },
   {
     "company": "Centene",
     "fortune_rank": 19,
-    "title": "LTSS Service Care Manager - Behavioral Health",
-    "location": "Remote-TX",
-    "url": "https://centene.wd5.myworkdayjobs.com/en-US/centene_external/job/Remote-TX/LTSS-Service-Care-Manager---Behavioral-Health_1662986",
+    "title": "Senior Compliance Analyst - Regulatory Change Management",
+    "location": "Remote-MO",
+    "url": "https://centene.wd5.myworkdayjobs.com/en-US/centene_external/job/Remote-MO/Senior-Compliance-Analyst---Regulatory-Change-Management_1664629",
     "source": "workday",
-    "external_id": "/job/Remote-TX/LTSS-Service-Care-Manager---Behavioral-Health_1662986",
+    "external_id": "/job/Remote-MO/Senior-Compliance-Analyst---Regulatory-Change-Management_1664629",
     "employment_type": "full-time",
-    "category": "Other",
+    "category": "People & Legal",
     "h1b_status": "unknown",
     "sponsorship_evidence": "",
     "h1b_mentioned": false,
-    "salary_min": 27.02,
-    "salary_max": 48.55,
+    "salary_min": 70100.0,
+    "salary_max": 126200.0,
     "salary_currency": "USD",
-    "salary_period": "hour",
-    "salary_text": "$27.02 - $48.55 per hour",
+    "salary_period": "year",
+    "salary_text": "$70,100.00 - $126,200.00 per year",
     "keywords": [
       "compliance",
+      "legal",
       "contracts"
     ],
     "updated_at": "",
-    "first_seen_at": "2026-10-02T12:45:55.508618+00:00",
-    "enriched_at": "2026-10-02T12:36:14.183286+00:00"
+    "first_seen_at": "2026-10-04T06:03:15.979436+00:00",
+    "enriched_at": "2026-10-01T22:45:06.843020+00:00"
   },
   {
     "company": "Centene",
     "fortune_rank": 19,
-    "title": "Utilization Review Clinician - Behavioral Health",
-    "location": "Remote-TX",
-    "url": "https://centene.wd5.myworkdayjobs.com/en-US/centene_external/job/Remote-TX/Utilization-Review-Clinician---Behavioral-Health_1663248",
+    "title": "People Relations Partner",
+    "location": "Remote-MO",
+    "url": "https://centene.wd5.myworkdayjobs.com/en-US/centene_external/job/Remote-MO/People-Relations-Partner_1663048-1",
     "source": "workday",
-    "external_id": "/job/Remote-TX/Utilization-Review-Clinician---Behavioral-Health_1663248",
+    "external_id": "/job/Remote-MO/People-Relations-Partner_1663048-1",
     "employment_type": "full-time",
     "category": "Other",
     "h1b_status": "unknown",
     "sponsorship_evidence": "",
     "h1b_mentioned": false,
-    "salary_min": 27.02,
-    "salary_max": 48.55,
+    "salary_min": 70100.0,
+    "salary_max": 126200.0,
     "salary_currency": "USD",
-    "salary_period": "hour",
-    "salary_text": "$27.02 - $48.55 per hour",
+    "salary_period": "year",
+    "salary_text": "$70,100.00 - $126,200.00 per year",
+    "keywords": [
+      "human resources",
+      "compliance",
+      "legal"
+    ],
+    "updated_at": "",
+    "first_seen_at": "2026-10-04T06:03:15.979436+00:00",
+    "enriched_at": "2026-10-01T22:45:06.847242+00:00"
+  },
+  {
+    "company": "Centene",
+    "fortune_rank": 19,
+    "title": "Clinical Review Nurse-Concurrent Review",
+    "location": "Remote-NC",
+    "url": "https://centene.wd5.myworkdayjobs.com/en-US/centene_external/job/Remote-NC/Clinical-Review-Nurse-Concurrent-Review_1663887",
+    "source": "workday",
+    "external_id": "/job/Remote-NC/Clinical-Review-Nurse-Concurrent-Review_1663887",
+    "employment_type": "full-time",
+    "category": "Other",
+    "h1b_status": "unknown",
+    "sponsorship_evidence": "",
+    "h1b_mentioned": false,
+    "salary_min": null,
+    "salary_max": null,
+    "salary_currency": "",
+    "salary_period": "",
+    "salary_text": "",
     "keywords": [],
     "updated_at": "",
-    "first_seen_at": "2026-10-02T12:45:55.508618+00:00",
-    "enriched_at": "2026-10-02T12:36:14.191966+00:00"
+    "first_seen_at": "2026-10-04T06:03:15.979436+00:00",
+    "enriched_at": "2026-10-01T22:45:06.851754+00:00"
   },
   {
     "company": "Centene",
     "fortune_rank": 19,
-    "title": "LTSS Service Care Manager - Behavioral Health",
-    "location": "Remote-TX",
-    "url": "https://centene.wd5.myworkdayjobs.com/en-US/centene_external/job/Remote-TX/LTSS-Service-Care-Manager---Behavioral-Health_1662181",
+    "title": "Vendor Relations Manager",
+    "location": "Remote-MO",
+    "url": "https://centene.wd5.myworkdayjobs.com/en-US/centene_external/job/Remote-MO/Vendor-Relations-Manager_1664307",
     "source": "workday",
-    "external_id": "/job/Remote-TX/LTSS-Service-Care-Manager---Behavioral-Health_1662181",
+    "external_id": "/job/Remote-MO/Vendor-Relations-Manager_1664307",
     "employment_type": "full-time",
     "category": "Other",
     "h1b_status": "unknown",
     "sponsorship_evidence": "",
     "h1b_mentioned": false,
-    "salary_min": 27.02,
-    "salary_max": 48.55,
+    "salary_min": 87700.0,
+    "salary_max": 157800.0,
     "salary_currency": "USD",
-    "salary_period": "hour",
-    "salary_text": "$27.02 - $48.55 per hour",
+    "salary_period": "year",
+    "salary_text": "$87,700.00 - $157,800.00 per year",
+    "keywords": [],
+    "updated_at": "",
+    "first_seen_at": "2026-10-04T06:03:15.979436+00:00",
+    "enriched_at": "2026-10-01T22:45:06.857525+00:00"
+  },
+  {
+    "company": "Centene",
+    "fortune_rank": 19,
+    "title": "Provider Engagement Account Manager",
+    "location": "Remote-NJ",
+    "url": "https://centene.wd5.myworkdayjobs.com/en-US/centene_external/job/Remote-NJ/Provider-Engagement-Account-Manager_1663761",
+    "source": "workday",
+    "external_id": "/job/Remote-NJ/Provider-Engagement-Account-Manager_1663761",
+    "employment_type": "full-time",
+    "category": "Other",
+    "h1b_status": "unknown",
+    "sponsorship_evidence": "",
+    "h1b_mentioned": true,
+    "salary_min": 56200.0,
+    "salary_max": 101000.0,
+    "salary_currency": "USD",
+    "salary_period": "year",
+    "salary_text": "$56,200.00 - $101,000.00 per year",
     "keywords": [
-      "compliance",
       "contracts"
     ],
     "updated_at": "",
-    "first_seen_at": "2026-10-02T12:45:55.508618+00:00",
-    "enriched_at": "2026-10-02T12:36:14.198874+00:00"
+    "first_seen_at": "2026-10-04T06:03:15.979436+00:00",
+    "enriched_at": "2026-10-01T22:45:06.861760+00:00"
+  },
+  {
+    "company": "Centene",
+    "fortune_rank": 19,
+    "title": "Case Auditor",
+    "location": "Remote-OK",
+    "url": "https://centene.wd5.myworkdayjobs.com/en-US/centene_external/job/Remote-OK/Case-Auditor_1664406-1",
+    "source": "workday",
+    "external_id": "/job/Remote-OK/Case-Auditor_1664406-1",
+    "employment_type": "full-time",
+    "category": "Finance & Accounting",
+    "h1b_status": "unknown",
+    "sponsorship_evidence": "",
+    "h1b_mentioned": false,
+    "salary_min": 20.39,
+    "salary_max": 34.71,
+    "salary_currency": "USD",
+    "salary_period": "hour",
+    "salary_text": "$20.39 - $34.71 per hour",
+    "keywords": [
+      "audit",
+      "compliance"
+    ],
+    "updated_at": "",
+    "first_seen_at": "2026-10-04T06:03:15.979436+00:00",
+    "enriched_at": "2026-10-01T22:45:06.867299+00:00"
   },
   {
     "company": "Chevron",
@@ -161575,32 +161537,6 @@
   {
     "company": "Johnson & Johnson",
     "fortune_rank": 45,
-    "title": "Distribution Co-Op",
-    "location": "Somerset, New Jersey, United States of America",
-    "url": "https://jj.wd5.myworkdayjobs.com/en-US/JJ/job/Somerset-New-Jersey-United-States-of-America/Distribution-Co-Op_R-097287",
-    "source": "workday",
-    "external_id": "/job/Somerset-New-Jersey-United-States-of-America/Distribution-Co-Op_R-097287",
-    "employment_type": "internship",
-    "category": "Other",
-    "h1b_status": "unknown",
-    "sponsorship_evidence": "",
-    "h1b_mentioned": true,
-    "salary_min": 23.5,
-    "salary_max": 23.5,
-    "salary_currency": "USD",
-    "salary_period": "hour",
-    "salary_text": "$23.50 per hour",
-    "keywords": [
-      "Excel",
-      "supply chain"
-    ],
-    "updated_at": "",
-    "first_seen_at": "2026-09-15T17:15:04.679496+00:00",
-    "enriched_at": "2026-09-29T22:19:52.281228+00:00"
-  },
-  {
-    "company": "Johnson & Johnson",
-    "fortune_rank": 45,
     "title": "Product Director, Bladder Cancer Professional Promotion Marketing, Erda-iDRS",
     "location": "Horsham, Pennsylvania, United States of America",
     "url": "https://jj.wd5.myworkdayjobs.com/en-US/JJ/job/Horsham-Pennsylvania-United-States-of-America/Product-Director--Bladder-Cancer-Professional-Promotion-Marketing--Erda-iDRS_R-092741-1",
@@ -162041,33 +161977,6 @@
     "updated_at": "",
     "first_seen_at": "2026-09-24T17:24:42.354131+00:00",
     "enriched_at": "2026-10-01T22:46:25.819353+00:00"
-  },
-  {
-    "company": "Johnson & Johnson",
-    "fortune_rank": 45,
-    "title": "Senior Post Market Surveillance Specialist",
-    "location": "Cincinnati, Ohio, United States of America",
-    "url": "https://jj.wd5.myworkdayjobs.com/en-US/JJ/job/Cincinnati-Ohio-United-States-of-America/Senior-Post-Market-Surveillance-Specialist_R-101379-1",
-    "source": "workday",
-    "external_id": "/job/Cincinnati-Ohio-United-States-of-America/Senior-Post-Market-Surveillance-Specialist_R-101379-1",
-    "employment_type": "full-time",
-    "category": "Other",
-    "h1b_status": "unknown",
-    "sponsorship_evidence": "",
-    "h1b_mentioned": false,
-    "salary_min": null,
-    "salary_max": null,
-    "salary_currency": "",
-    "salary_period": "",
-    "salary_text": "",
-    "keywords": [
-      "audit",
-      "sales",
-      "compliance"
-    ],
-    "updated_at": "",
-    "first_seen_at": "2026-09-24T17:24:42.354131+00:00",
-    "enriched_at": "2026-10-01T22:46:25.836294+00:00"
   },
   {
     "company": "Johnson & Johnson",
@@ -163082,118 +162991,6 @@
   {
     "company": "Johnson & Johnson",
     "fortune_rank": 45,
-    "title": "Development Engineer (GTO/SC) Summer Intern",
-    "location": "Cincinnati, Ohio, United States of America",
-    "url": "https://jj.wd5.myworkdayjobs.com/en-US/JJ/job/Cincinnati-Ohio-United-States-of-America/Development-Engineer--GTO-SC--Summer-Intern_R-098779",
-    "source": "workday",
-    "external_id": "/job/Cincinnati-Ohio-United-States-of-America/Development-Engineer--GTO-SC--Summer-Intern_R-098779",
-    "employment_type": "internship",
-    "category": "Other",
-    "h1b_status": "unknown",
-    "sponsorship_evidence": "",
-    "h1b_mentioned": true,
-    "salary_min": 23.5,
-    "salary_max": 23.5,
-    "salary_currency": "USD",
-    "salary_period": "hour",
-    "salary_text": "$23.50 per hour",
-    "keywords": [
-      "analytics",
-      "supply chain",
-      "recruiting",
-      "compliance"
-    ],
-    "updated_at": "",
-    "first_seen_at": "2026-09-22T05:06:22.249219+00:00",
-    "enriched_at": "2026-09-29T05:47:42.581479+00:00"
-  },
-  {
-    "company": "Johnson & Johnson",
-    "fortune_rank": 45,
-    "title": "Development Engineer (GTO/SC) Spring Co-Op",
-    "location": "Cincinnati, Ohio, United States of America",
-    "url": "https://jj.wd5.myworkdayjobs.com/en-US/JJ/job/Cincinnati-Ohio-United-States-of-America/Development-Engineer--GTO-SC--Spring-Co-Op_R-098772",
-    "source": "workday",
-    "external_id": "/job/Cincinnati-Ohio-United-States-of-America/Development-Engineer--GTO-SC--Spring-Co-Op_R-098772",
-    "employment_type": "internship",
-    "category": "Other",
-    "h1b_status": "unknown",
-    "sponsorship_evidence": "",
-    "h1b_mentioned": true,
-    "salary_min": 23.5,
-    "salary_max": 23.5,
-    "salary_currency": "USD",
-    "salary_period": "hour",
-    "salary_text": "$23.50 per hour",
-    "keywords": [
-      "analytics",
-      "supply chain",
-      "recruiting",
-      "compliance",
-      "contracts"
-    ],
-    "updated_at": "",
-    "first_seen_at": "2026-09-22T05:06:22.249219+00:00",
-    "enriched_at": "2026-09-29T05:47:42.599039+00:00"
-  },
-  {
-    "company": "Johnson & Johnson",
-    "fortune_rank": 45,
-    "title": "Wound Closure and Healing R&D Device Summer Intern",
-    "location": "Raritan, New Jersey, United States of America",
-    "url": "https://jj.wd5.myworkdayjobs.com/en-US/JJ/job/Raritan-New-Jersey-United-States-of-America/Wound-Closure-and-Healing-R-D-Device-Summer-Intern_R-098674",
-    "source": "workday",
-    "external_id": "/job/Raritan-New-Jersey-United-States-of-America/Wound-Closure-and-Healing-R-D-Device-Summer-Intern_R-098674",
-    "employment_type": "internship",
-    "category": "Other",
-    "h1b_status": "unknown",
-    "sponsorship_evidence": "",
-    "h1b_mentioned": true,
-    "salary_min": 23.5,
-    "salary_max": 23.5,
-    "salary_currency": "USD",
-    "salary_period": "hour",
-    "salary_text": "$23.50 per hour",
-    "keywords": [
-      "CAD",
-      "SolidWorks",
-      "compliance"
-    ],
-    "updated_at": "",
-    "first_seen_at": "2026-09-22T05:06:22.249219+00:00",
-    "enriched_at": "2026-09-29T05:47:42.616901+00:00"
-  },
-  {
-    "company": "Johnson & Johnson",
-    "fortune_rank": 45,
-    "title": "Wound Closure and Healing R&D Device Spring Co-Op",
-    "location": "Raritan, New Jersey, United States of America",
-    "url": "https://jj.wd5.myworkdayjobs.com/en-US/JJ/job/Raritan-New-Jersey-United-States-of-America/Wound-Closure-and-Healing-R-D-Device-Spring-Co-Op_R-098670",
-    "source": "workday",
-    "external_id": "/job/Raritan-New-Jersey-United-States-of-America/Wound-Closure-and-Healing-R-D-Device-Spring-Co-Op_R-098670",
-    "employment_type": "internship",
-    "category": "Other",
-    "h1b_status": "unknown",
-    "sponsorship_evidence": "",
-    "h1b_mentioned": true,
-    "salary_min": 23.5,
-    "salary_max": 23.5,
-    "salary_currency": "USD",
-    "salary_period": "hour",
-    "salary_text": "$23.50 per hour",
-    "keywords": [
-      "CAD",
-      "SolidWorks",
-      "compliance",
-      "contracts"
-    ],
-    "updated_at": "",
-    "first_seen_at": "2026-09-22T05:06:22.249219+00:00",
-    "enriched_at": "2026-09-29T05:47:42.631645+00:00"
-  },
-  {
-    "company": "Johnson & Johnson",
-    "fortune_rank": 45,
     "title": "Associate Medical Director, Pediatric Development Team",
     "location": "Spring House, Pennsylvania, United States of America",
     "url": "https://jj.wd5.myworkdayjobs.com/en-US/JJ/job/Spring-House-Pennsylvania-United-States-of-America/Associate-Medical-Director--Pediatric-Development-Team_R-099281-1",
@@ -163379,7 +163176,7 @@
     ],
     "updated_at": "",
     "first_seen_at": "2026-09-20T05:00:06.460185+00:00",
-    "enriched_at": "2026-09-27T05:21:18.765823+00:00"
+    "enriched_at": "2026-10-04T05:55:11.579446+00:00"
   },
   {
     "company": "Johnson & Johnson",
@@ -163507,101 +163304,6 @@
     "updated_at": "",
     "first_seen_at": "2026-09-19T04:48:38.951694+00:00",
     "enriched_at": "2026-10-03T05:21:56.017861+00:00"
-  },
-  {
-    "company": "Johnson & Johnson",
-    "fortune_rank": 45,
-    "title": "Senior AI Engineer",
-    "location": "Titusville, New Jersey, United States of America",
-    "url": "https://jj.wd5.myworkdayjobs.com/en-US/JJ/job/Titusville-New-Jersey-United-States-of-America/Senior-AI-Engineer_R-100342",
-    "source": "workday",
-    "external_id": "/job/Titusville-New-Jersey-United-States-of-America/Senior-AI-Engineer_R-100342",
-    "employment_type": "full-time",
-    "category": "Data & AI",
-    "h1b_status": "unknown",
-    "sponsorship_evidence": "",
-    "h1b_mentioned": false,
-    "salary_min": null,
-    "salary_max": null,
-    "salary_currency": "",
-    "salary_period": "",
-    "salary_text": "",
-    "keywords": [
-      "Python",
-      "SQL",
-      "AWS",
-      "Azure",
-      "machine learning",
-      "artificial intelligence",
-      "data science",
-      "analytics",
-      "sales",
-      "legal"
-    ],
-    "updated_at": "",
-    "first_seen_at": "2026-09-19T04:48:38.951694+00:00",
-    "enriched_at": "2026-10-03T05:21:56.030369+00:00"
-  },
-  {
-    "company": "Johnson & Johnson",
-    "fortune_rank": 45,
-    "title": "Senior Director, Global Commercial Data Platforms & AI Engineering",
-    "location": "Raritan, New Jersey, United States of America",
-    "url": "https://jj.wd5.myworkdayjobs.com/en-US/JJ/job/Raritan-New-Jersey-United-States-of-America/Senior-Director--Global-Commercial-Data-Platforms---AI-Engineering_R-095200-1",
-    "source": "workday",
-    "external_id": "/job/Raritan-New-Jersey-United-States-of-America/Senior-Director--Global-Commercial-Data-Platforms---AI-Engineering_R-095200-1",
-    "employment_type": "full-time",
-    "category": "Other",
-    "h1b_status": "unknown",
-    "sponsorship_evidence": "",
-    "h1b_mentioned": false,
-    "salary_min": null,
-    "salary_max": null,
-    "salary_currency": "",
-    "salary_period": "",
-    "salary_text": "",
-    "keywords": [
-      "AWS",
-      "Azure",
-      "machine learning",
-      "data science",
-      "analytics",
-      "compliance",
-      "legal"
-    ],
-    "updated_at": "",
-    "first_seen_at": "2026-09-18T21:07:56.083167+00:00",
-    "enriched_at": "2026-10-02T22:18:32.241533+00:00"
-  },
-  {
-    "company": "Johnson & Johnson",
-    "fortune_rank": 45,
-    "title": "Manager, AI Next Frontiers",
-    "location": "Titusville, New Jersey, United States of America",
-    "url": "https://jj.wd5.myworkdayjobs.com/en-US/JJ/job/Titusville-New-Jersey-United-States-of-America/Manager--AI-Next-Frontiers_R-089505-1",
-    "source": "workday",
-    "external_id": "/job/Titusville-New-Jersey-United-States-of-America/Manager--AI-Next-Frontiers_R-089505-1",
-    "employment_type": "full-time",
-    "category": "Other",
-    "h1b_status": "unknown",
-    "sponsorship_evidence": "",
-    "h1b_mentioned": false,
-    "salary_min": null,
-    "salary_max": null,
-    "salary_currency": "",
-    "salary_period": "",
-    "salary_text": "",
-    "keywords": [
-      "machine learning",
-      "data science",
-      "analytics",
-      "CRM",
-      "compliance",
-      "legal"
-    ],
-    "updated_at": "",
-    "first_seen_at": "2026-09-18T21:07:56.083167+00:00",
-    "enriched_at": "2026-10-02T22:18:32.252125+00:00"
   },
   {
     "company": "Johnson & Johnson",
@@ -164000,36 +163702,6 @@
     "updated_at": "",
     "first_seen_at": "2026-09-18T04:55:20.669830+00:00",
     "enriched_at": "2026-10-02T05:40:09.251482+00:00"
-  },
-  {
-    "company": "Johnson & Johnson",
-    "fortune_rank": 45,
-    "title": "ATSC Patient Experience & Delivery Co-Op",
-    "location": "Raritan, New Jersey, United States of America",
-    "url": "https://jj.wd5.myworkdayjobs.com/en-US/JJ/job/Raritan-New-Jersey-United-States-of-America/ATSC-Patient-Experience---Delivery-Co-Op_R-096958",
-    "source": "workday",
-    "external_id": "/job/Raritan-New-Jersey-United-States-of-America/ATSC-Patient-Experience---Delivery-Co-Op_R-096958",
-    "employment_type": "internship",
-    "category": "Other",
-    "h1b_status": "unknown",
-    "sponsorship_evidence": "",
-    "h1b_mentioned": true,
-    "salary_min": 23.5,
-    "salary_max": 23.5,
-    "salary_currency": "USD",
-    "salary_period": "hour",
-    "salary_text": "$23.50 per hour",
-    "keywords": [
-      "data science",
-      "Excel",
-      "accounting",
-      "supply chain",
-      "logistics",
-      "contracts"
-    ],
-    "updated_at": "",
-    "first_seen_at": "2026-09-17T21:36:29.166729+00:00",
-    "enriched_at": "2026-10-01T22:46:25.965085+00:00"
   },
   {
     "company": "Johnson & Johnson",
@@ -164914,34 +164586,6 @@
     "updated_at": "",
     "first_seen_at": "2026-09-15T21:35:09.732718+00:00",
     "enriched_at": "2026-09-30T05:35:56.438621+00:00"
-  },
-  {
-    "company": "Johnson & Johnson",
-    "fortune_rank": 45,
-    "title": "Environmental Health & Safety (EH&S) Co-Op",
-    "location": "New Brunswick, New Jersey, United States of America",
-    "url": "https://jj.wd5.myworkdayjobs.com/en-US/JJ/job/New-Brunswick-New-Jersey-United-States-of-America/Environmental-Health---Safety--EH-S--Co-Op_R-098404",
-    "source": "workday",
-    "external_id": "/job/New-Brunswick-New-Jersey-United-States-of-America/Environmental-Health---Safety--EH-S--Co-Op_R-098404",
-    "employment_type": "internship",
-    "category": "Other",
-    "h1b_status": "unknown",
-    "sponsorship_evidence": "",
-    "h1b_mentioned": true,
-    "salary_min": 23.5,
-    "salary_max": 23.5,
-    "salary_currency": "USD",
-    "salary_period": "hour",
-    "salary_text": "$23.50 per hour",
-    "keywords": [
-      "mechanical engineering",
-      "supply chain",
-      "compliance",
-      "contracts"
-    ],
-    "updated_at": "",
-    "first_seen_at": "2026-09-15T21:35:09.732718+00:00",
-    "enriched_at": "2026-09-30T05:35:56.453686+00:00"
   },
   {
     "company": "Johnson & Johnson",
@@ -167658,6 +167302,86 @@
     "updated_at": "",
     "first_seen_at": "2026-08-15T02:30:47.614898+00:00",
     "enriched_at": "2026-10-03T21:18:22.555240+00:00"
+  },
+  {
+    "company": "RTX",
+    "fortune_rank": 49,
+    "title": "Principal Specialist, Contracts (Onsite)",
+    "location": "US-TX-RICHARDSON-C37 ~ 1737 Cityline Dr ~ CITYLINE C37",
+    "url": "https://globalhr.wd5.myworkdayjobs.com/en-US/REC_RTX_Ext_Gateway/job/US-TX-RICHARDSON-C37--1737-Cityline-Dr--CITYLINE-C37/Principal-Specialist--Contracts--Onsite-_01875945",
+    "source": "workday",
+    "external_id": "/job/US-TX-RICHARDSON-C37--1737-Cityline-Dr--CITYLINE-C37/Principal-Specialist--Contracts--Onsite-_01875945",
+    "employment_type": "full-time",
+    "category": "Other",
+    "h1b_status": "unknown",
+    "sponsorship_evidence": "",
+    "h1b_mentioned": false,
+    "salary_min": null,
+    "salary_max": null,
+    "salary_currency": "",
+    "salary_period": "",
+    "salary_text": "",
+    "keywords": [
+      "risk management",
+      "compliance",
+      "contracts"
+    ],
+    "updated_at": "",
+    "first_seen_at": "2026-09-23T17:12:38.935699+00:00",
+    "enriched_at": "2026-09-30T22:22:38.753163+00:00"
+  },
+  {
+    "company": "RTX",
+    "fortune_rank": 49,
+    "title": "Avionics Test Engineering -Systems Engineer Intern (Onsite)",
+    "location": "US-IA-CEDAR RAPIDS-112 ~ 400 Collins Rd NE ~ BLDG 112",
+    "url": "https://globalhr.wd5.myworkdayjobs.com/en-US/REC_RTX_Ext_Gateway/job/US-IA-CEDAR-RAPIDS-112--400-Collins-Rd-NE--BLDG-112/Avionics-Test-Engineering--Systems-Engineer-Intern--Onsite-_01876518",
+    "source": "workday",
+    "external_id": "/job/US-IA-CEDAR-RAPIDS-112--400-Collins-Rd-NE--BLDG-112/Avionics-Test-Engineering--Systems-Engineer-Intern--Onsite-_01876518",
+    "employment_type": "internship",
+    "category": "Software & IT",
+    "h1b_status": "unknown",
+    "sponsorship_evidence": "",
+    "h1b_mentioned": false,
+    "salary_min": null,
+    "salary_max": null,
+    "salary_currency": "",
+    "salary_period": "",
+    "salary_text": "",
+    "keywords": [
+      "compliance",
+      "contracts"
+    ],
+    "updated_at": "",
+    "first_seen_at": "2026-10-04T06:03:15.979436+00:00",
+    "enriched_at": "2026-10-04T05:56:43.802550+00:00"
+  },
+  {
+    "company": "RTX",
+    "fortune_rank": 49,
+    "title": "Co-Op - AI DSP Applied Research",
+    "location": "US-IA-CEDAR RAPIDS-108 ~ 400 Collins Rd NE ~ BLDG 108",
+    "url": "https://globalhr.wd5.myworkdayjobs.com/en-US/REC_RTX_Ext_Gateway/job/US-IA-CEDAR-RAPIDS-108--400-Collins-Rd-NE--BLDG-108/Co-Op---AI-DSP-Applied-Research_01873016",
+    "source": "workday",
+    "external_id": "/job/US-IA-CEDAR-RAPIDS-108--400-Collins-Rd-NE--BLDG-108/Co-Op---AI-DSP-Applied-Research_01873016",
+    "employment_type": "internship",
+    "category": "Other",
+    "h1b_status": "unknown",
+    "sponsorship_evidence": "",
+    "h1b_mentioned": false,
+    "salary_min": null,
+    "salary_max": null,
+    "salary_currency": "",
+    "salary_period": "",
+    "salary_text": "",
+    "keywords": [
+      "artificial intelligence",
+      "compliance",
+      "contracts"
+    ],
+    "updated_at": "",
+    "first_seen_at": "2026-10-04T06:03:15.979436+00:00",
+    "enriched_at": "2026-10-04T05:56:43.810140+00:00"
   },
   {
     "company": "RTX",
@@ -170446,33 +170170,6 @@
     "updated_at": "",
     "first_seen_at": "2026-10-01T22:55:30.968656+00:00",
     "enriched_at": "2026-10-01T22:48:15.062171+00:00"
-  },
-  {
-    "company": "RTX",
-    "fortune_rank": 49,
-    "title": "Engineer I: Associate Production Engineer",
-    "location": "US-OK-TINKER-AFB-CUST ~ 3001 Staff Dr ~ TINKER AFB (External Site)",
-    "url": "https://globalhr.wd5.myworkdayjobs.com/en-US/REC_RTX_Ext_Gateway/job/US-OK-TINKER-AFB-CUST--3001-Staff-Dr--TINKER-AFB-External-Site/Engineer-I--Associate-Production-Engineer_01877310",
-    "source": "workday",
-    "external_id": "/job/US-OK-TINKER-AFB-CUST--3001-Staff-Dr--TINKER-AFB-External-Site/Engineer-I--Associate-Production-Engineer_01877310",
-    "employment_type": "full-time",
-    "category": "Other",
-    "h1b_status": "unknown",
-    "sponsorship_evidence": "",
-    "h1b_mentioned": false,
-    "salary_min": null,
-    "salary_max": null,
-    "salary_currency": "",
-    "salary_period": "",
-    "salary_text": "",
-    "keywords": [
-      "mechanical engineering",
-      "compliance",
-      "contracts"
-    ],
-    "updated_at": "",
-    "first_seen_at": "2026-10-01T22:55:30.968656+00:00",
-    "enriched_at": "2026-10-01T22:48:15.067845+00:00"
   },
   {
     "company": "RTX",
@@ -175805,33 +175502,6 @@
   {
     "company": "RTX",
     "fortune_rank": 49,
-    "title": "Sr. Manager, Application Technical Services (Puerto Rico)",
-    "location": "US-PR-SANTA ISABEL-B1 ~ Felicia Industrial Park - St B1 ~ BLDG 1",
-    "url": "https://globalhr.wd5.myworkdayjobs.com/en-US/REC_RTX_Ext_Gateway/job/US-PR-SANTA-ISABEL-B1--Felicia-Industrial-Park---St-B1--BLDG-1/Sr-Manager--Application-Technical-Services--Puerto-Rico-_01876628",
-    "source": "workday",
-    "external_id": "/job/US-PR-SANTA-ISABEL-B1--Felicia-Industrial-Park---St-B1--BLDG-1/Sr-Manager--Application-Technical-Services--Puerto-Rico-_01876628",
-    "employment_type": "full-time",
-    "category": "Other",
-    "h1b_status": "unknown",
-    "sponsorship_evidence": "",
-    "h1b_mentioned": false,
-    "salary_min": null,
-    "salary_max": null,
-    "salary_currency": "",
-    "salary_period": "",
-    "salary_text": "",
-    "keywords": [
-      "Azure",
-      "compliance",
-      "contracts"
-    ],
-    "updated_at": "",
-    "first_seen_at": "2026-10-01T13:27:14.488048+00:00",
-    "enriched_at": "2026-10-01T13:20:00.246382+00:00"
-  },
-  {
-    "company": "RTX",
-    "fortune_rank": 49,
     "title": "Team Lead, Airspace Operations Research",
     "location": "IE-CO-CORK-001 ~ Penrose Wharf ~ PENROSE",
     "url": "https://globalhr.wd5.myworkdayjobs.com/en-US/REC_RTX_Ext_Gateway/job/IE-CO-CORK-001--Penrose-Wharf--PENROSE/Team-Lead--Airspace-Operations-Research_01861097",
@@ -178495,34 +178165,6 @@
   {
     "company": "RTX",
     "fortune_rank": 49,
-    "title": "Intern: Commercial Engines Production Chief Organization (Summer 2027)",
-    "location": "US-CT-EAST HARTFORD-OBG ~ 400 Main St ~ BLDG OBG",
-    "url": "https://globalhr.wd5.myworkdayjobs.com/en-US/REC_RTX_Ext_Gateway/job/US-CT-EAST-HARTFORD-OBG--400-Main-St--BLDG-OBG/Intern--Commercial-Engines-Production-Chief-Organization--Summer-2027-_01879223",
-    "source": "workday",
-    "external_id": "/job/US-CT-EAST-HARTFORD-OBG--400-Main-St--BLDG-OBG/Intern--Commercial-Engines-Production-Chief-Organization--Summer-2027-_01879223",
-    "employment_type": "internship",
-    "category": "Other",
-    "h1b_status": "unknown",
-    "sponsorship_evidence": "",
-    "h1b_mentioned": false,
-    "salary_min": null,
-    "salary_max": null,
-    "salary_currency": "",
-    "salary_period": "",
-    "salary_text": "",
-    "keywords": [
-      "Excel",
-      "supply chain",
-      "compliance",
-      "contracts"
-    ],
-    "updated_at": "",
-    "first_seen_at": "2026-09-30T22:30:14.606761+00:00",
-    "enriched_at": "2026-09-30T22:22:36.850348+00:00"
-  },
-  {
-    "company": "RTX",
-    "fortune_rank": 49,
     "title": "Principal Specialist, Project Management (Risk and Opportunity Manager)",
     "location": "US-MA-ANDOVER-AN0 ~ 366 Lowell St ~ BLDG AN0",
     "url": "https://globalhr.wd5.myworkdayjobs.com/en-US/REC_RTX_Ext_Gateway/job/US-MA-ANDOVER-AN0--366-Lowell-St--BLDG-AN0/Principal-Specialist--Project-Management--Risk-and-Opportunity-Manager-_01868512",
@@ -179117,34 +178759,6 @@
     "updated_at": "",
     "first_seen_at": "2026-09-30T22:30:14.606761+00:00",
     "enriched_at": "2026-09-30T22:22:37.062307+00:00"
-  },
-  {
-    "company": "RTX",
-    "fortune_rank": 49,
-    "title": "Principal Specialist, Contracts (Hybrid)",
-    "location": "US-AZ-TUCSON-9030 ~ 9030 S Rita Rd ~ BLDG 9030",
-    "url": "https://globalhr.wd5.myworkdayjobs.com/en-US/REC_RTX_Ext_Gateway/job/US-AZ-TUCSON-9030--9030-S-Rita-Rd--BLDG-9030/Principal-Specialist--Contracts--Hybrid-_01879020",
-    "source": "workday",
-    "external_id": "/job/US-AZ-TUCSON-9030--9030-S-Rita-Rd--BLDG-9030/Principal-Specialist--Contracts--Hybrid-_01879020",
-    "employment_type": "full-time",
-    "category": "Other",
-    "h1b_status": "unknown",
-    "sponsorship_evidence": "",
-    "h1b_mentioned": false,
-    "salary_min": null,
-    "salary_max": null,
-    "salary_currency": "",
-    "salary_period": "",
-    "salary_text": "",
-    "keywords": [
-      "supply chain",
-      "procurement",
-      "compliance",
-      "contracts"
-    ],
-    "updated_at": "",
-    "first_seen_at": "2026-09-30T22:30:14.606761+00:00",
-    "enriched_at": "2026-09-30T22:22:37.074814+00:00"
   },
   {
     "company": "RTX",
@@ -180963,66 +180577,6 @@
     "updated_at": "",
     "first_seen_at": "2026-09-30T05:44:19.820688+00:00",
     "enriched_at": "2026-09-30T05:37:36.730070+00:00"
-  },
-  {
-    "company": "RTX",
-    "fortune_rank": 49,
-    "title": "Industrial Engineering Co-op (Summer/Fall 2027)",
-    "location": "US-IA-CEDAR RAPIDS-108 ~ 400 Collins Rd NE ~ BLDG 108",
-    "url": "https://globalhr.wd5.myworkdayjobs.com/en-US/REC_RTX_Ext_Gateway/job/US-IA-CEDAR-RAPIDS-108--400-Collins-Rd-NE--BLDG-108/Industrial-Engineering-Co-op--Summer-Fall-2027-_01874877",
-    "source": "workday",
-    "external_id": "/job/US-IA-CEDAR-RAPIDS-108--400-Collins-Rd-NE--BLDG-108/Industrial-Engineering-Co-op--Summer-Fall-2027-_01874877",
-    "employment_type": "internship",
-    "category": "Engineering",
-    "h1b_status": "unknown",
-    "sponsorship_evidence": "",
-    "h1b_mentioned": false,
-    "salary_min": null,
-    "salary_max": null,
-    "salary_currency": "",
-    "salary_period": "",
-    "salary_text": "",
-    "keywords": [
-      "Excel",
-      "CAD",
-      "SolidWorks",
-      "recruiting",
-      "compliance",
-      "contracts"
-    ],
-    "updated_at": "",
-    "first_seen_at": "2026-09-30T05:44:19.820688+00:00",
-    "enriched_at": "2026-09-30T05:37:36.745911+00:00"
-  },
-  {
-    "company": "RTX",
-    "fortune_rank": 49,
-    "title": "Industrial Engineering Co-op (Spring/Summer 2027)",
-    "location": "US-IA-CEDAR RAPIDS-108 ~ 400 Collins Rd NE ~ BLDG 108",
-    "url": "https://globalhr.wd5.myworkdayjobs.com/en-US/REC_RTX_Ext_Gateway/job/US-IA-CEDAR-RAPIDS-108--400-Collins-Rd-NE--BLDG-108/Industrial-Engineering-Co-op--Spring-Summer-2027-_01874876",
-    "source": "workday",
-    "external_id": "/job/US-IA-CEDAR-RAPIDS-108--400-Collins-Rd-NE--BLDG-108/Industrial-Engineering-Co-op--Spring-Summer-2027-_01874876",
-    "employment_type": "internship",
-    "category": "Engineering",
-    "h1b_status": "unknown",
-    "sponsorship_evidence": "",
-    "h1b_mentioned": false,
-    "salary_min": null,
-    "salary_max": null,
-    "salary_currency": "",
-    "salary_period": "",
-    "salary_text": "",
-    "keywords": [
-      "Excel",
-      "CAD",
-      "SolidWorks",
-      "recruiting",
-      "compliance",
-      "contracts"
-    ],
-    "updated_at": "",
-    "first_seen_at": "2026-09-30T05:44:19.820688+00:00",
-    "enriched_at": "2026-09-30T05:37:36.755918+00:00"
   },
   {
     "company": "RTX",
@@ -188478,37 +188032,6 @@
   {
     "company": "RTX",
     "fortune_rank": 49,
-    "title": "Senior Manager, Product Owner (Remote)",
-    "location": "US-CT-REMOTE",
-    "url": "https://globalhr.wd5.myworkdayjobs.com/en-US/REC_RTX_Ext_Gateway/job/US-CT-REMOTE/Senior-Manager--Product-Owner--Remote-_01876477",
-    "source": "workday",
-    "external_id": "/job/US-CT-REMOTE/Senior-Manager--Product-Owner--Remote-_01876477",
-    "employment_type": "full-time",
-    "category": "Other",
-    "h1b_status": "unknown",
-    "sponsorship_evidence": "",
-    "h1b_mentioned": false,
-    "salary_min": null,
-    "salary_max": null,
-    "salary_currency": "",
-    "salary_period": "",
-    "salary_text": "",
-    "keywords": [
-      "AWS",
-      "Azure",
-      "analytics",
-      "supply chain",
-      "recruiting",
-      "compliance",
-      "contracts"
-    ],
-    "updated_at": "",
-    "first_seen_at": "2026-09-28T23:30:10.107160+00:00",
-    "enriched_at": "2026-09-28T23:23:21.786823+00:00"
-  },
-  {
-    "company": "RTX",
-    "fortune_rank": 49,
     "title": "Sr. Engineer,  Cyber Call Manager - CUCM (Onsite - Largo, FL) TS/SCI clearance required",
     "location": "US-FL-LARGO-382SS ~ 7887 Bryan Dairy Rd. ~ BLDG 100",
     "url": "https://globalhr.wd5.myworkdayjobs.com/en-US/REC_RTX_Ext_Gateway/job/US-FL-LARGO-382SS--7887-Bryan-Dairy-Rd--BLDG-100/Sr-Engineer---Cyber-Call-Manager---CUCM--Onsite---Largo--FL--TS-SCI-clearance-required_01878148",
@@ -190729,7 +190252,7 @@
     ],
     "updated_at": "",
     "first_seen_at": "2026-09-27T05:28:47.212288+00:00",
-    "enriched_at": "2026-09-27T05:22:42.414387+00:00"
+    "enriched_at": "2026-10-04T05:56:43.818401+00:00"
   },
   {
     "company": "RTX",
@@ -200440,33 +199963,6 @@
   {
     "company": "RTX",
     "fortune_rank": 49,
-    "title": "Principal Specialist, Contracts (Onsite)",
-    "location": "US-TX-RICHARDSON-C37 ~ 1737 Cityline Dr ~ CITYLINE C37",
-    "url": "https://globalhr.wd5.myworkdayjobs.com/en-US/REC_RTX_Ext_Gateway/job/US-TX-RICHARDSON-C37--1737-Cityline-Dr--CITYLINE-C37/Principal-Specialist--Contracts--Onsite-_01875945",
-    "source": "workday",
-    "external_id": "/job/US-TX-RICHARDSON-C37--1737-Cityline-Dr--CITYLINE-C37/Principal-Specialist--Contracts--Onsite-_01875945",
-    "employment_type": "full-time",
-    "category": "Other",
-    "h1b_status": "unknown",
-    "sponsorship_evidence": "",
-    "h1b_mentioned": false,
-    "salary_min": null,
-    "salary_max": null,
-    "salary_currency": "",
-    "salary_period": "",
-    "salary_text": "",
-    "keywords": [
-      "risk management",
-      "compliance",
-      "contracts"
-    ],
-    "updated_at": "",
-    "first_seen_at": "2026-09-23T17:12:38.935699+00:00",
-    "enriched_at": "2026-09-30T22:22:38.753163+00:00"
-  },
-  {
-    "company": "RTX",
-    "fortune_rank": 49,
     "title": "SAP Quality Management  Functional Analyst (Remote)",
     "location": "US-CT-REMOTE",
     "url": "https://globalhr.wd5.myworkdayjobs.com/en-US/REC_RTX_Ext_Gateway/job/US-CT-REMOTE/SAP-Quality-Management--Functional-Analyst--Remote-_01876853",
@@ -207343,7 +206839,7 @@
     ],
     "updated_at": "",
     "first_seen_at": "2026-09-20T05:00:06.460185+00:00",
-    "enriched_at": "2026-09-27T05:22:42.425299+00:00"
+    "enriched_at": "2026-10-04T05:56:43.826769+00:00"
   },
   {
     "company": "RTX",
@@ -207374,7 +206870,7 @@
     ],
     "updated_at": "",
     "first_seen_at": "2026-09-20T05:00:06.460185+00:00",
-    "enriched_at": "2026-09-27T05:22:42.437353+00:00"
+    "enriched_at": "2026-10-04T05:56:43.836194+00:00"
   },
   {
     "company": "RTX",
@@ -219586,7 +219082,7 @@
     ],
     "updated_at": "",
     "first_seen_at": "2026-09-13T04:57:05.478844+00:00",
-    "enriched_at": "2026-09-27T05:22:42.448420+00:00"
+    "enriched_at": "2026-10-04T05:56:43.844821+00:00"
   },
   {
     "company": "RTX",
@@ -219613,7 +219109,7 @@
     ],
     "updated_at": "",
     "first_seen_at": "2026-09-13T04:57:05.478844+00:00",
-    "enriched_at": "2026-09-27T05:22:42.462199+00:00"
+    "enriched_at": "2026-10-04T05:56:43.855690+00:00"
   },
   {
     "company": "RTX",
@@ -237027,7 +236523,7 @@
     ],
     "updated_at": "",
     "first_seen_at": "2026-08-29T21:06:04.160747+00:00",
-    "enriched_at": "2026-09-27T05:22:42.475843+00:00"
+    "enriched_at": "2026-10-04T05:56:43.866491+00:00"
   },
   {
     "company": "RTX",
@@ -249359,7 +248855,7 @@
     ],
     "updated_at": "",
     "first_seen_at": "2026-09-18T16:37:42.131228+00:00",
-    "enriched_at": "2026-09-27T05:22:42.489128+00:00"
+    "enriched_at": "2026-10-04T05:56:43.876987+00:00"
   },
   {
     "company": "RTX",
@@ -276167,32 +275663,6 @@
   {
     "company": "Lowe's",
     "fortune_rank": 52,
-    "title": "Sr. Industrial Engineer",
-    "location": "Adairsville, GA (Northern GA) RDC 1457",
-    "url": "https://lowes.wd5.myworkdayjobs.com/en-US/LWS_External_CS/job/Adairsville-GA-Northern-GA-RDC-1457/Sr-Industrial-Engineer_JR-02661231",
-    "source": "workday",
-    "external_id": "/job/Adairsville-GA-Northern-GA-RDC-1457/Sr-Industrial-Engineer_JR-02661231",
-    "employment_type": "full-time",
-    "category": "Engineering",
-    "h1b_status": "unknown",
-    "sponsorship_evidence": "",
-    "h1b_mentioned": false,
-    "salary_min": null,
-    "salary_max": null,
-    "salary_currency": "",
-    "salary_period": "",
-    "salary_text": "",
-    "keywords": [
-      "supply chain",
-      "sales"
-    ],
-    "updated_at": "",
-    "first_seen_at": "2026-10-01T22:55:30.968656+00:00",
-    "enriched_at": "2026-10-01T22:52:44.419382+00:00"
-  },
-  {
-    "company": "Lowe's",
-    "fortune_rank": 52,
     "title": "Full Time - Asset Protection Agent - Day",
     "location": "Asheville, NC (W Asheville) 0526",
     "url": "https://lowes.wd5.myworkdayjobs.com/en-US/LWS_External_CS/job/Asheville-NC-W-Asheville-0526/Full-Time---Asset-Protection-Agent---Day_JR-02661476-1",
@@ -281285,7 +280755,7 @@
     ],
     "updated_at": "",
     "first_seen_at": "2026-09-27T05:28:47.212288+00:00",
-    "enriched_at": "2026-09-27T05:26:46.443205+00:00"
+    "enriched_at": "2026-10-04T06:01:04.352496+00:00"
   },
   {
     "company": "Lowe's",
@@ -281311,7 +280781,7 @@
     ],
     "updated_at": "",
     "first_seen_at": "2026-09-27T05:28:47.212288+00:00",
-    "enriched_at": "2026-09-27T05:26:46.450005+00:00"
+    "enriched_at": "2026-10-04T06:01:04.357912+00:00"
   },
   {
     "company": "Lowe's",
@@ -281336,7 +280806,7 @@
     ],
     "updated_at": "",
     "first_seen_at": "2026-09-27T05:28:47.212288+00:00",
-    "enriched_at": "2026-09-27T05:26:46.455331+00:00"
+    "enriched_at": "2026-10-04T06:01:04.362121+00:00"
   },
   {
     "company": "Lowe's",
@@ -294347,32 +293817,6 @@
     "company": "Lowe's",
     "fortune_rank": 52,
     "title": "Full Time - CDL Delivery Driver",
-    "location": "Hilliard, OH (West Columbus) 0037",
-    "url": "https://lowes.wd5.myworkdayjobs.com/en-US/LWS_External_CS/job/Hilliard-OH-West-Columbus-0037/Full-Time---CDL-Delivery-Driver_JR-02622717",
-    "source": "workday",
-    "external_id": "/job/Hilliard-OH-West-Columbus-0037/Full-Time---CDL-Delivery-Driver_JR-02622717",
-    "employment_type": "full-time",
-    "category": "Other",
-    "h1b_status": "unknown",
-    "sponsorship_evidence": "",
-    "h1b_mentioned": false,
-    "salary_min": null,
-    "salary_max": null,
-    "salary_currency": "",
-    "salary_period": "",
-    "salary_text": "",
-    "keywords": [
-      "sales",
-      "compliance"
-    ],
-    "updated_at": "",
-    "first_seen_at": "2026-08-20T19:14:29.867812+00:00",
-    "enriched_at": "2026-10-02T05:46:33.486131+00:00"
-  },
-  {
-    "company": "Lowe's",
-    "fortune_rank": 52,
-    "title": "Full Time - CDL Delivery Driver",
     "location": "Kansas City, MO (Gladstone) 2767",
     "url": "https://lowes.wd5.myworkdayjobs.com/en-US/LWS_External_CS/job/Kansas-City-MO-Gladstone-2767/Full-Time---CDL-Delivery-Driver_JR-02624627",
     "source": "workday",
@@ -294475,56 +293919,6 @@
     "company": "Lowe's",
     "fortune_rank": 52,
     "title": "Full Time - Merchandising Service Associate - Day",
-    "location": "Dallas, TX (Central Dallas) 2280",
-    "url": "https://lowes.wd5.myworkdayjobs.com/en-US/LWS_External_CS/job/Dallas-TX-Central-Dallas-2280/Full-Time---Merchandising-Service-Associate---Day_JR-02622903",
-    "source": "workday",
-    "external_id": "/job/Dallas-TX-Central-Dallas-2280/Full-Time---Merchandising-Service-Associate---Day_JR-02622903",
-    "employment_type": "full-time",
-    "category": "Other",
-    "h1b_status": "unknown",
-    "sponsorship_evidence": "",
-    "h1b_mentioned": false,
-    "salary_min": null,
-    "salary_max": null,
-    "salary_currency": "",
-    "salary_period": "",
-    "salary_text": "",
-    "keywords": [
-      "sales"
-    ],
-    "updated_at": "",
-    "first_seen_at": "2026-08-20T19:14:29.867812+00:00",
-    "enriched_at": "2026-10-02T05:46:33.506765+00:00"
-  },
-  {
-    "company": "Lowe's",
-    "fortune_rank": 52,
-    "title": "Full Time - Merchandising Service Associate - Day",
-    "location": "Indianapolis, IN (W Indianapolis) 0275",
-    "url": "https://lowes.wd5.myworkdayjobs.com/en-US/LWS_External_CS/job/Indianapolis-IN-W-Indianapolis-0275/Full-Time---Merchandising-Service-Associate---Day_JR-02622931",
-    "source": "workday",
-    "external_id": "/job/Indianapolis-IN-W-Indianapolis-0275/Full-Time---Merchandising-Service-Associate---Day_JR-02622931",
-    "employment_type": "full-time",
-    "category": "Other",
-    "h1b_status": "unknown",
-    "sponsorship_evidence": "",
-    "h1b_mentioned": false,
-    "salary_min": null,
-    "salary_max": null,
-    "salary_currency": "",
-    "salary_period": "",
-    "salary_text": "",
-    "keywords": [
-      "sales"
-    ],
-    "updated_at": "",
-    "first_seen_at": "2026-08-20T19:14:29.867812+00:00",
-    "enriched_at": "2026-10-02T05:46:33.518390+00:00"
-  },
-  {
-    "company": "Lowe's",
-    "fortune_rank": 52,
-    "title": "Full Time - Merchandising Service Associate - Day",
     "location": "Staten Island, NY (NW Staten Island) 1583",
     "url": "https://lowes.wd5.myworkdayjobs.com/en-US/LWS_External_CS/job/Staten-Island-NY-NW-Staten-Island-1583/Full-Time---Merchandising-Service-Associate---Day_JR-02624473-1",
     "source": "workday",
@@ -294595,31 +293989,6 @@
     "updated_at": "",
     "first_seen_at": "2026-08-24T19:14:50.434902+00:00",
     "enriched_at": "2026-09-29T05:53:01.138645+00:00"
-  },
-  {
-    "company": "Lowe's",
-    "fortune_rank": 52,
-    "title": "Full Time - Sales Associate - Building Materials - Closing",
-    "location": "Toledo, OH (SW Toledo) 1643",
-    "url": "https://lowes.wd5.myworkdayjobs.com/en-US/LWS_External_CS/job/Toledo-OH-SW-Toledo-1643/Full-Time---Sales-Associate---Building-Materials---Closing_JR-02622692",
-    "source": "workday",
-    "external_id": "/job/Toledo-OH-SW-Toledo-1643/Full-Time---Sales-Associate---Building-Materials---Closing_JR-02622692",
-    "employment_type": "full-time",
-    "category": "Sales & Marketing",
-    "h1b_status": "unknown",
-    "sponsorship_evidence": "",
-    "h1b_mentioned": false,
-    "salary_min": null,
-    "salary_max": null,
-    "salary_currency": "",
-    "salary_period": "",
-    "salary_text": "",
-    "keywords": [
-      "sales"
-    ],
-    "updated_at": "",
-    "first_seen_at": "2026-08-20T13:24:11.089403+00:00",
-    "enriched_at": "2026-10-02T05:46:33.529979+00:00"
   },
   {
     "company": "Lowe's",
@@ -294695,56 +294064,6 @@
     "updated_at": "",
     "first_seen_at": "2026-08-25T02:04:19.043316+00:00",
     "enriched_at": "2026-09-29T22:26:01.814611+00:00"
-  },
-  {
-    "company": "Lowe's",
-    "fortune_rank": 52,
-    "title": "Full Time - Sales Associate - Inside Lawn & Garden - Closing",
-    "location": "Appleton, WI (Buchanan) 2486",
-    "url": "https://lowes.wd5.myworkdayjobs.com/en-US/LWS_External_CS/job/Appleton-WI-Buchanan-2486/Full-Time---Sales-Associate---Inside-Lawn---Garden---Closing_JR-02623065",
-    "source": "workday",
-    "external_id": "/job/Appleton-WI-Buchanan-2486/Full-Time---Sales-Associate---Inside-Lawn---Garden---Closing_JR-02623065",
-    "employment_type": "full-time",
-    "category": "Sales & Marketing",
-    "h1b_status": "unknown",
-    "sponsorship_evidence": "",
-    "h1b_mentioned": false,
-    "salary_min": null,
-    "salary_max": null,
-    "salary_currency": "",
-    "salary_period": "",
-    "salary_text": "",
-    "keywords": [
-      "sales"
-    ],
-    "updated_at": "",
-    "first_seen_at": "2026-08-21T02:09:44.611825+00:00",
-    "enriched_at": "2026-10-02T22:24:30.446236+00:00"
-  },
-  {
-    "company": "Lowe's",
-    "fortune_rank": 52,
-    "title": "Full Time - Sales Associate - Outside Lawn & Garden - Closing",
-    "location": "Appleton, WI (Buchanan) 2486",
-    "url": "https://lowes.wd5.myworkdayjobs.com/en-US/LWS_External_CS/job/Appleton-WI-Buchanan-2486/Full-Time---Sales-Associate---Outside-Lawn---Garden---Closing_JR-02623068",
-    "source": "workday",
-    "external_id": "/job/Appleton-WI-Buchanan-2486/Full-Time---Sales-Associate---Outside-Lawn---Garden---Closing_JR-02623068",
-    "employment_type": "full-time",
-    "category": "Sales & Marketing",
-    "h1b_status": "unknown",
-    "sponsorship_evidence": "",
-    "h1b_mentioned": false,
-    "salary_min": null,
-    "salary_max": null,
-    "salary_currency": "",
-    "salary_period": "",
-    "salary_text": "",
-    "keywords": [
-      "sales"
-    ],
-    "updated_at": "",
-    "first_seen_at": "2026-08-21T02:09:44.611825+00:00",
-    "enriched_at": "2026-10-02T22:24:30.452637+00:00"
   },
   {
     "company": "Lowe's",
@@ -303421,6 +302740,89 @@
   {
     "company": "Cisco Systems",
     "fortune_rank": 83,
+    "title": "Business Development Manager - Splunk PBST-  NatSec",
+    "location": "Remote - Virginia, USA",
+    "url": "https://cisco.wd5.myworkdayjobs.com/en-US/Cisco_Careers/job/Remote---Virginia-USA/Business-Development-Manager---Splunk-PBST---NatSec_2025721-1",
+    "source": "workday",
+    "external_id": "/job/Remote---Virginia-USA/Business-Development-Manager---Splunk-PBST---NatSec_2025721-1",
+    "employment_type": "full-time",
+    "category": "Sales & Marketing",
+    "h1b_status": "unknown",
+    "sponsorship_evidence": "",
+    "h1b_mentioned": false,
+    "salary_min": null,
+    "salary_max": null,
+    "salary_currency": "",
+    "salary_period": "",
+    "salary_text": "",
+    "keywords": [
+      "analytics",
+      "procurement",
+      "sales",
+      "legal",
+      "contracts"
+    ],
+    "updated_at": "",
+    "first_seen_at": "2026-10-04T06:03:15.979436+00:00",
+    "enriched_at": "2026-10-04T06:01:31.267080+00:00"
+  },
+  {
+    "company": "Cisco Systems",
+    "fortune_rank": 83,
+    "title": "Strategy & Planning Manager - Enterprise AI Programs & Governance , Hybrid",
+    "location": "RTP, North Carolina, US",
+    "url": "https://cisco.wd5.myworkdayjobs.com/en-US/Cisco_Careers/job/RTP-North-Carolina-US/Strategy---Planning-Manager---Enterprise-AI-Programs---Governance---Hybrid_2024069",
+    "source": "workday",
+    "external_id": "/job/RTP-North-Carolina-US/Strategy---Planning-Manager---Enterprise-AI-Programs---Governance---Hybrid_2024069",
+    "employment_type": "full-time",
+    "category": "Other",
+    "h1b_status": "unknown",
+    "sponsorship_evidence": "",
+    "h1b_mentioned": false,
+    "salary_min": null,
+    "salary_max": null,
+    "salary_currency": "",
+    "salary_period": "",
+    "salary_text": "",
+    "keywords": [
+      "risk management",
+      "sales",
+      "legal"
+    ],
+    "updated_at": "",
+    "first_seen_at": "2026-10-04T06:03:15.979436+00:00",
+    "enriched_at": "2026-10-04T06:01:31.282142+00:00"
+  },
+  {
+    "company": "Cisco Systems",
+    "fortune_rank": 83,
+    "title": "Strategy & Planning Manager - Enterprise AI Programs & Governance, Hybrid",
+    "location": "RTP, North Carolina, US",
+    "url": "https://cisco.wd5.myworkdayjobs.com/en-US/Cisco_Careers/job/RTP-North-Carolina-US/Strategy---Planning-Manager---Enterprise-AI-Programs---Governance--Hybrid_2024065",
+    "source": "workday",
+    "external_id": "/job/RTP-North-Carolina-US/Strategy---Planning-Manager---Enterprise-AI-Programs---Governance--Hybrid_2024065",
+    "employment_type": "full-time",
+    "category": "Other",
+    "h1b_status": "unknown",
+    "sponsorship_evidence": "",
+    "h1b_mentioned": false,
+    "salary_min": null,
+    "salary_max": null,
+    "salary_currency": "",
+    "salary_period": "",
+    "salary_text": "",
+    "keywords": [
+      "risk management",
+      "sales",
+      "legal"
+    ],
+    "updated_at": "",
+    "first_seen_at": "2026-10-04T06:03:15.979436+00:00",
+    "enriched_at": "2026-10-04T06:01:31.292744+00:00"
+  },
+  {
+    "company": "Cisco Systems",
+    "fortune_rank": 83,
     "title": "Lead Photonics Validation Engineer",
     "location": "Santa Monica, California, US",
     "url": "https://cisco.wd5.myworkdayjobs.com/en-US/Cisco_Careers/job/Santa-Monica-California-US/Lead-Photonics-Validation-Engineer_2023651",
@@ -303943,32 +303345,6 @@
   {
     "company": "Cisco Systems",
     "fortune_rank": 83,
-    "title": "Marketing Manager",
-    "location": "Tampa, Florida, US",
-    "url": "https://cisco.wd5.myworkdayjobs.com/en-US/Cisco_Careers/job/Tampa-Florida-US/Marketing-Manager_2024122",
-    "source": "workday",
-    "external_id": "/job/Tampa-Florida-US/Marketing-Manager_2024122",
-    "employment_type": "full-time",
-    "category": "Sales & Marketing",
-    "h1b_status": "unknown",
-    "sponsorship_evidence": "",
-    "h1b_mentioned": false,
-    "salary_min": null,
-    "salary_max": null,
-    "salary_currency": "",
-    "salary_period": "",
-    "salary_text": "",
-    "keywords": [
-      "logistics",
-      "sales"
-    ],
-    "updated_at": "",
-    "first_seen_at": "2026-10-01T22:55:30.968656+00:00",
-    "enriched_at": "2026-10-01T22:53:16.982080+00:00"
-  },
-  {
-    "company": "Cisco Systems",
-    "fortune_rank": 83,
     "title": "Component Engineer (Optical Suppliers & Transceivers) - San Jose, CA Hybrid",
     "location": "San Jose, California, US",
     "url": "https://cisco.wd5.myworkdayjobs.com/en-US/Cisco_Careers/job/San-Jose-California-US/Component-Engineer--Optical-Suppliers---Transceivers----Hybrid_2023967",
@@ -304102,31 +303478,6 @@
     "updated_at": "",
     "first_seen_at": "2026-10-01T22:55:30.968656+00:00",
     "enriched_at": "2026-10-01T22:53:17.022731+00:00"
-  },
-  {
-    "company": "Cisco Systems",
-    "fortune_rank": 83,
-    "title": "Marketing Manager",
-    "location": "Dallas, Texas, US",
-    "url": "https://cisco.wd5.myworkdayjobs.com/en-US/Cisco_Careers/job/Dallas-Texas-US/Marketing-Manager_2026881",
-    "source": "workday",
-    "external_id": "/job/Dallas-Texas-US/Marketing-Manager_2026881",
-    "employment_type": "full-time",
-    "category": "Sales & Marketing",
-    "h1b_status": "unknown",
-    "sponsorship_evidence": "",
-    "h1b_mentioned": false,
-    "salary_min": null,
-    "salary_max": null,
-    "salary_currency": "",
-    "salary_period": "",
-    "salary_text": "",
-    "keywords": [
-      "sales"
-    ],
-    "updated_at": "",
-    "first_seen_at": "2026-10-01T22:55:30.968656+00:00",
-    "enriched_at": "2026-10-01T22:53:17.032730+00:00"
   },
   {
     "company": "Cisco Systems",
@@ -306056,7 +305407,7 @@
     ],
     "updated_at": "",
     "first_seen_at": "2026-09-27T05:28:47.212288+00:00",
-    "enriched_at": "2026-09-27T05:27:12.782969+00:00"
+    "enriched_at": "2026-10-04T06:01:31.303949+00:00"
   },
   {
     "company": "Cisco Systems",
@@ -310563,31 +309914,6 @@
     "updated_at": "",
     "first_seen_at": "2026-09-28T23:30:10.107160+00:00",
     "enriched_at": "2026-09-28T23:28:41.138172+00:00"
-  },
-  {
-    "company": "Nike",
-    "fortune_rank": 99,
-    "title": "Distribution Center Operations Manager",
-    "location": "Atlanta, Georgia",
-    "url": "https://nike.wd1.myworkdayjobs.com/en-US/nke/job/Atlanta-Georgia/Distribution-Center-Operations-Manager_R-93859",
-    "source": "workday",
-    "external_id": "/job/Atlanta-Georgia/Distribution-Center-Operations-Manager_R-93859",
-    "employment_type": "full-time",
-    "category": "Operations & Supply Chain",
-    "h1b_status": "unknown",
-    "sponsorship_evidence": "",
-    "h1b_mentioned": false,
-    "salary_min": null,
-    "salary_max": null,
-    "salary_currency": "",
-    "salary_period": "",
-    "salary_text": "",
-    "keywords": [
-      "Excel"
-    ],
-    "updated_at": "",
-    "first_seen_at": "2026-09-26T16:34:09.415223+00:00",
-    "enriched_at": "2026-10-03T21:25:51.540375+00:00"
   },
   {
     "company": "Nike",
@@ -323968,7 +323294,7 @@
     ],
     "updated_at": "",
     "first_seen_at": "2026-09-20T05:00:06.460185+00:00",
-    "enriched_at": "2026-09-27T05:28:21.229433+00:00"
+    "enriched_at": "2026-10-04T06:02:48.740572+00:00"
   },
   {
     "company": "Thermo Fisher Scientific",
@@ -388189,7 +387515,7 @@
     ],
     "updated_at": "",
     "first_seen_at": "2026-09-30T22:30:14.606761+00:00",
-    "enriched_at": "2026-09-27T05:28:39.537198+00:00"
+    "enriched_at": "2026-10-04T06:03:07.340445+00:00"
   },
   {
     "company": "Broadcom",
@@ -388320,7 +387646,7 @@
     ],
     "updated_at": "",
     "first_seen_at": "2026-08-15T02:30:47.614898+00:00",
-    "enriched_at": "2026-09-27T05:28:39.466344+00:00"
+    "enriched_at": "2026-10-04T06:03:07.346643+00:00"
   },
   {
     "company": "Broadcom",
@@ -388823,7 +388149,7 @@
     ],
     "updated_at": "",
     "first_seen_at": "2026-08-15T02:30:47.614898+00:00",
-    "enriched_at": "2026-09-27T05:28:38.925037+00:00"
+    "enriched_at": "2026-10-04T06:03:07.351073+00:00"
   },
   {
     "company": "Broadcom",
@@ -389075,7 +388401,7 @@
     ],
     "updated_at": "",
     "first_seen_at": "2026-08-15T02:30:47.614898+00:00",
-    "enriched_at": "2026-09-27T05:28:38.936942+00:00"
+    "enriched_at": "2026-10-04T06:03:07.360536+00:00"
   },
   {
     "company": "Broadcom",
@@ -389101,7 +388427,7 @@
     ],
     "updated_at": "",
     "first_seen_at": "2026-08-15T02:30:47.614898+00:00",
-    "enriched_at": "2026-09-27T05:28:38.943523+00:00"
+    "enriched_at": "2026-10-04T06:03:07.365648+00:00"
   },
   {
     "company": "Broadcom",
@@ -389352,7 +388678,7 @@
     ],
     "updated_at": "",
     "first_seen_at": "2026-08-15T02:30:47.614898+00:00",
-    "enriched_at": "2026-09-27T05:28:38.950788+00:00"
+    "enriched_at": "2026-10-04T06:03:07.371290+00:00"
   },
   {
     "company": "Broadcom",
@@ -389769,7 +389095,7 @@
     "keywords": [],
     "updated_at": "",
     "first_seen_at": "2026-08-15T02:30:47.614898+00:00",
-    "enriched_at": "2026-09-27T05:28:38.960931+00:00"
+    "enriched_at": "2026-10-04T06:03:07.379331+00:00"
   },
   {
     "company": "Broadcom",
@@ -390012,7 +389338,7 @@
     ],
     "updated_at": "",
     "first_seen_at": "2026-08-15T02:30:47.614898+00:00",
-    "enriched_at": "2026-09-27T05:28:38.966977+00:00"
+    "enriched_at": "2026-10-04T06:03:07.383825+00:00"
   },
   {
     "company": "Broadcom",
@@ -390212,7 +389538,7 @@
     ],
     "updated_at": "",
     "first_seen_at": "2026-08-15T02:30:47.614898+00:00",
-    "enriched_at": "2026-09-27T05:28:38.979357+00:00"
+    "enriched_at": "2026-10-04T06:03:07.393642+00:00"
   },
   {
     "company": "Broadcom",
@@ -390290,7 +389616,7 @@
     ],
     "updated_at": "",
     "first_seen_at": "2026-08-15T02:30:47.614898+00:00",
-    "enriched_at": "2026-09-27T05:28:38.994050+00:00"
+    "enriched_at": "2026-10-04T06:03:07.405380+00:00"
   },
   {
     "company": "Broadcom",
@@ -390437,7 +389763,7 @@
     "keywords": [],
     "updated_at": "",
     "first_seen_at": "2026-08-15T02:30:47.614898+00:00",
-    "enriched_at": "2026-09-27T05:28:39.000236+00:00"
+    "enriched_at": "2026-10-04T06:03:07.410166+00:00"
   },
   {
     "company": "Broadcom",
@@ -390464,7 +389790,7 @@
     ],
     "updated_at": "",
     "first_seen_at": "2026-08-15T02:30:47.614898+00:00",
-    "enriched_at": "2026-09-27T05:28:39.022039+00:00"
+    "enriched_at": "2026-10-04T06:03:07.420651+00:00"
   },
   {
     "company": "Broadcom",
@@ -390490,7 +389816,7 @@
     ],
     "updated_at": "",
     "first_seen_at": "2026-08-15T02:30:47.614898+00:00",
-    "enriched_at": "2026-09-27T05:28:39.035476+00:00"
+    "enriched_at": "2026-10-04T06:03:07.431242+00:00"
   },
   {
     "company": "Broadcom",
@@ -390515,7 +389841,7 @@
     ],
     "updated_at": "",
     "first_seen_at": "2026-08-15T02:30:47.614898+00:00",
-    "enriched_at": "2026-09-27T05:28:39.048772+00:00"
+    "enriched_at": "2026-10-04T06:03:07.437066+00:00"
   },
   {
     "company": "Broadcom",
@@ -390540,7 +389866,7 @@
     ],
     "updated_at": "",
     "first_seen_at": "2026-08-15T02:30:47.614898+00:00",
-    "enriched_at": "2026-09-27T05:28:39.058414+00:00"
+    "enriched_at": "2026-10-04T06:03:07.444604+00:00"
   },
   {
     "company": "Broadcom",
@@ -390565,7 +389891,7 @@
     ],
     "updated_at": "",
     "first_seen_at": "2026-08-15T02:30:47.614898+00:00",
-    "enriched_at": "2026-09-27T05:28:39.077766+00:00"
+    "enriched_at": "2026-10-04T06:03:07.449180+00:00"
   },
   {
     "company": "Broadcom",
@@ -390588,7 +389914,7 @@
     "keywords": [],
     "updated_at": "",
     "first_seen_at": "2026-08-15T02:30:47.614898+00:00",
-    "enriched_at": "2026-09-27T05:28:39.084975+00:00"
+    "enriched_at": "2026-10-04T06:03:07.454844+00:00"
   },
   {
     "company": "Broadcom",
@@ -390618,7 +389944,7 @@
     ],
     "updated_at": "",
     "first_seen_at": "2026-08-15T02:30:47.614898+00:00",
-    "enriched_at": "2026-09-27T05:28:39.105094+00:00"
+    "enriched_at": "2026-10-04T06:03:07.460038+00:00"
   },
   {
     "company": "Broadcom",
@@ -390644,7 +389970,7 @@
     ],
     "updated_at": "",
     "first_seen_at": "2026-08-15T02:30:47.614898+00:00",
-    "enriched_at": "2026-09-27T05:28:39.118287+00:00"
+    "enriched_at": "2026-10-04T06:03:07.470607+00:00"
   },
   {
     "company": "Broadcom",
@@ -390667,7 +389993,7 @@
     "keywords": [],
     "updated_at": "",
     "first_seen_at": "2026-08-15T02:30:47.614898+00:00",
-    "enriched_at": "2026-09-27T05:28:39.125316+00:00"
+    "enriched_at": "2026-10-04T06:03:07.475964+00:00"
   },
   {
     "company": "Broadcom",
@@ -390694,7 +390020,7 @@
     ],
     "updated_at": "",
     "first_seen_at": "2026-08-15T02:30:47.614898+00:00",
-    "enriched_at": "2026-09-27T05:28:39.139856+00:00"
+    "enriched_at": "2026-10-04T06:03:07.480126+00:00"
   },
   {
     "company": "Broadcom",
@@ -390721,7 +390047,7 @@
     ],
     "updated_at": "",
     "first_seen_at": "2026-08-15T02:30:47.614898+00:00",
-    "enriched_at": "2026-09-27T05:28:39.148146+00:00"
+    "enriched_at": "2026-10-04T06:03:07.486681+00:00"
   },
   {
     "company": "Broadcom",
@@ -390744,7 +390070,7 @@
     "keywords": [],
     "updated_at": "",
     "first_seen_at": "2026-08-15T02:30:47.614898+00:00",
-    "enriched_at": "2026-09-27T05:28:39.156499+00:00"
+    "enriched_at": "2026-10-04T06:03:07.493221+00:00"
   },
   {
     "company": "Broadcom",
@@ -390771,7 +390097,7 @@
     ],
     "updated_at": "",
     "first_seen_at": "2026-08-15T02:30:47.614898+00:00",
-    "enriched_at": "2026-09-27T05:28:39.161932+00:00"
+    "enriched_at": "2026-10-04T06:03:07.497296+00:00"
   },
   {
     "company": "Broadcom",
@@ -390794,7 +390120,7 @@
     "keywords": [],
     "updated_at": "",
     "first_seen_at": "2026-08-15T02:30:47.614898+00:00",
-    "enriched_at": "2026-09-27T05:28:39.170140+00:00"
+    "enriched_at": "2026-10-04T06:03:07.503758+00:00"
   },
   {
     "company": "Broadcom",
@@ -390819,7 +390145,7 @@
     ],
     "updated_at": "",
     "first_seen_at": "2026-08-15T02:30:47.614898+00:00",
-    "enriched_at": "2026-09-27T05:28:39.177647+00:00"
+    "enriched_at": "2026-10-04T06:03:07.509628+00:00"
   },
   {
     "company": "Broadcom",
@@ -390846,7 +390172,7 @@
     ],
     "updated_at": "",
     "first_seen_at": "2026-08-15T02:30:47.614898+00:00",
-    "enriched_at": "2026-09-27T05:28:39.195593+00:00"
+    "enriched_at": "2026-10-04T06:03:07.516037+00:00"
   },
   {
     "company": "Broadcom",
@@ -390872,7 +390198,7 @@
     ],
     "updated_at": "",
     "first_seen_at": "2026-08-15T02:30:47.614898+00:00",
-    "enriched_at": "2026-09-27T05:28:39.204240+00:00"
+    "enriched_at": "2026-10-04T06:03:07.522861+00:00"
   },
   {
     "company": "Broadcom",
@@ -390898,7 +390224,7 @@
     ],
     "updated_at": "",
     "first_seen_at": "2026-08-15T02:30:47.614898+00:00",
-    "enriched_at": "2026-09-27T05:28:39.210209+00:00"
+    "enriched_at": "2026-10-04T06:03:07.527440+00:00"
   },
   {
     "company": "Broadcom",
@@ -390921,7 +390247,7 @@
     "keywords": [],
     "updated_at": "",
     "first_seen_at": "2026-08-15T02:30:47.614898+00:00",
-    "enriched_at": "2026-09-27T05:28:39.220217+00:00"
+    "enriched_at": "2026-10-04T06:03:07.535362+00:00"
   },
   {
     "company": "Broadcom",
@@ -390944,7 +390270,7 @@
     "keywords": [],
     "updated_at": "",
     "first_seen_at": "2026-08-15T02:30:47.614898+00:00",
-    "enriched_at": "2026-09-27T05:28:39.228762+00:00"
+    "enriched_at": "2026-10-04T06:03:07.542122+00:00"
   },
   {
     "company": "Broadcom",
@@ -390969,7 +390295,7 @@
     ],
     "updated_at": "",
     "first_seen_at": "2026-08-15T02:30:47.614898+00:00",
-    "enriched_at": "2026-09-27T05:28:39.237164+00:00"
+    "enriched_at": "2026-10-04T06:03:07.548902+00:00"
   },
   {
     "company": "Broadcom",
@@ -390995,7 +390321,7 @@
     ],
     "updated_at": "",
     "first_seen_at": "2026-08-15T02:30:47.614898+00:00",
-    "enriched_at": "2026-09-27T05:28:39.244700+00:00"
+    "enriched_at": "2026-10-04T06:03:07.554928+00:00"
   },
   {
     "company": "Broadcom",
@@ -391023,7 +390349,7 @@
     ],
     "updated_at": "",
     "first_seen_at": "2026-08-15T02:30:47.614898+00:00",
-    "enriched_at": "2026-09-27T05:28:39.253614+00:00"
+    "enriched_at": "2026-10-04T06:03:07.561907+00:00"
   },
   {
     "company": "Broadcom",
@@ -391049,7 +390375,7 @@
     ],
     "updated_at": "",
     "first_seen_at": "2026-08-15T02:30:47.614898+00:00",
-    "enriched_at": "2026-09-27T05:28:39.267399+00:00"
+    "enriched_at": "2026-10-04T06:03:07.567700+00:00"
   },
   {
     "company": "Broadcom",
@@ -391075,7 +390401,7 @@
     ],
     "updated_at": "",
     "first_seen_at": "2026-08-15T02:30:47.614898+00:00",
-    "enriched_at": "2026-09-27T05:28:39.277026+00:00"
+    "enriched_at": "2026-10-04T06:03:07.575195+00:00"
   },
   {
     "company": "Broadcom",
@@ -391102,7 +390428,7 @@
     ],
     "updated_at": "",
     "first_seen_at": "2026-08-15T02:30:47.614898+00:00",
-    "enriched_at": "2026-09-27T05:28:39.286711+00:00"
+    "enriched_at": "2026-10-04T06:03:07.582792+00:00"
   },
   {
     "company": "Broadcom",
@@ -391130,7 +390456,7 @@
     ],
     "updated_at": "",
     "first_seen_at": "2026-08-15T02:30:47.614898+00:00",
-    "enriched_at": "2026-09-27T05:28:39.297499+00:00"
+    "enriched_at": "2026-10-04T06:03:07.591247+00:00"
   },
   {
     "company": "Broadcom",
@@ -391157,7 +390483,7 @@
     ],
     "updated_at": "",
     "first_seen_at": "2026-08-15T02:30:47.614898+00:00",
-    "enriched_at": "2026-09-27T05:28:39.306380+00:00"
+    "enriched_at": "2026-10-04T06:03:07.598141+00:00"
   },
   {
     "company": "Broadcom",
@@ -391182,7 +390508,7 @@
     ],
     "updated_at": "",
     "first_seen_at": "2026-08-15T02:30:47.614898+00:00",
-    "enriched_at": "2026-09-27T05:28:39.313246+00:00"
+    "enriched_at": "2026-10-04T06:03:07.603413+00:00"
   },
   {
     "company": "Broadcom",
@@ -391209,7 +390535,7 @@
     ],
     "updated_at": "",
     "first_seen_at": "2026-08-15T02:30:47.614898+00:00",
-    "enriched_at": "2026-09-27T05:28:39.320855+00:00"
+    "enriched_at": "2026-10-04T06:03:07.609260+00:00"
   },
   {
     "company": "Broadcom",
@@ -391234,7 +390560,7 @@
     ],
     "updated_at": "",
     "first_seen_at": "2026-08-15T02:30:47.614898+00:00",
-    "enriched_at": "2026-09-27T05:28:39.330466+00:00"
+    "enriched_at": "2026-10-04T06:03:07.616702+00:00"
   },
   {
     "company": "Broadcom",
@@ -391257,7 +390583,7 @@
     "keywords": [],
     "updated_at": "",
     "first_seen_at": "2026-08-15T02:30:47.614898+00:00",
-    "enriched_at": "2026-09-27T05:28:39.338163+00:00"
+    "enriched_at": "2026-10-04T06:03:07.622606+00:00"
   },
   {
     "company": "Broadcom",
@@ -391283,7 +390609,7 @@
     ],
     "updated_at": "",
     "first_seen_at": "2026-08-15T02:30:47.614898+00:00",
-    "enriched_at": "2026-09-27T05:28:39.354421+00:00"
+    "enriched_at": "2026-10-04T06:03:07.635409+00:00"
   },
   {
     "company": "Broadcom",
@@ -391311,7 +390637,7 @@
     ],
     "updated_at": "",
     "first_seen_at": "2026-08-15T02:30:47.614898+00:00",
-    "enriched_at": "2026-09-27T05:28:39.363033+00:00"
+    "enriched_at": "2026-10-04T06:03:07.642112+00:00"
   },
   {
     "company": "Broadcom",
@@ -391337,7 +390663,7 @@
     ],
     "updated_at": "",
     "first_seen_at": "2026-08-15T02:30:47.614898+00:00",
-    "enriched_at": "2026-09-27T05:28:39.372716+00:00"
+    "enriched_at": "2026-10-04T06:03:07.649709+00:00"
   },
   {
     "company": "Broadcom",
@@ -391363,7 +390689,7 @@
     ],
     "updated_at": "",
     "first_seen_at": "2026-08-15T02:30:47.614898+00:00",
-    "enriched_at": "2026-09-27T05:28:39.382960+00:00"
+    "enriched_at": "2026-10-04T06:03:07.657651+00:00"
   },
   {
     "company": "Broadcom",
@@ -391386,7 +390712,7 @@
     "keywords": [],
     "updated_at": "",
     "first_seen_at": "2026-08-15T02:30:47.614898+00:00",
-    "enriched_at": "2026-09-27T05:28:39.389865+00:00"
+    "enriched_at": "2026-10-04T06:03:07.663125+00:00"
   },
   {
     "company": "Broadcom",
@@ -391411,7 +390737,7 @@
     ],
     "updated_at": "",
     "first_seen_at": "2026-08-15T02:30:47.614898+00:00",
-    "enriched_at": "2026-09-27T05:28:39.402583+00:00"
+    "enriched_at": "2026-10-04T06:03:07.666734+00:00"
   },
   {
     "company": "Broadcom",
@@ -391436,7 +390762,7 @@
     ],
     "updated_at": "",
     "first_seen_at": "2026-08-15T02:30:47.614898+00:00",
-    "enriched_at": "2026-09-27T05:28:39.410519+00:00"
+    "enriched_at": "2026-10-04T06:03:07.672998+00:00"
   },
   {
     "company": "Broadcom",
@@ -391462,7 +390788,7 @@
     ],
     "updated_at": "",
     "first_seen_at": "2026-08-15T02:30:47.614898+00:00",
-    "enriched_at": "2026-09-27T05:28:39.425177+00:00"
+    "enriched_at": "2026-10-04T06:03:07.684747+00:00"
   },
   {
     "company": "Broadcom",
@@ -391485,7 +390811,7 @@
     "keywords": [],
     "updated_at": "",
     "first_seen_at": "2026-08-15T02:30:47.614898+00:00",
-    "enriched_at": "2026-09-27T05:28:39.433938+00:00"
+    "enriched_at": "2026-10-04T06:03:07.691715+00:00"
   },
   {
     "company": "Broadcom",
@@ -391508,7 +390834,7 @@
     "keywords": [],
     "updated_at": "",
     "first_seen_at": "2026-08-15T02:30:47.614898+00:00",
-    "enriched_at": "2026-09-27T05:28:39.439488+00:00"
+    "enriched_at": "2026-10-04T06:03:07.696485+00:00"
   },
   {
     "company": "Broadcom",
@@ -391534,7 +390860,7 @@
     ],
     "updated_at": "",
     "first_seen_at": "2026-08-15T02:30:47.614898+00:00",
-    "enriched_at": "2026-09-27T05:28:39.444218+00:00"
+    "enriched_at": "2026-10-04T06:03:07.700079+00:00"
   },
   {
     "company": "Broadcom",
@@ -391557,7 +390883,7 @@
     "keywords": [],
     "updated_at": "",
     "first_seen_at": "2026-08-15T02:30:47.614898+00:00",
-    "enriched_at": "2026-09-27T05:28:39.452115+00:00"
+    "enriched_at": "2026-10-04T06:03:07.706338+00:00"
   },
   {
     "company": "Broadcom",
@@ -391584,7 +390910,7 @@
     ],
     "updated_at": "",
     "first_seen_at": "2026-08-15T02:30:47.614898+00:00",
-    "enriched_at": "2026-09-27T05:28:39.472391+00:00"
+    "enriched_at": "2026-10-04T06:03:07.709911+00:00"
   },
   {
     "company": "Broadcom",
@@ -391611,7 +390937,7 @@
     ],
     "updated_at": "",
     "first_seen_at": "2026-08-15T02:30:47.614898+00:00",
-    "enriched_at": "2026-09-27T05:28:39.481951+00:00"
+    "enriched_at": "2026-10-04T06:03:07.717468+00:00"
   },
   {
     "company": "Broadcom",
@@ -391640,7 +390966,7 @@
     ],
     "updated_at": "",
     "first_seen_at": "2026-08-15T02:30:47.614898+00:00",
-    "enriched_at": "2026-09-27T05:28:39.492231+00:00"
+    "enriched_at": "2026-10-04T06:03:07.725627+00:00"
   },
   {
     "company": "Broadcom",
@@ -391666,7 +390992,7 @@
     ],
     "updated_at": "",
     "first_seen_at": "2026-08-15T02:30:47.614898+00:00",
-    "enriched_at": "2026-09-27T05:28:39.510519+00:00"
+    "enriched_at": "2026-10-04T06:03:07.731965+00:00"
   },
   {
     "company": "Broadcom",
@@ -391691,7 +391017,7 @@
     ],
     "updated_at": "",
     "first_seen_at": "2026-08-15T02:30:47.614898+00:00",
-    "enriched_at": "2026-09-27T05:28:39.518097+00:00"
+    "enriched_at": "2026-10-04T06:03:07.737785+00:00"
   },
   {
     "company": "Broadcom",
@@ -391716,7 +391042,7 @@
     ],
     "updated_at": "",
     "first_seen_at": "2026-08-15T02:30:47.614898+00:00",
-    "enriched_at": "2026-09-27T05:28:39.524658+00:00"
+    "enriched_at": "2026-10-04T06:03:07.742790+00:00"
   },
   {
     "company": "Hewlett Packard Enterprise",
@@ -391879,83 +391205,6 @@
     "enriched_at": "2026-10-02T05:48:38.940356+00:00"
   },
   {
-    "company": "Hewlett Packard Enterprise",
-    "fortune_rank": 133,
-    "title": "Storage Systems/Software Engineer",
-    "location": "Andover, Massachusetts, United States of America",
-    "url": "https://hpe.wd5.myworkdayjobs.com/en-US/Jobsathpe/job/Andover-Massachusetts-United-States-of-America/Storage-Systems-Software-Engineer_1215476-2",
-    "source": "workday",
-    "external_id": "/job/Andover-Massachusetts-United-States-of-America/Storage-Systems-Software-Engineer_1215476-2",
-    "employment_type": "full-time",
-    "category": "Software & IT",
-    "h1b_status": "unknown",
-    "sponsorship_evidence": "",
-    "h1b_mentioned": false,
-    "salary_min": null,
-    "salary_max": null,
-    "salary_currency": "",
-    "salary_period": "",
-    "salary_text": "",
-    "keywords": [
-      "legal"
-    ],
-    "updated_at": "",
-    "first_seen_at": "2026-10-01T22:55:30.968656+00:00",
-    "enriched_at": "2026-10-01T22:55:23.800315+00:00"
-  },
-  {
-    "company": "Hewlett Packard Enterprise",
-    "fortune_rank": 133,
-    "title": "Storage Systems/Software Engineer",
-    "location": "Andover, Massachusetts, United States of America",
-    "url": "https://hpe.wd5.myworkdayjobs.com/en-US/Jobsathpe/job/Andover-Massachusetts-United-States-of-America/Storage-Systems-Software-Engineer_1215628-3",
-    "source": "workday",
-    "external_id": "/job/Andover-Massachusetts-United-States-of-America/Storage-Systems-Software-Engineer_1215628-3",
-    "employment_type": "full-time",
-    "category": "Software & IT",
-    "h1b_status": "unknown",
-    "sponsorship_evidence": "",
-    "h1b_mentioned": false,
-    "salary_min": null,
-    "salary_max": null,
-    "salary_currency": "",
-    "salary_period": "",
-    "salary_text": "",
-    "keywords": [
-      "legal"
-    ],
-    "updated_at": "",
-    "first_seen_at": "2026-10-01T22:55:30.968656+00:00",
-    "enriched_at": "2026-10-01T22:55:23.813637+00:00"
-  },
-  {
-    "company": "Hewlett Packard Enterprise",
-    "fortune_rank": 133,
-    "title": "Enterprise Thought Leadership Program Management Lead",
-    "location": "Spring, Texas, United States of America",
-    "url": "https://hpe.wd5.myworkdayjobs.com/en-US/Jobsathpe/job/Spring-Texas-United-States-of-America/Enterprise-Thought-Leadership-Program-Management-Lead_1215123-2",
-    "source": "workday",
-    "external_id": "/job/Spring-Texas-United-States-of-America/Enterprise-Thought-Leadership-Program-Management-Lead_1215123-2",
-    "employment_type": "full-time",
-    "category": "Other",
-    "h1b_status": "unknown",
-    "sponsorship_evidence": "",
-    "h1b_mentioned": false,
-    "salary_min": null,
-    "salary_max": null,
-    "salary_currency": "",
-    "salary_period": "",
-    "salary_text": "",
-    "keywords": [
-      "procurement",
-      "sales",
-      "legal"
-    ],
-    "updated_at": "",
-    "first_seen_at": "2026-10-01T22:55:30.968656+00:00",
-    "enriched_at": "2026-10-01T22:55:23.826224+00:00"
-  },
-  {
     "company": "Applied Materials",
     "fortune_rank": 160,
     "title": "Automation & Technology Solutions Engineer",
@@ -392013,7 +391262,7 @@
     ],
     "updated_at": "",
     "first_seen_at": "2026-08-15T02:30:47.614898+00:00",
-    "enriched_at": "2026-09-27T05:28:44.532072+00:00"
+    "enriched_at": "2026-10-04T06:03:12.767835+00:00"
   },
   {
     "company": "Applied Materials",
@@ -392040,7 +391289,7 @@
     ],
     "updated_at": "",
     "first_seen_at": "2026-08-15T02:30:47.614898+00:00",
-    "enriched_at": "2026-09-27T05:28:44.556107+00:00"
+    "enriched_at": "2026-10-04T06:03:12.786924+00:00"
   },
   {
     "company": "Applied Materials",
