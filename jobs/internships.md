@@ -1,12 +1,12 @@
 # F500Tracker internships
 
-Last updated: October 04, 2026 at 06:03 UTC
+Last updated: October 04, 2026 at 12:31 UTC
 
-Current internships: 688
+Current internships: 682
 
 ## Categories
 
-[Software & IT (82)](#software-it) · [Data & AI (12)](#data-ai) · [Product & Design (1)](#product-design) · [Engineering (69)](#engineering) · [Finance & Accounting (13)](#finance-accounting) · [Sales & Marketing (16)](#sales-marketing) · [Operations & Supply Chain (48)](#operations-supply-chain) · [People & Legal (6)](#people-legal) · [Other (441)](#other)
+[Software & IT (82)](#software-it) · [Data & AI (12)](#data-ai) · [Product & Design (1)](#product-design) · [Engineering (69)](#engineering) · [Finance & Accounting (13)](#finance-accounting) · [Sales & Marketing (16)](#sales-marketing) · [Operations & Supply Chain (48)](#operations-supply-chain) · [People & Legal (6)](#people-legal) · [Other (435)](#other)
 
 <a id="software-it"></a>
 
@@ -347,7 +347,7 @@ Open positions: 6
 
 ## Other
 
-Open positions: 441
+Open positions: 435
 
 | Rank | Company | Position | Location | Category | Salary | Keywords | Sponsorship | Apply |
 |---:|---|---|---|---|---|---|---|---|
@@ -358,12 +358,10 @@ Open positions: 441
 | 112 | Northrop Grumman | 2027 Engineering Intern - Northridge CA | United States-California-Northridge | Other | Not disclosed | — | Not specified | [Apply](https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-California-Northridge/XMLNAME-2027-Engineering-Intern---Northridge-CA_R10254122-1) |
 | 112 | Northrop Grumman | 2027 College Technical Intern - McLean VA | United States-Virginia-McLean | Other | Not disclosed | analytics | Not specified | [Apply](https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-Virginia-McLean/XMLNAME-2027-College-Technical-Intern---McLean-VA_R10253146) |
 | 112 | Northrop Grumman | 2027 Project Management Intern - Huntsville AL | United States-Alabama-Huntsville | Other | $22.75–$27.5/hr | analytics · Excel | Not specified | [Apply](https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-Alabama-Huntsville/XMLNAME-2027-Project-Management-Intern---Huntsville-AL_R10253221) |
-| 112 | Northrop Grumman | 2027 Intern Optical Engineer - Redondo Beach CA | United States-California-Redondo Beach | Other | $21.5–$39/hr | — | Not specified | [Apply](https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-California-Redondo-Beach/XMLNAME-2027-Intern-Optical-Engineer---Redondo-Beach-CA_R10254063) |
 | 112 | Northrop Grumman | 2027 Vehicle Engineer Intern | United States-Mississippi-Iuka | Other | $17.5–$31.75/hr | mechanical engineering | Not specified | [Apply](https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-Mississippi-Iuka/XMLNAME-2027-Vehicle-Engineer-Intern_R10253965) |
 | 112 | Northrop Grumman | 2027 Program Management Intern - Rocket Center WV | United States-West Virginia-Rocket Center | Other | Not disclosed | — | Not specified | [Apply](https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-West-Virginia-Rocket-Center/XMLNAME-2027-Program-Management-Intern---Rocket-Center-WV_R10253921) |
 | 112 | Northrop Grumman | 2027 Intern - Systems Engineering - Nuclear Survivability/Ionizing Radiation | United States-Florida-Melbourne | Other | $18.5–$33.5/hr | mechanical engineering · electrical engineering | Not specified | [Apply](https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-Florida-Melbourne/XMLNAME-2027-Intern---Systems-Engineering---Nuclear-Survivability-Ionizing-Radiation_R10251198) |
 | 112 | Northrop Grumman | 2027 Structural Engineering Intern Dulles Va | United States-Virginia-Dulles | Other | Not disclosed | — | Not specified | [Apply](https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-Virginia-Dulles/XMLNAME-2027-Structural-Engineering-Intern-Dulles-Va_R10253912) |
-| 112 | Northrop Grumman | 2027 Pricing & Cost Estimating Intern - Chandler AZ | United States-Arizona-Chandler | Other | $16.5–$30/hr | analytics · Excel · accounting · supply chain · logistics | Not specified | [Apply](https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-Arizona-Chandler/XMLNAME-2027-Pricing---Cost-Estimating-Intern---Chandler-AZ_R10253454) |
 | 112 | Northrop Grumman | 2027 Business Management Intern - Plymouth MN | United States-Minnesota-Plymouth | Other | Not disclosed | — | Not specified | [Apply](https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-Minnesota-Plymouth/XMLNAME-2027-Business-Management-Intern---Plymouth-MN_R10253808) |
 | 112 | Northrop Grumman | 2027 Intern Business Management | United States-Florida-Melbourne | Other | $16.5–$30/hr | accounting | Not specified | [Apply](https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-Florida-Melbourne/XMLNAME-2027-Intern-Business-Management_R10253504) |
 | 112 | Northrop Grumman | 2027 Business Management Intern - Radford VA | United States-Virginia-Radford | Other | Not disclosed | supply chain | Not specified | [Apply](https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-Virginia-Radford/XMLNAME-2027-Business-Management-Intern---Radford-VA_R10253742) |
@@ -488,11 +486,7 @@ Open positions: 441
 | 44 | Walt Disney | Product Design (Accessories) Intern, Spring 2027 | Glendale, CA, USA | Other | $23/hr | Excel · CAD | Not specified | [Apply](https://disney.wd5.myworkdayjobs.com/en-US/disneycareer/job/Glendale-CA-USA/Product-Design--Accessories--Intern--Spring-2027_10160436) |
 | 44 | Walt Disney | LIVE! with Kelly and Mark Production Intern, Spring 2027 | New York, NY, USA | Other | $22.5/hr | Excel | Not specified | [Apply](https://disney.wd5.myworkdayjobs.com/en-US/disneycareer/job/New-York-NY-USA/LIVE--with-Kelly-and-Mark-Production-Intern--Spring-2027_10158764-2) |
 | 44 | Walt Disney | KFSN-TV (ABC30) Newsroom Intern, Spring 2027 | Fresno, CA, USA | Other | $17.75/hr | — | Not specified | [Apply](https://disney.wd5.myworkdayjobs.com/en-US/disneycareer/job/Fresno-CA-USA/KFSN-TV--ABC30--Newsroom-Intern--Spring-2027_10158273) |
-| 44 | Walt Disney | Disney Parks International Franchise and Commercial Strategy Graduate Intern, Spring 2027 | Glendale, CA, USA | Other | $30.4/hr | data science · analytics · Excel · logistics | Not specified | [Apply](https://disney.wd5.myworkdayjobs.com/en-US/disneycareer/job/Glendale-CA-USA/Disney-Parks-International-Franchise-and-Commercial-Strategy-Graduate-Intern--Spring-2027_10159179-1) |
 | 44 | Walt Disney | Disney Kids & Family Live Action Original Series Intern, Spring 2027 | Burbank, CA, USA | Other | $23/hr | — | Not specified | [Apply](https://disney.wd5.myworkdayjobs.com/en-US/disneycareer/job/Burbank-CA-USA/Disney-Kids---Family-Live-Action-Original-Series-Intern--Spring-2027_10160172) |
-| 44 | Walt Disney | KABC Digital News Intern, ABC7 en Español, Spring 2027 | Glendale, CA, USA | Other | $18.47/hr | — | Not specified | [Apply](https://disney.wd5.myworkdayjobs.com/en-US/disneycareer/job/Glendale-CA-USA/KABC-Digital-News-Intern--ABC7-en-Espaol--Spring-2027_10158940) |
-| 44 | Walt Disney | KGO-TV (ABC7) 7 On Your Side Intern, Spring 2027 | San Francisco, CA, USA | Other | $23/hr | Excel | Not specified | [Apply](https://disney.wd5.myworkdayjobs.com/en-US/disneycareer/job/San-Francisco-CA-USA/KGO-TV--ABC7--7-On-Your-Side-Intern--Spring-2027_10157762) |
-| 44 | Walt Disney | KGO-TV (ABC7) Assignment Desk News Intern, Spring 2027 | San Francisco, CA, USA | Other | $23/hr | — | Not specified | [Apply](https://disney.wd5.myworkdayjobs.com/en-US/disneycareer/job/San-Francisco-CA-USA/KGO-TV--ABC7--Assignment-Desk-News-Intern--Spring-2027_10158968) |
 | 45 | Johnson & Johnson | Manufacturing Engineering Co-Op | Anasco, Puerto Rico, United States of America | Other | Not disclosed | Excel · mechanical engineering · electrical engineering · supply chain | Not specified | [Apply](https://jj.wd5.myworkdayjobs.com/en-US/JJ/job/Anasco-Puerto-Rico-United-States-of-America/Manufacturing-Engineering-Co-Op_R-102845) |
 | 45 | Johnson & Johnson | R&D Intern - Biostatistics | Jacksonville, Florida, United States of America | Other | Not disclosed | recruiting | Not specified | [Apply](https://jj.wd5.myworkdayjobs.com/en-US/JJ/job/Jacksonville-Florida-United-States-of-America/R-D-Intern---Biostatistics_R-099394) |
 | 45 | Johnson & Johnson | Production, Planning & Logistic Co-Op | Cornelia, Georgia, United States of America | Other | Not disclosed | SQL · analytics · Excel · supply chain · logistics | Not specified | [Apply](https://jj.wd5.myworkdayjobs.com/en-US/JJ/job/Cornelia-Georgia-United-States-of-America/PP-L-Co-Op_R-098908) |
