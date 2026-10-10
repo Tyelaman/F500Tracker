@@ -1,18 +1,18 @@
 # F500Tracker internships
 
-Last updated: October 10, 2026 at 12:42 UTC
+Last updated: October 10, 2026 at 21:57 UTC
 
 Current internships: 686
 
 ## Categories
 
-[Software & IT (69)](#software-it) · [Data & AI (9)](#data-ai) · [Product & Design (1)](#product-design) · [Engineering (67)](#engineering) · [Finance & Accounting (17)](#finance-accounting) · [Sales & Marketing (14)](#sales-marketing) · [Operations & Supply Chain (52)](#operations-supply-chain) · [People & Legal (5)](#people-legal) · [Other (452)](#other)
+[Software & IT (68)](#software-it) · [Data & AI (9)](#data-ai) · [Product & Design (1)](#product-design) · [Engineering (67)](#engineering) · [Finance & Accounting (17)](#finance-accounting) · [Sales & Marketing (14)](#sales-marketing) · [Operations & Supply Chain (52)](#operations-supply-chain) · [People & Legal (5)](#people-legal) · [Other (453)](#other)
 
 <a id="software-it"></a>
 
 ## Software & IT
 
-Open positions: 69
+Open positions: 68
 
 | Rank | Company | Position | Location | Category | Salary | Keywords | Sponsorship | Apply |
 |---:|---|---|---|---|---|---|---|---|
@@ -84,7 +84,6 @@ Open positions: 69
 | 83 | Cisco Systems | Software Engineer I (Co-op) - United States | Maynard, Massachusetts, US | Software & IT | Not disclosed | Python · Java · AWS · Azure · data science | Not specified | [Apply](https://cisco.wd5.myworkdayjobs.com/en-US/Cisco_Careers/job/Maynard-Massachusetts-US/Software-Engineer-I--Co-op----United-States_2026920) |
 | 99 | Nike | NIKE, Inc. Innovation Underfoot Systems Engineer Graduate Internship | Beaverton, Oregon | Software & IT | Not disclosed | analytics · mechanical engineering | Not specified | [Apply](https://nike.wd1.myworkdayjobs.com/en-US/nke/job/Beaverton-Oregon/NIKE--Inc-Innovation-Underfoot-Systems-Engineer-Graduate-Internship_R-94431) |
 | 99 | Nike | NIKE, Inc. Software Engineering Undergraduate Internship | Beaverton, Oregon | Software & IT | Not disclosed | Python · Java · C# · JavaScript · React | Not specified | [Apply](https://nike.wd1.myworkdayjobs.com/en-US/nke/job/Beaverton-Oregon/NIKE--Inc-Software-Engineering-Undergraduate-Internship_R-91111) |
-| 160 | Applied Materials | Software Engineering Summer Intern (Masters - Santa Clara, CA) | Santa Clara,CA | Software & IT | Not disclosed | C# · machine learning · sales | Not specified | [Apply](https://amat.wd1.myworkdayjobs.com/en-US/External/job/Santa-ClaraCA/Software-Engineering-Summer-Intern--Masters---Santa-Clara--CA-_R2630705) |
 
 [Back to categories](#categories) · [Back to README](../README.md)
 
@@ -334,7 +333,7 @@ Open positions: 5
 
 ## Other
 
-Open positions: 452
+Open positions: 453
 
 | Rank | Company | Position | Location | Category | Salary | Keywords | Sponsorship | Apply |
 |---:|---|---|---|---|---|---|---|---|
@@ -789,6 +788,7 @@ Open positions: 452
 | 133 | Hewlett Packard Enterprise | Wireless Networking Intern | San Jose, California, United States of America | Other | Not disclosed | Python · SQL · machine learning · data science · Excel | Not specified | [Apply](https://hpe.wd5.myworkdayjobs.com/en-US/Jobsathpe/job/San-Jose-California-United-States-of-America/Wireless-Networking-Intern_1214969) |
 | 133 | Hewlett Packard Enterprise | ASIC Verification/Design Engineering Intern | Roseville, California, United States of America | Other | Not disclosed | Python · electrical engineering · legal | Not specified | [Apply](https://hpe.wd5.myworkdayjobs.com/en-US/Jobsathpe/job/Roseville-California-United-States-of-America/ASIC-Verification-Design-Engineering-Intern_1214211) |
 | 133 | Hewlett Packard Enterprise | Thermal Engineering Intern | Sunnyvale, California, United States of America | Other | Not disclosed | mechanical engineering · legal | Not specified | [Apply](https://hpe.wd5.myworkdayjobs.com/en-US/Jobsathpe/job/Sunnyvale-California-United-States-of-America/Thermal-Engineering-Intern_1214190) |
+| 476 | Marvell Technology | Test Solutions Engineering Intern, BS - Summer 2027 | Burlington, VT | Other | Not disclosed | Python · electrical engineering | Not specified | [Apply](https://marvell.wd1.myworkdayjobs.com/en-US/MarvellCareers/job/Burlington-VT/Test-Solutions-Engineering-Intern--BS---Summer-2027_2603835) |
 | 476 | Marvell Technology | Business Process Mining & Intelligence Analyst Intern, BS - Summer 2027 | Santa Clara, CA | Other | Not disclosed | — | Not specified | [Apply](https://marvell.wd1.myworkdayjobs.com/en-US/MarvellCareers/job/Santa-Clara-CA/Business-Process-Mining---Intelligence-Analyst-Intern--BS---Summer-2027_2603844-1) |
 
 [Back to categories](#categories) · [Back to README](../README.md)
