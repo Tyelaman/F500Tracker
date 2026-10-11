@@ -1,18 +1,18 @@
 # F500Tracker internships
 
-Last updated: October 10, 2026 at 21:57 UTC
+Last updated: October 11, 2026 at 05:56 UTC
 
-Current internships: 686
+Current internships: 669
 
 ## Categories
 
-[Software & IT (68)](#software-it) · [Data & AI (9)](#data-ai) · [Product & Design (1)](#product-design) · [Engineering (67)](#engineering) · [Finance & Accounting (17)](#finance-accounting) · [Sales & Marketing (14)](#sales-marketing) · [Operations & Supply Chain (52)](#operations-supply-chain) · [People & Legal (5)](#people-legal) · [Other (453)](#other)
+[Software & IT (67)](#software-it) · [Data & AI (9)](#data-ai) · [Product & Design (1)](#product-design) · [Engineering (66)](#engineering) · [Finance & Accounting (17)](#finance-accounting) · [Sales & Marketing (13)](#sales-marketing) · [Operations & Supply Chain (48)](#operations-supply-chain) · [People & Legal (5)](#people-legal) · [Other (443)](#other)
 
 <a id="software-it"></a>
 
 ## Software & IT
 
-Open positions: 68
+Open positions: 67
 
 | Rank | Company | Position | Location | Category | Salary | Keywords | Sponsorship | Apply |
 |---:|---|---|---|---|---|---|---|---|
@@ -20,7 +20,6 @@ Open positions: 68
 | 329 | DoorDash | Software Engineer, Intern (Summer 2027) - US | New York, NY; San Francisco, CA; Sunnyvale, CA; Los Angeles, CA; Seattle, WA | Software & IT | Not disclosed | Python · Java · SQL · AWS · Excel | Not specified | [Apply](https://job-boards.greenhouse.io/doordashusa/jobs/8171041) |
 | 112 | Northrop Grumman | 2027-Systems Engineer Intern - McClellan CA | United States-California-McClellan | Software & IT | $21.5–$39/hr | — | Not specified | [Apply](https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-California-McClellan/XMLNAME-2027-Systems-Engineer-Intern---McClellan-CA_R10255163) |
 | 112 | Northrop Grumman | 2027 Software Engineer Intern – McClellan CA | United States-California-McClellan | Software & IT | $21.5–$39/hr | Python · machine learning | Not specified | [Apply](https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-California-McClellan/XMLNAME-2027-Software-Engineer-Intern---McClellan-CA_R10255207) |
-| 112 | Northrop Grumman | 2027 Electrical/Systems Engineer Intern - Baltimore MD | United States-Maryland-Baltimore | Software & IT | $20.5–$37.25/hr | electrical engineering | Not specified | [Apply](https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-Maryland-Baltimore/XMLNAME-2027-Electrical-Systems-Engineer-Intern---Baltimore-MD_R10255010) |
 | 125 | Micron Technology | Intern - IT Software Engineer | Boise, ID - Main Site | Software & IT | Not disclosed | Python · Azure · artificial intelligence | Not specified | [Apply](https://micron.wd1.myworkdayjobs.com/en-US/External/job/Boise-ID---Main-Site/Intern---IT-Software-Engineer_JR113941) |
 | 33 | Freddie Mac | Multifamily Software Development Intern – Summer 2027 | McLean, VA | Software & IT | Not disclosed | Java · AWS | Not specified | [Apply](https://freddiemac.wd5.myworkdayjobs.com/en-US/External/job/McLean-VA/Multifamily-Software-Development-Intern---Summer-2027_JR17564) |
 | 33 | Freddie Mac | Single-Family Software Developer Intern- Summer 2027 | McLean, VA | Software & IT | Not disclosed | Python · Java · analytics | Not specified | [Apply](https://freddiemac.wd5.myworkdayjobs.com/en-US/External/job/McLean-VA/Single-Family-Software-Developer-Intern--Summer-2027_JR17544) |
@@ -123,13 +122,12 @@ Open positions: 1
 
 ## Engineering
 
-Open positions: 67
+Open positions: 66
 
 | Rank | Company | Position | Location | Category | Salary | Keywords | Sponsorship | Apply |
 |---:|---|---|---|---|---|---|---|---|
 | 112 | Northrop Grumman | 2027 Electrical Engineer Intern -McClellan CA | United States-California-McClellan | Engineering | $21.5–$39/hr | Python · Java · electrical engineering | Not specified | [Apply](https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-California-McClellan/XMLNAME-2027-Electrical-Engineer-Intern--McClellan-CA_R10255116) |
 | 112 | Northrop Grumman | 2027 - Mechanical Engineer Intern -McClellan CA | United States-California-McClellan | Engineering | $21.5–$39/hr | mechanical engineering · CAD · SolidWorks · compliance | Not specified | [Apply](https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-California-McClellan/XMLNAME-2027---Mechanical-Engineer-Intern--McClellan-CA_R10255111) |
-| 112 | Northrop Grumman | 2027 Mechanical/Aerospace Engineer Intern - Baltimore MD | United States-Maryland-Baltimore | Engineering | $20.5–$37.25/hr | mechanical engineering | Not specified | [Apply](https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-Maryland-Baltimore/XMLNAME-2027-Mechanical-Aerospace-Engineer-Intern---Baltimore-MD_R10255003) |
 | 112 | Northrop Grumman | 2027 Manufacturing Engineer Intern - Commerce CA | United States-California-Commerce | Engineering | Not disclosed | — | Not specified | [Apply](https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-California-Commerce/XMLNAME-2027-Manufacturing-Engineer-Intern---Commerce-CA_R10255136) |
 | 112 | Northrop Grumman | 2027 Manufacturing Engineer Intern - San Diego CA | United States-California-San Diego | Engineering | Not disclosed | — | Not specified | [Apply](https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-California-San-Diego/XMLNAME-2027-Manufacturing-Engineer-Intern---San-Diego-CA_R10255134) |
 | 125 | Micron Technology | Intern - ID1 Manufacturing Engineer | Boise, ID - ID1 | Engineering | Not disclosed | Python · Java · artificial intelligence · analytics · Excel | Not specified | [Apply](https://micron.wd1.myworkdayjobs.com/en-US/External/job/Boise-ID---ID1/Intern---ID1-Manufacturing-Engineer_JR113287) |
@@ -229,7 +227,7 @@ Open positions: 17
 
 ## Sales & Marketing
 
-Open positions: 14
+Open positions: 13
 
 | Rank | Company | Position | Location | Category | Salary | Keywords | Sponsorship | Apply |
 |---:|---|---|---|---|---|---|---|---|
@@ -238,7 +236,6 @@ Open positions: 14
 | 44 | Walt Disney | WTVD ABC11 Community Engagement and Marketing Intern, Spring 2027 | Durham, NC, USA | Sales & Marketing | $20/hr | Excel | Not specified | [Apply](https://disney.wd5.myworkdayjobs.com/en-US/disneycareer/job/Durham-NC-USA/WTVD-ABC11-Community-Engagement-and-Marketing-Intern--Spring-2027_10158645) |
 | 44 | Walt Disney | ESPN Marketing Internships, New York City, Spring 2027 | New York, NY, USA | Sales & Marketing | $23/hr | Excel · sales | Not specified | [Apply](https://disney.wd5.myworkdayjobs.com/en-US/disneycareer/job/New-York-NY-USA/ESPN-Marketing-Internships--New-York-City--Spring-2027_10160506) |
 | 45 | Johnson & Johnson | Internal Communications Co-op | Danvers, Massachusetts, United States of America | Sales & Marketing | $23.5/hr | Excel | Not specified | [Apply](https://jj.wd5.myworkdayjobs.com/en-US/JJ/job/Danvers-Massachusetts-United-States-of-America/Internal-Communications-Co-op_R-103842) |
-| 45 | Johnson & Johnson | OPEx Communications Co-Op | Gurabo, Puerto Rico, United States of America | Sales & Marketing | Not disclosed | analytics · Excel | Not specified | [Apply](https://jj.wd5.myworkdayjobs.com/en-US/JJ/job/Gurabo-Puerto-Rico-United-States-of-America/OPEx-Communications-Co-Op_R-096859) |
 | 49 | RTX | Factory Modernization Marketing Co-Op (Spring/Summer 2027) | US-IA-CEDAR RAPIDS-105 ~ 400 Collins Rd NE ~ BLDG 105 | Sales & Marketing | Not disclosed | Excel · compliance | Not specified | [Apply](https://globalhr.wd5.myworkdayjobs.com/en-US/REC_RTX_Ext_Gateway/job/US-IA-CEDAR-RAPIDS-105--400-Collins-Rd-NE--BLDG-105/Factory-Modernization-Marketing-Co-Op--Spring-Summer-2027-_01873900) |
 | 49 | RTX | Factory Modernization Marketing Co-Op (Summer/Fall 2027) | US-IA-CEDAR RAPIDS-105 ~ 400 Collins Rd NE ~ BLDG 105 | Sales & Marketing | Not disclosed | Excel · compliance | Not specified | [Apply](https://globalhr.wd5.myworkdayjobs.com/en-US/REC_RTX_Ext_Gateway/job/US-IA-CEDAR-RAPIDS-105--400-Collins-Rd-NE--BLDG-105/Factory-Modernization-Marketing-Co-Op--Summer-Fall-2027-_01873901) |
 | 49 | RTX | Stage - Hiver 2027 - Administration des contrats, analyse des ventes et marketing / Internship - Winter 2027 - Contract Administration, Sales Analysis & Marketing | CA-QC-LONGUEUIL-J01 ~ 1000 Blvd Marie-Victorin ~ J01 BLDG | Sales & Marketing | Not disclosed | Python · JavaScript · SQL · sales · CRM | Not specified | [Apply](https://globalhr.wd5.myworkdayjobs.com/en-US/REC_RTX_Ext_Gateway/job/CA-QC-LONGUEUIL-J01--1000-Blvd-Marie-Victorin--J01-BLDG/Stage---Hiver-2027---Administration-des-contrats--analyse-des-ventes-et-marketing---Internship---Winter-2027---Contract-Administration--Sales-Analysis---Marketing_01878336) |
@@ -254,7 +251,7 @@ Open positions: 14
 
 ## Operations & Supply Chain
 
-Open positions: 52
+Open positions: 48
 
 | Rank | Company | Position | Location | Category | Salary | Keywords | Sponsorship | Apply |
 |---:|---|---|---|---|---|---|---|---|
@@ -271,10 +268,6 @@ Open positions: 52
 | 45 | Johnson & Johnson | Regional Operations & Customer Support Co-Op | Raritan, New Jersey, United States of America | Operations & Supply Chain | $23.5/hr | supply chain · logistics · sales · compliance | Not specified | [Apply](https://jj.wd5.myworkdayjobs.com/en-US/JJ/job/Raritan-New-Jersey-United-States-of-America/Regional-Operations-Co-Op_R-098405) |
 | 45 | Johnson & Johnson | Technical Operations Engineer Co-Op | San Lorenzo, Puerto Rico, United States of America | Operations & Supply Chain | Not disclosed | Python · Excel · mechanical engineering · electrical engineering · CAD | Not specified | [Apply](https://jj.wd5.myworkdayjobs.com/en-US/JJ/job/San-Lorenzo-Puerto-Rico-United-States-of-America/Technical-Operations-Engineer-Co-Op_R-099063) |
 | 45 | Johnson & Johnson | Supply Chain Co-Op | New Brunswick, New Jersey, United States of America | Operations & Supply Chain | $23.5/hr | analytics · Excel · accounting · supply chain · contracts | Not specified | [Apply](https://jj.wd5.myworkdayjobs.com/en-US/JJ/job/New-Brunswick-New-Jersey-United-States-of-America/Supply-Chain-Co-Op_R-101911) |
-| 45 | Johnson & Johnson | Technical Operations Engineering Co-Op | San Lorenzo, Puerto Rico, United States of America | Operations & Supply Chain | Not disclosed | Excel · mechanical engineering · electrical engineering · compliance | Not specified | [Apply](https://jj.wd5.myworkdayjobs.com/en-US/JJ/job/San-Lorenzo-Puerto-Rico-United-States-of-America/Technical-Operations-Engineering-Co-Op_R-099385) |
-| 45 | Johnson & Johnson | Operations Co-Op | San Lorenzo, Puerto Rico, United States of America | Operations & Supply Chain | Not disclosed | Excel | Not specified | [Apply](https://jj.wd5.myworkdayjobs.com/en-US/JJ/job/San-Lorenzo-Puerto-Rico-United-States-of-America/Operations-Co-Op_R-099330) |
-| 45 | Johnson & Johnson | Warehouse and Logistics Process Improvement Co-Op | Gurabo, Puerto Rico, United States of America | Operations & Supply Chain | Not disclosed | analytics · Excel · supply chain · logistics | Not specified | [Apply](https://jj.wd5.myworkdayjobs.com/en-US/JJ/job/Gurabo-Puerto-Rico-United-States-of-America/Warehouse-Data-Analytics-Co-Op_R-098705) |
-| 45 | Johnson & Johnson | Operations Continuous Improvement Co-Op | Gurabo, Puerto Rico, United States of America | Operations & Supply Chain | Not disclosed | analytics · Excel · mechanical engineering · supply chain · compliance | Not specified | [Apply](https://jj.wd5.myworkdayjobs.com/en-US/JJ/job/Gurabo-Puerto-Rico-United-States-of-America/Operations-Continuous-Improvement-Co-Op_R-099631) |
 | 45 | Johnson & Johnson | Supply Chain Distributions Co-op | Mooresville, Indiana, United States of America | Operations & Supply Chain | Not disclosed | analytics · Excel · supply chain · legal | Not specified | [Apply](https://jj.wd5.myworkdayjobs.com/en-US/JJ/job/Mooresville-Indiana-United-States-of-America/Supply-Chain-Distributions-Co-op_R-099096) |
 | 45 | Johnson & Johnson | Electrophysiology Supply Chain (Engineers) Intern | Irvine, California, United States of America | Operations & Supply Chain | $23.5/hr | Excel · electrical engineering · SolidWorks · supply chain | Not specified | [Apply](https://jj.wd5.myworkdayjobs.com/en-US/JJ/job/Irvine-California-United-States-of-America/Electrophysiology-Supply-Chain--Engineers--Intern_R-094578) |
 | 45 | Johnson & Johnson | Electrophysiology Supply Chain (Business) Intern | Irvine, California, United States of America | Operations & Supply Chain | $23.5/hr | Excel · supply chain | Not specified | [Apply](https://jj.wd5.myworkdayjobs.com/en-US/JJ/job/Irvine-California-United-States-of-America/Electrophysiology-Supply-Chain-Intern_R-094580-1) |
@@ -333,7 +326,7 @@ Open positions: 5
 
 ## Other
 
-Open positions: 453
+Open positions: 443
 
 | Rank | Company | Position | Location | Category | Salary | Keywords | Sponsorship | Apply |
 |---:|---|---|---|---|---|---|---|---|
@@ -532,22 +525,12 @@ Open positions: 453
 | 45 | Johnson & Johnson | Impella Pump Systems Test Engineering Co-Op | Danvers, Massachusetts, United States of America | Other | $23.5/hr | mechanical engineering · electrical engineering · CAD · SolidWorks · compliance | Not specified | [Apply](https://jj.wd5.myworkdayjobs.com/en-US/JJ/job/Danvers-Massachusetts-United-States-of-America/Impella-Pump-Systems-Test-Engineering-Co-Op_R-099097) |
 | 45 | Johnson & Johnson | AIC Systems Test Engineering Co-Op | Danvers, Massachusetts, United States of America | Other | $23.5/hr | mechanical engineering · electrical engineering · CAD · SolidWorks · compliance | Not specified | [Apply](https://jj.wd5.myworkdayjobs.com/en-US/JJ/job/Danvers-Massachusetts-United-States-of-America/AIC-Systems-Test-Engineering-Co-Op_R-099094) |
 | 45 | Johnson & Johnson | Facilities Management Intern | Shepherdsville, Kentucky, United States of America | Other | Not disclosed | analytics · Excel · supply chain · procurement · compliance | Not specified | [Apply](https://jj.wd5.myworkdayjobs.com/en-US/JJ/job/Shepherdsville-Kentucky-United-States-of-America/Facilities-Management-Intern_R-100366) |
-| 45 | Johnson & Johnson | Facilities Engineering Co-op | San Lorenzo, Puerto Rico, United States of America | Other | Not disclosed | Excel · mechanical engineering · electrical engineering · CAD · compliance | Not specified | [Apply](https://jj.wd5.myworkdayjobs.com/en-US/JJ/job/San-Lorenzo-Puerto-Rico-United-States-of-America/Facilities-Engineering-Co-op_R-099343) |
-| 45 | Johnson & Johnson | Biosurgery R&D Lifecycle Management Intern | Raritan, New Jersey, United States of America | Other | $23.5/hr | Excel · mechanical engineering · compliance | Not specified | [Apply](https://jj.wd5.myworkdayjobs.com/en-US/JJ/job/Raritan-New-Jersey-United-States-of-America/Biosurgery-R-D-Lifecycle-Management-Intern_R-097552) |
-| 45 | Johnson & Johnson | Project Delivery Digital Engineering & Property Services Co-Op | New Brunswick, New Jersey, United States of America | Other | $23.5/hr | Python · Java · C# · JavaScript · TypeScript | Not specified | [Apply](https://jj.wd5.myworkdayjobs.com/en-US/JJ/job/New-Brunswick-New-Jersey-United-States-of-America/Project-Delivery-Digital-Engineering---Property-Services-Co-Op_R-096717) |
-| 45 | Johnson & Johnson | Process Engineering Co-Op | Anasco, Puerto Rico, United States of America | Other | Not disclosed | Excel | Not specified | [Apply](https://jj.wd5.myworkdayjobs.com/en-US/JJ/job/Anasco-Puerto-Rico-United-States-of-America/Process-Engineering-Co-Op_R-098445) |
 | 45 | Johnson & Johnson | Supplier Development Engineer Co-Op | Danvers, Massachusetts, United States of America | Other | $23.5/hr | supply chain | Not specified | [Apply](https://jj.wd5.myworkdayjobs.com/en-US/JJ/job/Danvers-Massachusetts-United-States-of-America/Supplier-Development-Engineer-Co-Op_R-098406) |
 | 45 | Johnson & Johnson | Operational Excellence Engineering Co-Op | Danvers, Massachusetts, United States of America | Other | $23.5/hr | supply chain | Not specified | [Apply](https://jj.wd5.myworkdayjobs.com/en-US/JJ/job/Danvers-Massachusetts-United-States-of-America/Operational-Excellence-Engineering-Co-Op_R-099800) |
 | 45 | Johnson & Johnson | ECP Product Development Co-op | Danvers, Massachusetts, United States of America | Other | $23.5/hr | Excel · mechanical engineering · CAD · SolidWorks | Not specified | [Apply](https://jj.wd5.myworkdayjobs.com/en-US/JJ/job/Danvers-Massachusetts-United-States-of-America/ECP-Product-Development-Co-op_R-100650) |
 | 45 | Johnson & Johnson | GTO Engineering Coop | San Angelo, Texas, United States of America | Other | Not disclosed | — | Not specified | [Apply](https://jj.wd5.myworkdayjobs.com/en-US/JJ/job/San-Angelo-Texas-United-States-of-America/GTO-Engineering-Coop_R-099077) |
 | 45 | Johnson & Johnson | Innovation Excellence Co-op | Danvers, Massachusetts, United States of America | Other | $23.5/hr | compliance | Not specified | [Apply](https://jj.wd5.myworkdayjobs.com/en-US/JJ/job/Danvers-Massachusetts-United-States-of-America/Innovation-Excellence-Co-op_R-097289) |
-| 45 | Johnson & Johnson | Business Excellence Engineer Co-Op | Gurabo, Puerto Rico, United States of America | Other | Not disclosed | mechanical engineering | Not specified | [Apply](https://jj.wd5.myworkdayjobs.com/en-US/JJ/job/Gurabo-Puerto-Rico-United-States-of-America/Business-Excellence-Engineer-Co-Op_R-097386) |
 | 45 | Johnson & Johnson | Systems & Simulation Engineering Intern - Robotics R&D | Santa Clara, California, United States of America | Other | Not disclosed | Python · mechanical engineering · electrical engineering | Not specified | [Apply](https://jj.wd5.myworkdayjobs.com/en-US/JJ/job/Santa-Clara-California-United-States-of-America/Systems---Simulation-Engineering-Intern---Robotics-R-D_R-100027) |
-| 45 | Johnson & Johnson | Global Planning Co-Op | Gurabo, Puerto Rico, United States of America | Other | Not disclosed | Excel · supply chain | Not specified | [Apply](https://jj.wd5.myworkdayjobs.com/en-US/JJ/job/Gurabo-Puerto-Rico-United-States-of-America/Global-Planning-Co-Op_R-098718) |
-| 45 | Johnson & Johnson | Facilities & Utilities Co-op | Gurabo, Puerto Rico, United States of America | Other | Not disclosed | Excel · mechanical engineering · electrical engineering · human resources · compliance | Not specified | [Apply](https://jj.wd5.myworkdayjobs.com/en-US/JJ/job/Gurabo-Puerto-Rico-United-States-of-America/Facilities---Utilities-Co-op_R-098678) |
-| 45 | Johnson & Johnson | QC Lab Co-Op | Gurabo, Puerto Rico, United States of America | Other | Not disclosed | Excel · supply chain · procurement | Not specified | [Apply](https://jj.wd5.myworkdayjobs.com/en-US/JJ/job/Gurabo-Puerto-Rico-United-States-of-America/QC-Lab-Co-Op_R-098685) |
-| 45 | Johnson & Johnson | OPEX Co-Op | Gurabo, Puerto Rico, United States of America | Other | Not disclosed | analytics · Excel · mechanical engineering · supply chain · compliance | Not specified | [Apply](https://jj.wd5.myworkdayjobs.com/en-US/JJ/job/Gurabo-Puerto-Rico-United-States-of-America/OPEX-Co-Op_R-095047) |
-| 45 | Johnson & Johnson | Global Planning Co-Op | Gurabo, Puerto Rico, United States of America | Other | Not disclosed | data science · Excel · supply chain | Not specified | [Apply](https://jj.wd5.myworkdayjobs.com/en-US/JJ/job/Gurabo-Puerto-Rico-United-States-of-America/Global-Planning-COOP-Intern_R-097395) |
 | 45 | Johnson & Johnson | Oncology TR Scientist Intern | Spring House, Pennsylvania, United States of America | Other | Not disclosed | Python · Excel | Not specified | [Apply](https://jj.wd5.myworkdayjobs.com/en-US/JJ/job/Spring-House-Pennsylvania-United-States-of-America/Oncology-TR-Scientist-Intern_R-099901) |
 | 45 | Johnson & Johnson | Oncology Discovery Scientist Intern | Spring House, Pennsylvania, United States of America | Other | Not disclosed | Excel | Not specified | [Apply](https://jj.wd5.myworkdayjobs.com/en-US/JJ/job/Spring-House-Pennsylvania-United-States-of-America/Oncology-Discovery-Scientist-Intern_R-099898) |
 | 45 | Johnson & Johnson | Oncology Clinical Scientist Intern | Spring House, Pennsylvania, United States of America | Other | Not disclosed | Excel | Not specified | [Apply](https://jj.wd5.myworkdayjobs.com/en-US/JJ/job/Spring-House-Pennsylvania-United-States-of-America/Oncology-Clinical-Scientist-Intern_R-099892) |

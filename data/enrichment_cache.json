@@ -85442,6 +85442,54 @@
     "source_updated_at": "2026-10-10T17:39:01-04:00",
     "sponsorship_evidence": "This role is not eligible for visa sponsorship."
   },
+  "greenhouse:Carvana:8271970": {
+    "company": "Carvana",
+    "enriched_at": "2026-10-11T05:56:17.620867+00:00",
+    "external_id": "8271970",
+    "h1b_mentioned": false,
+    "h1b_status": "does_not_support_h1b",
+    "keywords": [],
+    "salary_currency": "",
+    "salary_max": null,
+    "salary_min": null,
+    "salary_period": "",
+    "salary_text": "",
+    "source": "greenhouse",
+    "source_updated_at": "2026-10-10T18:09:09-04:00",
+    "sponsorship_evidence": "This role is not eligible for visa sponsorship."
+  },
+  "greenhouse:Carvana:8271981": {
+    "company": "Carvana",
+    "enriched_at": "2026-10-11T05:56:17.625496+00:00",
+    "external_id": "8271981",
+    "h1b_mentioned": false,
+    "h1b_status": "does_not_support_h1b",
+    "keywords": [],
+    "salary_currency": "",
+    "salary_max": null,
+    "salary_min": null,
+    "salary_period": "",
+    "salary_text": "",
+    "source": "greenhouse",
+    "source_updated_at": "2026-10-10T18:35:26-04:00",
+    "sponsorship_evidence": "This role is not eligible for visa sponsorship."
+  },
+  "greenhouse:Carvana:8272004": {
+    "company": "Carvana",
+    "enriched_at": "2026-10-11T05:56:17.616256+00:00",
+    "external_id": "8272004",
+    "h1b_mentioned": false,
+    "h1b_status": "does_not_support_h1b",
+    "keywords": [],
+    "salary_currency": "",
+    "salary_max": null,
+    "salary_min": null,
+    "salary_period": "",
+    "salary_text": "",
+    "source": "greenhouse",
+    "source_updated_at": "2026-10-10T18:58:33-04:00",
+    "sponsorship_evidence": "This role is not eligible for visa sponsorship."
+  },
   "greenhouse:Coupang:3887444": {
     "company": "Coupang",
     "enriched_at": "2026-10-01T13:12:16.514579+00:00",
@@ -86709,7 +86757,7 @@
   },
   "greenhouse:Coupang:8118774": {
     "company": "Coupang",
-    "enriched_at": "2026-10-10T05:51:19.733118+00:00",
+    "enriched_at": "2026-10-11T05:45:03.396721+00:00",
     "external_id": "8118774",
     "h1b_mentioned": false,
     "h1b_status": "unknown",
@@ -86727,7 +86775,7 @@
     "salary_period": "year",
     "salary_text": "$132,000/year",
     "source": "greenhouse",
-    "source_updated_at": "2026-10-09T20:53:22-04:00",
+    "source_updated_at": "2026-10-10T21:08:39-04:00",
     "sponsorship_evidence": ""
   },
   "greenhouse:Coupang:8120779": {
@@ -86801,7 +86849,7 @@
   },
   "greenhouse:Coupang:8124210": {
     "company": "Coupang",
-    "enriched_at": "2026-10-10T05:51:19.749292+00:00",
+    "enriched_at": "2026-10-11T05:45:03.406646+00:00",
     "external_id": "8124210",
     "h1b_mentioned": false,
     "h1b_status": "unknown",
@@ -86818,7 +86866,7 @@
     "salary_period": "year",
     "salary_text": "$209,000/year",
     "source": "greenhouse",
-    "source_updated_at": "2026-10-09T20:53:18-04:00",
+    "source_updated_at": "2026-10-10T21:08:36-04:00",
     "sponsorship_evidence": ""
   },
   "greenhouse:Coupang:8140987": {
@@ -86929,7 +86977,7 @@
   },
   "greenhouse:Coupang:8174696": {
     "company": "Coupang",
-    "enriched_at": "2026-10-10T05:51:19.702640+00:00",
+    "enriched_at": "2026-10-11T05:45:03.378130+00:00",
     "external_id": "8174696",
     "h1b_mentioned": false,
     "h1b_status": "unknown",
@@ -86946,12 +86994,12 @@
     "salary_period": "year",
     "salary_text": "$142,000/year",
     "source": "greenhouse",
-    "source_updated_at": "2026-10-09T20:53:25-04:00",
+    "source_updated_at": "2026-10-10T21:08:43-04:00",
     "sponsorship_evidence": ""
   },
   "greenhouse:Coupang:8175850": {
     "company": "Coupang",
-    "enriched_at": "2026-10-10T05:51:19.716414+00:00",
+    "enriched_at": "2026-10-11T05:45:03.386495+00:00",
     "external_id": "8175850",
     "h1b_mentioned": false,
     "h1b_status": "unknown",
@@ -86970,7 +87018,7 @@
     "salary_period": "year",
     "salary_text": "$207,900/year",
     "source": "greenhouse",
-    "source_updated_at": "2026-10-09T20:53:35-04:00",
+    "source_updated_at": "2026-10-10T21:08:53-04:00",
     "sponsorship_evidence": ""
   },
   "greenhouse:Coupang:8177944": {
@@ -221715,6 +221763,24 @@
     "source_updated_at": "",
     "sponsorship_evidence": ""
   },
+  "workday:Centene:/job/Remote-GA/Care-Manager--RN---REMOTE-GA_1665617": {
+    "company": "Centene",
+    "enriched_at": "2026-10-11T05:48:06.108784+00:00",
+    "external_id": "/job/Remote-GA/Care-Manager--RN---REMOTE-GA_1665617",
+    "h1b_mentioned": false,
+    "h1b_status": "unknown",
+    "keywords": [
+      "compliance"
+    ],
+    "salary_currency": "",
+    "salary_max": null,
+    "salary_min": null,
+    "salary_period": "",
+    "salary_text": "",
+    "source": "workday",
+    "source_updated_at": "",
+    "sponsorship_evidence": ""
+  },
   "workday:Centene:/job/Remote-GA/Care-Manager--RN-_1663243": {
     "company": "Centene",
     "enriched_at": "2026-10-06T00:07:14.507941+00:00",
@@ -247120,6 +247186,30 @@
       "sales",
       "CRM",
       "contracts"
+    ],
+    "salary_currency": "",
+    "salary_max": null,
+    "salary_min": null,
+    "salary_period": "",
+    "salary_text": "",
+    "source": "workday",
+    "source_updated_at": "",
+    "sponsorship_evidence": ""
+  },
+  "workday:Cisco Systems:/job/New-York-New-York-US/Solutions-Engineer---Splunk--Remote-_2024727-1": {
+    "company": "Cisco Systems",
+    "enriched_at": "2026-10-11T05:54:58.421268+00:00",
+    "external_id": "/job/New-York-New-York-US/Solutions-Engineer---Splunk--Remote-_2024727-1",
+    "h1b_mentioned": false,
+    "h1b_status": "unknown",
+    "keywords": [
+      "Python",
+      "TypeScript",
+      "machine learning",
+      "data science",
+      "analytics",
+      "electrical engineering",
+      "sales"
     ],
     "salary_currency": "",
     "salary_max": null,
@@ -383585,6 +383675,24 @@
     "source_updated_at": "",
     "sponsorship_evidence": ""
   },
+  "workday:Lowe's:/job/Honolulu-HI-Iwilei-2336/Full-Time---Loader-Cart-Associate---Day_JR-02676473": {
+    "company": "Lowe's",
+    "enriched_at": "2026-10-11T05:54:30.124989+00:00",
+    "external_id": "/job/Honolulu-HI-Iwilei-2336/Full-Time---Loader-Cart-Associate---Day_JR-02676473",
+    "h1b_mentioned": false,
+    "h1b_status": "unknown",
+    "keywords": [
+      "sales"
+    ],
+    "salary_currency": "USD",
+    "salary_max": 19.6,
+    "salary_min": 17.5,
+    "salary_period": "hour",
+    "salary_text": "$17.50 - $19.60 per hour",
+    "source": "workday",
+    "source_updated_at": "",
+    "sponsorship_evidence": ""
+  },
   "workday:Lowe's:/job/Honolulu-HI-Iwilei-2336/Full-Time---Lowe-s-Security-Specialist---Day_JR-02639229-1": {
     "company": "Lowe's",
     "enriched_at": "2026-09-08T04:43:53.376016+00:00",
@@ -383661,6 +383769,24 @@
     "company": "Lowe's",
     "enriched_at": "2026-10-10T12:40:02.734424+00:00",
     "external_id": "/job/Honolulu-HI-Iwilei-2336/Full-Time---Receiver-Stocker---Day_JR-02648310",
+    "h1b_mentioned": false,
+    "h1b_status": "unknown",
+    "keywords": [
+      "sales"
+    ],
+    "salary_currency": "USD",
+    "salary_max": 19.6,
+    "salary_min": 17.5,
+    "salary_period": "hour",
+    "salary_text": "$17.50 - $19.60 per hour",
+    "source": "workday",
+    "source_updated_at": "",
+    "sponsorship_evidence": ""
+  },
+  "workday:Lowe's:/job/Honolulu-HI-Iwilei-2336/Full-Time---Receiver-Stocker---Day_JR-02676472": {
+    "company": "Lowe's",
+    "enriched_at": "2026-10-11T05:54:30.131670+00:00",
+    "external_id": "/job/Honolulu-HI-Iwilei-2336/Full-Time---Receiver-Stocker---Day_JR-02676472",
     "h1b_mentioned": false,
     "h1b_status": "unknown",
     "keywords": [
@@ -487416,7 +487542,7 @@
   },
   "workday:NVIDIA:/job/US-CA-Santa-Clara/Senior-Firmware-Engineer---CSP-Engagements_JR1999599": {
     "company": "NVIDIA",
-    "enriched_at": "2026-09-28T05:23:18.189178+00:00",
+    "enriched_at": "2026-10-11T05:45:10.115133+00:00",
     "external_id": "/job/US-CA-Santa-Clara/Senior-Firmware-Engineer---CSP-Engagements_JR1999599",
     "h1b_mentioned": false,
     "h1b_status": "unknown",
@@ -514300,6 +514426,22 @@
       "mechanical engineering",
       "CAD"
     ],
+    "salary_currency": "",
+    "salary_max": null,
+    "salary_min": null,
+    "salary_period": "",
+    "salary_text": "",
+    "source": "workday",
+    "source_updated_at": "",
+    "sponsorship_evidence": ""
+  },
+  "workday:Northrop Grumman:/job/United-States-Arizona-Gilbert/Mechanical-Engineer-Level-2-or-Level-3_R10255466": {
+    "company": "Northrop Grumman",
+    "enriched_at": "2026-10-11T05:46:58.349212+00:00",
+    "external_id": "/job/United-States-Arizona-Gilbert/Mechanical-Engineer-Level-2-or-Level-3_R10255466",
+    "h1b_mentioned": false,
+    "h1b_status": "unknown",
+    "keywords": [],
     "salary_currency": "",
     "salary_max": null,
     "salary_min": null,
@@ -572445,6 +572587,24 @@
     "keywords": [
       "CAD",
       "procurement"
+    ],
+    "salary_currency": "",
+    "salary_max": null,
+    "salary_min": null,
+    "salary_period": "",
+    "salary_text": "",
+    "source": "workday",
+    "source_updated_at": "",
+    "sponsorship_evidence": ""
+  },
+  "workday:Northrop Grumman:/job/United-States-Florida-Melbourne/Staff-Software-Configuration-Analyst_R10254746": {
+    "company": "Northrop Grumman",
+    "enriched_at": "2026-10-11T05:46:58.355975+00:00",
+    "external_id": "/job/United-States-Florida-Melbourne/Staff-Software-Configuration-Analyst_R10254746",
+    "h1b_mentioned": false,
+    "h1b_status": "unknown",
+    "keywords": [
+      "CAD"
     ],
     "salary_currency": "",
     "salary_max": null,
@@ -698839,6 +698999,28 @@
       "Java",
       "recruiting",
       "compliance"
+    ],
+    "salary_currency": "",
+    "salary_max": null,
+    "salary_min": null,
+    "salary_period": "",
+    "salary_text": "",
+    "source": "workday",
+    "source_updated_at": "",
+    "sponsorship_evidence": ""
+  },
+  "workday:RTX:/job/US-AZ-TUCSON-9030-CORRIDOR--9030-S-Rita-Rd--BLDG-9030-CORRIDOR-AZ201-Tucson-Rita-Road-M30/GHM-Sr-Program-Manager_01881224": {
+    "company": "RTX",
+    "enriched_at": "2026-10-11T05:50:26.615104+00:00",
+    "external_id": "/job/US-AZ-TUCSON-9030-CORRIDOR--9030-S-Rita-Rd--BLDG-9030-CORRIDOR-AZ201-Tucson-Rita-Road-M30/GHM-Sr-Program-Manager_01881224",
+    "h1b_mentioned": false,
+    "h1b_status": "unknown",
+    "keywords": [
+      "supply chain",
+      "logistics",
+      "procurement",
+      "compliance",
+      "contracts"
     ],
     "salary_currency": "",
     "salary_max": null,
@@ -845898,6 +846080,27 @@
     "source_updated_at": "",
     "sponsorship_evidence": ""
   },
+  "workday:S&P Global:/job/New-York-NY/OTC-Derivatives-Analyst_331927-1": {
+    "company": "S&P Global",
+    "enriched_at": "2026-10-11T05:48:00.449737+00:00",
+    "external_id": "/job/New-York-NY/OTC-Derivatives-Analyst_331927-1",
+    "h1b_mentioned": false,
+    "h1b_status": "unknown",
+    "keywords": [
+      "Python",
+      "SQL",
+      "supply chain",
+      "compliance"
+    ],
+    "salary_currency": "",
+    "salary_max": null,
+    "salary_min": null,
+    "salary_period": "",
+    "salary_text": "",
+    "source": "workday",
+    "source_updated_at": "",
+    "sponsorship_evidence": ""
+  },
   "workday:S&P Global:/job/New-York-NY/PVR-Sales-Specialist--Americas_328476-2": {
     "company": "S&P Global",
     "enriched_at": "2026-08-31T22:53:10.260453+00:00",
@@ -858998,6 +859201,25 @@
     "salary_min": null,
     "salary_period": "",
     "salary_text": "",
+    "source": "workday",
+    "source_updated_at": "",
+    "sponsorship_evidence": ""
+  },
+  "workday:Sysco:/job/Sygma-Illinois---Channahon/CDL-A-Delivery-Driver---SYGMA--Channahon--IL_R260711": {
+    "company": "Sysco",
+    "enriched_at": "2026-10-11T05:54:31.961954+00:00",
+    "external_id": "/job/Sygma-Illinois---Channahon/CDL-A-Delivery-Driver---SYGMA--Channahon--IL_R260711",
+    "h1b_mentioned": false,
+    "h1b_status": "unknown",
+    "keywords": [
+      "sales",
+      "compliance"
+    ],
+    "salary_currency": "USD",
+    "salary_max": 105000.0,
+    "salary_min": 105000.0,
+    "salary_period": "year",
+    "salary_text": "$105,000\u00a0per year",
     "source": "workday",
     "source_updated_at": "",
     "sponsorship_evidence": ""
