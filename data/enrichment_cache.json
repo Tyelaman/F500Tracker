@@ -104450,7 +104450,7 @@
   },
   "greenhouse:DoorDash:8227800": {
     "company": "DoorDash",
-    "enriched_at": "2026-10-07T23:04:45.289730+00:00",
+    "enriched_at": "2026-10-11T12:48:02.128484+00:00",
     "external_id": "8227800",
     "h1b_mentioned": false,
     "h1b_status": "unknown",
@@ -104466,7 +104466,7 @@
     "salary_period": "",
     "salary_text": "",
     "source": "greenhouse",
-    "source_updated_at": "2026-10-07T13:21:15-04:00",
+    "source_updated_at": "2026-10-11T03:16:36-04:00",
     "sponsorship_evidence": ""
   },
   "greenhouse:DoorDash:8230773": {
@@ -116889,6 +116889,26 @@
     "source": "workday",
     "source_updated_at": "",
     "sponsorship_evidence": ""
+  },
+  "workday:3M:/job/IN-Bangalore-Kar/Privacy-Compliance-Program-Specialist_R01171682": {
+    "company": "3M",
+    "enriched_at": "2026-10-11T12:59:34.994052+00:00",
+    "external_id": "/job/IN-Bangalore-Kar/Privacy-Compliance-Program-Specialist_R01171682",
+    "h1b_mentioned": true,
+    "h1b_status": "does_not_support_h1b",
+    "keywords": [
+      "risk management",
+      "compliance",
+      "legal"
+    ],
+    "salary_currency": "",
+    "salary_max": null,
+    "salary_min": null,
+    "salary_period": "",
+    "salary_text": "",
+    "source": "workday",
+    "source_updated_at": "",
+    "sponsorship_evidence": "Must be legally authorized to work in country of employment without sponsorship for employment visa status (e."
   },
   "workday:3M:/job/IN-Bangalore-Kar/Specialist---Product-Development---Electronics_R01170300": {
     "company": "3M",
@@ -132624,7 +132644,7 @@
   },
   "workday:Applied Materials:/job/AustinTX/Sustaining-Engineer_R2611203": {
     "company": "Applied Materials",
-    "enriched_at": "2026-10-04T06:03:12.767835+00:00",
+    "enriched_at": "2026-10-11T12:59:49.578095+00:00",
     "external_id": "/job/AustinTX/Sustaining-Engineer_R2611203",
     "h1b_mentioned": false,
     "h1b_status": "unknown",
@@ -135051,7 +135071,7 @@
   },
   "workday:Applied Materials:/job/Santa-ClaraCA/HR-Partner_R2616579": {
     "company": "Applied Materials",
-    "enriched_at": "2026-10-04T06:03:12.786924+00:00",
+    "enriched_at": "2026-10-11T12:59:49.590633+00:00",
     "external_id": "/job/Santa-ClaraCA/HR-Partner_R2616579",
     "h1b_mentioned": false,
     "h1b_status": "unknown",
@@ -164462,7 +164482,7 @@
   },
   "workday:Broadcom:/job/USA-AZ-Chandler-North-Juniper-Drive/I-O-Design-Engineer_R026781": {
     "company": "Broadcom",
-    "enriched_at": "2026-10-04T06:03:07.444604+00:00",
+    "enriched_at": "2026-10-11T12:59:44.715894+00:00",
     "external_id": "/job/USA-AZ-Chandler-North-Juniper-Drive/I-O-Design-Engineer_R026781",
     "h1b_mentioned": false,
     "h1b_status": "unknown",
@@ -164581,7 +164601,7 @@
   },
   "workday:Broadcom:/job/USA-CA---Promontory-B/Distributed-Resource-Scheduler--Software-Engineer-4_R025755": {
     "company": "Broadcom",
-    "enriched_at": "2026-10-04T06:03:07.717468+00:00",
+    "enriched_at": "2026-10-11T12:59:44.874669+00:00",
     "external_id": "/job/USA-CA---Promontory-B/Distributed-Resource-Scheduler--Software-Engineer-4_R025755",
     "h1b_mentioned": false,
     "h1b_status": "unknown",
@@ -164619,7 +164639,7 @@
   },
   "workday:Broadcom:/job/USA-CA---Promontory-B/Software-Engineer-2_R026512-1": {
     "company": "Broadcom",
-    "enriched_at": "2026-10-04T06:03:07.383825+00:00",
+    "enriched_at": "2026-10-11T12:59:44.679016+00:00",
     "external_id": "/job/USA-CA---Promontory-B/Software-Engineer-2_R026512-1",
     "h1b_mentioned": false,
     "h1b_status": "unknown",
@@ -164700,7 +164720,7 @@
   },
   "workday:Broadcom:/job/USA-CA---Promontory-B/Technology-Product-Manager_R026632": {
     "company": "Broadcom",
-    "enriched_at": "2026-10-04T06:03:07.486681+00:00",
+    "enriched_at": "2026-10-11T12:59:44.744535+00:00",
     "external_id": "/job/USA-CA---Promontory-B/Technology-Product-Manager_R026632",
     "h1b_mentioned": false,
     "h1b_status": "unknown",
@@ -164720,7 +164740,7 @@
   },
   "workday:Broadcom:/job/USA-CA---Promontory-B/Technology-Product-Manager_R026645": {
     "company": "Broadcom",
-    "enriched_at": "2026-10-04T06:03:07.480126+00:00",
+    "enriched_at": "2026-10-11T12:59:44.740092+00:00",
     "external_id": "/job/USA-CA---Promontory-B/Technology-Product-Manager_R026645",
     "h1b_mentioned": false,
     "h1b_status": "unknown",
@@ -164740,7 +164760,7 @@
   },
   "workday:Broadcom:/job/USA-CA---Promontory-C/Senior-Software-Engineer---Cloud-Native-Storage_R026068": {
     "company": "Broadcom",
-    "enriched_at": "2026-10-04T06:03:07.672998+00:00",
+    "enriched_at": "2026-10-11T12:59:44.845366+00:00",
     "external_id": "/job/USA-CA---Promontory-C/Senior-Software-Engineer---Cloud-Native-Storage_R026068",
     "h1b_mentioned": false,
     "h1b_status": "unknown",
@@ -164822,7 +164842,7 @@
   },
   "workday:Broadcom:/job/USA-CA---Promontory-D/Staff-Software-Engineer_R026679": {
     "company": "Broadcom",
-    "enriched_at": "2026-10-04T06:03:07.460038+00:00",
+    "enriched_at": "2026-10-11T12:59:44.726667+00:00",
     "external_id": "/job/USA-CA---Promontory-D/Staff-Software-Engineer_R026679",
     "h1b_mentioned": false,
     "h1b_status": "unknown",
@@ -164845,7 +164865,7 @@
   },
   "workday:Broadcom:/job/USA-CA---Promontory-E/Network-Threat-Detection-R-D-Engineer_R026642": {
     "company": "Broadcom",
-    "enriched_at": "2026-10-04T06:03:07.371290+00:00",
+    "enriched_at": "2026-10-11T12:59:44.670609+00:00",
     "external_id": "/job/USA-CA---Promontory-E/Network-Threat-Detection-R-D-Engineer_R026642",
     "h1b_mentioned": false,
     "h1b_status": "unknown",
@@ -165055,7 +165075,7 @@
   },
   "workday:Broadcom:/job/USA-CA-Irvine-Alton-Parkway-Bldg-1/Hardware-Engineer_R026046": {
     "company": "Broadcom",
-    "enriched_at": "2026-10-04T06:03:07.684747+00:00",
+    "enriched_at": "2026-10-11T12:59:44.853112+00:00",
     "external_id": "/job/USA-CA-Irvine-Alton-Parkway-Bldg-1/Hardware-Engineer_R026046",
     "h1b_mentioned": false,
     "h1b_status": "unknown",
@@ -165216,7 +165236,7 @@
   },
   "workday:Broadcom:/job/USA-CA-Irvine-Alton-Parkway-Bldg-2/Analog-Layout-Designer_R025809": {
     "company": "Broadcom",
-    "enriched_at": "2026-10-04T06:03:07.691715+00:00",
+    "enriched_at": "2026-10-11T12:59:44.857675+00:00",
     "external_id": "/job/USA-CA-Irvine-Alton-Parkway-Bldg-2/Analog-Layout-Designer_R025809",
     "h1b_mentioned": false,
     "h1b_status": "unknown",
@@ -165419,7 +165439,7 @@
   },
   "workday:Broadcom:/job/USA-CA-Irvine-Alton-Parkway-Bldg-2/Staff-Program-Manager---Advanced-Packaging-Technology_R026235": {
     "company": "Broadcom",
-    "enriched_at": "2026-10-04T06:03:07.642112+00:00",
+    "enriched_at": "2026-10-11T12:59:44.831052+00:00",
     "external_id": "/job/USA-CA-Irvine-Alton-Parkway-Bldg-2/Staff-Program-Manager---Advanced-Packaging-Technology_R026235",
     "h1b_mentioned": false,
     "h1b_status": "unknown",
@@ -165498,7 +165518,7 @@
   },
   "workday:Broadcom:/job/USA-CA-San-Jose-Innovation-Drive/AI-Systems-Performance-Engineer_R025748": {
     "company": "Broadcom",
-    "enriched_at": "2026-10-04T06:03:07.725627+00:00",
+    "enriched_at": "2026-10-11T12:59:44.642052+00:00",
     "external_id": "/job/USA-CA-San-Jose-Innovation-Drive/AI-Systems-Performance-Engineer_R025748",
     "h1b_mentioned": false,
     "h1b_status": "unknown",
@@ -165506,7 +165526,6 @@
       "Python",
       "Docker",
       "Kubernetes",
-      "machine learning",
       "electrical engineering"
     ],
     "salary_currency": "",
@@ -165536,7 +165555,7 @@
   },
   "workday:Broadcom:/job/USA-CA-San-Jose-Innovation-Drive/ASIC-Implementation-Engineer-PD_R026204": {
     "company": "Broadcom",
-    "enriched_at": "2026-10-04T06:03:07.360536+00:00",
+    "enriched_at": "2026-10-11T12:59:44.667213+00:00",
     "external_id": "/job/USA-CA-San-Jose-Innovation-Drive/ASIC-Implementation-Engineer-PD_R026204",
     "h1b_mentioned": false,
     "h1b_status": "unknown",
@@ -165609,7 +165628,7 @@
   },
   "workday:Broadcom:/job/USA-CA-San-Jose-Innovation-Drive/ASIC-Implementation-Engineer_R026307": {
     "company": "Broadcom",
-    "enriched_at": "2026-10-04T06:03:07.598141+00:00",
+    "enriched_at": "2026-10-11T12:59:44.801462+00:00",
     "external_id": "/job/USA-CA-San-Jose-Innovation-Drive/ASIC-Implementation-Engineer_R026307",
     "h1b_mentioned": false,
     "h1b_status": "unknown",
@@ -165647,7 +165666,7 @@
   },
   "workday:Broadcom:/job/USA-CA-San-Jose-Innovation-Drive/ATE-Test-Development-Engineer_R026666": {
     "company": "Broadcom",
-    "enriched_at": "2026-10-04T06:03:07.503758+00:00",
+    "enriched_at": "2026-10-11T12:59:44.756202+00:00",
     "external_id": "/job/USA-CA-San-Jose-Innovation-Drive/ATE-Test-Development-Engineer_R026666",
     "h1b_mentioned": false,
     "h1b_status": "unknown",
@@ -165715,7 +165734,7 @@
   },
   "workday:Broadcom:/job/USA-CA-San-Jose-Innovation-Drive/DFT-Lead-Engineer_R026803-1": {
     "company": "Broadcom",
-    "enriched_at": "2026-10-04T06:03:07.437066+00:00",
+    "enriched_at": "2026-10-11T12:59:44.710716+00:00",
     "external_id": "/job/USA-CA-San-Jose-Innovation-Drive/DFT-Lead-Engineer_R026803-1",
     "h1b_mentioned": false,
     "h1b_status": "unknown",
@@ -165733,7 +165752,7 @@
   },
   "workday:Broadcom:/job/USA-CA-San-Jose-Innovation-Drive/Design-Verification-Engineer_R025763-1": {
     "company": "Broadcom",
-    "enriched_at": "2026-10-04T06:03:07.666734+00:00",
+    "enriched_at": "2026-10-11T12:59:44.841225+00:00",
     "external_id": "/job/USA-CA-San-Jose-Innovation-Drive/Design-Verification-Engineer_R025763-1",
     "h1b_mentioned": false,
     "h1b_status": "unknown",
@@ -165751,7 +165770,7 @@
   },
   "workday:Broadcom:/job/USA-CA-San-Jose-Innovation-Drive/Design-Verification-Engineer_R025908": {
     "company": "Broadcom",
-    "enriched_at": "2026-10-04T06:03:07.470607+00:00",
+    "enriched_at": "2026-10-11T12:59:44.733775+00:00",
     "external_id": "/job/USA-CA-San-Jose-Innovation-Drive/Design-Verification-Engineer_R025908",
     "h1b_mentioned": false,
     "h1b_status": "unknown",
@@ -165770,7 +165789,7 @@
   },
   "workday:Broadcom:/job/USA-CA-San-Jose-Innovation-Drive/Design-Verification-Engineer_R026295": {
     "company": "Broadcom",
-    "enriched_at": "2026-10-04T06:03:07.603413+00:00",
+    "enriched_at": "2026-10-11T12:59:44.804975+00:00",
     "external_id": "/job/USA-CA-San-Jose-Innovation-Drive/Design-Verification-Engineer_R026295",
     "h1b_mentioned": false,
     "h1b_status": "unknown",
@@ -165788,7 +165807,7 @@
   },
   "workday:Broadcom:/job/USA-CA-San-Jose-Innovation-Drive/Design-Verification-Engineer_R026325": {
     "company": "Broadcom",
-    "enriched_at": "2026-10-04T06:03:07.616702+00:00",
+    "enriched_at": "2026-10-11T12:59:44.814054+00:00",
     "external_id": "/job/USA-CA-San-Jose-Innovation-Drive/Design-Verification-Engineer_R026325",
     "h1b_mentioned": false,
     "h1b_status": "unknown",
@@ -166093,7 +166112,7 @@
   },
   "workday:Broadcom:/job/USA-CA-San-Jose-Innovation-Drive/R-D-Engineer-IC-Design_R024221": {
     "company": "Broadcom",
-    "enriched_at": "2026-10-04T06:03:07.700079+00:00",
+    "enriched_at": "2026-10-11T12:59:44.862946+00:00",
     "external_id": "/job/USA-CA-San-Jose-Innovation-Drive/R-D-Engineer-IC-Design_R024221",
     "h1b_mentioned": false,
     "h1b_status": "unknown",
@@ -166112,7 +166131,7 @@
   },
   "workday:Broadcom:/job/USA-CA-San-Jose-Innovation-Drive/R-D-Engineer-IC-Design_R024894": {
     "company": "Broadcom",
-    "enriched_at": "2026-10-04T06:03:07.696485+00:00",
+    "enriched_at": "2026-10-11T12:59:44.860511+00:00",
     "external_id": "/job/USA-CA-San-Jose-Innovation-Drive/R-D-Engineer-IC-Design_R024894",
     "h1b_mentioned": false,
     "h1b_status": "unknown",
@@ -166144,7 +166163,7 @@
   },
   "workday:Broadcom:/job/USA-CA-San-Jose-Innovation-Drive/R-D-Engineer-IC-Design_R025967": {
     "company": "Broadcom",
-    "enriched_at": "2026-10-04T06:03:07.706338+00:00",
+    "enriched_at": "2026-10-11T12:59:44.867127+00:00",
     "external_id": "/job/USA-CA-San-Jose-Innovation-Drive/R-D-Engineer-IC-Design_R025967",
     "h1b_mentioned": false,
     "h1b_status": "unknown",
@@ -166256,7 +166275,7 @@
   },
   "workday:Broadcom:/job/USA-CA-San-Jose-Innovation-Drive/R-D-Engineer-Software-5_R026619": {
     "company": "Broadcom",
-    "enriched_at": "2026-10-04T06:03:07.522861+00:00",
+    "enriched_at": "2026-10-11T12:59:44.655734+00:00",
     "external_id": "/job/USA-CA-San-Jose-Innovation-Drive/R-D-Engineer-Software-5_R026619",
     "h1b_mentioned": false,
     "h1b_status": "unknown",
@@ -166293,7 +166312,7 @@
   },
   "workday:Broadcom:/job/USA-CA-San-Jose-Innovation-Drive/R-D-Engineer_R026269-1": {
     "company": "Broadcom",
-    "enriched_at": "2026-10-04T06:03:07.635409+00:00",
+    "enriched_at": "2026-10-11T12:59:44.826560+00:00",
     "external_id": "/job/USA-CA-San-Jose-Innovation-Drive/R-D-Engineer_R026269-1",
     "h1b_mentioned": false,
     "h1b_status": "unknown",
@@ -166351,7 +166370,7 @@
   },
   "workday:Broadcom:/job/USA-CA-San-Jose-Innovation-Drive/RTL-integration-Engineer_R026729": {
     "company": "Broadcom",
-    "enriched_at": "2026-10-04T06:03:07.493221+00:00",
+    "enriched_at": "2026-10-11T12:59:44.749015+00:00",
     "external_id": "/job/USA-CA-San-Jose-Innovation-Drive/RTL-integration-Engineer_R026729",
     "h1b_mentioned": false,
     "h1b_status": "unknown",
@@ -166367,7 +166386,7 @@
   },
   "workday:Broadcom:/job/USA-CA-San-Jose-Innovation-Drive/Senior-Custom-ASIC-Engineering-Lead_R026704": {
     "company": "Broadcom",
-    "enriched_at": "2026-10-04T06:03:07.497296+00:00",
+    "enriched_at": "2026-10-11T12:59:44.751826+00:00",
     "external_id": "/job/USA-CA-San-Jose-Innovation-Drive/Senior-Custom-ASIC-Engineering-Lead_R026704",
     "h1b_mentioned": false,
     "h1b_status": "unknown",
@@ -166428,7 +166447,7 @@
   },
   "workday:Broadcom:/job/USA-CA-San-Jose-Innovation-Drive/SerDes-Application-Engineer_R026491": {
     "company": "Broadcom",
-    "enriched_at": "2026-10-04T06:03:07.535362+00:00",
+    "enriched_at": "2026-10-11T12:59:44.769231+00:00",
     "external_id": "/job/USA-CA-San-Jose-Innovation-Drive/SerDes-Application-Engineer_R026491",
     "h1b_mentioned": false,
     "h1b_status": "unknown",
@@ -166541,7 +166560,7 @@
   },
   "workday:Broadcom:/job/USA-CA-San-Jose-Innovation-Drive/Staff-Semiconductor-Power-Engineer--ICB4-_R026486": {
     "company": "Broadcom",
-    "enriched_at": "2026-10-04T06:03:07.554928+00:00",
+    "enriched_at": "2026-10-11T12:59:44.778349+00:00",
     "external_id": "/job/USA-CA-San-Jose-Innovation-Drive/Staff-Semiconductor-Power-Engineer--ICB4-_R026486",
     "h1b_mentioned": false,
     "h1b_status": "unknown",
@@ -166652,7 +166671,7 @@
   },
   "workday:Broadcom:/job/USA-CO-Broomfield/R-D-Engineer-SW-Quality-3_R026523": {
     "company": "Broadcom",
-    "enriched_at": "2026-10-04T06:03:07.393642+00:00",
+    "enriched_at": "2026-10-11T12:59:44.685613+00:00",
     "external_id": "/job/USA-CO-Broomfield/R-D-Engineer-SW-Quality-3_R026523",
     "h1b_mentioned": false,
     "h1b_status": "unknown",
@@ -166712,7 +166731,7 @@
   },
   "workday:Broadcom:/job/USA-California--San-Jose---1730-Fox-Drive/Director-of-Advanced-Technology_R026741": {
     "company": "Broadcom",
-    "enriched_at": "2026-10-04T06:03:07.475964+00:00",
+    "enriched_at": "2026-10-11T12:59:44.737345+00:00",
     "external_id": "/job/USA-California--San-Jose---1730-Fox-Drive/Director-of-Advanced-Technology_R026741",
     "h1b_mentioned": false,
     "h1b_status": "unknown",
@@ -167075,7 +167094,7 @@
   },
   "workday:Broadcom:/job/USA-California-San-Jose-1320-Ridder-Park-Drive/High-Speed-Analog-I-O-designer_R026574": {
     "company": "Broadcom",
-    "enriched_at": "2026-10-04T06:03:07.509628+00:00",
+    "enriched_at": "2026-10-11T12:59:44.760210+00:00",
     "external_id": "/job/USA-California-San-Jose-1320-Ridder-Park-Drive/High-Speed-Analog-I-O-designer_R026574",
     "h1b_mentioned": false,
     "h1b_status": "unknown",
@@ -167145,7 +167164,7 @@
   },
   "workday:Broadcom:/job/USA-California-San-Jose-1320-Ridder-Park-Drive/Lead-ASIC-Design-Engineer_R026296": {
     "company": "Broadcom",
-    "enriched_at": "2026-10-04T06:03:07.609260+00:00",
+    "enriched_at": "2026-10-11T12:59:44.808951+00:00",
     "external_id": "/job/USA-California-San-Jose-1320-Ridder-Park-Drive/Lead-ASIC-Design-Engineer_R026296",
     "h1b_mentioned": false,
     "h1b_status": "unknown",
@@ -167222,7 +167241,7 @@
   },
   "workday:Broadcom:/job/USA-California-San-Jose-1320-Ridder-Park-Drive/Principal-AI-Development-Engineer_R025622": {
     "company": "Broadcom",
-    "enriched_at": "2026-10-04T06:03:07.709911+00:00",
+    "enriched_at": "2026-10-11T12:59:44.869559+00:00",
     "external_id": "/job/USA-California-San-Jose-1320-Ridder-Park-Drive/Principal-AI-Development-Engineer_R025622",
     "h1b_mentioned": false,
     "h1b_status": "unknown",
@@ -167363,7 +167382,7 @@
   },
   "workday:Broadcom:/job/USA-California-San-Jose-1320-Ridder-Park-Drive/Silicon-Design-and-Validation-Engineer_R025787-1": {
     "company": "Broadcom",
-    "enriched_at": "2026-10-04T06:03:07.731965+00:00",
+    "enriched_at": "2026-10-11T12:59:44.880122+00:00",
     "external_id": "/job/USA-California-San-Jose-1320-Ridder-Park-Drive/Silicon-Design-and-Validation-Engineer_R025787-1",
     "h1b_mentioned": false,
     "h1b_status": "unknown",
@@ -167437,7 +167456,7 @@
   },
   "workday:Broadcom:/job/USA-California-San-Jose-1320-Ridder-Park-Drive/Substrate-Package-Layout-Engineer_R025810-1": {
     "company": "Broadcom",
-    "enriched_at": "2026-10-04T06:03:07.737785+00:00",
+    "enriched_at": "2026-10-11T12:59:44.884050+00:00",
     "external_id": "/job/USA-California-San-Jose-1320-Ridder-Park-Drive/Substrate-Package-Layout-Engineer_R025810-1",
     "h1b_mentioned": false,
     "h1b_status": "unknown",
@@ -167535,7 +167554,7 @@
   },
   "workday:Broadcom:/job/USA-Colorado-Colorado-Springs-4420-Arrowswest-Drive/US-Payroll-Analyst_R025785": {
     "company": "Broadcom",
-    "enriched_at": "2026-10-04T06:03:07.742790+00:00",
+    "enriched_at": "2026-10-11T12:59:44.887393+00:00",
     "external_id": "/job/USA-Colorado-Colorado-Springs-4420-Arrowswest-Drive/US-Payroll-Analyst_R025785",
     "h1b_mentioned": false,
     "h1b_status": "unknown",
@@ -167553,7 +167572,7 @@
   },
   "workday:Broadcom:/job/USA-Colorado-Fort-Collins-4380-Ziegler-Road/AI-Software-Engineer_R026268": {
     "company": "Broadcom",
-    "enriched_at": "2026-10-04T06:03:07.542122+00:00",
+    "enriched_at": "2026-10-11T12:59:44.773809+00:00",
     "external_id": "/job/USA-Colorado-Fort-Collins-4380-Ziegler-Road/AI-Software-Engineer_R026268",
     "h1b_mentioned": false,
     "h1b_status": "unknown",
@@ -168438,7 +168457,7 @@
   },
   "workday:Broadcom:/job/USA-Colorado-Fort-Collins-4380-Ziegler-Road/Manufacturing-Operator-3_R026674-1": {
     "company": "Broadcom",
-    "enriched_at": "2026-10-04T06:03:07.454844+00:00",
+    "enriched_at": "2026-10-11T12:59:44.723081+00:00",
     "external_id": "/job/USA-Colorado-Fort-Collins-4380-Ziegler-Road/Manufacturing-Operator-3_R026674-1",
     "h1b_mentioned": false,
     "h1b_status": "unknown",
@@ -168486,7 +168505,7 @@
   },
   "workday:Broadcom:/job/USA-Colorado-Fort-Collins-4380-Ziegler-Road/Metrology-Night-Shift-Equipment-Maintenance-Technician_R026711": {
     "company": "Broadcom",
-    "enriched_at": "2026-10-04T06:03:07.449180+00:00",
+    "enriched_at": "2026-10-11T12:59:44.719087+00:00",
     "external_id": "/job/USA-Colorado-Fort-Collins-4380-Ziegler-Road/Metrology-Night-Shift-Equipment-Maintenance-Technician_R026711",
     "h1b_mentioned": false,
     "h1b_status": "does_not_support_h1b",
@@ -168522,18 +168541,18 @@
   },
   "workday:Broadcom:/job/USA-Colorado-Fort-Collins-4380-Ziegler-Road/PHY-Lab-Technician_R025541": {
     "company": "Broadcom",
-    "enriched_at": "2026-10-04T06:03:07.340445+00:00",
+    "enriched_at": "2026-10-11T12:59:44.651825+00:00",
     "external_id": "/job/USA-Colorado-Fort-Collins-4380-Ziegler-Road/PHY-Lab-Technician_R025541",
     "h1b_mentioned": false,
     "h1b_status": "unknown",
     "keywords": [
       "procurement"
     ],
-    "salary_currency": "",
-    "salary_max": null,
-    "salary_min": null,
-    "salary_period": "",
-    "salary_text": "",
+    "salary_currency": "USD",
+    "salary_max": 32.45,
+    "salary_min": 23.17,
+    "salary_period": "hour",
+    "salary_text": "$23.17 - $32.45 per\u00a0hour",
     "source": "workday",
     "source_updated_at": "",
     "sponsorship_evidence": ""
@@ -168576,7 +168595,7 @@
   },
   "workday:Broadcom:/job/USA-Colorado-Fort-Collins-4380-Ziegler-Road/Photolithography-Process-Engineer_R026149": {
     "company": "Broadcom",
-    "enriched_at": "2026-10-04T06:03:07.649709+00:00",
+    "enriched_at": "2026-10-11T12:59:44.836058+00:00",
     "external_id": "/job/USA-Colorado-Fort-Collins-4380-Ziegler-Road/Photolithography-Process-Engineer_R026149",
     "h1b_mentioned": false,
     "h1b_status": "unknown",
@@ -168595,7 +168614,7 @@
   },
   "workday:Broadcom:/job/USA-Colorado-Fort-Collins-4380-Ziegler-Road/Principal-Fab-Test-Engineer_R026736": {
     "company": "Broadcom",
-    "enriched_at": "2026-10-04T06:03:07.420651+00:00",
+    "enriched_at": "2026-10-11T12:59:44.699980+00:00",
     "external_id": "/job/USA-Colorado-Fort-Collins-4380-Ziegler-Road/Principal-Fab-Test-Engineer_R026736",
     "h1b_mentioned": false,
     "h1b_status": "unknown",
@@ -168801,7 +168820,7 @@
   },
   "workday:Broadcom:/job/USA-IL-Lisle-Warrenville-Road/Mainframe-Software-Development-Engineer-in-Test_R026354": {
     "company": "Broadcom",
-    "enriched_at": "2026-10-04T06:03:07.561907+00:00",
+    "enriched_at": "2026-10-11T12:59:44.783155+00:00",
     "external_id": "/job/USA-IL-Lisle-Warrenville-Road/Mainframe-Software-Development-Engineer-in-Test_R026354",
     "h1b_mentioned": false,
     "h1b_status": "unknown",
@@ -168822,7 +168841,7 @@
   },
   "workday:Broadcom:/job/USA-IL-Lisle-Warrenville-Road/R-D-Engineer-Software-3_R026561-3": {
     "company": "Broadcom",
-    "enriched_at": "2026-10-04T06:03:07.516037+00:00",
+    "enriched_at": "2026-10-11T12:59:44.764574+00:00",
     "external_id": "/job/USA-IL-Lisle-Warrenville-Road/R-D-Engineer-Software-3_R026561-3",
     "h1b_mentioned": false,
     "h1b_status": "unknown",
@@ -168858,7 +168877,7 @@
   },
   "workday:Broadcom:/job/USA-IL-Lisle-Warrenville-Road/Support-Engineer---Mainframe_R026779": {
     "company": "Broadcom",
-    "enriched_at": "2026-10-04T06:03:07.410166+00:00",
+    "enriched_at": "2026-10-11T12:59:44.693283+00:00",
     "external_id": "/job/USA-IL-Lisle-Warrenville-Road/Support-Engineer---Mainframe_R026779",
     "h1b_mentioned": false,
     "h1b_status": "unknown",
@@ -168966,7 +168985,7 @@
   },
   "workday:Broadcom:/job/USA-Mendota-Heights-Northland/Staff-Memory-Circuit-Design-Engineer_R026771": {
     "company": "Broadcom",
-    "enriched_at": "2026-10-04T06:03:07.431242+00:00",
+    "enriched_at": "2026-10-11T12:59:44.706779+00:00",
     "external_id": "/job/USA-Mendota-Heights-Northland/Staff-Memory-Circuit-Design-Engineer_R026771",
     "h1b_mentioned": false,
     "h1b_status": "unknown",
@@ -169017,7 +169036,7 @@
   },
   "workday:Broadcom:/job/USA-NC-Durham-Swabia-Court-Suite-400/Product-Owner_R026191-1": {
     "company": "Broadcom",
-    "enriched_at": "2026-10-04T06:03:07.622606+00:00",
+    "enriched_at": "2026-10-11T12:59:44.818104+00:00",
     "external_id": "/job/USA-NC-Durham-Swabia-Court-Suite-400/Product-Owner_R026191-1",
     "h1b_mentioned": false,
     "h1b_status": "unknown",
@@ -169075,7 +169094,7 @@
   },
   "workday:Broadcom:/job/USA-PA-Pittsburgh-Holiday-Drive/Product-Manager_R026271": {
     "company": "Broadcom",
-    "enriched_at": "2026-10-04T06:03:07.591247+00:00",
+    "enriched_at": "2026-10-11T12:59:44.796813+00:00",
     "external_id": "/job/USA-PA-Pittsburgh-Holiday-Drive/Product-Manager_R026271",
     "h1b_mentioned": false,
     "h1b_status": "unknown",
@@ -169096,7 +169115,7 @@
   },
   "workday:Broadcom:/job/USA-Pennsylvania-Breinigsville-9999-Hamilton-Blvd/A-Shift-Material-Handler_R026399": {
     "company": "Broadcom",
-    "enriched_at": "2026-10-04T06:03:07.575195+00:00",
+    "enriched_at": "2026-10-11T12:59:44.791890+00:00",
     "external_id": "/job/USA-Pennsylvania-Breinigsville-9999-Hamilton-Blvd/A-Shift-Material-Handler_R026399",
     "h1b_mentioned": false,
     "h1b_status": "unknown",
@@ -169214,7 +169233,7 @@
   },
   "workday:Broadcom:/job/USA-Pennsylvania-Breinigsville-9999-Hamilton-Blvd/Process-and-Integration-Engineer--Optoelectronics_R026344-1": {
     "company": "Broadcom",
-    "enriched_at": "2026-10-04T06:03:07.582792+00:00",
+    "enriched_at": "2026-10-11T12:59:44.646533+00:00",
     "external_id": "/job/USA-Pennsylvania-Breinigsville-9999-Hamilton-Blvd/Process-and-Integration-Engineer--Optoelectronics_R026344-1",
     "h1b_mentioned": false,
     "h1b_status": "unknown",
@@ -169254,7 +169273,7 @@
   },
   "workday:Broadcom:/job/USA-Pennsylvania-Breinigsville-9999-Hamilton-Blvd/Wafer-Fab-Material-Handler_R025767": {
     "company": "Broadcom",
-    "enriched_at": "2026-10-04T06:03:07.567700+00:00",
+    "enriched_at": "2026-10-11T12:59:44.786989+00:00",
     "external_id": "/job/USA-Pennsylvania-Breinigsville-9999-Hamilton-Blvd/Wafer-Fab-Material-Handler_R025767",
     "h1b_mentioned": false,
     "h1b_status": "unknown",
@@ -169295,7 +169314,7 @@
   },
   "workday:Broadcom:/job/USA-TX-Austin---River-Place-B7/DFT-Engineer_R026349-1": {
     "company": "Broadcom",
-    "enriched_at": "2026-10-04T06:03:07.379331+00:00",
+    "enriched_at": "2026-10-11T12:59:44.675952+00:00",
     "external_id": "/job/USA-TX-Austin---River-Place-B7/DFT-Engineer_R026349-1",
     "h1b_mentioned": false,
     "h1b_status": "unknown",
@@ -169668,7 +169687,7 @@
   },
   "workday:Broadcom:/job/USA-TX-Plano-Legacy-Drive-Suite-700/Mainframe-Cybersecurity-Software-Engineer--ICB-5-_R026564-4": {
     "company": "Broadcom",
-    "enriched_at": "2026-10-04T06:03:07.351073+00:00",
+    "enriched_at": "2026-10-11T12:59:44.660940+00:00",
     "external_id": "/job/USA-TX-Plano-Legacy-Drive-Suite-700/Mainframe-Cybersecurity-Software-Engineer--ICB-5-_R026564-4",
     "h1b_mentioned": false,
     "h1b_status": "unknown",
@@ -169765,7 +169784,7 @@
   },
   "workday:Broadcom:/job/USA-TX-Plano-Legacy-Drive-Suite-700/Senior-Software-Engineer--ICB3-_R026584": {
     "company": "Broadcom",
-    "enriched_at": "2026-10-04T06:03:07.527440+00:00",
+    "enriched_at": "2026-10-11T12:59:44.636693+00:00",
     "external_id": "/job/USA-TX-Plano-Legacy-Drive-Suite-700/Senior-Software-Engineer--ICB3-_R026584",
     "h1b_mentioned": false,
     "h1b_status": "unknown",
@@ -184464,7 +184483,7 @@
   },
   "workday:Capital One:/job/New-York-NY/Full-stack-Engineer-4--Manager--IC-_R1001172-1": {
     "company": "Capital One",
-    "enriched_at": "2026-10-04T05:51:40.634616+00:00",
+    "enriched_at": "2026-10-11T12:48:37.882800+00:00",
     "external_id": "/job/New-York-NY/Full-stack-Engineer-4--Manager--IC-_R1001172-1",
     "h1b_mentioned": true,
     "h1b_status": "does_not_support_h1b",
@@ -249648,7 +249667,7 @@
   },
   "workday:Cisco Systems:/job/RTP-North-Carolina-US/Strategy---Planning-Manager---Enterprise-AI-Programs---Governance---Hybrid_2024069": {
     "company": "Cisco Systems",
-    "enriched_at": "2026-10-04T06:01:31.282142+00:00",
+    "enriched_at": "2026-10-11T12:58:15.785822+00:00",
     "external_id": "/job/RTP-North-Carolina-US/Strategy---Planning-Manager---Enterprise-AI-Programs---Governance---Hybrid_2024069",
     "h1b_mentioned": false,
     "h1b_status": "unknown",
@@ -250003,7 +250022,7 @@
   },
   "workday:Cisco Systems:/job/Remote---Virginia-USA/Business-Development-Manager---Splunk-PBST---NatSec_2025721-1": {
     "company": "Cisco Systems",
-    "enriched_at": "2026-10-04T06:01:31.267080+00:00",
+    "enriched_at": "2026-10-11T12:58:15.776285+00:00",
     "external_id": "/job/Remote---Virginia-USA/Business-Development-Manager---Splunk-PBST---NatSec_2025721-1",
     "h1b_mentioned": false,
     "h1b_status": "unknown",
@@ -250167,7 +250186,7 @@
   },
   "workday:Cisco Systems:/job/Richardson-Texas-US/Technical-Marketing-Engineering-Technical-Leader_2024360": {
     "company": "Cisco Systems",
-    "enriched_at": "2026-10-04T06:01:31.303949+00:00",
+    "enriched_at": "2026-10-11T12:58:15.815700+00:00",
     "external_id": "/job/Richardson-Texas-US/Technical-Marketing-Engineering-Technical-Leader_2024360",
     "h1b_mentioned": false,
     "h1b_status": "unknown",
@@ -252928,6 +252947,26 @@
     "company": "Cisco Systems",
     "enriched_at": "2026-09-24T11:55:45.244185+00:00",
     "external_id": "/job/San-Jose-California-US/Executive-Assistant--SVP-GM--Engineering_2023440",
+    "h1b_mentioned": false,
+    "h1b_status": "unknown",
+    "keywords": [
+      "Excel",
+      "logistics",
+      "sales"
+    ],
+    "salary_currency": "",
+    "salary_max": null,
+    "salary_min": null,
+    "salary_period": "",
+    "salary_text": "",
+    "source": "workday",
+    "source_updated_at": "",
+    "sponsorship_evidence": ""
+  },
+  "workday:Cisco Systems:/job/San-Jose-California-US/Executive-Assistant--VP--Customer-Experience-Product-Management--Hybrid-_2026294": {
+    "company": "Cisco Systems",
+    "enriched_at": "2026-10-11T12:58:15.753102+00:00",
+    "external_id": "/job/San-Jose-California-US/Executive-Assistant--VP--Customer-Experience-Product-Management--Hybrid-_2026294",
     "h1b_mentioned": false,
     "h1b_status": "unknown",
     "keywords": [
@@ -255712,6 +255751,30 @@
     "source_updated_at": "",
     "sponsorship_evidence": ""
   },
+  "workday:Cisco Systems:/job/San-Jose-California-US/Solutions-Engineer---Splunk--Remote-_2024724-1": {
+    "company": "Cisco Systems",
+    "enriched_at": "2026-10-11T12:58:15.760702+00:00",
+    "external_id": "/job/San-Jose-California-US/Solutions-Engineer---Splunk--Remote-_2024724-1",
+    "h1b_mentioned": false,
+    "h1b_status": "unknown",
+    "keywords": [
+      "Python",
+      "TypeScript",
+      "machine learning",
+      "data science",
+      "analytics",
+      "electrical engineering",
+      "sales"
+    ],
+    "salary_currency": "",
+    "salary_max": null,
+    "salary_min": null,
+    "salary_period": "",
+    "salary_text": "",
+    "source": "workday",
+    "source_updated_at": "",
+    "sponsorship_evidence": ""
+  },
   "workday:Cisco Systems:/job/San-Jose-California-US/Solutions-Engineer-I-MI-Routing--Optical-and-Automation_2020809": {
     "company": "Cisco Systems",
     "enriched_at": "2026-08-29T16:58:49.905285+00:00",
@@ -255875,7 +255938,7 @@
   },
   "workday:Cisco Systems:/job/San-Jose-California-US/Sr-Technical-Product-Marketing-Manager--AI-and-AgenticOps_2024135-1": {
     "company": "Cisco Systems",
-    "enriched_at": "2026-10-04T12:30:09.434779+00:00",
+    "enriched_at": "2026-10-11T12:58:15.768287+00:00",
     "external_id": "/job/San-Jose-California-US/Sr-Technical-Product-Marketing-Manager--AI-and-AgenticOps_2024135-1",
     "h1b_mentioned": false,
     "h1b_status": "unknown",
@@ -256145,7 +256208,7 @@
   },
   "workday:Cisco Systems:/job/Santa-Monica-California-US/Hardware-Tech-Lead--Optomechanical-Engineer_2023652": {
     "company": "Cisco Systems",
-    "enriched_at": "2026-10-04T12:30:09.447485+00:00",
+    "enriched_at": "2026-10-11T12:58:15.792510+00:00",
     "external_id": "/job/Santa-Monica-California-US/Hardware-Tech-Lead--Optomechanical-Engineer_2023652",
     "h1b_mentioned": false,
     "h1b_status": "unknown",
@@ -256185,7 +256248,7 @@
   },
   "workday:Cisco Systems:/job/Santa-Monica-California-US/Principal-Hardware-Engineer_2024112": {
     "company": "Cisco Systems",
-    "enriched_at": "2026-10-04T12:30:09.459797+00:00",
+    "enriched_at": "2026-10-11T12:58:15.800260+00:00",
     "external_id": "/job/Santa-Monica-California-US/Principal-Hardware-Engineer_2024112",
     "h1b_mentioned": false,
     "h1b_status": "unknown",
@@ -256227,7 +256290,7 @@
   },
   "workday:Cisco Systems:/job/Santa-Monica-California-US/Tech-Lead---Hardware--Embedded-Engineer_2023650": {
     "company": "Cisco Systems",
-    "enriched_at": "2026-10-04T12:30:09.471043+00:00",
+    "enriched_at": "2026-10-11T12:58:15.807428+00:00",
     "external_id": "/job/Santa-Monica-California-US/Tech-Lead---Hardware--Embedded-Engineer_2023650",
     "h1b_mentioned": false,
     "h1b_status": "unknown",
@@ -331066,7 +331129,7 @@
   },
   "workday:Johnson & Johnson:/job/Danvers-Massachusetts-United-States-of-America/Supplier-Development-Engineer-Co-Op_R-098406": {
     "company": "Johnson & Johnson",
-    "enriched_at": "2026-10-04T05:55:11.579446+00:00",
+    "enriched_at": "2026-10-11T12:52:13.207421+00:00",
     "external_id": "/job/Danvers-Massachusetts-United-States-of-America/Supplier-Development-Engineer-Co-Op_R-098406",
     "h1b_mentioned": true,
     "h1b_status": "unknown",
@@ -364406,7 +364469,7 @@
   },
   "workday:Lowe's:/job/Arden-NC-S-Asheville-2201/Full-Time---Sales-Associate---Outside-Lawn---Garden---Closing_JR-02658479": {
     "company": "Lowe's",
-    "enriched_at": "2026-10-04T06:01:04.362121+00:00",
+    "enriched_at": "2026-10-11T12:57:49.004456+00:00",
     "external_id": "/job/Arden-NC-S-Asheville-2201/Full-Time---Sales-Associate---Outside-Lawn---Garden---Closing_JR-02658479",
     "h1b_mentioned": false,
     "h1b_status": "unknown",
@@ -383713,7 +383776,7 @@
   },
   "workday:Lowe's:/job/Honolulu-HI-Iwilei-2336/Full-Time---Lowe-s-Security-Specialist---Day_JR-02649001-1": {
     "company": "Lowe's",
-    "enriched_at": "2026-10-04T12:29:42.758160+00:00",
+    "enriched_at": "2026-10-11T12:57:49.010207+00:00",
     "external_id": "/job/Honolulu-HI-Iwilei-2336/Full-Time---Lowe-s-Security-Specialist---Day_JR-02649001-1",
     "h1b_mentioned": false,
     "h1b_status": "unknown",
@@ -395903,7 +395966,7 @@
   },
   "workday:Lowe's:/job/Milwaukie-OR-Clackamas-County-1824/Full-Time---Fulfillment-Associate---Day_JR-02658485": {
     "company": "Lowe's",
-    "enriched_at": "2026-10-04T06:01:04.357912+00:00",
+    "enriched_at": "2026-10-11T12:57:49.001660+00:00",
     "external_id": "/job/Milwaukie-OR-Clackamas-County-1824/Full-Time---Fulfillment-Associate---Day_JR-02658485",
     "h1b_mentioned": false,
     "h1b_status": "unknown",
@@ -423196,7 +423259,7 @@
   },
   "workday:Lowe's:/job/Ypsilanti-MI-Ann-Arbor-0734/Full-Time---Cashier---Closing_JR-02658514": {
     "company": "Lowe's",
-    "enriched_at": "2026-10-04T12:29:42.750290+00:00",
+    "enriched_at": "2026-10-11T12:57:48.996504+00:00",
     "external_id": "/job/Ypsilanti-MI-Ann-Arbor-0734/Full-Time---Cashier---Closing_JR-02658514",
     "h1b_mentioned": false,
     "h1b_status": "unknown",
@@ -495214,7 +495277,7 @@
   },
   "workday:NVIDIA:/job/US-WA-Remote/Principal-Engineer--Security-Architecture---DGX-Cloud_JR2026132": {
     "company": "NVIDIA",
-    "enriched_at": "2026-10-04T12:20:26.510694+00:00",
+    "enriched_at": "2026-10-11T12:48:08.688108+00:00",
     "external_id": "/job/US-WA-Remote/Principal-Engineer--Security-Architecture---DGX-Cloud_JR2026132",
     "h1b_mentioned": false,
     "h1b_status": "unknown",
@@ -552051,7 +552114,7 @@
   },
   "workday:Northrop Grumman:/job/United-States-California-Woodland-Hills/Senior-Principal-Engineering-Program-Manager-Airborne-Navigation-Systems_R10247181": {
     "company": "Northrop Grumman",
-    "enriched_at": "2026-10-04T05:52:59.721217+00:00",
+    "enriched_at": "2026-10-11T12:49:59.776480+00:00",
     "external_id": "/job/United-States-California-Woodland-Hills/Senior-Principal-Engineering-Program-Manager-Airborne-Navigation-Systems_R10247181",
     "h1b_mentioned": false,
     "h1b_status": "unknown",
@@ -552369,7 +552432,7 @@
   },
   "workday:Northrop Grumman:/job/United-States-California-Woodland-Hills/Staff-DO-229-Systems-Engineer--I-T--Lead_R10247183": {
     "company": "Northrop Grumman",
-    "enriched_at": "2026-10-04T05:52:59.702480+00:00",
+    "enriched_at": "2026-10-11T12:49:59.771380+00:00",
     "external_id": "/job/United-States-California-Woodland-Hills/Staff-DO-229-Systems-Engineer--I-T--Lead_R10247183",
     "h1b_mentioned": false,
     "h1b_status": "unknown",
@@ -652803,6 +652866,26 @@
     "source_updated_at": "",
     "sponsorship_evidence": ""
   },
+  "workday:RTX:/job/AE-AZ-ABU-DHABI-REGUS-CUST--Regus-ADGM-Square-Maryah-Island-Al-Maqam-Tower--REGUS-ADGM-SQ-External-Site/Procurement-Intern_01881274": {
+    "company": "RTX",
+    "enriched_at": "2026-10-11T12:53:37.008864+00:00",
+    "external_id": "/job/AE-AZ-ABU-DHABI-REGUS-CUST--Regus-ADGM-Square-Maryah-Island-Al-Maqam-Tower--REGUS-ADGM-SQ-External-Site/Procurement-Intern_01881274",
+    "h1b_mentioned": false,
+    "h1b_status": "unknown",
+    "keywords": [
+      "supply chain",
+      "procurement",
+      "compliance"
+    ],
+    "salary_currency": "",
+    "salary_max": null,
+    "salary_min": null,
+    "salary_period": "",
+    "salary_text": "",
+    "source": "workday",
+    "source_updated_at": "",
+    "sponsorship_evidence": ""
+  },
   "workday:RTX:/job/AE-AZ-MILITARY-CUST--Abu-Dhabi-Capital--ABU-DHABI-CAPITAL-Military-Locations-External-Site/Calibration-Technician---UAE_01843888": {
     "company": "RTX",
     "enriched_at": "2026-08-29T16:53:36.953378+00:00",
@@ -673310,7 +673393,7 @@
   },
   "workday:RTX:/job/IN-KA-BENGALURU-NORTHGATE--Sy-No-22-Venkatala-Village--SY-NO-22-VENKATALA-VILLAGE-Yelahanka-Hobli/US-Offboarding-Specialist_01871494": {
     "company": "RTX",
-    "enriched_at": "2026-10-04T12:25:45.867235+00:00",
+    "enriched_at": "2026-10-11T12:53:37.012813+00:00",
     "external_id": "/job/IN-KA-BENGALURU-NORTHGATE--Sy-No-22-Venkatala-Village--SY-NO-22-VENKATALA-VILLAGE-Yelahanka-Hobli/US-Offboarding-Specialist_01871494",
     "h1b_mentioned": false,
     "h1b_status": "unknown",
@@ -712142,7 +712225,7 @@
   },
   "workday:RTX:/job/US-CA-EL-SEGUNDO-R01--2000-E-Imperial-Hwy--BLDG-R01/Radar-Program-Manager--F-15-Japan_01865708": {
     "company": "RTX",
-    "enriched_at": "2026-10-04T05:56:43.876987+00:00",
+    "enriched_at": "2026-10-11T12:53:37.073499+00:00",
     "external_id": "/job/US-CA-EL-SEGUNDO-R01--2000-E-Imperial-Hwy--BLDG-R01/Radar-Program-Manager--F-15-Japan_01865708",
     "h1b_mentioned": false,
     "h1b_status": "unknown",
@@ -752516,7 +752599,7 @@
   },
   "workday:RTX:/job/US-GA-WARNER-ROBINS-512--1230-Carl-Vinson-Pkwy--ROBINS-ENGINEERING-CTR/Systems-Engineer-I--Onsite-_01869496": {
     "company": "RTX",
-    "enriched_at": "2026-10-04T05:56:43.836194+00:00",
+    "enriched_at": "2026-10-11T12:53:37.046931+00:00",
     "external_id": "/job/US-GA-WARNER-ROBINS-512--1230-Carl-Vinson-Pkwy--ROBINS-ENGINEERING-CTR/Systems-Engineer-I--Onsite-_01869496",
     "h1b_mentioned": false,
     "h1b_status": "unknown",
@@ -754358,7 +754441,7 @@
   },
   "workday:RTX:/job/US-IA-CEDAR-RAPIDS-105--400-Collins-Rd-NE--BLDG-105/Systems-Engineering---Summer-Intern-2027---Onsite_01873971": {
     "company": "RTX",
-    "enriched_at": "2026-10-04T05:56:43.826769+00:00",
+    "enriched_at": "2026-10-11T12:53:37.040672+00:00",
     "external_id": "/job/US-IA-CEDAR-RAPIDS-105--400-Collins-Rd-NE--BLDG-105/Systems-Engineering---Summer-Intern-2027---Onsite_01873971",
     "h1b_mentioned": false,
     "h1b_status": "unknown",
@@ -755365,7 +755448,7 @@
   },
   "workday:RTX:/job/US-IA-CEDAR-RAPIDS-107--400-Collins-Rd-NE--BLDG-107/Next-Gen-Systems-Engineer-II--Onsite-_01874232": {
     "company": "RTX",
-    "enriched_at": "2026-10-04T12:25:45.877223+00:00",
+    "enriched_at": "2026-10-11T12:53:37.034901+00:00",
     "external_id": "/job/US-IA-CEDAR-RAPIDS-107--400-Collins-Rd-NE--BLDG-107/Next-Gen-Systems-Engineer-II--Onsite-_01874232",
     "h1b_mentioned": false,
     "h1b_status": "unknown",
@@ -755691,7 +755774,7 @@
   },
   "workday:RTX:/job/US-IA-CEDAR-RAPIDS-108--400-Collins-Rd-NE--BLDG-108/Co-Op---AI-DSP-Applied-Research_01873016": {
     "company": "RTX",
-    "enriched_at": "2026-10-04T05:56:43.810140+00:00",
+    "enriched_at": "2026-10-11T12:53:37.024014+00:00",
     "external_id": "/job/US-IA-CEDAR-RAPIDS-108--400-Collins-Rd-NE--BLDG-108/Co-Op---AI-DSP-Applied-Research_01873016",
     "h1b_mentioned": false,
     "h1b_status": "unknown",
@@ -756976,7 +757059,7 @@
   },
   "workday:RTX:/job/US-IA-CEDAR-RAPIDS-112--400-Collins-Rd-NE--BLDG-112/Avionics-Test-Engineering--Systems-Engineer-Intern--Onsite-_01876518": {
     "company": "RTX",
-    "enriched_at": "2026-10-04T05:56:43.802550+00:00",
+    "enriched_at": "2026-10-11T12:53:37.019095+00:00",
     "external_id": "/job/US-IA-CEDAR-RAPIDS-112--400-Collins-Rd-NE--BLDG-112/Avionics-Test-Engineering--Systems-Engineer-Intern--Onsite-_01876518",
     "h1b_mentioned": false,
     "h1b_status": "unknown",
@@ -762244,7 +762327,7 @@
   },
   "workday:RTX:/job/US-IA-CEDAR-RAPIDS-137--855-35Th-St-NE--BLDG-137/Systems-Engineer-I---Tac-Comm--Onsite-_01870089": {
     "company": "RTX",
-    "enriched_at": "2026-10-04T05:56:43.818401+00:00",
+    "enriched_at": "2026-10-11T12:53:37.029424+00:00",
     "external_id": "/job/US-IA-CEDAR-RAPIDS-137--855-35Th-St-NE--BLDG-137/Systems-Engineer-I---Tac-Comm--Onsite-_01870089",
     "h1b_mentioned": false,
     "h1b_status": "unknown",
@@ -770606,7 +770689,7 @@
   },
   "workday:RTX:/job/US-IN-FT-WAYNE-150A--1010-Production-Rd--BLDG-150A/Senior-Systems-Engineer---Missile-Defense-Radars_01854418": {
     "company": "RTX",
-    "enriched_at": "2026-10-04T05:56:43.866491+00:00",
+    "enriched_at": "2026-10-11T12:53:37.066653+00:00",
     "external_id": "/job/US-IN-FT-WAYNE-150A--1010-Production-Rd--BLDG-150A/Senior-Systems-Engineer---Missile-Defense-Radars_01854418",
     "h1b_mentioned": false,
     "h1b_status": "unknown",
@@ -781408,7 +781491,7 @@
   },
   "workday:RTX:/job/US-MA-MARLBOROUGH-MA1--1001-Boston-Post-Rd--BLDG-1/Systems-Engineer-I_01866673": {
     "company": "RTX",
-    "enriched_at": "2026-10-04T05:56:43.855690+00:00",
+    "enriched_at": "2026-10-11T12:53:37.059643+00:00",
     "external_id": "/job/US-MA-MARLBOROUGH-MA1--1001-Boston-Post-Rd--BLDG-1/Systems-Engineer-I_01866673",
     "h1b_mentioned": false,
     "h1b_status": "unknown",
@@ -786877,7 +786960,7 @@
   },
   "workday:RTX:/job/US-MA-TEWKSBURY-TB2--50-Apple-Hill-Dr--SUDBURY-BLDG-Tewksbury-Tb2-200-Sudbury/System-Engineer-I_01866674": {
     "company": "RTX",
-    "enriched_at": "2026-10-04T05:56:43.844821+00:00",
+    "enriched_at": "2026-10-11T12:53:37.052596+00:00",
     "external_id": "/job/US-MA-TEWKSBURY-TB2--50-Apple-Hill-Dr--SUDBURY-BLDG-Tewksbury-Tb2-200-Sudbury/System-Engineer-I_01866674",
     "h1b_mentioned": false,
     "h1b_status": "unknown",
@@ -876258,7 +876341,7 @@
   },
   "workday:Thermo Fisher Scientific:/job/Foster-City-California-USA/Sr-Lab-Services-Specialist_R-01367912": {
     "company": "Thermo Fisher Scientific",
-    "enriched_at": "2026-10-04T06:02:48.740572+00:00",
+    "enriched_at": "2026-10-11T12:59:25.778125+00:00",
     "external_id": "/job/Foster-City-California-USA/Sr-Lab-Services-Specialist_R-01367912",
     "h1b_mentioned": false,
     "h1b_status": "unknown",

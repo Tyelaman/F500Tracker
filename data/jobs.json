@@ -14978,9 +14978,9 @@
       "logistics",
       "recruiting"
     ],
-    "updated_at": "2026-10-07T13:21:15-04:00",
+    "updated_at": "2026-10-11T03:16:36-04:00",
     "first_seen_at": "2026-10-07T23:19:00.311213+00:00",
-    "enriched_at": "2026-10-07T23:04:45.289730+00:00"
+    "enriched_at": "2026-10-11T12:48:02.128484+00:00"
   },
   {
     "company": "DoorDash",
@@ -22813,35 +22813,6 @@
   {
     "company": "Workday",
     "fortune_rank": 430,
-    "title": "Finance Manager",
-    "location": "USA, CA, Pleasanton",
-    "url": "https://workday.wd5.myworkdayjobs.com/en-US/Workday/job/USA-CA-Pleasanton/Finance-Manager_JR-0110330",
-    "source": "workday",
-    "external_id": "/job/USA-CA-Pleasanton/Finance-Manager_JR-0110330",
-    "employment_type": "full-time",
-    "category": "Finance & Accounting",
-    "h1b_status": "unknown",
-    "sponsorship_evidence": "",
-    "h1b_mentioned": false,
-    "salary_min": null,
-    "salary_max": null,
-    "salary_currency": "",
-    "salary_period": "",
-    "salary_text": "",
-    "keywords": [
-      "analytics",
-      "financial modeling",
-      "accounting",
-      "sales",
-      "recruiting"
-    ],
-    "updated_at": "",
-    "first_seen_at": "2026-10-08T23:35:35.417412+00:00",
-    "enriched_at": "2026-10-08T23:20:28.046676+00:00"
-  },
-  {
-    "company": "Workday",
-    "fortune_rank": 430,
     "title": "Principal/Senior AI Engineer",
     "location": "USA, GA, Atlanta",
     "url": "https://workday.wd5.myworkdayjobs.com/en-US/Workday/job/USA-GA-Atlanta/Senior-Principal-Machine-Learning-Engineer_JR-0105599",
@@ -23006,7 +22977,7 @@
     ],
     "updated_at": "",
     "first_seen_at": "2026-10-11T05:56:30.725902+00:00",
-    "enriched_at": "2026-10-04T12:20:26.510694+00:00"
+    "enriched_at": "2026-10-11T12:48:08.688108+00:00"
   },
   {
     "company": "NVIDIA",
@@ -34986,7 +34957,7 @@
     ],
     "updated_at": "",
     "first_seen_at": "2026-09-20T05:00:06.460185+00:00",
-    "enriched_at": "2026-10-04T05:51:40.634616+00:00"
+    "enriched_at": "2026-10-11T12:48:37.882800+00:00"
   },
   {
     "company": "Capital One",
@@ -42184,61 +42155,6 @@
   {
     "company": "Northrop Grumman",
     "fortune_rank": 112,
-    "title": "2027 Electrical Engineer\u202fIntern -McClellan CA",
-    "location": "United States-California-McClellan",
-    "url": "https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-California-McClellan/XMLNAME-2027-Electrical-Engineer-Intern--McClellan-CA_R10255116",
-    "source": "workday",
-    "external_id": "/job/United-States-California-McClellan/XMLNAME-2027-Electrical-Engineer-Intern--McClellan-CA_R10255116",
-    "employment_type": "internship",
-    "category": "Engineering",
-    "h1b_status": "unknown",
-    "sponsorship_evidence": "",
-    "h1b_mentioned": false,
-    "salary_min": 21.5,
-    "salary_max": 39.0,
-    "salary_currency": "USD",
-    "salary_period": "hour",
-    "salary_text": "$21.50 to $39.00 per hour",
-    "keywords": [
-      "Python",
-      "Java",
-      "electrical engineering"
-    ],
-    "updated_at": "",
-    "first_seen_at": "2026-10-08T23:35:35.417412+00:00",
-    "enriched_at": "2026-10-08T23:22:37.690245+00:00"
-  },
-  {
-    "company": "Northrop Grumman",
-    "fortune_rank": 112,
-    "title": "2027 - Mechanical Engineer\u202fIntern -McClellan CA",
-    "location": "United States-California-McClellan",
-    "url": "https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-California-McClellan/XMLNAME-2027---Mechanical-Engineer-Intern--McClellan-CA_R10255111",
-    "source": "workday",
-    "external_id": "/job/United-States-California-McClellan/XMLNAME-2027---Mechanical-Engineer-Intern--McClellan-CA_R10255111",
-    "employment_type": "internship",
-    "category": "Engineering",
-    "h1b_status": "unknown",
-    "sponsorship_evidence": "",
-    "h1b_mentioned": false,
-    "salary_min": 21.5,
-    "salary_max": 39.0,
-    "salary_currency": "USD",
-    "salary_period": "hour",
-    "salary_text": "$21.50 to $39.00 per hour",
-    "keywords": [
-      "mechanical engineering",
-      "CAD",
-      "SolidWorks",
-      "compliance"
-    ],
-    "updated_at": "",
-    "first_seen_at": "2026-10-08T23:35:35.417412+00:00",
-    "enriched_at": "2026-10-08T23:22:37.699494+00:00"
-  },
-  {
-    "company": "Northrop Grumman",
-    "fortune_rank": 112,
     "title": "2027-Systems Engineer Intern - McClellan CA",
     "location": "United States-California-McClellan",
     "url": "https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-California-McClellan/XMLNAME-2027-Systems-Engineer-Intern---McClellan-CA_R10255163",
@@ -42258,32 +42174,6 @@
     "updated_at": "",
     "first_seen_at": "2026-10-08T23:35:35.417412+00:00",
     "enriched_at": "2026-10-08T23:22:37.709829+00:00"
-  },
-  {
-    "company": "Northrop Grumman",
-    "fortune_rank": 112,
-    "title": "2027 Software Engineer Intern \u2013 McClellan CA",
-    "location": "United States-California-McClellan",
-    "url": "https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-California-McClellan/XMLNAME-2027-Software-Engineer-Intern---McClellan-CA_R10255207",
-    "source": "workday",
-    "external_id": "/job/United-States-California-McClellan/XMLNAME-2027-Software-Engineer-Intern---McClellan-CA_R10255207",
-    "employment_type": "internship",
-    "category": "Software & IT",
-    "h1b_status": "unknown",
-    "sponsorship_evidence": "",
-    "h1b_mentioned": false,
-    "salary_min": 21.5,
-    "salary_max": 39.0,
-    "salary_currency": "USD",
-    "salary_period": "hour",
-    "salary_text": "$21.50 to $39.00 per hour",
-    "keywords": [
-      "Python",
-      "machine learning"
-    ],
-    "updated_at": "",
-    "first_seen_at": "2026-10-08T23:35:35.417412+00:00",
-    "enriched_at": "2026-10-08T23:22:37.718173+00:00"
   },
   {
     "company": "Northrop Grumman",
@@ -42387,35 +42277,6 @@
     "updated_at": "",
     "first_seen_at": "2026-10-08T23:35:35.417412+00:00",
     "enriched_at": "2026-10-08T23:22:37.770902+00:00"
-  },
-  {
-    "company": "Northrop Grumman",
-    "fortune_rank": 112,
-    "title": "SW Application Administrator/Analyst",
-    "location": "United States-Utah-Roy",
-    "url": "https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-Utah-Roy/SW-Application-Administrator-Analyst_R10254982",
-    "source": "workday",
-    "external_id": "/job/United-States-Utah-Roy/SW-Application-Administrator-Analyst_R10254982",
-    "employment_type": "full-time",
-    "category": "Other",
-    "h1b_status": "unknown",
-    "sponsorship_evidence": "",
-    "h1b_mentioned": false,
-    "salary_min": null,
-    "salary_max": null,
-    "salary_currency": "",
-    "salary_period": "",
-    "salary_text": "",
-    "keywords": [
-      "Python",
-      "JavaScript",
-      "SQL",
-      "Docker",
-      "PostgreSQL"
-    ],
-    "updated_at": "",
-    "first_seen_at": "2026-10-08T23:35:35.417412+00:00",
-    "enriched_at": "2026-10-08T23:22:37.781534+00:00"
   },
   {
     "company": "Northrop Grumman",
@@ -46245,31 +46106,6 @@
     "updated_at": "",
     "first_seen_at": "2026-10-07T23:19:00.311213+00:00",
     "enriched_at": "2026-10-07T23:07:16.507206+00:00"
-  },
-  {
-    "company": "Northrop Grumman",
-    "fortune_rank": 112,
-    "title": "Program Manager 2",
-    "location": "United States-Arizona-Gilbert",
-    "url": "https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-Arizona-Gilbert/Program-Manager-2_R10254777",
-    "source": "workday",
-    "external_id": "/job/United-States-Arizona-Gilbert/Program-Manager-2_R10254777",
-    "employment_type": "full-time",
-    "category": "Other",
-    "h1b_status": "unknown",
-    "sponsorship_evidence": "",
-    "h1b_mentioned": false,
-    "salary_min": null,
-    "salary_max": null,
-    "salary_currency": "",
-    "salary_period": "",
-    "salary_text": "",
-    "keywords": [
-      "contracts"
-    ],
-    "updated_at": "",
-    "first_seen_at": "2026-10-07T23:19:00.311213+00:00",
-    "enriched_at": "2026-10-07T23:07:16.518746+00:00"
   },
   {
     "company": "Northrop Grumman",
@@ -50410,35 +50246,6 @@
   {
     "company": "Northrop Grumman",
     "fortune_rank": 112,
-    "title": "2027 Business Management Intern - San Diego CA",
-    "location": "United States-California-San Diego",
-    "url": "https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-California-San-Diego/XMLNAME-2027-Business-Management-Intern---San-Diego-CA_R10254608",
-    "source": "workday",
-    "external_id": "/job/United-States-California-San-Diego/XMLNAME-2027-Business-Management-Intern---San-Diego-CA_R10254608",
-    "employment_type": "internship",
-    "category": "Other",
-    "h1b_status": "unknown",
-    "sponsorship_evidence": "",
-    "h1b_mentioned": false,
-    "salary_min": 19.25,
-    "salary_max": 34.75,
-    "salary_currency": "USD",
-    "salary_period": "hour",
-    "salary_text": "$19.25 to $34.75 per hour",
-    "keywords": [
-      "accounting",
-      "risk management",
-      "supply chain",
-      "legal",
-      "contracts"
-    ],
-    "updated_at": "",
-    "first_seen_at": "2026-10-06T18:40:32.031587+00:00",
-    "enriched_at": "2026-10-06T18:23:29.173719+00:00"
-  },
-  {
-    "company": "Northrop Grumman",
-    "fortune_rank": 112,
     "title": "Skillbridge Ground System Operator - Level 1 or 2 (AHT)",
     "location": "United States-Colorado-Aurora",
     "url": "https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-Colorado-Aurora/Skillbridge-Ground-System-Operator---Level-1-or-2--AHT-_R10252363",
@@ -52716,29 +52523,6 @@
     "updated_at": "",
     "first_seen_at": "2026-10-06T18:40:32.031587+00:00",
     "enriched_at": "2026-10-06T18:23:29.628320+00:00"
-  },
-  {
-    "company": "Northrop Grumman",
-    "fortune_rank": 112,
-    "title": "Associate / Electronics Engineer (Levels 1 & 2) El Segundo",
-    "location": "United States-California-El Segundo",
-    "url": "https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-California-El-Segundo/Associate---Electronics-Engineer--Levels-1---2--El-Segundo_R10251243",
-    "source": "workday",
-    "external_id": "/job/United-States-California-El-Segundo/Associate---Electronics-Engineer--Levels-1---2--El-Segundo_R10251243",
-    "employment_type": "full-time",
-    "category": "Other",
-    "h1b_status": "unknown",
-    "sponsorship_evidence": "",
-    "h1b_mentioned": false,
-    "salary_min": null,
-    "salary_max": null,
-    "salary_currency": "",
-    "salary_period": "",
-    "salary_text": "",
-    "keywords": [],
-    "updated_at": "",
-    "first_seen_at": "2026-10-07T06:15:43.418198+00:00",
-    "enriched_at": "2026-10-07T06:00:49.652295+00:00"
   },
   {
     "company": "Northrop Grumman",
@@ -61525,32 +61309,6 @@
   {
     "company": "Northrop Grumman",
     "fortune_rank": 112,
-    "title": "Principal Cybersecurity Analyst",
-    "location": "United States-California-Northridge",
-    "url": "https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-California-Northridge/Principal-Cybersecurity-Analyst_R10252066",
-    "source": "workday",
-    "external_id": "/job/United-States-California-Northridge/Principal-Cybersecurity-Analyst_R10252066",
-    "employment_type": "full-time",
-    "category": "Software & IT",
-    "h1b_status": "unknown",
-    "sponsorship_evidence": "",
-    "h1b_mentioned": false,
-    "salary_min": null,
-    "salary_max": null,
-    "salary_currency": "",
-    "salary_period": "",
-    "salary_text": "",
-    "keywords": [
-      "risk management",
-      "compliance"
-    ],
-    "updated_at": "",
-    "first_seen_at": "2026-09-23T17:12:38.935699+00:00",
-    "enriched_at": "2026-10-07T23:07:17.145714+00:00"
-  },
-  {
-    "company": "Northrop Grumman",
-    "fortune_rank": 112,
     "title": "Business Management Manager 2",
     "location": "United States-California-Northridge",
     "url": "https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-California-Northridge/Business-Management-Manager-2_R10239108",
@@ -61627,32 +61385,6 @@
     "updated_at": "",
     "first_seen_at": "2026-10-02T22:26:55.027201+00:00",
     "enriched_at": "2026-10-09T22:39:39.668440+00:00"
-  },
-  {
-    "company": "Northrop Grumman",
-    "fortune_rank": 112,
-    "title": "Classified Cybersecurity Analyst 3/4 - TS/SCI",
-    "location": "United States-California-Manhattan Beach",
-    "url": "https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-California-Manhattan-Beach/Classified-Cybersecurity-Analyst-3-4---TS-SCI_R10250911",
-    "source": "workday",
-    "external_id": "/job/United-States-California-Manhattan-Beach/Classified-Cybersecurity-Analyst-3-4---TS-SCI_R10250911",
-    "employment_type": "full-time",
-    "category": "Software & IT",
-    "h1b_status": "unknown",
-    "sponsorship_evidence": "",
-    "h1b_mentioned": false,
-    "salary_min": null,
-    "salary_max": null,
-    "salary_currency": "",
-    "salary_period": "",
-    "salary_text": "",
-    "keywords": [
-      "risk management",
-      "compliance"
-    ],
-    "updated_at": "",
-    "first_seen_at": "2026-10-02T22:26:55.027201+00:00",
-    "enriched_at": "2026-10-09T22:39:39.674261+00:00"
   },
   {
     "company": "Northrop Grumman",
@@ -95215,34 +94947,6 @@
   {
     "company": "Northrop Grumman",
     "fortune_rank": 112,
-    "title": "Sr. Principal Network Communications",
-    "location": "United States-Maryland-Baltimore",
-    "url": "https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-Maryland-Baltimore/Sr-Principal-Network-Communications_R10248728",
-    "source": "workday",
-    "external_id": "/job/United-States-Maryland-Baltimore/Sr-Principal-Network-Communications_R10248728",
-    "employment_type": "full-time",
-    "category": "Sales & Marketing",
-    "h1b_status": "unknown",
-    "sponsorship_evidence": "",
-    "h1b_mentioned": false,
-    "salary_min": null,
-    "salary_max": null,
-    "salary_currency": "",
-    "salary_period": "",
-    "salary_text": "",
-    "keywords": [
-      "audit",
-      "procurement",
-      "compliance",
-      "contracts"
-    ],
-    "updated_at": "",
-    "first_seen_at": "2026-09-03T21:16:07.532271+00:00",
-    "enriched_at": "2026-10-09T06:09:39.561045+00:00"
-  },
-  {
-    "company": "Northrop Grumman",
-    "fortune_rank": 112,
     "title": "GNC Engineers - Level 3/4 (Secret) - Chandler (AHT)",
     "location": "United States-Arizona-Chandler",
     "url": "https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-Arizona-Chandler/GNC-MS-A-Engineers---Level-3-4--Secret----Chandler--AHT-_R10248998",
@@ -103437,7 +103141,7 @@
     "keywords": [],
     "updated_at": "",
     "first_seen_at": "2026-08-22T18:58:46.842216+00:00",
-    "enriched_at": "2026-10-04T05:52:59.702480+00:00"
+    "enriched_at": "2026-10-11T12:49:59.771380+00:00"
   },
   {
     "company": "Northrop Grumman",
@@ -103462,7 +103166,7 @@
     ],
     "updated_at": "",
     "first_seen_at": "2026-08-22T18:58:46.842216+00:00",
-    "enriched_at": "2026-10-04T05:52:59.721217+00:00"
+    "enriched_at": "2026-10-11T12:49:59.776480+00:00"
   },
   {
     "company": "Northrop Grumman",
@@ -122954,63 +122658,6 @@
     "updated_at": "",
     "first_seen_at": "2026-10-09T22:49:48.052047+00:00",
     "enriched_at": "2026-10-09T22:39:50.804456+00:00"
-  },
-  {
-    "company": "Intel",
-    "fortune_rank": 88,
-    "title": "Intel Foundry Module Development Engineer",
-    "location": "US, Oregon, Hillsboro",
-    "url": "https://intel.wd1.myworkdayjobs.com/en-US/External/job/US-Oregon-Hillsboro/Intel-Foundry-Module-Development-Engineer_JR0287819",
-    "source": "workday",
-    "external_id": "/job/US-Oregon-Hillsboro/Intel-Foundry-Module-Development-Engineer_JR0287819",
-    "employment_type": "full-time",
-    "category": "Other",
-    "h1b_status": "unknown",
-    "sponsorship_evidence": "",
-    "h1b_mentioned": false,
-    "salary_min": null,
-    "salary_max": null,
-    "salary_currency": "",
-    "salary_period": "",
-    "salary_text": "",
-    "keywords": [
-      "mechanical engineering",
-      "electrical engineering",
-      "compliance"
-    ],
-    "updated_at": "",
-    "first_seen_at": "2026-10-09T22:49:48.052047+00:00",
-    "enriched_at": "2026-10-09T22:39:50.810795+00:00"
-  },
-  {
-    "company": "Intel",
-    "fortune_rank": 88,
-    "title": "Metrology Engineering Technican",
-    "location": "US, Arizona, Phoenix",
-    "url": "https://intel.wd1.myworkdayjobs.com/en-US/External/job/US-Arizona-Phoenix/Metrology-Engineering-Technican_JR0286742",
-    "source": "workday",
-    "external_id": "/job/US-Arizona-Phoenix/Metrology-Engineering-Technican_JR0286742",
-    "employment_type": "full-time",
-    "category": "Other",
-    "h1b_status": "unknown",
-    "sponsorship_evidence": "",
-    "h1b_mentioned": false,
-    "salary_min": null,
-    "salary_max": null,
-    "salary_currency": "",
-    "salary_period": "",
-    "salary_text": "",
-    "keywords": [
-      "Python",
-      "artificial intelligence",
-      "mechanical engineering",
-      "electrical engineering",
-      "CAD",
-      "compliance"
-    ],
-    "updated_at": "",
-    "first_seen_at": "2026-10-09T22:49:48.052047+00:00",
-    "enriched_at": "2026-10-09T22:39:50.816170+00:00"
   },
   {
     "company": "Visa",
@@ -153641,35 +153288,6 @@
   {
     "company": "Walt Disney",
     "fortune_rank": 44,
-    "title": "Finance & Data Intern, Spring 2027",
-    "location": "Anaheim, CA, USA",
-    "url": "https://disney.wd5.myworkdayjobs.com/en-US/disneycareer/job/Anaheim-CA-USA/Finance---Data-Intern--Spring-2027_10160502-1",
-    "source": "workday",
-    "external_id": "/job/Anaheim-CA-USA/Finance---Data-Intern--Spring-2027_10160502-1",
-    "employment_type": "internship",
-    "category": "Finance & Accounting",
-    "h1b_status": "unknown",
-    "sponsorship_evidence": "",
-    "h1b_mentioned": false,
-    "salary_min": 23.0,
-    "salary_max": 23.0,
-    "salary_currency": "USD",
-    "salary_period": "hour",
-    "salary_text": "$23.00 per hour",
-    "keywords": [
-      "Python",
-      "SQL",
-      "analytics",
-      "Excel",
-      "accounting"
-    ],
-    "updated_at": "",
-    "first_seen_at": "2026-10-03T21:27:17.205772+00:00",
-    "enriched_at": "2026-10-10T21:47:11.601497+00:00"
-  },
-  {
-    "company": "Walt Disney",
-    "fortune_rank": 44,
     "title": "KABC-TV (ABC7) Special Projects & Morning News Intern, Spring 2027",
     "location": "Glendale, CA, USA",
     "url": "https://disney.wd5.myworkdayjobs.com/en-US/disneycareer/job/Glendale-CA-USA/KABC-TV--ABC7--Special-Projects---Morning-News-Intern--Spring-2027_10161990",
@@ -154187,54 +153805,6 @@
     "updated_at": "",
     "first_seen_at": "2026-09-29T22:28:40.118786+00:00",
     "enriched_at": "2026-10-07T06:03:20.417524+00:00"
-  },
-  {
-    "company": "Walt Disney",
-    "fortune_rank": 44,
-    "title": "KABC-TV (ABC7) Content Development Intern, Spring 2027",
-    "location": "Glendale, CA, USA",
-    "url": "https://disney.wd5.myworkdayjobs.com/en-US/disneycareer/job/Glendale-CA-USA/KABC-TV--ABC7--Content-Development-Intern--Spring-2027_10158936",
-    "source": "workday",
-    "external_id": "/job/Glendale-CA-USA/KABC-TV--ABC7--Content-Development-Intern--Spring-2027_10158936",
-    "employment_type": "internship",
-    "category": "Other",
-    "h1b_status": "unknown",
-    "sponsorship_evidence": "",
-    "h1b_mentioned": false,
-    "salary_min": 18.47,
-    "salary_max": 18.47,
-    "salary_currency": "USD",
-    "salary_period": "hour",
-    "salary_text": "$18.47 per hour",
-    "keywords": [
-      "Excel"
-    ],
-    "updated_at": "",
-    "first_seen_at": "2026-09-29T22:28:40.118786+00:00",
-    "enriched_at": "2026-10-07T06:03:20.431394+00:00"
-  },
-  {
-    "company": "Walt Disney",
-    "fortune_rank": 44,
-    "title": "FX Design & VFX Intern, Spring 2027",
-    "location": "Burbank, CA, USA",
-    "url": "https://disney.wd5.myworkdayjobs.com/en-US/disneycareer/job/Burbank-CA-USA/FX-Design---VFX-Intern--Spring-2027_10160082",
-    "source": "workday",
-    "external_id": "/job/Burbank-CA-USA/FX-Design---VFX-Intern--Spring-2027_10160082",
-    "employment_type": "internship",
-    "category": "Other",
-    "h1b_status": "unknown",
-    "sponsorship_evidence": "",
-    "h1b_mentioned": false,
-    "salary_min": 23.0,
-    "salary_max": 23.0,
-    "salary_currency": "USD",
-    "salary_period": "hour",
-    "salary_text": "$23.00 per hour",
-    "keywords": [],
-    "updated_at": "",
-    "first_seen_at": "2026-09-28T23:30:10.107160+00:00",
-    "enriched_at": "2026-10-09T22:41:52.432307+00:00"
   },
   {
     "company": "Walt Disney",
@@ -164546,7 +164116,7 @@
     ],
     "updated_at": "",
     "first_seen_at": "2026-09-20T05:00:06.460185+00:00",
-    "enriched_at": "2026-10-04T05:55:11.579446+00:00"
+    "enriched_at": "2026-10-11T12:52:13.207421+00:00"
   },
   {
     "company": "Johnson & Johnson",
@@ -166624,35 +166194,6 @@
   {
     "company": "Johnson & Johnson",
     "fortune_rank": 45,
-    "title": "Software Engineer DevOps",
-    "location": "Santa Clara, California, United States of America",
-    "url": "https://jj.wd5.myworkdayjobs.com/en-US/JJ/job/Santa-Clara-California-United-States-of-America/Software-Engineer-DevOps_R-095632",
-    "source": "workday",
-    "external_id": "/job/Santa-Clara-California-United-States-of-America/Software-Engineer-DevOps_R-095632",
-    "employment_type": "full-time",
-    "category": "Software & IT",
-    "h1b_status": "unknown",
-    "sponsorship_evidence": "",
-    "h1b_mentioned": false,
-    "salary_min": 187741.0,
-    "salary_max": 193000.0,
-    "salary_currency": "USD",
-    "salary_period": "year",
-    "salary_text": "$187,741 - $193,000 per year",
-    "keywords": [
-      "Python",
-      "AWS",
-      "Docker",
-      "Kubernetes",
-      "Terraform"
-    ],
-    "updated_at": "",
-    "first_seen_at": "2026-08-26T13:27:53.809706+00:00",
-    "enriched_at": "2026-10-07T23:10:22.581886+00:00"
-  },
-  {
-    "company": "Johnson & Johnson",
-    "fortune_rank": 45,
     "title": "Principal Scientist, AI & Autonomous Discovery Systems - Spring House, PA",
     "location": "Spring House, Pennsylvania, United States of America",
     "url": "https://jj.wd5.myworkdayjobs.com/en-US/JJ/job/Spring-House-Pennsylvania-United-States-of-America/Principal-Scientist--AI---Autonomous-Discovery-Systems---Spring-House--PA_R-093502-1",
@@ -167489,6 +167030,33 @@
     "updated_at": "",
     "first_seen_at": "2026-08-15T02:30:47.614898+00:00",
     "enriched_at": "2026-10-10T21:47:48.651155+00:00"
+  },
+  {
+    "company": "RTX",
+    "fortune_rank": 49,
+    "title": "Procurement Intern",
+    "location": "AE-AZ-ABU DHABI-REGUS-CUST ~ Regus ADGM Square, Maryah Island Al Maqam Tower ~ REGUS ADGM SQ (External Site)",
+    "url": "https://globalhr.wd5.myworkdayjobs.com/en-US/REC_RTX_Ext_Gateway/job/AE-AZ-ABU-DHABI-REGUS-CUST--Regus-ADGM-Square-Maryah-Island-Al-Maqam-Tower--REGUS-ADGM-SQ-External-Site/Procurement-Intern_01881274",
+    "source": "workday",
+    "external_id": "/job/AE-AZ-ABU-DHABI-REGUS-CUST--Regus-ADGM-Square-Maryah-Island-Al-Maqam-Tower--REGUS-ADGM-SQ-External-Site/Procurement-Intern_01881274",
+    "employment_type": "internship",
+    "category": "Operations & Supply Chain",
+    "h1b_status": "unknown",
+    "sponsorship_evidence": "",
+    "h1b_mentioned": false,
+    "salary_min": null,
+    "salary_max": null,
+    "salary_currency": "",
+    "salary_period": "",
+    "salary_text": "",
+    "keywords": [
+      "supply chain",
+      "procurement",
+      "compliance"
+    ],
+    "updated_at": "",
+    "first_seen_at": "2026-10-11T12:59:52.654979+00:00",
+    "enriched_at": "2026-10-11T12:53:37.008864+00:00"
   },
   {
     "company": "RTX",
@@ -190671,7 +190239,7 @@
     ],
     "updated_at": "",
     "first_seen_at": "2026-10-04T12:31:41.379602+00:00",
-    "enriched_at": "2026-10-04T12:25:45.867235+00:00"
+    "enriched_at": "2026-10-11T12:53:37.012813+00:00"
   },
   {
     "company": "RTX",
@@ -190724,7 +190292,7 @@
     ],
     "updated_at": "",
     "first_seen_at": "2026-10-04T06:03:15.979436+00:00",
-    "enriched_at": "2026-10-04T05:56:43.802550+00:00"
+    "enriched_at": "2026-10-11T12:53:37.019095+00:00"
   },
   {
     "company": "RTX",
@@ -190751,7 +190319,7 @@
     ],
     "updated_at": "",
     "first_seen_at": "2026-10-04T06:03:15.979436+00:00",
-    "enriched_at": "2026-10-04T05:56:43.810140+00:00"
+    "enriched_at": "2026-10-11T12:53:37.024014+00:00"
   },
   {
     "company": "RTX",
@@ -207250,7 +206818,7 @@
     ],
     "updated_at": "",
     "first_seen_at": "2026-09-27T05:28:47.212288+00:00",
-    "enriched_at": "2026-10-04T05:56:43.818401+00:00"
+    "enriched_at": "2026-10-11T12:53:37.029424+00:00"
   },
   {
     "company": "RTX",
@@ -220568,7 +220136,7 @@
     ],
     "updated_at": "",
     "first_seen_at": "2026-09-20T11:32:50.729880+00:00",
-    "enriched_at": "2026-10-04T12:25:45.877223+00:00"
+    "enriched_at": "2026-10-11T12:53:37.034901+00:00"
   },
   {
     "company": "RTX",
@@ -220595,7 +220163,7 @@
     ],
     "updated_at": "",
     "first_seen_at": "2026-09-20T05:00:06.460185+00:00",
-    "enriched_at": "2026-10-04T05:56:43.826769+00:00"
+    "enriched_at": "2026-10-11T12:53:37.040672+00:00"
   },
   {
     "company": "RTX",
@@ -220626,7 +220194,7 @@
     ],
     "updated_at": "",
     "first_seen_at": "2026-09-20T05:00:06.460185+00:00",
-    "enriched_at": "2026-10-04T05:56:43.836194+00:00"
+    "enriched_at": "2026-10-11T12:53:37.046931+00:00"
   },
   {
     "company": "RTX",
@@ -230864,7 +230432,7 @@
     ],
     "updated_at": "",
     "first_seen_at": "2026-09-13T04:57:05.478844+00:00",
-    "enriched_at": "2026-10-04T05:56:43.844821+00:00"
+    "enriched_at": "2026-10-11T12:53:37.052596+00:00"
   },
   {
     "company": "RTX",
@@ -230891,7 +230459,7 @@
     ],
     "updated_at": "",
     "first_seen_at": "2026-09-13T04:57:05.478844+00:00",
-    "enriched_at": "2026-10-04T05:56:43.855690+00:00"
+    "enriched_at": "2026-10-11T12:53:37.059643+00:00"
   },
   {
     "company": "RTX",
@@ -245033,7 +244601,7 @@
     ],
     "updated_at": "",
     "first_seen_at": "2026-08-29T21:06:04.160747+00:00",
-    "enriched_at": "2026-10-04T05:56:43.866491+00:00"
+    "enriched_at": "2026-10-11T12:53:37.066653+00:00"
   },
   {
     "company": "RTX",
@@ -255435,7 +255003,7 @@
     ],
     "updated_at": "",
     "first_seen_at": "2026-09-18T16:37:42.131228+00:00",
-    "enriched_at": "2026-10-04T05:56:43.876987+00:00"
+    "enriched_at": "2026-10-11T12:53:37.073499+00:00"
   },
   {
     "company": "RTX",
@@ -290071,7 +289639,7 @@
     ],
     "updated_at": "",
     "first_seen_at": "2026-09-27T12:12:51.815311+00:00",
-    "enriched_at": "2026-10-04T12:29:42.750290+00:00"
+    "enriched_at": "2026-10-11T12:57:48.996504+00:00"
   },
   {
     "company": "Lowe's",
@@ -290097,7 +289665,7 @@
     ],
     "updated_at": "",
     "first_seen_at": "2026-09-27T05:28:47.212288+00:00",
-    "enriched_at": "2026-10-04T06:01:04.357912+00:00"
+    "enriched_at": "2026-10-11T12:57:49.001660+00:00"
   },
   {
     "company": "Lowe's",
@@ -290122,7 +289690,7 @@
     ],
     "updated_at": "",
     "first_seen_at": "2026-09-27T05:28:47.212288+00:00",
-    "enriched_at": "2026-10-04T06:01:04.362121+00:00"
+    "enriched_at": "2026-10-11T12:57:49.004456+00:00"
   },
   {
     "company": "Lowe's",
@@ -297236,7 +296804,7 @@
     ],
     "updated_at": "",
     "first_seen_at": "2026-09-13T04:57:05.478844+00:00",
-    "enriched_at": "2026-10-04T12:29:42.758160+00:00"
+    "enriched_at": "2026-10-11T12:57:49.010207+00:00"
   },
   {
     "company": "Lowe's",
@@ -305098,6 +304666,64 @@
   {
     "company": "Cisco Systems",
     "fortune_rank": 83,
+    "title": "Executive Assistant: VP, Customer Experience Product Management (Hybrid)",
+    "location": "San Jose, California, US",
+    "url": "https://cisco.wd5.myworkdayjobs.com/en-US/Cisco_Careers/job/San-Jose-California-US/Executive-Assistant--VP--Customer-Experience-Product-Management--Hybrid-_2026294",
+    "source": "workday",
+    "external_id": "/job/San-Jose-California-US/Executive-Assistant--VP--Customer-Experience-Product-Management--Hybrid-_2026294",
+    "employment_type": "full-time",
+    "category": "Product & Design",
+    "h1b_status": "unknown",
+    "sponsorship_evidence": "",
+    "h1b_mentioned": false,
+    "salary_min": null,
+    "salary_max": null,
+    "salary_currency": "",
+    "salary_period": "",
+    "salary_text": "",
+    "keywords": [
+      "Excel",
+      "logistics",
+      "sales"
+    ],
+    "updated_at": "",
+    "first_seen_at": "2026-10-11T12:59:52.654979+00:00",
+    "enriched_at": "2026-10-11T12:58:15.753102+00:00"
+  },
+  {
+    "company": "Cisco Systems",
+    "fortune_rank": 83,
+    "title": "Solutions Engineer - Splunk (Remote)",
+    "location": "San Jose, California, US",
+    "url": "https://cisco.wd5.myworkdayjobs.com/en-US/Cisco_Careers/job/San-Jose-California-US/Solutions-Engineer---Splunk--Remote-_2024724-1",
+    "source": "workday",
+    "external_id": "/job/San-Jose-California-US/Solutions-Engineer---Splunk--Remote-_2024724-1",
+    "employment_type": "full-time",
+    "category": "Other",
+    "h1b_status": "unknown",
+    "sponsorship_evidence": "",
+    "h1b_mentioned": false,
+    "salary_min": null,
+    "salary_max": null,
+    "salary_currency": "",
+    "salary_period": "",
+    "salary_text": "",
+    "keywords": [
+      "Python",
+      "TypeScript",
+      "machine learning",
+      "data science",
+      "analytics",
+      "electrical engineering",
+      "sales"
+    ],
+    "updated_at": "",
+    "first_seen_at": "2026-10-11T12:59:52.654979+00:00",
+    "enriched_at": "2026-10-11T12:58:15.760702+00:00"
+  },
+  {
+    "company": "Cisco Systems",
+    "fortune_rank": 83,
     "title": "Solutions Engineer - Splunk (Remote)",
     "location": "New York, New York, US",
     "url": "https://cisco.wd5.myworkdayjobs.com/en-US/Cisco_Careers/job/New-York-New-York-US/Solutions-Engineer---Splunk--Remote-_2024727-1",
@@ -307258,7 +306884,7 @@
     ],
     "updated_at": "",
     "first_seen_at": "2026-10-04T12:31:41.379602+00:00",
-    "enriched_at": "2026-10-04T12:30:09.434779+00:00"
+    "enriched_at": "2026-10-11T12:58:15.768287+00:00"
   },
   {
     "company": "Cisco Systems",
@@ -307287,7 +306913,7 @@
     ],
     "updated_at": "",
     "first_seen_at": "2026-10-04T06:03:15.979436+00:00",
-    "enriched_at": "2026-10-04T06:01:31.267080+00:00"
+    "enriched_at": "2026-10-11T12:58:15.776285+00:00"
   },
   {
     "company": "Cisco Systems",
@@ -307314,7 +306940,7 @@
     ],
     "updated_at": "",
     "first_seen_at": "2026-10-04T06:03:15.979436+00:00",
-    "enriched_at": "2026-10-04T06:01:31.282142+00:00"
+    "enriched_at": "2026-10-11T12:58:15.785822+00:00"
   },
   {
     "company": "Cisco Systems",
@@ -308927,7 +308553,7 @@
     ],
     "updated_at": "",
     "first_seen_at": "2026-09-27T12:12:51.815311+00:00",
-    "enriched_at": "2026-10-04T12:30:09.447485+00:00"
+    "enriched_at": "2026-10-11T12:58:15.792510+00:00"
   },
   {
     "company": "Cisco Systems",
@@ -308955,7 +308581,7 @@
     ],
     "updated_at": "",
     "first_seen_at": "2026-09-27T12:12:51.815311+00:00",
-    "enriched_at": "2026-10-04T12:30:09.459797+00:00"
+    "enriched_at": "2026-10-11T12:58:15.800260+00:00"
   },
   {
     "company": "Cisco Systems",
@@ -308981,7 +308607,7 @@
     ],
     "updated_at": "",
     "first_seen_at": "2026-09-27T12:12:51.815311+00:00",
-    "enriched_at": "2026-10-04T12:30:09.471043+00:00"
+    "enriched_at": "2026-10-11T12:58:15.807428+00:00"
   },
   {
     "company": "Cisco Systems",
@@ -309007,7 +308633,7 @@
     ],
     "updated_at": "",
     "first_seen_at": "2026-09-27T05:28:47.212288+00:00",
-    "enriched_at": "2026-10-04T06:01:31.303949+00:00"
+    "enriched_at": "2026-10-11T12:58:15.815700+00:00"
   },
   {
     "company": "Cisco Systems",
@@ -310016,32 +309642,6 @@
     "updated_at": "",
     "first_seen_at": "2026-08-28T22:33:12.377535+00:00",
     "enriched_at": "2026-10-10T12:40:27.664930+00:00"
-  },
-  {
-    "company": "Cisco Systems",
-    "fortune_rank": 83,
-    "title": "HW Board Design Technical Leader",
-    "location": "San Jose, California, US",
-    "url": "https://cisco.wd5.myworkdayjobs.com/en-US/Cisco_Careers/job/San-Jose-California-US/HW-Board-Design-Technical-Leader_2020604",
-    "source": "workday",
-    "external_id": "/job/San-Jose-California-US/HW-Board-Design-Technical-Leader_2020604",
-    "employment_type": "full-time",
-    "category": "Other",
-    "h1b_status": "unknown",
-    "sponsorship_evidence": "",
-    "h1b_mentioned": false,
-    "salary_min": null,
-    "salary_max": null,
-    "salary_currency": "",
-    "salary_period": "",
-    "salary_text": "",
-    "keywords": [
-      "sales",
-      "compliance"
-    ],
-    "updated_at": "",
-    "first_seen_at": "2026-09-08T21:24:06.836602+00:00",
-    "enriched_at": "2026-10-07T06:13:18.694798+00:00"
   },
   {
     "company": "Cisco Systems",
@@ -315957,6 +315557,31 @@
   {
     "company": "GE Aerospace",
     "fortune_rank": 101,
+    "title": "Production Supervisor - 2nd Shift",
+    "location": "Sterling VA USA",
+    "url": "https://geaerospace.wd5.myworkdayjobs.com/en-US/GE_ExternalSite/job/Sterling-VA-USA/Production-Supervisor---2nd-Shift_R5041215-2",
+    "source": "workday",
+    "external_id": "/job/Sterling-VA-USA/Production-Supervisor---2nd-Shift_R5041215-2",
+    "employment_type": "full-time",
+    "category": "Other",
+    "h1b_status": "unknown",
+    "sponsorship_evidence": "",
+    "h1b_mentioned": false,
+    "salary_min": 92000.0,
+    "salary_max": 115000.0,
+    "salary_currency": "USD",
+    "salary_period": "year",
+    "salary_text": "$92,000 to $115,000 annually",
+    "keywords": [
+      "contracts"
+    ],
+    "updated_at": "",
+    "first_seen_at": "2026-10-07T23:19:00.311213+00:00",
+    "enriched_at": "2026-10-07T23:17:35.977683+00:00"
+  },
+  {
+    "company": "GE Aerospace",
+    "fortune_rank": 101,
     "title": "Lead Quality Engineer - Additive Manufacturing",
     "location": "Auburn AL USA",
     "url": "https://geaerospace.wd5.myworkdayjobs.com/en-US/GE_ExternalSite/job/Auburn-AL-USA/Lead-Quality-Engineer---Additive-Manufacturing_R5041346-1",
@@ -316186,31 +315811,6 @@
     "updated_at": "",
     "first_seen_at": "2026-10-07T23:19:00.311213+00:00",
     "enriched_at": "2026-10-07T23:17:35.967642+00:00"
-  },
-  {
-    "company": "GE Aerospace",
-    "fortune_rank": 101,
-    "title": "Production Supervisor - 2nd Shift",
-    "location": "Sterling VA USA",
-    "url": "https://geaerospace.wd5.myworkdayjobs.com/en-US/GE_ExternalSite/job/Sterling-VA-USA/Production-Supervisor---2nd-Shift_R5041215-2",
-    "source": "workday",
-    "external_id": "/job/Sterling-VA-USA/Production-Supervisor---2nd-Shift_R5041215-2",
-    "employment_type": "full-time",
-    "category": "Other",
-    "h1b_status": "unknown",
-    "sponsorship_evidence": "",
-    "h1b_mentioned": false,
-    "salary_min": 92000.0,
-    "salary_max": 115000.0,
-    "salary_currency": "USD",
-    "salary_period": "year",
-    "salary_text": "$92,000 to $115,000 annually",
-    "keywords": [
-      "contracts"
-    ],
-    "updated_at": "",
-    "first_seen_at": "2026-10-07T23:19:00.311213+00:00",
-    "enriched_at": "2026-10-07T23:17:35.977683+00:00"
   },
   {
     "company": "GE Aerospace",
@@ -328490,7 +328090,7 @@
     ],
     "updated_at": "",
     "first_seen_at": "2026-09-20T05:00:06.460185+00:00",
-    "enriched_at": "2026-10-04T06:02:48.740572+00:00"
+    "enriched_at": "2026-10-11T12:59:25.778125+00:00"
   },
   {
     "company": "Thermo Fisher Scientific",
@@ -340565,6 +340165,33 @@
   {
     "company": "3M",
     "fortune_rank": 183,
+    "title": "Privacy Compliance Program Specialist",
+    "location": "IN, Bangalore Kar",
+    "url": "https://3m.wd1.myworkdayjobs.com/en-US/Search/job/IN-Bangalore-Kar/Privacy-Compliance-Program-Specialist_R01171682",
+    "source": "workday",
+    "external_id": "/job/IN-Bangalore-Kar/Privacy-Compliance-Program-Specialist_R01171682",
+    "employment_type": "full-time",
+    "category": "People & Legal",
+    "h1b_status": "does_not_support_h1b",
+    "sponsorship_evidence": "Must be legally authorized to work in country of employment without sponsorship for employment visa status (e.",
+    "h1b_mentioned": true,
+    "salary_min": null,
+    "salary_max": null,
+    "salary_currency": "",
+    "salary_period": "",
+    "salary_text": "",
+    "keywords": [
+      "risk management",
+      "compliance",
+      "legal"
+    ],
+    "updated_at": "",
+    "first_seen_at": "2026-10-11T12:59:52.654979+00:00",
+    "enriched_at": "2026-10-11T12:59:34.994052+00:00"
+  },
+  {
+    "company": "3M",
+    "fortune_rank": 183,
     "title": "GCC Engineering Leader",
     "location": "IN, BANGALORE",
     "url": "https://3m.wd1.myworkdayjobs.com/en-US/Search/job/IN-BANGALORE/GCC-Engineering-Leader_R01171767",
@@ -341275,64 +340902,6 @@
     "updated_at": "",
     "first_seen_at": "2026-09-22T21:32:02.842751+00:00",
     "enriched_at": "2026-10-07T06:15:00.336606+00:00"
-  },
-  {
-    "company": "3M",
-    "fortune_rank": 183,
-    "title": "Global Digital Asset Services Coordinator",
-    "location": "IN, BANGALORE",
-    "url": "https://3m.wd1.myworkdayjobs.com/en-US/Search/job/IN-BANGALORE/Global-Digital-Asset-Services-Coordinator_R01170677",
-    "source": "workday",
-    "external_id": "/job/IN-BANGALORE/Global-Digital-Asset-Services-Coordinator_R01170677",
-    "employment_type": "full-time",
-    "category": "Other",
-    "h1b_status": "unknown",
-    "sponsorship_evidence": "",
-    "h1b_mentioned": false,
-    "salary_min": null,
-    "salary_max": null,
-    "salary_currency": "",
-    "salary_period": "",
-    "salary_text": "",
-    "keywords": [
-      "analytics",
-      "Excel",
-      "SEO",
-      "compliance"
-    ],
-    "updated_at": "",
-    "first_seen_at": "2026-09-22T17:12:50.897592+00:00",
-    "enriched_at": "2026-10-07T06:15:00.357588+00:00"
-  },
-  {
-    "company": "3M",
-    "fortune_rank": 183,
-    "title": "Network Security Senior Manager",
-    "location": "IN, BANGALORE",
-    "url": "https://3m.wd1.myworkdayjobs.com/en-US/Search/job/IN-BANGALORE/Network-Security-Senior-Manager_R01170892",
-    "source": "workday",
-    "external_id": "/job/IN-BANGALORE/Network-Security-Senior-Manager_R01170892",
-    "employment_type": "full-time",
-    "category": "Other",
-    "h1b_status": "unknown",
-    "sponsorship_evidence": "",
-    "h1b_mentioned": false,
-    "salary_min": null,
-    "salary_max": null,
-    "salary_currency": "",
-    "salary_period": "",
-    "salary_text": "",
-    "keywords": [
-      "AWS",
-      "Azure",
-      "GCP",
-      "analytics",
-      "audit",
-      "compliance"
-    ],
-    "updated_at": "",
-    "first_seen_at": "2026-09-22T05:06:22.249219+00:00",
-    "enriched_at": "2026-10-06T06:31:16.675723+00:00"
   },
   {
     "company": "Carvana",
@@ -389602,7 +389171,7 @@
     ],
     "updated_at": "",
     "first_seen_at": "2026-08-15T02:30:47.614898+00:00",
-    "enriched_at": "2026-10-04T06:03:07.527440+00:00"
+    "enriched_at": "2026-10-11T12:59:44.636693+00:00"
   },
   {
     "company": "Broadcom",
@@ -389674,12 +389243,11 @@
       "Python",
       "Docker",
       "Kubernetes",
-      "machine learning",
       "electrical engineering"
     ],
     "updated_at": "",
     "first_seen_at": "2026-08-15T02:30:47.614898+00:00",
-    "enriched_at": "2026-10-04T06:03:07.725627+00:00"
+    "enriched_at": "2026-10-11T12:59:44.642052+00:00"
   },
   {
     "company": "Broadcom",
@@ -390026,7 +389594,7 @@
     ],
     "updated_at": "",
     "first_seen_at": "2026-08-15T02:30:47.614898+00:00",
-    "enriched_at": "2026-10-04T06:03:07.582792+00:00"
+    "enriched_at": "2026-10-11T12:59:44.646533+00:00"
   },
   {
     "company": "Broadcom",
@@ -390128,17 +389696,17 @@
     "h1b_status": "unknown",
     "sponsorship_evidence": "",
     "h1b_mentioned": false,
-    "salary_min": null,
-    "salary_max": null,
-    "salary_currency": "",
-    "salary_period": "",
-    "salary_text": "",
+    "salary_min": 23.17,
+    "salary_max": 32.45,
+    "salary_currency": "USD",
+    "salary_period": "hour",
+    "salary_text": "$23.17 - $32.45 per\u00a0hour",
     "keywords": [
       "procurement"
     ],
     "updated_at": "",
     "first_seen_at": "2026-09-30T22:30:14.606761+00:00",
-    "enriched_at": "2026-10-04T06:03:07.340445+00:00"
+    "enriched_at": "2026-10-11T12:59:44.651825+00:00"
   },
   {
     "company": "Broadcom",
@@ -390241,7 +389809,7 @@
     ],
     "updated_at": "",
     "first_seen_at": "2026-08-15T02:30:47.614898+00:00",
-    "enriched_at": "2026-10-04T06:03:07.522861+00:00"
+    "enriched_at": "2026-10-11T12:59:44.655734+00:00"
   },
   {
     "company": "Broadcom",
@@ -391243,7 +390811,7 @@
     ],
     "updated_at": "",
     "first_seen_at": "2026-08-15T02:30:47.614898+00:00",
-    "enriched_at": "2026-10-04T06:03:07.351073+00:00"
+    "enriched_at": "2026-10-11T12:59:44.660940+00:00"
   },
   {
     "company": "Broadcom",
@@ -391495,7 +391063,7 @@
     ],
     "updated_at": "",
     "first_seen_at": "2026-08-15T02:30:47.614898+00:00",
-    "enriched_at": "2026-10-04T06:03:07.360536+00:00"
+    "enriched_at": "2026-10-11T12:59:44.667213+00:00"
   },
   {
     "company": "Broadcom",
@@ -391723,7 +391291,7 @@
     ],
     "updated_at": "",
     "first_seen_at": "2026-08-15T02:30:47.614898+00:00",
-    "enriched_at": "2026-10-04T06:03:07.371290+00:00"
+    "enriched_at": "2026-10-11T12:59:44.670609+00:00"
   },
   {
     "company": "Broadcom",
@@ -392091,7 +391659,7 @@
     "keywords": [],
     "updated_at": "",
     "first_seen_at": "2026-08-15T02:30:47.614898+00:00",
-    "enriched_at": "2026-10-04T06:03:07.379331+00:00"
+    "enriched_at": "2026-10-11T12:59:44.675952+00:00"
   },
   {
     "company": "Broadcom",
@@ -392199,7 +391767,7 @@
     ],
     "updated_at": "",
     "first_seen_at": "2026-08-15T02:30:47.614898+00:00",
-    "enriched_at": "2026-10-04T06:03:07.383825+00:00"
+    "enriched_at": "2026-10-11T12:59:44.679016+00:00"
   },
   {
     "company": "Broadcom",
@@ -392374,7 +391942,7 @@
     ],
     "updated_at": "",
     "first_seen_at": "2026-08-15T02:30:47.614898+00:00",
-    "enriched_at": "2026-10-04T06:03:07.393642+00:00"
+    "enriched_at": "2026-10-11T12:59:44.685613+00:00"
   },
   {
     "company": "Broadcom",
@@ -392457,31 +392025,6 @@
   {
     "company": "Broadcom",
     "fortune_rank": 70,
-    "title": "Digital Signal Processing and System Validation Engineer",
-    "location": "USA-California-San Jose-1320 Ridder Park Drive",
-    "url": "https://broadcom.wd1.myworkdayjobs.com/en-US/External_Career/job/USA-California-San-Jose-1320-Ridder-Park-Drive/Digital-Signal-Processing-and-System-Validation-Engineer_R025724",
-    "source": "workday",
-    "external_id": "/job/USA-California-San-Jose-1320-Ridder-Park-Drive/Digital-Signal-Processing-and-System-Validation-Engineer_R025724",
-    "employment_type": "full-time",
-    "category": "Other",
-    "h1b_status": "unknown",
-    "sponsorship_evidence": "",
-    "h1b_mentioned": false,
-    "salary_min": null,
-    "salary_max": null,
-    "salary_currency": "",
-    "salary_period": "",
-    "salary_text": "",
-    "keywords": [
-      "electrical engineering"
-    ],
-    "updated_at": "",
-    "first_seen_at": "2026-08-18T19:09:34.553160+00:00",
-    "enriched_at": "2026-10-07T06:15:32.240437+00:00"
-  },
-  {
-    "company": "Broadcom",
-    "fortune_rank": 70,
     "title": "NPI Test Development Engineer",
     "location": "USA-California- San Jose - 1730 Fox Drive",
     "url": "https://broadcom.wd1.myworkdayjobs.com/en-US/External_Career/job/USA-California--San-Jose---1730-Fox-Drive/NPI-Test-Development-Engineer_R026437-1",
@@ -392526,7 +392069,7 @@
     "keywords": [],
     "updated_at": "",
     "first_seen_at": "2026-08-15T02:30:47.614898+00:00",
-    "enriched_at": "2026-10-04T06:03:07.410166+00:00"
+    "enriched_at": "2026-10-11T12:59:44.693283+00:00"
   },
   {
     "company": "Broadcom",
@@ -392553,7 +392096,7 @@
     ],
     "updated_at": "",
     "first_seen_at": "2026-08-15T02:30:47.614898+00:00",
-    "enriched_at": "2026-10-04T06:03:07.420651+00:00"
+    "enriched_at": "2026-10-11T12:59:44.699980+00:00"
   },
   {
     "company": "Broadcom",
@@ -392579,7 +392122,7 @@
     ],
     "updated_at": "",
     "first_seen_at": "2026-08-15T02:30:47.614898+00:00",
-    "enriched_at": "2026-10-04T06:03:07.431242+00:00"
+    "enriched_at": "2026-10-11T12:59:44.706779+00:00"
   },
   {
     "company": "Broadcom",
@@ -392604,7 +392147,7 @@
     ],
     "updated_at": "",
     "first_seen_at": "2026-08-15T02:30:47.614898+00:00",
-    "enriched_at": "2026-10-04T06:03:07.437066+00:00"
+    "enriched_at": "2026-10-11T12:59:44.710716+00:00"
   },
   {
     "company": "Broadcom",
@@ -392629,7 +392172,7 @@
     ],
     "updated_at": "",
     "first_seen_at": "2026-08-15T02:30:47.614898+00:00",
-    "enriched_at": "2026-10-04T06:03:07.444604+00:00"
+    "enriched_at": "2026-10-11T12:59:44.715894+00:00"
   },
   {
     "company": "Broadcom",
@@ -392654,7 +392197,7 @@
     ],
     "updated_at": "",
     "first_seen_at": "2026-08-15T02:30:47.614898+00:00",
-    "enriched_at": "2026-10-04T06:03:07.449180+00:00"
+    "enriched_at": "2026-10-11T12:59:44.719087+00:00"
   },
   {
     "company": "Broadcom",
@@ -392677,7 +392220,7 @@
     "keywords": [],
     "updated_at": "",
     "first_seen_at": "2026-08-15T02:30:47.614898+00:00",
-    "enriched_at": "2026-10-04T06:03:07.454844+00:00"
+    "enriched_at": "2026-10-11T12:59:44.723081+00:00"
   },
   {
     "company": "Broadcom",
@@ -392707,7 +392250,7 @@
     ],
     "updated_at": "",
     "first_seen_at": "2026-08-15T02:30:47.614898+00:00",
-    "enriched_at": "2026-10-04T06:03:07.460038+00:00"
+    "enriched_at": "2026-10-11T12:59:44.726667+00:00"
   },
   {
     "company": "Broadcom",
@@ -392733,7 +392276,7 @@
     ],
     "updated_at": "",
     "first_seen_at": "2026-08-15T02:30:47.614898+00:00",
-    "enriched_at": "2026-10-04T06:03:07.470607+00:00"
+    "enriched_at": "2026-10-11T12:59:44.733775+00:00"
   },
   {
     "company": "Broadcom",
@@ -392756,7 +392299,7 @@
     "keywords": [],
     "updated_at": "",
     "first_seen_at": "2026-08-15T02:30:47.614898+00:00",
-    "enriched_at": "2026-10-04T06:03:07.475964+00:00"
+    "enriched_at": "2026-10-11T12:59:44.737345+00:00"
   },
   {
     "company": "Broadcom",
@@ -392783,7 +392326,7 @@
     ],
     "updated_at": "",
     "first_seen_at": "2026-08-15T02:30:47.614898+00:00",
-    "enriched_at": "2026-10-04T06:03:07.480126+00:00"
+    "enriched_at": "2026-10-11T12:59:44.740092+00:00"
   },
   {
     "company": "Broadcom",
@@ -392810,7 +392353,7 @@
     ],
     "updated_at": "",
     "first_seen_at": "2026-08-15T02:30:47.614898+00:00",
-    "enriched_at": "2026-10-04T06:03:07.486681+00:00"
+    "enriched_at": "2026-10-11T12:59:44.744535+00:00"
   },
   {
     "company": "Broadcom",
@@ -392833,7 +392376,7 @@
     "keywords": [],
     "updated_at": "",
     "first_seen_at": "2026-08-15T02:30:47.614898+00:00",
-    "enriched_at": "2026-10-04T06:03:07.493221+00:00"
+    "enriched_at": "2026-10-11T12:59:44.749015+00:00"
   },
   {
     "company": "Broadcom",
@@ -392860,7 +392403,7 @@
     ],
     "updated_at": "",
     "first_seen_at": "2026-08-15T02:30:47.614898+00:00",
-    "enriched_at": "2026-10-04T06:03:07.497296+00:00"
+    "enriched_at": "2026-10-11T12:59:44.751826+00:00"
   },
   {
     "company": "Broadcom",
@@ -392883,7 +392426,7 @@
     "keywords": [],
     "updated_at": "",
     "first_seen_at": "2026-08-15T02:30:47.614898+00:00",
-    "enriched_at": "2026-10-04T06:03:07.503758+00:00"
+    "enriched_at": "2026-10-11T12:59:44.756202+00:00"
   },
   {
     "company": "Broadcom",
@@ -392908,7 +392451,7 @@
     ],
     "updated_at": "",
     "first_seen_at": "2026-08-15T02:30:47.614898+00:00",
-    "enriched_at": "2026-10-04T06:03:07.509628+00:00"
+    "enriched_at": "2026-10-11T12:59:44.760210+00:00"
   },
   {
     "company": "Broadcom",
@@ -392935,7 +392478,7 @@
     ],
     "updated_at": "",
     "first_seen_at": "2026-08-15T02:30:47.614898+00:00",
-    "enriched_at": "2026-10-04T06:03:07.516037+00:00"
+    "enriched_at": "2026-10-11T12:59:44.764574+00:00"
   },
   {
     "company": "Broadcom",
@@ -392958,7 +392501,7 @@
     "keywords": [],
     "updated_at": "",
     "first_seen_at": "2026-08-15T02:30:47.614898+00:00",
-    "enriched_at": "2026-10-04T06:03:07.535362+00:00"
+    "enriched_at": "2026-10-11T12:59:44.769231+00:00"
   },
   {
     "company": "Broadcom",
@@ -392981,7 +392524,7 @@
     "keywords": [],
     "updated_at": "",
     "first_seen_at": "2026-08-15T02:30:47.614898+00:00",
-    "enriched_at": "2026-10-04T06:03:07.542122+00:00"
+    "enriched_at": "2026-10-11T12:59:44.773809+00:00"
   },
   {
     "company": "Broadcom",
@@ -393007,7 +392550,7 @@
     ],
     "updated_at": "",
     "first_seen_at": "2026-08-15T02:30:47.614898+00:00",
-    "enriched_at": "2026-10-04T06:03:07.554928+00:00"
+    "enriched_at": "2026-10-11T12:59:44.778349+00:00"
   },
   {
     "company": "Broadcom",
@@ -393035,7 +392578,7 @@
     ],
     "updated_at": "",
     "first_seen_at": "2026-08-15T02:30:47.614898+00:00",
-    "enriched_at": "2026-10-04T06:03:07.561907+00:00"
+    "enriched_at": "2026-10-11T12:59:44.783155+00:00"
   },
   {
     "company": "Broadcom",
@@ -393061,7 +392604,7 @@
     ],
     "updated_at": "",
     "first_seen_at": "2026-08-15T02:30:47.614898+00:00",
-    "enriched_at": "2026-10-04T06:03:07.567700+00:00"
+    "enriched_at": "2026-10-11T12:59:44.786989+00:00"
   },
   {
     "company": "Broadcom",
@@ -393087,7 +392630,7 @@
     ],
     "updated_at": "",
     "first_seen_at": "2026-08-15T02:30:47.614898+00:00",
-    "enriched_at": "2026-10-04T06:03:07.575195+00:00"
+    "enriched_at": "2026-10-11T12:59:44.791890+00:00"
   },
   {
     "company": "Broadcom",
@@ -393115,7 +392658,7 @@
     ],
     "updated_at": "",
     "first_seen_at": "2026-08-15T02:30:47.614898+00:00",
-    "enriched_at": "2026-10-04T06:03:07.591247+00:00"
+    "enriched_at": "2026-10-11T12:59:44.796813+00:00"
   },
   {
     "company": "Broadcom",
@@ -393142,7 +392685,7 @@
     ],
     "updated_at": "",
     "first_seen_at": "2026-08-15T02:30:47.614898+00:00",
-    "enriched_at": "2026-10-04T06:03:07.598141+00:00"
+    "enriched_at": "2026-10-11T12:59:44.801462+00:00"
   },
   {
     "company": "Broadcom",
@@ -393167,7 +392710,7 @@
     ],
     "updated_at": "",
     "first_seen_at": "2026-08-15T02:30:47.614898+00:00",
-    "enriched_at": "2026-10-04T06:03:07.603413+00:00"
+    "enriched_at": "2026-10-11T12:59:44.804975+00:00"
   },
   {
     "company": "Broadcom",
@@ -393194,7 +392737,7 @@
     ],
     "updated_at": "",
     "first_seen_at": "2026-08-15T02:30:47.614898+00:00",
-    "enriched_at": "2026-10-04T06:03:07.609260+00:00"
+    "enriched_at": "2026-10-11T12:59:44.808951+00:00"
   },
   {
     "company": "Broadcom",
@@ -393219,7 +392762,7 @@
     ],
     "updated_at": "",
     "first_seen_at": "2026-08-15T02:30:47.614898+00:00",
-    "enriched_at": "2026-10-04T06:03:07.616702+00:00"
+    "enriched_at": "2026-10-11T12:59:44.814054+00:00"
   },
   {
     "company": "Broadcom",
@@ -393242,7 +392785,7 @@
     "keywords": [],
     "updated_at": "",
     "first_seen_at": "2026-08-15T02:30:47.614898+00:00",
-    "enriched_at": "2026-10-04T06:03:07.622606+00:00"
+    "enriched_at": "2026-10-11T12:59:44.818104+00:00"
   },
   {
     "company": "Broadcom",
@@ -393268,7 +392811,7 @@
     ],
     "updated_at": "",
     "first_seen_at": "2026-08-15T02:30:47.614898+00:00",
-    "enriched_at": "2026-10-04T06:03:07.635409+00:00"
+    "enriched_at": "2026-10-11T12:59:44.826560+00:00"
   },
   {
     "company": "Broadcom",
@@ -393296,7 +392839,7 @@
     ],
     "updated_at": "",
     "first_seen_at": "2026-08-15T02:30:47.614898+00:00",
-    "enriched_at": "2026-10-04T06:03:07.642112+00:00"
+    "enriched_at": "2026-10-11T12:59:44.831052+00:00"
   },
   {
     "company": "Broadcom",
@@ -393322,7 +392865,7 @@
     ],
     "updated_at": "",
     "first_seen_at": "2026-08-15T02:30:47.614898+00:00",
-    "enriched_at": "2026-10-04T06:03:07.649709+00:00"
+    "enriched_at": "2026-10-11T12:59:44.836058+00:00"
   },
   {
     "company": "Broadcom",
@@ -393347,7 +392890,7 @@
     ],
     "updated_at": "",
     "first_seen_at": "2026-08-15T02:30:47.614898+00:00",
-    "enriched_at": "2026-10-04T06:03:07.666734+00:00"
+    "enriched_at": "2026-10-11T12:59:44.841225+00:00"
   },
   {
     "company": "Broadcom",
@@ -393372,7 +392915,7 @@
     ],
     "updated_at": "",
     "first_seen_at": "2026-08-15T02:30:47.614898+00:00",
-    "enriched_at": "2026-10-04T06:03:07.672998+00:00"
+    "enriched_at": "2026-10-11T12:59:44.845366+00:00"
   },
   {
     "company": "Broadcom",
@@ -393398,7 +392941,7 @@
     ],
     "updated_at": "",
     "first_seen_at": "2026-08-15T02:30:47.614898+00:00",
-    "enriched_at": "2026-10-04T06:03:07.684747+00:00"
+    "enriched_at": "2026-10-11T12:59:44.853112+00:00"
   },
   {
     "company": "Broadcom",
@@ -393421,7 +392964,7 @@
     "keywords": [],
     "updated_at": "",
     "first_seen_at": "2026-08-15T02:30:47.614898+00:00",
-    "enriched_at": "2026-10-04T06:03:07.691715+00:00"
+    "enriched_at": "2026-10-11T12:59:44.857675+00:00"
   },
   {
     "company": "Broadcom",
@@ -393444,7 +392987,7 @@
     "keywords": [],
     "updated_at": "",
     "first_seen_at": "2026-08-15T02:30:47.614898+00:00",
-    "enriched_at": "2026-10-04T06:03:07.696485+00:00"
+    "enriched_at": "2026-10-11T12:59:44.860511+00:00"
   },
   {
     "company": "Broadcom",
@@ -393470,7 +393013,7 @@
     ],
     "updated_at": "",
     "first_seen_at": "2026-08-15T02:30:47.614898+00:00",
-    "enriched_at": "2026-10-04T06:03:07.700079+00:00"
+    "enriched_at": "2026-10-11T12:59:44.862946+00:00"
   },
   {
     "company": "Broadcom",
@@ -393493,7 +393036,7 @@
     "keywords": [],
     "updated_at": "",
     "first_seen_at": "2026-08-15T02:30:47.614898+00:00",
-    "enriched_at": "2026-10-04T06:03:07.706338+00:00"
+    "enriched_at": "2026-10-11T12:59:44.867127+00:00"
   },
   {
     "company": "Broadcom",
@@ -393520,7 +393063,7 @@
     ],
     "updated_at": "",
     "first_seen_at": "2026-08-15T02:30:47.614898+00:00",
-    "enriched_at": "2026-10-04T06:03:07.709911+00:00"
+    "enriched_at": "2026-10-11T12:59:44.869559+00:00"
   },
   {
     "company": "Broadcom",
@@ -393547,7 +393090,7 @@
     ],
     "updated_at": "",
     "first_seen_at": "2026-08-15T02:30:47.614898+00:00",
-    "enriched_at": "2026-10-04T06:03:07.717468+00:00"
+    "enriched_at": "2026-10-11T12:59:44.874669+00:00"
   },
   {
     "company": "Broadcom",
@@ -393573,7 +393116,7 @@
     ],
     "updated_at": "",
     "first_seen_at": "2026-08-15T02:30:47.614898+00:00",
-    "enriched_at": "2026-10-04T06:03:07.731965+00:00"
+    "enriched_at": "2026-10-11T12:59:44.880122+00:00"
   },
   {
     "company": "Broadcom",
@@ -393598,7 +393141,7 @@
     ],
     "updated_at": "",
     "first_seen_at": "2026-08-15T02:30:47.614898+00:00",
-    "enriched_at": "2026-10-04T06:03:07.737785+00:00"
+    "enriched_at": "2026-10-11T12:59:44.884050+00:00"
   },
   {
     "company": "Broadcom",
@@ -393623,7 +393166,7 @@
     ],
     "updated_at": "",
     "first_seen_at": "2026-08-15T02:30:47.614898+00:00",
-    "enriched_at": "2026-10-04T06:03:07.742790+00:00"
+    "enriched_at": "2026-10-11T12:59:44.887393+00:00"
   },
   {
     "company": "Hewlett Packard Enterprise",
@@ -394009,7 +393552,7 @@
     ],
     "updated_at": "",
     "first_seen_at": "2026-08-15T02:30:47.614898+00:00",
-    "enriched_at": "2026-10-04T06:03:12.767835+00:00"
+    "enriched_at": "2026-10-11T12:59:49.578095+00:00"
   },
   {
     "company": "Applied Materials",
@@ -394036,7 +393579,7 @@
     ],
     "updated_at": "",
     "first_seen_at": "2026-08-15T02:30:47.614898+00:00",
-    "enriched_at": "2026-10-04T06:03:12.786924+00:00"
+    "enriched_at": "2026-10-11T12:59:49.590633+00:00"
   },
   {
     "company": "Applied Materials",
