@@ -1,12 +1,12 @@
 # F500Tracker internships
 
-Last updated: October 11, 2026 at 12:59 UTC
+Last updated: October 11, 2026 at 22:08 UTC
 
-Current internships: 663
+Current internships: 662
 
 ## Categories
 
-[Software & IT (66)](#software-it) · [Data & AI (9)](#data-ai) · [Product & Design (1)](#product-design) · [Engineering (64)](#engineering) · [Finance & Accounting (16)](#finance-accounting) · [Sales & Marketing (13)](#sales-marketing) · [Operations & Supply Chain (49)](#operations-supply-chain) · [People & Legal (5)](#people-legal) · [Other (440)](#other)
+[Software & IT (66)](#software-it) · [Data & AI (9)](#data-ai) · [Product & Design (1)](#product-design) · [Engineering (65)](#engineering) · [Finance & Accounting (16)](#finance-accounting) · [Sales & Marketing (13)](#sales-marketing) · [Operations & Supply Chain (49)](#operations-supply-chain) · [People & Legal (5)](#people-legal) · [Other (438)](#other)
 
 <a id="software-it"></a>
 
@@ -121,7 +121,7 @@ Open positions: 1
 
 ## Engineering
 
-Open positions: 64
+Open positions: 65
 
 | Rank | Company | Position | Location | Category | Salary | Keywords | Sponsorship | Apply |
 |---:|---|---|---|---|---|---|---|---|
@@ -134,6 +134,7 @@ Open positions: 64
 | 45 | Johnson & Johnson | Electrical Engineering Intern - Robotics R&D | Santa Clara, California, United States of America | Engineering | Not disclosed | Python · electrical engineering | No sponsorship for this position | [Apply](https://jj.wd5.myworkdayjobs.com/en-US/JJ/job/Santa-Clara-California-United-States-of-America/Electrical-Engineering-Intern---Robotics-R-D_R-099626-1) |
 | 45 | Johnson & Johnson | Electrical Engineering Co-Op, Summer 2027 | Cincinnati, Ohio, United States of America | Engineering | $23.5/hr | Python · risk management · electrical engineering · recruiting | Not specified | [Apply](https://jj.wd5.myworkdayjobs.com/en-US/JJ/job/Cincinnati-Ohio-United-States-of-America/Electrical-Engineering-Co-Op--Summer-2027_R-096736) |
 | 45 | Johnson & Johnson | Electrical Engineering Co-Op, Spring 2027 | Cincinnati, Ohio, United States of America | Engineering | Not disclosed | Python · risk management · electrical engineering · recruiting | Not specified | [Apply](https://jj.wd5.myworkdayjobs.com/en-US/JJ/job/Cincinnati-Ohio-United-States-of-America/Electrical-Engineer-Co-Op--Spring-2027_R-095700) |
+| 49 | RTX | Mechanical Engineer Intern (Summer 2027) | US-CA-EL SEGUNDO-E01 ~ 2000 E El Segundo Blvd ~ BLDG E01 | Engineering | Not disclosed | mechanical engineering · CAD · compliance · contracts | Not specified | [Apply](https://globalhr.wd5.myworkdayjobs.com/en-US/REC_RTX_Ext_Gateway/job/US-CA-EL-SEGUNDO-E01--2000-E-El-Segundo-Blvd--BLDG-E01/Mechanical-Engineer-Intern--Summer-2027-_01881647) |
 | 49 | RTX | Mechanical Engineer Intern - Air Launched  Effectors (2027 Summer) | US-AZ-TUCSON-9030 ~ 9030 S Rita Rd ~ BLDG 9030 | Engineering | Not disclosed | mechanical engineering · compliance | Not specified | [Apply](https://globalhr.wd5.myworkdayjobs.com/en-US/REC_RTX_Ext_Gateway/job/US-AZ-TUCSON-9030--9030-S-Rita-Rd--BLDG-9030/Mechanical-Engineer-Intern---Air-Launched--Effectors--2027-Summer-_01879420) |
 | 49 | RTX | Mechanical Engineering Co-Op (Winter/Spring 2027) | US-RI-PORTSMOUTH-PS3 ~ 1847 W Main Rd ~ NIMITZ WEST BLDG | Engineering | Not disclosed | mechanical engineering · electrical engineering · compliance | Not specified | [Apply](https://globalhr.wd5.myworkdayjobs.com/en-US/REC_RTX_Ext_Gateway/job/US-RI-PORTSMOUTH-PS3--1847-W-Main-Rd--NIMITZ-WEST-BLDG/Mechanical-Engineering-Co-Op--Winter-Spring-2027-_01880887) |
 | 49 | RTX | Electrical Engineering Intern (Summer 2027) | US-MN-BURNSVILLE-MEMS ~ 14300 Judicial Rd ~ MEMS BLDG | Engineering | Not disclosed | Excel · electrical engineering · compliance · contracts | Not specified | [Apply](https://globalhr.wd5.myworkdayjobs.com/en-US/REC_RTX_Ext_Gateway/job/US-MN-BURNSVILLE-MEMS--14300-Judicial-Rd--MEMS-BLDG/Electrical-Engineering-Intern--Summer-2027-_01876591) |
@@ -323,13 +324,12 @@ Open positions: 5
 
 ## Other
 
-Open positions: 440
+Open positions: 438
 
 | Rank | Company | Position | Location | Category | Salary | Keywords | Sponsorship | Apply |
 |---:|---|---|---|---|---|---|---|---|
 | 329 | DoorDash | Product Design, Intern (Summer 2027) | San Francisco, CA; New York, NY | Other | Not disclosed | Excel · audit · logistics · recruiting · compliance | Not specified | [Apply](https://job-boards.greenhouse.io/doordashusa/jobs/8176863) |
 | 191 | Block | Applied Research Intern, Proactive Intelligence & Customer World Models (PhD / Graduate Co-op) | Bay Area, CA, United States of America | Other | Not disclosed | Python · machine learning · legal | Not specified | [Apply](http://block.xyz/careers/jobs/5108007008?gh_jid=5108007008) |
-| 16 | NVIDIA | Research Intern, World Models and Synthetic Data for Autonomous Driving - Summer 2027 | US, CA, Santa Clara | Other | Not disclosed | Python · machine learning · recruiting | Not specified | [Apply](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Research-Intern--World-Models-and-Synthetic-Data-for-Autonomous-Driving---Summer-2027_JR2026839-1) |
 | 112 | Northrop Grumman | 2027 Intern Engineer - Product Support | United States-Florida-Melbourne | Other | $18.5–$33.5/hr | mechanical engineering · electrical engineering | Not specified | [Apply](https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-Florida-Melbourne/XMLNAME-2027-Intern-Engineer---Product-Support_R10255457) |
 | 112 | Northrop Grumman | 2027 Contracts Administration Intern - Plymouth MN | United States-Minnesota-Plymouth | Other | Not disclosed | contracts | Not specified | [Apply](https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-Minnesota-Plymouth/XMLNAME-2027-Contracts-Administration-Intern---Plymouth-MN_R10255195) |
 | 112 | Northrop Grumman | 2027 Intern - Airworthiness Engineer | United States-California-San Diego | Other | $21.5–$39/hr | mechanical engineering · compliance | Not specified | [Apply](https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-California-San-Diego/XMLNAME-2027-Intern---Airworthiness-Engineer_R10255197) |
@@ -765,7 +765,6 @@ Open positions: 440
 | 133 | Hewlett Packard Enterprise | Wireless Networking Intern | San Jose, California, United States of America | Other | Not disclosed | Python · SQL · machine learning · data science · Excel | Not specified | [Apply](https://hpe.wd5.myworkdayjobs.com/en-US/Jobsathpe/job/San-Jose-California-United-States-of-America/Wireless-Networking-Intern_1214969) |
 | 133 | Hewlett Packard Enterprise | ASIC Verification/Design Engineering Intern | Roseville, California, United States of America | Other | Not disclosed | Python · electrical engineering · legal | Not specified | [Apply](https://hpe.wd5.myworkdayjobs.com/en-US/Jobsathpe/job/Roseville-California-United-States-of-America/ASIC-Verification-Design-Engineering-Intern_1214211) |
 | 133 | Hewlett Packard Enterprise | Thermal Engineering Intern | Sunnyvale, California, United States of America | Other | Not disclosed | mechanical engineering · legal | Not specified | [Apply](https://hpe.wd5.myworkdayjobs.com/en-US/Jobsathpe/job/Sunnyvale-California-United-States-of-America/Thermal-Engineering-Intern_1214190) |
-| 476 | Marvell Technology | Test Solutions Engineering Intern, BS - Summer 2027 | Burlington, VT | Other | Not disclosed | Python · electrical engineering | Not specified | [Apply](https://marvell.wd1.myworkdayjobs.com/en-US/MarvellCareers/job/Burlington-VT/Test-Solutions-Engineering-Intern--BS---Summer-2027_2603835) |
 | 476 | Marvell Technology | Business Process Mining & Intelligence Analyst Intern, BS - Summer 2027 | Santa Clara, CA | Other | Not disclosed | — | Not specified | [Apply](https://marvell.wd1.myworkdayjobs.com/en-US/MarvellCareers/job/Santa-Clara-CA/Business-Process-Mining---Intelligence-Analyst-Intern--BS---Summer-2027_2603844-1) |
 
 [Back to categories](#categories) · [Back to README](../README.md)
