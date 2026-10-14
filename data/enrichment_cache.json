@@ -4510,6 +4510,25 @@
     "source_updated_at": "2026-10-13T15:18:06-04:00",
     "sponsorship_evidence": ""
   },
+  "greenhouse:Airbnb:8275508": {
+    "company": "Airbnb",
+    "enriched_at": "2026-10-14T04:52:04.101036+00:00",
+    "external_id": "8275508",
+    "h1b_mentioned": false,
+    "h1b_status": "unknown",
+    "keywords": [
+      "recruiting",
+      "compliance"
+    ],
+    "salary_currency": "",
+    "salary_max": null,
+    "salary_min": null,
+    "salary_period": "",
+    "salary_text": "",
+    "source": "greenhouse",
+    "source_updated_at": "2026-10-13T19:47:28-04:00",
+    "sponsorship_evidence": ""
+  },
   "greenhouse:Airbnb:8278753": {
     "company": "Airbnb",
     "enriched_at": "2026-10-13T22:44:07.919510+00:00",
@@ -6659,7 +6678,7 @@
   },
   "greenhouse:Block:5314837008": {
     "company": "Block",
-    "enriched_at": "2026-10-08T23:20:22.483437+00:00",
+    "enriched_at": "2026-10-14T04:52:02.691781+00:00",
     "external_id": "5314837008",
     "h1b_mentioned": false,
     "h1b_status": "unknown",
@@ -6673,7 +6692,7 @@
     "salary_period": "",
     "salary_text": "",
     "source": "greenhouse",
-    "source_updated_at": "2026-10-08T17:25:22-04:00",
+    "source_updated_at": "2026-10-13T19:15:36-04:00",
     "sponsorship_evidence": ""
   },
   "greenhouse:Block:5315955008": {
@@ -8926,7 +8945,7 @@
   },
   "greenhouse:Block:5425346008": {
     "company": "Block",
-    "enriched_at": "2026-10-08T23:20:21.787473+00:00",
+    "enriched_at": "2026-10-14T04:52:02.676092+00:00",
     "external_id": "5425346008",
     "h1b_mentioned": false,
     "h1b_status": "unknown",
@@ -8941,7 +8960,7 @@
     "salary_period": "",
     "salary_text": "",
     "source": "greenhouse",
-    "source_updated_at": "2026-10-08T17:42:55-04:00",
+    "source_updated_at": "2026-10-13T19:03:00-04:00",
     "sponsorship_evidence": ""
   },
   "greenhouse:Block:5426213008": {
@@ -9117,7 +9136,7 @@
   },
   "greenhouse:Block:5428504008": {
     "company": "Block",
-    "enriched_at": "2026-09-25T17:09:58.173944+00:00",
+    "enriched_at": "2026-10-14T04:52:02.661396+00:00",
     "external_id": "5428504008",
     "h1b_mentioned": false,
     "h1b_status": "unknown",
@@ -9131,7 +9150,7 @@
     "salary_period": "",
     "salary_text": "",
     "source": "greenhouse",
-    "source_updated_at": "2026-09-25T10:23:16-04:00",
+    "source_updated_at": "2026-10-13T20:19:11-04:00",
     "sponsorship_evidence": ""
   },
   "greenhouse:Block:5428556008": {
@@ -10346,7 +10365,7 @@
   },
   "greenhouse:Carvana:7561803": {
     "company": "Carvana",
-    "enriched_at": "2026-10-13T00:53:37.466157+00:00",
+    "enriched_at": "2026-10-14T05:07:25.569711+00:00",
     "external_id": "7561803",
     "h1b_mentioned": false,
     "h1b_status": "does_not_support_h1b",
@@ -10360,7 +10379,7 @@
     "salary_period": "hour",
     "salary_text": "$22-$24 hourly",
     "source": "greenhouse",
-    "source_updated_at": "2026-10-12T13:50:31-04:00",
+    "source_updated_at": "2026-10-13T19:28:37-04:00",
     "sponsorship_evidence": "&nbsp;</em>This roles is not eligible for visa sponsorship."
   },
   "greenhouse:Carvana:7561806": {
@@ -10568,7 +10587,7 @@
   },
   "greenhouse:Carvana:7574581": {
     "company": "Carvana",
-    "enriched_at": "2026-10-13T00:53:35.819138+00:00",
+    "enriched_at": "2026-10-14T05:07:25.266173+00:00",
     "external_id": "7574581",
     "h1b_mentioned": false,
     "h1b_status": "does_not_support_h1b",
@@ -10581,12 +10600,12 @@
     "salary_period": "hour",
     "salary_text": "$22-$24 hourly",
     "source": "greenhouse",
-    "source_updated_at": "2026-10-12T13:50:31-04:00",
+    "source_updated_at": "2026-10-13T19:22:12-04:00",
     "sponsorship_evidence": "</em>This roles is not eligible for visa sponsorship."
   },
   "greenhouse:Carvana:7574585": {
     "company": "Carvana",
-    "enriched_at": "2026-10-13T00:53:36.618238+00:00",
+    "enriched_at": "2026-10-14T05:07:25.402564+00:00",
     "external_id": "7574585",
     "h1b_mentioned": false,
     "h1b_status": "does_not_support_h1b",
@@ -10599,7 +10618,7 @@
     "salary_period": "hour",
     "salary_text": "$22-$24 hourly",
     "source": "greenhouse",
-    "source_updated_at": "2026-10-12T13:50:31-04:00",
+    "source_updated_at": "2026-10-13T19:21:09-04:00",
     "sponsorship_evidence": "</em>This roles is not eligible for visa sponsorship."
   },
   "greenhouse:Carvana:7574589": {
@@ -11388,7 +11407,7 @@
   },
   "greenhouse:Carvana:7689063": {
     "company": "Carvana",
-    "enriched_at": "2026-10-13T00:53:35.681003+00:00",
+    "enriched_at": "2026-10-14T05:07:25.198893+00:00",
     "external_id": "7689063",
     "h1b_mentioned": false,
     "h1b_status": "does_not_support_h1b",
@@ -11401,7 +11420,7 @@
     "salary_period": "hour",
     "salary_text": "$24-$26 hourly",
     "source": "greenhouse",
-    "source_updated_at": "2026-10-12T13:50:31-04:00",
+    "source_updated_at": "2026-10-13T19:37:51-04:00",
     "sponsorship_evidence": "</em></p> <p>This role is not eligible for visa sponsorship."
   },
   "greenhouse:Carvana:7701413": {
@@ -13216,7 +13235,7 @@
   },
   "greenhouse:Carvana:7848494": {
     "company": "Carvana",
-    "enriched_at": "2026-10-13T00:53:36.485922+00:00",
+    "enriched_at": "2026-10-14T05:07:25.413818+00:00",
     "external_id": "7848494",
     "h1b_mentioned": false,
     "h1b_status": "does_not_support_h1b",
@@ -13229,12 +13248,12 @@
     "salary_period": "hour",
     "salary_text": "$24-$26 hourly",
     "source": "greenhouse",
-    "source_updated_at": "2026-10-12T13:50:31-04:00",
+    "source_updated_at": "2026-10-13T21:07:59-04:00",
     "sponsorship_evidence": "</em>This roles is not eligible for visa sponsorship."
   },
   "greenhouse:Carvana:7848503": {
     "company": "Carvana",
-    "enriched_at": "2026-10-13T00:53:37.048348+00:00",
+    "enriched_at": "2026-10-14T05:07:25.457444+00:00",
     "external_id": "7848503",
     "h1b_mentioned": false,
     "h1b_status": "does_not_support_h1b",
@@ -13247,7 +13266,7 @@
     "salary_period": "hour",
     "salary_text": "$24-$26 hourly",
     "source": "greenhouse",
-    "source_updated_at": "2026-10-12T13:50:31-04:00",
+    "source_updated_at": "2026-10-13T21:09:24-04:00",
     "sponsorship_evidence": "</em>This roles is not eligible for visa sponsorship."
   },
   "greenhouse:Carvana:7848504": {
@@ -14025,7 +14044,7 @@
   },
   "greenhouse:Carvana:7874647": {
     "company": "Carvana",
-    "enriched_at": "2026-10-13T22:59:15.294330+00:00",
+    "enriched_at": "2026-10-14T05:07:25.390945+00:00",
     "external_id": "7874647",
     "h1b_mentioned": false,
     "h1b_status": "does_not_support_h1b",
@@ -14038,7 +14057,7 @@
     "salary_period": "hour",
     "salary_text": "$20-$22 hourly",
     "source": "greenhouse",
-    "source_updated_at": "2026-10-13T12:19:16-04:00",
+    "source_updated_at": "2026-10-14T00:50:47-04:00",
     "sponsorship_evidence": "</em>This role is not eligible for visa sponsorship."
   },
   "greenhouse:Carvana:7874656": {
@@ -14061,7 +14080,7 @@
   },
   "greenhouse:Carvana:7874657": {
     "company": "Carvana",
-    "enriched_at": "2026-10-13T00:53:43.167699+00:00",
+    "enriched_at": "2026-10-14T05:07:25.607136+00:00",
     "external_id": "7874657",
     "h1b_mentioned": false,
     "h1b_status": "does_not_support_h1b",
@@ -14074,7 +14093,7 @@
     "salary_period": "hour",
     "salary_text": "$20-$22 hourly",
     "source": "greenhouse",
-    "source_updated_at": "2026-10-12T13:50:31-04:00",
+    "source_updated_at": "2026-10-14T00:51:51-04:00",
     "sponsorship_evidence": "</em>This role is not eligible for visa sponsorship."
   },
   "greenhouse:Carvana:7875219": {
@@ -16053,7 +16072,7 @@
   },
   "greenhouse:Carvana:7943807": {
     "company": "Carvana",
-    "enriched_at": "2026-10-13T00:53:36.190140+00:00",
+    "enriched_at": "2026-10-14T05:07:25.277513+00:00",
     "external_id": "7943807",
     "h1b_mentioned": false,
     "h1b_status": "does_not_support_h1b",
@@ -16064,12 +16083,12 @@
     "salary_period": "hour",
     "salary_text": "$20 per hour",
     "source": "greenhouse",
-    "source_updated_at": "2026-10-12T13:50:31-04:00",
+    "source_updated_at": "2026-10-13T23:53:05-04:00",
     "sponsorship_evidence": "This roles is not eligible for visa sponsorship."
   },
   "greenhouse:Carvana:7943809": {
     "company": "Carvana",
-    "enriched_at": "2026-10-13T00:53:36.783844+00:00",
+    "enriched_at": "2026-10-14T05:07:25.436734+00:00",
     "external_id": "7943809",
     "h1b_mentioned": false,
     "h1b_status": "does_not_support_h1b",
@@ -16080,7 +16099,7 @@
     "salary_period": "hour",
     "salary_text": "$20 per hour",
     "source": "greenhouse",
-    "source_updated_at": "2026-10-12T13:50:31-04:00",
+    "source_updated_at": "2026-10-13T23:51:39-04:00",
     "sponsorship_evidence": "This roles is not eligible for visa sponsorship."
   },
   "greenhouse:Carvana:7943812": {
@@ -16101,7 +16120,7 @@
   },
   "greenhouse:Carvana:7943816": {
     "company": "Carvana",
-    "enriched_at": "2026-10-13T00:53:37.276832+00:00",
+    "enriched_at": "2026-10-14T05:07:25.525086+00:00",
     "external_id": "7943816",
     "h1b_mentioned": false,
     "h1b_status": "does_not_support_h1b",
@@ -16112,12 +16131,12 @@
     "salary_period": "hour",
     "salary_text": "$20 per hour",
     "source": "greenhouse",
-    "source_updated_at": "2026-10-12T13:50:31-04:00",
+    "source_updated_at": "2026-10-13T23:55:18-04:00",
     "sponsorship_evidence": "This roles is not eligible for visa sponsorship."
   },
   "greenhouse:Carvana:7943819": {
     "company": "Carvana",
-    "enriched_at": "2026-10-13T00:53:43.208302+00:00",
+    "enriched_at": "2026-10-14T05:07:25.630380+00:00",
     "external_id": "7943819",
     "h1b_mentioned": false,
     "h1b_status": "does_not_support_h1b",
@@ -16128,7 +16147,7 @@
     "salary_period": "hour",
     "salary_text": "$20 per hour",
     "source": "greenhouse",
-    "source_updated_at": "2026-10-12T13:50:31-04:00",
+    "source_updated_at": "2026-10-13T23:57:17-04:00",
     "sponsorship_evidence": "This roles is not eligible for visa sponsorship."
   },
   "greenhouse:Carvana:7943839": {
@@ -19930,7 +19949,7 @@
   },
   "greenhouse:Carvana:8010573": {
     "company": "Carvana",
-    "enriched_at": "2026-10-13T00:53:37.179377+00:00",
+    "enriched_at": "2026-10-14T05:07:25.479911+00:00",
     "external_id": "8010573",
     "h1b_mentioned": false,
     "h1b_status": "does_not_support_h1b",
@@ -19943,7 +19962,7 @@
     "salary_period": "hour",
     "salary_text": "$24-$26 hourly",
     "source": "greenhouse",
-    "source_updated_at": "2026-10-12T13:50:31-04:00",
+    "source_updated_at": "2026-10-13T19:38:30-04:00",
     "sponsorship_evidence": "</em></p> <p>This role is not eligible for visa sponsorship."
   },
   "greenhouse:Carvana:8010697": {
@@ -23384,7 +23403,7 @@
   },
   "greenhouse:Carvana:8048866": {
     "company": "Carvana",
-    "enriched_at": "2026-10-13T00:53:35.804944+00:00",
+    "enriched_at": "2026-10-14T05:07:25.220612+00:00",
     "external_id": "8048866",
     "h1b_mentioned": false,
     "h1b_status": "does_not_support_h1b",
@@ -23397,12 +23416,12 @@
     "salary_period": "hour",
     "salary_text": "$20- $22 hourly",
     "source": "greenhouse",
-    "source_updated_at": "2026-10-12T13:50:31-04:00",
+    "source_updated_at": "2026-10-14T00:32:35-04:00",
     "sponsorship_evidence": "</em>This roles is not eligible for visa sponsorship."
   },
   "greenhouse:Carvana:8048877": {
     "company": "Carvana",
-    "enriched_at": "2026-10-13T00:53:36.565135+00:00",
+    "enriched_at": "2026-10-14T05:07:25.333157+00:00",
     "external_id": "8048877",
     "h1b_mentioned": false,
     "h1b_status": "does_not_support_h1b",
@@ -23415,12 +23434,12 @@
     "salary_period": "hour",
     "salary_text": "$ 20- $ 22 hourly",
     "source": "greenhouse",
-    "source_updated_at": "2026-10-12T13:50:31-04:00",
+    "source_updated_at": "2026-10-14T00:34:00-04:00",
     "sponsorship_evidence": "</em>This roles is not eligible for visa sponsorship."
   },
   "greenhouse:Carvana:8048885": {
     "company": "Carvana",
-    "enriched_at": "2026-10-13T00:53:43.147063+00:00",
+    "enriched_at": "2026-10-14T05:07:25.618873+00:00",
     "external_id": "8048885",
     "h1b_mentioned": false,
     "h1b_status": "does_not_support_h1b",
@@ -23433,7 +23452,7 @@
     "salary_period": "hour",
     "salary_text": "$20- $22 hourly",
     "source": "greenhouse",
-    "source_updated_at": "2026-10-12T13:50:31-04:00",
+    "source_updated_at": "2026-10-14T00:35:10-04:00",
     "sponsorship_evidence": "</em>This roles is not eligible for visa sponsorship."
   },
   "greenhouse:Carvana:8048922": {
@@ -24412,7 +24431,7 @@
   },
   "greenhouse:Carvana:8060267": {
     "company": "Carvana",
-    "enriched_at": "2026-10-13T00:53:36.531758+00:00",
+    "enriched_at": "2026-10-14T05:07:25.321493+00:00",
     "external_id": "8060267",
     "h1b_mentioned": false,
     "h1b_status": "does_not_support_h1b",
@@ -24425,7 +24444,7 @@
     "salary_period": "hour",
     "salary_text": "$19-$21 hourly",
     "source": "greenhouse",
-    "source_updated_at": "2026-10-12T13:50:31-04:00",
+    "source_updated_at": "2026-10-13T23:31:20-04:00",
     "sponsorship_evidence": "</em>This role is not eligible for visa sponsorship."
   },
   "greenhouse:Carvana:8060278": {
@@ -24698,7 +24717,7 @@
   },
   "greenhouse:Carvana:8060618": {
     "company": "Carvana",
-    "enriched_at": "2026-10-13T00:53:37.314141+00:00",
+    "enriched_at": "2026-10-14T05:07:25.534706+00:00",
     "external_id": "8060618",
     "h1b_mentioned": false,
     "h1b_status": "does_not_support_h1b",
@@ -24711,12 +24730,12 @@
     "salary_period": "hour",
     "salary_text": "$19-$21 hourly",
     "source": "greenhouse",
-    "source_updated_at": "2026-10-12T13:50:31-04:00",
+    "source_updated_at": "2026-10-13T23:33:42-04:00",
     "sponsorship_evidence": "</em>This role is not eligible for visa sponsorship."
   },
   "greenhouse:Carvana:8060625": {
     "company": "Carvana",
-    "enriched_at": "2026-10-13T00:53:37.236924+00:00",
+    "enriched_at": "2026-10-14T05:07:25.513370+00:00",
     "external_id": "8060625",
     "h1b_mentioned": false,
     "h1b_status": "does_not_support_h1b",
@@ -24729,7 +24748,7 @@
     "salary_period": "hour",
     "salary_text": "$19-$21 hourly",
     "source": "greenhouse",
-    "source_updated_at": "2026-10-12T13:50:31-04:00",
+    "source_updated_at": "2026-10-13T23:32:29-04:00",
     "sponsorship_evidence": "</em>This role is not eligible for visa sponsorship."
   },
   "greenhouse:Carvana:8060650": {
@@ -26199,7 +26218,7 @@
   },
   "greenhouse:Carvana:8068063": {
     "company": "Carvana",
-    "enriched_at": "2026-10-13T00:53:35.937516+00:00",
+    "enriched_at": "2026-10-14T05:07:25.209448+00:00",
     "external_id": "8068063",
     "h1b_mentioned": false,
     "h1b_status": "does_not_support_h1b",
@@ -26212,7 +26231,7 @@
     "salary_period": "hour",
     "salary_text": "$22-$24 hourly",
     "source": "greenhouse",
-    "source_updated_at": "2026-10-12T13:50:31-04:00",
+    "source_updated_at": "2026-10-13T19:05:28-04:00",
     "sponsorship_evidence": "</em>This roles is not eligible for visa sponsorship."
   },
   "greenhouse:Carvana:8068066": {
@@ -26235,7 +26254,7 @@
   },
   "greenhouse:Carvana:8068067": {
     "company": "Carvana",
-    "enriched_at": "2026-10-13T00:53:36.473226+00:00",
+    "enriched_at": "2026-10-14T05:07:25.310258+00:00",
     "external_id": "8068067",
     "h1b_mentioned": false,
     "h1b_status": "does_not_support_h1b",
@@ -26248,7 +26267,7 @@
     "salary_period": "hour",
     "salary_text": "$22-$24 hourly",
     "source": "greenhouse",
-    "source_updated_at": "2026-10-12T13:50:31-04:00",
+    "source_updated_at": "2026-10-13T19:06:30-04:00",
     "sponsorship_evidence": "</em>This roles is not eligible for visa sponsorship."
   },
   "greenhouse:Carvana:8068072": {
@@ -26271,7 +26290,7 @@
   },
   "greenhouse:Carvana:8068073": {
     "company": "Carvana",
-    "enriched_at": "2026-10-13T00:53:36.981281+00:00",
+    "enriched_at": "2026-10-14T05:07:25.468734+00:00",
     "external_id": "8068073",
     "h1b_mentioned": false,
     "h1b_status": "does_not_support_h1b",
@@ -26284,7 +26303,7 @@
     "salary_period": "hour",
     "salary_text": "$22-$24 hourly",
     "source": "greenhouse",
-    "source_updated_at": "2026-10-12T13:50:31-04:00",
+    "source_updated_at": "2026-10-13T19:07:35-04:00",
     "sponsorship_evidence": "</em>This roles is not eligible for visa sponsorship."
   },
   "greenhouse:Carvana:8068081": {
@@ -33896,7 +33915,7 @@
   },
   "greenhouse:Carvana:8096539": {
     "company": "Carvana",
-    "enriched_at": "2026-10-13T00:53:36.202334+00:00",
+    "enriched_at": "2026-10-14T05:07:25.287236+00:00",
     "external_id": "8096539",
     "h1b_mentioned": false,
     "h1b_status": "does_not_support_h1b",
@@ -33909,12 +33928,12 @@
     "salary_period": "hour",
     "salary_text": "$19-$21 hourly",
     "source": "greenhouse",
-    "source_updated_at": "2026-10-12T13:50:31-04:00",
+    "source_updated_at": "2026-10-13T21:32:29-04:00",
     "sponsorship_evidence": "</em>This role is not eligible for visa sponsorship."
   },
   "greenhouse:Carvana:8096555": {
     "company": "Carvana",
-    "enriched_at": "2026-10-13T00:53:36.814440+00:00",
+    "enriched_at": "2026-10-14T05:07:25.446238+00:00",
     "external_id": "8096555",
     "h1b_mentioned": false,
     "h1b_status": "does_not_support_h1b",
@@ -33927,12 +33946,12 @@
     "salary_period": "hour",
     "salary_text": "$19-$21 hourly",
     "source": "greenhouse",
-    "source_updated_at": "2026-10-12T13:50:31-04:00",
+    "source_updated_at": "2026-10-13T21:34:52-04:00",
     "sponsorship_evidence": "</em>This role is not eligible for visa sponsorship."
   },
   "greenhouse:Carvana:8096561": {
     "company": "Carvana",
-    "enriched_at": "2026-10-13T00:53:37.140387+00:00",
+    "enriched_at": "2026-10-14T05:07:25.502127+00:00",
     "external_id": "8096561",
     "h1b_mentioned": false,
     "h1b_status": "does_not_support_h1b",
@@ -33945,7 +33964,7 @@
     "salary_period": "hour",
     "salary_text": "$19-$21 hourly",
     "source": "greenhouse",
-    "source_updated_at": "2026-10-12T13:50:31-04:00",
+    "source_updated_at": "2026-10-13T21:37:13-04:00",
     "sponsorship_evidence": "</em>This role is not eligible for visa sponsorship."
   },
   "greenhouse:Carvana:8096590": {
@@ -33968,7 +33987,7 @@
   },
   "greenhouse:Carvana:8096592": {
     "company": "Carvana",
-    "enriched_at": "2026-10-13T00:53:37.359515+00:00",
+    "enriched_at": "2026-10-14T05:07:25.558306+00:00",
     "external_id": "8096592",
     "h1b_mentioned": false,
     "h1b_status": "does_not_support_h1b",
@@ -33981,7 +34000,7 @@
     "salary_period": "hour",
     "salary_text": "$19-$21 hourly",
     "source": "greenhouse",
-    "source_updated_at": "2026-10-12T13:50:31-04:00",
+    "source_updated_at": "2026-10-13T21:38:23-04:00",
     "sponsorship_evidence": "</em>This role is not eligible for visa sponsorship."
   },
   "greenhouse:Carvana:8096652": {
@@ -54352,7 +54371,7 @@
   },
   "greenhouse:Carvana:8160573": {
     "company": "Carvana",
-    "enriched_at": "2026-10-13T00:53:36.227840+00:00",
+    "enriched_at": "2026-10-14T05:07:25.298603+00:00",
     "external_id": "8160573",
     "h1b_mentioned": false,
     "h1b_status": "does_not_support_h1b",
@@ -54365,12 +54384,12 @@
     "salary_period": "hour",
     "salary_text": "$20-$22 hourly",
     "source": "greenhouse",
-    "source_updated_at": "2026-10-12T13:50:31-04:00",
+    "source_updated_at": "2026-10-13T21:19:53-04:00",
     "sponsorship_evidence": "</em>This role is not eligible for visa sponsorship."
   },
   "greenhouse:Carvana:8160574": {
     "company": "Carvana",
-    "enriched_at": "2026-10-13T00:53:36.756658+00:00",
+    "enriched_at": "2026-10-14T05:07:25.425110+00:00",
     "external_id": "8160574",
     "h1b_mentioned": false,
     "h1b_status": "does_not_support_h1b",
@@ -54383,12 +54402,12 @@
     "salary_period": "hour",
     "salary_text": "$20-$22 hourly",
     "source": "greenhouse",
-    "source_updated_at": "2026-10-12T13:50:31-04:00",
+    "source_updated_at": "2026-10-13T21:18:18-04:00",
     "sponsorship_evidence": "</em>This role is not eligible for visa sponsorship."
   },
   "greenhouse:Carvana:8160577": {
     "company": "Carvana",
-    "enriched_at": "2026-10-13T00:53:37.093609+00:00",
+    "enriched_at": "2026-10-14T05:07:25.490534+00:00",
     "external_id": "8160577",
     "h1b_mentioned": false,
     "h1b_status": "does_not_support_h1b",
@@ -54401,7 +54420,7 @@
     "salary_period": "hour",
     "salary_text": "$20-$22 hourly",
     "source": "greenhouse",
-    "source_updated_at": "2026-10-12T13:50:31-04:00",
+    "source_updated_at": "2026-10-13T21:16:16-04:00",
     "sponsorship_evidence": "</em>This role is not eligible for visa sponsorship."
   },
   "greenhouse:Carvana:8160638": {
@@ -59734,7 +59753,7 @@
   },
   "greenhouse:Carvana:8180485": {
     "company": "Carvana",
-    "enriched_at": "2026-10-13T00:53:32.915269+00:00",
+    "enriched_at": "2026-10-14T05:07:25.178905+00:00",
     "external_id": "8180485",
     "h1b_mentioned": false,
     "h1b_status": "does_not_support_h1b",
@@ -59749,12 +59768,12 @@
     "salary_period": "",
     "salary_text": "",
     "source": "greenhouse",
-    "source_updated_at": "2026-10-12T13:50:31-04:00",
+    "source_updated_at": "2026-10-13T19:25:27-04:00",
     "sponsorship_evidence": "This role is not eligible for visa sponsorship."
   },
   "greenhouse:Carvana:8180487": {
     "company": "Carvana",
-    "enriched_at": "2026-10-13T00:53:41.900893+00:00",
+    "enriched_at": "2026-10-14T05:07:25.597796+00:00",
     "external_id": "8180487",
     "h1b_mentioned": false,
     "h1b_status": "does_not_support_h1b",
@@ -59769,7 +59788,7 @@
     "salary_period": "",
     "salary_text": "",
     "source": "greenhouse",
-    "source_updated_at": "2026-10-12T13:50:31-04:00",
+    "source_updated_at": "2026-10-13T19:25:37-04:00",
     "sponsorship_evidence": "This role is not eligible for visa sponsorship."
   },
   "greenhouse:Carvana:8180507": {
@@ -61038,7 +61057,7 @@
   },
   "greenhouse:Carvana:8189371": {
     "company": "Carvana",
-    "enriched_at": "2026-10-13T00:53:35.612209+00:00",
+    "enriched_at": "2026-10-14T05:07:25.188095+00:00",
     "external_id": "8189371",
     "h1b_mentioned": false,
     "h1b_status": "does_not_support_h1b",
@@ -61051,7 +61070,7 @@
     "salary_period": "hour",
     "salary_text": "$19-$21 hourly",
     "source": "greenhouse",
-    "source_updated_at": "2026-10-12T13:50:31-04:00",
+    "source_updated_at": "2026-10-14T01:04:57-04:00",
     "sponsorship_evidence": "</em></p> <p>This role is not eligible for visa sponsorship."
   },
   "greenhouse:Carvana:8189544": {
@@ -70308,7 +70327,7 @@
   },
   "greenhouse:Carvana:8223830": {
     "company": "Carvana",
-    "enriched_at": "2026-10-13T00:53:36.697591+00:00",
+    "enriched_at": "2026-10-14T05:07:25.379249+00:00",
     "external_id": "8223830",
     "h1b_mentioned": false,
     "h1b_status": "does_not_support_h1b",
@@ -70321,7 +70340,7 @@
     "salary_period": "hour",
     "salary_text": "$19-$21 hourly",
     "source": "greenhouse",
-    "source_updated_at": "2026-10-12T13:50:31-04:00",
+    "source_updated_at": "2026-10-13T21:53:22-04:00",
     "sponsorship_evidence": "</em>This role is not eligible for visa sponsorship."
   },
   "greenhouse:Carvana:8223831": {
@@ -70344,7 +70363,7 @@
   },
   "greenhouse:Carvana:8223832": {
     "company": "Carvana",
-    "enriched_at": "2026-10-13T00:53:35.791861+00:00",
+    "enriched_at": "2026-10-14T05:07:25.254381+00:00",
     "external_id": "8223832",
     "h1b_mentioned": false,
     "h1b_status": "does_not_support_h1b",
@@ -70357,12 +70376,12 @@
     "salary_period": "hour",
     "salary_text": "$19-$21 hourly",
     "source": "greenhouse",
-    "source_updated_at": "2026-10-12T13:50:31-04:00",
+    "source_updated_at": "2026-10-13T21:52:23-04:00",
     "sponsorship_evidence": "</em>This role is not eligible for visa sponsorship."
   },
   "greenhouse:Carvana:8223833": {
     "company": "Carvana",
-    "enriched_at": "2026-10-13T00:53:37.307492+00:00",
+    "enriched_at": "2026-10-14T05:07:25.546496+00:00",
     "external_id": "8223833",
     "h1b_mentioned": false,
     "h1b_status": "does_not_support_h1b",
@@ -70375,7 +70394,7 @@
     "salary_period": "hour",
     "salary_text": "$19-$21 hourly",
     "source": "greenhouse",
-    "source_updated_at": "2026-10-12T13:50:31-04:00",
+    "source_updated_at": "2026-10-13T21:54:23-04:00",
     "sponsorship_evidence": "</em>This role is not eligible for visa sponsorship."
   },
   "greenhouse:Carvana:8223834": {
@@ -72019,7 +72038,7 @@
   },
   "greenhouse:Carvana:8231462": {
     "company": "Carvana",
-    "enriched_at": "2026-10-13T00:53:36.624746+00:00",
+    "enriched_at": "2026-10-14T05:07:25.367562+00:00",
     "external_id": "8231462",
     "h1b_mentioned": false,
     "h1b_status": "does_not_support_h1b",
@@ -72032,7 +72051,7 @@
     "salary_period": "hour",
     "salary_text": "$22-$24 hourly",
     "source": "greenhouse",
-    "source_updated_at": "2026-10-12T13:50:31-04:00",
+    "source_updated_at": "2026-10-13T19:14:18-04:00",
     "sponsorship_evidence": "</em>This roles is not eligible for visa sponsorship."
   },
   "greenhouse:Carvana:8231464": {
@@ -72103,7 +72122,7 @@
   },
   "greenhouse:Carvana:8231477": {
     "company": "Carvana",
-    "enriched_at": "2026-10-13T00:53:36.605030+00:00",
+    "enriched_at": "2026-10-14T05:07:25.355811+00:00",
     "external_id": "8231477",
     "h1b_mentioned": false,
     "h1b_status": "does_not_support_h1b",
@@ -72116,7 +72135,7 @@
     "salary_period": "hour",
     "salary_text": "$22-$24 hourly",
     "source": "greenhouse",
-    "source_updated_at": "2026-10-12T13:50:31-04:00",
+    "source_updated_at": "2026-10-13T19:15:04-04:00",
     "sponsorship_evidence": "</em>This roles is not eligible for visa sponsorship."
   },
   "greenhouse:Carvana:8231486": {
@@ -84323,7 +84342,7 @@
   },
   "greenhouse:Carvana:8263416": {
     "company": "Carvana",
-    "enriched_at": "2026-10-13T00:53:36.360446+00:00",
+    "enriched_at": "2026-10-14T05:07:25.344567+00:00",
     "external_id": "8263416",
     "h1b_mentioned": false,
     "h1b_status": "does_not_support_h1b",
@@ -84336,7 +84355,7 @@
     "salary_period": "hour",
     "salary_text": "$20-$22 hourly",
     "source": "greenhouse",
-    "source_updated_at": "2026-10-12T13:50:31-04:00",
+    "source_updated_at": "2026-10-13T18:59:38-04:00",
     "sponsorship_evidence": "</em>This role is not eligible for visa sponsorship."
   },
   "greenhouse:Carvana:8263417": {
@@ -84360,7 +84379,7 @@
   },
   "greenhouse:Carvana:8263420": {
     "company": "Carvana",
-    "enriched_at": "2026-10-13T00:53:35.798576+00:00",
+    "enriched_at": "2026-10-14T05:07:25.231873+00:00",
     "external_id": "8263420",
     "h1b_mentioned": false,
     "h1b_status": "does_not_support_h1b",
@@ -84373,12 +84392,12 @@
     "salary_period": "hour",
     "salary_text": "$24-$26 hourly",
     "source": "greenhouse",
-    "source_updated_at": "2026-10-12T13:50:31-04:00",
+    "source_updated_at": "2026-10-13T19:43:49-04:00",
     "sponsorship_evidence": "</em>This roles is not eligible for visa sponsorship."
   },
   "greenhouse:Carvana:8263421": {
     "company": "Carvana",
-    "enriched_at": "2026-10-13T00:53:35.845037+00:00",
+    "enriched_at": "2026-10-14T05:07:25.243104+00:00",
     "external_id": "8263421",
     "h1b_mentioned": false,
     "h1b_status": "does_not_support_h1b",
@@ -84391,7 +84410,7 @@
     "salary_period": "hour",
     "salary_text": "$24-$26 hourly",
     "source": "greenhouse",
-    "source_updated_at": "2026-10-12T13:50:31-04:00",
+    "source_updated_at": "2026-10-13T19:44:28-04:00",
     "sponsorship_evidence": "</em>This roles is not eligible for visa sponsorship."
   },
   "greenhouse:Carvana:8263449": {
@@ -87271,6 +87290,26 @@
     "source_updated_at": "2026-10-13T18:13:50-04:00",
     "sponsorship_evidence": ""
   },
+  "greenhouse:Carvana:8280144": {
+    "company": "Carvana",
+    "enriched_at": "2026-10-14T05:07:25.582815+00:00",
+    "external_id": "8280144",
+    "h1b_mentioned": false,
+    "h1b_status": "does_not_support_h1b",
+    "keywords": [
+      "sales",
+      "CRM",
+      "legal"
+    ],
+    "salary_currency": "USD",
+    "salary_max": 23.0,
+    "salary_min": 20.0,
+    "salary_period": "hour",
+    "salary_text": "$20-$23 hourly",
+    "source": "greenhouse",
+    "source_updated_at": "2026-10-13T18:59:46-04:00",
+    "sponsorship_evidence": "&nbsp; This role is not eligible for visa sponsorship."
+  },
   "greenhouse:Coupang:3887444": {
     "company": "Coupang",
     "enriched_at": "2026-10-01T13:12:16.514579+00:00",
@@ -88538,7 +88577,7 @@
   },
   "greenhouse:Coupang:8118774": {
     "company": "Coupang",
-    "enriched_at": "2026-10-13T14:09:59.589933+00:00",
+    "enriched_at": "2026-10-14T04:52:01.929387+00:00",
     "external_id": "8118774",
     "h1b_mentioned": false,
     "h1b_status": "unknown",
@@ -88556,7 +88595,7 @@
     "salary_period": "year",
     "salary_text": "$132,000/year",
     "source": "greenhouse",
-    "source_updated_at": "2026-10-12T20:54:21-04:00",
+    "source_updated_at": "2026-10-13T20:54:31-04:00",
     "sponsorship_evidence": ""
   },
   "greenhouse:Coupang:8120779": {
@@ -88783,7 +88822,7 @@
   },
   "greenhouse:Coupang:8174696": {
     "company": "Coupang",
-    "enriched_at": "2026-10-13T22:44:04.589962+00:00",
+    "enriched_at": "2026-10-14T04:52:01.898565+00:00",
     "external_id": "8174696",
     "h1b_mentioned": false,
     "h1b_status": "unknown",
@@ -88800,12 +88839,12 @@
     "salary_period": "year",
     "salary_text": "$142,000/year",
     "source": "greenhouse",
-    "source_updated_at": "2026-10-13T14:26:06-04:00",
+    "source_updated_at": "2026-10-13T20:54:35-04:00",
     "sponsorship_evidence": ""
   },
   "greenhouse:Coupang:8175850": {
     "company": "Coupang",
-    "enriched_at": "2026-10-13T14:09:59.580677+00:00",
+    "enriched_at": "2026-10-14T04:52:01.912611+00:00",
     "external_id": "8175850",
     "h1b_mentioned": false,
     "h1b_status": "unknown",
@@ -88824,7 +88863,7 @@
     "salary_period": "year",
     "salary_text": "$207,900/year",
     "source": "greenhouse",
-    "source_updated_at": "2026-10-12T20:54:31-04:00",
+    "source_updated_at": "2026-10-13T20:54:42-04:00",
     "sponsorship_evidence": ""
   },
   "greenhouse:Coupang:8177944": {
@@ -89174,7 +89213,7 @@
   },
   "greenhouse:Coupang:8274425": {
     "company": "Coupang",
-    "enriched_at": "2026-10-13T14:09:59.598855+00:00",
+    "enriched_at": "2026-10-14T04:52:01.945743+00:00",
     "external_id": "8274425",
     "h1b_mentioned": false,
     "h1b_status": "unknown",
@@ -89188,12 +89227,12 @@
     "salary_period": "year",
     "salary_text": "$132,000/year",
     "source": "greenhouse",
-    "source_updated_at": "2026-10-12T20:54:52-04:00",
+    "source_updated_at": "2026-10-13T20:55:05-04:00",
     "sponsorship_evidence": ""
   },
   "greenhouse:Coupang:8275829": {
     "company": "Coupang",
-    "enriched_at": "2026-10-13T22:44:04.597829+00:00",
+    "enriched_at": "2026-10-14T04:52:01.967907+00:00",
     "external_id": "8275829",
     "h1b_mentioned": false,
     "h1b_status": "unknown",
@@ -89210,7 +89249,7 @@
     "salary_period": "year",
     "salary_text": "$159,000/year",
     "source": "greenhouse",
-    "source_updated_at": "2026-10-13T16:26:29-04:00",
+    "source_updated_at": "2026-10-13T20:55:08-04:00",
     "sponsorship_evidence": ""
   },
   "greenhouse:DoorDash:3236374": {
@@ -106198,7 +106237,7 @@
   },
   "greenhouse:DoorDash:8212984": {
     "company": "DoorDash",
-    "enriched_at": "2026-10-12T15:22:09.573096+00:00",
+    "enriched_at": "2026-10-14T04:52:03.097908+00:00",
     "external_id": "8212984",
     "h1b_mentioned": false,
     "h1b_status": "unknown",
@@ -106221,7 +106260,7 @@
     "salary_period": "",
     "salary_text": "",
     "source": "greenhouse",
-    "source_updated_at": "2026-10-12T09:42:31-04:00",
+    "source_updated_at": "2026-10-13T23:50:05-04:00",
     "sponsorship_evidence": ""
   },
   "greenhouse:DoorDash:8213968": {
@@ -135035,6 +135074,24 @@
     "source_updated_at": "",
     "sponsorship_evidence": ""
   },
+  "workday:Applied Materials:/job/AustinTX/Engineering-Technician-II----T2--Weekend-Shift_R2630111": {
+    "company": "Applied Materials",
+    "enriched_at": "2026-10-14T05:07:42.022642+00:00",
+    "external_id": "/job/AustinTX/Engineering-Technician-II----T2--Weekend-Shift_R2630111",
+    "h1b_mentioned": false,
+    "h1b_status": "unknown",
+    "keywords": [
+      "sales"
+    ],
+    "salary_currency": "",
+    "salary_max": null,
+    "salary_min": null,
+    "salary_period": "",
+    "salary_text": "",
+    "source": "workday",
+    "source_updated_at": "",
+    "sponsorship_evidence": ""
+  },
   "workday:Applied Materials:/job/AustinTX/Engineering-Technician-II----T2-_R2630158": {
     "company": "Applied Materials",
     "enriched_at": "2026-10-13T22:59:31.516413+00:00",
@@ -148431,6 +148488,48 @@
     "source_updated_at": "",
     "sponsorship_evidence": "Visa Sponsorship: Employer will not sponsor applicants for employment visa status."
   },
+  "workday:Boeing:/job/USA---El-Segundo-CA/Command-and-Data-Handling-Networking-Subsystem-Engineers---Space-Autonomy-Systems----Associate--Experienced--or-Lead-_JR2026511333-1": {
+    "company": "Boeing",
+    "enriched_at": "2026-10-14T04:53:25.413387+00:00",
+    "external_id": "/job/USA---El-Segundo-CA/Command-and-Data-Handling-Networking-Subsystem-Engineers---Space-Autonomy-Systems----Associate--Experienced--or-Lead-_JR2026511333-1",
+    "h1b_mentioned": false,
+    "h1b_status": "does_not_support_h1b",
+    "keywords": [
+      "Python",
+      "data science",
+      "compliance",
+      "contracts"
+    ],
+    "salary_currency": "",
+    "salary_max": null,
+    "salary_min": null,
+    "salary_period": "",
+    "salary_text": "",
+    "source": "workday",
+    "source_updated_at": "",
+    "sponsorship_evidence": "n active in the past 24 months is considered active) Visa Sponsorship: Employer will not sponsor applicants for employment visa status."
+  },
+  "workday:Boeing:/job/USA---El-Segundo-CA/Command-and-Data-Handling-Networking-Subsystem-Engineers---Space-Autonomy-Systems----Associate--Experienced--or-Lead-_JR2026519724-1": {
+    "company": "Boeing",
+    "enriched_at": "2026-10-14T04:53:25.428868+00:00",
+    "external_id": "/job/USA---El-Segundo-CA/Command-and-Data-Handling-Networking-Subsystem-Engineers---Space-Autonomy-Systems----Associate--Experienced--or-Lead-_JR2026519724-1",
+    "h1b_mentioned": false,
+    "h1b_status": "does_not_support_h1b",
+    "keywords": [
+      "Python",
+      "data science",
+      "compliance",
+      "contracts"
+    ],
+    "salary_currency": "",
+    "salary_max": null,
+    "salary_min": null,
+    "salary_period": "",
+    "salary_text": "",
+    "source": "workday",
+    "source_updated_at": "",
+    "sponsorship_evidence": "Visa Sponsorship: Employer will not sponsor applicants for employment visa status."
+  },
   "workday:Boeing:/job/USA---El-Segundo-CA/Contracts-Management-Specialist---Millennium-Space-Systems_JR2026521280-1": {
     "company": "Boeing",
     "enriched_at": "2026-09-18T16:25:54.105549+00:00",
@@ -148634,7 +148733,7 @@
   },
   "workday:Boeing:/job/USA---El-Segundo-CA/Design-Engineer--Associate--Experienced--or-Senior-_JR2026520897-1": {
     "company": "Boeing",
-    "enriched_at": "2026-09-02T16:36:28.499661+00:00",
+    "enriched_at": "2026-10-14T04:53:25.444639+00:00",
     "external_id": "/job/USA---El-Segundo-CA/Design-Engineer--Associate--Experienced--or-Senior-_JR2026520897-1",
     "h1b_mentioned": false,
     "h1b_status": "does_not_support_h1b",
@@ -151679,7 +151778,7 @@
   },
   "workday:Boeing:/job/USA---El-Segundo-CA/Senior-ATLO--Assembly--Test----Launch-Operations--Engineer---Millennium-Space-Systems_JR2026512879-2": {
     "company": "Boeing",
-    "enriched_at": "2026-10-01T05:53:35.292783+00:00",
+    "enriched_at": "2026-10-14T04:53:25.470761+00:00",
     "external_id": "/job/USA---El-Segundo-CA/Senior-ATLO--Assembly--Test----Launch-Operations--Engineer---Millennium-Space-Systems_JR2026512879-2",
     "h1b_mentioned": false,
     "h1b_status": "does_not_support_h1b",
@@ -151740,6 +151839,27 @@
     "source": "workday",
     "source_updated_at": "",
     "sponsorship_evidence": "Visa Sponsorship: Employer will not sponsor applicants for employment visa status."
+  },
+  "workday:Boeing:/job/USA---El-Segundo-CA/Senior-Command-and-Data-Handling-Networking-Subsystem-Engineers---Space-Autonomy-Systems_JR2026511650-1": {
+    "company": "Boeing",
+    "enriched_at": "2026-10-14T04:53:25.399433+00:00",
+    "external_id": "/job/USA---El-Segundo-CA/Senior-Command-and-Data-Handling-Networking-Subsystem-Engineers---Space-Autonomy-Systems_JR2026511650-1",
+    "h1b_mentioned": false,
+    "h1b_status": "does_not_support_h1b",
+    "keywords": [
+      "Python",
+      "data science",
+      "compliance",
+      "contracts"
+    ],
+    "salary_currency": "",
+    "salary_max": null,
+    "salary_min": null,
+    "salary_period": "",
+    "salary_text": "",
+    "source": "workday",
+    "source_updated_at": "",
+    "sponsorship_evidence": "n active in the past 24 months is considered active) Visa Sponsorship: Employer will not sponsor applicants for employment visa status."
   },
   "workday:Boeing:/job/USA---El-Segundo-CA/Senior-Electrical-Component-Engineer_JR2026512299-2": {
     "company": "Boeing",
@@ -152976,7 +153096,7 @@
   },
   "workday:Boeing:/job/USA---El-Segundo-CA/Structural-Analysis-Engineering-Manager---Millennium-Space-Systems_JR2026523665-1": {
     "company": "Boeing",
-    "enriched_at": "2026-09-18T20:55:58.126860+00:00",
+    "enriched_at": "2026-10-14T04:53:25.458602+00:00",
     "external_id": "/job/USA---El-Segundo-CA/Structural-Analysis-Engineering-Manager---Millennium-Space-Systems_JR2026523665-1",
     "h1b_mentioned": false,
     "h1b_status": "does_not_support_h1b",
@@ -217227,6 +217347,26 @@
     "source_updated_at": "",
     "sponsorship_evidence": ""
   },
+  "workday:Caterpillar:/job/Mossville-Illinois/Senior-Marketing-Technology---Data-Consultant_R0000398157": {
+    "company": "Caterpillar",
+    "enriched_at": "2026-10-14T05:04:40.560939+00:00",
+    "external_id": "/job/Mossville-Illinois/Senior-Marketing-Technology---Data-Consultant_R0000398157",
+    "h1b_mentioned": false,
+    "h1b_status": "unknown",
+    "keywords": [
+      "Python",
+      "analytics",
+      "sales"
+    ],
+    "salary_currency": "",
+    "salary_max": null,
+    "salary_min": null,
+    "salary_period": "",
+    "salary_text": "",
+    "source": "workday",
+    "source_updated_at": "",
+    "sponsorship_evidence": ""
+  },
   "workday:Caterpillar:/job/Mossville-Illinois/Senior-Product-Service-Engineer_R0000391752-1": {
     "company": "Caterpillar",
     "enriched_at": "2026-09-11T21:09:02.440923+00:00",
@@ -226422,9 +226562,9 @@
   },
   "workday:Centene:/job/Remote-FL/Centene-2027-Graduate-Summer-Intern_1660479": {
     "company": "Centene",
-    "enriched_at": "2026-09-18T20:57:09.215394+00:00",
+    "enriched_at": "2026-10-14T04:55:06.551640+00:00",
     "external_id": "/job/Remote-FL/Centene-2027-Graduate-Summer-Intern_1660479",
-    "h1b_mentioned": false,
+    "h1b_mentioned": true,
     "h1b_status": "unknown",
     "keywords": [
       "machine learning",
@@ -226685,6 +226825,22 @@
     "salary_min": 121500.0,
     "salary_period": "year",
     "salary_text": "$121,500.00 - $224,900.00 per year",
+    "source": "workday",
+    "source_updated_at": "",
+    "sponsorship_evidence": ""
+  },
+  "workday:Centene:/job/Remote-FL/Escalation-Response-Specialist-IV_1666737": {
+    "company": "Centene",
+    "enriched_at": "2026-10-14T04:55:06.537217+00:00",
+    "external_id": "/job/Remote-FL/Escalation-Response-Specialist-IV_1666737",
+    "h1b_mentioned": true,
+    "h1b_status": "unknown",
+    "keywords": [],
+    "salary_currency": "USD",
+    "salary_max": 38.79,
+    "salary_min": 22.94,
+    "salary_period": "hour",
+    "salary_text": "$22.94 - $38.79 per hour",
     "source": "workday",
     "source_updated_at": "",
     "sponsorship_evidence": ""
@@ -235830,6 +235986,24 @@
     "company": "Centene",
     "enriched_at": "2026-09-28T23:20:13.525025+00:00",
     "external_id": "/job/Remote-TX/LTSS-Service-Care-Coordinator_1662346",
+    "h1b_mentioned": false,
+    "h1b_status": "unknown",
+    "keywords": [
+      "compliance"
+    ],
+    "salary_currency": "USD",
+    "salary_max": 38.79,
+    "salary_min": 22.94,
+    "salary_period": "hour",
+    "salary_text": "$22.94 - $38.79 per hour",
+    "source": "workday",
+    "source_updated_at": "",
+    "sponsorship_evidence": ""
+  },
+  "workday:Centene:/job/Remote-TX/LTSS-Service-Care-Coordinator_1668093": {
+    "company": "Centene",
+    "enriched_at": "2026-10-14T04:55:06.544404+00:00",
+    "external_id": "/job/Remote-TX/LTSS-Service-Care-Coordinator_1668093",
     "h1b_mentioned": false,
     "h1b_status": "unknown",
     "keywords": [
@@ -256072,7 +256246,7 @@
   },
   "workday:Cisco Systems:/job/RTP-North-Carolina-US/Software-Engineer_2021976": {
     "company": "Cisco Systems",
-    "enriched_at": "2026-09-18T21:06:03.790987+00:00",
+    "enriched_at": "2026-10-14T05:05:17.615175+00:00",
     "external_id": "/job/RTP-North-Carolina-US/Software-Engineer_2021976",
     "h1b_mentioned": false,
     "h1b_status": "unknown",
@@ -292885,7 +293059,7 @@
   },
   "workday:General Motors:/job/Sunnyvale-California-United-States-of-America/Sr-Data-Analyst_JR-202612160": {
     "company": "General Motors",
-    "enriched_at": "2026-09-22T17:01:23.767248+00:00",
+    "enriched_at": "2026-10-14T04:55:13.604296+00:00",
     "external_id": "/job/Sunnyvale-California-United-States-of-America/Sr-Data-Analyst_JR-202612160",
     "h1b_mentioned": false,
     "h1b_status": "unknown",
@@ -310779,6 +310953,30 @@
     "source_updated_at": "",
     "sponsorship_evidence": ""
   },
+  "workday:Hewlett Packard Enterprise:/job/All-Georgia-United-States-of-America/Senior-Presales-Systems-Engineer---HPE-Networking_1215701-2": {
+    "company": "Hewlett Packard Enterprise",
+    "enriched_at": "2026-10-14T05:07:38.944448+00:00",
+    "external_id": "/job/All-Georgia-United-States-of-America/Senior-Presales-Systems-Engineer---HPE-Networking_1215701-2",
+    "h1b_mentioned": false,
+    "h1b_status": "unknown",
+    "keywords": [
+      "Python",
+      "AWS",
+      "Azure",
+      "GCP",
+      "Terraform",
+      "sales",
+      "legal"
+    ],
+    "salary_currency": "",
+    "salary_max": null,
+    "salary_min": null,
+    "salary_period": "",
+    "salary_text": "",
+    "source": "workday",
+    "source_updated_at": "",
+    "sponsorship_evidence": ""
+  },
   "workday:Hewlett Packard Enterprise:/job/All-Idaho-United-States-of-America/HPE-Networking-Pre-Sales-Systems-Engineer_1208443-2": {
     "company": "Hewlett Packard Enterprise",
     "enriched_at": "2026-09-29T22:28:31.180030+00:00",
@@ -311711,6 +311909,29 @@
       "Python",
       "electrical engineering",
       "compliance",
+      "legal"
+    ],
+    "salary_currency": "",
+    "salary_max": null,
+    "salary_min": null,
+    "salary_period": "",
+    "salary_text": "",
+    "source": "workday",
+    "source_updated_at": "",
+    "sponsorship_evidence": ""
+  },
+  "workday:Hewlett Packard Enterprise:/job/All-Texas-United-States-of-America/Principal-Presales-Systems-Engineer_1215822-3": {
+    "company": "Hewlett Packard Enterprise",
+    "enriched_at": "2026-10-14T05:07:38.927779+00:00",
+    "external_id": "/job/All-Texas-United-States-of-America/Principal-Presales-Systems-Engineer_1215822-3",
+    "h1b_mentioned": false,
+    "h1b_status": "unknown",
+    "keywords": [
+      "Python",
+      "AWS",
+      "Azure",
+      "GCP",
+      "sales",
       "legal"
     ],
     "salary_currency": "",
@@ -313815,6 +314036,26 @@
     "source_updated_at": "",
     "sponsorship_evidence": ""
   },
+  "workday:Hewlett Packard Enterprise:/job/Houston-Texas-United-States-of-America/Territory-Account-Manager---Houston_1213797-2": {
+    "company": "Hewlett Packard Enterprise",
+    "enriched_at": "2026-10-14T05:07:38.909596+00:00",
+    "external_id": "/job/Houston-Texas-United-States-of-America/Territory-Account-Manager---Houston_1213797-2",
+    "h1b_mentioned": false,
+    "h1b_status": "unknown",
+    "keywords": [
+      "supply chain",
+      "sales",
+      "legal"
+    ],
+    "salary_currency": "",
+    "salary_max": null,
+    "salary_min": null,
+    "salary_period": "",
+    "salary_text": "",
+    "source": "workday",
+    "source_updated_at": "",
+    "sponsorship_evidence": ""
+  },
   "workday:Hewlett Packard Enterprise:/job/King-of-Prussia-Pennsylvania-United-States-of-America/Senior-Director--Government---Regulatory-Affairs--Brand-Security-and-Integrity-Group--Corporate-Affairs_1212449-2": {
     "company": "Hewlett Packard Enterprise",
     "enriched_at": "2026-08-25T19:12:50.781241+00:00",
@@ -313982,6 +314223,27 @@
     "h1b_mentioned": false,
     "h1b_status": "unknown",
     "keywords": [
+      "sales",
+      "legal"
+    ],
+    "salary_currency": "",
+    "salary_max": null,
+    "salary_min": null,
+    "salary_period": "",
+    "salary_text": "",
+    "source": "workday",
+    "source_updated_at": "",
+    "sponsorship_evidence": ""
+  },
+  "workday:Hewlett Packard Enterprise:/job/Portland-Oregon-United-States-of-America/SLED-Account-Manager---Portland--OR_1215118-2": {
+    "company": "Hewlett Packard Enterprise",
+    "enriched_at": "2026-10-14T05:07:38.889746+00:00",
+    "external_id": "/job/Portland-Oregon-United-States-of-America/SLED-Account-Manager---Portland--OR_1215118-2",
+    "h1b_mentioned": false,
+    "h1b_status": "unknown",
+    "keywords": [
+      "supply chain",
+      "procurement",
       "sales",
       "legal"
     ],
@@ -314952,6 +315214,24 @@
     "source_updated_at": "",
     "sponsorship_evidence": ""
   },
+  "workday:Hewlett Packard Enterprise:/job/San-Jose-California-United-States-of-America/Marketing-Intern_1213358": {
+    "company": "Hewlett Packard Enterprise",
+    "enriched_at": "2026-10-14T05:07:38.961692+00:00",
+    "external_id": "/job/San-Jose-California-United-States-of-America/Marketing-Intern_1213358",
+    "h1b_mentioned": false,
+    "h1b_status": "unknown",
+    "keywords": [
+      "legal"
+    ],
+    "salary_currency": "",
+    "salary_max": null,
+    "salary_min": null,
+    "salary_period": "",
+    "salary_text": "",
+    "source": "workday",
+    "source_updated_at": "",
+    "sponsorship_evidence": ""
+  },
   "workday:Hewlett Packard Enterprise:/job/San-Jose-California-United-States-of-America/NA-Compute-Sls-Specialist-II_1214801-2": {
     "company": "Hewlett Packard Enterprise",
     "enriched_at": "2026-09-30T22:30:07.571083+00:00",
@@ -315384,6 +315664,42 @@
     "h1b_status": "unknown",
     "keywords": [
       "sales",
+      "legal"
+    ],
+    "salary_currency": "",
+    "salary_max": null,
+    "salary_min": null,
+    "salary_period": "",
+    "salary_text": "",
+    "source": "workday",
+    "source_updated_at": "",
+    "sponsorship_evidence": ""
+  },
+  "workday:Hewlett Packard Enterprise:/job/Spring-Texas-United-States-of-America/Account-Operations-Management-Intern_1213059": {
+    "company": "Hewlett Packard Enterprise",
+    "enriched_at": "2026-10-14T05:07:38.993626+00:00",
+    "external_id": "/job/Spring-Texas-United-States-of-America/Account-Operations-Management-Intern_1213059",
+    "h1b_mentioned": false,
+    "h1b_status": "unknown",
+    "keywords": [
+      "legal"
+    ],
+    "salary_currency": "",
+    "salary_max": null,
+    "salary_min": null,
+    "salary_period": "",
+    "salary_text": "",
+    "source": "workday",
+    "source_updated_at": "",
+    "sponsorship_evidence": ""
+  },
+  "workday:Hewlett Packard Enterprise:/job/Spring-Texas-United-States-of-America/Account-Operations-Management-Intern_1213072": {
+    "company": "Hewlett Packard Enterprise",
+    "enriched_at": "2026-10-14T05:07:38.977645+00:00",
+    "external_id": "/job/Spring-Texas-United-States-of-America/Account-Operations-Management-Intern_1213072",
+    "h1b_mentioned": false,
+    "h1b_status": "unknown",
+    "keywords": [
       "legal"
     ],
     "salary_currency": "",
@@ -315937,7 +316253,7 @@
   },
   "workday:Hewlett Packard Enterprise:/job/Spring-Texas-United-States-of-America/HPE-HPC---AI-Systems-Engineer-for-Integrated-Systems-Test_1197006-3": {
     "company": "Hewlett Packard Enterprise",
-    "enriched_at": "2026-08-25T19:12:50.918243+00:00",
+    "enriched_at": "2026-10-14T05:07:39.009743+00:00",
     "external_id": "/job/Spring-Texas-United-States-of-America/HPE-HPC---AI-Systems-Engineer-for-Integrated-Systems-Test_1197006-3",
     "h1b_mentioned": false,
     "h1b_status": "unknown",
@@ -331286,7 +331602,7 @@
   },
   "workday:Intel:/job/US-New-Mexico-Albuquerque/Tool-Install-Project-Manager_JR0287344": {
     "company": "Intel",
-    "enriched_at": "2026-09-25T21:36:29.852390+00:00",
+    "enriched_at": "2026-10-14T04:53:30.635002+00:00",
     "external_id": "/job/US-New-Mexico-Albuquerque/Tool-Install-Project-Manager_JR0287344",
     "h1b_mentioned": false,
     "h1b_status": "unknown",
@@ -337332,6 +337648,27 @@
       "supply chain",
       "legal",
       "contracts"
+    ],
+    "salary_currency": "",
+    "salary_max": null,
+    "salary_min": null,
+    "salary_period": "",
+    "salary_text": "",
+    "source": "workday",
+    "source_updated_at": "",
+    "sponsorship_evidence": ""
+  },
+  "workday:Johnson & Johnson:/job/Boston-Massachusetts-United-States-of-America/Sr-Product-Security-R-D-Manager_R-105003-1": {
+    "company": "Johnson & Johnson",
+    "enriched_at": "2026-10-14T04:56:29.326514+00:00",
+    "external_id": "/job/Boston-Massachusetts-United-States-of-America/Sr-Product-Security-R-D-Manager_R-105003-1",
+    "h1b_mentioned": false,
+    "h1b_status": "unknown",
+    "keywords": [
+      "risk management",
+      "electrical engineering",
+      "compliance",
+      "legal"
     ],
     "salary_currency": "",
     "salary_max": null,
@@ -366565,6 +366902,29 @@
     "source_updated_at": "",
     "sponsorship_evidence": ""
   },
+  "workday:Johnson & Johnson:/job/Titusville-New-Jersey-United-States-of-America/Director--CRM-Platform--Operations---Field-Adoption_R-105065": {
+    "company": "Johnson & Johnson",
+    "enriched_at": "2026-10-14T04:56:29.294936+00:00",
+    "external_id": "/job/Titusville-New-Jersey-United-States-of-America/Director--CRM-Platform--Operations---Field-Adoption_R-105065",
+    "h1b_mentioned": false,
+    "h1b_status": "unknown",
+    "keywords": [
+      "data science",
+      "analytics",
+      "sales",
+      "CRM",
+      "compliance",
+      "legal"
+    ],
+    "salary_currency": "",
+    "salary_max": null,
+    "salary_min": null,
+    "salary_period": "",
+    "salary_text": "",
+    "source": "workday",
+    "source_updated_at": "",
+    "sponsorship_evidence": ""
+  },
   "workday:Johnson & Johnson:/job/Titusville-New-Jersey-United-States-of-America/Director--Commercial-AI-Products---Neuroscience---New-Product-Business-Development_R-091812-1": {
     "company": "Johnson & Johnson",
     "enriched_at": "2026-08-22T01:56:39.684627+00:00",
@@ -369309,6 +369669,27 @@
       "Excel",
       "mechanical engineering",
       "CAD",
+      "supply chain",
+      "compliance",
+      "legal"
+    ],
+    "salary_currency": "",
+    "salary_max": null,
+    "salary_min": null,
+    "salary_period": "",
+    "salary_text": "",
+    "source": "workday",
+    "source_updated_at": "",
+    "sponsorship_evidence": ""
+  },
+  "workday:Johnson & Johnson:/job/West-Chester-Pennsylvania-United-States-of-America/Technical-Operations-Co-op_R-100885": {
+    "company": "Johnson & Johnson",
+    "enriched_at": "2026-10-14T04:56:29.313560+00:00",
+    "external_id": "/job/West-Chester-Pennsylvania-United-States-of-America/Technical-Operations-Co-op_R-100885",
+    "h1b_mentioned": true,
+    "h1b_status": "unknown",
+    "keywords": [
+      "Excel",
       "supply chain",
       "compliance",
       "legal"
@@ -399589,6 +399970,24 @@
     "company": "Lowe's",
     "enriched_at": "2026-10-07T13:33:00.928637+00:00",
     "external_id": "/job/Kailua-Kona-HI-Kona-1561/Full-Time---Sales-Associate---Building-Materials---Closing_JR-02626328",
+    "h1b_mentioned": false,
+    "h1b_status": "unknown",
+    "keywords": [
+      "sales"
+    ],
+    "salary_currency": "USD",
+    "salary_max": 19.6,
+    "salary_min": 17.5,
+    "salary_period": "hour",
+    "salary_text": "$17.50 - $19.60 per hour",
+    "source": "workday",
+    "source_updated_at": "",
+    "sponsorship_evidence": ""
+  },
+  "workday:Lowe's:/job/Kailua-Kona-HI-Kona-1561/Full-Time---Sales-Associate---Inside-Lawn---Garden---Day_JR-02678350": {
+    "company": "Lowe's",
+    "enriched_at": "2026-10-14T05:04:32.885252+00:00",
+    "external_id": "/job/Kailua-Kona-HI-Kona-1561/Full-Time---Sales-Associate---Inside-Lawn---Garden---Day_JR-02678350",
     "h1b_mentioned": false,
     "h1b_status": "unknown",
     "keywords": [
@@ -455948,6 +456347,25 @@
     "source_updated_at": "",
     "sponsorship_evidence": ""
   },
+  "workday:McKesson:/job/USA-OH-Columbus/Director--FP-A---Consolidations---Cash-Flow_JR0155544-1": {
+    "company": "McKesson",
+    "enriched_at": "2026-10-14T04:55:01.449090+00:00",
+    "external_id": "/job/USA-OH-Columbus/Director--FP-A---Consolidations---Cash-Flow_JR0155544-1",
+    "h1b_mentioned": false,
+    "h1b_status": "unknown",
+    "keywords": [
+      "accounting",
+      "recruiting"
+    ],
+    "salary_currency": "",
+    "salary_max": null,
+    "salary_min": null,
+    "salary_period": "",
+    "salary_text": "",
+    "source": "workday",
+    "source_updated_at": "",
+    "sponsorship_evidence": ""
+  },
   "workday:McKesson:/job/USA-OH-Columbus/Director--Product-Portfolio---Agile-Delivery_JR0152777-2": {
     "company": "McKesson",
     "enriched_at": "2026-08-25T01:54:45.644465+00:00",
@@ -456000,6 +456418,29 @@
       "logistics",
       "recruiting",
       "compliance"
+    ],
+    "salary_currency": "",
+    "salary_max": null,
+    "salary_min": null,
+    "salary_period": "",
+    "salary_text": "",
+    "source": "workday",
+    "source_updated_at": "",
+    "sponsorship_evidence": ""
+  },
+  "workday:McKesson:/job/USA-OH-Columbus/Finance-Manager---Cash-Flow_JR0155542-1": {
+    "company": "McKesson",
+    "enriched_at": "2026-10-14T04:55:01.461707+00:00",
+    "external_id": "/job/USA-OH-Columbus/Finance-Manager---Cash-Flow_JR0155542-1",
+    "h1b_mentioned": false,
+    "h1b_status": "unknown",
+    "keywords": [
+      "SQL",
+      "analytics",
+      "Excel",
+      "financial modeling",
+      "accounting",
+      "recruiting"
     ],
     "salary_currency": "",
     "salary_max": null,
@@ -459446,6 +459887,27 @@
       "Excel",
       "financial modeling",
       "recruiting",
+      "legal"
+    ],
+    "salary_currency": "",
+    "salary_max": null,
+    "salary_min": null,
+    "salary_period": "",
+    "salary_text": "",
+    "source": "workday",
+    "source_updated_at": "",
+    "sponsorship_evidence": ""
+  },
+  "workday:McKesson:/job/USA-TX-Irving/Sr-Manager--Pharmacy---Pharmacist-in-Charge--PIC-_JR0155682-1": {
+    "company": "McKesson",
+    "enriched_at": "2026-10-14T04:55:01.472339+00:00",
+    "external_id": "/job/USA-TX-Irving/Sr-Manager--Pharmacy---Pharmacist-in-Charge--PIC-_JR0155682-1",
+    "h1b_mentioned": false,
+    "h1b_status": "unknown",
+    "keywords": [
+      "audit",
+      "recruiting",
+      "compliance",
       "legal"
     ],
     "salary_currency": "",
@@ -468238,6 +468700,25 @@
     "h1b_mentioned": false,
     "h1b_status": "unknown",
     "keywords": [],
+    "salary_currency": "",
+    "salary_max": null,
+    "salary_min": null,
+    "salary_period": "",
+    "salary_text": "",
+    "source": "workday",
+    "source_updated_at": "",
+    "sponsorship_evidence": ""
+  },
+  "workday:Micron Technology:/job/Boise-ID---Main-Site/Financial-Analysis-Manager_JR114199": {
+    "company": "Micron Technology",
+    "enriched_at": "2026-10-14T04:54:52.149591+00:00",
+    "external_id": "/job/Boise-ID---Main-Site/Financial-Analysis-Manager_JR114199",
+    "h1b_mentioned": false,
+    "h1b_status": "unknown",
+    "keywords": [
+      "analytics",
+      "accounting"
+    ],
     "salary_currency": "",
     "salary_max": null,
     "salary_min": null,
@@ -495512,6 +495993,24 @@
     "source_updated_at": "",
     "sponsorship_evidence": ""
   },
+  "workday:NVIDIA:/job/US-CA-Santa-Clara/ASIC-Verification-Engineer---New-College-Grad-2027_JR2027719": {
+    "company": "NVIDIA",
+    "enriched_at": "2026-10-14T04:52:27.926199+00:00",
+    "external_id": "/job/US-CA-Santa-Clara/ASIC-Verification-Engineer---New-College-Grad-2027_JR2027719",
+    "h1b_mentioned": false,
+    "h1b_status": "unknown",
+    "keywords": [
+      "recruiting"
+    ],
+    "salary_currency": "",
+    "salary_max": null,
+    "salary_min": null,
+    "salary_period": "",
+    "salary_text": "",
+    "source": "workday",
+    "source_updated_at": "",
+    "sponsorship_evidence": ""
+  },
   "workday:NVIDIA:/job/US-CA-Santa-Clara/ASIC-Verification-Engineer_JR2022280": {
     "company": "NVIDIA",
     "enriched_at": "2026-10-06T00:02:58.727309+00:00",
@@ -496204,7 +496703,7 @@
   },
   "workday:NVIDIA:/job/US-CA-Santa-Clara/Demand-Planning-Analyst_JR2022819": {
     "company": "NVIDIA",
-    "enriched_at": "2026-08-14T22:09:53.935159+00:00",
+    "enriched_at": "2026-10-14T04:52:27.883127+00:00",
     "external_id": "/job/US-CA-Santa-Clara/Demand-Planning-Analyst_JR2022819",
     "h1b_mentioned": false,
     "h1b_status": "unknown",
@@ -496889,7 +497388,7 @@
   },
   "workday:NVIDIA:/job/US-CA-Santa-Clara/Distinguished-Engineer--Storage---AI-Cloud_JR2018037": {
     "company": "NVIDIA",
-    "enriched_at": "2026-10-05T05:38:15.901084+00:00",
+    "enriched_at": "2026-10-14T04:52:27.867001+00:00",
     "external_id": "/job/US-CA-Santa-Clara/Distinguished-Engineer--Storage---AI-Cloud_JR2018037",
     "h1b_mentioned": false,
     "h1b_status": "unknown",
@@ -497786,6 +498285,25 @@
     "source_updated_at": "",
     "sponsorship_evidence": ""
   },
+  "workday:NVIDIA:/job/US-CA-Santa-Clara/Low-Power-ASIC-Engineer---New-College-Grad-2027_JR2027850": {
+    "company": "NVIDIA",
+    "enriched_at": "2026-10-14T04:52:27.932296+00:00",
+    "external_id": "/job/US-CA-Santa-Clara/Low-Power-ASIC-Engineer---New-College-Grad-2027_JR2027850",
+    "h1b_mentioned": false,
+    "h1b_status": "unknown",
+    "keywords": [
+      "Python",
+      "recruiting"
+    ],
+    "salary_currency": "",
+    "salary_max": null,
+    "salary_min": null,
+    "salary_period": "",
+    "salary_text": "",
+    "source": "workday",
+    "source_updated_at": "",
+    "sponsorship_evidence": ""
+  },
   "workday:NVIDIA:/job/US-CA-Santa-Clara/ML-and-Agentic-Systems-Engineer_JR2023952": {
     "company": "NVIDIA",
     "enriched_at": "2026-08-20T13:10:34.084378+00:00",
@@ -498130,6 +498648,25 @@
     "h1b_mentioned": false,
     "h1b_status": "unknown",
     "keywords": [
+      "recruiting"
+    ],
+    "salary_currency": "",
+    "salary_max": null,
+    "salary_min": null,
+    "salary_period": "",
+    "salary_text": "",
+    "source": "workday",
+    "source_updated_at": "",
+    "sponsorship_evidence": ""
+  },
+  "workday:NVIDIA:/job/US-CA-Santa-Clara/Manager--Solutions-Architecture---Oracle-AI-Software_JR2027427": {
+    "company": "NVIDIA",
+    "enriched_at": "2026-10-14T04:52:27.969326+00:00",
+    "external_id": "/job/US-CA-Santa-Clara/Manager--Solutions-Architecture---Oracle-AI-Software_JR2027427",
+    "h1b_mentioned": false,
+    "h1b_status": "unknown",
+    "keywords": [
+      "electrical engineering",
       "recruiting"
     ],
     "salary_currency": "",
@@ -499467,7 +500004,7 @@
   },
   "workday:NVIDIA:/job/US-CA-Santa-Clara/Post-Silicon-Validation-and-Methodology-Engineer_JR2018268": {
     "company": "NVIDIA",
-    "enriched_at": "2026-08-25T18:56:29.789742+00:00",
+    "enriched_at": "2026-10-14T04:52:27.945823+00:00",
     "external_id": "/job/US-CA-Santa-Clara/Post-Silicon-Validation-and-Methodology-Engineer_JR2018268",
     "h1b_mentioned": false,
     "h1b_status": "unknown",
@@ -499685,7 +500222,7 @@
   },
   "workday:NVIDIA:/job/US-CA-Santa-Clara/Principal-Power-and-Performance-Architect_JR2013000": {
     "company": "NVIDIA",
-    "enriched_at": "2026-08-25T18:56:29.869633+00:00",
+    "enriched_at": "2026-10-14T04:52:27.961616+00:00",
     "external_id": "/job/US-CA-Santa-Clara/Principal-Power-and-Performance-Architect_JR2013000",
     "h1b_mentioned": false,
     "h1b_status": "unknown",
@@ -500564,6 +501101,24 @@
     "source_updated_at": "",
     "sponsorship_evidence": ""
   },
+  "workday:NVIDIA:/job/US-CA-Santa-Clara/SRAM-Circuit-Design-Engineer---New-College-Grad-2026_JR2027839": {
+    "company": "NVIDIA",
+    "enriched_at": "2026-10-14T04:52:27.938965+00:00",
+    "external_id": "/job/US-CA-Santa-Clara/SRAM-Circuit-Design-Engineer---New-College-Grad-2026_JR2027839",
+    "h1b_mentioned": false,
+    "h1b_status": "unknown",
+    "keywords": [
+      "recruiting"
+    ],
+    "salary_currency": "",
+    "salary_max": null,
+    "salary_min": null,
+    "salary_period": "",
+    "salary_text": "",
+    "source": "workday",
+    "source_updated_at": "",
+    "sponsorship_evidence": ""
+  },
   "workday:NVIDIA:/job/US-CA-Santa-Clara/Security-Architect---New-College-Grad-2026_JR2026387-1": {
     "company": "NVIDIA",
     "enriched_at": "2026-09-23T21:29:40.166810+00:00",
@@ -500756,6 +501311,26 @@
     "h1b_status": "unknown",
     "keywords": [
       "Python",
+      "recruiting"
+    ],
+    "salary_currency": "",
+    "salary_max": null,
+    "salary_min": null,
+    "salary_period": "",
+    "salary_text": "",
+    "source": "workday",
+    "source_updated_at": "",
+    "sponsorship_evidence": ""
+  },
+  "workday:NVIDIA:/job/US-CA-Santa-Clara/Senior-ASIC-Design-Engineer---Memory-Subsystem_JR2027771": {
+    "company": "NVIDIA",
+    "enriched_at": "2026-10-14T04:52:27.956206+00:00",
+    "external_id": "/job/US-CA-Santa-Clara/Senior-ASIC-Design-Engineer---Memory-Subsystem_JR2027771",
+    "h1b_mentioned": false,
+    "h1b_status": "unknown",
+    "keywords": [
+      "electrical engineering",
+      "CAD",
       "recruiting"
     ],
     "salary_currency": "",
@@ -502767,6 +503342,24 @@
     "source_updated_at": "",
     "sponsorship_evidence": ""
   },
+  "workday:NVIDIA:/job/US-CA-Santa-Clara/Senior-Firmware-Security-Engineer_JR2027698": {
+    "company": "NVIDIA",
+    "enriched_at": "2026-10-14T04:52:27.889448+00:00",
+    "external_id": "/job/US-CA-Santa-Clara/Senior-Firmware-Security-Engineer_JR2027698",
+    "h1b_mentioned": false,
+    "h1b_status": "unknown",
+    "keywords": [
+      "recruiting"
+    ],
+    "salary_currency": "",
+    "salary_max": null,
+    "salary_min": null,
+    "salary_period": "",
+    "salary_text": "",
+    "source": "workday",
+    "source_updated_at": "",
+    "sponsorship_evidence": ""
+  },
   "workday:NVIDIA:/job/US-CA-Santa-Clara/Senior-Firmware-Verification-Engineer_JR2026206": {
     "company": "NVIDIA",
     "enriched_at": "2026-09-23T04:44:11.752473+00:00",
@@ -503306,6 +503899,27 @@
     "source_updated_at": "",
     "sponsorship_evidence": ""
   },
+  "workday:NVIDIA:/job/US-CA-Santa-Clara/Senior-Infrastructure-Solutions-Architect---OEM-Deployment_JR2027964": {
+    "company": "NVIDIA",
+    "enriched_at": "2026-10-14T04:52:27.911362+00:00",
+    "external_id": "/job/US-CA-Santa-Clara/Senior-Infrastructure-Solutions-Architect---OEM-Deployment_JR2027964",
+    "h1b_mentioned": false,
+    "h1b_status": "unknown",
+    "keywords": [
+      "Python",
+      "electrical engineering",
+      "sales",
+      "recruiting"
+    ],
+    "salary_currency": "",
+    "salary_max": null,
+    "salary_min": null,
+    "salary_period": "",
+    "salary_text": "",
+    "source": "workday",
+    "source_updated_at": "",
+    "sponsorship_evidence": ""
+  },
   "workday:NVIDIA:/job/US-CA-Santa-Clara/Senior-Integrated-Marketing-Specialist---AI-Infrastructure_JR2023490": {
     "company": "NVIDIA",
     "enriched_at": "2026-10-07T23:04:54.585362+00:00",
@@ -503715,6 +504329,25 @@
     "keywords": [
       "analytics",
       "Excel",
+      "recruiting"
+    ],
+    "salary_currency": "",
+    "salary_max": null,
+    "salary_min": null,
+    "salary_period": "",
+    "salary_text": "",
+    "source": "workday",
+    "source_updated_at": "",
+    "sponsorship_evidence": ""
+  },
+  "workday:NVIDIA:/job/US-CA-Santa-Clara/Senior-Manager--Software-Engineering---Agentic-Development-for-Safety-Critical-Systems_JR2026650": {
+    "company": "NVIDIA",
+    "enriched_at": "2026-10-14T04:52:27.896377+00:00",
+    "external_id": "/job/US-CA-Santa-Clara/Senior-Manager--Software-Engineering---Agentic-Development-for-Safety-Critical-Systems_JR2026650",
+    "h1b_mentioned": false,
+    "h1b_status": "unknown",
+    "keywords": [
+      "Rust",
       "recruiting"
     ],
     "salary_currency": "",
@@ -506115,6 +506748,29 @@
     "source_updated_at": "",
     "sponsorship_evidence": ""
   },
+  "workday:NVIDIA:/job/US-CA-Santa-Clara/Senior-Software-Engineer--Cloud-Infrastructure_JR2027101-1": {
+    "company": "NVIDIA",
+    "enriched_at": "2026-10-14T04:52:27.904976+00:00",
+    "external_id": "/job/US-CA-Santa-Clara/Senior-Software-Engineer--Cloud-Infrastructure_JR2027101-1",
+    "h1b_mentioned": false,
+    "h1b_status": "unknown",
+    "keywords": [
+      "Java",
+      "Kubernetes",
+      "machine learning",
+      "artificial intelligence",
+      "analytics",
+      "recruiting"
+    ],
+    "salary_currency": "",
+    "salary_max": null,
+    "salary_min": null,
+    "salary_period": "",
+    "salary_text": "",
+    "source": "workday",
+    "source_updated_at": "",
+    "sponsorship_evidence": ""
+  },
   "workday:NVIDIA:/job/US-CA-Santa-Clara/Senior-Software-Engineer--Cosmos-Infrastructure-and-End-to-End-Performance_JR2024930-1": {
     "company": "NVIDIA",
     "enriched_at": "2026-09-09T04:40:51.595664+00:00",
@@ -507520,7 +508176,7 @@
   },
   "workday:NVIDIA:/job/US-CA-Santa-Clara/Senior-Systems-Architect---Datacenter_JR2019127": {
     "company": "NVIDIA",
-    "enriched_at": "2026-10-04T05:51:10.484979+00:00",
+    "enriched_at": "2026-10-14T04:52:27.860169+00:00",
     "external_id": "/job/US-CA-Santa-Clara/Senior-Systems-Architect---Datacenter_JR2019127",
     "h1b_mentioned": false,
     "h1b_status": "unknown",
@@ -508391,7 +509047,7 @@
   },
   "workday:NVIDIA:/job/US-CA-Santa-Clara/Silicon-Validation-Engineer_JR2022641": {
     "company": "NVIDIA",
-    "enriched_at": "2026-09-23T04:44:11.781668+00:00",
+    "enriched_at": "2026-10-14T04:52:27.920035+00:00",
     "external_id": "/job/US-CA-Santa-Clara/Silicon-Validation-Engineer_JR2022641",
     "h1b_mentioned": false,
     "h1b_status": "unknown",
@@ -510576,6 +511232,27 @@
     "source_updated_at": "",
     "sponsorship_evidence": ""
   },
+  "workday:NVIDIA:/job/US-VA-Remote/Public-Sector-Program-Support_JR2027854": {
+    "company": "NVIDIA",
+    "enriched_at": "2026-10-14T04:52:27.853059+00:00",
+    "external_id": "/job/US-VA-Remote/Public-Sector-Program-Support_JR2027854",
+    "h1b_mentioned": false,
+    "h1b_status": "unknown",
+    "keywords": [
+      "audit",
+      "human resources",
+      "recruiting",
+      "compliance"
+    ],
+    "salary_currency": "",
+    "salary_max": null,
+    "salary_min": null,
+    "salary_period": "",
+    "salary_text": "",
+    "source": "workday",
+    "source_updated_at": "",
+    "sponsorship_evidence": ""
+  },
   "workday:NVIDIA:/job/US-WA-Remote/Distinguished-Engineer--Security-Architecture----DGX-Cloud_JR2026131": {
     "company": "NVIDIA",
     "enriched_at": "2026-10-12T05:55:54.618017+00:00",
@@ -512667,7 +513344,7 @@
   },
   "workday:Nike:/job/Beaverton-Oregon/Lead--x-Sport-Styling-Design--Global-Jordan_R-92425": {
     "company": "Nike",
-    "enriched_at": "2026-10-02T05:47:20.018581+00:00",
+    "enriched_at": "2026-10-14T05:05:42.610958+00:00",
     "external_id": "/job/Beaverton-Oregon/Lead--x-Sport-Styling-Design--Global-Jordan_R-92425",
     "h1b_mentioned": false,
     "h1b_status": "unknown",
@@ -517559,6 +518236,26 @@
       "analytics",
       "Excel",
       "supply chain"
+    ],
+    "salary_currency": "",
+    "salary_max": null,
+    "salary_min": null,
+    "salary_period": "",
+    "salary_text": "",
+    "source": "workday",
+    "source_updated_at": "",
+    "sponsorship_evidence": ""
+  },
+  "workday:Nike:/job/Beaverton-Oregon/Supply-Chain-Specialist-I--NA_R-95311": {
+    "company": "Nike",
+    "enriched_at": "2026-10-14T05:05:42.617851+00:00",
+    "external_id": "/job/Beaverton-Oregon/Supply-Chain-Specialist-I--NA_R-95311",
+    "h1b_mentioned": false,
+    "h1b_status": "unknown",
+    "keywords": [
+      "Excel",
+      "supply chain",
+      "logistics"
     ],
     "salary_currency": "",
     "salary_max": null,
@@ -667227,7 +667924,7 @@
   },
   "workday:PayPal:/job/New-York-City-New-York-United-States-of-America/Director--Enterprise-Quality-team_R0137899": {
     "company": "PayPal",
-    "enriched_at": "2026-09-16T04:51:35.529813+00:00",
+    "enriched_at": "2026-10-14T04:54:55.342872+00:00",
     "external_id": "/job/New-York-City-New-York-United-States-of-America/Director--Enterprise-Quality-team_R0137899",
     "h1b_mentioned": false,
     "h1b_status": "unknown",
@@ -667539,7 +668236,7 @@
   },
   "workday:PayPal:/job/New-York-City-New-York-United-States-of-America/Manager--Enterprise-Quality_R0137901": {
     "company": "PayPal",
-    "enriched_at": "2026-09-23T21:33:05.637921+00:00",
+    "enriched_at": "2026-10-14T04:54:55.381044+00:00",
     "external_id": "/job/New-York-City-New-York-United-States-of-America/Manager--Enterprise-Quality_R0137901",
     "h1b_mentioned": false,
     "h1b_status": "unknown",
@@ -667652,7 +668349,7 @@
   },
   "workday:PayPal:/job/New-York-City-New-York-United-States-of-America/Senior-Manager--Enterprise-Quality_R0137900": {
     "company": "PayPal",
-    "enriched_at": "2026-09-23T21:33:05.600637+00:00",
+    "enriched_at": "2026-10-14T04:54:55.363124+00:00",
     "external_id": "/job/New-York-City-New-York-United-States-of-America/Senior-Manager--Enterprise-Quality_R0137900",
     "h1b_mentioned": false,
     "h1b_status": "unknown",
@@ -667705,7 +668402,7 @@
   },
   "workday:PayPal:/job/New-York-City-New-York-United-States-of-America/Senior-Manager_R0137760": {
     "company": "PayPal",
-    "enriched_at": "2026-09-18T04:45:28.465644+00:00",
+    "enriched_at": "2026-10-14T04:54:55.398702+00:00",
     "external_id": "/job/New-York-City-New-York-United-States-of-America/Senior-Manager_R0137760",
     "h1b_mentioned": false,
     "h1b_status": "unknown",
@@ -716686,6 +717383,25 @@
     "source_updated_at": "",
     "sponsorship_evidence": ""
   },
+  "workday:RTX:/job/US-AZ-TUCSON-848--1151-E-Hermans-Rd--BLDG-848/Sr-Systems-Integration---Test-Lab-Integrator_01882081": {
+    "company": "RTX",
+    "enriched_at": "2026-10-14T04:58:28.326485+00:00",
+    "external_id": "/job/US-AZ-TUCSON-848--1151-E-Hermans-Rd--BLDG-848/Sr-Systems-Integration---Test-Lab-Integrator_01882081",
+    "h1b_mentioned": false,
+    "h1b_status": "unknown",
+    "keywords": [
+      "electrical engineering",
+      "compliance"
+    ],
+    "salary_currency": "",
+    "salary_max": null,
+    "salary_min": null,
+    "salary_period": "",
+    "salary_text": "",
+    "source": "workday",
+    "source_updated_at": "",
+    "sponsorship_evidence": ""
+  },
   "workday:RTX:/job/US-AZ-TUCSON-848--1151-E-Hermans-Rd--BLDG-848/Systems-Engineer-I--Onsite-_01870307": {
     "company": "RTX",
     "enriched_at": "2026-09-28T23:23:24.746745+00:00",
@@ -716764,7 +717480,7 @@
   },
   "workday:RTX:/job/US-AZ-TUCSON-848--1151-E-Hermans-Rd--BLDG-848/Systems-Engineering-Intern--Summer-2027-_01870304": {
     "company": "RTX",
-    "enriched_at": "2026-10-06T06:25:24.733593+00:00",
+    "enriched_at": "2026-10-14T04:58:28.339317+00:00",
     "external_id": "/job/US-AZ-TUCSON-848--1151-E-Hermans-Rd--BLDG-848/Systems-Engineering-Intern--Summer-2027-_01870304",
     "h1b_mentioned": false,
     "h1b_status": "unknown",
@@ -737226,6 +737942,26 @@
     "source_updated_at": "",
     "sponsorship_evidence": ""
   },
+  "workday:RTX:/job/US-CA-GOLETA-B03--75-Coromar-Dr--BLDG-B03/Manufacturing-Engineer-I--Onsite-_01881810": {
+    "company": "RTX",
+    "enriched_at": "2026-10-14T04:58:28.412234+00:00",
+    "external_id": "/job/US-CA-GOLETA-B03--75-Coromar-Dr--BLDG-B03/Manufacturing-Engineer-I--Onsite-_01881810",
+    "h1b_mentioned": false,
+    "h1b_status": "unknown",
+    "keywords": [
+      "Excel",
+      "mechanical engineering",
+      "compliance"
+    ],
+    "salary_currency": "",
+    "salary_max": null,
+    "salary_min": null,
+    "salary_period": "",
+    "salary_text": "",
+    "source": "workday",
+    "source_updated_at": "",
+    "sponsorship_evidence": ""
+  },
   "workday:RTX:/job/US-CA-GOLETA-B03--75-Coromar-Dr--BLDG-B03/Manufacturing-Engineer-II_01869546": {
     "company": "RTX",
     "enriched_at": "2026-08-25T13:16:44.876124+00:00",
@@ -753083,6 +753819,25 @@
     "source_updated_at": "",
     "sponsorship_evidence": ""
   },
+  "workday:RTX:/job/US-CT-EAST-HARTFORD-ETC--400-Main-St--BLDG-ETC/XMLNAME-2027-Spring-Summer-Co-Op--Systems-Engineering---Onsite_01876249": {
+    "company": "RTX",
+    "enriched_at": "2026-10-14T04:58:28.216921+00:00",
+    "external_id": "/job/US-CT-EAST-HARTFORD-ETC--400-Main-St--BLDG-ETC/XMLNAME-2027-Spring-Summer-Co-Op--Systems-Engineering---Onsite_01876249",
+    "h1b_mentioned": false,
+    "h1b_status": "unknown",
+    "keywords": [
+      "compliance",
+      "contracts"
+    ],
+    "salary_currency": "",
+    "salary_max": null,
+    "salary_min": null,
+    "salary_period": "",
+    "salary_text": "",
+    "source": "workday",
+    "source_updated_at": "",
+    "sponsorship_evidence": ""
+  },
   "workday:RTX:/job/US-CT-EAST-HARTFORD-ETC--400-Main-St--BLDG-ETC/XMLNAME-2027-Summer-Intern--Systems-Engineering--Onsite-_01872108": {
     "company": "RTX",
     "enriched_at": "2026-10-12T06:01:31.503623+00:00",
@@ -764255,6 +765010,27 @@
     "source_updated_at": "",
     "sponsorship_evidence": ""
   },
+  "workday:RTX:/job/US-FL-JACKSONVILLE-10531--10531-Busch-Dr--BUSCH/Production-Worker-II--Onsite-_01882254": {
+    "company": "RTX",
+    "enriched_at": "2026-10-14T04:58:28.294409+00:00",
+    "external_id": "/job/US-FL-JACKSONVILLE-10531--10531-Busch-Dr--BUSCH/Production-Worker-II--Onsite-_01882254",
+    "h1b_mentioned": false,
+    "h1b_status": "unknown",
+    "keywords": [
+      "Excel",
+      "compliance",
+      "legal",
+      "contracts"
+    ],
+    "salary_currency": "",
+    "salary_max": null,
+    "salary_min": null,
+    "salary_period": "",
+    "salary_text": "",
+    "source": "workday",
+    "source_updated_at": "",
+    "sponsorship_evidence": ""
+  },
   "workday:RTX:/job/US-FL-JACKSONVILLE-14300-CUST--14300-Fang-Dr--FANG-External-Site/F135---Field-Service-Engineer---USAF-Rover--Onsite-_01859338": {
     "company": "RTX",
     "enriched_at": "2026-09-08T16:44:05.915351+00:00",
@@ -764374,6 +765150,28 @@
       "CAD",
       "compliance",
       "contracts"
+    ],
+    "salary_currency": "",
+    "salary_max": null,
+    "salary_min": null,
+    "salary_period": "",
+    "salary_text": "",
+    "source": "workday",
+    "source_updated_at": "",
+    "sponsorship_evidence": ""
+  },
+  "workday:RTX:/job/US-FL-JACKSONVILLE-6061-BLDG-101--6061-Goodrich-Blvd--BLDG-101-FINISH-BLDG/Principal-Specialist--Materials--Planning--SIOP--Onsite-_01881467": {
+    "company": "RTX",
+    "enriched_at": "2026-10-14T04:58:28.277913+00:00",
+    "external_id": "/job/US-FL-JACKSONVILLE-6061-BLDG-101--6061-Goodrich-Blvd--BLDG-101-FINISH-BLDG/Principal-Specialist--Materials--Planning--SIOP--Onsite-_01881467",
+    "h1b_mentioned": false,
+    "h1b_status": "unknown",
+    "keywords": [
+      "Excel",
+      "supply chain",
+      "logistics",
+      "compliance",
+      "legal"
     ],
     "salary_currency": "",
     "salary_max": null,
@@ -779637,6 +780435,28 @@
     "source_updated_at": "",
     "sponsorship_evidence": ""
   },
+  "workday:RTX:/job/US-IA-CEDAR-RAPIDS-112--400-Collins-Rd-NE--BLDG-112/Mechanical-Engineering-Co-op--Winter-Spring-2027-_01881070": {
+    "company": "RTX",
+    "enriched_at": "2026-10-14T04:58:28.228411+00:00",
+    "external_id": "/job/US-IA-CEDAR-RAPIDS-112--400-Collins-Rd-NE--BLDG-112/Mechanical-Engineering-Co-op--Winter-Spring-2027-_01881070",
+    "h1b_mentioned": false,
+    "h1b_status": "unknown",
+    "keywords": [
+      "mechanical engineering",
+      "CAD",
+      "SolidWorks",
+      "compliance",
+      "contracts"
+    ],
+    "salary_currency": "",
+    "salary_max": null,
+    "salary_min": null,
+    "salary_period": "",
+    "salary_text": "",
+    "source": "workday",
+    "source_updated_at": "",
+    "sponsorship_evidence": ""
+  },
   "workday:RTX:/job/US-IA-CEDAR-RAPIDS-112--400-Collins-Rd-NE--BLDG-112/Principal-Systems-Engineer---APNT-Solutions--Onsite-_01880149": {
     "company": "RTX",
     "enriched_at": "2026-10-07T23:12:23.625891+00:00",
@@ -781807,6 +782627,25 @@
     "source_updated_at": "",
     "sponsorship_evidence": ""
   },
+  "workday:RTX:/job/US-IA-CEDAR-RAPIDS-130--5350-C-Ave-NE--BLDG-130/Senior-Principal-Engineer---Algorithms--ONSITE-_01881198": {
+    "company": "RTX",
+    "enriched_at": "2026-10-14T04:58:28.310583+00:00",
+    "external_id": "/job/US-IA-CEDAR-RAPIDS-130--5350-C-Ave-NE--BLDG-130/Senior-Principal-Engineer---Algorithms--ONSITE-_01881198",
+    "h1b_mentioned": false,
+    "h1b_status": "unknown",
+    "keywords": [
+      "compliance",
+      "legal"
+    ],
+    "salary_currency": "",
+    "salary_max": null,
+    "salary_min": null,
+    "salary_period": "",
+    "salary_text": "",
+    "source": "workday",
+    "source_updated_at": "",
+    "sponsorship_evidence": ""
+  },
   "workday:RTX:/job/US-IA-CEDAR-RAPIDS-130--5350-C-Ave-NE--BLDG-130/Senior-Software-DevSecOps-Datalink-Engineer--Onsite_01873824": {
     "company": "RTX",
     "enriched_at": "2026-10-13T00:46:08.129235+00:00",
@@ -783795,6 +784634,28 @@
       "analytics",
       "compliance",
       "legal",
+      "contracts"
+    ],
+    "salary_currency": "",
+    "salary_max": null,
+    "salary_min": null,
+    "salary_period": "",
+    "salary_text": "",
+    "source": "workday",
+    "source_updated_at": "",
+    "sponsorship_evidence": ""
+  },
+  "workday:RTX:/job/US-IA-CEDAR-RAPIDS-137--855-35Th-St-NE--BLDG-137/Mechanical-Design-Engineering-Intern--Summer-2027-_01881702": {
+    "company": "RTX",
+    "enriched_at": "2026-10-14T04:58:28.241061+00:00",
+    "external_id": "/job/US-IA-CEDAR-RAPIDS-137--855-35Th-St-NE--BLDG-137/Mechanical-Design-Engineering-Intern--Summer-2027-_01881702",
+    "h1b_mentioned": false,
+    "h1b_status": "unknown",
+    "keywords": [
+      "mechanical engineering",
+      "CAD",
+      "SolidWorks",
+      "compliance",
       "contracts"
     ],
     "salary_currency": "",
@@ -806034,6 +806895,27 @@
     "source_updated_at": "",
     "sponsorship_evidence": ""
   },
+  "workday:RTX:/job/US-MA-MARLBOROUGH-MA2--1001-Boston-Post-Rd--BLDG-2/Senior-Principal-Agile-Release-Train-Engineer--HYBRID-_01879244": {
+    "company": "RTX",
+    "enriched_at": "2026-10-14T04:58:28.395099+00:00",
+    "external_id": "/job/US-MA-MARLBOROUGH-MA2--1001-Boston-Post-Rd--BLDG-2/Senior-Principal-Agile-Release-Train-Engineer--HYBRID-_01879244",
+    "h1b_mentioned": false,
+    "h1b_status": "unknown",
+    "keywords": [
+      "analytics",
+      "risk management",
+      "compliance",
+      "legal"
+    ],
+    "salary_currency": "",
+    "salary_max": null,
+    "salary_min": null,
+    "salary_period": "",
+    "salary_text": "",
+    "source": "workday",
+    "source_updated_at": "",
+    "sponsorship_evidence": ""
+  },
   "workday:RTX:/job/US-MA-MARLBOROUGH-MA2--1001-Boston-Post-Rd--BLDG-2/Senior-Principal-Software-Engineer_01868547": {
     "company": "RTX",
     "enriched_at": "2026-09-10T20:58:06.607033+00:00",
@@ -822431,6 +823313,29 @@
     "source_updated_at": "",
     "sponsorship_evidence": ""
   },
+  "workday:RTX:/job/US-MN-BURNSVILLE-MEMS--14300-Judicial-Rd--MEMS-BLDG/Mechanical-Engineering-Intern--Summer-2027-_01880524": {
+    "company": "RTX",
+    "enriched_at": "2026-10-14T04:58:28.251649+00:00",
+    "external_id": "/job/US-MN-BURNSVILLE-MEMS--14300-Judicial-Rd--MEMS-BLDG/Mechanical-Engineering-Intern--Summer-2027-_01880524",
+    "h1b_mentioned": false,
+    "h1b_status": "unknown",
+    "keywords": [
+      "Excel",
+      "mechanical engineering",
+      "CAD",
+      "SolidWorks",
+      "compliance",
+      "contracts"
+    ],
+    "salary_currency": "",
+    "salary_max": null,
+    "salary_min": null,
+    "salary_period": "",
+    "salary_text": "",
+    "source": "workday",
+    "source_updated_at": "",
+    "sponsorship_evidence": ""
+  },
   "workday:RTX:/job/US-MN-BURNSVILLE-MEMS--14300-Judicial-Rd--MEMS-BLDG/Procurement---Material-Specialist_01873419": {
     "company": "RTX",
     "enriched_at": "2026-09-25T21:40:37.100646+00:00",
@@ -836046,6 +836951,27 @@
       "compliance",
       "legal",
       "contracts"
+    ],
+    "salary_currency": "",
+    "salary_max": null,
+    "salary_min": null,
+    "salary_period": "",
+    "salary_text": "",
+    "source": "workday",
+    "source_updated_at": "",
+    "sponsorship_evidence": ""
+  },
+  "workday:RTX:/job/US-OH-TROY-101--101-Waco-St--WACO/Sr-Transportation-Specialist_01881842": {
+    "company": "RTX",
+    "enriched_at": "2026-10-14T04:58:28.379749+00:00",
+    "external_id": "/job/US-OH-TROY-101--101-Waco-St--WACO/Sr-Transportation-Specialist_01881842",
+    "h1b_mentioned": false,
+    "h1b_status": "unknown",
+    "keywords": [
+      "Excel",
+      "supply chain",
+      "compliance",
+      "legal"
     ],
     "salary_currency": "",
     "salary_max": null,
@@ -852551,6 +853477,28 @@
     "source_updated_at": "",
     "sponsorship_evidence": ""
   },
+  "workday:RTX:/job/US-TX-MCKINNEY-513WC--2501-W-University-Dr--WING-C-BLDG/Terrain-Following-Radar-Program-Manger_01880849": {
+    "company": "RTX",
+    "enriched_at": "2026-10-14T04:58:28.263323+00:00",
+    "external_id": "/job/US-TX-MCKINNEY-513WC--2501-W-University-Dr--WING-C-BLDG/Terrain-Following-Radar-Program-Manger_01880849",
+    "h1b_mentioned": false,
+    "h1b_status": "unknown",
+    "keywords": [
+      "supply chain",
+      "logistics",
+      "procurement",
+      "compliance",
+      "contracts"
+    ],
+    "salary_currency": "",
+    "salary_max": null,
+    "salary_min": null,
+    "salary_period": "",
+    "salary_text": "",
+    "source": "workday",
+    "source_updated_at": "",
+    "sponsorship_evidence": ""
+  },
   "workday:RTX:/job/US-TX-MCKINNEY-513WC--2501-W-University-Dr--WING-C-BLDG/Teton-Integrated-Product-Team-Lead--IPTL---Onsite-_01850775": {
     "company": "RTX",
     "enriched_at": "2026-08-14T23:03:36.161617+00:00",
@@ -852954,6 +853902,28 @@
       "Excel",
       "electrical engineering",
       "compliance"
+    ],
+    "salary_currency": "",
+    "salary_max": null,
+    "salary_min": null,
+    "salary_period": "",
+    "salary_text": "",
+    "source": "workday",
+    "source_updated_at": "",
+    "sponsorship_evidence": ""
+  },
+  "workday:RTX:/job/US-TX-MCKINNEY-513WD--2501-W-University-Dr--WING-D-BLDG/Electro-Optics-Systems-Engineer-Intern--Onsite-_01880586": {
+    "company": "RTX",
+    "enriched_at": "2026-10-14T04:58:28.366708+00:00",
+    "external_id": "/job/US-TX-MCKINNEY-513WD--2501-W-University-Dr--WING-D-BLDG/Electro-Optics-Systems-Engineer-Intern--Onsite-_01880586",
+    "h1b_mentioned": false,
+    "h1b_status": "unknown",
+    "keywords": [
+      "Python",
+      "machine learning",
+      "mechanical engineering",
+      "compliance",
+      "contracts"
     ],
     "salary_currency": "",
     "salary_max": null,
@@ -853916,6 +854886,26 @@
     "keywords": [
       "electrical engineering",
       "compliance"
+    ],
+    "salary_currency": "",
+    "salary_max": null,
+    "salary_min": null,
+    "salary_period": "",
+    "salary_text": "",
+    "source": "workday",
+    "source_updated_at": "",
+    "sponsorship_evidence": ""
+  },
+  "workday:RTX:/job/US-TX-MCKINNEY-513WD--2501-W-University-Dr--WING-D-BLDG/RF-Systems-Engineer-Intern--Onsite-_01880592": {
+    "company": "RTX",
+    "enriched_at": "2026-10-14T04:58:28.352872+00:00",
+    "external_id": "/job/US-TX-MCKINNEY-513WD--2501-W-University-Dr--WING-D-BLDG/RF-Systems-Engineer-Intern--Onsite-_01880592",
+    "h1b_mentioned": false,
+    "h1b_status": "unknown",
+    "keywords": [
+      "Python",
+      "compliance",
+      "contracts"
     ],
     "salary_currency": "",
     "salary_max": null,
@@ -871141,6 +872131,26 @@
     "source_updated_at": "",
     "sponsorship_evidence": ""
   },
+  "workday:S&P Global:/job/New-York-NY/Manager--Customer---Market-Research_332075": {
+    "company": "S&P Global",
+    "enriched_at": "2026-10-14T04:54:58.143538+00:00",
+    "external_id": "/job/New-York-NY/Manager--Customer---Market-Research_332075",
+    "h1b_mentioned": false,
+    "h1b_status": "unknown",
+    "keywords": [
+      "supply chain",
+      "sales",
+      "compliance"
+    ],
+    "salary_currency": "",
+    "salary_max": null,
+    "salary_min": null,
+    "salary_period": "",
+    "salary_text": "",
+    "source": "workday",
+    "source_updated_at": "",
+    "sponsorship_evidence": ""
+  },
   "workday:S&P Global:/job/New-York-NY/Marketing-Coordinator_330943-1": {
     "company": "S&P Global",
     "enriched_at": "2026-08-16T07:00:43.016945+00:00",
@@ -871998,6 +873008,26 @@
     "salary_min": 65000.0,
     "salary_period": "year",
     "salary_text": "$ 65,000.00 to $75,000.00 Annual",
+    "source": "workday",
+    "source_updated_at": "",
+    "sponsorship_evidence": ""
+  },
+  "workday:S&P Global:/job/Washington-DC/Director--Government-Affairs_332134-1": {
+    "company": "S&P Global",
+    "enriched_at": "2026-10-14T04:54:58.125977+00:00",
+    "external_id": "/job/Washington-DC/Director--Government-Affairs_332134-1",
+    "h1b_mentioned": false,
+    "h1b_status": "unknown",
+    "keywords": [
+      "supply chain",
+      "compliance",
+      "legal"
+    ],
+    "salary_currency": "",
+    "salary_max": null,
+    "salary_min": null,
+    "salary_period": "",
+    "salary_text": "",
     "source": "workday",
     "source_updated_at": "",
     "sponsorship_evidence": ""
@@ -882553,6 +883583,26 @@
       "human resources",
       "compliance",
       "legal"
+    ],
+    "salary_currency": "",
+    "salary_max": null,
+    "salary_min": null,
+    "salary_period": "",
+    "salary_text": "",
+    "source": "workday",
+    "source_updated_at": "",
+    "sponsorship_evidence": ""
+  },
+  "workday:Sysco:/job/Freshpoint-Southern-California/Quality-Control-Associate_R271739": {
+    "company": "Sysco",
+    "enriched_at": "2026-10-14T05:04:35.890825+00:00",
+    "external_id": "/job/Freshpoint-Southern-California/Quality-Control-Associate_R271739",
+    "h1b_mentioned": false,
+    "h1b_status": "unknown",
+    "keywords": [
+      "accounting",
+      "sales",
+      "compliance"
     ],
     "salary_currency": "",
     "salary_max": null,
@@ -898643,6 +899693,27 @@
     "keywords": [
       "Excel",
       "CRM"
+    ],
+    "salary_currency": "",
+    "salary_max": null,
+    "salary_min": null,
+    "salary_period": "",
+    "salary_text": "",
+    "source": "workday",
+    "source_updated_at": "",
+    "sponsorship_evidence": ""
+  },
+  "workday:Thermo Fisher Scientific:/job/Carlsbad-California-USA/Sr-Director--IT_R-01371267": {
+    "company": "Thermo Fisher Scientific",
+    "enriched_at": "2026-10-14T05:07:10.996322+00:00",
+    "external_id": "/job/Carlsbad-California-USA/Sr-Director--IT_R-01371267",
+    "h1b_mentioned": false,
+    "h1b_status": "unknown",
+    "keywords": [
+      "analytics",
+      "risk management",
+      "sales",
+      "compliance"
     ],
     "salary_currency": "",
     "salary_max": null,
@@ -941684,6 +942755,27 @@
     "source_updated_at": "",
     "sponsorship_evidence": ""
   },
+  "workday:Truist Financial:/job/Columbia-SC/Relationship-Banker-or-Senior-Relationship-Banker-Two-Notch_R0120731": {
+    "company": "Truist Financial",
+    "enriched_at": "2026-10-14T05:07:21.444665+00:00",
+    "external_id": "/job/Columbia-SC/Relationship-Banker-or-Senior-Relationship-Banker-Two-Notch_R0120731",
+    "h1b_mentioned": false,
+    "h1b_status": "unknown",
+    "keywords": [
+      "tax",
+      "risk management",
+      "sales",
+      "compliance"
+    ],
+    "salary_currency": "",
+    "salary_max": null,
+    "salary_min": null,
+    "salary_period": "",
+    "salary_text": "",
+    "source": "workday",
+    "source_updated_at": "",
+    "sponsorship_evidence": ""
+  },
   "workday:Truist Financial:/job/Columbia-SC/Retail-Mortgage-Loan-Originator_R0119017": {
     "company": "Truist Financial",
     "enriched_at": "2026-09-09T16:52:28.867824+00:00",
@@ -965912,6 +967004,24 @@
     "source_updated_at": "",
     "sponsorship_evidence": ""
   },
+  "workday:U.S. Bancorp:/job/Columbus-OH/Relationship-Banker-1_2026-0030791": {
+    "company": "U.S. Bancorp",
+    "enriched_at": "2026-10-14T05:07:14.838566+00:00",
+    "external_id": "/job/Columbus-OH/Relationship-Banker-1_2026-0030791",
+    "h1b_mentioned": false,
+    "h1b_status": "unknown",
+    "keywords": [
+      "Excel"
+    ],
+    "salary_currency": "",
+    "salary_max": null,
+    "salary_min": null,
+    "salary_period": "",
+    "salary_text": "",
+    "source": "workday",
+    "source_updated_at": "",
+    "sponsorship_evidence": ""
+  },
   "workday:U.S. Bancorp:/job/Columbus-OH/Relationship-Banker-1_2026-0031266": {
     "company": "U.S. Bancorp",
     "enriched_at": "2026-10-07T06:14:50.622155+00:00",
@@ -967551,6 +968661,25 @@
       "Excel",
       "compliance",
       "legal"
+    ],
+    "salary_currency": "",
+    "salary_max": null,
+    "salary_min": null,
+    "salary_period": "",
+    "salary_text": "",
+    "source": "workday",
+    "source_updated_at": "",
+    "sponsorship_evidence": ""
+  },
+  "workday:U.S. Bancorp:/job/El-Cajon-CA/Relationship-Banker-2---El-Cajon-Valley--CA_2026-0031512": {
+    "company": "U.S. Bancorp",
+    "enriched_at": "2026-10-14T05:07:14.813133+00:00",
+    "external_id": "/job/El-Cajon-CA/Relationship-Banker-2---El-Cajon-Valley--CA_2026-0031512",
+    "h1b_mentioned": false,
+    "h1b_status": "unknown",
+    "keywords": [
+      "Excel",
+      "sales"
     ],
     "salary_currency": "",
     "salary_max": null,
@@ -985631,6 +986760,25 @@
     "source_updated_at": "",
     "sponsorship_evidence": ""
   },
+  "workday:U.S. Bancorp:/job/Santee-CA/Sr-Relationship-Banker---Santee--CA_2026-0030667": {
+    "company": "U.S. Bancorp",
+    "enriched_at": "2026-10-14T05:07:14.825859+00:00",
+    "external_id": "/job/Santee-CA/Sr-Relationship-Banker---Santee--CA_2026-0030667",
+    "h1b_mentioned": false,
+    "h1b_status": "unknown",
+    "keywords": [
+      "Excel",
+      "sales"
+    ],
+    "salary_currency": "",
+    "salary_max": null,
+    "salary_min": null,
+    "salary_period": "",
+    "salary_text": "",
+    "source": "workday",
+    "source_updated_at": "",
+    "sponsorship_evidence": ""
+  },
   "workday:U.S. Bancorp:/job/Sarasota-FL/Business-Banking-Support-Specialist_2026-0022303": {
     "company": "U.S. Bancorp",
     "enriched_at": "2026-08-25T13:23:07.075002+00:00",
@@ -985641,6 +986789,25 @@
       "Excel",
       "sales",
       "compliance"
+    ],
+    "salary_currency": "",
+    "salary_max": null,
+    "salary_min": null,
+    "salary_period": "",
+    "salary_text": "",
+    "source": "workday",
+    "source_updated_at": "",
+    "sponsorship_evidence": ""
+  },
+  "workday:U.S. Bancorp:/job/Sarasota-FL/Wealth-Management-Advisor---Sarasota--FL_2026-0032194-1": {
+    "company": "U.S. Bancorp",
+    "enriched_at": "2026-10-14T05:07:14.850545+00:00",
+    "external_id": "/job/Sarasota-FL/Wealth-Management-Advisor---Sarasota--FL_2026-0032194-1",
+    "h1b_mentioned": false,
+    "h1b_status": "unknown",
+    "keywords": [
+      "Excel",
+      "sales"
     ],
     "salary_currency": "",
     "salary_max": null,
@@ -986858,7 +988025,7 @@
   },
   "workday:U.S. Bancorp:/job/Spokane-WA/Relationship-Banker-II---Spokane-Main---Spokane--WA_2026-0028805": {
     "company": "U.S. Bancorp",
-    "enriched_at": "2026-09-16T05:01:17.873874+00:00",
+    "enriched_at": "2026-10-14T05:07:14.800552+00:00",
     "external_id": "/job/Spokane-WA/Relationship-Banker-II---Spokane-Main---Spokane--WA_2026-0028805",
     "h1b_mentioned": false,
     "h1b_status": "unknown",
@@ -1002599,6 +1003766,25 @@
     "source_updated_at": "",
     "sponsorship_evidence": ""
   },
+  "workday:Visa:/job/US---Remote---Illinois/Senior-Consultant--Client-Success_REF089281W": {
+    "company": "Visa",
+    "enriched_at": "2026-10-14T04:53:33.988412+00:00",
+    "external_id": "/job/US---Remote---Illinois/Senior-Consultant--Client-Success_REF089281W",
+    "h1b_mentioned": false,
+    "h1b_status": "unknown",
+    "keywords": [
+      "sales",
+      "compliance"
+    ],
+    "salary_currency": "",
+    "salary_max": null,
+    "salary_min": null,
+    "salary_period": "",
+    "salary_text": "",
+    "source": "workday",
+    "source_updated_at": "",
+    "sponsorship_evidence": ""
+  },
   "workday:Visa:/job/US---Remote---Indiana/Sr-Manager--Indirect-Partner-Growth-Specialist_REF087948W": {
     "company": "Visa",
     "enriched_at": "2026-09-11T20:59:57.497598+00:00",
@@ -1012255,7 +1013441,7 @@
   },
   "workday:Walt Disney:/job/Glendale-CA-USA/Product-Design--Accessories--Intern--Spring-2027_10160436": {
     "company": "Walt Disney",
-    "enriched_at": "2026-10-06T00:07:51.464513+00:00",
+    "enriched_at": "2026-10-14T04:55:40.122576+00:00",
     "external_id": "/job/Glendale-CA-USA/Product-Design--Accessories--Intern--Spring-2027_10160436",
     "h1b_mentioned": false,
     "h1b_status": "unknown",
@@ -1024248,6 +1025434,46 @@
     "keywords": [
       "sales",
       "recruiting"
+    ],
+    "salary_currency": "",
+    "salary_max": null,
+    "salary_min": null,
+    "salary_period": "",
+    "salary_text": "",
+    "source": "workday",
+    "source_updated_at": "",
+    "sponsorship_evidence": ""
+  },
+  "workday:Workday:/job/USA-Remote/Principal-Grants-Management-Implementation-Consultant--State---Local-Government_JR-0110870": {
+    "company": "Workday",
+    "enriched_at": "2026-10-14T04:52:09.231734+00:00",
+    "external_id": "/job/USA-Remote/Principal-Grants-Management-Implementation-Consultant--State---Local-Government_JR-0110870",
+    "h1b_mentioned": false,
+    "h1b_status": "unknown",
+    "keywords": [
+      "accounting",
+      "recruiting",
+      "compliance"
+    ],
+    "salary_currency": "",
+    "salary_max": null,
+    "salary_min": null,
+    "salary_period": "",
+    "salary_text": "",
+    "source": "workday",
+    "source_updated_at": "",
+    "sponsorship_evidence": ""
+  },
+  "workday:Workday:/job/USA-Remote/Principal-PATTS-Consultant--State---Local-Government_JR-0110871": {
+    "company": "Workday",
+    "enriched_at": "2026-10-14T04:52:09.214739+00:00",
+    "external_id": "/job/USA-Remote/Principal-PATTS-Consultant--State---Local-Government_JR-0110871",
+    "h1b_mentioned": false,
+    "h1b_status": "unknown",
+    "keywords": [
+      "accounting",
+      "recruiting",
+      "compliance"
     ],
     "salary_currency": "",
     "salary_max": null,
