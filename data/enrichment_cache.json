@@ -691,7 +691,7 @@
   },
   "greenhouse:Airbnb:7943874": {
     "company": "Airbnb",
-    "enriched_at": "2026-10-02T05:35:36.821258+00:00",
+    "enriched_at": "2026-10-15T11:27:05.115136+00:00",
     "external_id": "7943874",
     "h1b_mentioned": false,
     "h1b_status": "unknown",
@@ -708,7 +708,7 @@
     "salary_period": "",
     "salary_text": "",
     "source": "greenhouse",
-    "source_updated_at": "2026-10-01T20:44:36-04:00",
+    "source_updated_at": "2026-10-15T01:11:39-04:00",
     "sponsorship_evidence": ""
   },
   "greenhouse:Airbnb:7944540": {
@@ -87928,6 +87928,42 @@
     "source_updated_at": "2026-10-14T20:55:24-04:00",
     "sponsorship_evidence": "&nbsp; This role is not eligible for visa sponsorship."
   },
+  "greenhouse:Carvana:8284091": {
+    "company": "Carvana",
+    "enriched_at": "2026-10-15T11:40:22.318841+00:00",
+    "external_id": "8284091",
+    "h1b_mentioned": false,
+    "h1b_status": "unknown",
+    "keywords": [
+      "legal"
+    ],
+    "salary_currency": "",
+    "salary_max": null,
+    "salary_min": null,
+    "salary_period": "",
+    "salary_text": "",
+    "source": "greenhouse",
+    "source_updated_at": "2026-10-15T00:51:00-04:00",
+    "sponsorship_evidence": ""
+  },
+  "greenhouse:Carvana:8284150": {
+    "company": "Carvana",
+    "enriched_at": "2026-10-15T11:40:22.290332+00:00",
+    "external_id": "8284150",
+    "h1b_mentioned": false,
+    "h1b_status": "unknown",
+    "keywords": [
+      "legal"
+    ],
+    "salary_currency": "",
+    "salary_max": null,
+    "salary_min": null,
+    "salary_period": "",
+    "salary_text": "",
+    "source": "greenhouse",
+    "source_updated_at": "2026-10-15T01:15:31-04:00",
+    "sponsorship_evidence": ""
+  },
   "greenhouse:Coupang:3887444": {
     "company": "Coupang",
     "enriched_at": "2026-10-01T13:12:16.514579+00:00",
@@ -120673,7 +120709,7 @@
   },
   "workday:3M:/job/Remote---Florida/Sales-Specialist---Collision-Repair--3M-Automotive-Aftermarket-Division--Orlando--FL-_R01171222": {
     "company": "3M",
-    "enriched_at": "2026-10-08T06:15:18.072758+00:00",
+    "enriched_at": "2026-10-15T11:40:21.554375+00:00",
     "external_id": "/job/Remote---Florida/Sales-Specialist---Collision-Repair--3M-Automotive-Aftermarket-Division--Orlando--FL-_R01171222",
     "h1b_mentioned": true,
     "h1b_status": "does_not_support_h1b",
@@ -153727,7 +153763,7 @@
   },
   "workday:Boeing:/job/USA---El-Segundo-CA/Senior-Manager--Avionics-Engineering---Millennium-Space-Systems_JR2026525022-1": {
     "company": "Boeing",
-    "enriched_at": "2026-09-21T22:00:24.956995+00:00",
+    "enriched_at": "2026-10-15T11:29:17.558404+00:00",
     "external_id": "/job/USA---El-Segundo-CA/Senior-Manager--Avionics-Engineering---Millennium-Space-Systems_JR2026525022-1",
     "h1b_mentioned": false,
     "h1b_status": "does_not_support_h1b",
@@ -153784,7 +153820,7 @@
   },
   "workday:Boeing:/job/USA---El-Segundo-CA/Senior-Manager--Vehicle-Engineering---Millennnium-Space-Systems_JR2026525037-2": {
     "company": "Boeing",
-    "enriched_at": "2026-09-22T04:56:33.035614+00:00",
+    "enriched_at": "2026-10-15T11:29:17.541101+00:00",
     "external_id": "/job/USA---El-Segundo-CA/Senior-Manager--Vehicle-Engineering---Millennnium-Space-Systems_JR2026525037-2",
     "h1b_mentioned": false,
     "h1b_status": "does_not_support_h1b",
@@ -166551,7 +166587,7 @@
   },
   "workday:Boeing:/job/USA---Patuxent-River-MD/Design-and-Analysis-Engineer--Associate-or-Mid-Level-_JR2026525814-1": {
     "company": "Boeing",
-    "enriched_at": "2026-10-07T23:07:30.173443+00:00",
+    "enriched_at": "2026-10-15T11:29:17.575164+00:00",
     "external_id": "/job/USA---Patuxent-River-MD/Design-and-Analysis-Engineer--Associate-or-Mid-Level-_JR2026525814-1",
     "h1b_mentioned": false,
     "h1b_status": "does_not_support_h1b",
@@ -171360,6 +171396,28 @@
     "keywords": [
       "Java",
       "Kubernetes"
+    ],
+    "salary_currency": "",
+    "salary_max": null,
+    "salary_min": null,
+    "salary_period": "",
+    "salary_text": "",
+    "source": "workday",
+    "source_updated_at": "",
+    "sponsorship_evidence": ""
+  },
+  "workday:Broadcom:/job/USA-CA---Promontory-B/Technology-Product-Manager---VMware-vSphere_R027267": {
+    "company": "Broadcom",
+    "enriched_at": "2026-10-15T11:40:35.944885+00:00",
+    "external_id": "/job/USA-CA---Promontory-B/Technology-Product-Manager---VMware-vSphere_R027267",
+    "h1b_mentioned": false,
+    "h1b_status": "unknown",
+    "keywords": [
+      "AWS",
+      "Azure",
+      "GCP",
+      "Kubernetes",
+      "sales"
     ],
     "salary_currency": "",
     "salary_max": null,
@@ -178934,7 +178992,7 @@
   },
   "workday:Capital One:/job/Chicago-IL/Full-stack-Engineer-4--Java--AWS--CI-CD-_R1002989-1": {
     "company": "Capital One",
-    "enriched_at": "2026-10-08T06:02:52.659837+00:00",
+    "enriched_at": "2026-10-15T11:27:42.714228+00:00",
     "external_id": "/job/Chicago-IL/Full-stack-Engineer-4--Java--AWS--CI-CD-_R1002989-1",
     "h1b_mentioned": true,
     "h1b_status": "does_not_support_h1b",
@@ -179079,7 +179137,7 @@
   },
   "workday:Capital One:/job/Chicago-IL/Full-stack-Engineer-4_R1001935-2": {
     "company": "Capital One",
-    "enriched_at": "2026-10-08T06:02:52.684190+00:00",
+    "enriched_at": "2026-10-15T11:27:42.761895+00:00",
     "external_id": "/job/Chicago-IL/Full-stack-Engineer-4_R1001935-2",
     "h1b_mentioned": true,
     "h1b_status": "does_not_support_h1b",
@@ -181464,7 +181522,7 @@
   },
   "workday:Capital One:/job/McLean-VA/Cloud-Engineer-4---Cloud-Security-for-Multi-Cloud---Cloud-Operations-Resilience-Engineering-_R1001691-1": {
     "company": "Capital One",
-    "enriched_at": "2026-10-08T06:02:52.678600+00:00",
+    "enriched_at": "2026-10-15T11:27:42.750908+00:00",
     "external_id": "/job/McLean-VA/Cloud-Engineer-4---Cloud-Security-for-Multi-Cloud---Cloud-Operations-Resilience-Engineering-_R1001691-1",
     "h1b_mentioned": true,
     "h1b_status": "does_not_support_h1b",
@@ -191508,7 +191566,7 @@
   },
   "workday:Capital One:/job/New-York-NY/Full-Stack-Engineer-4_R1002498-1": {
     "company": "Capital One",
-    "enriched_at": "2026-10-08T06:02:52.665951+00:00",
+    "enriched_at": "2026-10-15T11:27:42.726258+00:00",
     "external_id": "/job/New-York-NY/Full-Stack-Engineer-4_R1002498-1",
     "h1b_mentioned": true,
     "h1b_status": "does_not_support_h1b",
@@ -191861,7 +191919,7 @@
   },
   "workday:Capital One:/job/New-York-NY/Full-stack-Engineer-4--Manager--IC-_R1001908-1": {
     "company": "Capital One",
-    "enriched_at": "2026-10-08T06:02:52.672249+00:00",
+    "enriched_at": "2026-10-15T11:27:42.738386+00:00",
     "external_id": "/job/New-York-NY/Full-stack-Engineer-4--Manager--IC-_R1001908-1",
     "h1b_mentioned": true,
     "h1b_status": "does_not_support_h1b",
@@ -211700,6 +211758,29 @@
     "keywords": [
       "Python",
       "electrical engineering"
+    ],
+    "salary_currency": "",
+    "salary_max": null,
+    "salary_min": null,
+    "salary_period": "",
+    "salary_text": "",
+    "source": "workday",
+    "source_updated_at": "",
+    "sponsorship_evidence": ""
+  },
+  "workday:Caterpillar:/job/Irving-Texas/Autonomy-Engineer_R0000400044": {
+    "company": "Caterpillar",
+    "enriched_at": "2026-10-15T11:38:22.696743+00:00",
+    "external_id": "/job/Irving-Texas/Autonomy-Engineer_R0000400044",
+    "h1b_mentioned": false,
+    "h1b_status": "unknown",
+    "keywords": [
+      "Python",
+      "AWS",
+      "Azure",
+      "Docker",
+      "machine learning",
+      "artificial intelligence"
     ],
     "salary_currency": "",
     "salary_max": null,
@@ -254986,7 +255067,7 @@
   },
   "workday:Cisco Systems:/job/Maynard-Massachusetts-US/IT-Security-Engineer_2025722": {
     "company": "Cisco Systems",
-    "enriched_at": "2026-10-08T06:13:51.799003+00:00",
+    "enriched_at": "2026-10-15T11:38:48.271101+00:00",
     "external_id": "/job/Maynard-Massachusetts-US/IT-Security-Engineer_2025722",
     "h1b_mentioned": false,
     "h1b_status": "unknown",
@@ -263853,7 +263934,7 @@
   },
   "workday:Cisco Systems:/job/San-Jose-California-US/Hardware-Engineer--Transceiver-Module-Group-_2016228": {
     "company": "Cisco Systems",
-    "enriched_at": "2026-10-08T06:13:51.792263+00:00",
+    "enriched_at": "2026-10-15T11:38:48.244339+00:00",
     "external_id": "/job/San-Jose-California-US/Hardware-Engineer--Transceiver-Module-Group-_2016228",
     "h1b_mentioned": false,
     "h1b_status": "unknown",
@@ -264769,6 +264850,26 @@
     "h1b_status": "unknown",
     "keywords": [
       "electrical engineering",
+      "sales"
+    ],
+    "salary_currency": "",
+    "salary_max": null,
+    "salary_min": null,
+    "salary_period": "",
+    "salary_text": "",
+    "source": "workday",
+    "source_updated_at": "",
+    "sponsorship_evidence": ""
+  },
+  "workday:Cisco Systems:/job/San-Jose-California-US/Principal-Machine-Learning-Engineer_2025206-1": {
+    "company": "Cisco Systems",
+    "enriched_at": "2026-10-15T11:38:48.257570+00:00",
+    "external_id": "/job/San-Jose-California-US/Principal-Machine-Learning-Engineer_2025206-1",
+    "h1b_mentioned": false,
+    "h1b_status": "unknown",
+    "keywords": [
+      "Python",
+      "machine learning",
       "sales"
     ],
     "salary_currency": "",
@@ -284726,7 +284827,7 @@
   },
   "workday:Freddie Mac:/job/McLean-VA/Quantitative-Analytics-Director_JR17532-1": {
     "company": "Freddie Mac",
-    "enriched_at": "2026-10-08T06:06:21.094978+00:00",
+    "enriched_at": "2026-10-15T11:31:01.828554+00:00",
     "external_id": "/job/McLean-VA/Quantitative-Analytics-Director_JR17532-1",
     "h1b_mentioned": false,
     "h1b_status": "unknown",
@@ -318920,6 +319021,25 @@
     "source_updated_at": "",
     "sponsorship_evidence": ""
   },
+  "workday:Hewlett Packard Enterprise:/job/Puteaux-Hauts-de-Seine-France/Storage-Sales-Specialist--Unstructured-Data---Commercial-e--Spcialiste-Stockage-H-F_1214930-3": {
+    "company": "Hewlett Packard Enterprise",
+    "enriched_at": "2026-10-15T11:40:38.823869+00:00",
+    "external_id": "/job/Puteaux-Hauts-de-Seine-France/Storage-Sales-Specialist--Unstructured-Data---Commercial-e--Spcialiste-Stockage-H-F_1214930-3",
+    "h1b_mentioned": false,
+    "h1b_status": "unknown",
+    "keywords": [
+      "sales",
+      "legal"
+    ],
+    "salary_currency": "",
+    "salary_max": null,
+    "salary_min": null,
+    "salary_period": "",
+    "salary_text": "",
+    "source": "workday",
+    "source_updated_at": "",
+    "sponsorship_evidence": ""
+  },
   "workday:Hewlett Packard Enterprise:/job/Raleigh-North-Carolina-United-States-of-America/Delivery-Readiness---Enablement-Manager_1212212-2": {
     "company": "Hewlett Packard Enterprise",
     "enriched_at": "2026-09-09T04:52:19.928768+00:00",
@@ -345215,7 +345335,7 @@
   },
   "workday:Johnson & Johnson:/job/Danvers-Massachusetts-United-States-of-America/AIC-Systems-Test-Engineering-Co-Op_R-099094": {
     "company": "Johnson & Johnson",
-    "enriched_at": "2026-10-08T06:07:18.854172+00:00",
+    "enriched_at": "2026-10-15T11:32:00.497442+00:00",
     "external_id": "/job/Danvers-Massachusetts-United-States-of-America/AIC-Systems-Test-Engineering-Co-Op_R-099094",
     "h1b_mentioned": true,
     "h1b_status": "unknown",
@@ -345619,7 +345739,7 @@
   },
   "workday:Johnson & Johnson:/job/Danvers-Massachusetts-United-States-of-America/Impella-Pump-Systems-Test-Engineering-Co-Op_R-099097": {
     "company": "Johnson & Johnson",
-    "enriched_at": "2026-10-08T06:07:18.848267+00:00",
+    "enriched_at": "2026-10-15T11:32:00.486645+00:00",
     "external_id": "/job/Danvers-Massachusetts-United-States-of-America/Impella-Pump-Systems-Test-Engineering-Co-Op_R-099097",
     "h1b_mentioned": true,
     "h1b_status": "unknown",
@@ -346259,7 +346379,7 @@
   },
   "workday:Johnson & Johnson:/job/Danvers-Massachusetts-United-States-of-America/Software-Test-Engineering-Co-op--Beatbox-_R-098707": {
     "company": "Johnson & Johnson",
-    "enriched_at": "2026-10-08T06:07:18.860479+00:00",
+    "enriched_at": "2026-10-15T11:32:00.509043+00:00",
     "external_id": "/job/Danvers-Massachusetts-United-States-of-America/Software-Test-Engineering-Co-op--Beatbox-_R-098707",
     "h1b_mentioned": true,
     "h1b_status": "unknown",
@@ -346282,7 +346402,7 @@
   },
   "workday:Johnson & Johnson:/job/Danvers-Massachusetts-United-States-of-America/Software-Test-Engineering-Co-op--RLM-_R-098669": {
     "company": "Johnson & Johnson",
-    "enriched_at": "2026-10-08T06:07:18.867921+00:00",
+    "enriched_at": "2026-10-15T11:32:00.522622+00:00",
     "external_id": "/job/Danvers-Massachusetts-United-States-of-America/Software-Test-Engineering-Co-op--RLM-_R-098669",
     "h1b_mentioned": true,
     "h1b_status": "unknown",
@@ -347639,7 +347759,7 @@
   },
   "workday:Johnson & Johnson:/job/Halethorpe-Maryland-United-States-of-America/Heart-Recovery-Software-R-D-Co-Op_R-101393": {
     "company": "Johnson & Johnson",
-    "enriched_at": "2026-10-08T06:07:18.875199+00:00",
+    "enriched_at": "2026-10-15T11:32:00.535778+00:00",
     "external_id": "/job/Halethorpe-Maryland-United-States-of-America/Heart-Recovery-Software-R-D-Co-Op_R-101393",
     "h1b_mentioned": true,
     "h1b_status": "unknown",
@@ -368981,7 +369101,7 @@
   },
   "workday:Johnson & Johnson:/job/Santa-Clara-California-United-States-of-America/Sr-Mechanical-Manufacturing-Engineer-Surgical-Robotics-OTTAVA_R-098441-2": {
     "company": "Johnson & Johnson",
-    "enriched_at": "2026-10-08T06:07:18.833698+00:00",
+    "enriched_at": "2026-10-15T11:32:00.443238+00:00",
     "external_id": "/job/Santa-Clara-California-United-States-of-America/Sr-Mechanical-Manufacturing-Engineer-Surgical-Robotics-OTTAVA_R-098441-2",
     "h1b_mentioned": false,
     "h1b_status": "unknown",
@@ -369986,7 +370106,7 @@
   },
   "workday:Johnson & Johnson:/job/Spring-House-Pennsylvania-United-States-of-America/Associate-Director--Lab-Automation---Intelligent-Orchestration_R-102812-1": {
     "company": "Johnson & Johnson",
-    "enriched_at": "2026-10-08T06:07:18.809649+00:00",
+    "enriched_at": "2026-10-15T11:32:00.469862+00:00",
     "external_id": "/job/Spring-House-Pennsylvania-United-States-of-America/Associate-Director--Lab-Automation---Intelligent-Orchestration_R-102812-1",
     "h1b_mentioned": false,
     "h1b_status": "unknown",
@@ -370759,7 +370879,7 @@
   },
   "workday:Johnson & Johnson:/job/Spring-House-Pennsylvania-United-States-of-America/Principal-Scientist--Biologics-Optimization_R-089786-2": {
     "company": "Johnson & Johnson",
-    "enriched_at": "2026-10-08T06:07:18.818518+00:00",
+    "enriched_at": "2026-10-15T11:32:00.425459+00:00",
     "external_id": "/job/Spring-House-Pennsylvania-United-States-of-America/Principal-Scientist--Biologics-Optimization_R-089786-2",
     "h1b_mentioned": false,
     "h1b_status": "unknown",
@@ -413536,6 +413656,24 @@
     "source_updated_at": "",
     "sponsorship_evidence": ""
   },
+  "workday:Lowe's:/job/Memphis-TN-SE-Memphis-1163/Full-Time---Merchandising-Service-Associate---Day_JR-02679152": {
+    "company": "Lowe's",
+    "enriched_at": "2026-10-15T11:38:17.670341+00:00",
+    "external_id": "/job/Memphis-TN-SE-Memphis-1163/Full-Time---Merchandising-Service-Associate---Day_JR-02679152",
+    "h1b_mentioned": false,
+    "h1b_status": "unknown",
+    "keywords": [
+      "sales"
+    ],
+    "salary_currency": "",
+    "salary_max": null,
+    "salary_min": null,
+    "salary_period": "",
+    "salary_text": "",
+    "source": "workday",
+    "source_updated_at": "",
+    "sponsorship_evidence": ""
+  },
   "workday:Lowe's:/job/Memphis-TN-SE-Memphis-1163/Full-Time---Sales-Associate---Building-Materials---Day_JR-02648172": {
     "company": "Lowe's",
     "enriched_at": "2026-09-26T05:07:29.354652+00:00",
@@ -420423,7 +420561,7 @@
   },
   "workday:Lowe's:/job/Mooresville-NC-SSC-1999/Sr-Marketing-Manager---Measurement-Capabilities---Evolution_JR-02654811": {
     "company": "Lowe's",
-    "enriched_at": "2026-10-08T06:13:23.701599+00:00",
+    "enriched_at": "2026-10-15T11:38:17.700648+00:00",
     "external_id": "/job/Mooresville-NC-SSC-1999/Sr-Marketing-Manager---Measurement-Capabilities---Evolution_JR-02654811",
     "h1b_mentioned": false,
     "h1b_status": "unknown",
@@ -425260,10 +425398,65 @@
     "source_updated_at": "",
     "sponsorship_evidence": ""
   },
+  "workday:Lowe's:/job/Owens-Cross-Roads-AL-SE-Huntsville-2451/Full-Time---Cashier---Closing_JR-02679158": {
+    "company": "Lowe's",
+    "enriched_at": "2026-10-15T11:38:17.638893+00:00",
+    "external_id": "/job/Owens-Cross-Roads-AL-SE-Huntsville-2451/Full-Time---Cashier---Closing_JR-02679158",
+    "h1b_mentioned": false,
+    "h1b_status": "unknown",
+    "keywords": [
+      "sales"
+    ],
+    "salary_currency": "",
+    "salary_max": null,
+    "salary_min": null,
+    "salary_period": "",
+    "salary_text": "",
+    "source": "workday",
+    "source_updated_at": "",
+    "sponsorship_evidence": ""
+  },
+  "workday:Lowe's:/job/Owens-Cross-Roads-AL-SE-Huntsville-2451/Full-Time---Fulfillment-Associate---Day_JR-02679159": {
+    "company": "Lowe's",
+    "enriched_at": "2026-10-15T11:38:17.633441+00:00",
+    "external_id": "/job/Owens-Cross-Roads-AL-SE-Huntsville-2451/Full-Time---Fulfillment-Associate---Day_JR-02679159",
+    "h1b_mentioned": false,
+    "h1b_status": "unknown",
+    "keywords": [
+      "sales",
+      "compliance"
+    ],
+    "salary_currency": "",
+    "salary_max": null,
+    "salary_min": null,
+    "salary_period": "",
+    "salary_text": "",
+    "source": "workday",
+    "source_updated_at": "",
+    "sponsorship_evidence": ""
+  },
   "workday:Lowe's:/job/Owens-Cross-Roads-AL-SE-Huntsville-2451/Full-Time---Receiver-Stocker---Day_JR-02647771": {
     "company": "Lowe's",
     "enriched_at": "2026-09-18T21:05:24.635999+00:00",
     "external_id": "/job/Owens-Cross-Roads-AL-SE-Huntsville-2451/Full-Time---Receiver-Stocker---Day_JR-02647771",
+    "h1b_mentioned": false,
+    "h1b_status": "unknown",
+    "keywords": [
+      "sales"
+    ],
+    "salary_currency": "",
+    "salary_max": null,
+    "salary_min": null,
+    "salary_period": "",
+    "salary_text": "",
+    "source": "workday",
+    "source_updated_at": "",
+    "sponsorship_evidence": ""
+  },
+  "workday:Lowe's:/job/Owens-Cross-Roads-AL-SE-Huntsville-2451/Full-Time---Receiver-Stocker---Day_JR-02679149": {
+    "company": "Lowe's",
+    "enriched_at": "2026-10-15T11:38:17.681152+00:00",
+    "external_id": "/job/Owens-Cross-Roads-AL-SE-Huntsville-2451/Full-Time---Receiver-Stocker---Day_JR-02679149",
     "h1b_mentioned": false,
     "h1b_status": "unknown",
     "keywords": [
@@ -426824,6 +427017,24 @@
     "keywords": [
       "sales",
       "compliance"
+    ],
+    "salary_currency": "",
+    "salary_max": null,
+    "salary_min": null,
+    "salary_period": "",
+    "salary_text": "",
+    "source": "workday",
+    "source_updated_at": "",
+    "sponsorship_evidence": ""
+  },
+  "workday:Lowe's:/job/Phoenix-AZ-N-Phoenix-1204/Full-Time---Loader-Cart-Associate---Opening_JR-02679099": {
+    "company": "Lowe's",
+    "enriched_at": "2026-10-15T11:38:17.691595+00:00",
+    "external_id": "/job/Phoenix-AZ-N-Phoenix-1204/Full-Time---Loader-Cart-Associate---Opening_JR-02679099",
+    "h1b_mentioned": false,
+    "h1b_status": "unknown",
+    "keywords": [
+      "sales"
     ],
     "salary_currency": "",
     "salary_max": null,
@@ -439551,6 +439762,42 @@
     "salary_min": 25.2,
     "salary_period": "hour",
     "salary_text": "$25.20 - $26.25 per hour",
+    "source": "workday",
+    "source_updated_at": "",
+    "sponsorship_evidence": ""
+  },
+  "workday:Lowe's:/job/Warren-OH-Trumbull-County-0244/Full-Time---Sales-Associate---Building-Materials---Day_JR-02679155": {
+    "company": "Lowe's",
+    "enriched_at": "2026-10-15T11:38:17.659464+00:00",
+    "external_id": "/job/Warren-OH-Trumbull-County-0244/Full-Time---Sales-Associate---Building-Materials---Day_JR-02679155",
+    "h1b_mentioned": false,
+    "h1b_status": "unknown",
+    "keywords": [
+      "sales"
+    ],
+    "salary_currency": "",
+    "salary_max": null,
+    "salary_min": null,
+    "salary_period": "",
+    "salary_text": "",
+    "source": "workday",
+    "source_updated_at": "",
+    "sponsorship_evidence": ""
+  },
+  "workday:Lowe's:/job/Warren-OH-Trumbull-County-0244/Full-Time---Sales-Associate---Building-Materials---Day_JR-02679156-1": {
+    "company": "Lowe's",
+    "enriched_at": "2026-10-15T11:38:17.648548+00:00",
+    "external_id": "/job/Warren-OH-Trumbull-County-0244/Full-Time---Sales-Associate---Building-Materials---Day_JR-02679156-1",
+    "h1b_mentioned": false,
+    "h1b_status": "unknown",
+    "keywords": [
+      "sales"
+    ],
+    "salary_currency": "",
+    "salary_max": null,
+    "salary_min": null,
+    "salary_period": "",
+    "salary_text": "",
     "source": "workday",
     "source_updated_at": "",
     "sponsorship_evidence": ""
@@ -460285,6 +460532,24 @@
     "source_updated_at": "",
     "sponsorship_evidence": ""
   },
+  "workday:McKesson:/job/USA-FL-Orlando/Facility-Maintenance-Technician_JR0155465": {
+    "company": "McKesson",
+    "enriched_at": "2026-10-15T11:30:46.621703+00:00",
+    "external_id": "/job/USA-FL-Orlando/Facility-Maintenance-Technician_JR0155465",
+    "h1b_mentioned": false,
+    "h1b_status": "unknown",
+    "keywords": [
+      "recruiting"
+    ],
+    "salary_currency": "",
+    "salary_max": null,
+    "salary_min": null,
+    "salary_period": "",
+    "salary_text": "",
+    "source": "workday",
+    "source_updated_at": "",
+    "sponsorship_evidence": ""
+  },
   "workday:McKesson:/job/USA-FL-Orlando/Janitor_JR0155264": {
     "company": "McKesson",
     "enriched_at": "2026-10-06T00:07:08.320063+00:00",
@@ -470689,7 +470954,7 @@
   },
   "workday:Micron Technology:/job/Boise-ID---ID1/Gas-and-Chemical-Storage-Coordinator_JR112510": {
     "company": "Micron Technology",
-    "enriched_at": "2026-10-08T06:06:00.672450+00:00",
+    "enriched_at": "2026-10-15T11:30:40.322256+00:00",
     "external_id": "/job/Boise-ID---ID1/Gas-and-Chemical-Storage-Coordinator_JR112510",
     "h1b_mentioned": false,
     "h1b_status": "unknown",
@@ -481510,7 +481775,7 @@
   },
   "workday:Micron Technology:/job/Boise-ID---Main-Site/Senior-Collaboration-Platform-Engineer--Zoom---Microsoft-365-_JR113381": {
     "company": "Micron Technology",
-    "enriched_at": "2026-10-08T06:06:00.666161+00:00",
+    "enriched_at": "2026-10-15T11:30:40.310676+00:00",
     "external_id": "/job/Boise-ID---Main-Site/Senior-Collaboration-Platform-Engineer--Zoom---Microsoft-365-_JR113381",
     "h1b_mentioned": false,
     "h1b_status": "unknown",
@@ -482389,7 +482654,7 @@
   },
   "workday:Micron Technology:/job/Boise-ID---Main-Site/Senior-or-Staff-Photolithography-Materials-Engineer_JR110478": {
     "company": "Micron Technology",
-    "enriched_at": "2026-10-08T06:06:00.678320+00:00",
+    "enriched_at": "2026-10-15T11:30:40.333460+00:00",
     "external_id": "/job/Boise-ID---Main-Site/Senior-or-Staff-Photolithography-Materials-Engineer_JR110478",
     "h1b_mentioned": false,
     "h1b_status": "unknown",
@@ -482693,7 +482958,7 @@
   },
   "workday:Micron Technology:/job/Boise-ID---Main-Site/Sr-AV-Development-Engineer_JR113326-1": {
     "company": "Micron Technology",
-    "enriched_at": "2026-10-08T06:06:00.660365+00:00",
+    "enriched_at": "2026-10-15T11:30:40.299698+00:00",
     "external_id": "/job/Boise-ID---Main-Site/Sr-AV-Development-Engineer_JR113326-1",
     "h1b_mentioned": false,
     "h1b_status": "unknown",
@@ -505419,6 +505684,25 @@
     "source_updated_at": "",
     "sponsorship_evidence": ""
   },
+  "workday:NVIDIA:/job/US-CA-Santa-Clara/Engineering-Product-Manager_JR2027699": {
+    "company": "NVIDIA",
+    "enriched_at": "2026-10-15T11:27:11.798133+00:00",
+    "external_id": "/job/US-CA-Santa-Clara/Engineering-Product-Manager_JR2027699",
+    "h1b_mentioned": false,
+    "h1b_status": "unknown",
+    "keywords": [
+      "artificial intelligence",
+      "recruiting"
+    ],
+    "salary_currency": "",
+    "salary_max": null,
+    "salary_min": null,
+    "salary_period": "",
+    "salary_text": "",
+    "source": "workday",
+    "source_updated_at": "",
+    "sponsorship_evidence": ""
+  },
   "workday:NVIDIA:/job/US-CA-Santa-Clara/Enterprise-AV-Design-and-Collaboration-Engineer_JR2025082": {
     "company": "NVIDIA",
     "enriched_at": "2026-09-12T04:33:09.431087+00:00",
@@ -509044,6 +509328,24 @@
     "company": "NVIDIA",
     "enriched_at": "2026-10-14T04:52:27.938965+00:00",
     "external_id": "/job/US-CA-Santa-Clara/SRAM-Circuit-Design-Engineer---New-College-Grad-2026_JR2027839",
+    "h1b_mentioned": false,
+    "h1b_status": "unknown",
+    "keywords": [
+      "recruiting"
+    ],
+    "salary_currency": "",
+    "salary_max": null,
+    "salary_min": null,
+    "salary_period": "",
+    "salary_text": "",
+    "source": "workday",
+    "source_updated_at": "",
+    "sponsorship_evidence": ""
+  },
+  "workday:NVIDIA:/job/US-CA-Santa-Clara/SRAM-Design-Engineer_JR2027684": {
+    "company": "NVIDIA",
+    "enriched_at": "2026-10-15T11:27:11.805138+00:00",
+    "external_id": "/job/US-CA-Santa-Clara/SRAM-Design-Engineer_JR2027684",
     "h1b_mentioned": false,
     "h1b_status": "unknown",
     "keywords": [
@@ -517946,7 +518248,7 @@
   },
   "workday:NVIDIA:/job/US-CA-Santa-Clara/System-Design-Engineer_JR1968313": {
     "company": "NVIDIA",
-    "enriched_at": "2026-10-08T06:02:25.144935+00:00",
+    "enriched_at": "2026-10-15T11:27:11.811461+00:00",
     "external_id": "/job/US-CA-Santa-Clara/System-Design-Engineer_JR1968313",
     "h1b_mentioned": false,
     "h1b_status": "unknown",
@@ -523752,7 +524054,7 @@
   },
   "workday:Nike:/job/Beaverton-Oregon/Principal-Engineer--Security---Compliance_R-94730": {
     "company": "Nike",
-    "enriched_at": "2026-10-08T06:14:16.543697+00:00",
+    "enriched_at": "2026-10-15T11:39:07.565140+00:00",
     "external_id": "/job/Beaverton-Oregon/Principal-Engineer--Security---Compliance_R-94730",
     "h1b_mentioned": false,
     "h1b_status": "unknown",
@@ -534972,7 +535274,7 @@
   },
   "workday:Northrop Grumman:/job/United-States-Arizona-Chandler/Engineer-Aeronautical---Level-4---Advanced-Programs-Active-Secret-Clearance_R10253865-1": {
     "company": "Northrop Grumman",
-    "enriched_at": "2026-10-08T06:04:40.666076+00:00",
+    "enriched_at": "2026-10-15T11:29:12.395503+00:00",
     "external_id": "/job/United-States-Arizona-Chandler/Engineer-Aeronautical---Level-4---Advanced-Programs-Active-Secret-Clearance_R10253865-1",
     "h1b_mentioned": false,
     "h1b_status": "unknown",
@@ -538931,7 +539233,7 @@
   },
   "workday:Northrop Grumman:/job/United-States-Arizona-Chandler/XMLNAME--Skillbridge----Engineering-Technician---4_R10255133": {
     "company": "Northrop Grumman",
-    "enriched_at": "2026-10-08T06:04:40.515367+00:00",
+    "enriched_at": "2026-10-15T11:29:12.127293+00:00",
     "external_id": "/job/United-States-Arizona-Chandler/XMLNAME--Skillbridge----Engineering-Technician---4_R10255133",
     "h1b_mentioned": false,
     "h1b_status": "unknown",
@@ -539516,7 +539818,7 @@
   },
   "workday:Northrop Grumman:/job/United-States-Arizona-Gilbert/EMI-C-Systems-Engineer---Level-3-or-4--AHT-_R10252746-1": {
     "company": "Northrop Grumman",
-    "enriched_at": "2026-10-08T06:04:40.675093+00:00",
+    "enriched_at": "2026-10-15T11:29:12.404368+00:00",
     "external_id": "/job/United-States-Arizona-Gilbert/EMI-C-Systems-Engineer---Level-3-or-4--AHT-_R10252746-1",
     "h1b_mentioned": false,
     "h1b_status": "unknown",
@@ -543321,7 +543623,7 @@
   },
   "workday:Northrop Grumman:/job/United-States-California-Edwards-AFB/Manager-Test-Engineering-2_R10239208": {
     "company": "Northrop Grumman",
-    "enriched_at": "2026-10-08T06:04:40.740234+00:00",
+    "enriched_at": "2026-10-15T11:29:12.515153+00:00",
     "external_id": "/job/United-States-California-Edwards-AFB/Manager-Test-Engineering-2_R10239208",
     "h1b_mentioned": false,
     "h1b_status": "unknown",
@@ -544027,7 +544329,7 @@
   },
   "workday:Northrop Grumman:/job/United-States-California-Edwards-AFB/Sr-Staff---Consultant-Flight-Test-Engineer_R10252535-1": {
     "company": "Northrop Grumman",
-    "enriched_at": "2026-10-08T06:04:40.707351+00:00",
+    "enriched_at": "2026-10-15T11:29:12.464824+00:00",
     "external_id": "/job/United-States-California-Edwards-AFB/Sr-Staff---Consultant-Flight-Test-Engineer_R10252535-1",
     "h1b_mentioned": false,
     "h1b_status": "unknown",
@@ -546003,7 +546305,7 @@
   },
   "workday:Northrop Grumman:/job/United-States-California-El-Segundo/Program-Cost-Schedule---Control-Analyst_R10253876": {
     "company": "Northrop Grumman",
-    "enriched_at": "2026-10-08T06:04:40.650331+00:00",
+    "enriched_at": "2026-10-15T11:29:12.366228+00:00",
     "external_id": "/job/United-States-California-El-Segundo/Program-Cost-Schedule---Control-Analyst_R10253876",
     "h1b_mentioned": false,
     "h1b_status": "unknown",
@@ -549231,7 +549533,7 @@
   },
   "workday:Northrop Grumman:/job/United-States-California-Northridge/Aerodynamics-Systems-Engineer-4--AHT-_R10243556": {
     "company": "Northrop Grumman",
-    "enriched_at": "2026-10-08T06:04:40.608280+00:00",
+    "enriched_at": "2026-10-15T11:29:12.287747+00:00",
     "external_id": "/job/United-States-California-Northridge/Aerodynamics-Systems-Engineer-4--AHT-_R10243556",
     "h1b_mentioned": false,
     "h1b_status": "unknown",
@@ -549349,7 +549651,7 @@
   },
   "workday:Northrop Grumman:/job/United-States-California-Northridge/Consultant-Chief-Engineer--AHT-_R10252712": {
     "company": "Northrop Grumman",
-    "enriched_at": "2026-10-08T06:04:40.613812+00:00",
+    "enriched_at": "2026-10-15T11:29:12.298156+00:00",
     "external_id": "/job/United-States-California-Northridge/Consultant-Chief-Engineer--AHT-_R10252712",
     "h1b_mentioned": false,
     "h1b_status": "unknown",
@@ -549469,7 +549771,7 @@
   },
   "workday:Northrop Grumman:/job/United-States-California-Northridge/Dynamics-Structural-Analyst-3-4_R10255126": {
     "company": "Northrop Grumman",
-    "enriched_at": "2026-10-08T06:04:40.546202+00:00",
+    "enriched_at": "2026-10-15T11:29:12.185694+00:00",
     "external_id": "/job/United-States-California-Northridge/Dynamics-Structural-Analyst-3-4_R10255126",
     "h1b_mentioned": false,
     "h1b_status": "unknown",
@@ -553758,7 +554060,7 @@
   },
   "workday:Northrop Grumman:/job/United-States-California-Palmdale/Manager-General-Manufacturing-1_R10252697": {
     "company": "Northrop Grumman",
-    "enriched_at": "2026-10-08T06:04:40.724121+00:00",
+    "enriched_at": "2026-10-15T11:29:12.496072+00:00",
     "external_id": "/job/United-States-California-Palmdale/Manager-General-Manufacturing-1_R10252697",
     "h1b_mentioned": false,
     "h1b_status": "unknown",
@@ -562921,7 +563223,7 @@
   },
   "workday:Northrop Grumman:/job/United-States-California-Redondo-Beach/Systems-Engineering-Manager-3---IPT-Lead_R10253890": {
     "company": "Northrop Grumman",
-    "enriched_at": "2026-10-08T06:04:40.620369+00:00",
+    "enriched_at": "2026-10-15T11:29:12.310357+00:00",
     "external_id": "/job/United-States-California-Redondo-Beach/Systems-Engineering-Manager-3---IPT-Lead_R10253890",
     "h1b_mentioned": false,
     "h1b_status": "unknown",
@@ -565535,7 +565837,7 @@
   },
   "workday:Northrop Grumman:/job/United-States-California-San-Diego/Inspector-2--2nd-Shift-_R10251963": {
     "company": "Northrop Grumman",
-    "enriched_at": "2026-10-08T06:04:40.702933+00:00",
+    "enriched_at": "2026-10-15T11:29:12.456572+00:00",
     "external_id": "/job/United-States-California-San-Diego/Inspector-2--2nd-Shift-_R10251963",
     "h1b_mentioned": false,
     "h1b_status": "unknown",
@@ -570231,7 +570533,7 @@
   },
   "workday:Northrop Grumman:/job/United-States-California-San-Diego/Senior-Principal-Engineer-Electronics---Networks_R10244592": {
     "company": "Northrop Grumman",
-    "enriched_at": "2026-10-08T06:04:40.534822+00:00",
+    "enriched_at": "2026-10-15T11:29:12.164153+00:00",
     "external_id": "/job/United-States-California-San-Diego/Senior-Principal-Engineer-Electronics---Networks_R10244592",
     "h1b_mentioned": false,
     "h1b_status": "unknown",
@@ -570888,6 +571190,27 @@
     "source_updated_at": "",
     "sponsorship_evidence": ""
   },
+  "workday:Northrop Grumman:/job/United-States-California-San-Diego/Sr-Principal-Electronics-Engineer---Hardware-Infrastructure-Lead_R10254307-1": {
+    "company": "Northrop Grumman",
+    "enriched_at": "2026-10-15T11:29:12.051699+00:00",
+    "external_id": "/job/United-States-California-San-Diego/Sr-Principal-Electronics-Engineer---Hardware-Infrastructure-Lead_R10254307-1",
+    "h1b_mentioned": false,
+    "h1b_status": "unknown",
+    "keywords": [
+      "AWS",
+      "Azure",
+      "GCP",
+      "compliance"
+    ],
+    "salary_currency": "",
+    "salary_max": null,
+    "salary_min": null,
+    "salary_period": "",
+    "salary_text": "",
+    "source": "workday",
+    "source_updated_at": "",
+    "sponsorship_evidence": ""
+  },
   "workday:Northrop Grumman:/job/United-States-California-San-Diego/Sr-Principal-Electronics-Engineer_R10250687": {
     "company": "Northrop Grumman",
     "enriched_at": "2026-09-28T23:18:27.747304+00:00",
@@ -571019,7 +571342,7 @@
   },
   "workday:Northrop Grumman:/job/United-States-California-San-Diego/Sr-Principal-Engineer--TRMC--CAM-Lead-_R10255128": {
     "company": "Northrop Grumman",
-    "enriched_at": "2026-10-08T06:04:40.540688+00:00",
+    "enriched_at": "2026-10-15T11:29:12.175245+00:00",
     "external_id": "/job/United-States-California-San-Diego/Sr-Principal-Engineer--TRMC--CAM-Lead-_R10255128",
     "h1b_mentioned": false,
     "h1b_status": "unknown",
@@ -571937,6 +572260,27 @@
     "company": "Northrop Grumman",
     "enriched_at": "2026-10-01T22:43:22.339145+00:00",
     "external_id": "/job/United-States-California-San-Diego/Staff-Electronics-Engineer---Hardware-Infrastructure-Lead_R10234372-1",
+    "h1b_mentioned": false,
+    "h1b_status": "unknown",
+    "keywords": [
+      "AWS",
+      "Azure",
+      "GCP",
+      "compliance"
+    ],
+    "salary_currency": "",
+    "salary_max": null,
+    "salary_min": null,
+    "salary_period": "",
+    "salary_text": "",
+    "source": "workday",
+    "source_updated_at": "",
+    "sponsorship_evidence": ""
+  },
+  "workday:Northrop Grumman:/job/United-States-California-San-Diego/Staff-Electronics-Engineer---Hardware-Infrastructure-Lead_R10254304-1": {
+    "company": "Northrop Grumman",
+    "enriched_at": "2026-10-15T11:29:12.063336+00:00",
+    "external_id": "/job/United-States-California-San-Diego/Staff-Electronics-Engineer---Hardware-Infrastructure-Lead_R10254304-1",
     "h1b_mentioned": false,
     "h1b_status": "unknown",
     "keywords": [
@@ -574395,7 +574739,7 @@
   },
   "workday:Northrop Grumman:/job/United-States-California-Sunnyvale/Manager-Mission-Assurance-2_R10253637": {
     "company": "Northrop Grumman",
-    "enriched_at": "2026-10-08T06:04:40.592650+00:00",
+    "enriched_at": "2026-10-15T11:29:12.273290+00:00",
     "external_id": "/job/United-States-California-Sunnyvale/Manager-Mission-Assurance-2_R10253637",
     "h1b_mentioned": false,
     "h1b_status": "unknown",
@@ -575474,7 +575818,7 @@
   },
   "workday:Northrop Grumman:/job/United-States-California-Sunnyvale/Principal-Engineer-Mission-Assurance_R10253640": {
     "company": "Northrop Grumman",
-    "enriched_at": "2026-10-08T06:04:40.579109+00:00",
+    "enriched_at": "2026-10-15T11:29:12.247653+00:00",
     "external_id": "/job/United-States-California-Sunnyvale/Principal-Engineer-Mission-Assurance_R10253640",
     "h1b_mentioned": false,
     "h1b_status": "unknown",
@@ -587052,7 +587396,7 @@
   },
   "workday:Northrop Grumman:/job/United-States-Colorado-Colorado-Springs/XMLNAME-2026-Associate-Program-Cost-and-Schedule-Control-Analyst---Colorado-Springs-CO_R10245881-1": {
     "company": "Northrop Grumman",
-    "enriched_at": "2026-10-08T06:04:40.490697+00:00",
+    "enriched_at": "2026-10-15T11:29:12.083176+00:00",
     "external_id": "/job/United-States-Colorado-Colorado-Springs/XMLNAME-2026-Associate-Program-Cost-and-Schedule-Control-Analyst---Colorado-Springs-CO_R10245881-1",
     "h1b_mentioned": false,
     "h1b_status": "unknown",
@@ -605704,7 +606048,7 @@
   },
   "workday:Northrop Grumman:/job/United-States-Illinois-Rolling-Meadows/Engineer-Principal-Systems-Engineer_R10252740": {
     "company": "Northrop Grumman",
-    "enriched_at": "2026-10-08T06:04:40.696619+00:00",
+    "enriched_at": "2026-10-15T11:29:12.444729+00:00",
     "external_id": "/job/United-States-Illinois-Rolling-Meadows/Engineer-Principal-Systems-Engineer_R10252740",
     "h1b_mentioned": false,
     "h1b_status": "unknown",
@@ -609116,7 +609460,7 @@
   },
   "workday:Northrop Grumman:/job/United-States-Illinois-Rolling-Meadows/Sr-Principal-Systems-Engineer_R10252742": {
     "company": "Northrop Grumman",
-    "enriched_at": "2026-10-08T06:04:40.690847+00:00",
+    "enriched_at": "2026-10-15T11:29:12.433945+00:00",
     "external_id": "/job/United-States-Illinois-Rolling-Meadows/Sr-Principal-Systems-Engineer_R10252742",
     "h1b_mentioned": false,
     "h1b_status": "unknown",
@@ -619483,7 +619827,7 @@
   },
   "workday:Northrop Grumman:/job/United-States-Maryland-Baltimore/Sr-Principal-Chief-Engineer_R10253877": {
     "company": "Northrop Grumman",
-    "enriched_at": "2026-10-08T06:04:40.634674+00:00",
+    "enriched_at": "2026-10-15T11:29:12.336899+00:00",
     "external_id": "/job/United-States-Maryland-Baltimore/Sr-Principal-Chief-Engineer_R10253877",
     "h1b_mentioned": false,
     "h1b_status": "unknown",
@@ -628534,7 +628878,7 @@
   },
   "workday:Northrop Grumman:/job/United-States-Maryland-Linthicum/Sr-Principal-Program-Planning-Analyst-Scheduler_R10255131": {
     "company": "Northrop Grumman",
-    "enriched_at": "2026-10-08T06:04:40.526592+00:00",
+    "enriched_at": "2026-10-15T11:29:12.148460+00:00",
     "external_id": "/job/United-States-Maryland-Linthicum/Sr-Principal-Program-Planning-Analyst-Scheduler_R10255131",
     "h1b_mentioned": false,
     "h1b_status": "unknown",
@@ -640924,6 +641268,26 @@
     "source_updated_at": "",
     "sponsorship_evidence": ""
   },
+  "workday:Northrop Grumman:/job/United-States-Oklahoma-Tinker-AFB/Supply-Chain-Operations-Coordinator-4_R10254434": {
+    "company": "Northrop Grumman",
+    "enriched_at": "2026-10-15T11:29:12.074697+00:00",
+    "external_id": "/job/United-States-Oklahoma-Tinker-AFB/Supply-Chain-Operations-Coordinator-4_R10254434",
+    "h1b_mentioned": false,
+    "h1b_status": "unknown",
+    "keywords": [
+      "supply chain",
+      "logistics",
+      "compliance"
+    ],
+    "salary_currency": "",
+    "salary_max": null,
+    "salary_min": null,
+    "salary_period": "",
+    "salary_text": "",
+    "source": "workday",
+    "source_updated_at": "",
+    "sponsorship_evidence": ""
+  },
   "workday:Northrop Grumman:/job/United-States-Oklahoma-Tinker-AFB/Systems-Engineer-2_R10234563": {
     "company": "Northrop Grumman",
     "enriched_at": "2026-08-14T22:26:43.266283+00:00",
@@ -643898,7 +644262,7 @@
   },
   "workday:Northrop Grumman:/job/United-States-Utah-Clearfield/Aircraft-Inspector-2-3_R10252755": {
     "company": "Northrop Grumman",
-    "enriched_at": "2026-10-08T06:04:40.683518+00:00",
+    "enriched_at": "2026-10-15T11:29:12.420196+00:00",
     "external_id": "/job/United-States-Utah-Clearfield/Aircraft-Inspector-2-3_R10252755",
     "h1b_mentioned": false,
     "h1b_status": "unknown",
@@ -648042,7 +648406,7 @@
   },
   "workday:Northrop Grumman:/job/United-States-Utah-Corinne/Flight-Inspector-Level-1-or-2_R10253874": {
     "company": "Northrop Grumman",
-    "enriched_at": "2026-10-08T06:04:40.655291+00:00",
+    "enriched_at": "2026-10-15T11:29:12.375497+00:00",
     "external_id": "/job/United-States-Utah-Corinne/Flight-Inspector-Level-1-or-2_R10253874",
     "h1b_mentioned": false,
     "h1b_status": "unknown",
@@ -649131,7 +649495,7 @@
   },
   "workday:Northrop Grumman:/job/United-States-Utah-Corinne/Program-Manager-1---Sentinel_R10255127-1": {
     "company": "Northrop Grumman",
-    "enriched_at": "2026-10-08T06:04:40.551518+00:00",
+    "enriched_at": "2026-10-15T11:29:12.195776+00:00",
     "external_id": "/job/United-States-Utah-Corinne/Program-Manager-1---Sentinel_R10255127-1",
     "h1b_mentioned": false,
     "h1b_status": "unknown",
@@ -649227,7 +649591,7 @@
   },
   "workday:Northrop Grumman:/job/United-States-Utah-Corinne/Program-and-Planning-Scheduling-Analyst---Level-2-or-3_R10255135": {
     "company": "Northrop Grumman",
-    "enriched_at": "2026-10-08T06:04:40.505257+00:00",
+    "enriched_at": "2026-10-15T11:29:12.115755+00:00",
     "external_id": "/job/United-States-Utah-Corinne/Program-and-Planning-Scheduling-Analyst---Level-2-or-3_R10255135",
     "h1b_mentioned": false,
     "h1b_status": "unknown",
@@ -649545,7 +649909,7 @@
   },
   "workday:Northrop Grumman:/job/United-States-Utah-Corinne/Safety-Chief-Engineer-Level-4_R10253879": {
     "company": "Northrop Grumman",
-    "enriched_at": "2026-10-08T06:04:40.639302+00:00",
+    "enriched_at": "2026-10-15T11:29:12.345568+00:00",
     "external_id": "/job/United-States-Utah-Corinne/Safety-Chief-Engineer-Level-4_R10253879",
     "h1b_mentioned": false,
     "h1b_status": "unknown",
@@ -649584,7 +649948,7 @@
   },
   "workday:Northrop Grumman:/job/United-States-Utah-Corinne/Senior-Principal-Project-Manager---Space-Exploration_R10255119": {
     "company": "Northrop Grumman",
-    "enriched_at": "2026-10-08T06:04:40.574222+00:00",
+    "enriched_at": "2026-10-15T11:29:12.238448+00:00",
     "external_id": "/job/United-States-Utah-Corinne/Senior-Principal-Project-Manager---Space-Exploration_R10255119",
     "h1b_mentioned": false,
     "h1b_status": "unknown",
@@ -650401,7 +650765,7 @@
   },
   "workday:Northrop Grumman:/job/United-States-Utah-Corinne/Technical-Services-Project-Management--Level-3-or-4-_R10255122-1": {
     "company": "Northrop Grumman",
-    "enriched_at": "2026-10-08T06:04:40.557597+00:00",
+    "enriched_at": "2026-10-15T11:29:12.207280+00:00",
     "external_id": "/job/United-States-Utah-Corinne/Technical-Services-Project-Management--Level-3-or-4-_R10255122-1",
     "h1b_mentioned": false,
     "h1b_status": "unknown",
@@ -650981,7 +651345,7 @@
   },
   "workday:Northrop Grumman:/job/United-States-Utah-Magna/Chemical-Handler-2-3_R10248295": {
     "company": "Northrop Grumman",
-    "enriched_at": "2026-10-08T06:04:40.474952+00:00",
+    "enriched_at": "2026-10-15T11:29:12.106024+00:00",
     "external_id": "/job/United-States-Utah-Magna/Chemical-Handler-2-3_R10248295",
     "h1b_mentioned": false,
     "h1b_status": "unknown",
@@ -651504,7 +651868,7 @@
   },
   "workday:Northrop Grumman:/job/United-States-Utah-Magna/Principal-Contracts-Administrator_R10252698": {
     "company": "Northrop Grumman",
-    "enriched_at": "2026-10-08T06:04:40.729429+00:00",
+    "enriched_at": "2026-10-15T11:29:12.506021+00:00",
     "external_id": "/job/United-States-Utah-Magna/Principal-Contracts-Administrator_R10252698",
     "h1b_mentioned": false,
     "h1b_status": "unknown",
@@ -651813,7 +652177,7 @@
   },
   "workday:Northrop Grumman:/job/United-States-Utah-Magna/Program-and-Planning-Scheduling-Analyst---Level-3-or-4_R10253885": {
     "company": "Northrop Grumman",
-    "enriched_at": "2026-10-08T06:04:40.468517+00:00",
+    "enriched_at": "2026-10-15T11:29:12.094192+00:00",
     "external_id": "/job/United-States-Utah-Magna/Program-and-Planning-Scheduling-Analyst---Level-3-or-4_R10253885",
     "h1b_mentioned": false,
     "h1b_status": "unknown",
@@ -651851,7 +652215,7 @@
   },
   "workday:Northrop Grumman:/job/United-States-Utah-Magna/Quality-Analyst-Level-2_R10247749": {
     "company": "Northrop Grumman",
-    "enriched_at": "2026-10-08T06:04:40.627738+00:00",
+    "enriched_at": "2026-10-15T11:29:12.324123+00:00",
     "external_id": "/job/United-States-Utah-Magna/Quality-Analyst-Level-2_R10247749",
     "h1b_mentioned": false,
     "h1b_status": "unknown",
@@ -652576,7 +652940,7 @@
   },
   "workday:Northrop Grumman:/job/United-States-Utah-Roy/Administrative-Assistant-4---12923-1_R10253875-1": {
     "company": "Northrop Grumman",
-    "enriched_at": "2026-10-08T06:04:40.644869+00:00",
+    "enriched_at": "2026-10-15T11:29:12.355924+00:00",
     "external_id": "/job/United-States-Utah-Roy/Administrative-Assistant-4---12923-1_R10253875-1",
     "h1b_mentioned": false,
     "h1b_status": "unknown",
@@ -661432,7 +661796,7 @@
   },
   "workday:Northrop Grumman:/job/United-States-Utah-Roy/Sentinel--Mechanical-Design-Engineer-Principal-Engineer----20078_R10253462": {
     "company": "Northrop Grumman",
-    "enriched_at": "2026-10-08T06:04:40.661662+00:00",
+    "enriched_at": "2026-10-15T11:29:12.387283+00:00",
     "external_id": "/job/United-States-Utah-Roy/Sentinel--Mechanical-Design-Engineer-Principal-Engineer----20078_R10253462",
     "h1b_mentioned": false,
     "h1b_status": "unknown",
@@ -666357,7 +666721,7 @@
   },
   "workday:Northrop Grumman:/job/United-States-Utah-Salt-Lake-City/Machinist-2-3---A-Shift_R10255120": {
     "company": "Northrop Grumman",
-    "enriched_at": "2026-10-08T06:04:40.566141+00:00",
+    "enriched_at": "2026-10-15T11:29:12.223360+00:00",
     "external_id": "/job/United-States-Utah-Salt-Lake-City/Machinist-2-3---A-Shift_R10255120",
     "h1b_mentioned": false,
     "h1b_status": "unknown",
@@ -666815,7 +667179,7 @@
   },
   "workday:Northrop Grumman:/job/United-States-Utah-Salt-Lake-City/Principal-Engineer-Electromechanical_R10252084": {
     "company": "Northrop Grumman",
-    "enriched_at": "2026-10-08T06:04:40.712704+00:00",
+    "enriched_at": "2026-10-15T11:29:12.474856+00:00",
     "external_id": "/job/United-States-Utah-Salt-Lake-City/Principal-Engineer-Electromechanical_R10252084",
     "h1b_mentioned": false,
     "h1b_status": "unknown",
@@ -672916,7 +673280,7 @@
   },
   "workday:Northrop Grumman:/job/United-States-Virginia-Falls-Church/Senior-Principal-HR-Project-Manager_R10252722": {
     "company": "Northrop Grumman",
-    "enriched_at": "2026-10-08T06:04:40.719135+00:00",
+    "enriched_at": "2026-10-15T11:29:12.486721+00:00",
     "external_id": "/job/United-States-Virginia-Falls-Church/Senior-Principal-HR-Project-Manager_R10252722",
     "h1b_mentioned": false,
     "h1b_status": "unknown",
@@ -674604,7 +674968,7 @@
   },
   "workday:Northrop Grumman:/job/United-States-Washington-Silverdale/Repair-Technician-1_R10251676": {
     "company": "Northrop Grumman",
-    "enriched_at": "2026-10-08T06:04:40.588263+00:00",
+    "enriched_at": "2026-10-15T11:29:12.265021+00:00",
     "external_id": "/job/United-States-Washington-Silverdale/Repair-Technician-1_R10251676",
     "h1b_mentioned": false,
     "h1b_status": "unknown",
@@ -698216,6 +698580,22 @@
     "source_updated_at": "",
     "sponsorship_evidence": ""
   },
+  "workday:RTX:/job/DE-BY-NORDLINGEN-010--Anton-Jaumann-Industriepark-10--BLDG-10/Mitarbeiter-Elektronische-Baugruppenfertigung--m-w-d-_01882804": {
+    "company": "RTX",
+    "enriched_at": "2026-10-15T11:33:42.390252+00:00",
+    "external_id": "/job/DE-BY-NORDLINGEN-010--Anton-Jaumann-Industriepark-10--BLDG-10/Mitarbeiter-Elektronische-Baugruppenfertigung--m-w-d-_01882804",
+    "h1b_mentioned": false,
+    "h1b_status": "unknown",
+    "keywords": [],
+    "salary_currency": "",
+    "salary_max": null,
+    "salary_min": null,
+    "salary_period": "",
+    "salary_text": "",
+    "source": "workday",
+    "source_updated_at": "",
+    "sponsorship_evidence": ""
+  },
   "workday:RTX:/job/DE-BY-NORDLINGEN-010--Anton-Jaumann-Industriepark-10--BLDG-10/Senior-Hardware-Developer--m-w-d-_01870521": {
     "company": "RTX",
     "enriched_at": "2026-10-09T06:13:55.573640+00:00",
@@ -698694,6 +699074,22 @@
     "company": "RTX",
     "enriched_at": "2026-09-19T20:47:38.888026+00:00",
     "external_id": "/job/DE-HH-HAMBURG-010-PB-OFFICE--Hein-Sass-Stieg-10--PB-OFFICE/Fluggertmechaniker-EBU--w-m-d-_01852019",
+    "h1b_mentioned": false,
+    "h1b_status": "unknown",
+    "keywords": [],
+    "salary_currency": "",
+    "salary_max": null,
+    "salary_min": null,
+    "salary_period": "",
+    "salary_text": "",
+    "source": "workday",
+    "source_updated_at": "",
+    "sponsorship_evidence": ""
+  },
+  "workday:RTX:/job/DE-HH-HAMBURG-010-PB-OFFICE--Hein-Sass-Stieg-10--PB-OFFICE/Fluggertmechaniker-EBU--w-m-d-_01882802": {
+    "company": "RTX",
+    "enriched_at": "2026-10-15T11:33:42.395083+00:00",
+    "external_id": "/job/DE-HH-HAMBURG-010-PB-OFFICE--Hein-Sass-Stieg-10--PB-OFFICE/Fluggertmechaniker-EBU--w-m-d-_01882802",
     "h1b_mentioned": false,
     "h1b_status": "unknown",
     "keywords": [],
@@ -700138,7 +700534,7 @@
   },
   "workday:RTX:/job/IN-KA-BENGALURU-BLDG-1--Hitech-Defence--Aerospace-Park--HI-TECH-DEFENSE/Senior-Associate-Engineer---SCM_01878405-1": {
     "company": "RTX",
-    "enriched_at": "2026-10-08T06:08:46.438503+00:00",
+    "enriched_at": "2026-10-15T11:33:42.517086+00:00",
     "external_id": "/job/IN-KA-BENGALURU-BLDG-1--Hitech-Defence--Aerospace-Park--HI-TECH-DEFENSE/Senior-Associate-Engineer---SCM_01878405-1",
     "h1b_mentioned": false,
     "h1b_status": "unknown",
@@ -700158,7 +700554,7 @@
   },
   "workday:RTX:/job/IN-KA-BENGALURU-BLDG-1--Hitech-Defence--Aerospace-Park--HI-TECH-DEFENSE/Senior-Associate-Engineer---SCM_01878406": {
     "company": "RTX",
-    "enriched_at": "2026-10-08T06:08:46.443444+00:00",
+    "enriched_at": "2026-10-15T11:33:42.525772+00:00",
     "external_id": "/job/IN-KA-BENGALURU-BLDG-1--Hitech-Defence--Aerospace-Park--HI-TECH-DEFENSE/Senior-Associate-Engineer---SCM_01878406",
     "h1b_mentioned": false,
     "h1b_status": "unknown",
@@ -700178,7 +700574,7 @@
   },
   "workday:RTX:/job/IN-KA-BENGALURU-BLDG-1--Hitech-Defence--Aerospace-Park--HI-TECH-DEFENSE/Senior-Associate-Engineer---SCM_01878407": {
     "company": "RTX",
-    "enriched_at": "2026-10-08T06:08:46.432273+00:00",
+    "enriched_at": "2026-10-15T11:33:42.506431+00:00",
     "external_id": "/job/IN-KA-BENGALURU-BLDG-1--Hitech-Defence--Aerospace-Park--HI-TECH-DEFENSE/Senior-Associate-Engineer---SCM_01878407",
     "h1b_mentioned": false,
     "h1b_status": "unknown",
@@ -700198,7 +700594,7 @@
   },
   "workday:RTX:/job/IN-KA-BENGALURU-BLDG-1--Hitech-Defence--Aerospace-Park--HI-TECH-DEFENSE/Senior-Associate-Engineer---SCM_01878408": {
     "company": "RTX",
-    "enriched_at": "2026-10-08T06:08:46.448423+00:00",
+    "enriched_at": "2026-10-15T11:33:42.534468+00:00",
     "external_id": "/job/IN-KA-BENGALURU-BLDG-1--Hitech-Defence--Aerospace-Park--HI-TECH-DEFENSE/Senior-Associate-Engineer---SCM_01878408",
     "h1b_mentioned": false,
     "h1b_status": "unknown",
@@ -700218,7 +700614,7 @@
   },
   "workday:RTX:/job/IN-KA-BENGALURU-BLDG-1--Hitech-Defence--Aerospace-Park--HI-TECH-DEFENSE/Senior-Associate-Engineer--Manufacturing_01880659": {
     "company": "RTX",
-    "enriched_at": "2026-10-08T06:08:46.418945+00:00",
+    "enriched_at": "2026-10-15T11:33:42.483112+00:00",
     "external_id": "/job/IN-KA-BENGALURU-BLDG-1--Hitech-Defence--Aerospace-Park--HI-TECH-DEFENSE/Senior-Associate-Engineer--Manufacturing_01880659",
     "h1b_mentioned": false,
     "h1b_status": "unknown",
@@ -700395,7 +700791,7 @@
   },
   "workday:RTX:/job/IN-KA-BENGALURU-BLDG-1--Hitech-Defence--Aerospace-Park--HI-TECH-DEFENSE/Senior-Production-Supervisor_01880663": {
     "company": "RTX",
-    "enriched_at": "2026-10-08T06:08:46.427393+00:00",
+    "enriched_at": "2026-10-15T11:33:42.497683+00:00",
     "external_id": "/job/IN-KA-BENGALURU-BLDG-1--Hitech-Defence--Aerospace-Park--HI-TECH-DEFENSE/Senior-Production-Supervisor_01880663",
     "h1b_mentioned": false,
     "h1b_status": "unknown",
@@ -704238,6 +704634,24 @@
     "source_updated_at": "",
     "sponsorship_evidence": ""
   },
+  "workday:RTX:/job/IN-KA-BENGALURU-NORTHGATE--Sy-No-22-Venkatala-Village--SY-NO-22-VENKATALA-VILLAGE-Yelahanka-Hobli/Senior-Lead-Engineer---ChemMtrlsEngrg--Hybrid-_01882078": {
+    "company": "RTX",
+    "enriched_at": "2026-10-15T11:33:42.415848+00:00",
+    "external_id": "/job/IN-KA-BENGALURU-NORTHGATE--Sy-No-22-Venkatala-Village--SY-NO-22-VENKATALA-VILLAGE-Yelahanka-Hobli/Senior-Lead-Engineer---ChemMtrlsEngrg--Hybrid-_01882078",
+    "h1b_mentioned": false,
+    "h1b_status": "unknown",
+    "keywords": [
+      "compliance"
+    ],
+    "salary_currency": "",
+    "salary_max": null,
+    "salary_min": null,
+    "salary_period": "",
+    "salary_text": "",
+    "source": "workday",
+    "source_updated_at": "",
+    "sponsorship_evidence": ""
+  },
   "workday:RTX:/job/IN-KA-BENGALURU-NORTHGATE--Sy-No-22-Venkatala-Village--SY-NO-22-VENKATALA-VILLAGE-Yelahanka-Hobli/Senior-Lead-Engineer---FPGA_01853717": {
     "company": "RTX",
     "enriched_at": "2026-09-14T12:50:20.040864+00:00",
@@ -705671,7 +706085,7 @@
   },
   "workday:RTX:/job/IN-TS-HYDERABAD-B3F7--DLF-Cybercity-Gachibowli--DLF-CYBERCITY-GACHIBOWLI-B3F7-7th-Fl-in-Block-3/Lead-Software-Developer-SAP-ABAP-_01867876": {
     "company": "RTX",
-    "enriched_at": "2026-09-15T21:27:49.616832+00:00",
+    "enriched_at": "2026-10-15T11:33:42.400172+00:00",
     "external_id": "/job/IN-TS-HYDERABAD-B3F7--DLF-Cybercity-Gachibowli--DLF-CYBERCITY-GACHIBOWLI-B3F7-7th-Fl-in-Block-3/Lead-Software-Developer-SAP-ABAP-_01867876",
     "h1b_mentioned": false,
     "h1b_status": "unknown",
@@ -718597,7 +719011,7 @@
   },
   "workday:RTX:/job/US-AZ-TUCSON-801--1151-E-Hermans-Rd--BLDG-801-External-Site/Systems-Engineer-II---Anti-Tamper---Program-Protection-P2--Onsite-Tucson--AZ-_01877383": {
     "company": "RTX",
-    "enriched_at": "2026-10-08T06:08:46.605435+00:00",
+    "enriched_at": "2026-10-15T11:33:42.730409+00:00",
     "external_id": "/job/US-AZ-TUCSON-801--1151-E-Hermans-Rd--BLDG-801-External-Site/Systems-Engineer-II---Anti-Tamper---Program-Protection-P2--Onsite-Tucson--AZ-_01877383",
     "h1b_mentioned": false,
     "h1b_status": "unknown",
@@ -726865,6 +727279,26 @@
     "source_updated_at": "",
     "sponsorship_evidence": ""
   },
+  "workday:RTX:/job/US-AZ-TUCSON-842--1151-E-Hermans-Rd--BLDG-842/Information-System-Security-Officer--ISSO----Tucson--AZ_01882710": {
+    "company": "RTX",
+    "enriched_at": "2026-10-15T11:33:42.376539+00:00",
+    "external_id": "/job/US-AZ-TUCSON-842--1151-E-Hermans-Rd--BLDG-842/Information-System-Security-Officer--ISSO----Tucson--AZ_01882710",
+    "h1b_mentioned": false,
+    "h1b_status": "unknown",
+    "keywords": [
+      "audit",
+      "risk management",
+      "compliance"
+    ],
+    "salary_currency": "",
+    "salary_max": null,
+    "salary_min": null,
+    "salary_period": "",
+    "salary_text": "",
+    "source": "workday",
+    "source_updated_at": "",
+    "sponsorship_evidence": ""
+  },
   "workday:RTX:/job/US-AZ-TUCSON-842--1151-E-Hermans-Rd--BLDG-842/Principal-Analyst--Security---CSS0----Tucson--AZ_01879160-1": {
     "company": "RTX",
     "enriched_at": "2026-10-08T23:27:56.760341+00:00",
@@ -732392,7 +732826,7 @@
   },
   "workday:RTX:/job/US-AZ-TUCSON-9070--9070-S-Rita-Rd--BLDG-9070/EO-Optical-Engineer-I--Onsite-_01877353": {
     "company": "RTX",
-    "enriched_at": "2026-10-08T06:08:46.519724+00:00",
+    "enriched_at": "2026-10-15T11:33:42.594277+00:00",
     "external_id": "/job/US-AZ-TUCSON-9070--9070-S-Rita-Rd--BLDG-9070/EO-Optical-Engineer-I--Onsite-_01877353",
     "h1b_mentioned": false,
     "h1b_status": "unknown",
@@ -732411,7 +732845,7 @@
   },
   "workday:RTX:/job/US-AZ-TUCSON-9070--9070-S-Rita-Rd--BLDG-9070/Electro-Optic-Intern--Summer-2027--Onsite-_01877708": {
     "company": "RTX",
-    "enriched_at": "2026-10-08T06:08:46.507462+00:00",
+    "enriched_at": "2026-10-15T11:33:42.572502+00:00",
     "external_id": "/job/US-AZ-TUCSON-9070--9070-S-Rita-Rd--BLDG-9070/Electro-Optic-Intern--Summer-2027--Onsite-_01877708",
     "h1b_mentioned": false,
     "h1b_status": "unknown",
@@ -735114,7 +735548,7 @@
   },
   "workday:RTX:/job/US-AZ-TUCSON-M02--1151-E-Hermans-Rd--BLDG-M02/Manager--Contracts---Advanced-Effectors---Space--Onsite-_01869471": {
     "company": "RTX",
-    "enriched_at": "2026-10-08T06:08:46.595917+00:00",
+    "enriched_at": "2026-10-15T11:33:42.713321+00:00",
     "external_id": "/job/US-AZ-TUCSON-M02--1151-E-Hermans-Rd--BLDG-M02/Manager--Contracts---Advanced-Effectors---Space--Onsite-_01869471",
     "h1b_mentioned": false,
     "h1b_status": "unknown",
@@ -740449,7 +740883,7 @@
   },
   "workday:RTX:/job/US-AZ-TUCSON-M13--3601-E-Britannia-Dr--BRITANNIA-M13/Material-Program-Manger_01879088": {
     "company": "RTX",
-    "enriched_at": "2026-10-08T06:08:46.566681+00:00",
+    "enriched_at": "2026-10-15T11:33:42.660838+00:00",
     "external_id": "/job/US-AZ-TUCSON-M13--3601-E-Britannia-Dr--BRITANNIA-M13/Material-Program-Manger_01879088",
     "h1b_mentioned": false,
     "h1b_status": "unknown",
@@ -748205,7 +748639,7 @@
   },
   "workday:RTX:/job/US-CA-FULLERTON-676--1801-Hughes-Dr--BLDG-676/Senior-Principal-Systems-Engineer---Test-Lead--ONSITE-_01876583-1": {
     "company": "RTX",
-    "enriched_at": "2026-10-08T06:08:46.548135+00:00",
+    "enriched_at": "2026-10-15T11:33:42.644229+00:00",
     "external_id": "/job/US-CA-FULLERTON-676--1801-Hughes-Dr--BLDG-676/Senior-Principal-Systems-Engineer---Test-Lead--ONSITE-_01876583-1",
     "h1b_mentioned": false,
     "h1b_status": "unknown",
@@ -748398,7 +748832,7 @@
   },
   "workday:RTX:/job/US-CA-GOLETA-B01--6825-Cortona-Dr--BLDG-B01/Analyst--EH-S_01872915": {
     "company": "RTX",
-    "enriched_at": "2026-10-08T06:08:46.574279+00:00",
+    "enriched_at": "2026-10-15T11:33:42.674532+00:00",
     "external_id": "/job/US-CA-GOLETA-B01--6825-Cortona-Dr--BLDG-B01/Analyst--EH-S_01872915",
     "h1b_mentioned": false,
     "h1b_status": "unknown",
@@ -749262,7 +749696,7 @@
   },
   "workday:RTX:/job/US-CA-GOLETA-B01--6825-Cortona-Dr--BLDG-B01/Sr-Anlyst--EH-S-Gnrlist_01871063": {
     "company": "RTX",
-    "enriched_at": "2026-10-08T06:08:46.581966+00:00",
+    "enriched_at": "2026-10-15T11:33:42.688379+00:00",
     "external_id": "/job/US-CA-GOLETA-B01--6825-Cortona-Dr--BLDG-B01/Sr-Anlyst--EH-S-Gnrlist_01871063",
     "h1b_mentioned": false,
     "h1b_status": "unknown",
@@ -751009,6 +751443,26 @@
       "Excel",
       "accounting",
       "supply chain",
+      "compliance",
+      "contracts"
+    ],
+    "salary_currency": "",
+    "salary_max": null,
+    "salary_min": null,
+    "salary_period": "",
+    "salary_text": "",
+    "source": "workday",
+    "source_updated_at": "",
+    "sponsorship_evidence": ""
+  },
+  "workday:RTX:/job/US-CA-GOLETA-H01--6380-Hollister-Ave--BLDG-H01/Program-Information-Systems-Security-Manager--ISSM----Goleta--CA--Relocation-Eligible-_01882552": {
+    "company": "RTX",
+    "enriched_at": "2026-10-15T11:33:42.354995+00:00",
+    "external_id": "/job/US-CA-GOLETA-H01--6380-Hollister-Ave--BLDG-H01/Program-Information-Systems-Security-Manager--ISSM----Goleta--CA--Relocation-Eligible-_01882552",
+    "h1b_mentioned": false,
+    "h1b_status": "unknown",
+    "keywords": [
+      "risk management",
       "compliance",
       "contracts"
     ],
@@ -757874,7 +758328,7 @@
   },
   "workday:RTX:/job/US-CO-COLORADO-SPRINGS-1275--1275-N-Newport-Rd--NEWPORT/Industrial-Engineer-III_01876239": {
     "company": "RTX",
-    "enriched_at": "2026-10-08T06:08:46.637676+00:00",
+    "enriched_at": "2026-10-15T11:33:42.788404+00:00",
     "external_id": "/job/US-CO-COLORADO-SPRINGS-1275--1275-N-Newport-Rd--NEWPORT/Industrial-Engineer-III_01876239",
     "h1b_mentioned": false,
     "h1b_status": "unknown",
@@ -757896,7 +758350,7 @@
   },
   "workday:RTX:/job/US-CO-COLORADO-SPRINGS-1275--1275-N-Newport-Rd--NEWPORT/Industrial-Engineer-II_01876237-1": {
     "company": "RTX",
-    "enriched_at": "2026-10-08T06:08:46.629750+00:00",
+    "enriched_at": "2026-10-15T11:33:42.774101+00:00",
     "external_id": "/job/US-CO-COLORADO-SPRINGS-1275--1275-N-Newport-Rd--NEWPORT/Industrial-Engineer-II_01876237-1",
     "h1b_mentioned": false,
     "h1b_status": "unknown",
@@ -761947,7 +762401,7 @@
   },
   "workday:RTX:/job/US-CT-EAST-HARTFORD-ETC--400-Main-St--BLDG-ETC/Embedded-Software-Engineer-I--Onsite-_01878013": {
     "company": "RTX",
-    "enriched_at": "2026-10-08T06:08:46.533876+00:00",
+    "enriched_at": "2026-10-15T11:33:42.619053+00:00",
     "external_id": "/job/US-CT-EAST-HARTFORD-ETC--400-Main-St--BLDG-ETC/Embedded-Software-Engineer-I--Onsite-_01878013",
     "h1b_mentioned": false,
     "h1b_status": "unknown",
@@ -765680,7 +766134,7 @@
   },
   "workday:RTX:/job/US-CT-EAST-HARTFORD-ETC--400-Main-St--BLDG-ETC/Summer-2027-Embedded-Software-Engineering-Intern--Onsite-_01878014": {
     "company": "RTX",
-    "enriched_at": "2026-10-08T06:08:46.526458+00:00",
+    "enriched_at": "2026-10-15T11:33:42.606141+00:00",
     "external_id": "/job/US-CT-EAST-HARTFORD-ETC--400-Main-St--BLDG-ETC/Summer-2027-Embedded-Software-Engineering-Intern--Onsite-_01878014",
     "h1b_mentioned": false,
     "h1b_status": "unknown",
@@ -776251,7 +776705,7 @@
   },
   "workday:RTX:/job/US-CT-WINDSOR-LOCKS-B1A--1-Hamilton-Rd--BLDG-1A/F135-Sustainment-Deputy-Service-Manager--Hybrid-_01876385": {
     "company": "RTX",
-    "enriched_at": "2026-10-08T06:08:46.645651+00:00",
+    "enriched_at": "2026-10-15T11:33:42.802705+00:00",
     "external_id": "/job/US-CT-WINDSOR-LOCKS-B1A--1-Hamilton-Rd--BLDG-1A/F135-Sustainment-Deputy-Service-Manager--Hybrid-_01876385",
     "h1b_mentioned": false,
     "h1b_status": "unknown",
@@ -776661,7 +777115,7 @@
   },
   "workday:RTX:/job/US-CT-WINDSOR-LOCKS-B1A--1-Hamilton-Rd--BLDG-1A/Proposal-Manager---F135---OME_01876463": {
     "company": "RTX",
-    "enriched_at": "2026-10-08T06:08:46.613406+00:00",
+    "enriched_at": "2026-10-15T11:33:42.744737+00:00",
     "external_id": "/job/US-CT-WINDSOR-LOCKS-B1A--1-Hamilton-Rd--BLDG-1A/Proposal-Manager---F135---OME_01876463",
     "h1b_mentioned": false,
     "h1b_status": "unknown",
@@ -778935,7 +779389,7 @@
   },
   "workday:RTX:/job/US-FL-JUPITER-ADR--17900-Beeline-Hwy--ADR-BLDG/XMLNAME-2027-Summer-System-Engineering-Intern--Onsite-_01878549": {
     "company": "RTX",
-    "enriched_at": "2026-10-08T06:08:46.514460+00:00",
+    "enriched_at": "2026-10-15T11:33:42.584929+00:00",
     "external_id": "/job/US-FL-JUPITER-ADR--17900-Beeline-Hwy--ADR-BLDG/XMLNAME-2027-Summer-System-Engineering-Intern--Onsite-_01878549",
     "h1b_mentioned": false,
     "h1b_status": "unknown",
@@ -782286,7 +782740,7 @@
   },
   "workday:RTX:/job/US-FL-MELBOURNE-311--1100-W-Hibiscus-Blvd--BLDG-311/Quality-Inspector-III---2nd-Shift_01875664": {
     "company": "RTX",
-    "enriched_at": "2026-10-08T06:08:46.654444+00:00",
+    "enriched_at": "2026-10-15T11:33:42.818274+00:00",
     "external_id": "/job/US-FL-MELBOURNE-311--1100-W-Hibiscus-Blvd--BLDG-311/Quality-Inspector-III---2nd-Shift_01875664",
     "h1b_mentioned": false,
     "h1b_status": "unknown",
@@ -782306,7 +782760,7 @@
   },
   "workday:RTX:/job/US-FL-MELBOURNE-311--1100-W-Hibiscus-Blvd--BLDG-311/Quality-Inspector-III---2nd-Shift_01875669": {
     "company": "RTX",
-    "enriched_at": "2026-10-08T06:08:46.662952+00:00",
+    "enriched_at": "2026-10-15T11:33:42.833203+00:00",
     "external_id": "/job/US-FL-MELBOURNE-311--1100-W-Hibiscus-Blvd--BLDG-311/Quality-Inspector-III---2nd-Shift_01875669",
     "h1b_mentioned": false,
     "h1b_status": "unknown",
@@ -783891,7 +784345,7 @@
   },
   "workday:RTX:/job/US-FL-OPA-LOCKA-3201--3201-NW-167th-St--NW-167TH/Mechanical-Repair-Technician-IPI-1-2nd-shift--Onsite-_01879397": {
     "company": "RTX",
-    "enriched_at": "2026-10-08T06:08:46.539885+00:00",
+    "enriched_at": "2026-10-15T11:33:42.629736+00:00",
     "external_id": "/job/US-FL-OPA-LOCKA-3201--3201-NW-167th-St--NW-167TH/Mechanical-Repair-Technician-IPI-1-2nd-shift--Onsite-_01879397",
     "h1b_mentioned": false,
     "h1b_status": "unknown",
@@ -796879,7 +797333,7 @@
   },
   "workday:RTX:/job/US-IA-CEDAR-RAPIDS-131--5450-C-Ave-NE--BLDG-131/Sr-Systems-Engineer---Avionics-Computing-Products--Onsite-_01880113": {
     "company": "RTX",
-    "enriched_at": "2026-10-08T06:08:46.485591+00:00",
+    "enriched_at": "2026-10-15T11:33:42.541954+00:00",
     "external_id": "/job/US-IA-CEDAR-RAPIDS-131--5450-C-Ave-NE--BLDG-131/Sr-Systems-Engineer---Avionics-Computing-Products--Onsite-_01880113",
     "h1b_mentioned": false,
     "h1b_status": "unknown",
@@ -808071,6 +808525,28 @@
       "Python",
       "compliance",
       "legal"
+    ],
+    "salary_currency": "",
+    "salary_max": null,
+    "salary_min": null,
+    "salary_period": "",
+    "salary_text": "",
+    "source": "workday",
+    "source_updated_at": "",
+    "sponsorship_evidence": ""
+  },
+  "workday:RTX:/job/US-IN-FT-WAYNE-150A--1010-Production-Rd--BLDG-150A/Summer-2027-RF-Systems-Engineer-Intern---Onsite_01880963": {
+    "company": "RTX",
+    "enriched_at": "2026-10-15T11:33:42.459990+00:00",
+    "external_id": "/job/US-IN-FT-WAYNE-150A--1010-Production-Rd--BLDG-150A/Summer-2027-RF-Systems-Engineer-Intern---Onsite_01880963",
+    "h1b_mentioned": false,
+    "h1b_status": "unknown",
+    "keywords": [
+      "Python",
+      "mechanical engineering",
+      "electrical engineering",
+      "compliance",
+      "contracts"
     ],
     "salary_currency": "",
     "salary_max": null,
@@ -831750,7 +832226,7 @@
   },
   "workday:RTX:/job/US-MD-ANNAPOLIS-906--2551-Riva-Rd--BLDG-906/Network-Systems-Engineering-Intern--Onsite_01873238": {
     "company": "RTX",
-    "enriched_at": "2026-10-08T06:08:46.500005+00:00",
+    "enriched_at": "2026-10-15T11:33:42.559071+00:00",
     "external_id": "/job/US-MD-ANNAPOLIS-906--2551-Riva-Rd--BLDG-906/Network-Systems-Engineering-Intern--Onsite_01873238",
     "h1b_mentioned": false,
     "h1b_status": "unknown",
@@ -846789,7 +847265,7 @@
   },
   "workday:RTX:/job/US-NM-FARMINGTON-426S--10059-Hwy-371-S--SOUTH-BLDG/Plant-Associate---Second-Shift_01875105": {
     "company": "RTX",
-    "enriched_at": "2026-10-08T06:08:46.589953+00:00",
+    "enriched_at": "2026-10-15T11:33:42.702606+00:00",
     "external_id": "/job/US-NM-FARMINGTON-426S--10059-Hwy-371-S--SOUTH-BLDG/Plant-Associate---Second-Shift_01875105",
     "h1b_mentioned": false,
     "h1b_status": "unknown",
@@ -859457,6 +859933,45 @@
     "source_updated_at": "",
     "sponsorship_evidence": ""
   },
+  "workday:RTX:/job/US-RI-MIDDLETOWN-201--127-John-Clarke-Rd--BBN-MIDDLETOWN-Ste-3/System-Administrator-I---Onsite_01882161": {
+    "company": "RTX",
+    "enriched_at": "2026-10-15T11:33:42.438496+00:00",
+    "external_id": "/job/US-RI-MIDDLETOWN-201--127-John-Clarke-Rd--BBN-MIDDLETOWN-Ste-3/System-Administrator-I---Onsite_01882161",
+    "h1b_mentioned": false,
+    "h1b_status": "unknown",
+    "keywords": [
+      "risk management",
+      "compliance",
+      "contracts"
+    ],
+    "salary_currency": "",
+    "salary_max": null,
+    "salary_min": null,
+    "salary_period": "",
+    "salary_text": "",
+    "source": "workday",
+    "source_updated_at": "",
+    "sponsorship_evidence": ""
+  },
+  "workday:RTX:/job/US-RI-MIDDLETOWN-201--127-John-Clarke-Rd--BBN-MIDDLETOWN-Ste-3/System-Administrator-Intern--Summer-2027-_01879679": {
+    "company": "RTX",
+    "enriched_at": "2026-10-15T11:33:42.449782+00:00",
+    "external_id": "/job/US-RI-MIDDLETOWN-201--127-John-Clarke-Rd--BBN-MIDDLETOWN-Ste-3/System-Administrator-Intern--Summer-2027-_01879679",
+    "h1b_mentioned": false,
+    "h1b_status": "unknown",
+    "keywords": [
+      "compliance",
+      "contracts"
+    ],
+    "salary_currency": "",
+    "salary_max": null,
+    "salary_min": null,
+    "salary_period": "",
+    "salary_text": "",
+    "source": "workday",
+    "source_updated_at": "",
+    "sponsorship_evidence": ""
+  },
   "workday:RTX:/job/US-RI-PORTSMOUTH-PS1--1847-W-Main-Rd--NIMITZ-BLDG/Far-Field-Range-Execution-Lead_01866550": {
     "company": "RTX",
     "enriched_at": "2026-10-10T21:50:15.742257+00:00",
@@ -866991,7 +867506,7 @@
   },
   "workday:RTX:/job/US-TX-MCKINNEY-513WC--2501-W-University-Dr--WING-C-BLDG/Systems-Engineer-II---Anti-Tamper---Program-Protection-P2--Onsite-McKinney--TX-_01877382": {
     "company": "RTX",
-    "enriched_at": "2026-10-08T06:08:46.622742+00:00",
+    "enriched_at": "2026-10-15T11:33:42.761477+00:00",
     "external_id": "/job/US-TX-MCKINNEY-513WC--2501-W-University-Dr--WING-C-BLDG/Systems-Engineer-II---Anti-Tamper---Program-Protection-P2--Onsite-McKinney--TX-_01877382",
     "h1b_mentioned": false,
     "h1b_status": "unknown",
@@ -871025,6 +871540,26 @@
     "source_updated_at": "",
     "sponsorship_evidence": ""
   },
+  "workday:RTX:/job/US-TX-MCKINNEY-513WZ--2501-W-University-Dr--WING-Z-BLDG/Program-Manager_01882024-1": {
+    "company": "RTX",
+    "enriched_at": "2026-10-15T11:33:42.424624+00:00",
+    "external_id": "/job/US-TX-MCKINNEY-513WZ--2501-W-University-Dr--WING-Z-BLDG/Program-Manager_01882024-1",
+    "h1b_mentioned": false,
+    "h1b_status": "unknown",
+    "keywords": [
+      "supply chain",
+      "compliance",
+      "contracts"
+    ],
+    "salary_currency": "",
+    "salary_max": null,
+    "salary_min": null,
+    "salary_period": "",
+    "salary_text": "",
+    "source": "workday",
+    "source_updated_at": "",
+    "sponsorship_evidence": ""
+  },
   "workday:RTX:/job/US-TX-MCKINNEY-513WZ--2501-W-University-Dr--WING-Z-BLDG/Program-Operations-Lead_01879017": {
     "company": "RTX",
     "enriched_at": "2026-10-14T11:58:06.026484+00:00",
@@ -871325,7 +871860,7 @@
   },
   "workday:RTX:/job/US-TX-MCKINNEY-513WZ--2501-W-University-Dr--WING-Z-BLDG/Test-Equipment-Technician---2nd-Shift_01879266": {
     "company": "RTX",
-    "enriched_at": "2026-10-08T06:08:46.412287+00:00",
+    "enriched_at": "2026-10-15T11:33:42.470946+00:00",
     "external_id": "/job/US-TX-MCKINNEY-513WZ--2501-W-University-Dr--WING-Z-BLDG/Test-Equipment-Technician---2nd-Shift_01879266",
     "h1b_mentioned": false,
     "h1b_status": "unknown",
@@ -912638,7 +913173,7 @@
   },
   "workday:Thermo Fisher Scientific:/job/Bridgewater-New-Jersey-USA/DO-NOT-APPLY---TEST-REQ---Engineer-III--Manufacturing-Engineering---Bridgewater-US_R-01369260": {
     "company": "Thermo Fisher Scientific",
-    "enriched_at": "2026-10-08T06:15:07.874007+00:00",
+    "enriched_at": "2026-10-15T11:40:10.539521+00:00",
     "external_id": "/job/Bridgewater-New-Jersey-USA/DO-NOT-APPLY---TEST-REQ---Engineer-III--Manufacturing-Engineering---Bridgewater-US_R-01369260",
     "h1b_mentioned": false,
     "h1b_status": "unknown",
@@ -915017,7 +915552,7 @@
   },
   "workday:Thermo Fisher Scientific:/job/Chicago-Illinois-USA/DO-NOT-APPLY---TEST-REQ---CRG---Customer-Service-Representative-II---Chicago-US_R-01369262": {
     "company": "Thermo Fisher Scientific",
-    "enriched_at": "2026-10-08T06:15:07.871555+00:00",
+    "enriched_at": "2026-10-15T11:40:10.535081+00:00",
     "external_id": "/job/Chicago-Illinois-USA/DO-NOT-APPLY---TEST-REQ---CRG---Customer-Service-Representative-II---Chicago-US_R-01369262",
     "h1b_mentioned": false,
     "h1b_status": "unknown",
@@ -915033,7 +915568,7 @@
   },
   "workday:Thermo Fisher Scientific:/job/Chicago-Illinois-USA/DO-NOT-APPLY---TEST-REQ---CRG---Medical-Investigators-Senior---Chicago-US_R-01369265": {
     "company": "Thermo Fisher Scientific",
-    "enriched_at": "2026-10-08T06:15:07.867267+00:00",
+    "enriched_at": "2026-10-15T11:40:10.527188+00:00",
     "external_id": "/job/Chicago-Illinois-USA/DO-NOT-APPLY---TEST-REQ---CRG---Medical-Investigators-Senior---Chicago-US_R-01369265",
     "h1b_mentioned": false,
     "h1b_status": "unknown",
@@ -916142,7 +916677,7 @@
   },
   "workday:Thermo Fisher Scientific:/job/Collegeville-Pennsylvania-USA/DO-NOT-APPLY---TEST-REQ---CRG---Specialist-III--Clinical-Lab-Scientist---Collegeville-US_R-01369267": {
     "company": "Thermo Fisher Scientific",
-    "enriched_at": "2026-10-08T06:15:07.866939+00:00",
+    "enriched_at": "2026-10-15T11:40:10.526635+00:00",
     "external_id": "/job/Collegeville-Pennsylvania-USA/DO-NOT-APPLY---TEST-REQ---CRG---Specialist-III--Clinical-Lab-Scientist---Collegeville-US_R-01369267",
     "h1b_mentioned": false,
     "h1b_status": "unknown",
@@ -923352,7 +923887,7 @@
   },
   "workday:Thermo Fisher Scientific:/job/Guilford-Connecticut-USA/Scientist-II--Molecular-Biology_R-01369296": {
     "company": "Thermo Fisher Scientific",
-    "enriched_at": "2026-10-08T06:15:07.830986+00:00",
+    "enriched_at": "2026-10-15T11:40:10.462271+00:00",
     "external_id": "/job/Guilford-Connecticut-USA/Scientist-II--Molecular-Biology_R-01369296",
     "h1b_mentioned": false,
     "h1b_status": "does_not_support_h1b",
@@ -924511,7 +925046,7 @@
   },
   "workday:Thermo Fisher Scientific:/job/Hillsboro-Oregon-USA/DO-NOT-APPLY---TEST-REQ---Formulation-Technician-I---Hillsboro-US_R-01369268": {
     "company": "Thermo Fisher Scientific",
-    "enriched_at": "2026-10-08T06:15:07.866004+00:00",
+    "enriched_at": "2026-10-15T11:40:10.525044+00:00",
     "external_id": "/job/Hillsboro-Oregon-USA/DO-NOT-APPLY---TEST-REQ---Formulation-Technician-I---Hillsboro-US_R-01369268",
     "h1b_mentioned": false,
     "h1b_status": "unknown",
@@ -924527,7 +925062,7 @@
   },
   "workday:Thermo Fisher Scientific:/job/Hillsboro-Oregon-USA/DO-NOT-APPLY---TEST-REQ---Medical-Consultants-Medical-Director---Hillsboro-US_R-01369269": {
     "company": "Thermo Fisher Scientific",
-    "enriched_at": "2026-10-08T06:15:07.866311+00:00",
+    "enriched_at": "2026-10-15T11:40:10.525563+00:00",
     "external_id": "/job/Hillsboro-Oregon-USA/DO-NOT-APPLY---TEST-REQ---Medical-Consultants-Medical-Director---Hillsboro-US_R-01369269",
     "h1b_mentioned": false,
     "h1b_status": "unknown",
@@ -924543,7 +925078,7 @@
   },
   "workday:Thermo Fisher Scientific:/job/Hillsboro-Oregon-USA/DO-NOT-APPLY---TEST-REQ---Sr-Sales-Development-Representative---Hillsboro-US_R-01369270": {
     "company": "Thermo Fisher Scientific",
-    "enriched_at": "2026-10-08T06:15:07.865384+00:00",
+    "enriched_at": "2026-10-15T11:40:10.523917+00:00",
     "external_id": "/job/Hillsboro-Oregon-USA/DO-NOT-APPLY---TEST-REQ---Sr-Sales-Development-Representative---Hillsboro-US_R-01369270",
     "h1b_mentioned": false,
     "h1b_status": "unknown",
@@ -924561,7 +925096,7 @@
   },
   "workday:Thermo Fisher Scientific:/job/Hillsboro-Oregon-USA/DO-NOT-APPLY---TEST-REQ---Staff-R-D-Mfg-Scientist---Hillsboro-US_R-01369271": {
     "company": "Thermo Fisher Scientific",
-    "enriched_at": "2026-10-08T06:15:07.865694+00:00",
+    "enriched_at": "2026-10-15T11:40:10.524504+00:00",
     "external_id": "/job/Hillsboro-Oregon-USA/DO-NOT-APPLY---TEST-REQ---Staff-R-D-Mfg-Scientist---Hillsboro-US_R-01369271",
     "h1b_mentioned": false,
     "h1b_status": "unknown",
@@ -926810,7 +927345,7 @@
   },
   "workday:Thermo Fisher Scientific:/job/Madison-Wisconsin-USA/Metrologist_R-01358852": {
     "company": "Thermo Fisher Scientific",
-    "enriched_at": "2026-10-08T06:15:07.839416+00:00",
+    "enriched_at": "2026-10-15T11:40:10.487649+00:00",
     "external_id": "/job/Madison-Wisconsin-USA/Metrologist_R-01358852",
     "h1b_mentioned": false,
     "h1b_status": "does_not_support_h1b",
@@ -928627,7 +929162,7 @@
   },
   "workday:Thermo Fisher Scientific:/job/Middleton-Wisconsin-USA/DO-NOT-APPLY---TEST-REQ---CRG---Specialist--Clinical-Lab-Scientist---Middleton-US_R-01369266": {
     "company": "Thermo Fisher Scientific",
-    "enriched_at": "2026-10-08T06:15:07.866622+00:00",
+    "enriched_at": "2026-10-15T11:40:10.526102+00:00",
     "external_id": "/job/Middleton-Wisconsin-USA/DO-NOT-APPLY---TEST-REQ---CRG---Specialist--Clinical-Lab-Scientist---Middleton-US_R-01369266",
     "h1b_mentioned": false,
     "h1b_status": "unknown",
@@ -929124,7 +929659,7 @@
   },
   "workday:Thermo Fisher Scientific:/job/Middleton-Wisconsin-USA/Metrologist---Stability-Storage_R-01365247": {
     "company": "Thermo Fisher Scientific",
-    "enriched_at": "2026-10-08T06:15:07.843978+00:00",
+    "enriched_at": "2026-10-15T11:40:10.496064+00:00",
     "external_id": "/job/Middleton-Wisconsin-USA/Metrologist---Stability-Storage_R-01365247",
     "h1b_mentioned": false,
     "h1b_status": "does_not_support_h1b",
@@ -934894,7 +935429,7 @@
   },
   "workday:Thermo Fisher Scientific:/job/Pleasanton-California-USA/Senior-Manager--Product-Management---Applied-Omics_R-01365074": {
     "company": "Thermo Fisher Scientific",
-    "enriched_at": "2026-10-08T06:15:07.823939+00:00",
+    "enriched_at": "2026-10-15T11:40:10.470381+00:00",
     "external_id": "/job/Pleasanton-California-USA/Senior-Manager--Product-Management---Applied-Omics_R-01365074",
     "h1b_mentioned": false,
     "h1b_status": "unknown",
@@ -935161,7 +935696,7 @@
   },
   "workday:Thermo Fisher Scientific:/job/Portage-Michigan-USA/DO-NOT-APPLY---TEST-REQ---Sales-Training-Specialist-II---Portage-US_R-01369259": {
     "company": "Thermo Fisher Scientific",
-    "enriched_at": "2026-10-08T06:15:07.876162+00:00",
+    "enriched_at": "2026-10-15T11:40:10.543522+00:00",
     "external_id": "/job/Portage-Michigan-USA/DO-NOT-APPLY---TEST-REQ---Sales-Training-Specialist-II---Portage-US_R-01369259",
     "h1b_mentioned": false,
     "h1b_status": "unknown",
@@ -935447,7 +935982,7 @@
   },
   "workday:Thermo Fisher Scientific:/job/Remote-California-USA/DO-NOT-APPLY---TEST-REQ---Director--Product-Specialists---Carlsbad-US_R-01369257": {
     "company": "Thermo Fisher Scientific",
-    "enriched_at": "2026-10-08T06:15:07.876466+00:00",
+    "enriched_at": "2026-10-15T11:40:10.544052+00:00",
     "external_id": "/job/Remote-California-USA/DO-NOT-APPLY---TEST-REQ---Director--Product-Specialists---Carlsbad-US_R-01369257",
     "h1b_mentioned": false,
     "h1b_status": "unknown",
@@ -935463,7 +935998,7 @@
   },
   "workday:Thermo Fisher Scientific:/job/Remote-California-USA/DO-NOT-APPLY---TEST-REQ---Sr-Executive-Assistant--E----Carlsbad-US_R-01369264": {
     "company": "Thermo Fisher Scientific",
-    "enriched_at": "2026-10-08T06:15:07.869411+00:00",
+    "enriched_at": "2026-10-15T11:40:10.531092+00:00",
     "external_id": "/job/Remote-California-USA/DO-NOT-APPLY---TEST-REQ---Sr-Executive-Assistant--E----Carlsbad-US_R-01369264",
     "h1b_mentioned": false,
     "h1b_status": "unknown",
@@ -937383,7 +937918,7 @@
   },
   "workday:Thermo Fisher Scientific:/job/Remote-New-York-USA/DO-NOT-APPLY---TEST-REQ---Sales-Operations-Analyst-II---Rochester-US_R-01369258": {
     "company": "Thermo Fisher Scientific",
-    "enriched_at": "2026-10-08T06:15:07.878593+00:00",
+    "enriched_at": "2026-10-15T11:40:10.547947+00:00",
     "external_id": "/job/Remote-New-York-USA/DO-NOT-APPLY---TEST-REQ---Sales-Operations-Analyst-II---Rochester-US_R-01369258",
     "h1b_mentioned": false,
     "h1b_status": "unknown",
@@ -937832,7 +938367,7 @@
   },
   "workday:Thermo Fisher Scientific:/job/Remote-North-Carolina-USA/DO-NOT-APPLY---TEST-REQ---CRG---Med-Information-Nurse-I---Morrisville-US_R-01369261": {
     "company": "Thermo Fisher Scientific",
-    "enriched_at": "2026-10-08T06:15:07.873694+00:00",
+    "enriched_at": "2026-10-15T11:40:10.538984+00:00",
     "external_id": "/job/Remote-North-Carolina-USA/DO-NOT-APPLY---TEST-REQ---CRG---Med-Information-Nurse-I---Morrisville-US_R-01369261",
     "h1b_mentioned": false,
     "h1b_status": "unknown",
@@ -944758,7 +945293,7 @@
   },
   "workday:Thermo Fisher Scientific:/job/St-Louis-Missouri-USA/DO-NOT-APPLY---TEST-REQ---CRG----DO-NOT-USE--CRA--Level-II----St-Louis-US_R-01369252": {
     "company": "Thermo Fisher Scientific",
-    "enriched_at": "2026-10-08T06:15:07.885267+00:00",
+    "enriched_at": "2026-10-15T11:40:10.560360+00:00",
     "external_id": "/job/St-Louis-Missouri-USA/DO-NOT-APPLY---TEST-REQ---CRG----DO-NOT-USE--CRA--Level-II----St-Louis-US_R-01369252",
     "h1b_mentioned": false,
     "h1b_status": "unknown",
@@ -944774,7 +945309,7 @@
   },
   "workday:Thermo Fisher Scientific:/job/St-Louis-Missouri-USA/DO-NOT-APPLY---TEST-REQ---CRG---Medical-Affairs-Programming-Specialist---St-Louis-US_R-01369243-1": {
     "company": "Thermo Fisher Scientific",
-    "enriched_at": "2026-10-08T06:15:07.887475+00:00",
+    "enriched_at": "2026-10-15T11:40:10.564156+00:00",
     "external_id": "/job/St-Louis-Missouri-USA/DO-NOT-APPLY---TEST-REQ---CRG---Medical-Affairs-Programming-Specialist---St-Louis-US_R-01369243-1",
     "h1b_mentioned": false,
     "h1b_status": "unknown",
@@ -944790,7 +945325,7 @@
   },
   "workday:Thermo Fisher Scientific:/job/St-Louis-Missouri-USA/DO-NOT-APPLY---TEST-REQ---CRG---Medical-Consultants-Medical-Director---St-Louis-US_R-01369240": {
     "company": "Thermo Fisher Scientific",
-    "enriched_at": "2026-10-08T06:15:07.888423+00:00",
+    "enriched_at": "2026-10-15T11:40:10.565779+00:00",
     "external_id": "/job/St-Louis-Missouri-USA/DO-NOT-APPLY---TEST-REQ---CRG---Medical-Consultants-Medical-Director---St-Louis-US_R-01369240",
     "h1b_mentioned": false,
     "h1b_status": "unknown",
@@ -944806,7 +945341,7 @@
   },
   "workday:Thermo Fisher Scientific:/job/St-Louis-Missouri-USA/DO-NOT-APPLY---TEST-REQ---CRG---Medical-Investigators-Team-Leader---St-Louis-US_R-01369242": {
     "company": "Thermo Fisher Scientific",
-    "enriched_at": "2026-10-08T06:15:07.887792+00:00",
+    "enriched_at": "2026-10-15T11:40:10.564699+00:00",
     "external_id": "/job/St-Louis-Missouri-USA/DO-NOT-APPLY---TEST-REQ---CRG---Medical-Investigators-Team-Leader---St-Louis-US_R-01369242",
     "h1b_mentioned": false,
     "h1b_status": "unknown",
@@ -944822,7 +945357,7 @@
   },
   "workday:Thermo Fisher Scientific:/job/St-Louis-Missouri-USA/DO-NOT-APPLY---TEST-REQ---CRG---Medical-Monitor-Sr-Manager---St-Louis-US_R-01369244": {
     "company": "Thermo Fisher Scientific",
-    "enriched_at": "2026-10-08T06:15:07.886847+00:00",
+    "enriched_at": "2026-10-15T11:40:10.563085+00:00",
     "external_id": "/job/St-Louis-Missouri-USA/DO-NOT-APPLY---TEST-REQ---CRG---Medical-Monitor-Sr-Manager---St-Louis-US_R-01369244",
     "h1b_mentioned": false,
     "h1b_status": "unknown",
@@ -944838,7 +945373,7 @@
   },
   "workday:Thermo Fisher Scientific:/job/St-Louis-Missouri-USA/DO-NOT-APPLY---TEST-REQ---CRG---Scientific-Affairs-Senior---St-Louis-US_R-01369241-1": {
     "company": "Thermo Fisher Scientific",
-    "enriched_at": "2026-10-08T06:15:07.888113+00:00",
+    "enriched_at": "2026-10-15T11:40:10.565249+00:00",
     "external_id": "/job/St-Louis-Missouri-USA/DO-NOT-APPLY---TEST-REQ---CRG---Scientific-Affairs-Senior---St-Louis-US_R-01369241-1",
     "h1b_mentioned": false,
     "h1b_status": "unknown",
@@ -944854,7 +945389,7 @@
   },
   "workday:Thermo Fisher Scientific:/job/St-Louis-Missouri-USA/DO-NOT-APPLY---TEST-REQ---CRG---Specialist--Clinical-Lab-Scientist---St-Louis-US_R-01369249": {
     "company": "Thermo Fisher Scientific",
-    "enriched_at": "2026-10-08T06:15:07.885894+00:00",
+    "enriched_at": "2026-10-15T11:40:10.561432+00:00",
     "external_id": "/job/St-Louis-Missouri-USA/DO-NOT-APPLY---TEST-REQ---CRG---Specialist--Clinical-Lab-Scientist---St-Louis-US_R-01369249",
     "h1b_mentioned": false,
     "h1b_status": "unknown",
@@ -944870,7 +945405,7 @@
   },
   "workday:Thermo Fisher Scientific:/job/St-Louis-Missouri-USA/DO-NOT-APPLY---TEST-REQ---CRG---Sr-Manager-Trial-Project-Management---St-Louis-US_R-01369246": {
     "company": "Thermo Fisher Scientific",
-    "enriched_at": "2026-10-08T06:15:07.886214+00:00",
+    "enriched_at": "2026-10-15T11:40:10.561976+00:00",
     "external_id": "/job/St-Louis-Missouri-USA/DO-NOT-APPLY---TEST-REQ---CRG---Sr-Manager-Trial-Project-Management---St-Louis-US_R-01369246",
     "h1b_mentioned": false,
     "h1b_status": "unknown",
@@ -944886,7 +945421,7 @@
   },
   "workday:Thermo Fisher Scientific:/job/St-Louis-Missouri-USA/DO-NOT-APPLY---TEST-REQ---CRG---Trial-Project-Oversight-Director---St-Louis-US_R-01369247": {
     "company": "Thermo Fisher Scientific",
-    "enriched_at": "2026-10-08T06:15:07.886531+00:00",
+    "enriched_at": "2026-10-15T11:40:10.562531+00:00",
     "external_id": "/job/St-Louis-Missouri-USA/DO-NOT-APPLY---TEST-REQ---CRG---Trial-Project-Oversight-Director---St-Louis-US_R-01369247",
     "h1b_mentioned": false,
     "h1b_status": "unknown",
@@ -944902,7 +945437,7 @@
   },
   "workday:Thermo Fisher Scientific:/job/St-Louis-Missouri-USA/DO-NOT-APPLY---TEST-REQ---CRG---Trial-management-Manager---St-Louis-US_R-01369245": {
     "company": "Thermo Fisher Scientific",
-    "enriched_at": "2026-10-08T06:15:07.887165+00:00",
+    "enriched_at": "2026-10-15T11:40:10.563618+00:00",
     "external_id": "/job/St-Louis-Missouri-USA/DO-NOT-APPLY---TEST-REQ---CRG---Trial-management-Manager---St-Louis-US_R-01369245",
     "h1b_mentioned": false,
     "h1b_status": "unknown",
@@ -944918,7 +945453,7 @@
   },
   "workday:Thermo Fisher Scientific:/job/St-Louis-Missouri-USA/DO-NOT-APPLY---TEST-REQ---Executive-Assistant--NE----St-Louis-US_R-01369253": {
     "company": "Thermo Fisher Scientific",
-    "enriched_at": "2026-10-08T06:15:07.885587+00:00",
+    "enriched_at": "2026-10-15T11:40:10.560898+00:00",
     "external_id": "/job/St-Louis-Missouri-USA/DO-NOT-APPLY---TEST-REQ---Executive-Assistant--NE----St-Louis-US_R-01369253",
     "h1b_mentioned": false,
     "h1b_status": "unknown",
@@ -944934,7 +945469,7 @@
   },
   "workday:Thermo Fisher Scientific:/job/St-Louis-Missouri-USA/DO-NOT-APPLY---TEST-REQ---Sr-Executive-Assistant--E----St-Louis-US_R-01369254": {
     "company": "Thermo Fisher Scientific",
-    "enriched_at": "2026-10-08T06:15:07.884952+00:00",
+    "enriched_at": "2026-10-15T11:40:10.559813+00:00",
     "external_id": "/job/St-Louis-Missouri-USA/DO-NOT-APPLY---TEST-REQ---Sr-Executive-Assistant--E----St-Louis-US_R-01369254",
     "h1b_mentioned": false,
     "h1b_status": "unknown",
@@ -946710,7 +947245,7 @@
   },
   "workday:Thermo Fisher Scientific:/job/Suwanee-Georgia-USA/Warehouse-Worker-II---First-Shift_R-01369485": {
     "company": "Thermo Fisher Scientific",
-    "enriched_at": "2026-10-08T06:15:07.837395+00:00",
+    "enriched_at": "2026-10-15T11:40:10.483851+00:00",
     "external_id": "/job/Suwanee-Georgia-USA/Warehouse-Worker-II---First-Shift_R-01369485",
     "h1b_mentioned": false,
     "h1b_status": "unknown",
@@ -947621,7 +948156,7 @@
   },
   "workday:Thermo Fisher Scientific:/job/Waltham-Massachusetts-USA/Customs-Director_R-01368955": {
     "company": "Thermo Fisher Scientific",
-    "enriched_at": "2026-10-08T06:15:07.848574+00:00",
+    "enriched_at": "2026-10-15T11:40:10.449787+00:00",
     "external_id": "/job/Waltham-Massachusetts-USA/Customs-Director_R-01368955",
     "h1b_mentioned": false,
     "h1b_status": "unknown",
@@ -947671,7 +948206,7 @@
   },
   "workday:Thermo Fisher Scientific:/job/Waltham-Massachusetts-USA/DO-NOT-APPLY---TEST-REQ---CRG---Sr-Manager--Sales---Waltham-US_R-01369239": {
     "company": "Thermo Fisher Scientific",
-    "enriched_at": "2026-10-08T06:15:07.888740+00:00",
+    "enriched_at": "2026-10-15T11:40:10.566332+00:00",
     "external_id": "/job/Waltham-Massachusetts-USA/DO-NOT-APPLY---TEST-REQ---CRG---Sr-Manager--Sales---Waltham-US_R-01369239",
     "h1b_mentioned": false,
     "h1b_status": "unknown",
@@ -947689,7 +948224,7 @@
   },
   "workday:Thermo Fisher Scientific:/job/Waltham-Massachusetts-USA/DO-NOT-APPLY---TEST-REQ---HR-Generalist-II---Waltham-US_R-01369255": {
     "company": "Thermo Fisher Scientific",
-    "enriched_at": "2026-10-08T06:15:07.882827+00:00",
+    "enriched_at": "2026-10-15T11:40:10.555824+00:00",
     "external_id": "/job/Waltham-Massachusetts-USA/DO-NOT-APPLY---TEST-REQ---HR-Generalist-II---Waltham-US_R-01369255",
     "h1b_mentioned": false,
     "h1b_status": "unknown",
@@ -947705,7 +948240,7 @@
   },
   "workday:Thermo Fisher Scientific:/job/Waltham-Massachusetts-USA/DO-NOT-APPLY---TEST-REQ---Team-Leader--Field-Service---Waltham-US_R-01369238": {
     "company": "Thermo Fisher Scientific",
-    "enriched_at": "2026-10-08T06:15:07.890827+00:00",
+    "enriched_at": "2026-10-15T11:40:10.570166+00:00",
     "external_id": "/job/Waltham-Massachusetts-USA/DO-NOT-APPLY---TEST-REQ---Team-Leader--Field-Service---Waltham-US_R-01369238",
     "h1b_mentioned": false,
     "h1b_status": "unknown",
@@ -947721,7 +948256,7 @@
   },
   "workday:Thermo Fisher Scientific:/job/Waltham-Massachusetts-USA/DO-NOT-APPLY---TEST-REQ---Vice-President-General-Manager--Country-Region--11----Waltham-US_R-01369256": {
     "company": "Thermo Fisher Scientific",
-    "enriched_at": "2026-10-08T06:15:07.880685+00:00",
+    "enriched_at": "2026-10-15T11:40:10.551881+00:00",
     "external_id": "/job/Waltham-Massachusetts-USA/DO-NOT-APPLY---TEST-REQ---Vice-President-General-Manager--Country-Region--11----Waltham-US_R-01369256",
     "h1b_mentioned": false,
     "h1b_status": "unknown",
@@ -947852,7 +948387,7 @@
   },
   "workday:Thermo Fisher Scientific:/job/Waltham-Massachusetts-USA/Executive-Assistant---LPG-HR---Finance_R-01368019-1": {
     "company": "Thermo Fisher Scientific",
-    "enriched_at": "2026-10-08T06:15:07.854998+00:00",
+    "enriched_at": "2026-10-15T11:40:10.504799+00:00",
     "external_id": "/job/Waltham-Massachusetts-USA/Executive-Assistant---LPG-HR---Finance_R-01368019-1",
     "h1b_mentioned": false,
     "h1b_status": "does_not_support_h1b",
@@ -947872,7 +948407,7 @@
   },
   "workday:Thermo Fisher Scientific:/job/Waltham-Massachusetts-USA/Executive-Assistant---Laboratory-Plastics-Essentials_R-01368740": {
     "company": "Thermo Fisher Scientific",
-    "enriched_at": "2026-10-08T06:15:07.860106+00:00",
+    "enriched_at": "2026-10-15T11:40:10.514085+00:00",
     "external_id": "/job/Waltham-Massachusetts-USA/Executive-Assistant---Laboratory-Plastics-Essentials_R-01368740",
     "h1b_mentioned": false,
     "h1b_status": "does_not_support_h1b",
@@ -994149,6 +994684,26 @@
     "source_updated_at": "",
     "sponsorship_evidence": ""
   },
+  "workday:U.S. Bancorp:/job/Minneapolis-MN/Software-Engineer-1---ServiceNow---Financial-Service-Operations_2026-0030980-1": {
+    "company": "U.S. Bancorp",
+    "enriched_at": "2026-10-15T11:40:14.052294+00:00",
+    "external_id": "/job/Minneapolis-MN/Software-Engineer-1---ServiceNow---Financial-Service-Operations_2026-0030980-1",
+    "h1b_mentioned": false,
+    "h1b_status": "does_not_support_h1b",
+    "keywords": [
+      "JavaScript",
+      "Excel",
+      "compliance"
+    ],
+    "salary_currency": "",
+    "salary_max": null,
+    "salary_min": null,
+    "salary_period": "",
+    "salary_text": "",
+    "source": "workday",
+    "source_updated_at": "",
+    "sponsorship_evidence": "ancial Service Operations - Banking & Wealth is a nice to have This position is not eligible for visa sponsorship Location expectations This role requires working from a U."
+  },
   "workday:U.S. Bancorp:/job/Minneapolis-MN/Software-Engineer-2----Front-End-_2026-0030557": {
     "company": "U.S. Bancorp",
     "enriched_at": "2026-10-07T06:14:50.575190+00:00",
@@ -1002128,7 +1002683,7 @@
   },
   "workday:U.S. Bancorp:/job/San-Gabriel-CA/Float-Client-Relationship-Consultant-3--Banker----Las-Tunas--CA--36hrs-_2026-0025385": {
     "company": "U.S. Bancorp",
-    "enriched_at": "2026-08-15T02:00:15.681113+00:00",
+    "enriched_at": "2026-10-15T11:40:14.063790+00:00",
     "external_id": "/job/San-Gabriel-CA/Float-Client-Relationship-Consultant-3--Banker----Las-Tunas--CA--36hrs-_2026-0025385",
     "h1b_mentioned": false,
     "h1b_status": "unknown",
@@ -1011124,6 +1011679,25 @@
     "source_updated_at": "",
     "sponsorship_evidence": ""
   },
+  "workday:Visa:/job/IN---Bengaluru-India/Senior-SW-Engineer--3---5-years-of-exp-in-Full-stack-development-with-Net--React---Angular-and-GenAI-_REF089285W": {
+    "company": "Visa",
+    "enriched_at": "2026-10-15T11:29:23.562504+00:00",
+    "external_id": "/job/IN---Bengaluru-India/Senior-SW-Engineer--3---5-years-of-exp-in-Full-stack-development-with-Net--React---Angular-and-GenAI-_REF089285W",
+    "h1b_mentioned": false,
+    "h1b_status": "unknown",
+    "keywords": [
+      "React",
+      "compliance"
+    ],
+    "salary_currency": "",
+    "salary_max": null,
+    "salary_min": null,
+    "salary_period": "",
+    "salary_text": "",
+    "source": "workday",
+    "source_updated_at": "",
+    "sponsorship_evidence": ""
+  },
   "workday:Visa:/job/IN---Bengaluru-India/Senior-Software-Engineer---Java--API-s--Microservices--Angular-React--Bigdata--GenAI_REF088747W": {
     "company": "Visa",
     "enriched_at": "2026-09-28T13:54:56.972295+00:00",
@@ -1012881,7 +1013455,7 @@
   },
   "workday:Visa:/job/IN---Bengaluru-India/Staff-Software-Engineer_REF087726W": {
     "company": "Visa",
-    "enriched_at": "2026-10-07T23:07:39.207145+00:00",
+    "enriched_at": "2026-10-15T11:29:23.552803+00:00",
     "external_id": "/job/IN---Bengaluru-India/Staff-Software-Engineer_REF087726W",
     "h1b_mentioned": false,
     "h1b_status": "unknown",
@@ -1034776,7 +1035350,7 @@
   },
   "workday:Walt Disney:/job/New-York-NY-USA/ABC-News-Production-Internships--New-York--Spring-2027_10162621": {
     "company": "Walt Disney",
-    "enriched_at": "2026-10-08T06:06:40.504639+00:00",
+    "enriched_at": "2026-10-15T11:31:18.093338+00:00",
     "external_id": "/job/New-York-NY-USA/ABC-News-Production-Internships--New-York--Spring-2027_10162621",
     "h1b_mentioned": false,
     "h1b_status": "unknown",
