@@ -1,12 +1,12 @@
 # F500Tracker internships
 
-Last updated: October 18, 2026 at 16:02 UTC
+Last updated: October 18, 2026 at 20:53 UTC
 
-Current internships: 585
+Current internships: 586
 
 ## Categories
 
-[Software & IT (52)](#software-it) · [Data & AI (10)](#data-ai) · [Product & Design (1)](#product-design) · [Engineering (65)](#engineering) · [Finance & Accounting (11)](#finance-accounting) · [Sales & Marketing (10)](#sales-marketing) · [Operations & Supply Chain (38)](#operations-supply-chain) · [People & Legal (6)](#people-legal) · [Other (392)](#other)
+[Software & IT (52)](#software-it) · [Data & AI (10)](#data-ai) · [Product & Design (1)](#product-design) · [Engineering (66)](#engineering) · [Finance & Accounting (11)](#finance-accounting) · [Sales & Marketing (10)](#sales-marketing) · [Operations & Supply Chain (38)](#operations-supply-chain) · [People & Legal (6)](#people-legal) · [Other (392)](#other)
 
 <a id="software-it"></a>
 
@@ -108,7 +108,7 @@ Open positions: 1
 
 ## Engineering
 
-Open positions: 65
+Open positions: 66
 
 | Rank | Company | Position | Location | Category | Salary | Keywords | Sponsorship | Apply |
 |---:|---|---|---|---|---|---|---|---|
@@ -121,6 +121,7 @@ Open positions: 65
 | 45 | Johnson & Johnson | Beatbox Electrical Engineering Co-op | Danvers, Massachusetts, United States of America | Engineering | $23.5/hr | Python · electrical engineering | Not specified | [Apply](https://jj.wd5.myworkdayjobs.com/en-US/JJ/job/Danvers-Massachusetts-United-States-of-America/Beatbox-Electrical-Engineering-Co-op_R-101679) |
 | 45 | Johnson & Johnson | Electrical Engineering Co-Op, Summer 2027 | Cincinnati, Ohio, United States of America | Engineering | $23.5/hr | Python · risk management · electrical engineering · recruiting | Not specified | [Apply](https://jj.wd5.myworkdayjobs.com/en-US/JJ/job/Cincinnati-Ohio-United-States-of-America/Electrical-Engineering-Co-Op--Summer-2027_R-096736) |
 | 45 | Johnson & Johnson | Electrical Engineering Co-Op, Spring 2027 | Cincinnati, Ohio, United States of America | Engineering | Not disclosed | Python · risk management · electrical engineering · recruiting | Not specified | [Apply](https://jj.wd5.myworkdayjobs.com/en-US/JJ/job/Cincinnati-Ohio-United-States-of-America/Electrical-Engineer-Co-Op--Spring-2027_R-095700) |
+| 49 | RTX | Mechanical Automation Engineering Intern (Summer 2027) | US-TX-MCKINNEY-513WZS ~ 2501 W University Dr ~ WZS BLDG | Engineering | Not disclosed | Excel · mechanical engineering · CAD · compliance | Not specified | [Apply](https://globalhr.wd5.myworkdayjobs.com/en-US/REC_RTX_Ext_Gateway/job/US-TX-MCKINNEY-513WZS--2501-W-University-Dr--WZS-BLDG/Mechanical-Automation-Engineering-Intern--Summer-2027-_01881162) |
 | 49 | RTX | CA Intern (Industrial Trainee) | IN-DL-NEW DELHI-WM2 ~ Asset Area No 8 ~ WORLDMARK 2, Unit No 505 & 506, 5th Flr | Engineering | Not disclosed | accounting · audit · recruiting | Not specified | [Apply](https://globalhr.wd5.myworkdayjobs.com/en-US/REC_RTX_Ext_Gateway/job/IN-DL-NEW-DELHI-WM2--Asset-Area-No-8--WORLDMARK-2-Unit-No-505--506-5th-Flr/CA-Intern--Industrial-Trainee-_01882516) |
 | 49 | RTX | Mechanical Design Engineering Intern (Summer 2027) | US-MN-BURNSVILLE-WEST ~ 14300 Judicial Rd ~ WEST BLDG | Engineering | Not disclosed | Excel · mechanical engineering · CAD · SolidWorks · compliance | Not specified | [Apply](https://globalhr.wd5.myworkdayjobs.com/en-US/REC_RTX_Ext_Gateway/job/US-MN-BURNSVILLE-WEST--14300-Judicial-Rd--WEST-BLDG/Mechanical-Design-Engineering-Intern--Summer-2027-_01870956) |
 | 49 | RTX | Electrical Engineering Intern (Summer 2027)(Onsite) | US-MA-MARLBOROUGH-MA1 ~ 1001 Boston Post Rd ~ BLDG 1 | Engineering | Not disclosed | electrical engineering · compliance | Not specified | [Apply](https://globalhr.wd5.myworkdayjobs.com/en-US/REC_RTX_Ext_Gateway/job/US-MA-MARLBOROUGH-MA1--1001-Boston-Post-Rd--BLDG-1/Electrical-Engineering-Intern--Summer-2027--Onsite-_01882705) |
