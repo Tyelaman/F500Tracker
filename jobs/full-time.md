@@ -1,18 +1,18 @@
 # F500Tracker full-time positions
 
-Last updated: October 18, 2026 at 11:14 UTC
+Last updated: October 18, 2026 at 16:02 UTC
 
-Current positions: 14885
+Current positions: 14877
 
 ## Categories
 
-[Software & IT (2075)](#software-it) · [Data & AI (207)](#data-ai) · [Product & Design (116)](#product-design) · [Engineering (1056)](#engineering) · [Finance & Accounting (259)](#finance-accounting) · [Sales & Marketing (1109)](#sales-marketing) · [Operations & Supply Chain (880)](#operations-supply-chain) · [People & Legal (145)](#people-legal) · [Other (9038)](#other)
+[Software & IT (2072)](#software-it) · [Data & AI (205)](#data-ai) · [Product & Design (117)](#product-design) · [Engineering (1056)](#engineering) · [Finance & Accounting (258)](#finance-accounting) · [Sales & Marketing (1108)](#sales-marketing) · [Operations & Supply Chain (879)](#operations-supply-chain) · [People & Legal (145)](#people-legal) · [Other (9037)](#other)
 
 <a id="software-it"></a>
 
 ## Software & IT
 
-Open positions: 2075
+Open positions: 2072
 
 | Rank | Company | Position | Location | Category | Salary | Keywords | Sponsorship | Apply |
 |---:|---|---|---|---|---|---|---|---|
@@ -149,9 +149,6 @@ Open positions: 2075
 | 16 | NVIDIA | Distinguished Engineer, Security Architecture  - DGX Cloud | US, WA, Remote | Software & IT | Not disclosed | Kubernetes · artificial intelligence · electrical engineering · supply chain · recruiting | Not specified | [Apply](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-WA-Remote/Distinguished-Engineer--Security-Architecture----DGX-Cloud_JR2026131) |
 | 16 | NVIDIA | Senior Systems Software Engineer, Data Center Platform Enablement | US, CA, Santa Clara | Software & IT | Not disclosed | Python · electrical engineering · recruiting | Not specified | [Apply](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Systems-Software-Engineer--Data-Center-Platform-Enablement_JR2019870) |
 | 16 | NVIDIA | Senior Software Engineer, NCCL | US, CA, Santa Clara | Software & IT | Not disclosed | artificial intelligence · recruiting | Not specified | [Apply](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Software-Engineer--GPU-Communications-and-Networking_JR1997186) |
-| 16 | NVIDIA | Senior Staff Software Engineer - AI Agent Platform | US, CA, Santa Clara | Software & IT | Not disclosed | Python · React · Kubernetes · PostgreSQL · recruiting | Not specified | [Apply](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Staff-Software-Engineer---AI-Agent-Platform_JR2027565) |
-| 16 | NVIDIA | Senior System Software Engineer, Display Security | US, CA, Santa Clara | Software & IT | Not disclosed | electrical engineering · recruiting · compliance | Not specified | [Apply](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-System-Software-Engineer--Display-Security_JR2028224) |
-| 16 | NVIDIA | Senior Software Engineer — MD Simulation Engineering | US, CA, Santa Clara | Software & IT | Not disclosed | recruiting | Not specified | [Apply](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Software-Engineer---MD-Simulation-Engineering_JR2018333) |
 | 63 | Capital One | Full-stack Engineer 4 | Plano, TX | Software & IT | Not disclosed | Python · Java · C# · JavaScript · TypeScript | No sponsorship for this position | [Apply](https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/Plano-TX/Full-stack-Engineer-4_R1001712-1) |
 | 63 | Capital One | Full-stack Engineer 4 | McLean, VA | Software & IT | Not disclosed | Python · Java · C# · JavaScript · TypeScript | No sponsorship for this position | [Apply](https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/McLean-VA/Full-stack-Engineer-4_R1003751) |
 | 63 | Capital One | Lead Software Engineer | Bangalore, In | Software & IT | Not disclosed | Python · Java · JavaScript · TypeScript · AWS | No sponsorship for this position | [Apply](https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/Bangalore-In/Lead-Software-Engineer_R999362) |
@@ -2098,7 +2095,7 @@ Open positions: 2075
 
 ## Data & AI
 
-Open positions: 207
+Open positions: 205
 
 | Rank | Company | Position | Location | Category | Salary | Keywords | Sponsorship | Apply |
 |---:|---|---|---|---|---|---|---|---|
@@ -2178,7 +2175,6 @@ Open positions: 207
 | 376 | Oscar Health | Workday Reporting & Analytics Lead, People Analytics | New York, New York, United States | Data & AI | $101.844k–$133.67k/yr | artificial intelligence · analytics · audit · recruiting · compliance | Not specified | [Apply](https://job-boards.greenhouse.io/oscar/jobs/8056691) |
 | 191 | Block | Senior ML/AI Modeler, Risk Automation Machine Learning | Bay Area, CA, United States of America | Data & AI | Not disclosed | Python · AWS · GCP · machine learning · data science | Not specified | [Apply](http://block.xyz/careers/jobs/5394441008?gh_jid=5394441008) |
 | 430 | Workday | AI Engineer | USA, CA, Pleasanton | Data & AI | Not disclosed | Python · recruiting | Not specified | [Apply](https://workday.wd5.myworkdayjobs.com/en-US/Workday/job/USA-CA-Pleasanton/AI-Engineer_JR-0110881) |
-| 16 | NVIDIA | Machine Learning Engineer, GeForce G-Assist | US, CA, Santa Clara | Data & AI | Not disclosed | Python · machine learning · data science · recruiting | Not specified | [Apply](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Machine-Learning-Engineer--GeForce-G-Assist_JR2027676-1) |
 | 63 | Capital One | Data Engineer 4, Real-time Data Platform | Plano, TX | Data & AI | Not disclosed | Python · Java · SQL · AWS · Azure | No sponsorship for this position | [Apply](https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/Plano-TX/Data-Engineer-4--Real-time-Data-Platform_R1003879-1) |
 | 63 | Capital One | Sr. Business Analyst - Talent Marketing Analytics | McLean, VA | Data & AI | Not disclosed | Python · SQL · analytics · accounting · mechanical engineering | Not specified | [Apply](https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/McLean-VA/Sr-Business-Analyst---Talent-Marketing-Analytics_R1003774-1) |
 | 63 | Capital One | Data Engineer 4, Auto Data Platforms | Plano, TX | Data & AI | Not disclosed | Python · Java · SQL · AWS · Azure | No sponsorship for this position | [Apply](https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/Plano-TX/Data-Engineer-4--Auto-Data-Platforms_R1003878-1) |
@@ -2244,7 +2240,6 @@ Open positions: 207
 | 125 | Micron Technology | Sr AI Engineer, Platform | Boise, ID - Main Site | Data & AI | Not disclosed | Kubernetes · Terraform · machine learning · data science · analytics | Not specified | [Apply](https://micron.wd1.myworkdayjobs.com/en-US/External/job/Boise-ID---Main-Site/Sr-AI-Engineer--Platform_JR112174) |
 | 125 | Micron Technology | Package Design and Development Quality Assurance Engineer - Data Analytics | Boise, ID - Main Site | Data & AI | Not disclosed | Python · Java · JavaScript · SQL · React | Not specified | [Apply](https://micron.wd1.myworkdayjobs.com/en-US/External/job/Boise-ID---Main-Site/Package-Design-and-Development-Quality-Assurance-Engineer---Data-Analytics_JR112059) |
 | 125 | Micron Technology | Product Yield & Analytics PYAi Engineer | Boise, ID - Main Site | Data & AI | Not disclosed | machine learning · data science · analytics · electrical engineering | Not specified | [Apply](https://micron.wd1.myworkdayjobs.com/en-US/External/job/Boise-ID---Main-Site/Product-Yield---Analytics-PYAi-Engineer_JR99163-1) |
-| 14 | Cigna Group | Business Analytics Lead Analyst - Remote | United States Work at Home | Data & AI | Not disclosed | Python · SQL · machine learning · data science · analytics | Not specified | [Apply](https://cigna.wd5.myworkdayjobs.com/en-US/cignacareers/job/United-States-Work-at-Home/Business-Analytics-Lead-Analyst---Remote_26008144) |
 | 19 | Centene | Lead Data Engineer | Remote-MO | Data & AI | $102.9k–$190.5k/yr | SQL · analytics | Not specified | [Apply](https://centene.wd5.myworkdayjobs.com/en-US/centene_external/job/Remote-MO/Lead-Data-Engineer_1655650) |
 | 26 | Fannie Mae | Principal--Data, Analytics & AI Architect | Reston, VA | Data & AI | Not disclosed | AWS · machine learning · artificial intelligence · data science · analytics | Not specified | [Apply](https://fanniemae.wd1.myworkdayjobs.com/en-US/FannieMaeCareers/job/Reston-VA/Principal--Data--Analytics---AI-Architect_JR2809) |
 | 26 | Fannie Mae | Lead Business Intelligence & AI Solutions Analyst – Single Family | Plano, TX | Data & AI | Not disclosed | Python · SQL · AWS · machine learning · artificial intelligence | Not specified | [Apply](https://fanniemae.wd1.myworkdayjobs.com/en-US/FannieMaeCareers/job/Plano-TX/Lead-Business-Intelligence---AI-Solutions-Analyst---Single-Family_JR2952-1) |
@@ -2316,7 +2311,7 @@ Open positions: 207
 
 ## Product & Design
 
-Open positions: 116
+Open positions: 117
 
 | Rank | Company | Position | Location | Category | Salary | Keywords | Sponsorship | Apply |
 |---:|---|---|---|---|---|---|---|---|
@@ -2401,6 +2396,7 @@ Open positions: 116
 | 64 | Allstate | Digital Product Manager - Data Security | US - Remote | Product & Design | Not disclosed | AWS · Azure · GCP · analytics · risk management | No sponsorship for this position | [Apply](https://allstate.wd5.myworkdayjobs.com/en-US/allstate_careers/job/US---Remote/Digital-Product-Manager---Data-Security_R35710-1) |
 | 64 | Allstate | Product Management (Technical) Lead Consultant | USA - NY (Remote) | Product & Design | Not disclosed | Python · SQL · AWS · Azure · machine learning | No sponsorship for this position | [Apply](https://allstate.wd5.myworkdayjobs.com/en-US/allstate_careers/job/USA---NY-Remote/Product-Management--Technical--Lead-Consultant_R35988-1) |
 | 83 | Cisco Systems | Leader, Business Product Management | San Jose, California, US | Product & Design | Not disclosed | supply chain · sales | Not specified | [Apply](https://cisco.wd5.myworkdayjobs.com/en-US/Cisco_Careers/job/San-Jose-California-US/Leader--Business-Product-Management_2027076) |
+| 83 | Cisco Systems | UI Desktop Engineer Hybird, North Carolina Hybrid | RTP, North Carolina, US | Product & Design | Not disclosed | C# · JavaScript · TypeScript · Node.js · GCP | Not specified | [Apply](https://cisco.wd5.myworkdayjobs.com/en-US/Cisco_Careers/job/RTP-North-Carolina-US/UI-Desktop-Engineer-Hybird--North-Carolina-Hybrid_2023263) |
 | 83 | Cisco Systems | Product Designer, Leader Development | RTP, North Carolina, US | Product & Design | Not disclosed | sales · human resources | Not specified | [Apply](https://cisco.wd5.myworkdayjobs.com/en-US/Cisco_Careers/job/RTP-North-Carolina-US/Talent-Management-Consultant_2027003) |
 | 83 | Cisco Systems | Engineering Product Manager | San Jose, California, US | Product & Design | Not disclosed | Kubernetes · audit · sales · compliance · legal | Not specified | [Apply](https://cisco.wd5.myworkdayjobs.com/en-US/Cisco_Careers/job/San-Jose-California-US/Engineering-Product-Manager_2026770) |
 | 83 | Cisco Systems | Executive Assistant, VP, Product Management - AI (Hybrid) | San Jose, California, US | Product & Design | Not disclosed | Excel · logistics · sales | Not specified | [Apply](https://cisco.wd5.myworkdayjobs.com/en-US/Cisco_Careers/job/San-Jose-California-US/Executive-Assistant--VP--Product-Management---AI--Hybrid-_2027013) |
@@ -3510,7 +3506,7 @@ Open positions: 1056
 
 ## Finance & Accounting
 
-Open positions: 259
+Open positions: 258
 
 | Rank | Company | Position | Location | Category | Salary | Keywords | Sponsorship | Apply |
 |---:|---|---|---|---|---|---|---|---|
@@ -3708,7 +3704,6 @@ Open positions: 259
 | 52 | Lowe's | Principal  Accountant | Mooresville, NC (SSC) 1999 | Finance & Accounting | Not disclosed | Excel · accounting · audit · tax · sales | Not specified | [Apply](https://lowes.wd5.myworkdayjobs.com/en-US/LWS_External_CS/job/Mooresville-NC-SSC-1999/Principal--Accountant_JR-02654561) |
 | 52 | Lowe's | Sr Manager-Corporate Audit (Supply Chain Audit) | Mooresville, NC (SSC) 1999 | Finance & Accounting | Not disclosed | analytics · accounting · audit · supply chain · sales | Not specified | [Apply](https://lowes.wd5.myworkdayjobs.com/en-US/LWS_External_CS/job/Mooresville-NC-SSC-1999/Sr-Manager-Corporate-Audit--Supply-Chain-Audit-_JR-02650062) |
 | 52 | Lowe's | Accountant | Mooresville, NC (SSC) 1999 | Finance & Accounting | Not disclosed | Excel · accounting · tax · sales | Not specified | [Apply](https://lowes.wd5.myworkdayjobs.com/en-US/LWS_External_CS/job/Mooresville-NC-SSC-1999/Accountant_JR-02616993) |
-| 52 | Lowe's | Finance Manager - Store Divisional Finance | Mooresville, NC (SSC) 1999 | Finance & Accounting | Not disclosed | analytics · Excel · accounting · sales | Not specified | [Apply](https://lowes.wd5.myworkdayjobs.com/en-US/LWS_External_CS/job/Mooresville-NC-SSC-1999/Finance-Manager---Store-Divisional-Finance_JR-02625941) |
 | 52 | Lowe's | Sr Financial Analyst - Merchandising GFO | Mooresville, NC (SSC) 1999 | Finance & Accounting | Not disclosed | Python · SQL · analytics · financial modeling · accounting | Not specified | [Apply](https://lowes.wd5.myworkdayjobs.com/en-US/LWS_External_CS/job/Mooresville-NC-SSC-1999/Sr-Financial-Analyst---Merchandising-GFO_JR-02618975-1) |
 | 52 | Lowe's | Finance Manager - Stores Finance Operations | Mooresville, NC (SSC) 1999 | Finance & Accounting | Not disclosed | analytics · Excel · accounting · sales | Not specified | [Apply](https://lowes.wd5.myworkdayjobs.com/en-US/LWS_External_CS/job/Mooresville-NC-SSC-1999/Finance-Manager---Stores-Finance-Operations_JR-02591753) |
 | 52 | Lowe's | Accountant | Mooresville, NC (SSC) 1999 | Finance & Accounting | Not disclosed | Excel · accounting · tax · sales | Not specified | [Apply](https://lowes.wd5.myworkdayjobs.com/en-US/LWS_External_CS/job/Mooresville-NC-SSC-1999/Accountant_JR-02622320) |
@@ -3780,7 +3775,7 @@ Open positions: 259
 
 ## Sales & Marketing
 
-Open positions: 1109
+Open positions: 1108
 
 | Rank | Company | Position | Location | Category | Salary | Keywords | Sponsorship | Apply |
 |---:|---|---|---|---|---|---|---|---|
@@ -4151,7 +4146,6 @@ Open positions: 1109
 | 52 | Lowe's | Full Time - Sales Specialist - Cabinets - Day | Charlotte, NC (Northlake Mall) 2352 | Sales & Marketing | Not disclosed | sales | Not specified | [Apply](https://lowes.wd5.myworkdayjobs.com/en-US/LWS_External_CS/job/Charlotte-NC-Northlake-Mall-2352/Full-Time---Sales-Specialist---Cabinets---Day_JR-02678643-1) |
 | 52 | Lowe's | Full Time - Sales Associate - Internet Fulfillment - Day | Elverson, PA (Morgantown) 2476 | Sales & Marketing | Not disclosed | sales | Not specified | [Apply](https://lowes.wd5.myworkdayjobs.com/en-US/LWS_External_CS/job/Elverson-PA-Morgantown-2476/Full-Time---Sales-Associate---Internet-Fulfillment---Day_JR-02679210) |
 | 52 | Lowe's | Full Time - Sales Associate - Internet Fulfillment - Day | Elverson, PA (Morgantown) 2476 | Sales & Marketing | Not disclosed | sales | Not specified | [Apply](https://lowes.wd5.myworkdayjobs.com/en-US/LWS_External_CS/job/Elverson-PA-Morgantown-2476/Full-Time---Sales-Associate---Internet-Fulfillment---Day_JR-02679209) |
-| 52 | Lowe's | Full Time - Sales Associate - Building Materials - Day | Warren, OH (Trumbull County) 0244 | Sales & Marketing | Not disclosed | sales | Not specified | [Apply](https://lowes.wd5.myworkdayjobs.com/en-US/LWS_External_CS/job/Warren-OH-Trumbull-County-0244/Full-Time---Sales-Associate---Building-Materials---Day_JR-02679155) |
 | 52 | Lowe's | Full Time - Sales Specialist - Millwork - Day | Rochester, NY (Henrietta) 0645 | Sales & Marketing | $18.5–$20/hr | sales | Not specified | [Apply](https://lowes.wd5.myworkdayjobs.com/en-US/LWS_External_CS/job/Rochester-NY-Henrietta-0645/Full-Time---Sales-Specialist---Millwork---Day_JR-02673862-1) |
 | 52 | Lowe's | Sales Floor Dept Supervisor - Hardware-Tools | Anchorage, AK (NE Anchorage) 2955 | Sales & Marketing | Not disclosed | sales | Not specified | [Apply](https://lowes.wd5.myworkdayjobs.com/en-US/LWS_External_CS/job/Anchorage-AK-NE-Anchorage-2955/Sales-Floor-Dept-Supervisor---Hardware-Tools_JR-02679025-1) |
 | 52 | Lowe's | Sales Floor Dept Supervisor - Pro Services-Building Materials | Cincinnati, OH (NW Cincinnati) 0534 | Sales & Marketing | Not disclosed | sales | Not specified | [Apply](https://lowes.wd5.myworkdayjobs.com/en-US/LWS_External_CS/job/Cincinnati-OH-NW-Cincinnati-0534/Sales-Floor-Dept-Supervisor---Pro-Services-Building-Materials_JR-02675826-1) |
@@ -4900,7 +4894,7 @@ Open positions: 1109
 
 ## Operations & Supply Chain
 
-Open positions: 880
+Open positions: 879
 
 | Rank | Company | Position | Location | Category | Salary | Keywords | Sponsorship | Apply |
 |---:|---|---|---|---|---|---|---|---|
@@ -5705,7 +5699,6 @@ Open positions: 880
 | 106 | Thermo Fisher Scientific | Quality Operations Specialist | Cincinnati, Ohio, USA | Operations & Supply Chain | Not disclosed | compliance | Not specified | [Apply](https://thermofisher.wd5.myworkdayjobs.com/en-US/ThermoFisherCareers/job/Cincinnati-Ohio-USA/Quality-Operations-Specialist_R-01363475) |
 | 106 | Thermo Fisher Scientific | Director, US Laboratory Operations | Highland Heights, Kentucky, USA | Operations & Supply Chain | Not disclosed | analytics · audit · compliance | Not specified | [Apply](https://thermofisher.wd5.myworkdayjobs.com/en-US/ThermoFisherCareers/job/Highland-Heights-Kentucky-USA/Director--US-Laboratory-Operations_R-01370473) |
 | 106 | Thermo Fisher Scientific | Lead Inventory Management Specialist | Indianapolis, Indiana, USA | Operations & Supply Chain | Not disclosed | — | Not specified | [Apply](https://thermofisher.wd5.myworkdayjobs.com/en-US/ThermoFisherCareers/job/Indianapolis-Indiana-USA/Lead-Inventory-Management-Specialist_R-01370558) |
-| 106 | Thermo Fisher Scientific | Warehouse Worker 2 - First Shift | Dallas, Texas, USA | Operations & Supply Chain | $19/hr | — | Not specified | [Apply](https://thermofisher.wd5.myworkdayjobs.com/en-US/ThermoFisherCareers/job/Dallas-Texas-USA/Warehouse-Worker-2---First-Shift--Part-Time-_R-01368551) |
 | 106 | Thermo Fisher Scientific | Procurement / Sourcing Specialist III | Rochester, New York, USA | Operations & Supply Chain | Not disclosed | supply chain · procurement | Not specified | [Apply](https://thermofisher.wd5.myworkdayjobs.com/en-US/ThermoFisherCareers/job/Rochester-New-York-USA/Procurement---Sourcing-Specialist-III_R-01369998) |
 | 106 | Thermo Fisher Scientific | Inventory Management Specialist I - 1st Shift | Indianapolis, Indiana, USA | Operations & Supply Chain | Not disclosed | — | Not specified | [Apply](https://thermofisher.wd5.myworkdayjobs.com/en-US/ThermoFisherCareers/job/Indianapolis-Indiana-USA/Inventory-Management-Specialist-I---1st-Shift_R-01369084) |
 | 106 | Thermo Fisher Scientific | Senior Supply Chain Analyst | Carlsbad, California, USA | Operations & Supply Chain | Not disclosed | analytics · Excel · supply chain · logistics · procurement | No sponsorship for this position | [Apply](https://thermofisher.wd5.myworkdayjobs.com/en-US/ThermoFisherCareers/job/Carlsbad-California-USA/Senior-Supply-Chain-Analyst_R-01354949) |
@@ -5947,12 +5940,26 @@ Open positions: 145
 
 ## Other
 
-Open positions: 9038
+Open positions: 9037
 
 | Rank | Company | Position | Location | Category | Salary | Keywords | Sponsorship | Apply |
 |---:|---|---|---|---|---|---|---|---|
-| 329 | DoorDash | Site Manager, DashMart - Fresno, CA | Fresno, CA | Other | Not disclosed | Excel · audit · logistics · recruiting · compliance | Not specified | [Apply](https://job-boards.greenhouse.io/doordashusa/jobs/8263086) |
+| 220 | Carvana | Auto Body Inspector | Trenton, OH | Other | Not disclosed | — | No sponsorship for this position | [Apply](https://www.carvana.com/careers/apply?gh_jid=8243104) |
+| 220 | Carvana | Experienced Auto Painter (2nd Shift) - $6000 Bonus | Tolleson, AZ | Other | Not disclosed | — | No sponsorship for this position | [Apply](https://www.carvana.com/careers/apply?gh_jid=8154417) |
+| 220 | Carvana | Experienced Auto Painter - $6,000 Bonus | Tolleson, AZ | Other | Not disclosed | — | No sponsorship for this position | [Apply](https://www.carvana.com/careers/apply?gh_jid=8171318) |
+| 220 | Carvana | Experienced PDR Tech (2nd Shift) - $6,000 Bonus! | Tolleson, AZ | Other | Not disclosed | — | No sponsorship for this position | [Apply](https://www.carvana.com/careers/apply?gh_jid=8171320) |
 | 220 | Carvana | Experienced Auto Combo Technician - Paint & Body (Night Shift) - $8000 Bonus | Manville, NJ | Other | Not disclosed | — | No sponsorship for this position | [Apply](https://www.carvana.com/careers/apply?gh_jid=8204958) |
+| 220 | Carvana | Experienced Auto Body Technician (2nd Shift) - $6,000 Bonus! | Tolleson, AZ | Other | Not disclosed | — | No sponsorship for this position | [Apply](https://www.carvana.com/careers/apply?gh_jid=8139588) |
+| 220 | Carvana | Experienced Heavy Body Technician - $6,000 Bonus! | Tolleson, AZ | Other | Not disclosed | — | No sponsorship for this position | [Apply](https://www.carvana.com/careers/apply?gh_jid=8171313) |
+| 220 | Carvana | Mid-Level Auto Painter (2nd Shift) | Tolleson, AZ | Other | Not disclosed | — | No sponsorship for this position | [Apply](https://www.carvana.com/careers/apply?gh_jid=8194047) |
+| 220 | Carvana | Mid-Level PDR Technician - $4,000 Bonus! | Tolleson, AZ | Other | Not disclosed | — | No sponsorship for this position | [Apply](https://www.carvana.com/careers/apply?gh_jid=8171354) |
+| 220 | Carvana | Automotive Wheel Repair Technician | Tolleson, AZ | Other | Not disclosed | — | No sponsorship for this position | [Apply](https://www.carvana.com/careers/apply?gh_jid=8193947) |
+| 220 | Carvana | Auto Painter | Tolleson, AZ | Other | Not disclosed | — | No sponsorship for this position | [Apply](https://www.carvana.com/careers/apply?gh_jid=8162329) |
+| 220 | Carvana | Auto Body Repair Technician (2nd shift) | Tolleson AZ | Other | Not disclosed | — | No sponsorship for this position | [Apply](https://www.carvana.com/careers/apply?gh_jid=8171309) |
+| 220 | Carvana | Auto Body Repair Technician | Tolleson, AZ | Other | Not disclosed | — | No sponsorship for this position | [Apply](https://www.carvana.com/careers/apply?gh_jid=8171330) |
+| 220 | Carvana | Automotive Airbrush Technician (2nd Shift) | Tolleson, AZ | Other | Not disclosed | — | No sponsorship for this position | [Apply](https://www.carvana.com/careers/apply?gh_jid=8171302) |
+| 220 | Carvana | Auto Body Prepper (2nd Shift) | Tolleson, AZ | Other | Not disclosed | — | No sponsorship for this position | [Apply](https://www.carvana.com/careers/apply?gh_jid=8154388) |
+| 329 | DoorDash | Site Manager, DashMart - Fresno, CA | Fresno, CA | Other | Not disclosed | Excel · audit · logistics · recruiting · compliance | Not specified | [Apply](https://job-boards.greenhouse.io/doordashusa/jobs/8263086) |
 | 220 | Carvana | Experienced Auto Combo Technician - Paint & Body (Day Shift) - $8,000 Bonus | Manville, NJ | Other | Not disclosed | — | No sponsorship for this position | [Apply](https://www.carvana.com/careers/apply?gh_jid=8205002) |
 | 220 | Carvana | Experienced Paintless Dent Repair Tech, PDR (Day Shift) $8,000 Bonus | Manville, NJ | Other | $28–$36/hr | — | No sponsorship for this position | [Apply](https://www.carvana.com/careers/apply?gh_jid=8244134) |
 | 220 | Carvana | Experienced Heavy Body Technician (Day Shift) - $8000 Bonus | Manville, NJ | Other | Not disclosed | — | No sponsorship for this position | [Apply](https://www.carvana.com/careers/apply?gh_jid=8204951) |
@@ -6014,7 +6021,6 @@ Open positions: 9038
 | 220 | Carvana | Mid-Level Automotive Painter | Fairburn, GA | Other | Not disclosed | — | No sponsorship for this position | [Apply](https://www.carvana.com/careers/apply?gh_jid=8191856) |
 | 220 | Carvana | Advanced Auto Body Tech - 2nd Shift Mon to Thur - $6k Bonus | Trenton, OH | Other | Not disclosed | — | No sponsorship for this position | [Apply](https://www.carvana.com/careers/apply?gh_jid=8243065) |
 | 220 | Carvana | Advanced Auto Painter - $6,000 Bonus | Trenton, OH | Other | Not disclosed | — | No sponsorship for this position | [Apply](https://www.carvana.com/careers/apply?gh_jid=8243075) |
-| 220 | Carvana | Auto Body Inspector | Trenton, OH | Other | Not disclosed | — | No sponsorship for this position | [Apply](https://www.carvana.com/careers/apply?gh_jid=8243104) |
 | 220 | Carvana | Auto Body Inspector 2nd Shift Mon-Thur | Trenton, OH | Other | Not disclosed | — | No sponsorship for this position | [Apply](https://www.carvana.com/careers/apply?gh_jid=8243109) |
 | 220 | Carvana | Experienced Auto Body Repair Tech - Mon to Thur | Trenton, OH | Other | Not disclosed | — | No sponsorship for this position | [Apply](https://www.carvana.com/careers/apply?gh_jid=8233576) |
 | 220 | Carvana | Mid-Level Auto Painter | Trenton, OH | Other | Not disclosed | — | No sponsorship for this position | [Apply](https://www.carvana.com/careers/apply?gh_jid=8243057) |
@@ -6025,19 +6031,6 @@ Open positions: 9038
 | 220 | Carvana | Entry Level Auto Painter | Trenton, OH | Other | Not disclosed | — | No sponsorship for this position | [Apply](https://www.carvana.com/careers/apply?gh_jid=8243037) |
 | 220 | Carvana | Experienced Auto Body Tech - $6k Bonus | Trenton, OH | Other | Not disclosed | — | No sponsorship for this position | [Apply](https://www.carvana.com/careers/apply?gh_jid=8243064) |
 | 220 | Carvana | Experienced Auto Painter 2nd Shift | Trenton, OH | Other | Not disclosed | — | No sponsorship for this position | [Apply](https://www.carvana.com/careers/apply?gh_jid=8243094) |
-| 220 | Carvana | Automotive Wheel Repair Technician | Tolleson, AZ | Other | Not disclosed | — | No sponsorship for this position | [Apply](https://www.carvana.com/careers/apply?gh_jid=8193947) |
-| 220 | Carvana | Auto Body Prepper (2nd Shift) | Tolleson, AZ | Other | Not disclosed | — | No sponsorship for this position | [Apply](https://www.carvana.com/careers/apply?gh_jid=8154388) |
-| 220 | Carvana | Auto Body Repair Technician | Tolleson, AZ | Other | Not disclosed | — | No sponsorship for this position | [Apply](https://www.carvana.com/careers/apply?gh_jid=8171330) |
-| 220 | Carvana | Auto Body Repair Technician (2nd shift) | Tolleson AZ | Other | Not disclosed | — | No sponsorship for this position | [Apply](https://www.carvana.com/careers/apply?gh_jid=8171309) |
-| 220 | Carvana | Automotive Airbrush Technician (2nd Shift) | Tolleson, AZ | Other | Not disclosed | — | No sponsorship for this position | [Apply](https://www.carvana.com/careers/apply?gh_jid=8171302) |
-| 220 | Carvana | Auto Painter | Tolleson, AZ | Other | Not disclosed | — | No sponsorship for this position | [Apply](https://www.carvana.com/careers/apply?gh_jid=8162329) |
-| 220 | Carvana | Experienced Auto Body Technician (2nd Shift) - $6,000 Bonus! | Tolleson, AZ | Other | Not disclosed | — | No sponsorship for this position | [Apply](https://www.carvana.com/careers/apply?gh_jid=8139588) |
-| 220 | Carvana | Experienced Auto Painter (2nd Shift) - $6000 Bonus | Tolleson, AZ | Other | Not disclosed | — | No sponsorship for this position | [Apply](https://www.carvana.com/careers/apply?gh_jid=8154417) |
-| 220 | Carvana | Experienced Auto Painter - $6,000 Bonus | Tolleson, AZ | Other | Not disclosed | — | No sponsorship for this position | [Apply](https://www.carvana.com/careers/apply?gh_jid=8171318) |
-| 220 | Carvana | Experienced Heavy Body Technician - $6,000 Bonus! | Tolleson, AZ | Other | Not disclosed | — | No sponsorship for this position | [Apply](https://www.carvana.com/careers/apply?gh_jid=8171313) |
-| 220 | Carvana | Experienced PDR Tech (2nd Shift) - $6,000 Bonus! | Tolleson, AZ | Other | Not disclosed | — | No sponsorship for this position | [Apply](https://www.carvana.com/careers/apply?gh_jid=8171320) |
-| 220 | Carvana | Mid-Level Auto Painter (2nd Shift) | Tolleson, AZ | Other | Not disclosed | — | No sponsorship for this position | [Apply](https://www.carvana.com/careers/apply?gh_jid=8194047) |
-| 220 | Carvana | Mid-Level PDR Technician - $4,000 Bonus! | Tolleson, AZ | Other | Not disclosed | — | No sponsorship for this position | [Apply](https://www.carvana.com/careers/apply?gh_jid=8171354) |
 | 220 | Carvana | Senior Automotive Technician | Jacksonville, FL | Other | Not disclosed | legal | Not specified | [Apply](https://www.carvana.com/careers/apply?gh_jid=8292808) |
 | 220 | Carvana | CA1 Airbrush - West Memphis | West Memphis, AR | Other | Not disclosed | legal | No sponsorship for this position | [Apply](https://www.carvana.com/careers/apply?gh_jid=8287736) |
 | 220 | Carvana | Automotive Wheel Repair Technician | West Memphis, AR | Other | Not disclosed | — | No sponsorship for this position | [Apply](https://www.carvana.com/careers/apply?gh_jid=8205018) |
@@ -7808,9 +7801,6 @@ Open positions: 9038
 | 430 | Workday | Sr Business Systems Analyst (Collaboration Engineering) | USA, CA, Pleasanton | Other | Not disclosed | artificial intelligence · analytics · sales · recruiting · compliance | Not specified | [Apply](https://workday.wd5.myworkdayjobs.com/en-US/Workday/job/USA-CA-Pleasanton/Sr-Business-Systems-Analyst--Collaboration-Engineering-_JR-0110205-1) |
 | 430 | Workday | Sr Principal, GRC | USA, CA, Pleasanton | Other | Not disclosed | audit · risk management · recruiting · compliance · legal | Not specified | [Apply](https://workday.wd5.myworkdayjobs.com/en-US/Workday/job/USA-CA-Pleasanton/Sr-Principal--GRC_JR-IC-000030-1) |
 | 16 | NVIDIA | Agent Evaluation and Self-Improvement Engineer | US, CA, Santa Clara | Other | Not disclosed | Python · Rust · recruiting | Not specified | [Apply](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Agent-Evaluation-and-Self-Improvement-Engineer_JR2028060-1) |
-| 16 | NVIDIA | Senior DFT Engineer | US, CA, Santa Clara | Other | Not disclosed | recruiting | Not specified | [Apply](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-DFT-Engineer_JR2020790) |
-| 16 | NVIDIA | Senior DFT Engineer | US, CA, Santa Clara | Other | Not disclosed | Python · CAD · recruiting | Not specified | [Apply](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-DFT-Engineer_JR2022681) |
-| 16 | NVIDIA | Senior DFT Power Methodology Engineer | US, CA, Santa Clara | Other | Not disclosed | recruiting | Not specified | [Apply](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-DFT-Power-Methodology-Engineer_JR2021098-1) |
 | 114 | Salesforce | Director, AI Labs Scouts | California - San Francisco | Other | $171.2k–$273k/yr | artificial intelligence · sales · CRM · recruiting · legal | Not specified | [Apply](https://salesforce.wd12.myworkdayjobs.com/en-US/External_Career_Site/job/California---San-Francisco/Director--AI-Labs-Scouts_JR364780) |
 | 114 | Salesforce | Principal Architect, AI Labs | California - San Francisco | Other | $197.3k–$365.2k/yr | artificial intelligence · sales · CRM · recruiting · legal | Not specified | [Apply](https://salesforce.wd12.myworkdayjobs.com/en-US/External_Career_Site/job/California---San-Francisco/Principal-Architect--AI-Labs_JR364779) |
 | 192 | Adobe | Senior TPRM Consultant (Partner Engagements) | New York | Other | $102.4k–$191.8k/yr | risk management · procurement · sales · recruiting · compliance | Not specified | [Apply](https://adobe.wd5.myworkdayjobs.com/en-US/external_experienced/job/New-York/Senior-TPRM-Consultant--Partner-Engagements-_R169646) |
@@ -10875,6 +10865,7 @@ Open positions: 9038
 | 45 | Johnson & Johnson | Category Manager Direct Precision Materials | Danvers, Massachusetts, United States of America | Other | Not disclosed | supply chain · procurement · recruiting · compliance · legal | Not specified | [Apply](https://jj.wd5.myworkdayjobs.com/en-US/JJ/job/Danvers-Massachusetts-United-States-of-America/Category-Manager-Packaging-and-Chemicals_2506234147W-1) |
 | 45 | Johnson & Johnson | ASAM/ SAM - Omaha | Omaha, Nebraska, United States | Other | Not disclosed | Excel · sales · legal | Not specified | [Apply](https://jj.wd5.myworkdayjobs.com/en-US/JJ/job/Omaha-Nebraska-United-States/ASAM--SAM---Omaha_2506229484W) |
 | 45 | Johnson & Johnson | Principal Applications Integration Engineer - Shockwave | Santa Clara, California, United States of America | Other | $105k–$169.05k/yr | Python · Java · C# · Node.js · legal | Not specified | [Apply](https://jj.wd5.myworkdayjobs.com/en-US/JJ/job/Santa-Clara-California-United-States-of-America/Principal-Applications-Integration-Engineer---Shockwave_2506235935W-1) |
+| 49 | RTX | Principal Engineer - Power Electronics | IN-KA-BENGALURU-NORTHGATE ~ Sy No 2/2 Venkatala Village ~ SY NO 2/2 VENKATALA VILLAGE, Yelahanka Hobli | Other | Not disclosed | CAD | Not specified | [Apply](https://globalhr.wd5.myworkdayjobs.com/en-US/REC_RTX_Ext_Gateway/job/IN-KA-BENGALURU-NORTHGATE--Sy-No-22-Venkatala-Village--SY-NO-22-VENKATALA-VILLAGE-Yelahanka-Hobli/Principal-Engineer---Power-Electronics_01882460) |
 | 49 | RTX | Textile Operator 1 | US-CO-PUEBLO-050 ~ 50 William White Blvd ~ BLDG 50 | Other | $18.5/hr | compliance · legal · contracts | Not specified | [Apply](https://globalhr.wd5.myworkdayjobs.com/en-US/REC_RTX_Ext_Gateway/job/US-CO-PUEBLO-050--50-William-White-Blvd--BLDG-50/Textile-Operator-1_01881165-1) |
 | 49 | RTX | Finishing Operator I | US-WA-SPOKANE-11135 ~ 11135 W Westbow Ln ~ WESTBOW | Other | $54k/yr | compliance · legal | Not specified | [Apply](https://globalhr.wd5.myworkdayjobs.com/en-US/REC_RTX_Ext_Gateway/job/US-WA-SPOKANE-11135--11135-W-Westbow-Ln--WESTBOW/Finishing-Operator-I_01879557-1) |
 | 49 | RTX | Intelligence Analyst | US-CO-BUCKLEY-SFB-CUST ~ 18500 E 6th Ave ~ BUCKLEY SFB (External Site) | Other | Not disclosed | compliance | Not specified | [Apply](https://globalhr.wd5.myworkdayjobs.com/en-US/REC_RTX_Ext_Gateway/job/US-CO-BUCKLEY-SFB-CUST--18500-E-6th-Ave--BUCKLEY-SFB-External-Site/Intelligence-Analyst_01882970) |
@@ -14827,6 +14818,7 @@ Open positions: 9038
 | 133 | Hewlett Packard Enterprise | SVP, Engineering | Sunnyvale, California, United States of America | Other | Not disclosed | machine learning · electrical engineering · sales · compliance · legal | Not specified | [Apply](https://hpe.wd5.myworkdayjobs.com/en-US/Jobsathpe/job/Sunnyvale-California-United-States-of-America/SVP--Engineering_1217882-2) |
 | 160 | Applied Materials | Automation & Technology Solutions Engineer | Gloucester,MA | Other | Not disclosed | Python · Excel · audit · CAD · logistics | Not specified | [Apply](https://amat.wd1.myworkdayjobs.com/en-US/External/job/GloucesterMA/Automation---Technology-Solutions-Engineer_R2627515) |
 | 160 | Applied Materials | Supplier Engineer E4 | Austin,TX | Other | Not disclosed | risk management · mechanical engineering · supply chain · procurement · sales | Not specified | [Apply](https://amat.wd1.myworkdayjobs.com/en-US/External/job/AustinTX/Supplier-Engineer-E4_R2625398) |
+| 160 | Applied Materials | Field Service Engineer III - Process, Diagnostics, and Control/Metrology | Austin,TX | Other | Not disclosed | analytics · Excel · sales | Not specified | [Apply](https://amat.wd1.myworkdayjobs.com/en-US/External/job/AustinTX/Field-Service-Engineer-III---Process--Diagnostics--and-Control-Metrology_R2631464) |
 | 396 | Analog Devices | Senior Engineer, Semi Packaging Engineering | US, MA, Wilmington | Other | Not disclosed | mechanical engineering · CAD · SolidWorks | Not specified | [Apply](https://analogdevices.wd1.myworkdayjobs.com/en-US/External/job/US-MA-Wilmington/Engineer--Semi-Packaging-Engineering_R262890) |
 | 396 | Analog Devices | Senior Engineer, Quality Engineering | US, MA, Wilmington | Other | $135.325k–$143.4k/yr | audit · compliance | Not specified | [Apply](https://analogdevices.wd1.myworkdayjobs.com/en-US/External/job/US-MA-Wilmington/Senior-Engineer--Quality-Engineering_R267393-1) |
 | 396 | Analog Devices | Staff Analog & Mixed-Signal Design Engineer - Power/ATE | US, MA, Wilmington | Other | Not disclosed | electrical engineering · CAD | Not specified | [Apply](https://analogdevices.wd1.myworkdayjobs.com/en-US/External/job/US-MA-Wilmington/Principal-Analog---Mixed-Signal-Design-Engineer_R258818-1) |

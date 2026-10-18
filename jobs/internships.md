@@ -1,23 +1,24 @@
 # F500Tracker internships
 
-Last updated: October 18, 2026 at 11:14 UTC
+Last updated: October 18, 2026 at 16:02 UTC
 
-Current internships: 583
+Current internships: 585
 
 ## Categories
 
-[Software & IT (51)](#software-it) · [Data & AI (10)](#data-ai) · [Product & Design (1)](#product-design) · [Engineering (65)](#engineering) · [Finance & Accounting (11)](#finance-accounting) · [Sales & Marketing (10)](#sales-marketing) · [Operations & Supply Chain (38)](#operations-supply-chain) · [People & Legal (6)](#people-legal) · [Other (391)](#other)
+[Software & IT (52)](#software-it) · [Data & AI (10)](#data-ai) · [Product & Design (1)](#product-design) · [Engineering (65)](#engineering) · [Finance & Accounting (11)](#finance-accounting) · [Sales & Marketing (10)](#sales-marketing) · [Operations & Supply Chain (38)](#operations-supply-chain) · [People & Legal (6)](#people-legal) · [Other (392)](#other)
 
 <a id="software-it"></a>
 
 ## Software & IT
 
-Open positions: 51
+Open positions: 52
 
 | Rank | Company | Position | Location | Category | Salary | Keywords | Sponsorship | Apply |
 |---:|---|---|---|---|---|---|---|---|
 | 329 | DoorDash | Software Engineer, Intern - Labs (Summer 2027) | San Francisco, CA; Sunnyvale, CA | Software & IT | Not disclosed | Python · Java · SQL · AWS · machine learning | Not specified | [Apply](https://job-boards.greenhouse.io/doordashusa/jobs/8263774) |
 | 329 | DoorDash | Software Engineer, Intern (Summer 2027) - US | New York, NY; San Francisco, CA; Sunnyvale, CA; Los Angeles, CA; Seattle, WA | Software & IT | Not disclosed | Python · Java · SQL · AWS · Excel | Not specified | [Apply](https://job-boards.greenhouse.io/doordashusa/jobs/8171041) |
+| 16 | NVIDIA | NVIDIA 2027 Ignite Internships: Software Engineering | US, CA, Santa Clara | Software & IT | Not disclosed | Python · machine learning · artificial intelligence · recruiting | Not specified | [Apply](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/NVIDIA-2027-Ignite-Internships--Software-Engineering_JR2026958) |
 | 112 | Northrop Grumman | 2027 Software Engineering Intern - Boulder CO | United States-Colorado-Boulder | Software & IT | $26.75–$33.5/hr | — | Not specified | [Apply](https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-Colorado-Boulder/XMLNAME-2027-Software-Engineering-Intern---Boulder-CO_R10256077) |
 | 112 | Northrop Grumman | 2027 Software Engineering Intern - Colorado Springs | United States-Colorado-Colorado Springs | Software & IT | $24.25–$30.5/hr | — | Not specified | [Apply](https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-Colorado-Colorado-Springs/XMLNAME-2027-Software-Engineering-Intern---Colorado-Springs_R10256080) |
 | 112 | Northrop Grumman | 2027 Software Engineering Intern - Aurora CO | United States-Colorado-Aurora | Software & IT | $26.75–$33.5/hr | — | Not specified | [Apply](https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-Colorado-Aurora/XMLNAME-2027-Software-Engineering-Intern---Aurora-CO_R10256393) |
@@ -292,7 +293,7 @@ Open positions: 6
 
 ## Other
 
-Open positions: 391
+Open positions: 392
 
 | Rank | Company | Position | Location | Category | Salary | Keywords | Sponsorship | Apply |
 |---:|---|---|---|---|---|---|---|---|
@@ -302,6 +303,7 @@ Open positions: 391
 | 220 | Carvana | Customer Experience Intern (Summer 2027) | Tempe, AZ | Other | Not disclosed | — | Not specified | [Apply](https://www.carvana.com/careers/apply?gh_jid=8279204) |
 | 329 | DoorDash | Product Design, Intern (Summer 2027) | San Francisco, CA; New York, NY | Other | Not disclosed | Excel · audit · logistics · recruiting · compliance | Not specified | [Apply](https://job-boards.greenhouse.io/doordashusa/jobs/8176863) |
 | 191 | Block | Applied Research Intern, Proactive Intelligence & Customer World Models (PhD / Graduate Co-op) | Bay Area, CA, United States of America | Other | Not disclosed | Python · machine learning · legal | Not specified | [Apply](http://block.xyz/careers/jobs/5108007008?gh_jid=5108007008) |
+| 16 | NVIDIA | NVIDIA 2027 Ignite Internships: Hardware Engineering | US, CA, Santa Clara | Other | Not disclosed | Python · machine learning · artificial intelligence · CAD · SolidWorks | Not specified | [Apply](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/NVIDIA-2027-Ignite-Internships--Hardware-Engineering_JR2027047) |
 | 112 | Northrop Grumman | Mgr Electronics Engineering 1 - Ground Systems Intern Development Manager | United States-California-Manhattan Beach | Other | Not disclosed | human resources · recruiting · talent acquisition | Not specified | [Apply](https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-California-Manhattan-Beach/Mgr-Electronics-Engineering-1---Ground-Systems-Intern-Development-Manager_R10256522) |
 | 112 | Northrop Grumman | 2027 Systems Engineering Intern - Colorado Springs CO | United States-Colorado-Colorado Springs | Other | $24.25–$30.5/hr | — | Not specified | [Apply](https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-Colorado-Colorado-Springs/XMLNAME-2027-Systems-Engineering-Intern---Colorado-Springs-CO_R10256088) |
 | 112 | Northrop Grumman | 2027 Systems Engineering Intern - Aurora CO | United States-Colorado-Aurora | Other | $26.75–$33.5/hr | — | Not specified | [Apply](https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-Colorado-Aurora/XMLNAME-2027-Systems-Engineering-Intern---Aurora-CO_R10256237) |
