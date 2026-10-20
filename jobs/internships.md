@@ -1,18 +1,18 @@
 # F500Tracker internships
 
-Last updated: October 20, 2026 at 05:03 UTC
+Last updated: October 20, 2026 at 11:46 UTC
 
-Current internships: 568
+Current internships: 553
 
 ## Categories
 
-[Software & IT (50)](#software-it) · [Data & AI (9)](#data-ai) · [Product & Design (2)](#product-design) · [Engineering (64)](#engineering) · [Finance & Accounting (12)](#finance-accounting) · [Sales & Marketing (12)](#sales-marketing) · [Operations & Supply Chain (36)](#operations-supply-chain) · [People & Legal (4)](#people-legal) · [Other (379)](#other)
+[Software & IT (49)](#software-it) · [Data & AI (8)](#data-ai) · [Product & Design (2)](#product-design) · [Engineering (62)](#engineering) · [Finance & Accounting (12)](#finance-accounting) · [Sales & Marketing (11)](#sales-marketing) · [Operations & Supply Chain (35)](#operations-supply-chain) · [People & Legal (4)](#people-legal) · [Other (370)](#other)
 
 <a id="software-it"></a>
 
 ## Software & IT
 
-Open positions: 50
+Open positions: 49
 
 | Rank | Company | Position | Location | Category | Salary | Keywords | Sponsorship | Apply |
 |---:|---|---|---|---|---|---|---|---|
@@ -24,7 +24,6 @@ Open positions: 50
 | 112 | Northrop Grumman | 2027 Software Engineering Intern - Aurora CO | United States-Colorado-Aurora | Software & IT | $26.75–$33.5/hr | — | Not specified | [Apply](https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-Colorado-Aurora/XMLNAME-2027-Software-Engineering-Intern---Aurora-CO_R10256393) |
 | 112 | Northrop Grumman | 2027 Software Engineering Intern - Colorado Springs | United States-Colorado-Colorado Springs | Software & IT | $24.25–$30.5/hr | — | Not specified | [Apply](https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-Colorado-Colorado-Springs/XMLNAME-2027-Software-Engineering-Intern---Colorado-Springs_R10256259) |
 | 112 | Northrop Grumman | 2027 Software Engineering Intern - Aurora CO | United States-Colorado-Aurora | Software & IT | $26.75–$33.5/hr | — | Not specified | [Apply](https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-Colorado-Aurora/XMLNAME-2027-Software-Engineering-Intern---Aurora-CO_R10256243) |
-| 88 | Intel | Cloud Analytics - Application PhD Intern | US, Oregon, Hillsboro | Software & IT | Not disclosed | Python · SQL · Docker · Kubernetes · machine learning | Not specified | [Apply](https://intel.wd1.myworkdayjobs.com/en-US/External/job/US-Oregon-Hillsboro/Cloud-Analytics---Application-PhD-Intern_JR0288170) |
 | 45 | Johnson & Johnson | Software Test Engineering Co-op (Beatbox) | Danvers, Massachusetts, United States of America | Software & IT | $23.5/hr | Python · JavaScript · Rust · SQL · PostgreSQL | Not specified | [Apply](https://jj.wd5.myworkdayjobs.com/en-US/JJ/job/Danvers-Massachusetts-United-States-of-America/Software-Test-Engineering-Co-op--Beatbox-_R-098707) |
 | 45 | Johnson & Johnson | Software Engineering Co-Op | Danvers, Massachusetts, United States of America | Software & IT | $23.5/hr | JavaScript · Rust | Not specified | [Apply](https://jj.wd5.myworkdayjobs.com/en-US/JJ/job/Danvers-Massachusetts-United-States-of-America/Software-Engineering-Co-Op_R-098277) |
 | 45 | Johnson & Johnson | Software Test Engineering Co-op (RLM) | Danvers, Massachusetts, United States of America | Software & IT | $23.5/hr | Python · JavaScript · Rust · SQL · PostgreSQL | Not specified | [Apply](https://jj.wd5.myworkdayjobs.com/en-US/JJ/job/Danvers-Massachusetts-United-States-of-America/Software-Test-Engineering-Co-op--RLM-_R-098669) |
@@ -32,12 +31,13 @@ Open positions: 50
 | 45 | Johnson & Johnson | Medical Device Cybersecurity Co-Op | Danvers, Massachusetts, United States of America | Software & IT | $23.5/hr | risk management | Not specified | [Apply](https://jj.wd5.myworkdayjobs.com/en-US/JJ/job/Danvers-Massachusetts-United-States-of-America/Medical-Device-Cybersecurity-Co-Op_R-099388) |
 | 45 | Johnson & Johnson | Software Engineering Co-Op. Summer 2027 | Cincinnati, Ohio, United States of America | Software & IT | $23.5/hr | Python · recruiting | Not specified | [Apply](https://jj.wd5.myworkdayjobs.com/en-US/JJ/job/Cincinnati-Ohio-United-States-of-America/Software-Engineering-Co-Op-Summer-2027_R-096743) |
 | 45 | Johnson & Johnson | Software Engineering Co-Op, Spring 2027 | Cincinnati, Ohio, United States of America | Software & IT | $23.5/hr | Python · recruiting | Not specified | [Apply](https://jj.wd5.myworkdayjobs.com/en-US/JJ/job/Cincinnati-Ohio-United-States-of-America/Software-Engineering-Co-Op--Spring-2027_R-095741) |
+| 49 | RTX | Part time Software Engineer Co-op (Remote) | US-CO-AURORA-S75 ~ 16800 E Centretech Pkwy ~ BLDG S75 | Software & IT | Not disclosed | Python · Java · JavaScript · AWS · Docker | Not specified | [Apply](https://globalhr.wd5.myworkdayjobs.com/en-US/REC_RTX_Ext_Gateway/job/US-CO-AURORA-S75--16800-E-Centretech-Pkwy--BLDG-S75/Part-time-Software-Engineer-Co-op--Remote-_01883452) |
+| 49 | RTX | Part time Software Engineer Co-op (Remote) | US-TX-RICHARDSON-C17 ~ 1717 Cityline Dr ~ CITYLINE C17 | Software & IT | Not disclosed | Python · Java · JavaScript · AWS · Docker | Not specified | [Apply](https://globalhr.wd5.myworkdayjobs.com/en-US/REC_RTX_Ext_Gateway/job/US-TX-RICHARDSON-C17--1717-Cityline-Dr--CITYLINE-C17/Software-Engineer-Co-op--Remote-_01883545) |
 | 49 | RTX | Electro-Optics Systems Engineer Intern (Onsite) | US-TX-MCKINNEY-513WD ~ 2501 W University Dr ~ WING D BLDG | Software & IT | Not disclosed | Python · machine learning · mechanical engineering · compliance · contracts | Not specified | [Apply](https://globalhr.wd5.myworkdayjobs.com/en-US/REC_RTX_Ext_Gateway/job/US-TX-MCKINNEY-513WD--2501-W-University-Dr--WING-D-BLDG/Electro-Optics-Systems-Engineer-Intern--Onsite-_01880586) |
 | 49 | RTX | Software Engineering Co-op (Summer / Fall 2027) | US-IA-CEDAR RAPIDS-130 ~ 5350 C Ave NE ~ BLDG 130 | Software & IT | Not disclosed | compliance | Not specified | [Apply](https://globalhr.wd5.myworkdayjobs.com/en-US/REC_RTX_Ext_Gateway/job/US-IA-CEDAR-RAPIDS-130--5350-C-Ave-NE--BLDG-130/Software-Engineering-Co-op--Summer---Fall-2027-_01881368) |
 | 49 | RTX | Software Engineering Intern (Summer 2027) | US-IA-CEDAR RAPIDS-121 ~ 350 Collins Rd NE ~ BLDG 121 | Software & IT | Not disclosed | Python · Rust · electrical engineering · compliance | Not specified | [Apply](https://globalhr.wd5.myworkdayjobs.com/en-US/REC_RTX_Ext_Gateway/job/US-IA-CEDAR-RAPIDS-121--350-Collins-Rd-NE--BLDG-121/Software-Engineering-Intern--Summer-2027-_01880499) |
 | 49 | RTX | Software Engineering Co-op (Summer/Fall 2027) | US-IA-CEDAR RAPIDS-130 ~ 5350 C Ave NE ~ BLDG 130 | Software & IT | Not disclosed | compliance · contracts | Not specified | [Apply](https://globalhr.wd5.myworkdayjobs.com/en-US/REC_RTX_Ext_Gateway/job/US-IA-CEDAR-RAPIDS-130--5350-C-Ave-NE--BLDG-130/Software-Engineering-Co-op--Summer-Fall-2027-_01882414) |
 | 49 | RTX | Software Engineering Co-op (Spring/Summer 2027) | US-IA-CEDAR RAPIDS-130 ~ 5350 C Ave NE ~ BLDG 130 | Software & IT | Not disclosed | compliance · contracts | Not specified | [Apply](https://globalhr.wd5.myworkdayjobs.com/en-US/REC_RTX_Ext_Gateway/job/US-IA-CEDAR-RAPIDS-130--5350-C-Ave-NE--BLDG-130/Software-Engineering-Co-op--Spring-Summer-2027-_01881996) |
-| 49 | RTX | Software Engineer Intern | US-AZ-TUCSON-805 ~ 1151 E Hermans Rd ~ BLDG 805 | Software & IT | Not disclosed | Python · C# · compliance | Not specified | [Apply](https://globalhr.wd5.myworkdayjobs.com/en-US/REC_RTX_Ext_Gateway/job/US-AZ-TUCSON-805--1151-E-Hermans-Rd--BLDG-805/Software-Engineer-Intern_01874282) |
 | 49 | RTX | Summer 2027 RF Systems Engineer Intern - Onsite | US-IN-FT WAYNE-150A ~ 1010 Production Rd ~ BLDG 150A | Software & IT | Not disclosed | Python · mechanical engineering · electrical engineering · compliance · contracts | Not specified | [Apply](https://globalhr.wd5.myworkdayjobs.com/en-US/REC_RTX_Ext_Gateway/job/US-IN-FT-WAYNE-150A--1010-Production-Rd--BLDG-150A/Summer-2027-RF-Systems-Engineer-Intern---Onsite_01880963) |
 | 49 | RTX | JEDI Network Systems Engineer 2027 Spring/Summer Co-op - Onsite | US-IA-CEDAR RAPIDS-121 ~ 350 Collins Rd NE ~ BLDG 121 | Software & IT | Not disclosed | compliance | Not specified | [Apply](https://globalhr.wd5.myworkdayjobs.com/en-US/REC_RTX_Ext_Gateway/job/US-IA-CEDAR-RAPIDS-121--350-Collins-Rd-NE--BLDG-121/JEDI-Network-Systems-Engineer-2027-Spring-Summer-Co-op---Onsite_01873473) |
 | 49 | RTX | 2027 Co-Op - Summer/Fall Systems Engineer - Onsite | US-IA-CEDAR RAPIDS-106 ~ 400 Collins Rd NE ~ BLDG 106 | Software & IT | Not disclosed | Python · Excel · compliance | Not specified | [Apply](https://globalhr.wd5.myworkdayjobs.com/en-US/REC_RTX_Ext_Gateway/job/US-IA-CEDAR-RAPIDS-106--400-Collins-Rd-NE--BLDG-106/XMLNAME-2027-Co-Op---Summer-Fall-Systems-Engineer---Onsite_01871438) |
@@ -65,7 +65,6 @@ Open positions: 50
 | 83 | Cisco Systems | Software Engineer II (Co-op) - United States | Maynard, Massachusetts, US | Software & IT | Not disclosed | Python · Java · AWS · Azure · data science | Not specified | [Apply](https://cisco.wd5.myworkdayjobs.com/en-US/Cisco_Careers/job/Maynard-Massachusetts-US/Software-Engineer-II--Co-op----United-States_2026923) |
 | 83 | Cisco Systems | Software Engineer I (Co-op) - United States | Maynard, Massachusetts, US | Software & IT | Not disclosed | Python · Java · AWS · Azure · data science | Not specified | [Apply](https://cisco.wd5.myworkdayjobs.com/en-US/Cisco_Careers/job/Maynard-Massachusetts-US/Software-Engineer-I--Co-op----United-States_2026920) |
 | 99 | Nike | NIKE, Inc. Innovation Underfoot Systems Engineer Graduate Internship | Beaverton, Oregon | Software & IT | Not disclosed | analytics · mechanical engineering | Not specified | [Apply](https://nike.wd1.myworkdayjobs.com/en-US/nke/job/Beaverton-Oregon/NIKE--Inc-Innovation-Underfoot-Systems-Engineer-Graduate-Internship_R-94431) |
-| 99 | Nike | NIKE, Inc. Software Engineering Undergraduate Internship | Beaverton, Oregon | Software & IT | Not disclosed | Python · Java · C# · JavaScript · React | Not specified | [Apply](https://nike.wd1.myworkdayjobs.com/en-US/nke/job/Beaverton-Oregon/NIKE--Inc-Software-Engineering-Undergraduate-Internship_R-91111) |
 
 [Back to categories](#categories) · [Back to README](../README.md)
 
@@ -73,7 +72,7 @@ Open positions: 50
 
 ## Data & AI
 
-Open positions: 9
+Open positions: 8
 
 | Rank | Company | Position | Location | Category | Salary | Keywords | Sponsorship | Apply |
 |---:|---|---|---|---|---|---|---|---|
@@ -85,7 +84,6 @@ Open positions: 9
 | 45 | Johnson & Johnson | Production Data Analyst Co-Op | Danvers, Massachusetts, United States of America | Data & AI | $23.5/hr | analytics · supply chain | Not specified | [Apply](https://jj.wd5.myworkdayjobs.com/en-US/JJ/job/Danvers-Massachusetts-United-States-of-America/Production-Data-Analyst-Co-Op_R-098904) |
 | 49 | RTX | Stage - Hiver 2027 - Analyste de données, Services de pièces de rechange / Internship - Winter 2027 - Data Analyst, Spare Parts Services | CA-QC-LONGUEUIL-J01 ~ 1000 Blvd Marie-Victorin ~ J01 BLDG | Data & AI | Not disclosed | Python · analytics · Excel | Not specified | [Apply](https://globalhr.wd5.myworkdayjobs.com/en-US/REC_RTX_Ext_Gateway/job/CA-QC-LONGUEUIL-J01--1000-Blvd-Marie-Victorin--J01-BLDG/Stage---Hiver-2027---Analyste-de-donnes--Services-de-pices-de-rechange---Internship---Winter-2027---Data-Analyst--Spare-Parts-Services_01872182) |
 | 99 | Nike | NIKE, Inc. AI & Machine Learning, Innovation Graduate Internship | Beaverton, Oregon | Data & AI | Not disclosed | Python · machine learning · artificial intelligence · data science · mechanical engineering | Not specified | [Apply](https://nike.wd1.myworkdayjobs.com/en-US/nke/job/Beaverton-Oregon/NIKE--Inc-AI---Machine-Learning--Innovation-Graduate-Internship_R-94412) |
-| 99 | Nike | NIKE, Inc. Artificial Intelligence, Data, & Machine Learning Engineering Undergraduate Internship | Beaverton, Oregon | Data & AI | Not disclosed | Python · SQL · AWS · machine learning · artificial intelligence | Not specified | [Apply](https://nike.wd1.myworkdayjobs.com/en-US/nke/job/Beaverton-Oregon/NIKE--Inc-Artificial-Intelligence--Data----Machine-Learning-Engineering-Undergraduate-Internship_R-91110) |
 
 [Back to categories](#categories) · [Back to README](../README.md)
 
@@ -106,7 +104,7 @@ Open positions: 2
 
 ## Engineering
 
-Open positions: 64
+Open positions: 62
 
 | Rank | Company | Position | Location | Category | Salary | Keywords | Sponsorship | Apply |
 |---:|---|---|---|---|---|---|---|---|
@@ -124,7 +122,6 @@ Open positions: 64
 | 49 | RTX | Stage - Hiver 2027 - Génie mécanique – Installations d’essais / Internship - Winter 2027 - Mechanical Engineering – Test Facilities | CA-QC-LONGUEUIL-J01 ~ 1000 Blvd Marie-Victorin ~ J01 BLDG | Engineering | Not disclosed | mechanical engineering | Not specified | [Apply](https://globalhr.wd5.myworkdayjobs.com/en-US/REC_RTX_Ext_Gateway/job/CA-QC-LONGUEUIL-J01--1000-Blvd-Marie-Victorin--J01-BLDG/Stage---Hiver-2027---Gnie-mcanique---Installations-d-essais---Internship---Winter-2027---Mechanical-Engineering---Test-Facilities_01872695) |
 | 49 | RTX | CA Intern (Industrial Trainee) | IN-DL-NEW DELHI-WM2 ~ Asset Area No 8 ~ WORLDMARK 2, Unit No 505 & 506, 5th Flr | Engineering | Not disclosed | accounting · audit · recruiting | Not specified | [Apply](https://globalhr.wd5.myworkdayjobs.com/en-US/REC_RTX_Ext_Gateway/job/IN-DL-NEW-DELHI-WM2--Asset-Area-No-8--WORLDMARK-2-Unit-No-505--506-5th-Flr/CA-Intern--Industrial-Trainee-_01882516) |
 | 49 | RTX | Mechanical Design Engineering Intern (Summer 2027) | US-MN-BURNSVILLE-WEST ~ 14300 Judicial Rd ~ WEST BLDG | Engineering | Not disclosed | Excel · mechanical engineering · CAD · SolidWorks · compliance | Not specified | [Apply](https://globalhr.wd5.myworkdayjobs.com/en-US/REC_RTX_Ext_Gateway/job/US-MN-BURNSVILLE-WEST--14300-Judicial-Rd--WEST-BLDG/Mechanical-Design-Engineering-Intern--Summer-2027-_01870956) |
-| 49 | RTX | Electrical Engineer Intern | US-AZ-TUCSON-805 ~ 1151 E Hermans Rd ~ BLDG 805 | Engineering | Not disclosed | Python · compliance | Not specified | [Apply](https://globalhr.wd5.myworkdayjobs.com/en-US/REC_RTX_Ext_Gateway/job/US-AZ-TUCSON-805--1151-E-Hermans-Rd--BLDG-805/Electrical-Engineer-Intern_01874283) |
 | 49 | RTX | Industrial Engineering Co-Op (Summer/Fall 2027) | US-IA-CEDAR RAPIDS-110 ~ 400 Collins Rd NE ~ BLDG 110 | Engineering | Not disclosed | CAD · SolidWorks · compliance · contracts | Not specified | [Apply](https://globalhr.wd5.myworkdayjobs.com/en-US/REC_RTX_Ext_Gateway/job/US-IA-CEDAR-RAPIDS-110--400-Collins-Rd-NE--BLDG-110/Industrial-Engineering-Co-Op--Summer-Fall-2027-_01882360) |
 | 49 | RTX | Electrical Engineering Intern (Summer 2027)(Onsite) | US-CA-GOLETA-B01 ~ 6825 Cortona Dr ~ BLDG B01 | Engineering | Not disclosed | electrical engineering · compliance · contracts | Not specified | [Apply](https://globalhr.wd5.myworkdayjobs.com/en-US/REC_RTX_Ext_Gateway/job/US-CA-GOLETA-B01--6825-Cortona-Dr--BLDG-B01/Electrical-Engineering-Intern--Summer-2027--Onsite-_01882355) |
 | 49 | RTX | Mechanical Engineering Co-op (Fall 2027) (Onsite) | US-CT-EAST HARTFORD-OBG ~ 400 Main St ~ BLDG OBG | Engineering | Not disclosed | mechanical engineering · compliance · contracts | Not specified | [Apply](https://globalhr.wd5.myworkdayjobs.com/en-US/REC_RTX_Ext_Gateway/job/US-CT-EAST-HARTFORD-OBG--400-Main-St--BLDG-OBG/Mechanical-Engineering-Co-op--Fall-2027---Onsite-_01875897) |
@@ -173,7 +170,6 @@ Open positions: 64
 | 83 | Cisco Systems | Systems Quality Engineer I (Co-op) - United States | Maynard, Massachusetts, US | Engineering | Not disclosed | electrical engineering · sales | Not specified | [Apply](https://cisco.wd5.myworkdayjobs.com/en-US/Cisco_Careers/job/Maynard-Massachusetts-US/Systems-Quality-Engineer-I--Co-op----United-States_2026751) |
 | 106 | Thermo Fisher Scientific | Industrial Engineering Co-op | Rochester, New York, USA | Engineering | Not disclosed | supply chain | Not specified | [Apply](https://thermofisher.wd5.myworkdayjobs.com/en-US/ThermoFisherCareers/job/Rochester-New-York-USA/Industrial-Engineering-Co-op_R-01366625) |
 | 106 | Thermo Fisher Scientific | Mechanical Engineering Co-op | Rochester, New York, USA | Engineering | Not disclosed | mechanical engineering · electrical engineering | Not specified | [Apply](https://thermofisher.wd5.myworkdayjobs.com/en-US/ThermoFisherCareers/job/Rochester-New-York-USA/Mechanical-Engineering-Co-op_R-01366623) |
-| 160 | Applied Materials | Electrical Engineer Intern | Tempe,AZ | Engineering | Not disclosed | electrical engineering · sales | Not specified | [Apply](https://amat.wd1.myworkdayjobs.com/en-US/External/job/TempeAZ/Electrical-Engineer-Intern_R2631303) |
 
 [Back to categories](#categories) · [Back to README](../README.md)
 
@@ -204,11 +200,10 @@ Open positions: 12
 
 ## Sales & Marketing
 
-Open positions: 12
+Open positions: 11
 
 | Rank | Company | Position | Location | Category | Salary | Keywords | Sponsorship | Apply |
 |---:|---|---|---|---|---|---|---|---|
-| 16 | NVIDIA | Sales Operations Intern - Summer 2027 | US, CA, Santa Clara | Sales & Marketing | Not disclosed | sales · recruiting | Not specified | [Apply](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Sales-Operations-Intern---Summer-2027_JR2027840) |
 | 125 | Micron Technology | Intern - Sales Development | Boise, ID - Main Site | Sales & Marketing | Not disclosed | SQL · analytics · Excel · supply chain · sales | Not specified | [Apply](https://micron.wd1.myworkdayjobs.com/en-US/External/job/Boise-ID---Main-Site/Intern---SDR_JR112775) |
 | 125 | Micron Technology | Intern - Global Communications/Policy Comms | MTI - WASHINGTON  DC - 25 Mass - Office | Sales & Marketing | Not disclosed | — | Not specified | [Apply](https://micron.wd1.myworkdayjobs.com/en-US/External/job/MTI---WASHINGTON--DC---25-Mass---Office/Intern---Global-Communications-Policy-Comms_JR109462) |
 | 125 | Micron Technology | Intern - CDBU Marketing | San Jose, CA | Sales & Marketing | Not disclosed | artificial intelligence · electrical engineering · sales | Not specified | [Apply](https://micron.wd1.myworkdayjobs.com/en-US/External/job/San-Jose-CA/Intern---CDBU-Marketing_JR109697) |
@@ -227,7 +222,7 @@ Open positions: 12
 
 ## Operations & Supply Chain
 
-Open positions: 36
+Open positions: 35
 
 | Rank | Company | Position | Location | Category | Salary | Keywords | Sponsorship | Apply |
 |---:|---|---|---|---|---|---|---|---|
@@ -263,7 +258,6 @@ Open positions: 36
 | 52 | Lowe's | Merchandising Operations – Undergrad Internship – Summer 2027 | Mooresville, NC (SSC) 1999 | Operations & Supply Chain | Not disclosed | analytics · Excel · supply chain · sales | Not specified | [Apply](https://lowes.wd5.myworkdayjobs.com/en-US/LWS_External_CS/job/Mooresville-NC-SSC-1999/Merchandising-Operations---Undergrad-Internship---Summer-2027_JR-02653003) |
 | 52 | Lowe's | Private Brands Operations - Undergrad Internship - Summer 2027 | Mooresville, NC (SSC) 1999 | Operations & Supply Chain | Not disclosed | sales · compliance | Not specified | [Apply](https://lowes.wd5.myworkdayjobs.com/en-US/LWS_External_CS/job/Mooresville-NC-SSC-1999/Private-Brands-Operations---Undergrad-Internship---Summer-2027_JR-02648581) |
 | 99 | Nike | NIKE, Inc. Supply Chain Planning Graduate Internship | Beaverton, Oregon | Operations & Supply Chain | Not disclosed | analytics · Excel · supply chain · sales | Not specified | [Apply](https://nike.wd1.myworkdayjobs.com/en-US/nke/job/Beaverton-Oregon/NIKE--Inc-Supply-Chain-Planning-Graduate-Internship_R-92368-1) |
-| 99 | Nike | NIKE, Inc. Global Supply Chain & Operations Undergraduate Internship | Beaverton, Oregon | Operations & Supply Chain | Not disclosed | Python · SQL · machine learning · artificial intelligence · analytics | Not specified | [Apply](https://nike.wd1.myworkdayjobs.com/en-US/nke/job/Beaverton-Oregon/NIKE--Inc-Global-Supply-Chain---Operations-Undergraduate-Internship_R-92068) |
 | 99 | Nike | NIKE, Inc. Product Supply Chain (PSC) Footwear & Apparel Graduate Internship | Beaverton, Oregon | Operations & Supply Chain | Not disclosed | Python · SQL · machine learning · artificial intelligence · data science | Not specified | [Apply](https://nike.wd1.myworkdayjobs.com/en-US/nke/job/Beaverton-Oregon/NIKE--Inc-Product-Supply-Chain--PSC--Footwear---Apparel-Graduate-Internship_R-91695-1) |
 | 106 | Thermo Fisher Scientific | Procurement Intern | Pittsburgh, Pennsylvania, USA | Operations & Supply Chain | Not disclosed | procurement | Not specified | [Apply](https://thermofisher.wd5.myworkdayjobs.com/en-US/ThermoFisherCareers/job/Pittsburgh-Pennsylvania-USA/Procurement-Intern_R-01368295) |
 | 106 | Thermo Fisher Scientific | Supply Chain Co-op | Marietta, Ohio, USA | Operations & Supply Chain | Not disclosed | supply chain | Not specified | [Apply](https://thermofisher.wd5.myworkdayjobs.com/en-US/ThermoFisherCareers/job/Marietta-Ohio-USA/Supply-Chain-Co-op_R-01366630) |
@@ -289,7 +283,7 @@ Open positions: 4
 
 ## Other
 
-Open positions: 379
+Open positions: 370
 
 | Rank | Company | Position | Location | Category | Salary | Keywords | Sponsorship | Apply |
 |---:|---|---|---|---|---|---|---|---|
@@ -305,7 +299,6 @@ Open positions: 379
 | 112 | Northrop Grumman | Mgr Electronics Engineering 1 - Ground Systems Intern Development Manager | United States-California-Manhattan Beach | Other | Not disclosed | human resources · recruiting · talent acquisition | Not specified | [Apply](https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-California-Manhattan-Beach/Mgr-Electronics-Engineering-1---Ground-Systems-Intern-Development-Manager_R10256522) |
 | 112 | Northrop Grumman | 2027 Systems Engineering Intern - Colorado Springs CO | United States-Colorado-Colorado Springs | Other | $24.25–$30.5/hr | — | Not specified | [Apply](https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-Colorado-Colorado-Springs/XMLNAME-2027-Systems-Engineering-Intern---Colorado-Springs-CO_R10256088) |
 | 112 | Northrop Grumman | 2027 Systems Engineering Intern - Aurora CO | United States-Colorado-Aurora | Other | $26.75–$33.5/hr | — | Not specified | [Apply](https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-Colorado-Aurora/XMLNAME-2027-Systems-Engineering-Intern---Aurora-CO_R10256237) |
-| 112 | Northrop Grumman | 2027 Intern - Guidance Navigation and Control Engineer | United States-California-San Diego | Other | $21.5–$39/hr | Python · mechanical engineering | Not specified | [Apply](https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-California-San-Diego/XMLNAME-2027-Intern---Guidance-Navigation-and-Control-Engineer_R10256435) |
 | 112 | Northrop Grumman | Chandler Manufacturing Technician Intern (2nd Shift) - Fall | United States-Arizona-Chandler | Other | Not disclosed | — | Not specified | [Apply](https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-Arizona-Chandler/Chandler-Manufacturing-Technician-Intern--2nd-Shift----Fall_R10254794) |
 | 112 | Northrop Grumman | Chandler Manufacturing Technician Intern - Fall | United States-Arizona-Chandler | Other | Not disclosed | — | Not specified | [Apply](https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-Arizona-Chandler/Chandler-Manufacturing-Technician-Intern---Fall_R10250966) |
 | 112 | Northrop Grumman | Gilbert Manufacturing Technician Intern - Fall | United States-Arizona-Gilbert | Other | Not disclosed | — | Not specified | [Apply](https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-Arizona-Gilbert/Gilbert-Manufacturing-Technician-Intern---Fall_R10250962) |
@@ -313,8 +306,6 @@ Open positions: 379
 | 112 | Northrop Grumman | 2027 Engineering Intern - Melbourne (FL) (Evergreen) | United States-Florida-Melbourne | Other | Not disclosed | — | Not specified | [Apply](https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-Florida-Melbourne/XMLNAME-2027-Engineering-Intern---Melbourne--FL---Evergreen-_R10253720-1) |
 | 112 | Northrop Grumman | 2027 Engineering Intern - Manhattan Beach (CA) (Evergreen) | United States-California-Manhattan Beach | Other | Not disclosed | — | Not specified | [Apply](https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-California-Manhattan-Beach/XMLNAME-2027-Engineering-Intern---Manhattan-Beach--CA---Evergreen-_R10253708) |
 | 84 | HP | Audio and DSP Development Engineering Intern | Scotts Valley, California, United States of America | Other | $33–$37/hr | Python · electrical engineering | Not specified | [Apply](https://hp.wd5.myworkdayjobs.com/en-US/ExternalCareerSite/job/Scotts-Valley-California-United-States-of-America/Audio-and-DSP-Development-Engineering-Intern_UNI4508-2) |
-| 88 | Intel | Process Integ and Yield Eng PhD Intern Grade 029 | US, Oregon, Hillsboro | Other | Not disclosed | Python · SQL · machine learning · analytics · mechanical engineering | Not specified | [Apply](https://intel.wd1.myworkdayjobs.com/en-US/External/job/US-Oregon-Hillsboro/Process-Integ-and-Yield-Eng-PhD-Intern-Grade-029_JR0288084) |
-| 88 | Intel | Facilities Technician Intern | US, New Mexico, Albuquerque | Other | Not disclosed | compliance | Not specified | [Apply](https://intel.wd1.myworkdayjobs.com/en-US/External/job/US-New-Mexico-Albuquerque/Facilities-Technician-Intern_JR0286923) |
 | 125 | Micron Technology | Intern - ASIC Digital Design | Minneapolis, MN | Other | $24–$55/hr | Python · electrical engineering | Not specified | [Apply](https://micron.wd1.myworkdayjobs.com/en-US/External/job/Minneapolis-MN/Intern---ASIC-Digital-Design_JR112163) |
 | 125 | Micron Technology | Intern - Equipment Engineer | Manassas, VA -  Fab 6 | Other | Not disclosed | machine learning · analytics · mechanical engineering · electrical engineering | Not specified | [Apply](https://micron.wd1.myworkdayjobs.com/en-US/External/job/Manassas-VA----Fab-6/Intern---Equipment-Engineer_JR114818) |
 | 125 | Micron Technology | Intern - Fab Equipment Maintenance Technician | Manassas, VA -  Fab 6 | Other | Not disclosed | artificial intelligence | Not specified | [Apply](https://micron.wd1.myworkdayjobs.com/en-US/External/job/Manassas-VA----Fab-6/Intern---Fab-Equipment-Maintenance-Technician_JR114722) |
@@ -413,8 +404,6 @@ Open positions: 379
 | 44 | Walt Disney | Product Design (Toys) Intern, Spring 2027 | Kissimmee, FL, USA | Other | $23/hr | SolidWorks | Not specified | [Apply](https://disney.wd5.myworkdayjobs.com/en-US/disneycareer/job/Kissimmee-FL-USA/Product-Design--Toys--Intern--Spring-2027_10160487) |
 | 44 | Walt Disney | Merchandise Planning Intern, Spring 2027 | Kissimmee, FL, USA | Other | $23/hr | sales | Not specified | [Apply](https://disney.wd5.myworkdayjobs.com/en-US/disneycareer/job/Kissimmee-FL-USA/Merchandise-Planning-Intern--Spring-2027_10160398) |
 | 44 | Walt Disney | ESPN Post Edit Intern, Bristol, Spring 2027 | Bristol, CT, USA | Other | $23/hr | Excel · sales | Not specified | [Apply](https://disney.wd5.myworkdayjobs.com/en-US/disneycareer/job/Bristol-CT-USA/ESPN-Post-Edit-Intern--Bristol--Spring-2027_10163314) |
-| 44 | Walt Disney | Product Design (Accessories) Intern, Spring 2027 | Glendale, CA, USA | Other | $23/hr | Excel · CAD | Not specified | [Apply](https://disney.wd5.myworkdayjobs.com/en-US/disneycareer/job/Glendale-CA-USA/Product-Design--Accessories--Intern--Spring-2027_10160436) |
-| 44 | Walt Disney | Disney & Pixar Games Production Intern, Spring 2027 | Glendale, CA, USA | Other | $23/hr | Excel | Not specified | [Apply](https://disney.wd5.myworkdayjobs.com/en-US/disneycareer/job/Glendale-CA-USA/Disney---Pixar-Games-Production-Intern--Spring-2027_10159030) |
 | 45 | Johnson & Johnson | TDS Proteins DPD&D Biopharmaceutics Co-Op | Malvern, Pennsylvania, United States of America | Other | Not disclosed | contracts | Not specified | [Apply](https://jj.wd5.myworkdayjobs.com/en-US/JJ/job/Malvern-Pennsylvania-United-States-of-America/TDS-Proteins-DPD-D-Biopharmaceutics-Co-Op_R-098671) |
 | 45 | Johnson & Johnson | HFE Co-op (Summer/2027) Raritan | Raritan, New Jersey, United States of America | Other | $23.5/hr | mechanical engineering | Not specified | [Apply](https://jj.wd5.myworkdayjobs.com/en-US/JJ/job/Raritan-New-Jersey-United-States-of-America/HFE-Co-op--Summer-2027--Raritan_R-103482) |
 | 45 | Johnson & Johnson | TDS Lab Automation Co-Op | Malvern, Pennsylvania, United States of America | Other | Not disclosed | mechanical engineering | Not specified | [Apply](https://jj.wd5.myworkdayjobs.com/en-US/JJ/job/Malvern-Pennsylvania-United-States-of-America/TDS-Lab-Automation-Co-Op_R-098640) |
@@ -458,7 +447,6 @@ Open positions: 379
 | 45 | Johnson & Johnson | Proteomics Summer Intern 2027 | San Diego, California, United States of America | Other | $23.5/hr | Python | Not specified | [Apply](https://jj.wd5.myworkdayjobs.com/en-US/JJ/job/San-Diego-California-United-States-of-America/Proteomics-Summer-Intern-2027_R-103089) |
 | 45 | Johnson & Johnson | Discovery Medicinal Chemistry Internship | Spring House, Pennsylvania, United States of America | Other | Not disclosed | Excel | Not specified | [Apply](https://jj.wd5.myworkdayjobs.com/en-US/JJ/job/Spring-House-Pennsylvania-United-States-of-America/Discovery-Medicinal-Chemistry-Internship_R-103050) |
 | 45 | Johnson & Johnson | GTO Manufacturing Engineering Co-Op | Cornelia, Georgia, United States of America | Other | Not disclosed | Excel · electrical engineering · CAD · recruiting · contracts | Not specified | [Apply](https://jj.wd5.myworkdayjobs.com/en-US/JJ/job/Cornelia-Georgia-United-States-of-America/GTO-Manufacturing-Engineering-Co-Op_R-098898) |
-| 45 | Johnson & Johnson | IMM Discovery Intern - La Jolla | San Diego, California, United States of America | Other | $23.5/hr | Excel | Not specified | [Apply](https://jj.wd5.myworkdayjobs.com/en-US/JJ/job/San-Diego-California-United-States-of-America/IMM-Discovery-Intern---La-Jolla_R-103291) |
 | 45 | Johnson & Johnson | R&D Intern - Biostatistics | Jacksonville, Florida, United States of America | Other | Not disclosed | recruiting | Not specified | [Apply](https://jj.wd5.myworkdayjobs.com/en-US/JJ/job/Jacksonville-Florida-United-States-of-America/R-D-Intern---Biostatistics_R-099394) |
 | 45 | Johnson & Johnson | Data Science Co-op | Danvers, Massachusetts, United States of America | Other | $23.5/hr | Python · AWS · Azure · machine learning · data science | Not specified | [Apply](https://jj.wd5.myworkdayjobs.com/en-US/JJ/job/Danvers-Massachusetts-United-States-of-America/Data-Science-Co-op_R-100341) |
 | 45 | Johnson & Johnson | 2027 Jax R&D Internship (STEM, Eng/Chem) | Jacksonville, Florida, United States of America | Other | Not disclosed | recruiting | No sponsorship for this position | [Apply](https://jj.wd5.myworkdayjobs.com/en-US/JJ/job/Jacksonville-Florida-United-States-of-America/XMLNAME-2027-Jax-R-D-Internship--STEM--Eng-Chem-_R-099052) |
@@ -498,7 +486,6 @@ Open positions: 379
 | 49 | RTX | Metrology Engineering Intern (Summer 2027) | US-IA-CEDAR RAPIDS-123 ~ 350 Collins Rd NE ~ BLDG 123 | Other | Not disclosed | compliance · contracts | Not specified | [Apply](https://globalhr.wd5.myworkdayjobs.com/en-US/REC_RTX_Ext_Gateway/job/US-IA-CEDAR-RAPIDS-123--350-Collins-Rd-NE--BLDG-123/Metrology-Engineering-Intern--Summer-2027-_01882625) |
 | 49 | RTX | TCMA Systems Engineering Intern - Summer 2027-Onsite | US-AL-HUNTSVILLE-382 ~ 420 Jan Davis Dr ~ DAVIS 382 | Other | Not disclosed | Python · compliance · contracts | Not specified | [Apply](https://globalhr.wd5.myworkdayjobs.com/en-US/REC_RTX_Ext_Gateway/job/US-AL-HUNTSVILLE-382--420-Jan-Davis-Dr--DAVIS-382/TCMA-Systems-Engineering-Intern---Summer-2027-Onsite_01867372) |
 | 49 | RTX | Structures Intern (Summer 2027)(Onsite) | US-CT-EAST HARTFORD-ETC ~ 400 Main St ~ BLDG ETC | Other | Not disclosed | mechanical engineering · compliance · contracts | Not specified | [Apply](https://globalhr.wd5.myworkdayjobs.com/en-US/REC_RTX_Ext_Gateway/job/US-CT-EAST-HARTFORD-ETC--400-Main-St--BLDG-ETC/Structures-Intern--Summer-2027--Onsite-_01880522) |
-| 49 | RTX | Contracts Co-op (Spring/Summer 2027) | US-IL-REMOTE | Other | Not disclosed | audit · compliance · contracts | Not specified | [Apply](https://globalhr.wd5.myworkdayjobs.com/en-US/REC_RTX_Ext_Gateway/job/US-IL-REMOTE/Contracts-Co-op--Spring-Summer-2027-_01882555) |
 | 49 | RTX | System Administrator Intern (Summer 2027) | US-RI-MIDDLETOWN-201 ~ 127 John Clarke Rd ~ BBN MIDDLETOWN, Ste 3 | Other | Not disclosed | compliance · contracts | Not specified | [Apply](https://globalhr.wd5.myworkdayjobs.com/en-US/REC_RTX_Ext_Gateway/job/US-RI-MIDDLETOWN-201--127-John-Clarke-Rd--BBN-MIDDLETOWN-Ste-3/System-Administrator-Intern--Summer-2027-_01879679) |
 | 49 | RTX | Systems Engineering Intern | US-MA-MARLBOROUGH-MA1 ~ 1001 Boston Post Rd ~ BLDG 1 | Other | Not disclosed | Python · C# · compliance | Not specified | [Apply](https://globalhr.wd5.myworkdayjobs.com/en-US/REC_RTX_Ext_Gateway/job/US-MA-MARLBOROUGH-MA1--1001-Boston-Post-Rd--BLDG-1/Systems-Engineering-Intern_01882697) |
 | 49 | RTX | 2027 Spring/Summer Co-Op, Systems Engineering - Onsite | US-CT-EAST HARTFORD-ETC ~ 400 Main St ~ BLDG ETC | Other | Not disclosed | compliance · contracts | Not specified | [Apply](https://globalhr.wd5.myworkdayjobs.com/en-US/REC_RTX_Ext_Gateway/job/US-CT-EAST-HARTFORD-ETC--400-Main-St--BLDG-ETC/XMLNAME-2027-Spring-Summer-Co-Op--Systems-Engineering---Onsite_01876249) |
@@ -649,9 +636,7 @@ Open positions: 379
 | 99 | Nike | NIKE, Inc. NXT SPACE Engineering, Innovation Graduate Internship | Beaverton, Oregon | Other | Not disclosed | — | Not specified | [Apply](https://nike.wd1.myworkdayjobs.com/en-US/nke/job/Beaverton-Oregon/NIKE--Inc-NXT-SPACE-Engineering--Innovation-Graduate-Internship_R-94423-1) |
 | 99 | Nike | NIKE, Inc. Footwear Product Creation Undergraduate Internship | Beaverton, Oregon | Other | Not disclosed | mechanical engineering | Not specified | [Apply](https://nike.wd1.myworkdayjobs.com/en-US/nke/job/Beaverton-Oregon/NIKE--Inc-Footwear-Product-Creation-Undergraduate-Internship_R-94410) |
 | 99 | Nike | Converse Enterprise Business Planning Graduate Internship | Boston, Massachusetts | Other | Not disclosed | SQL · analytics · Excel · supply chain | Not specified | [Apply](https://nike.wd1.myworkdayjobs.com/en-US/nke/job/Boston-Massachusetts/Converse-Enterprise-Business-Planning-Graduate-Internship_R-92810) |
-| 99 | Nike | NIKE, Inc. N7 Undergraduate Internship | Beaverton, Oregon | Other | Not disclosed | — | Not specified | [Apply](https://nike.wd1.myworkdayjobs.com/en-US/nke/job/Beaverton-Oregon/NIKE--Inc-N7-Undergraduate-Internship_R-92659) |
 | 99 | Nike | NIKE, Inc. Global Sustainability Graduate Internship | Beaverton, Oregon | Other | Not disclosed | analytics · supply chain · procurement · compliance | Not specified | [Apply](https://nike.wd1.myworkdayjobs.com/en-US/nke/job/Beaverton-Oregon/NIKE--Inc-Global-Sustainability-Graduate-Internship_R-92069) |
-| 99 | Nike | NIKE, Inc. Air MI Engineering Undergraduate Internship | Beaverton, Oregon | Other | Not disclosed | — | Not specified | [Apply](https://nike.wd1.myworkdayjobs.com/en-US/nke/job/Beaverton-Oregon/NIKE--Inc-Air-MI-Engineering-Undergraduate-Internship_R-91417-1) |
 | 99 | Nike | Converse Strategic Planning Graduate Internship | Boston, Massachusetts | Other | Not disclosed | — | Not specified | [Apply](https://nike.wd1.myworkdayjobs.com/en-US/nke/job/Boston-Massachusetts/Converse-Strategic-Planning-Graduate-Internship_R-92185) |
 | 99 | Nike | NIKE, Inc. Digital Growth Graduate Internship | Beaverton, Oregon | Other | Not disclosed | financial modeling | Not specified | [Apply](https://nike.wd1.myworkdayjobs.com/en-US/nke/job/Beaverton-Oregon/NIKE--Inc-Digital-Growth-Graduate-Internship_R-92073-1) |
 | 99 | Nike | NIKE, Inc. Strategic Planning Graduate Internship | Beaverton, Oregon | Other | Not disclosed | — | Not specified | [Apply](https://nike.wd1.myworkdayjobs.com/en-US/nke/job/Beaverton-Oregon/NIKE--Inc-Strategic-Planning-Graduate-Internship_R-91142) |

@@ -229,12 +229,14 @@
   },
   "greenhouse:Airbnb:7702714": {
     "company": "Airbnb",
-    "enriched_at": "2026-10-09T22:37:28.242328+00:00",
+    "enriched_at": "2026-10-20T11:34:33.766592+00:00",
     "external_id": "7702714",
     "h1b_mentioned": false,
     "h1b_status": "unknown",
     "keywords": [
-      "recruiting"
+      "Kubernetes",
+      "recruiting",
+      "contracts"
     ],
     "salary_currency": "",
     "salary_max": null,
@@ -242,7 +244,7 @@
     "salary_period": "",
     "salary_text": "",
     "source": "greenhouse",
-    "source_updated_at": "2026-10-09T16:56:37-04:00",
+    "source_updated_at": "2026-10-20T01:09:41-04:00",
     "sponsorship_evidence": ""
   },
   "greenhouse:Airbnb:7705262": {
@@ -3046,7 +3048,7 @@
   },
   "greenhouse:Airbnb:8165656": {
     "company": "Airbnb",
-    "enriched_at": "2026-09-30T05:31:23.456092+00:00",
+    "enriched_at": "2026-10-20T11:34:33.744164+00:00",
     "external_id": "8165656",
     "h1b_mentioned": false,
     "h1b_status": "unknown",
@@ -3061,7 +3063,7 @@
     "salary_period": "",
     "salary_text": "",
     "source": "greenhouse",
-    "source_updated_at": "2026-09-29T20:00:54-04:00",
+    "source_updated_at": "2026-10-20T01:12:13-04:00",
     "sponsorship_evidence": ""
   },
   "greenhouse:Airbnb:8167113": {
@@ -4010,6 +4012,25 @@
     "salary_text": "",
     "source": "greenhouse",
     "source_updated_at": "2026-10-05T12:37:13-04:00",
+    "sponsorship_evidence": ""
+  },
+  "greenhouse:Airbnb:8242235": {
+    "company": "Airbnb",
+    "enriched_at": "2026-10-20T11:34:33.754959+00:00",
+    "external_id": "8242235",
+    "h1b_mentioned": false,
+    "h1b_status": "unknown",
+    "keywords": [
+      "machine learning",
+      "recruiting"
+    ],
+    "salary_currency": "",
+    "salary_max": null,
+    "salary_min": null,
+    "salary_period": "",
+    "salary_text": "",
+    "source": "greenhouse",
+    "source_updated_at": "2026-10-20T00:51:46-04:00",
     "sponsorship_evidence": ""
   },
   "greenhouse:Airbnb:8242248": {
@@ -8138,7 +8159,7 @@
   },
   "greenhouse:Block:5405182008": {
     "company": "Block",
-    "enriched_at": "2026-10-08T23:20:22.367725+00:00",
+    "enriched_at": "2026-10-20T11:34:33.274483+00:00",
     "external_id": "5405182008",
     "h1b_mentioned": false,
     "h1b_status": "unknown",
@@ -8152,7 +8173,7 @@
     "salary_period": "",
     "salary_text": "",
     "source": "greenhouse",
-    "source_updated_at": "2026-10-08T17:26:12-04:00",
+    "source_updated_at": "2026-10-20T06:49:05-04:00",
     "sponsorship_evidence": ""
   },
   "greenhouse:Block:5405533008": {
@@ -91160,7 +91181,7 @@
   },
   "greenhouse:Coupang:7965062": {
     "company": "Coupang",
-    "enriched_at": "2026-10-13T22:44:04.624076+00:00",
+    "enriched_at": "2026-10-20T11:34:33.120377+00:00",
     "external_id": "7965062",
     "h1b_mentioned": false,
     "h1b_status": "unknown",
@@ -91178,7 +91199,7 @@
     "salary_period": "year",
     "salary_text": "$174,000/year",
     "source": "greenhouse",
-    "source_updated_at": "2026-10-13T17:17:21-04:00",
+    "source_updated_at": "2026-10-20T03:09:56-04:00",
     "sponsorship_evidence": ""
   },
   "greenhouse:Coupang:7977000": {
@@ -112405,7 +112426,7 @@
   },
   "greenhouse:DoorDash:8279569": {
     "company": "DoorDash",
-    "enriched_at": "2026-10-13T22:44:07.489350+00:00",
+    "enriched_at": "2026-10-20T11:34:33.583697+00:00",
     "external_id": "8279569",
     "h1b_mentioned": false,
     "h1b_status": "unknown",
@@ -112423,7 +112444,7 @@
     "salary_period": "",
     "salary_text": "",
     "source": "greenhouse",
-    "source_updated_at": "2026-10-13T16:12:19-04:00",
+    "source_updated_at": "2026-10-20T02:15:50-04:00",
     "sponsorship_evidence": ""
   },
   "greenhouse:DoorDash:8281249": {
@@ -112832,7 +112853,7 @@
   },
   "greenhouse:DoorDash:8294468": {
     "company": "DoorDash",
-    "enriched_at": "2026-10-19T22:20:43.488559+00:00",
+    "enriched_at": "2026-10-20T11:34:33.600907+00:00",
     "external_id": "8294468",
     "h1b_mentioned": false,
     "h1b_status": "unknown",
@@ -112852,7 +112873,7 @@
     "salary_period": "",
     "salary_text": "",
     "source": "greenhouse",
-    "source_updated_at": "2026-10-19T10:54:34-04:00",
+    "source_updated_at": "2026-10-20T02:11:06-04:00",
     "sponsorship_evidence": ""
   },
   "greenhouse:DoorDash:8300729": {
@@ -174211,7 +174232,7 @@
   },
   "workday:Boeing:/job/USA---San-Antonio-TX/B-52-Field-Service-Rep---Defense_JR2026521257": {
     "company": "Boeing",
-    "enriched_at": "2026-09-10T16:26:05.153191+00:00",
+    "enriched_at": "2026-10-20T11:36:57.599721+00:00",
     "external_id": "/job/USA---San-Antonio-TX/B-52-Field-Service-Rep---Defense_JR2026521257",
     "h1b_mentioned": false,
     "h1b_status": "does_not_support_h1b",
@@ -184131,6 +184152,35 @@
     "source_updated_at": "",
     "sponsorship_evidence": ""
   },
+  "workday:Capital One:/job/Bangalore-In/Principal-Associate--Software-Engineering_R1004124-1": {
+    "company": "Capital One",
+    "enriched_at": "2026-10-20T11:35:06.835415+00:00",
+    "external_id": "/job/Bangalore-In/Principal-Associate--Software-Engineering_R1004124-1",
+    "h1b_mentioned": false,
+    "h1b_status": "does_not_support_h1b",
+    "keywords": [
+      "Python",
+      "Java",
+      "JavaScript",
+      "TypeScript",
+      "Go",
+      "SQL",
+      "React",
+      "AWS",
+      "Azure",
+      "GCP",
+      "Docker",
+      "Kubernetes"
+    ],
+    "salary_currency": "",
+    "salary_max": null,
+    "salary_min": null,
+    "salary_period": "",
+    "salary_text": "",
+    "source": "workday",
+    "source_updated_at": "",
+    "sponsorship_evidence": "frameworks 2+ years of experience in Agile practices At this time, Capital One will not sponsor a new applicant for employment authorization for this position."
+  },
   "workday:Capital One:/job/Bangalore-In/Principal-Coordinator---Admin-Support-Assistant_R246913": {
     "company": "Capital One",
     "enriched_at": "2026-10-13T22:44:47.751055+00:00",
@@ -184294,6 +184344,32 @@
     "source": "workday",
     "source_updated_at": "",
     "sponsorship_evidence": "At this time, Capital One will not sponsor a new applicant for employment authorization for this position."
+  },
+  "workday:Capital One:/job/Bangalore-In/Senior-Associate--Software-Engineering_R1003791-2": {
+    "company": "Capital One",
+    "enriched_at": "2026-10-20T11:35:06.840694+00:00",
+    "external_id": "/job/Bangalore-In/Senior-Associate--Software-Engineering_R1003791-2",
+    "h1b_mentioned": false,
+    "h1b_status": "does_not_support_h1b",
+    "keywords": [
+      "Python",
+      "Java",
+      "JavaScript",
+      "TypeScript",
+      "AWS",
+      "Azure",
+      "PostgreSQL",
+      "recruiting",
+      "compliance"
+    ],
+    "salary_currency": "",
+    "salary_max": null,
+    "salary_min": null,
+    "salary_period": "",
+    "salary_text": "",
+    "source": "workday",
+    "source_updated_at": "",
+    "sponsorship_evidence": "th low level design and high level design (LLD & HLD) At this time, Capital One will not sponsor a new applicant for employment authorization for this position."
   },
   "workday:Capital One:/job/Bangalore-In/Senior-Lead-Software-Engineer_R248677-1": {
     "company": "Capital One",
@@ -533563,6 +533639,27 @@
     "source_updated_at": "",
     "sponsorship_evidence": ""
   },
+  "workday:NVIDIA:/job/US-CA-Santa-Clara/Senior-Director--Corporate-Finance_JR2028216": {
+    "company": "NVIDIA",
+    "enriched_at": "2026-10-20T11:34:41.334232+00:00",
+    "external_id": "/job/US-CA-Santa-Clara/Senior-Director--Corporate-Finance_JR2028216",
+    "h1b_mentioned": false,
+    "h1b_status": "unknown",
+    "keywords": [
+      "financial modeling",
+      "accounting",
+      "supply chain",
+      "recruiting"
+    ],
+    "salary_currency": "",
+    "salary_max": null,
+    "salary_min": null,
+    "salary_period": "",
+    "salary_text": "",
+    "source": "workday",
+    "source_updated_at": "",
+    "sponsorship_evidence": ""
+  },
   "workday:NVIDIA:/job/US-CA-Santa-Clara/Senior-Director--Developer-Marketing_JR2020003": {
     "company": "NVIDIA",
     "enriched_at": "2026-10-09T22:37:35.451150+00:00",
@@ -555546,6 +555643,25 @@
     "h1b_mentioned": false,
     "h1b_status": "unknown",
     "keywords": [],
+    "salary_currency": "",
+    "salary_max": null,
+    "salary_min": null,
+    "salary_period": "",
+    "salary_text": "",
+    "source": "workday",
+    "source_updated_at": "",
+    "sponsorship_evidence": ""
+  },
+  "workday:Northrop Grumman:/job/United-States-Alabama-Huntsville/Software-Engineer--Software-Architect---Level-4_R10256761": {
+    "company": "Northrop Grumman",
+    "enriched_at": "2026-10-20T11:36:53.343512+00:00",
+    "external_id": "/job/United-States-Alabama-Huntsville/Software-Engineer--Software-Architect---Level-4_R10256761",
+    "h1b_mentioned": false,
+    "h1b_status": "unknown",
+    "keywords": [
+      "Docker",
+      "Kubernetes"
+    ],
     "salary_currency": "",
     "salary_max": null,
     "salary_min": null,
@@ -654126,6 +654242,25 @@
     "source_updated_at": "",
     "sponsorship_evidence": ""
   },
+  "workday:Northrop Grumman:/job/United-States-Maryland-Linthicum/Manager-Programs-2_R10255081": {
+    "company": "Northrop Grumman",
+    "enriched_at": "2026-10-20T11:36:53.330580+00:00",
+    "external_id": "/job/United-States-Maryland-Linthicum/Manager-Programs-2_R10255081",
+    "h1b_mentioned": false,
+    "h1b_status": "unknown",
+    "keywords": [
+      "supply chain",
+      "contracts"
+    ],
+    "salary_currency": "",
+    "salary_max": null,
+    "salary_min": null,
+    "salary_period": "",
+    "salary_text": "",
+    "source": "workday",
+    "source_updated_at": "",
+    "sponsorship_evidence": ""
+  },
   "workday:Northrop Grumman:/job/United-States-Maryland-Linthicum/Manager-Programs-2_R10255286": {
     "company": "Northrop Grumman",
     "enriched_at": "2026-10-15T04:39:30.485489+00:00",
@@ -673829,6 +673964,22 @@
     "keywords": [
       "Excel"
     ],
+    "salary_currency": "",
+    "salary_max": null,
+    "salary_min": null,
+    "salary_period": "",
+    "salary_text": "",
+    "source": "workday",
+    "source_updated_at": "",
+    "sponsorship_evidence": ""
+  },
+  "workday:Northrop Grumman:/job/United-States-Utah-Clearfield/Manager-of-General-Manufacturing-1_R10256276": {
+    "company": "Northrop Grumman",
+    "enriched_at": "2026-10-20T11:36:53.319762+00:00",
+    "external_id": "/job/United-States-Utah-Clearfield/Manager-of-General-Manufacturing-1_R10256276",
+    "h1b_mentioned": false,
+    "h1b_status": "unknown",
+    "keywords": [],
     "salary_currency": "",
     "salary_max": null,
     "salary_min": null,
@@ -695333,6 +695484,46 @@
     "source_updated_at": "",
     "sponsorship_evidence": ""
   },
+  "workday:Northrop Grumman:/job/United-States-Utah-Salt-Lake-City/Manager-Programs-2_R10256116": {
+    "company": "Northrop Grumman",
+    "enriched_at": "2026-10-20T11:36:53.293853+00:00",
+    "external_id": "/job/United-States-Utah-Salt-Lake-City/Manager-Programs-2_R10256116",
+    "h1b_mentioned": false,
+    "h1b_status": "unknown",
+    "keywords": [
+      "Excel",
+      "supply chain",
+      "legal",
+      "contracts"
+    ],
+    "salary_currency": "",
+    "salary_max": null,
+    "salary_min": null,
+    "salary_period": "",
+    "salary_text": "",
+    "source": "workday",
+    "source_updated_at": "",
+    "sponsorship_evidence": ""
+  },
+  "workday:Northrop Grumman:/job/United-States-Utah-Salt-Lake-City/Manager-Programs-2_R10256630": {
+    "company": "Northrop Grumman",
+    "enriched_at": "2026-10-20T11:36:53.306114+00:00",
+    "external_id": "/job/United-States-Utah-Salt-Lake-City/Manager-Programs-2_R10256630",
+    "h1b_mentioned": false,
+    "h1b_status": "unknown",
+    "keywords": [
+      "supply chain",
+      "contracts"
+    ],
+    "salary_currency": "",
+    "salary_max": null,
+    "salary_min": null,
+    "salary_period": "",
+    "salary_text": "",
+    "source": "workday",
+    "source_updated_at": "",
+    "sponsorship_evidence": ""
+  },
   "workday:Northrop Grumman:/job/United-States-Utah-Salt-Lake-City/Manager-Supply-Chain-Programs-1_R10239290": {
     "company": "Northrop Grumman",
     "enriched_at": "2026-10-08T13:30:05.622756+00:00",
@@ -695776,6 +695967,25 @@
       "CAD",
       "SolidWorks",
       "procurement"
+    ],
+    "salary_currency": "",
+    "salary_max": null,
+    "salary_min": null,
+    "salary_period": "",
+    "salary_text": "",
+    "source": "workday",
+    "source_updated_at": "",
+    "sponsorship_evidence": ""
+  },
+  "workday:Northrop Grumman:/job/United-States-Utah-Salt-Lake-City/Principal-Engineer-Reliability_R10255114-1": {
+    "company": "Northrop Grumman",
+    "enriched_at": "2026-10-20T11:36:53.283975+00:00",
+    "external_id": "/job/United-States-Utah-Salt-Lake-City/Principal-Engineer-Reliability_R10255114-1",
+    "h1b_mentioned": false,
+    "h1b_status": "unknown",
+    "keywords": [
+      "Excel",
+      "electrical engineering"
     ],
     "salary_currency": "",
     "salary_max": null,
@@ -731645,7 +731855,7 @@
   },
   "workday:RTX:/job/IN-KA-BENGALURU-NORTHGATE--Sy-No-22-Venkatala-Village--SY-NO-22-VENKATALA-VILLAGE-Yelahanka-Hobli/Lead-Engineer---Software-DO-178B-C-3-6-years-_01862240": {
     "company": "RTX",
-    "enriched_at": "2026-10-08T13:35:12.139771+00:00",
+    "enriched_at": "2026-10-20T11:40:36.499279+00:00",
     "external_id": "/job/IN-KA-BENGALURU-NORTHGATE--Sy-No-22-Venkatala-Village--SY-NO-22-VENKATALA-VILLAGE-Yelahanka-Hobli/Lead-Engineer---Software-DO-178B-C-3-6-years-_01862240",
     "h1b_mentioned": false,
     "h1b_status": "unknown",
@@ -787087,6 +787297,31 @@
     "source_updated_at": "",
     "sponsorship_evidence": ""
   },
+  "workday:RTX:/job/US-CO-AURORA-S75--16800-E-Centretech-Pkwy--BLDG-S75/Part-time-Software-Engineer-Co-op--Remote-_01883452": {
+    "company": "RTX",
+    "enriched_at": "2026-10-20T11:40:36.521741+00:00",
+    "external_id": "/job/US-CO-AURORA-S75--16800-E-Centretech-Pkwy--BLDG-S75/Part-time-Software-Engineer-Co-op--Remote-_01883452",
+    "h1b_mentioned": false,
+    "h1b_status": "unknown",
+    "keywords": [
+      "Python",
+      "Java",
+      "JavaScript",
+      "AWS",
+      "Docker",
+      "Kubernetes",
+      "artificial intelligence",
+      "compliance"
+    ],
+    "salary_currency": "",
+    "salary_max": null,
+    "salary_min": null,
+    "salary_period": "",
+    "salary_text": "",
+    "source": "workday",
+    "source_updated_at": "",
+    "sponsorship_evidence": ""
+  },
   "workday:RTX:/job/US-CO-AURORA-S75--16800-E-Centretech-Pkwy--BLDG-S75/Prin-Sys-Engineer---Operations-and-Maintenance_01855940": {
     "company": "RTX",
     "enriched_at": "2026-08-22T02:00:55.131341+00:00",
@@ -835257,7 +835492,7 @@
   },
   "workday:RTX:/job/US-IA-CEDAR-RAPIDS-193--1120-Collins-Rd-NE--BLDG193/Flight-Control-Software-Engineer-I--Onsite-_01871083": {
     "company": "RTX",
-    "enriched_at": "2026-09-30T22:22:40.109890+00:00",
+    "enriched_at": "2026-10-20T11:40:36.546306+00:00",
     "external_id": "/job/US-IA-CEDAR-RAPIDS-193--1120-Collins-Rd-NE--BLDG193/Flight-Control-Software-Engineer-I--Onsite-_01871083",
     "h1b_mentioned": false,
     "h1b_status": "unknown",
@@ -903634,6 +903869,28 @@
     "source_updated_at": "",
     "sponsorship_evidence": ""
   },
+  "workday:RTX:/job/US-TX-MCKINNEY-513WD--2501-W-University-Dr--WING-D-BLDG/Material-Program-Manager_01879748-1": {
+    "company": "RTX",
+    "enriched_at": "2026-10-20T11:40:36.556568+00:00",
+    "external_id": "/job/US-TX-MCKINNEY-513WD--2501-W-University-Dr--WING-D-BLDG/Material-Program-Manager_01879748-1",
+    "h1b_mentioned": false,
+    "h1b_status": "unknown",
+    "keywords": [
+      "supply chain",
+      "logistics",
+      "sales",
+      "compliance",
+      "contracts"
+    ],
+    "salary_currency": "",
+    "salary_max": null,
+    "salary_min": null,
+    "salary_period": "",
+    "salary_text": "",
+    "source": "workday",
+    "source_updated_at": "",
+    "sponsorship_evidence": ""
+  },
   "workday:RTX:/job/US-TX-MCKINNEY-513WD--2501-W-University-Dr--WING-D-BLDG/Mechanical-Engineer-I--Onsite-_01871550": {
     "company": "RTX",
     "enriched_at": "2026-09-09T04:46:27.547783+00:00",
@@ -908468,6 +908725,26 @@
     "source_updated_at": "",
     "sponsorship_evidence": ""
   },
+  "workday:RTX:/job/US-TX-PLANO-465--465-Independence-Pkwy--INDEPENDENCE/Principal-Engineer--Radomes-and-Composites_01883618": {
+    "company": "RTX",
+    "enriched_at": "2026-10-20T11:40:36.510491+00:00",
+    "external_id": "/job/US-TX-PLANO-465--465-Independence-Pkwy--INDEPENDENCE/Principal-Engineer--Radomes-and-Composites_01883618",
+    "h1b_mentioned": false,
+    "h1b_status": "unknown",
+    "keywords": [
+      "mechanical engineering",
+      "supply chain",
+      "compliance"
+    ],
+    "salary_currency": "",
+    "salary_max": null,
+    "salary_min": null,
+    "salary_period": "",
+    "salary_text": "",
+    "source": "workday",
+    "source_updated_at": "",
+    "sponsorship_evidence": ""
+  },
   "workday:RTX:/job/US-TX-PLANO-465--465-Independence-Pkwy--INDEPENDENCE/Principal-Lead-Systems-Engineer_01878734": {
     "company": "RTX",
     "enriched_at": "2026-10-13T22:51:22.853668+00:00",
@@ -912714,6 +912991,31 @@
       "risk management",
       "compliance",
       "legal"
+    ],
+    "salary_currency": "",
+    "salary_max": null,
+    "salary_min": null,
+    "salary_period": "",
+    "salary_text": "",
+    "source": "workday",
+    "source_updated_at": "",
+    "sponsorship_evidence": ""
+  },
+  "workday:RTX:/job/US-TX-RICHARDSON-C17--1717-Cityline-Dr--CITYLINE-C17/Software-Engineer-Co-op--Remote-_01883545": {
+    "company": "RTX",
+    "enriched_at": "2026-10-20T11:40:36.533989+00:00",
+    "external_id": "/job/US-TX-RICHARDSON-C17--1717-Cityline-Dr--CITYLINE-C17/Software-Engineer-Co-op--Remote-_01883545",
+    "h1b_mentioned": false,
+    "h1b_status": "unknown",
+    "keywords": [
+      "Python",
+      "Java",
+      "JavaScript",
+      "AWS",
+      "Docker",
+      "Kubernetes",
+      "artificial intelligence",
+      "compliance"
     ],
     "salary_currency": "",
     "salary_max": null,
@@ -920535,6 +920837,27 @@
     "source_updated_at": "",
     "sponsorship_evidence": ""
   },
+  "workday:S&P Global:/job/Chicago-IL/Senior-Principal-Analyst---Long-Term-Forecasting_332231-1": {
+    "company": "S&P Global",
+    "enriched_at": "2026-10-20T11:38:17.693487+00:00",
+    "external_id": "/job/Chicago-IL/Senior-Principal-Analyst---Long-Term-Forecasting_332231-1",
+    "h1b_mentioned": false,
+    "h1b_status": "unknown",
+    "keywords": [
+      "Excel",
+      "supply chain",
+      "sales",
+      "compliance"
+    ],
+    "salary_currency": "",
+    "salary_max": null,
+    "salary_min": null,
+    "salary_period": "",
+    "salary_text": "",
+    "source": "workday",
+    "source_updated_at": "",
+    "sponsorship_evidence": ""
+  },
   "workday:S&P Global:/job/Colorado-US/Administrative-Assistant---US-Public-Finance--Colorado_330370": {
     "company": "S&P Global",
     "enriched_at": "2026-09-03T21:05:33.342811+00:00",
@@ -922232,7 +922555,7 @@
   },
   "workday:S&P Global:/job/New-York-NY/Head-of-Enterprise-Digital-Assets---Tokenization_331697-1": {
     "company": "S&P Global",
-    "enriched_at": "2026-09-07T12:33:34.873025+00:00",
+    "enriched_at": "2026-10-20T11:38:17.670754+00:00",
     "external_id": "/job/New-York-NY/Head-of-Enterprise-Digital-Assets---Tokenization_331697-1",
     "h1b_mentioned": false,
     "h1b_status": "unknown",
@@ -952361,6 +952684,32 @@
       "analytics",
       "sales",
       "CRM"
+    ],
+    "salary_currency": "",
+    "salary_max": null,
+    "salary_min": null,
+    "salary_period": "",
+    "salary_text": "",
+    "source": "workday",
+    "source_updated_at": "",
+    "sponsorship_evidence": ""
+  },
+  "workday:Thermo Fisher Scientific:/job/Carlsbad-California-USA/Sr-Manager--Data-Engineering---Applied-Data-Science_R-01370053": {
+    "company": "Thermo Fisher Scientific",
+    "enriched_at": "2026-10-20T11:46:26.315027+00:00",
+    "external_id": "/job/Carlsbad-California-USA/Sr-Manager--Data-Engineering---Applied-Data-Science_R-01370053",
+    "h1b_mentioned": false,
+    "h1b_status": "unknown",
+    "keywords": [
+      "Python",
+      "SQL",
+      "AWS",
+      "Azure",
+      "GCP",
+      "machine learning",
+      "data science",
+      "analytics",
+      "compliance"
     ],
     "salary_currency": "",
     "salary_max": null,
