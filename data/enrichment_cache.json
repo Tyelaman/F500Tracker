@@ -133685,6 +133685,32 @@
     "source_updated_at": "",
     "sponsorship_evidence": "Allstate generally does not sponsor individuals for employment-based visas for this position."
   },
+  "workday:Allstate:/job/US---Remote/Lead-Threat-Hunter_R32351": {
+    "company": "Allstate",
+    "enriched_at": "2026-10-24T20:57:30.395203+00:00",
+    "external_id": "/job/US---Remote/Lead-Threat-Hunter_R32351",
+    "h1b_mentioned": false,
+    "h1b_status": "does_not_support_h1b",
+    "keywords": [
+      "Python",
+      "AWS",
+      "Azure",
+      "Kubernetes",
+      "artificial intelligence",
+      "analytics",
+      "audit",
+      "compliance",
+      "contracts"
+    ],
+    "salary_currency": "",
+    "salary_max": null,
+    "salary_min": null,
+    "salary_period": "",
+    "salary_text": "",
+    "source": "workday",
+    "source_updated_at": "",
+    "sponsorship_evidence": "Allstate generally does not sponsor individuals for employment-based visas for this position."
+  },
   "workday:Allstate:/job/US---Remote/Licensed-Customer-Engagement-Specialist_R35591-1": {
     "company": "Allstate",
     "enriched_at": "2026-10-22T04:53:53.942487+00:00",
@@ -437070,7 +437096,7 @@
   },
   "workday:Lowe's:/job/Fredericksburg-VA-S-Stafford-2870/Full-Time---Sales-Associate---Building-Materials---Closing_JR-02680339": {
     "company": "Lowe's",
-    "enriched_at": "2026-10-17T20:45:09.032644+00:00",
+    "enriched_at": "2026-10-24T20:57:26.952599+00:00",
     "external_id": "/job/Fredericksburg-VA-S-Stafford-2870/Full-Time---Sales-Associate---Building-Materials---Closing_JR-02680339",
     "h1b_mentioned": false,
     "h1b_status": "unknown",
@@ -439346,6 +439372,24 @@
     "company": "Lowe's",
     "enriched_at": "2026-08-22T02:05:56.881529+00:00",
     "external_id": "/job/Greensboro-NC-SE-Greensboro-2222/Full-Time---Sales-Associate---Paint---Opening_JR-02612846",
+    "h1b_mentioned": false,
+    "h1b_status": "unknown",
+    "keywords": [
+      "sales"
+    ],
+    "salary_currency": "",
+    "salary_max": null,
+    "salary_min": null,
+    "salary_period": "",
+    "salary_text": "",
+    "source": "workday",
+    "source_updated_at": "",
+    "sponsorship_evidence": ""
+  },
+  "workday:Lowe's:/job/Greensboro-NC-SW-Greensboro-0404/Full-Time---Receiver-Stocker---Day_JR-02684571": {
+    "company": "Lowe's",
+    "enriched_at": "2026-10-24T20:57:26.941922+00:00",
+    "external_id": "/job/Greensboro-NC-SW-Greensboro-0404/Full-Time---Receiver-Stocker---Day_JR-02684571",
     "h1b_mentioned": false,
     "h1b_status": "unknown",
     "keywords": [
@@ -593003,7 +593047,7 @@
   },
   "workday:Northrop Grumman:/job/United-States-Arizona-Chandler/Staff-Optomechanical-Engineer---5_R10256529": {
     "company": "Northrop Grumman",
-    "enriched_at": "2026-10-17T20:37:48.929883+00:00",
+    "enriched_at": "2026-10-24T20:49:48.636592+00:00",
     "external_id": "/job/United-States-Arizona-Chandler/Staff-Optomechanical-Engineer---5_R10256529",
     "h1b_mentioned": false,
     "h1b_status": "unknown",
@@ -594348,7 +594392,7 @@
   },
   "workday:Northrop Grumman:/job/United-States-Arizona-Chandler/XMLNAME--Skillbridge----Engineering-Technician---Electrical-Ground-Support-Equipment_R10256530": {
     "company": "Northrop Grumman",
-    "enriched_at": "2026-10-17T20:37:48.914663+00:00",
+    "enriched_at": "2026-10-24T20:49:48.621236+00:00",
     "external_id": "/job/United-States-Arizona-Chandler/XMLNAME--Skillbridge----Engineering-Technician---Electrical-Ground-Support-Equipment_R10256530",
     "h1b_mentioned": false,
     "h1b_status": "unknown",
@@ -617243,7 +617287,7 @@
   },
   "workday:Northrop Grumman:/job/United-States-California-Redondo-Beach/Principal-Supply-Chain-Planning-Specialist_R10253580-1": {
     "company": "Northrop Grumman",
-    "enriched_at": "2026-10-17T20:37:48.906024+00:00",
+    "enriched_at": "2026-10-24T20:49:48.613136+00:00",
     "external_id": "/job/United-States-California-Redondo-Beach/Principal-Supply-Chain-Planning-Specialist_R10253580-1",
     "h1b_mentioned": false,
     "h1b_status": "unknown",
@@ -810101,6 +810145,28 @@
       "supply chain",
       "procurement",
       "compliance"
+    ],
+    "salary_currency": "",
+    "salary_max": null,
+    "salary_min": null,
+    "salary_period": "",
+    "salary_text": "",
+    "source": "workday",
+    "source_updated_at": "",
+    "sponsorship_evidence": ""
+  },
+  "workday:RTX:/job/US-AZ-TUCSON-M09--3350-E-Hemisphere-Loop--BLDG-M09/Material-Program-Manager--MPM----Tucson--AZ_01884881-1": {
+    "company": "RTX",
+    "enriched_at": "2026-10-24T20:53:10.973087+00:00",
+    "external_id": "/job/US-AZ-TUCSON-M09--3350-E-Hemisphere-Loop--BLDG-M09/Material-Program-Manager--MPM----Tucson--AZ_01884881-1",
+    "h1b_mentioned": false,
+    "h1b_status": "unknown",
+    "keywords": [
+      "Excel",
+      "supply chain",
+      "sales",
+      "compliance",
+      "contracts"
     ],
     "salary_currency": "",
     "salary_max": null,
@@ -1144496,6 +1144562,31 @@
     "source_updated_at": "",
     "sponsorship_evidence": ""
   },
+  "workday:Workday:/job/USA-CA-Pleasanton/Senior-Software-Engineer-Distributed-Systems-_JR-0110618": {
+    "company": "Workday",
+    "enriched_at": "2026-10-24T20:48:04.568733+00:00",
+    "external_id": "/job/USA-CA-Pleasanton/Senior-Software-Engineer-Distributed-Systems-_JR-0110618",
+    "h1b_mentioned": false,
+    "h1b_status": "unknown",
+    "keywords": [
+      "Python",
+      "Java",
+      "SQL",
+      "AWS",
+      "Terraform",
+      "analytics",
+      "recruiting",
+      "contracts"
+    ],
+    "salary_currency": "",
+    "salary_max": null,
+    "salary_min": null,
+    "salary_period": "",
+    "salary_text": "",
+    "source": "workday",
+    "source_updated_at": "",
+    "sponsorship_evidence": ""
+  },
   "workday:Workday:/job/USA-CA-Pleasanton/Senior-Software-Engineer_JR-0107919": {
     "company": "Workday",
     "enriched_at": "2026-10-07T23:04:50.656308+00:00",
@@ -1144548,7 +1144639,7 @@
   },
   "workday:Workday:/job/USA-CA-Pleasanton/Software-Development-Engineer-Distributed-Systems-_JR-0109641": {
     "company": "Workday",
-    "enriched_at": "2026-09-23T04:44:08.114667+00:00",
+    "enriched_at": "2026-10-24T20:48:04.550086+00:00",
     "external_id": "/job/USA-CA-Pleasanton/Software-Development-Engineer-Distributed-Systems-_JR-0109641",
     "h1b_mentioned": false,
     "h1b_status": "unknown",

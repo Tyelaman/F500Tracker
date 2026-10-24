@@ -1,12 +1,12 @@
 # F500Tracker internships
 
-Last updated: October 24, 2026 at 16:08 UTC
+Last updated: October 24, 2026 at 20:59 UTC
 
-Current internships: 531
+Current internships: 530
 
 ## Categories
 
-[Software & IT (53)](#software-it) · [Data & AI (9)](#data-ai) · [Product & Design (1)](#product-design) · [Engineering (58)](#engineering) · [Finance & Accounting (14)](#finance-accounting) · [Sales & Marketing (14)](#sales-marketing) · [Operations & Supply Chain (32)](#operations-supply-chain) · [People & Legal (4)](#people-legal) · [Other (346)](#other)
+[Software & IT (53)](#software-it) · [Data & AI (9)](#data-ai) · [Product & Design (1)](#product-design) · [Engineering (58)](#engineering) · [Finance & Accounting (14)](#finance-accounting) · [Sales & Marketing (14)](#sales-marketing) · [Operations & Supply Chain (32)](#operations-supply-chain) · [People & Legal (4)](#people-legal) · [Other (345)](#other)
 
 <a id="software-it"></a>
 
@@ -285,7 +285,7 @@ Open positions: 4
 
 ## Other
 
-Open positions: 346
+Open positions: 345
 
 | Rank | Company | Position | Location | Category | Salary | Keywords | Sponsorship | Apply |
 |---:|---|---|---|---|---|---|---|---|
@@ -563,7 +563,6 @@ Open positions: 346
 | 49 | RTX | Test Equipment Design Intern (Onsite) | US-CT-EAST HARTFORD-J ~ 400 Main St ~ BLDG J | Other | Not disclosed | recruiting · compliance · contracts | Not specified | [Apply](https://globalhr.wd5.myworkdayjobs.com/en-US/REC_RTX_Ext_Gateway/job/US-CT-EAST-HARTFORD-J--400-Main-St--BLDG-J/Test-Equipment-Design-Intern--Onsite-_01870628) |
 | 49 | RTX | Data Recording Intern (Onsite) | US-CT-MIDDLETOWN-220A ~ Aircraft Rd ~ BLDG 220A | Other | Not disclosed | electrical engineering · recruiting · compliance · contracts | Not specified | [Apply](https://globalhr.wd5.myworkdayjobs.com/en-US/REC_RTX_Ext_Gateway/job/US-CT-MIDDLETOWN-220A--Aircraft-Rd--BLDG-220A/Data-Recording-Intern--Onsite-_01872055) |
 | 49 | RTX | Head-up Guidance Systems Engineering Co-op, Spring/Summer 2027 (Onsite) | US-OR-WILSONVILLE-596 ~ 27500 SW Parkway Ave ~ BLDG 596 | Other | Not disclosed | recruiting · compliance | Not specified | [Apply](https://globalhr.wd5.myworkdayjobs.com/en-US/REC_RTX_Ext_Gateway/job/US-OR-WILSONVILLE-596--27500-SW-Parkway-Ave--BLDG-596/Head-up-Guidance-Systems-Engineering-Co-op--Spring-Summer-2027--Onsite-_01872670) |
-| 49 | RTX | Stage - Hiver 2027 - Ingénieur client et Nouveau programme moteur / Internship - Winter 2027 - Customer Engineering & New Engine Program | CA-QC-LONGUEUIL-J01 ~ 1000 Blvd Marie-Victorin ~ J01 BLDG | Other | Not disclosed | Excel · mechanical engineering | Not specified | [Apply](https://globalhr.wd5.myworkdayjobs.com/en-US/REC_RTX_Ext_Gateway/job/CA-QC-LONGUEUIL-J01--1000-Blvd-Marie-Victorin--J01-BLDG/Stage---Hiver-2027---Ingnieur-client-et-Nouveau-programme-moteur---Internship---Winter-2027---Customer-Engineering---New-Engine-Program_01871696) |
 | 49 | RTX | Stage - Hiver 2027 - Support Exécutif et Analyse d’Affaires / Internship - Winter 2027 - Executive Support and Business Analysis | CA-QC-LONGUEUIL-J01 ~ 1000 Blvd Marie-Victorin ~ J01 BLDG | Other | Not disclosed | analytics · Excel | Not specified | [Apply](https://globalhr.wd5.myworkdayjobs.com/en-US/REC_RTX_Ext_Gateway/job/CA-QC-LONGUEUIL-J01--1000-Blvd-Marie-Victorin--J01-BLDG/Stage---Hiver-2027---Support-Excutif-et-Analyse-d-Affaires---Internship---Winter-2027---Executive-Support-and-Business-Analysis_01873471) |
 | 49 | RTX | Advanced Measurement Str Data Recording Summer Intern (Onsite) | US-CT-MIDDLETOWN-220A ~ Aircraft Rd ~ BLDG 220A | Other | Not disclosed | electrical engineering · recruiting · compliance · contracts | Not specified | [Apply](https://globalhr.wd5.myworkdayjobs.com/en-US/REC_RTX_Ext_Gateway/job/US-CT-MIDDLETOWN-220A--Aircraft-Rd--BLDG-220A/Advanced-Measurement-Str-Data-Recording-Summer-Intern--Onsite-_01872890) |
 | 49 | RTX | Stage - Hiver 2027 - Gestion et stratégie du réseau de service/ Internship - Winter 2027 - Service Network Management and Strategy | CA-QC-LONGUEUIL-J01 ~ 1000 Blvd Marie-Victorin ~ J01 BLDG | Other | Not disclosed | analytics · Excel · CRM · compliance | Not specified | [Apply](https://globalhr.wd5.myworkdayjobs.com/en-US/REC_RTX_Ext_Gateway/job/CA-QC-LONGUEUIL-J01--1000-Blvd-Marie-Victorin--J01-BLDG/Stage---Hiver-2027---Gestion-et-strategie-du-reseau-de-service--Internship---Winter-2027---Service-Network-Management-and-Strategy_01873147) |
