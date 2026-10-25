@@ -1,24 +1,23 @@
 # F500Tracker internships
 
-Last updated: October 24, 2026 at 20:59 UTC
+Last updated: October 25, 2026 at 04:52 UTC
 
-Current internships: 530
+Current internships: 527
 
 ## Categories
 
-[Software & IT (53)](#software-it) · [Data & AI (9)](#data-ai) · [Product & Design (1)](#product-design) · [Engineering (58)](#engineering) · [Finance & Accounting (14)](#finance-accounting) · [Sales & Marketing (14)](#sales-marketing) · [Operations & Supply Chain (32)](#operations-supply-chain) · [People & Legal (4)](#people-legal) · [Other (345)](#other)
+[Software & IT (52)](#software-it) · [Data & AI (9)](#data-ai) · [Product & Design (1)](#product-design) · [Engineering (58)](#engineering) · [Finance & Accounting (14)](#finance-accounting) · [Sales & Marketing (14)](#sales-marketing) · [Operations & Supply Chain (32)](#operations-supply-chain) · [People & Legal (4)](#people-legal) · [Other (343)](#other)
 
 <a id="software-it"></a>
 
 ## Software & IT
 
-Open positions: 53
+Open positions: 52
 
 | Rank | Company | Position | Location | Category | Salary | Keywords | Sponsorship | Apply |
 |---:|---|---|---|---|---|---|---|---|
 | 329 | DoorDash | Software Engineer, Intern - Labs (Summer 2027) | San Francisco, CA; Sunnyvale, CA | Software & IT | Not disclosed | Python · Java · SQL · AWS · machine learning | Not specified | [Apply](https://job-boards.greenhouse.io/doordashusa/jobs/8263774) |
 | 329 | DoorDash | Software Engineer, Intern (Summer 2027) - US | New York, NY; San Francisco, CA; Sunnyvale, CA; Los Angeles, CA; Seattle, WA | Software & IT | Not disclosed | Python · Java · SQL · AWS · Excel | Not specified | [Apply](https://job-boards.greenhouse.io/doordashusa/jobs/8171041) |
-| 112 | Northrop Grumman | 2027 Systems Engineer Intern - Cape Canaveral FL | United States-Florida-Cape Canaveral | Software & IT | $18.5–$33.5/hr | mechanical engineering · electrical engineering | Not specified | [Apply](https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-Florida-Cape-Canaveral/XMLNAME-2027-Systems-Engineer-Intern---Cape-Canaveral-FL_R10251849) |
 | 112 | Northrop Grumman | 2027 Cyber Software Engineer Intern - Tampa FL | United States-Florida-Tampa | Software & IT | $18.5–$33.5/hr | — | Not specified | [Apply](https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-Florida-Tampa/XMLNAME-2027-Cyber-Software-Engineer-Intern---Tampa-FL_R10249530) |
 | 112 | Northrop Grumman | 2027 Cyber Software Engineer Intern - San Antonio TX | United States-Texas-San Antonio | Software & IT | $19.5–$35.5/hr | Python · Java · C# | Not specified | [Apply](https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-Texas-San-Antonio/XMLNAME-2027-Cyber-Software-Engineer-Intern---San-Antonio-TX_R10257311) |
 | 112 | Northrop Grumman | 2027 Software Engineer Intern - Linthicum Maryland | United States-Maryland-Linthicum | Software & IT | Not disclosed | — | Not specified | [Apply](https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-Maryland-Linthicum/XMLNAME-2027-Software-Engineer-Intern---Linthicum-Maryland_R10248910) |
@@ -285,7 +284,7 @@ Open positions: 4
 
 ## Other
 
-Open positions: 345
+Open positions: 343
 
 | Rank | Company | Position | Location | Category | Salary | Keywords | Sponsorship | Apply |
 |---:|---|---|---|---|---|---|---|---|
@@ -300,7 +299,6 @@ Open positions: 345
 | 112 | Northrop Grumman | 2027 Business Management Intern | United States-Ohio-Beavercreek | Other | $17.5–$31.5/hr | accounting | Not specified | [Apply](https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-Ohio-Beavercreek/XMLNAME-2027-Business-Management-Intern_R10257345) |
 | 112 | Northrop Grumman | 2027 Business Management Intern | United States-Utah-Clearfield | Other | $16.5–$30/hr | accounting | Not specified | [Apply](https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-Utah-Clearfield/XMLNAME-2027-Business-Management-Intern_R10257339) |
 | 112 | Northrop Grumman | 2027 Business Management Intern - Radford VA | United States-Virginia-Radford | Other | Not disclosed | — | Not specified | [Apply](https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-Virginia-Radford/XMLNAME-2027-Business-Management-Intern---Radford-VA_R10253742) |
-| 112 | Northrop Grumman | 2027 Engineering Intern (ME/EE) -  Wallops VA | United States-Virginia-New Church | Other | $24.25–$29.5/hr | — | Not specified | [Apply](https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-Virginia-New-Church/XMLNAME-2027-Engineering-Intern--ME-EE-----Wallops-VA_R10256585) |
 | 112 | Northrop Grumman | Mgr Electronics Engineering 1 - Ground Systems Intern Development Manager | United States-California-Manhattan Beach | Other | Not disclosed | human resources · recruiting · talent acquisition | Not specified | [Apply](https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-California-Manhattan-Beach/Mgr-Electronics-Engineering-1---Ground-Systems-Intern-Development-Manager_R10256522) |
 | 112 | Northrop Grumman | Gilbert Manufacturing Technician Intern - Fall | United States-Arizona-Gilbert | Other | Not disclosed | — | Not specified | [Apply](https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-Arizona-Gilbert/Gilbert-Manufacturing-Technician-Intern---Fall_R10250962) |
 | 112 | Northrop Grumman | 2027 Engineering Intern - Hollywood (MD) (Evergreen) | United States-Maryland-Hollywood | Other | Not disclosed | — | Not specified | [Apply](https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-Maryland-Hollywood/XMLNAME-2027-Engineering-Intern---Hollywood--MD---Evergreen-_R10253725) |
@@ -437,7 +435,6 @@ Open positions: 345
 | 45 | Johnson & Johnson | Discovery Medicinal Chemistry Internship | San Diego, California, United States of America | Other | $27/hr | Excel | Not specified | [Apply](https://jj.wd5.myworkdayjobs.com/en-US/JJ/job/San-Diego-California-United-States-of-America/Discovery-Medicinal-Chemistry-Internship_R-104156-1) |
 | 45 | Johnson & Johnson | Biomedical Engineering Intern, Imaging | Raritan, New Jersey, United States of America | Other | Not disclosed | Python · mechanical engineering | Not specified | [Apply](https://jj.wd5.myworkdayjobs.com/en-US/JJ/job/Raritan-New-Jersey-United-States-of-America/Biomedical-Engineering-Intern--Imaging_R-101306) |
 | 45 | Johnson & Johnson | Emerging Technologies CoOp | Spring House, Pennsylvania, United States of America | Other | Not disclosed | Excel | Not specified | [Apply](https://jj.wd5.myworkdayjobs.com/en-US/JJ/job/Spring-House-Pennsylvania-United-States-of-America/Emerging-Technologies-CoOp_R-102739-1) |
-| 45 | Johnson & Johnson | Real Estate Summer Intern | New Brunswick, New Jersey, United States of America | Other | $23.5/hr | analytics · Excel · supply chain | Not specified | [Apply](https://jj.wd5.myworkdayjobs.com/en-US/JJ/job/New-Brunswick-New-Jersey-United-States-of-America/Real-Estate-Summer-Intern_R-104160) |
 | 45 | Johnson & Johnson | Oncology Discovery Scientist Intern | Spring House, Pennsylvania, United States of America | Other | Not disclosed | Excel | Not specified | [Apply](https://jj.wd5.myworkdayjobs.com/en-US/JJ/job/Spring-House-Pennsylvania-United-States-of-America/Oncology-Discovery-Scientist-Intern_R-099898) |
 | 45 | Johnson & Johnson | Oncology Clinical Scientist Intern | Spring House, Pennsylvania, United States of America | Other | Not disclosed | Excel | Not specified | [Apply](https://jj.wd5.myworkdayjobs.com/en-US/JJ/job/Spring-House-Pennsylvania-United-States-of-America/Oncology-Clinical-Scientist-Intern_R-099892) |
 | 45 | Johnson & Johnson | Oncology TR Scientist Intern | Spring House, Pennsylvania, United States of America | Other | Not disclosed | Python · Excel | Not specified | [Apply](https://jj.wd5.myworkdayjobs.com/en-US/JJ/job/Spring-House-Pennsylvania-United-States-of-America/Oncology-TR-Scientist-Intern_R-099901) |
