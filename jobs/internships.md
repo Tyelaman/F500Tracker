@@ -1,25 +1,24 @@
 # F500Tracker internships
 
-Last updated: October 25, 2026 at 04:52 UTC
+Last updated: October 25, 2026 at 11:37 UTC
 
-Current internships: 527
+Current internships: 521
 
 ## Categories
 
-[Software & IT (52)](#software-it) · [Data & AI (9)](#data-ai) · [Product & Design (1)](#product-design) · [Engineering (58)](#engineering) · [Finance & Accounting (14)](#finance-accounting) · [Sales & Marketing (14)](#sales-marketing) · [Operations & Supply Chain (32)](#operations-supply-chain) · [People & Legal (4)](#people-legal) · [Other (343)](#other)
+[Software & IT (47)](#software-it) · [Data & AI (9)](#data-ai) · [Product & Design (1)](#product-design) · [Engineering (58)](#engineering) · [Finance & Accounting (14)](#finance-accounting) · [Sales & Marketing (14)](#sales-marketing) · [Operations & Supply Chain (31)](#operations-supply-chain) · [People & Legal (4)](#people-legal) · [Other (343)](#other)
 
 <a id="software-it"></a>
 
 ## Software & IT
 
-Open positions: 52
+Open positions: 47
 
 | Rank | Company | Position | Location | Category | Salary | Keywords | Sponsorship | Apply |
 |---:|---|---|---|---|---|---|---|---|
 | 329 | DoorDash | Software Engineer, Intern - Labs (Summer 2027) | San Francisco, CA; Sunnyvale, CA | Software & IT | Not disclosed | Python · Java · SQL · AWS · machine learning | Not specified | [Apply](https://job-boards.greenhouse.io/doordashusa/jobs/8263774) |
 | 329 | DoorDash | Software Engineer, Intern (Summer 2027) - US | New York, NY; San Francisco, CA; Sunnyvale, CA; Los Angeles, CA; Seattle, WA | Software & IT | Not disclosed | Python · Java · SQL · AWS · Excel | Not specified | [Apply](https://job-boards.greenhouse.io/doordashusa/jobs/8171041) |
 | 112 | Northrop Grumman | 2027 Cyber Software Engineer Intern - Tampa FL | United States-Florida-Tampa | Software & IT | $18.5–$33.5/hr | — | Not specified | [Apply](https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-Florida-Tampa/XMLNAME-2027-Cyber-Software-Engineer-Intern---Tampa-FL_R10249530) |
-| 112 | Northrop Grumman | 2027 Cyber Software Engineer Intern - San Antonio TX | United States-Texas-San Antonio | Software & IT | $19.5–$35.5/hr | Python · Java · C# | Not specified | [Apply](https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-Texas-San-Antonio/XMLNAME-2027-Cyber-Software-Engineer-Intern---San-Antonio-TX_R10257311) |
 | 112 | Northrop Grumman | 2027 Software Engineer Intern - Linthicum Maryland | United States-Maryland-Linthicum | Software & IT | Not disclosed | — | Not specified | [Apply](https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-Maryland-Linthicum/XMLNAME-2027-Software-Engineer-Intern---Linthicum-Maryland_R10248910) |
 | 125 | Micron Technology | Intern - IT Software Engineer | Boise, ID - Main Site | Software & IT | Not disclosed | Python · Azure · artificial intelligence | Not specified | [Apply](https://micron.wd1.myworkdayjobs.com/en-US/External/job/Boise-ID---Main-Site/Intern---IT-Software-Engineer_JR113941) |
 | 45 | Johnson & Johnson | Software Test Engineering Co-op (Beatbox) | Danvers, Massachusetts, United States of America | Software & IT | $23.5/hr | Python · JavaScript · Rust · SQL · PostgreSQL | Not specified | [Apply](https://jj.wd5.myworkdayjobs.com/en-US/JJ/job/Danvers-Massachusetts-United-States-of-America/Software-Test-Engineering-Co-op--Beatbox-_R-098707) |
@@ -33,10 +32,6 @@ Open positions: 52
 | 49 | RTX | Software Engineering Co-op (Summer /Fall 2027) | US-IA-CEDAR RAPIDS-131 ~ 5450 C Ave NE ~ BLDG 131 | Software & IT | Not disclosed | compliance | Not specified | [Apply](https://globalhr.wd5.myworkdayjobs.com/en-US/REC_RTX_Ext_Gateway/job/US-IA-CEDAR-RAPIDS-131--5450-C-Ave-NE--BLDG-131/Software-Engineering-Co-op--Summer--Fall-2027-_01879739) |
 | 49 | RTX | Part-Time Software Engineer Co-op(Remote) | US-CO-AURORA-S77 ~ 16470 E Hughes Dr ~ BLDG S77 | Software & IT | Not disclosed | Python · Java · JavaScript · AWS · Docker | Not specified | [Apply](https://globalhr.wd5.myworkdayjobs.com/en-US/REC_RTX_Ext_Gateway/job/US-CO-AURORA-S77--16470-E-Hughes-Dr--BLDG-S77/Part-Time-Software-Engineer-Co-op-Remote-_01883451) |
 | 49 | RTX | Software Engineering  Intern (Summer 2027) | US-CO-AURORA-S77 ~ 16470 E Hughes Dr ~ BLDG S77 | Software & IT | Not disclosed | Java · AWS · Docker · Kubernetes · compliance | Not specified | [Apply](https://globalhr.wd5.myworkdayjobs.com/en-US/REC_RTX_Ext_Gateway/job/US-CO-AURORA-S77--16470-E-Hughes-Dr--BLDG-S77/Software-Engineering--Intern--Summer-2027-_01881520) |
-| 49 | RTX | Electro-Optics Systems Engineer Intern (Summer 2027) | US-CA-GOLETA-H01 ~ 6380 Hollister Ave ~ BLDG H01 | Software & IT | Not disclosed | Python · machine learning · mechanical engineering · compliance · contracts | Not specified | [Apply](https://globalhr.wd5.myworkdayjobs.com/en-US/REC_RTX_Ext_Gateway/job/US-CA-GOLETA-H01--6380-Hollister-Ave--BLDG-H01/Electro-Optics-Systems-Engineer-Intern--Summer-2027-_01880960) |
-| 49 | RTX | Electro-Optics Systems Engineer Intern (Summer 2027) | US-CA-EL SEGUNDO-E01 ~ 2000 E El Segundo Blvd ~ BLDG E01 | Software & IT | Not disclosed | Python · machine learning · mechanical engineering · compliance · contracts | Not specified | [Apply](https://globalhr.wd5.myworkdayjobs.com/en-US/REC_RTX_Ext_Gateway/job/US-CA-EL-SEGUNDO-E01--2000-E-El-Segundo-Blvd--BLDG-E01/Electro-Optics-Systems-Engineer-Intern--Summer-2027-_01880582) |
-| 49 | RTX | RF Systems Engineer Intern (Summer 2027) | US-CA-GOLETA-H01 ~ 6380 Hollister Ave ~ BLDG H01 | Software & IT | Not disclosed | Python · compliance · contracts | Not specified | [Apply](https://globalhr.wd5.myworkdayjobs.com/en-US/REC_RTX_Ext_Gateway/job/US-CA-GOLETA-H01--6380-Hollister-Ave--BLDG-H01/RF-Systems-Engineer-Intern--Summer-2027-_01880952) |
-| 49 | RTX | RF Systems Engineer Intern (Summer 2027) | US-CA-EL SEGUNDO-E01 ~ 2000 E El Segundo Blvd ~ BLDG E01 | Software & IT | Not disclosed | Python · compliance · contracts | Not specified | [Apply](https://globalhr.wd5.myworkdayjobs.com/en-US/REC_RTX_Ext_Gateway/job/US-CA-EL-SEGUNDO-E01--2000-E-El-Segundo-Blvd--BLDG-E01/RF-Systems-Engineer-Intern--Summer-2027-_01880552) |
 | 49 | RTX | Software Engineering Co-op (Spring/Summer 2027) | US-IA-CEDAR RAPIDS-130 ~ 5350 C Ave NE ~ BLDG 130 | Software & IT | Not disclosed | compliance · contracts | Not specified | [Apply](https://globalhr.wd5.myworkdayjobs.com/en-US/REC_RTX_Ext_Gateway/job/US-IA-CEDAR-RAPIDS-130--5350-C-Ave-NE--BLDG-130/Software-Engineering-Co-op--Spring-Summer-2027-_01882134) |
 | 49 | RTX | Software Engineering Co-op (Summer/Fall 2027) | US-IA-CEDAR RAPIDS-130 ~ 5350 C Ave NE ~ BLDG 130 | Software & IT | Not disclosed | compliance · contracts | Not specified | [Apply](https://globalhr.wd5.myworkdayjobs.com/en-US/REC_RTX_Ext_Gateway/job/US-IA-CEDAR-RAPIDS-130--5350-C-Ave-NE--BLDG-130/Software-Engineering-Co-op--Summer-Fall-2027-_01882137) |
 | 49 | RTX | Software Engineer Intern | US-AZ-TUCSON-805 ~ 1151 E Hermans Rd ~ BLDG 805 | Software & IT | Not disclosed | Python · C# · compliance | Not specified | [Apply](https://globalhr.wd5.myworkdayjobs.com/en-US/REC_RTX_Ext_Gateway/job/US-AZ-TUCSON-805--1151-E-Hermans-Rd--BLDG-805/Software-Engineer-Intern_01874282) |
@@ -226,12 +221,11 @@ Open positions: 14
 
 ## Operations & Supply Chain
 
-Open positions: 32
+Open positions: 31
 
 | Rank | Company | Position | Location | Category | Salary | Keywords | Sponsorship | Apply |
 |---:|---|---|---|---|---|---|---|---|
 | 329 | DoorDash | Operations Research Intern (PhD), Summer 2027 | Sunnyvale, CA | Operations & Supply Chain | Not disclosed | Java · SQL · machine learning · Excel · audit | Not specified | [Apply](https://job-boards.greenhouse.io/doordashusa/jobs/8273965) |
-| 112 | Northrop Grumman | 2027 Engineering Intern (Manufacturing and Operations) - Chandler AZ | United States-Utah-Corinne | Operations & Supply Chain | $18.5–$33.5/hr | — | Not specified | [Apply](https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-Utah-Corinne/XMLNAME-2027-Engineering-Intern--Manufacturing-and-Operations----Chandler-AZ_R10256661) |
 | 125 | Micron Technology | Intern – Procurement Cost Analyst | Boise, ID - North Office | Operations & Supply Chain | Not disclosed | analytics · Excel · mechanical engineering · electrical engineering · supply chain | Not specified | [Apply](https://micron.wd1.myworkdayjobs.com/en-US/External/job/Boise-ID---North-Office/Intern---Procurement-Cost-Analyst_JR112690) |
 | 19 | Centene | Network Operations Process Improvement Undergraduate Summer Intern | Remote-NC | Operations & Supply Chain | $18–$26/hr | SQL · analytics · Excel · legal | Not specified | [Apply](https://centene.wd5.myworkdayjobs.com/en-US/centene_external/job/Remote-NC/Network-Operations-Process-Improvement-Undergraduate-Summer-Intern_1667787) |
 | 44 | Walt Disney | Antipiracy Technical/Operations Intern, Spring 2027 | Burbank, CA, USA | Operations & Supply Chain | $23/hr | Excel · legal | Not specified | [Apply](https://disney.wd5.myworkdayjobs.com/en-US/disneycareer/job/Burbank-CA-USA/Antipiracy-Technical-Operations-Intern--Spring-2027_10162682-1) |
