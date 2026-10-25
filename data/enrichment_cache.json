@@ -434818,7 +434818,7 @@
   },
   "workday:Lowe's:/job/Erie-PA-W-Erie-1654/Full-Time---Fulfillment-Associate---Day_JR-02680440": {
     "company": "Lowe's",
-    "enriched_at": "2026-10-18T20:51:30.485654+00:00",
+    "enriched_at": "2026-10-25T20:59:28.262111+00:00",
     "external_id": "/job/Erie-PA-W-Erie-1654/Full-Time---Fulfillment-Associate---Day_JR-02680440",
     "h1b_mentioned": false,
     "h1b_status": "unknown",
@@ -503922,7 +503922,7 @@
   },
   "workday:Mastercard:/job/Purchase-New-York/Global-B2B---Product-Marketing-Specialist---Small-and-Medium-Enterprises_R-293808-1": {
     "company": "Mastercard",
-    "enriched_at": "2026-10-15T21:24:31.351409+00:00",
+    "enriched_at": "2026-10-25T20:51:32.095866+00:00",
     "external_id": "/job/Purchase-New-York/Global-B2B---Product-Marketing-Specialist---Small-and-Medium-Enterprises_R-293808-1",
     "h1b_mentioned": false,
     "h1b_status": "unknown",
@@ -591401,7 +591401,7 @@
   },
   "workday:Northrop Grumman:/job/United-States-Arizona-Chandler/Principal-FPGA-Digital-Engineer---3_R10256537": {
     "company": "Northrop Grumman",
-    "enriched_at": "2026-10-18T20:43:08.229731+00:00",
+    "enriched_at": "2026-10-25T20:51:30.030923+00:00",
     "external_id": "/job/United-States-Arizona-Chandler/Principal-FPGA-Digital-Engineer---3_R10256537",
     "h1b_mentioned": false,
     "h1b_status": "unknown",
@@ -591631,7 +591631,7 @@
   },
   "workday:Northrop Grumman:/job/United-States-Arizona-Chandler/Principal-Optical-Engineer---3_R10256535": {
     "company": "Northrop Grumman",
-    "enriched_at": "2026-10-18T20:43:08.247482+00:00",
+    "enriched_at": "2026-10-25T20:51:30.052831+00:00",
     "external_id": "/job/United-States-Arizona-Chandler/Principal-Optical-Engineer---3_R10256535",
     "h1b_mentioned": false,
     "h1b_status": "unknown",
@@ -594251,7 +594251,7 @@
   },
   "workday:Northrop Grumman:/job/United-States-Arizona-Chandler/XMLNAME--EO-Signal-Image-Processing-Engineer---2_R10256536": {
     "company": "Northrop Grumman",
-    "enriched_at": "2026-10-18T20:43:08.239238+00:00",
+    "enriched_at": "2026-10-25T20:51:30.042593+00:00",
     "external_id": "/job/United-States-Arizona-Chandler/XMLNAME--EO-Signal-Image-Processing-Engineer---2_R10256536",
     "h1b_mentioned": false,
     "h1b_status": "unknown",
@@ -699416,6 +699416,22 @@
     "source_updated_at": "",
     "sponsorship_evidence": ""
   },
+  "workday:Northrop Grumman:/job/United-States-North-Carolina-Morrisville/XMLNAME-2027-Associate-Embedded-Software-Engineer---Morrisville-NC_R10257541": {
+    "company": "Northrop Grumman",
+    "enriched_at": "2026-10-25T20:51:30.021635+00:00",
+    "external_id": "/job/United-States-North-Carolina-Morrisville/XMLNAME-2027-Associate-Embedded-Software-Engineer---Morrisville-NC_R10257541",
+    "h1b_mentioned": false,
+    "h1b_status": "unknown",
+    "keywords": [],
+    "salary_currency": "",
+    "salary_max": null,
+    "salary_min": null,
+    "salary_period": "",
+    "salary_text": "",
+    "source": "workday",
+    "source_updated_at": "",
+    "sponsorship_evidence": ""
+  },
   "workday:Northrop Grumman:/job/United-States-North-Carolina-Morrisville/XMLNAME-2027-Software-Engineer-Intern---Morrisville-NC_R10253768": {
     "company": "Northrop Grumman",
     "enriched_at": "2026-10-07T23:07:17.701281+00:00",
@@ -705320,7 +705336,7 @@
   },
   "workday:Northrop Grumman:/job/United-States-Remote/Principal-Procore-Administrator_R10249182": {
     "company": "Northrop Grumman",
-    "enriched_at": "2026-10-18T20:43:08.258214+00:00",
+    "enriched_at": "2026-10-25T20:51:30.066017+00:00",
     "external_id": "/job/United-States-Remote/Principal-Procore-Administrator_R10249182",
     "h1b_mentioned": false,
     "h1b_status": "unknown",
