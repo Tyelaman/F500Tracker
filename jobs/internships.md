@@ -1,27 +1,24 @@
 # F500Tracker internships
 
-Last updated: October 25, 2026 at 21:01 UTC
+Last updated: October 26, 2026 at 04:56 UTC
 
-Current internships: 521
+Current internships: 503
 
 ## Categories
 
-[Software & IT (47)](#software-it) · [Data & AI (9)](#data-ai) · [Product & Design (1)](#product-design) · [Engineering (58)](#engineering) · [Finance & Accounting (14)](#finance-accounting) · [Sales & Marketing (14)](#sales-marketing) · [Operations & Supply Chain (31)](#operations-supply-chain) · [People & Legal (4)](#people-legal) · [Other (343)](#other)
+[Software & IT (45)](#software-it) · [Data & AI (9)](#data-ai) · [Product & Design (1)](#product-design) · [Engineering (58)](#engineering) · [Finance & Accounting (14)](#finance-accounting) · [Sales & Marketing (14)](#sales-marketing) · [Operations & Supply Chain (29)](#operations-supply-chain) · [People & Legal (4)](#people-legal) · [Other (329)](#other)
 
 <a id="software-it"></a>
 
 ## Software & IT
 
-Open positions: 47
+Open positions: 45
 
 | Rank | Company | Position | Location | Category | Salary | Keywords | Sponsorship | Apply |
 |---:|---|---|---|---|---|---|---|---|
 | 329 | DoorDash | Software Engineer, Intern - Labs (Summer 2027) | San Francisco, CA; Sunnyvale, CA | Software & IT | Not disclosed | Python · Java · SQL · AWS · machine learning | Not specified | [Apply](https://job-boards.greenhouse.io/doordashusa/jobs/8263774) |
 | 329 | DoorDash | Software Engineer, Intern (Summer 2027) - US | New York, NY; San Francisco, CA; Sunnyvale, CA; Los Angeles, CA; Seattle, WA | Software & IT | Not disclosed | Python · Java · SQL · AWS · Excel | Not specified | [Apply](https://job-boards.greenhouse.io/doordashusa/jobs/8171041) |
-| 112 | Northrop Grumman | 2027 Cyber Software Engineer Intern - Tampa FL | United States-Florida-Tampa | Software & IT | $18.5–$33.5/hr | — | Not specified | [Apply](https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-Florida-Tampa/XMLNAME-2027-Cyber-Software-Engineer-Intern---Tampa-FL_R10249530) |
-| 112 | Northrop Grumman | 2027 Software Engineer Intern - Linthicum Maryland | United States-Maryland-Linthicum | Software & IT | Not disclosed | — | Not specified | [Apply](https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-Maryland-Linthicum/XMLNAME-2027-Software-Engineer-Intern---Linthicum-Maryland_R10248910) |
 | 125 | Micron Technology | Intern - IT Software Engineer | Boise, ID - Main Site | Software & IT | Not disclosed | Python · Azure · artificial intelligence | Not specified | [Apply](https://micron.wd1.myworkdayjobs.com/en-US/External/job/Boise-ID---Main-Site/Intern---IT-Software-Engineer_JR113941) |
-| 45 | Johnson & Johnson | Software Test Engineering Co-op (Beatbox) | Danvers, Massachusetts, United States of America | Software & IT | $23.5/hr | Python · JavaScript · Rust · SQL · PostgreSQL | Not specified | [Apply](https://jj.wd5.myworkdayjobs.com/en-US/JJ/job/Danvers-Massachusetts-United-States-of-America/Software-Test-Engineering-Co-op--Beatbox-_R-098707) |
 | 45 | Johnson & Johnson | Software Engineering Co-Op | Danvers, Massachusetts, United States of America | Software & IT | $23.5/hr | JavaScript · Rust | Not specified | [Apply](https://jj.wd5.myworkdayjobs.com/en-US/JJ/job/Danvers-Massachusetts-United-States-of-America/Software-Engineering-Co-Op_R-098277) |
 | 45 | Johnson & Johnson | Software Test Engineering Co-op (RLM) | Danvers, Massachusetts, United States of America | Software & IT | $23.5/hr | Python · JavaScript · Rust · SQL · PostgreSQL | Not specified | [Apply](https://jj.wd5.myworkdayjobs.com/en-US/JJ/job/Danvers-Massachusetts-United-States-of-America/Software-Test-Engineering-Co-op--RLM-_R-098669) |
 | 45 | Johnson & Johnson | Heart Recovery Software R&D Co-Op | Halethorpe, Maryland, United States of America | Software & IT | $23.5/hr | Python | Not specified | [Apply](https://jj.wd5.myworkdayjobs.com/en-US/JJ/job/Halethorpe-Maryland-United-States-of-America/Heart-Recovery-Software-R-D-Co-Op_R-101393) |
@@ -62,6 +59,7 @@ Open positions: 47
 | 83 | Cisco Systems | Software Engineer II (Co-op) - United States | Maynard, Massachusetts, US | Software & IT | Not disclosed | Python · Java · AWS · Azure · data science | Not specified | [Apply](https://cisco.wd5.myworkdayjobs.com/en-US/Cisco_Careers/job/Maynard-Massachusetts-US/Software-Engineer-II--Co-op----United-States_2026923) |
 | 83 | Cisco Systems | Software Engineer I (Co-op) - United States | Maynard, Massachusetts, US | Software & IT | Not disclosed | Python · Java · AWS · Azure · data science | Not specified | [Apply](https://cisco.wd5.myworkdayjobs.com/en-US/Cisco_Careers/job/Maynard-Massachusetts-US/Software-Engineer-I--Co-op----United-States_2026920) |
 | 99 | Nike | NIKE, Inc. Innovation Underfoot Systems Engineer Graduate Internship | Beaverton, Oregon | Software & IT | Not disclosed | analytics · mechanical engineering | Not specified | [Apply](https://nike.wd1.myworkdayjobs.com/en-US/nke/job/Beaverton-Oregon/NIKE--Inc-Innovation-Underfoot-Systems-Engineer-Graduate-Internship_R-94431) |
+| 133 | Hewlett Packard Enterprise | AI/ML Developer Intern | San Jose, California | Software & IT | Not disclosed | Python · machine learning · data science · legal | Not specified | [Apply](https://hpe.wd5.myworkdayjobs.com/en-US/Jobsathpe/job/San-Jose-California/AI-ML-Developer-Intern_1217413) |
 | 133 | Hewlett Packard Enterprise | Cybersecurity Engineering Intern | Spring, Texas, United States of America | Software & IT | Not disclosed | Python · AWS · Azure · compliance · legal | Not specified | [Apply](https://hpe.wd5.myworkdayjobs.com/en-US/Jobsathpe/job/Spring-Texas-United-States-of-America/Cybersecurity-Engineering-Intern_1216080) |
 
 [Back to categories](#categories) · [Back to README](../README.md)
@@ -221,7 +219,7 @@ Open positions: 14
 
 ## Operations & Supply Chain
 
-Open positions: 31
+Open positions: 29
 
 | Rank | Company | Position | Location | Category | Salary | Keywords | Sponsorship | Apply |
 |---:|---|---|---|---|---|---|---|---|
@@ -232,8 +230,6 @@ Open positions: 31
 | 45 | Johnson & Johnson | Clinical Supply Chain Summer Intern | Horsham, Pennsylvania, United States of America | Operations & Supply Chain | Not disclosed | Excel · supply chain · recruiting | Not specified | [Apply](https://jj.wd5.myworkdayjobs.com/en-US/JJ/job/Horsham-Pennsylvania-United-States-of-America/Clinical-Supply-Chain-Summer-Intern_R-099135) |
 | 45 | Johnson & Johnson | Technical Operations Co-op | West Chester, Pennsylvania, United States of America | Operations & Supply Chain | Not disclosed | Excel · supply chain · compliance · legal | Not specified | [Apply](https://jj.wd5.myworkdayjobs.com/en-US/JJ/job/West-Chester-Pennsylvania-United-States-of-America/Technical-Operations-Co-op_R-100885) |
 | 45 | Johnson & Johnson | Global Transportation Summer Intern 2027 | New Brunswick, New Jersey, United States of America | Operations & Supply Chain | $23.5/hr | Python · SQL · analytics · Excel · audit | Not specified | [Apply](https://jj.wd5.myworkdayjobs.com/en-US/JJ/job/New-Brunswick-New-Jersey-United-States-of-America/Global-Transportation-Summer-Intern-2027_R-104452) |
-| 45 | Johnson & Johnson | TDS Clinical Supply Chain Planning Co-Op | Malvern, Pennsylvania, United States of America | Operations & Supply Chain | Not disclosed | supply chain · contracts | Not specified | [Apply](https://jj.wd5.myworkdayjobs.com/en-US/JJ/job/Malvern-Pennsylvania-United-States-of-America/TDS-Clinical-Supply-Chain-Planning-Co-Op_R-098331) |
-| 45 | Johnson & Johnson | TDS Clinical Operations Co-Op | Malvern, Pennsylvania, United States of America | Operations & Supply Chain | Not disclosed | contracts | Not specified | [Apply](https://jj.wd5.myworkdayjobs.com/en-US/JJ/job/Malvern-Pennsylvania-United-States-of-America/TDS-Clinical-Operations-Co-Op_R-098557) |
 | 49 | RTX | Materials Management & Logistics Internship Program (Summer 2027) | US-CT-EAST HARTFORD-ETC ~ 400 Main St ~ BLDG ETC | Operations & Supply Chain | Not disclosed | artificial intelligence · supply chain · logistics · compliance · contracts | Not specified | [Apply](https://globalhr.wd5.myworkdayjobs.com/en-US/REC_RTX_Ext_Gateway/job/US-CT-EAST-HARTFORD-ETC--400-Main-St--BLDG-ETC/Materials-Management---Logistics-Internship-Program--Summer-2027-_01862953-1) |
 | 49 | RTX | Logistics Intern - 1st shift - On site - Aeroestructuras | MX-BCN-MEXICALI-238 ~ Blvd Venustiano Carranza #238 ~ BLDG 238, Desarrollo Industrial Colorado | Operations & Supply Chain | Not disclosed | Excel · supply chain · logistics · compliance | Not specified | [Apply](https://globalhr.wd5.myworkdayjobs.com/en-US/REC_RTX_Ext_Gateway/job/MX-BCN-MEXICALI-238--Blvd-Venustiano-Carranza-238--BLDG-238-Desarrollo-Industrial-Colorado/Logistics-Intern---1st-shift---On-site---Aeroestructuras_01880546) |
 | 49 | RTX | Procurement Intern | AE-AZ-ABU DHABI-REGUS-CUST ~ Regus ADGM Square, Maryah Island Al Maqam Tower ~ REGUS ADGM SQ (External Site) | Operations & Supply Chain | Not disclosed | supply chain · procurement · compliance | Not specified | [Apply](https://globalhr.wd5.myworkdayjobs.com/en-US/REC_RTX_Ext_Gateway/job/AE-AZ-ABU-DHABI-REGUS-CUST--Regus-ADGM-Square-Maryah-Island-Al-Maqam-Tower--REGUS-ADGM-SQ-External-Site/Procurement-Intern_01881274) |
@@ -278,7 +274,7 @@ Open positions: 4
 
 ## Other
 
-Open positions: 343
+Open positions: 329
 
 | Rank | Company | Position | Location | Category | Salary | Keywords | Sponsorship | Apply |
 |---:|---|---|---|---|---|---|---|---|
@@ -292,7 +288,6 @@ Open positions: 343
 | 112 | Northrop Grumman | 2027 Systems Engineering Internship (AI Experience) - Dulles VA | United States-Virginia-Dulles | Other | Not disclosed | artificial intelligence · analytics | Not specified | [Apply](https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-Virginia-Dulles/XMLNAME-2027-Systems-Engineering-Internship--AI-Experience----Dulles-VA_R10257423) |
 | 112 | Northrop Grumman | 2027 Business Management Intern | United States-Ohio-Beavercreek | Other | $17.5–$31.5/hr | accounting | Not specified | [Apply](https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-Ohio-Beavercreek/XMLNAME-2027-Business-Management-Intern_R10257345) |
 | 112 | Northrop Grumman | 2027 Business Management Intern | United States-Utah-Clearfield | Other | $16.5–$30/hr | accounting | Not specified | [Apply](https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-Utah-Clearfield/XMLNAME-2027-Business-Management-Intern_R10257339) |
-| 112 | Northrop Grumman | 2027 Business Management Intern - Radford VA | United States-Virginia-Radford | Other | Not disclosed | — | Not specified | [Apply](https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-Virginia-Radford/XMLNAME-2027-Business-Management-Intern---Radford-VA_R10253742) |
 | 112 | Northrop Grumman | Mgr Electronics Engineering 1 - Ground Systems Intern Development Manager | United States-California-Manhattan Beach | Other | Not disclosed | human resources · recruiting · talent acquisition | Not specified | [Apply](https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-California-Manhattan-Beach/Mgr-Electronics-Engineering-1---Ground-Systems-Intern-Development-Manager_R10256522) |
 | 112 | Northrop Grumman | Gilbert Manufacturing Technician Intern - Fall | United States-Arizona-Gilbert | Other | Not disclosed | — | Not specified | [Apply](https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-Arizona-Gilbert/Gilbert-Manufacturing-Technician-Intern---Fall_R10250962) |
 | 112 | Northrop Grumman | 2027 Engineering Intern - Hollywood (MD) (Evergreen) | United States-Maryland-Hollywood | Other | Not disclosed | — | Not specified | [Apply](https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-Maryland-Hollywood/XMLNAME-2027-Engineering-Intern---Hollywood--MD---Evergreen-_R10253725) |
@@ -436,19 +431,6 @@ Open positions: 343
 | 45 | Johnson & Johnson | Oncology CPP Scientist Intern | Spring House, Pennsylvania, United States of America | Other | Not disclosed | Excel | Not specified | [Apply](https://jj.wd5.myworkdayjobs.com/en-US/JJ/job/Spring-House-Pennsylvania-United-States-of-America/Oncology-CPP-Scientist-Intern_R-104472) |
 | 45 | Johnson & Johnson | Oncology Preclinical Safety & TS Intern | Spring House, Pennsylvania, United States of America | Other | Not disclosed | Excel | Not specified | [Apply](https://jj.wd5.myworkdayjobs.com/en-US/JJ/job/Spring-House-Pennsylvania-United-States-of-America/Oncology-Preclinical-Safety---TS-Intern_R-104474) |
 | 45 | Johnson & Johnson | Aviation Maintenance Technician Summer Intern | Trenton, New Jersey, United States of America | Other | $23.5/hr | Excel | Not specified | [Apply](https://jj.wd5.myworkdayjobs.com/en-US/JJ/job/Trenton-New-Jersey-United-States-of-America/Aviation-Maintenance-Technician-Summer-Intern_R-100789) |
-| 45 | Johnson & Johnson | TDS Bus Ops Co-Op | Malvern, Pennsylvania, United States of America | Other | Not disclosed | analytics · Excel · supply chain · contracts | Not specified | [Apply](https://jj.wd5.myworkdayjobs.com/en-US/JJ/job/Malvern-Pennsylvania-United-States-of-America/TDS-Bus-Ops-Co-Op_R-104440) |
-| 45 | Johnson & Johnson | TDS Proteins AD BMD Co-Op | Malvern, Pennsylvania, United States of America | Other | Not disclosed | compliance | Not specified | [Apply](https://jj.wd5.myworkdayjobs.com/en-US/JJ/job/Malvern-Pennsylvania-United-States-of-America/TDS-Proteins-AD-BMD-Co-Op_R-104436-1) |
-| 45 | Johnson & Johnson | TDS Proteins AD HTP Co-Op | Malvern, Pennsylvania, United States of America | Other | Not disclosed | compliance · contracts | Not specified | [Apply](https://jj.wd5.myworkdayjobs.com/en-US/JJ/job/Malvern-Pennsylvania-United-States-of-America/TDS-Proteins-AD-HTP-Co-Op_R-104429) |
-| 45 | Johnson & Johnson | TDS DPD&D Protein Formulations Co-Op | Malvern, Pennsylvania, United States of America | Other | Not disclosed | contracts | No sponsorship for this position | [Apply](https://jj.wd5.myworkdayjobs.com/en-US/JJ/job/Malvern-Pennsylvania-United-States-of-America/TDS-DPD-D-Protein-Formulations-Co-Op_R-098658) |
-| 45 | Johnson & Johnson | TDS CGT-Digital Automation Co-Op | Malvern, Pennsylvania, United States of America | Other | Not disclosed | Python · artificial intelligence · data science | No sponsorship for this position | [Apply](https://jj.wd5.myworkdayjobs.com/en-US/JJ/job/Malvern-Pennsylvania-United-States-of-America/TDS-CGT-Digital-Automation-Co-Op_R-098537) |
-| 45 | Johnson & Johnson | TDS Proteins CEAS Co-Op | Spring House, Pennsylvania, United States of America | Other | Not disclosed | analytics | Not specified | [Apply](https://jj.wd5.myworkdayjobs.com/en-US/JJ/job/Spring-House-Pennsylvania-United-States-of-America/TDS-Proteins-CEAS-Co-Op_R-104194) |
-| 45 | Johnson & Johnson | TDS CGT-Cell Development Co-Op | Spring House, Pennsylvania, United States of America | Other | Not disclosed | contracts | No sponsorship for this position | [Apply](https://jj.wd5.myworkdayjobs.com/en-US/JJ/job/Spring-House-Pennsylvania-United-States-of-America/TDS-CGT-Cell-Development-Co-Op_R-104293) |
-| 45 | Johnson & Johnson | TDS Proteins API USP Co-Op | Malvern, Pennsylvania, United States of America | Other | Not disclosed | Python · machine learning · data science · analytics | Not specified | [Apply](https://jj.wd5.myworkdayjobs.com/en-US/JJ/job/Malvern-Pennsylvania-United-States-of-America/TDS-Proteins-API-USP-Co-Op_R-104181) |
-| 45 | Johnson & Johnson | TDS Proteins DDS Co-Op | Malvern, Pennsylvania, United States of America | Other | Not disclosed | risk management · electrical engineering · CAD · SolidWorks · contracts | Not specified | [Apply](https://jj.wd5.myworkdayjobs.com/en-US/JJ/job/Malvern-Pennsylvania-United-States-of-America/TDS-Proteins-DDS-Co-Op_R-104175-1) |
-| 45 | Johnson & Johnson | TDS Digital Ops & Strat Co-Op | Malvern, Pennsylvania, United States of America | Other | Not disclosed | Python · data science · analytics · contracts | Not specified | [Apply](https://jj.wd5.myworkdayjobs.com/en-US/JJ/job/Malvern-Pennsylvania-United-States-of-America/TDS-Digital-Ops---Strat-Co-Op_R-098540) |
-| 45 | Johnson & Johnson | TDS Proteins CEAS Automation Co-Op | Spring House, Pennsylvania, United States of America | Other | Not disclosed | Python · SQL · analytics · mechanical engineering · contracts | Not specified | [Apply](https://jj.wd5.myworkdayjobs.com/en-US/JJ/job/Spring-House-Pennsylvania-United-States-of-America/TDS-Proteins-CEAS-Automation-Co-Op_R-098580) |
-| 45 | Johnson & Johnson | TDS Proteins Development Material Sciences Co-Op | Malvern, Pennsylvania, United States of America | Other | Not disclosed | contracts | Not specified | [Apply](https://jj.wd5.myworkdayjobs.com/en-US/JJ/job/Malvern-Pennsylvania-United-States-of-America/TDS-Proteins-Development-Material-Sciences-Co-Op_R-098610) |
-| 45 | Johnson & Johnson | TDS Proteins Cell Line Engineering Co-Op | Spring House, Pennsylvania, United States of America | Other | Not disclosed | analytics · contracts | Not specified | [Apply](https://jj.wd5.myworkdayjobs.com/en-US/JJ/job/Spring-House-Pennsylvania-United-States-of-America/TDS-Proteins-Cell-Line-Engineering-Co-Op_R-098568) |
 | 45 | Johnson & Johnson | GTO Manufacturing Engineering Co-op, Summer 2027 | Cornelia, Georgia, United States of America | Other | Not disclosed | Excel · electrical engineering · CAD · recruiting · contracts | Not specified | [Apply](https://jj.wd5.myworkdayjobs.com/en-US/JJ/job/Cornelia-Georgia-United-States-of-America/GTO-Manufacturing-Engineering-Co-op--Summer-2027_R-103371) |
 | 45 | Johnson & Johnson | GTO Manufacturing Engineering Co-Op | Cornelia, Georgia, United States of America | Other | Not disclosed | Excel · electrical engineering · CAD · recruiting · contracts | Not specified | [Apply](https://jj.wd5.myworkdayjobs.com/en-US/JJ/job/Cornelia-Georgia-United-States-of-America/GTO-Manufacturing-Engineering-Co-Op_R-098898) |
 | 45 | Johnson & Johnson | Data Science Co-op | Danvers, Massachusetts, United States of America | Other | $23.5/hr | Python · AWS · Azure · machine learning · data science | Not specified | [Apply](https://jj.wd5.myworkdayjobs.com/en-US/JJ/job/Danvers-Massachusetts-United-States-of-America/Data-Science-Co-op_R-100341) |
