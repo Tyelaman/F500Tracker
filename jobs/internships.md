@@ -1,18 +1,18 @@
 # F500Tracker internships
 
-Last updated: October 26, 2026 at 04:56 UTC
+Last updated: October 26, 2026 at 13:16 UTC
 
-Current internships: 503
+Current internships: 500
 
 ## Categories
 
-[Software & IT (45)](#software-it) · [Data & AI (9)](#data-ai) · [Product & Design (1)](#product-design) · [Engineering (58)](#engineering) · [Finance & Accounting (14)](#finance-accounting) · [Sales & Marketing (14)](#sales-marketing) · [Operations & Supply Chain (29)](#operations-supply-chain) · [People & Legal (4)](#people-legal) · [Other (329)](#other)
+[Software & IT (46)](#software-it) · [Data & AI (9)](#data-ai) · [Product & Design (1)](#product-design) · [Engineering (58)](#engineering) · [Finance & Accounting (14)](#finance-accounting) · [Sales & Marketing (14)](#sales-marketing) · [Operations & Supply Chain (28)](#operations-supply-chain) · [People & Legal (4)](#people-legal) · [Other (326)](#other)
 
 <a id="software-it"></a>
 
 ## Software & IT
 
-Open positions: 45
+Open positions: 46
 
 | Rank | Company | Position | Location | Category | Salary | Keywords | Sponsorship | Apply |
 |---:|---|---|---|---|---|---|---|---|
@@ -25,6 +25,8 @@ Open positions: 45
 | 45 | Johnson & Johnson | Medical Device Cybersecurity Co-Op | Danvers, Massachusetts, United States of America | Software & IT | $23.5/hr | risk management | Not specified | [Apply](https://jj.wd5.myworkdayjobs.com/en-US/JJ/job/Danvers-Massachusetts-United-States-of-America/Medical-Device-Cybersecurity-Co-Op_R-099388) |
 | 45 | Johnson & Johnson | Software Engineering Co-Op. Summer 2027 | Cincinnati, Ohio, United States of America | Software & IT | $23.5/hr | Python · recruiting | Not specified | [Apply](https://jj.wd5.myworkdayjobs.com/en-US/JJ/job/Cincinnati-Ohio-United-States-of-America/Software-Engineering-Co-Op-Summer-2027_R-096743) |
 | 45 | Johnson & Johnson | Software Engineering Co-Op, Spring 2027 | Cincinnati, Ohio, United States of America | Software & IT | $23.5/hr | Python · recruiting | Not specified | [Apply](https://jj.wd5.myworkdayjobs.com/en-US/JJ/job/Cincinnati-Ohio-United-States-of-America/Software-Engineering-Co-Op--Spring-2027_R-095741) |
+| 49 | RTX | Part Time Software Platform Engineer Co-Op  (Remote) | US-TX-RICHARDSON-C17 ~ 1717 Cityline Dr ~ CITYLINE C17 | Software & IT | Not disclosed | Python · AWS · Docker · Kubernetes · compliance | Not specified | [Apply](https://globalhr.wd5.myworkdayjobs.com/en-US/REC_RTX_Ext_Gateway/job/US-TX-RICHARDSON-C17--1717-Cityline-Dr--CITYLINE-C17/Part-Time-Software-Platform-Engineer-Co-Op---Remote-_01884756) |
+| 49 | RTX | Part Time Software Platform Engineer Co-Op  (Remote) | US-CO-AURORA-S75 ~ 16800 E Centretech Pkwy ~ BLDG S75 | Software & IT | Not disclosed | Python · AWS · Docker · Kubernetes · compliance | Not specified | [Apply](https://globalhr.wd5.myworkdayjobs.com/en-US/REC_RTX_Ext_Gateway/job/US-CO-AURORA-S75--16800-E-Centretech-Pkwy--BLDG-S75/Part-Time-Software-Platform-Engineer-Co-Op---Remote-_01884752) |
 | 49 | RTX | Software Engineering Co-op (Spring/Summer 2027) | US-IA-CEDAR RAPIDS-131 ~ 5450 C Ave NE ~ BLDG 131 | Software & IT | Not disclosed | compliance | Not specified | [Apply](https://globalhr.wd5.myworkdayjobs.com/en-US/REC_RTX_Ext_Gateway/job/US-IA-CEDAR-RAPIDS-131--5450-C-Ave-NE--BLDG-131/Software-Engineering-Co-op--Spring-Summer-2027-_01879727) |
 | 49 | RTX | Software Engineering Co-op (Summer /Fall 2027) | US-IA-CEDAR RAPIDS-131 ~ 5450 C Ave NE ~ BLDG 131 | Software & IT | Not disclosed | compliance | Not specified | [Apply](https://globalhr.wd5.myworkdayjobs.com/en-US/REC_RTX_Ext_Gateway/job/US-IA-CEDAR-RAPIDS-131--5450-C-Ave-NE--BLDG-131/Software-Engineering-Co-op--Summer--Fall-2027-_01879739) |
 | 49 | RTX | Part-Time Software Engineer Co-op(Remote) | US-CO-AURORA-S77 ~ 16470 E Hughes Dr ~ BLDG S77 | Software & IT | Not disclosed | Python · Java · JavaScript · AWS · Docker | Not specified | [Apply](https://globalhr.wd5.myworkdayjobs.com/en-US/REC_RTX_Ext_Gateway/job/US-CO-AURORA-S77--16470-E-Hughes-Dr--BLDG-S77/Part-Time-Software-Engineer-Co-op-Remote-_01883451) |
@@ -60,7 +62,6 @@ Open positions: 45
 | 83 | Cisco Systems | Software Engineer I (Co-op) - United States | Maynard, Massachusetts, US | Software & IT | Not disclosed | Python · Java · AWS · Azure · data science | Not specified | [Apply](https://cisco.wd5.myworkdayjobs.com/en-US/Cisco_Careers/job/Maynard-Massachusetts-US/Software-Engineer-I--Co-op----United-States_2026920) |
 | 99 | Nike | NIKE, Inc. Innovation Underfoot Systems Engineer Graduate Internship | Beaverton, Oregon | Software & IT | Not disclosed | analytics · mechanical engineering | Not specified | [Apply](https://nike.wd1.myworkdayjobs.com/en-US/nke/job/Beaverton-Oregon/NIKE--Inc-Innovation-Underfoot-Systems-Engineer-Graduate-Internship_R-94431) |
 | 133 | Hewlett Packard Enterprise | AI/ML Developer Intern | San Jose, California | Software & IT | Not disclosed | Python · machine learning · data science · legal | Not specified | [Apply](https://hpe.wd5.myworkdayjobs.com/en-US/Jobsathpe/job/San-Jose-California/AI-ML-Developer-Intern_1217413) |
-| 133 | Hewlett Packard Enterprise | Cybersecurity Engineering Intern | Spring, Texas, United States of America | Software & IT | Not disclosed | Python · AWS · Azure · compliance · legal | Not specified | [Apply](https://hpe.wd5.myworkdayjobs.com/en-US/Jobsathpe/job/Spring-Texas-United-States-of-America/Cybersecurity-Engineering-Intern_1216080) |
 
 [Back to categories](#categories) · [Back to README](../README.md)
 
@@ -219,7 +220,7 @@ Open positions: 14
 
 ## Operations & Supply Chain
 
-Open positions: 29
+Open positions: 28
 
 | Rank | Company | Position | Location | Category | Salary | Keywords | Sponsorship | Apply |
 |---:|---|---|---|---|---|---|---|---|
@@ -232,7 +233,6 @@ Open positions: 29
 | 45 | Johnson & Johnson | Global Transportation Summer Intern 2027 | New Brunswick, New Jersey, United States of America | Operations & Supply Chain | $23.5/hr | Python · SQL · analytics · Excel · audit | Not specified | [Apply](https://jj.wd5.myworkdayjobs.com/en-US/JJ/job/New-Brunswick-New-Jersey-United-States-of-America/Global-Transportation-Summer-Intern-2027_R-104452) |
 | 49 | RTX | Materials Management & Logistics Internship Program (Summer 2027) | US-CT-EAST HARTFORD-ETC ~ 400 Main St ~ BLDG ETC | Operations & Supply Chain | Not disclosed | artificial intelligence · supply chain · logistics · compliance · contracts | Not specified | [Apply](https://globalhr.wd5.myworkdayjobs.com/en-US/REC_RTX_Ext_Gateway/job/US-CT-EAST-HARTFORD-ETC--400-Main-St--BLDG-ETC/Materials-Management---Logistics-Internship-Program--Summer-2027-_01862953-1) |
 | 49 | RTX | Logistics Intern - 1st shift - On site - Aeroestructuras | MX-BCN-MEXICALI-238 ~ Blvd Venustiano Carranza #238 ~ BLDG 238, Desarrollo Industrial Colorado | Operations & Supply Chain | Not disclosed | Excel · supply chain · logistics · compliance | Not specified | [Apply](https://globalhr.wd5.myworkdayjobs.com/en-US/REC_RTX_Ext_Gateway/job/MX-BCN-MEXICALI-238--Blvd-Venustiano-Carranza-238--BLDG-238-Desarrollo-Industrial-Colorado/Logistics-Intern---1st-shift---On-site---Aeroestructuras_01880546) |
-| 49 | RTX | Procurement Intern | AE-AZ-ABU DHABI-REGUS-CUST ~ Regus ADGM Square, Maryah Island Al Maqam Tower ~ REGUS ADGM SQ (External Site) | Operations & Supply Chain | Not disclosed | supply chain · procurement · compliance | Not specified | [Apply](https://globalhr.wd5.myworkdayjobs.com/en-US/REC_RTX_Ext_Gateway/job/AE-AZ-ABU-DHABI-REGUS-CUST--Regus-ADGM-Square-Maryah-Island-Al-Maqam-Tower--REGUS-ADGM-SQ-External-Site/Procurement-Intern_01881274) |
 | 49 | RTX | Stage  - Hiver 2027 - Gestion de la chaîne d’approvisionnement / Internship - Winter 2027 - Supply Chain Management | CA-QC-LONGUEUIL-J01 ~ 1000 Blvd Marie-Victorin ~ J01 BLDG | Operations & Supply Chain | Not disclosed | supply chain · contracts | Not specified | [Apply](https://globalhr.wd5.myworkdayjobs.com/en-US/REC_RTX_Ext_Gateway/job/CA-QC-LONGUEUIL-J01--1000-Blvd-Marie-Victorin--J01-BLDG/Stage----Hiver-2027---Gestion-de-la-chane-d-approvisionnement---Internship---Winter-2027---Supply-Chain-Management_01878942) |
 | 49 | RTX | 2027 Systems Engineering Co-op – Special Operations Aviation Mainline (Onsite) | US-IA-CEDAR RAPIDS-182 ~ 1100 Cimmie Ave Ne ~ BLDG 182 | Operations & Supply Chain | Not disclosed | recruiting · compliance · contracts | Not specified | [Apply](https://globalhr.wd5.myworkdayjobs.com/en-US/REC_RTX_Ext_Gateway/job/US-IA-CEDAR-RAPIDS-182--1100-Cimmie-Ave-Ne--BLDG-182/XMLNAME-2027-Systems-Engineering-Co-op---Special-Operations-Aviation-Mainline--Onsite-_01870331) |
 | 49 | RTX | Stage - Hiver 2027 - Gestion de la chaîne d’approvisionnement / Internship - Winter 2027 - Supply Chain Management | CA-QC-LONGUEUIL-J01 ~ 1000 Blvd Marie-Victorin ~ J01 BLDG | Operations & Supply Chain | Not disclosed | supply chain | Not specified | [Apply](https://globalhr.wd5.myworkdayjobs.com/en-US/REC_RTX_Ext_Gateway/job/CA-QC-LONGUEUIL-J01--1000-Blvd-Marie-Victorin--J01-BLDG/Stage---Hiver-2027---Gestion-de-la-chane-d-approvisionnement---Internship---Winter-2027---Supply-Chain-Management_01868000) |
@@ -274,7 +274,7 @@ Open positions: 4
 
 ## Other
 
-Open positions: 329
+Open positions: 326
 
 | Rank | Company | Position | Location | Category | Salary | Keywords | Sponsorship | Apply |
 |---:|---|---|---|---|---|---|---|---|
@@ -371,14 +371,11 @@ Open positions: 329
 | 125 | Micron Technology | Intern - DRAM Design Engineer | Boise, ID - Main Site | Other | Not disclosed | artificial intelligence · electrical engineering | Not specified | [Apply](https://micron.wd1.myworkdayjobs.com/en-US/External/job/Boise-ID---Main-Site/Intern---DRAM-Design-Engineer_JR108448) |
 | 125 | Micron Technology | Intern - Process Development | Boise, ID - Main Site | Other | Not disclosed | Python · artificial intelligence · data science · mechanical engineering · electrical engineering | Not specified | [Apply](https://micron.wd1.myworkdayjobs.com/en-US/External/job/Boise-ID---Main-Site/Intern---Process-Development_JR107319) |
 | 125 | Micron Technology | Intern - Process Development Engineer, 3D DRAM Dry Etch | Boise, ID - Main Site | Other | Not disclosed | Python · analytics · mechanical engineering · electrical engineering | Not specified | [Apply](https://micron.wd1.myworkdayjobs.com/en-US/External/job/Boise-ID---Main-Site/Intern---Process-Development-Engineer--3D-DRAM-Dry-Etch_JR107330) |
-| 19 | Centene | Social Media Analyst Intern (Undergraduate Summer 2027) | Remote-MO | Other | Not disclosed | legal | Not specified | [Apply](https://centene.wd5.myworkdayjobs.com/en-US/centene_external/job/Remote-MO/Social-Media-Analyst-Intern--Undergraduate-Summer-2027-_1667851-1) |
 | 23 | General Motors | 2027 Summer Intern, Onboard Autonomy, Embodied AI (Masters) | Sunnyvale, California, United States of America | Other | $11.8k/mo | Python · machine learning · mechanical engineering | Not specified | [Apply](https://generalmotors.wd5.myworkdayjobs.com/en-US/Careers_GM/job/Sunnyvale-California-United-States-of-America/XMLNAME-2027-Summer-Intern--Onboard-Autonomy--Embodied-AI--Masters-_JR-202622543) |
 | 23 | General Motors | 2027 Summer Intern, Onboard Autonomy, Embodied AI (PhD) | Sunnyvale, California, United States of America | Other | $14.6k/mo | Python · machine learning · mechanical engineering | Not specified | [Apply](https://generalmotors.wd5.myworkdayjobs.com/en-US/Careers_GM/job/Sunnyvale-California-United-States-of-America/XMLNAME-2027-Summer-Intern--Onboard-Autonomy--Embodied-AI_JR-202622135) |
 | 33 | Freddie Mac | Risk Management Graduate Intern – Business Summer 2027 | McLean, VA | Other | Not disclosed | artificial intelligence · analytics · Excel · risk management | Not specified | [Apply](https://freddiemac.wd5.myworkdayjobs.com/en-US/External/job/McLean-VA/Risk-Management-Graduate-Intern---Business-Summer-2027_JR17554) |
 | 33 | Freddie Mac | Risk Management Graduate Intern – Quantitative Summer 2027 | McLean, VA | Other | Not disclosed | Python · Java · SQL · machine learning · artificial intelligence | Not specified | [Apply](https://freddiemac.wd5.myworkdayjobs.com/en-US/External/job/McLean-VA/Risk-Management-Graduate-Intern---Quantitative-Summer-2027_JR17553) |
 | 39 | Morgan Stanley | Intern | Winter Park, Florida, United States of America | Other | Not disclosed | sales · recruiting | Not specified | [Apply](https://ms.wd5.myworkdayjobs.com/en-US/External/job/Winter-Park-Florida-United-States-of-America/Intern_JR045797) |
-| 39 | Morgan Stanley | Intern | Baltimore, Maryland, United States of America | Other | Not disclosed | sales · recruiting | Not specified | [Apply](https://ms.wd5.myworkdayjobs.com/en-US/External/job/Baltimore-Maryland-United-States-of-America/Intern_JR042973-2) |
-| 39 | Morgan Stanley | Intern | Oklahoma City, Oklahoma, United States of America | Other | Not disclosed | sales · recruiting | Not specified | [Apply](https://ms.wd5.myworkdayjobs.com/en-US/External/job/Oklahoma-City-Oklahoma-United-States-of-America/Intern_JR045882) |
 | 44 | Walt Disney | Disney Consumer Products Softlines Licensing Intern, Spring 2027 | Glendale, CA, USA | Other | $22.5/hr | — | Not specified | [Apply](https://disney.wd5.myworkdayjobs.com/en-US/disneycareer/job/Glendale-CA-USA/Disney-Consumer-Products-Softlines-Licensing-Intern--Spring-2027_10163644) |
 | 44 | Walt Disney | ABC News Publicity Intern, Spring 2027 | New York, NY, USA | Other | $23/hr | — | Not specified | [Apply](https://disney.wd5.myworkdayjobs.com/en-US/disneycareer/job/New-York-NY-USA/ABC-News-Publicity-Intern--Spring-2027_10160865-2) |
 | 44 | Walt Disney | Retail Store Design Intern, Spring 2027 | Kissimmee, FL, USA | Other | $23/hr | analytics · Excel | Not specified | [Apply](https://disney.wd5.myworkdayjobs.com/en-US/disneycareer/job/Kissimmee-FL-USA/Retail-Store-Design-Intern--Spring-2027_10160408-2) |
