@@ -1,18 +1,18 @@
 # F500Tracker internships
 
-Last updated: October 27, 2026 at 05:16 UTC
+Last updated: October 27, 2026 at 12:24 UTC
 
-Current internships: 521
+Current internships: 519
 
 ## Categories
 
-[Software & IT (44)](#software-it) · [Data & AI (11)](#data-ai) · [Product & Design (1)](#product-design) · [Engineering (60)](#engineering) · [Finance & Accounting (13)](#finance-accounting) · [Sales & Marketing (13)](#sales-marketing) · [Operations & Supply Chain (35)](#operations-supply-chain) · [People & Legal (4)](#people-legal) · [Other (340)](#other)
+[Software & IT (42)](#software-it) · [Data & AI (11)](#data-ai) · [Product & Design (2)](#product-design) · [Engineering (59)](#engineering) · [Finance & Accounting (12)](#finance-accounting) · [Sales & Marketing (13)](#sales-marketing) · [Operations & Supply Chain (35)](#operations-supply-chain) · [People & Legal (4)](#people-legal) · [Other (341)](#other)
 
 <a id="software-it"></a>
 
 ## Software & IT
 
-Open positions: 44
+Open positions: 42
 
 | Rank | Company | Position | Location | Category | Salary | Keywords | Sponsorship | Apply |
 |---:|---|---|---|---|---|---|---|---|
@@ -33,8 +33,6 @@ Open positions: 44
 | 49 | RTX | Part-Time Software Engineer Co-op(Remote) | US-CO-AURORA-S77 ~ 16470 E Hughes Dr ~ BLDG S77 | Software & IT | Not disclosed | Python · Java · JavaScript · AWS · Docker | Not specified | [Apply](https://globalhr.wd5.myworkdayjobs.com/en-US/REC_RTX_Ext_Gateway/job/US-CO-AURORA-S77--16470-E-Hughes-Dr--BLDG-S77/Part-Time-Software-Engineer-Co-op-Remote-_01883451) |
 | 49 | RTX | Software Engineering  Intern (Summer 2027) | US-CO-AURORA-S77 ~ 16470 E Hughes Dr ~ BLDG S77 | Software & IT | Not disclosed | Java · AWS · Docker · Kubernetes · compliance | Not specified | [Apply](https://globalhr.wd5.myworkdayjobs.com/en-US/REC_RTX_Ext_Gateway/job/US-CO-AURORA-S77--16470-E-Hughes-Dr--BLDG-S77/Software-Engineering--Intern--Summer-2027-_01881520) |
 | 49 | RTX | Software Engineer Intern | US-AZ-TUCSON-805 ~ 1151 E Hermans Rd ~ BLDG 805 | Software & IT | Not disclosed | Python · C# · compliance | Not specified | [Apply](https://globalhr.wd5.myworkdayjobs.com/en-US/REC_RTX_Ext_Gateway/job/US-AZ-TUCSON-805--1151-E-Hermans-Rd--BLDG-805/Software-Engineer-Intern_01874282) |
-| 49 | RTX | Part Time Systems Engineer Co-Op (Remote) | US-CO-AURORA-S75 ~ 16800 E Centretech Pkwy ~ BLDG S75 | Software & IT | Not disclosed | Python · artificial intelligence · compliance | Not specified | [Apply](https://globalhr.wd5.myworkdayjobs.com/en-US/REC_RTX_Ext_Gateway/job/US-CO-AURORA-S75--16800-E-Centretech-Pkwy--BLDG-S75/Part-Time-Systems-Engineer-Co-Op--Remote-_01883866) |
-| 49 | RTX | Part Time Systems Engineer Co-Op (Remote) | US-CO-AURORA-S75 ~ 16800 E Centretech Pkwy ~ BLDG S75 | Software & IT | Not disclosed | Python · artificial intelligence · compliance | Not specified | [Apply](https://globalhr.wd5.myworkdayjobs.com/en-US/REC_RTX_Ext_Gateway/job/US-CO-AURORA-S75--16800-E-Centretech-Pkwy--BLDG-S75/Part-Time-Systems-Engineer-Co-Op--Remote-_01883862) |
 | 49 | RTX | Summer 2027 RF Systems Engineer Intern - Onsite | US-IN-FT WAYNE-150A ~ 1010 Production Rd ~ BLDG 150A | Software & IT | Not disclosed | Python · mechanical engineering · electrical engineering · compliance · contracts | Not specified | [Apply](https://globalhr.wd5.myworkdayjobs.com/en-US/REC_RTX_Ext_Gateway/job/US-IN-FT-WAYNE-150A--1010-Production-Rd--BLDG-150A/Summer-2027-RF-Systems-Engineer-Intern---Onsite_01880963) |
 | 49 | RTX | JEDI Network Systems Engineer 2027 Spring/Summer Co-op - Onsite | US-IA-CEDAR RAPIDS-121 ~ 350 Collins Rd NE ~ BLDG 121 | Software & IT | Not disclosed | compliance | Not specified | [Apply](https://globalhr.wd5.myworkdayjobs.com/en-US/REC_RTX_Ext_Gateway/job/US-IA-CEDAR-RAPIDS-121--350-Collins-Rd-NE--BLDG-121/JEDI-Network-Systems-Engineer-2027-Spring-Summer-Co-op---Onsite_01873473) |
 | 49 | RTX | 2027 Co-Op - Summer/Fall Systems Engineer - Onsite | US-IA-CEDAR RAPIDS-106 ~ 400 Collins Rd NE ~ BLDG 106 | Software & IT | Not disclosed | Python · Excel · compliance | Not specified | [Apply](https://globalhr.wd5.myworkdayjobs.com/en-US/REC_RTX_Ext_Gateway/job/US-IA-CEDAR-RAPIDS-106--400-Collins-Rd-NE--BLDG-106/XMLNAME-2027-Co-Op---Summer-Fall-Systems-Engineer---Onsite_01871438) |
@@ -89,10 +87,11 @@ Open positions: 11
 
 ## Product & Design
 
-Open positions: 1
+Open positions: 2
 
 | Rank | Company | Position | Location | Category | Salary | Keywords | Sponsorship | Apply |
 |---:|---|---|---|---|---|---|---|---|
+| 119 | Visa | Product Management Intern, Data and AI Team - Summer 2027 | US - Foster City, CA | Product & Design | Not disclosed | AWS · Azure · GCP · data science · analytics | No sponsorship for this position | [Apply](https://visa.wd5.myworkdayjobs.com/en-US/Visa/job/US---Foster-City-CA/Product-Management-Intern--Data-and-AI-Team---Summer-2027_REF089881W-1) |
 | 45 | Johnson & Johnson | Product Management Co-Op | Danvers, Massachusetts, United States of America | Product & Design | $23.5/hr | — | Not specified | [Apply](https://jj.wd5.myworkdayjobs.com/en-US/JJ/job/Danvers-Massachusetts-United-States-of-America/Product-Management-Co-Op_R-096757) |
 
 [Back to categories](#categories) · [Back to README](../README.md)
@@ -101,7 +100,7 @@ Open positions: 1
 
 ## Engineering
 
-Open positions: 60
+Open positions: 59
 
 | Rank | Company | Position | Location | Category | Salary | Keywords | Sponsorship | Apply |
 |---:|---|---|---|---|---|---|---|---|
@@ -129,7 +128,6 @@ Open positions: 60
 | 49 | RTX | Manufacturing Electrical Engineer Co-op (Spring/Summer 2027) | US-FL-MELBOURNE-308 ~ 1100 W Hibiscus Blvd ~ BLDG 308 | Engineering | Not disclosed | Python · Excel · mechanical engineering · supply chain · compliance | Not specified | [Apply](https://globalhr.wd5.myworkdayjobs.com/en-US/REC_RTX_Ext_Gateway/job/US-FL-MELBOURNE-308--1100-W-Hibiscus-Blvd--BLDG-308/Manufacturing-Electrical-Engineer-Co-op--Spring-Summer-2027-_01883878) |
 | 49 | RTX | Mechanical Engineer Intern - Test Equipment | US-AZ-TUCSON-805 ~ 1151 E Hermans Rd ~ BLDG 805 | Engineering | Not disclosed | mechanical engineering · procurement · compliance | Not specified | [Apply](https://globalhr.wd5.myworkdayjobs.com/en-US/REC_RTX_Ext_Gateway/job/US-AZ-TUCSON-805--1151-E-Hermans-Rd--BLDG-805/Mechanical-Engineer-Intern---Test-Equipment_01874237) |
 | 49 | RTX | Electrical Engineer Intern | US-AZ-TUCSON-805 ~ 1151 E Hermans Rd ~ BLDG 805 | Engineering | Not disclosed | Python · compliance | Not specified | [Apply](https://globalhr.wd5.myworkdayjobs.com/en-US/REC_RTX_Ext_Gateway/job/US-AZ-TUCSON-805--1151-E-Hermans-Rd--BLDG-805/Electrical-Engineer-Intern_01874283) |
-| 49 | RTX | Mechanical - Structural/Thermal Engineering Intern (Summer 2027) | US-AZ-TUCSON-805 ~ 1151 E Hermans Rd ~ BLDG 805 | Engineering | Not disclosed | Excel · mechanical engineering · CAD · compliance | Not specified | [Apply](https://globalhr.wd5.myworkdayjobs.com/en-US/REC_RTX_Ext_Gateway/job/US-AZ-TUCSON-805--1151-E-Hermans-Rd--BLDG-805/Mechanical---Structural-Thermal-Engineering-Intern--Summer-2027-_01882958) |
 | 49 | RTX | Electrical Components Engineer Intern (Summer 2027)(Onsite) | US-AZ-TUCSON-M10 ~ 3360 E Hemisphere Loop ~ BLDG M10 | Engineering | Not disclosed | electrical engineering · compliance | Not specified | [Apply](https://globalhr.wd5.myworkdayjobs.com/en-US/REC_RTX_Ext_Gateway/job/US-AZ-TUCSON-M10--3360-E-Hemisphere-Loop--BLDG-M10/Electrical-Components-Engineer-Intern--Summer-2027--Onsite-_01879761) |
 | 49 | RTX | Electrical Engineering Intern (Summer 2027)(Onsite) | US-CA-GOLETA-B01 ~ 6825 Cortona Dr ~ BLDG B01 | Engineering | Not disclosed | electrical engineering · compliance · contracts | Not specified | [Apply](https://globalhr.wd5.myworkdayjobs.com/en-US/REC_RTX_Ext_Gateway/job/US-CA-GOLETA-B01--6825-Cortona-Dr--BLDG-B01/Electrical-Engineering-Intern--Summer-2027--Onsite-_01882355) |
 | 49 | RTX | Electrical Engineering for Manufacturing Co-op (Spring/Summer 2027) | US-IA-BELLEVUE-186 ~ 1500 State St ~ STATE | Engineering | Not disclosed | electrical engineering · compliance · contracts | Not specified | [Apply](https://globalhr.wd5.myworkdayjobs.com/en-US/REC_RTX_Ext_Gateway/job/US-IA-BELLEVUE-186--1500-State-St--STATE/Electrical-Engineering-for-Manufacturing-Co-op--Spring-Summer-2027-_01876808) |
@@ -172,14 +170,13 @@ Open positions: 60
 
 ## Finance & Accounting
 
-Open positions: 13
+Open positions: 12
 
 | Rank | Company | Position | Location | Category | Salary | Keywords | Sponsorship | Apply |
 |---:|---|---|---|---|---|---|---|---|
 | 44 | Walt Disney | Tax Graduate Intern, Spring 2027 | Celebration, FL, USA | Finance & Accounting | $30.4/hr | analytics · Excel · accounting · audit · tax | Not specified | [Apply](https://disney.wd5.myworkdayjobs.com/en-US/disneycareer/job/Celebration-FL-USA/Tax-Graduate-Intern--Spring-2027_10163635-2) |
 | 44 | Walt Disney | Tax Data Management & Innovation Graduate Intern, Spring 2027 | Celebration, FL, USA | Finance & Accounting | $30.4/hr | Python · SQL · data science · analytics · Excel | Not specified | [Apply](https://disney.wd5.myworkdayjobs.com/en-US/disneycareer/job/Celebration-FL-USA/Tax-Data-Management---Innovation-Graduate-Intern--Spring-2027_10163753) |
 | 44 | Walt Disney | Tax Undergraduate Intern, Spring 2027 | Celebration, FL, USA | Finance & Accounting | $23/hr | analytics · Excel · accounting · audit · tax | Not specified | [Apply](https://disney.wd5.myworkdayjobs.com/en-US/disneycareer/job/Celebration-FL-USA/Tax-Undergraduate-Intern--Spring-2027_10163639) |
-| 44 | Walt Disney | Finance Intern, Spring 2027 | Anaheim, CA, USA | Finance & Accounting | $23/hr | Python · SQL · analytics · Excel · accounting | Not specified | [Apply](https://disney.wd5.myworkdayjobs.com/en-US/disneycareer/job/Anaheim-CA-USA/Finance-Intern--Spring-2027_10162487) |
 | 45 | Johnson & Johnson | Summer 2027 Finance Internship – El Paso, TX/Juarez, MX | El Paso, Texas, United States of America | Finance & Accounting | $26/hr | analytics · Excel · accounting · supply chain · legal | Not specified | [Apply](https://jj.wd5.myworkdayjobs.com/en-US/JJ/job/El-Paso-Texas-United-States-of-America/Summer-2027-Finance-Internship---El-Paso--TX-Juarez--MX_R-095343) |
 | 49 | RTX | Stage - Hiver 2027 - Finance chaîne d'approvisionnement / Internship - Winter 2027 - Supply Chain Finance | CA-QC-LONGUEUIL-J01 ~ 1000 Blvd Marie-Victorin ~ J01 BLDG | Finance & Accounting | Not disclosed | Excel · accounting · audit · supply chain | Not specified | [Apply](https://globalhr.wd5.myworkdayjobs.com/en-US/REC_RTX_Ext_Gateway/job/CA-QC-LONGUEUIL-J01--1000-Blvd-Marie-Victorin--J01-BLDG/Stage---Hiver-2027---Finance-chane-d-approvisionnement---Internship---Winter-2027---Supply-Chain-Accounting_01866893) |
 | 52 | Lowe's | Finance Intern – Undergrad Internship – Summer 2027 | Mooresville, NC (SSC) 1999 | Finance & Accounting | Not disclosed | Excel · accounting · supply chain · sales | Not specified | [Apply](https://lowes.wd5.myworkdayjobs.com/en-US/LWS_External_CS/job/Mooresville-NC-SSC-1999/Finance-Intern---Undergrad-Internship---Summer-2027_JR-02673472) |
@@ -281,7 +278,7 @@ Open positions: 4
 
 ## Other
 
-Open positions: 340
+Open positions: 341
 
 | Rank | Company | Position | Location | Category | Salary | Keywords | Sponsorship | Apply |
 |---:|---|---|---|---|---|---|---|---|
@@ -292,8 +289,6 @@ Open positions: 340
 | 329 | DoorDash | Product Design, Intern (Summer 2027) | San Francisco, CA; New York, NY | Other | Not disclosed | Excel · audit · logistics · recruiting · compliance | Not specified | [Apply](https://job-boards.greenhouse.io/doordashusa/jobs/8176863) |
 | 376 | Oscar Health | Actuarial Intern | New York, New York, United States | Other | Not disclosed | Python · SQL · artificial intelligence · Excel · recruiting | Not specified | [Apply](https://job-boards.greenhouse.io/oscar/jobs/8303588) |
 | 191 | Block | Applied Research Intern, Proactive Intelligence & Customer World Models (PhD / Graduate Co-op) | Bay Area, CA, United States of America | Other | Not disclosed | Python · machine learning · legal | Not specified | [Apply](http://block.xyz/careers/jobs/5108007008?gh_jid=5108007008) |
-| 16 | NVIDIA | Customer Technical Program Management Intern, OEMs System Partner – Summer 2027 | US, CA, Santa Clara | Other | Not disclosed | electrical engineering · sales · recruiting | Not specified | [Apply](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Customer-Technical-Program-Management-Intern--OEMs-System-Partner---Summer-2027_JR2028512) |
-| 16 | NVIDIA | Go-to-Market Strategy Intern, NPN AI Consulting - Summer 2027 | US, CA, Santa Clara | Other | Not disclosed | Excel · sales · recruiting | Not specified | [Apply](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Go-to-Market-Strategy-Intern--NPN-AI-Consulting---Summer-2027_JR2028642) |
 | 112 | Northrop Grumman | 2027 Business Management Intern | United States-Ohio-Beavercreek | Other | $17.5–$31.5/hr | accounting | Not specified | [Apply](https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-Ohio-Beavercreek/XMLNAME-2027-Business-Management-Intern_R10257345) |
 | 112 | Northrop Grumman | 2027 Business Management Intern | United States-Utah-Clearfield | Other | $16.5–$30/hr | accounting | Not specified | [Apply](https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-Utah-Clearfield/XMLNAME-2027-Business-Management-Intern_R10257339) |
 | 112 | Northrop Grumman | Mgr Electronics Engineering 1 - Ground Systems Intern Development Manager | United States-California-Manhattan Beach | Other | Not disclosed | human resources · recruiting · talent acquisition | Not specified | [Apply](https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-California-Manhattan-Beach/Mgr-Electronics-Engineering-1---Ground-Systems-Intern-Development-Manager_R10256522) |
@@ -301,7 +296,11 @@ Open positions: 340
 | 112 | Northrop Grumman | 2027 Engineering Intern - Hollywood (MD) (Evergreen) | United States-Maryland-Hollywood | Other | Not disclosed | — | Not specified | [Apply](https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-Maryland-Hollywood/XMLNAME-2027-Engineering-Intern---Hollywood--MD---Evergreen-_R10253725) |
 | 112 | Northrop Grumman | 2027 Engineering Intern - Melbourne (FL) (Evergreen) | United States-Florida-Melbourne | Other | Not disclosed | — | Not specified | [Apply](https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-Florida-Melbourne/XMLNAME-2027-Engineering-Intern---Melbourne--FL---Evergreen-_R10253720-1) |
 | 112 | Northrop Grumman | 2027 Engineering Intern - Manhattan Beach (CA) (Evergreen) | United States-California-Manhattan Beach | Other | Not disclosed | — | Not specified | [Apply](https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-California-Manhattan-Beach/XMLNAME-2027-Engineering-Intern---Manhattan-Beach--CA---Evergreen-_R10253708) |
-| 88 | Intel | Module Engineering - PhD Intern | US, Oregon, Hillsboro | Other | Not disclosed | Python · SQL · electrical engineering · compliance | Not specified | [Apply](https://intel.wd1.myworkdayjobs.com/en-US/External/job/US-Oregon-Hillsboro/Module-Engineering-PhD-Intern-Summer-2027_JR0286916) |
+| 119 | Visa | Portfolio optimization Intern | DE - Frankfurt, Germany | Other | Not disclosed | data science · analytics · sales | No sponsorship for this position | [Apply](https://visa.wd5.myworkdayjobs.com/en-US/Visa/job/DE---Frankfurt-Germany/Portfolio-optimization-Intern_REF089913W-1) |
+| 119 | Visa | Business Strategy Intern, Data and AI Team - Summer 2027 | US - Foster City, CA | Other | Not disclosed | analytics · Excel · sales | No sponsorship for this position | [Apply](https://visa.wd5.myworkdayjobs.com/en-US/Visa/job/US---Foster-City-CA/Business-Strategy-Intern--Data-and-AI-Team---Summer-2027_REF089884W-2) |
+| 119 | Visa | Data Science Intern, Data and AI Team – Summer 2027 | US - Foster City, CA | Other | Not disclosed | Python · SQL · machine learning · data science · analytics | Not specified | [Apply](https://visa.wd5.myworkdayjobs.com/en-US/Visa/job/US---Foster-City-CA/Data-Science-Intern--Data-and-AI-Team---Summer-2027_REF089883W-1) |
+| 119 | Visa | Real Estate Intern - Summer 2027 | US - San Francisco, CA | Other | Not disclosed | analytics · Excel · sales | No sponsorship for this position | [Apply](https://visa.wd5.myworkdayjobs.com/en-US/Visa/job/US---San-Francisco-CA/Real-Estate-Intern---Summer-2027_REF089902W) |
+| 119 | Visa | Workforce Protection Intern - Summer 2027 | US - Foster City, CA | Other | Not disclosed | risk management · sales · human resources · legal | No sponsorship for this position | [Apply](https://visa.wd5.myworkdayjobs.com/en-US/Visa/job/US---Foster-City-CA/Workforce-Protection-Intern---Summer-2027_REF089901W-2) |
 | 125 | Micron Technology | Intern – Business Process Analyst | Boise, ID - Main Site | Other | Not disclosed | artificial intelligence · analytics · sales | Not specified | [Apply](https://micron.wd1.myworkdayjobs.com/en-US/External/job/Boise-ID---Main-Site/Intern---Business-Process-Analyst_JR115234) |
 | 125 | Micron Technology | Intern - Surface Lab | Boise, ID - Main Site | Other | Not disclosed | electrical engineering | Not specified | [Apply](https://micron.wd1.myworkdayjobs.com/en-US/External/job/Boise-ID---Main-Site/Intern---Surface-Lab_JR114827) |
 | 125 | Micron Technology | Intern – AMHS Equipment Engineer ID1 | Boise, ID - Main Site | Other | Not disclosed | Python · SQL | Not specified | [Apply](https://micron.wd1.myworkdayjobs.com/en-US/External/job/Boise-ID---Main-Site/Intern---AMHS-Equipment-Engineer-ID1_JR115126) |
@@ -543,7 +542,6 @@ Open positions: 340
 | 49 | RTX | DO Process Engineering Internship - Summer 2027 (Onsite) | US-CT-MIDDLETOWN-220A ~ Aircraft Rd ~ BLDG 220A | Other | Not disclosed | mechanical engineering · recruiting · compliance · contracts | Not specified | [Apply](https://globalhr.wd5.myworkdayjobs.com/en-US/REC_RTX_Ext_Gateway/job/US-CT-MIDDLETOWN-220A--Aircraft-Rd--BLDG-220A/DO-Process-Engineering-Internship---Summer-2027--Onsite-_01872686) |
 | 49 | RTX | Stage - Hiver 2027 -Stagiaire en Santé, Sécurite et Environnement / Internship - Winter 2027 - Health, Safety & Environment Intern | CA-QC-MIRABEL-M01 ~ 11155 Julien-Audette ~ M01 BLDG | Other | Not disclosed | Excel · compliance | Not specified | [Apply](https://globalhr.wd5.myworkdayjobs.com/en-US/REC_RTX_Ext_Gateway/job/CA-QC-MIRABEL-M01--11155-Julien-Audette--M01-BLDG/Stage---Hiver-2027--Stagiaire-en-Sant--Scurite-et-Environnement---Internship---Winter-2027---Health--Safety---Environment-Intern_01874603) |
 | 49 | RTX | Flight Controls Systems Intern (Summer 2027) - Onsite | US-IA-CEDAR RAPIDS-193 ~ 1120 Collins Rd NE ~ BLDG193 | Other | Not disclosed | electrical engineering · recruiting · compliance | Not specified | [Apply](https://globalhr.wd5.myworkdayjobs.com/en-US/REC_RTX_Ext_Gateway/job/US-IA-CEDAR-RAPIDS-193--1120-Collins-Rd-NE--BLDG193/Flight-Controls-Systems-Intern--Summer-2027----Onsite_01871125) |
-| 49 | RTX | Flight Controls Systems Engineering Intern (Summer 2027) - Onsite | US-IA-CEDAR RAPIDS-193 ~ 1120 Collins Rd NE ~ BLDG193 | Other | Not disclosed | electrical engineering · recruiting · compliance | Not specified | [Apply](https://globalhr.wd5.myworkdayjobs.com/en-US/REC_RTX_Ext_Gateway/job/US-IA-CEDAR-RAPIDS-193--1120-Collins-Rd-NE--BLDG193/Flight-Controls-Systems-Engineering-Intern--Summer-2027----Onsite_01871091) |
 | 49 | RTX | Systems Engineering Coop - Spring/Summer- Onsite | US-ND-JAMESTOWN-P1 ~ 2604 Highway 20 N ~ PLANT 1 | Other | Not disclosed | supply chain · compliance | Not specified | [Apply](https://globalhr.wd5.myworkdayjobs.com/en-US/REC_RTX_Ext_Gateway/job/US-ND-JAMESTOWN-P1--2604-Highway-20-N--PLANT-1/Systems-Engineering-Coop---Spring-Summer--Onsite_01873304) |
 | 49 | RTX | Advanced Measurements Research and Development Intern (Summer 2027) (Onsite) | US-CT-MIDDLETOWN-220A ~ Aircraft Rd ~ BLDG 220A | Other | Not disclosed | Python · mechanical engineering · electrical engineering · CAD · compliance | Not specified | [Apply](https://globalhr.wd5.myworkdayjobs.com/en-US/REC_RTX_Ext_Gateway/job/US-CT-MIDDLETOWN-220A--Aircraft-Rd--BLDG-220A/Advanced-Measurements-Research-and-Development-Intern--Summer-2027---Onsite-_01864777-1) |
 | 49 | RTX | Stage - Hiver 2027-  Service Numériques pour les Moteurs – Ingénieur Système Sol / Internship - Winter 2027- Digital Engine Services (DES) – Ground system engineer | CA-QC-LONGUEUIL-MD ~ 1000 Blvd Marie-Victorin ~ MD BLDG | Other | Not disclosed | Python · Excel | Not specified | [Apply](https://globalhr.wd5.myworkdayjobs.com/en-US/REC_RTX_Ext_Gateway/job/CA-QC-LONGUEUIL-MD--1000-Blvd-Marie-Victorin--MD-BLDG/Stage---Hiver-2027---Service-Numriques-pour-les-Moteurs---Ingnieur-Systme-Sol---Internship---Winter-2027--Digital-Engine-Services--DES----Ground-system-engineer_01874393) |
