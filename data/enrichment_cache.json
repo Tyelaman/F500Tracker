@@ -89697,7 +89697,7 @@
   },
   "greenhouse:Carvana:8286904": {
     "company": "Carvana",
-    "enriched_at": "2026-10-15T21:36:26.388016+00:00",
+    "enriched_at": "2026-10-28T13:06:11.319635+00:00",
     "external_id": "8286904",
     "h1b_mentioned": false,
     "h1b_status": "does_not_support_h1b",
@@ -89712,7 +89712,7 @@
     "salary_period": "",
     "salary_text": "",
     "source": "greenhouse",
-    "source_updated_at": "2026-10-15T14:22:33-04:00",
+    "source_updated_at": "2026-10-28T08:59:10-04:00",
     "sponsorship_evidence": "&nbsp; This role is not eligible for visa sponsorship."
   },
   "greenhouse:Carvana:8286915": {
@@ -96144,6 +96144,24 @@
     "source": "greenhouse",
     "source_updated_at": "2026-10-27T19:18:28-04:00",
     "sponsorship_evidence": "&nbsp; This role is not eligible for visa sponsorship."
+  },
+  "greenhouse:Carvana:8330533": {
+    "company": "Carvana",
+    "enriched_at": "2026-10-28T13:06:11.302961+00:00",
+    "external_id": "8330533",
+    "h1b_mentioned": false,
+    "h1b_status": "unknown",
+    "keywords": [
+      "sales"
+    ],
+    "salary_currency": "USD",
+    "salary_max": 37.05,
+    "salary_min": 37.05,
+    "salary_period": "hour",
+    "salary_text": "$37.05-$37.05 hourly",
+    "source": "greenhouse",
+    "source_updated_at": "2026-10-28T07:16:31-04:00",
+    "sponsorship_evidence": ""
   },
   "greenhouse:Coupang:3887444": {
     "company": "Coupang",
@@ -146470,6 +146488,27 @@
     "source_updated_at": "",
     "sponsorship_evidence": ""
   },
+  "workday:Analog Devices:/job/US-MA-Wilmington/Specialist--Talent-Acquisition_R267674": {
+    "company": "Analog Devices",
+    "enriched_at": "2026-10-28T13:06:30.578641+00:00",
+    "external_id": "/job/US-MA-Wilmington/Specialist--Talent-Acquisition_R267674",
+    "h1b_mentioned": false,
+    "h1b_status": "unknown",
+    "keywords": [
+      "sales",
+      "recruiting",
+      "talent acquisition",
+      "compliance"
+    ],
+    "salary_currency": "",
+    "salary_max": null,
+    "salary_min": null,
+    "salary_period": "",
+    "salary_text": "",
+    "source": "workday",
+    "source_updated_at": "",
+    "sponsorship_evidence": ""
+  },
   "workday:Analog Devices:/job/US-MA-Wilmington/Sr-Analyst---Samples-Governance_R264110": {
     "company": "Analog Devices",
     "enriched_at": "2026-08-27T22:30:16.025441+00:00",
@@ -147640,7 +147679,7 @@
   },
   "workday:Analog Devices:/job/US-OR-Beaverton/Staff-Network-Engineer_R265603": {
     "company": "Analog Devices",
-    "enriched_at": "2026-09-25T12:02:25.418917+00:00",
+    "enriched_at": "2026-10-28T13:06:30.572117+00:00",
     "external_id": "/job/US-OR-Beaverton/Staff-Network-Engineer_R265603",
     "h1b_mentioned": false,
     "h1b_status": "unknown",
@@ -161773,7 +161812,7 @@
   },
   "workday:Boeing:/job/USA---Berkeley-MO/Senior-Electrical-Design-and-Analysis-Engineer_JR2026514583": {
     "company": "Boeing",
-    "enriched_at": "2026-10-13T22:46:41.823179+00:00",
+    "enriched_at": "2026-10-28T12:54:58.066179+00:00",
     "external_id": "/job/USA---Berkeley-MO/Senior-Electrical-Design-and-Analysis-Engineer_JR2026514583",
     "h1b_mentioned": false,
     "h1b_status": "does_not_support_h1b",
@@ -196488,6 +196527,30 @@
     "source_updated_at": "",
     "sponsorship_evidence": "serving as a liaison between an executive and team(s) At this time, Capital One will not sponsor a new applicant for employment authorization for this position."
   },
+  "workday:Capital One:/job/Bangalore-In/Director---AI-Engineering_R1004322-1": {
+    "company": "Capital One",
+    "enriched_at": "2026-10-28T12:53:20.763319+00:00",
+    "external_id": "/job/Bangalore-In/Director---AI-Engineering_R1004322-1",
+    "h1b_mentioned": false,
+    "h1b_status": "does_not_support_h1b",
+    "keywords": [
+      "AWS",
+      "Azure",
+      "machine learning",
+      "analytics",
+      "electrical engineering",
+      "recruiting",
+      "compliance"
+    ],
+    "salary_currency": "",
+    "salary_max": null,
+    "salary_min": null,
+    "salary_period": "",
+    "salary_text": "",
+    "source": "workday",
+    "source_updated_at": "",
+    "sponsorship_evidence": "he ability to articulate complex AI concepts to peers At this time, Capital One will not sponsor a new applicant for employment authorization for this position."
+  },
   "workday:Capital One:/job/Bangalore-In/Director---HR-Operations-and-Risk_R249605": {
     "company": "Capital One",
     "enriched_at": "2026-10-13T22:44:47.813103+00:00",
@@ -196507,6 +196570,56 @@
     "source": "workday",
     "source_updated_at": "",
     "sponsorship_evidence": "Business (MBA) or Master\u2019s Degree in Human Resources At this time, Capital One will not sponsor a new applicant for employment authorization for this position."
+  },
+  "workday:Capital One:/job/Bangalore-In/Director---Machine-Learning-Engineering_R1004324": {
+    "company": "Capital One",
+    "enriched_at": "2026-10-28T12:53:20.744655+00:00",
+    "external_id": "/job/Bangalore-In/Director---Machine-Learning-Engineering_R1004324",
+    "h1b_mentioned": false,
+    "h1b_status": "does_not_support_h1b",
+    "keywords": [
+      "Python",
+      "Java",
+      "Go",
+      "AWS",
+      "Azure",
+      "GCP",
+      "Kubernetes",
+      "machine learning",
+      "data science",
+      "analytics",
+      "electrical engineering",
+      "recruiting"
+    ],
+    "salary_currency": "",
+    "salary_max": null,
+    "salary_min": null,
+    "salary_period": "",
+    "salary_text": "",
+    "source": "workday",
+    "source_updated_at": "",
+    "sponsorship_evidence": "ers, blog posts, open source contributions or patents At this time, Capital One will not sponsor a new applicant for employment authorization for this position No agencies please."
+  },
+  "workday:Capital One:/job/Bangalore-In/Director---Software-Engineering_R1004323-1": {
+    "company": "Capital One",
+    "enriched_at": "2026-10-28T12:53:20.739806+00:00",
+    "external_id": "/job/Bangalore-In/Director---Software-Engineering_R1004323-1",
+    "h1b_mentioned": false,
+    "h1b_status": "unknown",
+    "keywords": [
+      "Python",
+      "Java",
+      "recruiting",
+      "compliance"
+    ],
+    "salary_currency": "",
+    "salary_max": null,
+    "salary_min": null,
+    "salary_period": "",
+    "salary_text": "",
+    "source": "workday",
+    "source_updated_at": "",
+    "sponsorship_evidence": ""
   },
   "workday:Capital One:/job/Bangalore-In/Director--HR-Business-Partner_R249598-1": {
     "company": "Capital One",
@@ -197111,7 +197224,7 @@
   },
   "workday:Capital One:/job/Bangalore-In/Principal-Associate--Risk-Management_R1001986": {
     "company": "Capital One",
-    "enriched_at": "2026-10-06T18:21:59.763307+00:00",
+    "enriched_at": "2026-10-28T12:53:20.733309+00:00",
     "external_id": "/job/Bangalore-In/Principal-Associate--Risk-Management_R1001986",
     "h1b_mentioned": false,
     "h1b_status": "unknown",
@@ -197120,8 +197233,7 @@
       "audit",
       "risk management",
       "recruiting",
-      "compliance",
-      "legal"
+      "compliance"
     ],
     "salary_currency": "",
     "salary_max": null,
@@ -197401,6 +197513,64 @@
     "source_updated_at": "",
     "sponsorship_evidence": "th low level design and high level design (LLD & HLD) At this time, Capital One will not sponsor a new applicant for employment authorization for this position."
   },
+  "workday:Capital One:/job/Bangalore-In/Senior-Director---Machine-Learning-Engineering_R1004320": {
+    "company": "Capital One",
+    "enriched_at": "2026-10-28T12:53:20.750481+00:00",
+    "external_id": "/job/Bangalore-In/Senior-Director---Machine-Learning-Engineering_R1004320",
+    "h1b_mentioned": false,
+    "h1b_status": "does_not_support_h1b",
+    "keywords": [
+      "Python",
+      "Java",
+      "Go",
+      "AWS",
+      "Azure",
+      "GCP",
+      "Kubernetes",
+      "machine learning",
+      "data science",
+      "analytics",
+      "electrical engineering",
+      "recruiting"
+    ],
+    "salary_currency": "",
+    "salary_max": null,
+    "salary_min": null,
+    "salary_period": "",
+    "salary_text": "",
+    "source": "workday",
+    "source_updated_at": "",
+    "sponsorship_evidence": "rming ML engineers with an inspiring leadership style At this time, Capital One will not sponsor a new applicant for employment authorization for this position."
+  },
+  "workday:Capital One:/job/Bangalore-In/Senior-Director---Software-Engineering_R1004319-1": {
+    "company": "Capital One",
+    "enriched_at": "2026-10-28T12:53:20.756171+00:00",
+    "external_id": "/job/Bangalore-In/Senior-Director---Software-Engineering_R1004319-1",
+    "h1b_mentioned": false,
+    "h1b_status": "does_not_support_h1b",
+    "keywords": [
+      "Python",
+      "Java",
+      "C#",
+      "JavaScript",
+      "TypeScript",
+      "Rust",
+      "AWS",
+      "Azure",
+      "GCP",
+      "machine learning",
+      "analytics",
+      "recruiting"
+    ],
+    "salary_currency": "",
+    "salary_max": null,
+    "salary_min": null,
+    "salary_period": "",
+    "salary_text": "",
+    "source": "workday",
+    "source_updated_at": "",
+    "sponsorship_evidence": "coding tools to solve systemic development challenges At this time, Capital One will not sponsor a new applicant for employment authorization for this position."
+  },
   "workday:Capital One:/job/Bangalore-In/Senior-Lead-Software-Engineer_R248677-1": {
     "company": "Capital One",
     "enriched_at": "2026-10-24T15:56:54.352439+00:00",
@@ -197485,7 +197655,7 @@
   },
   "workday:Capital One:/job/Bangalore-In/Senior-Manager--Associate-Relations_R1001558-2": {
     "company": "Capital One",
-    "enriched_at": "2026-10-21T11:48:00.549291+00:00",
+    "enriched_at": "2026-10-28T12:53:20.769997+00:00",
     "external_id": "/job/Bangalore-In/Senior-Manager--Associate-Relations_R1001558-2",
     "h1b_mentioned": false,
     "h1b_status": "does_not_support_h1b",
@@ -234706,7 +234876,7 @@
   },
   "workday:Caterpillar:/job/Irving-Texas/Autonomy-Portfolio-Analyst_R0000395078": {
     "company": "Caterpillar",
-    "enriched_at": "2026-09-19T16:02:08.146226+00:00",
+    "enriched_at": "2026-10-28T13:03:25.544435+00:00",
     "external_id": "/job/Irving-Texas/Autonomy-Portfolio-Analyst_R0000395078",
     "h1b_mentioned": false,
     "h1b_status": "unknown",
@@ -254493,6 +254663,22 @@
     "source_updated_at": "",
     "sponsorship_evidence": ""
   },
+  "workday:Centene:/job/Remote-CA/Behavioral-Health-Medical-Director_1662476": {
+    "company": "Centene",
+    "enriched_at": "2026-10-28T12:56:27.943643+00:00",
+    "external_id": "/job/Remote-CA/Behavioral-Health-Medical-Director_1662476",
+    "h1b_mentioned": false,
+    "h1b_status": "unknown",
+    "keywords": [],
+    "salary_currency": "USD",
+    "salary_max": 408500.0,
+    "salary_min": 215000.0,
+    "salary_period": "year",
+    "salary_text": "$215,000.00 - $408,500.00 per year",
+    "source": "workday",
+    "source_updated_at": "",
+    "sponsorship_evidence": ""
+  },
   "workday:Centene:/job/Remote-CA/Care-Coordinator-III_1671115": {
     "company": "Centene",
     "enriched_at": "2026-10-23T17:10:13.710780+00:00",
@@ -266985,6 +267171,25 @@
     "source_updated_at": "",
     "sponsorship_evidence": ""
   },
+  "workday:Centene:/job/Remote-TX/Wellness-Health-Coach---Behavioral-Health_1671311": {
+    "company": "Centene",
+    "enriched_at": "2026-10-28T12:56:27.953315+00:00",
+    "external_id": "/job/Remote-TX/Wellness-Health-Coach---Behavioral-Health_1671311",
+    "h1b_mentioned": false,
+    "h1b_status": "unknown",
+    "keywords": [
+      "Excel",
+      "compliance"
+    ],
+    "salary_currency": "USD",
+    "salary_max": 48.55,
+    "salary_min": 27.02,
+    "salary_period": "hour",
+    "salary_text": "$27.02 - $48.55 per hour",
+    "source": "workday",
+    "source_updated_at": "",
+    "sponsorship_evidence": ""
+  },
   "workday:Centene:/job/Remote-WI/Care-Coordinator-II_1658051": {
     "company": "Centene",
     "enriched_at": "2026-09-10T20:55:04.192076+00:00",
@@ -274057,6 +274262,22 @@
     "company": "Cigna Group",
     "enriched_at": "2026-09-21T22:01:49.996049+00:00",
     "external_id": "/job/Naples-FL/Onsite-Bilingual-Spanish-Health-Coach---Evernorth---Naples-FL_26011771",
+    "h1b_mentioned": false,
+    "h1b_status": "unknown",
+    "keywords": [],
+    "salary_currency": "",
+    "salary_max": null,
+    "salary_min": null,
+    "salary_period": "",
+    "salary_text": "",
+    "source": "workday",
+    "source_updated_at": "",
+    "sponsorship_evidence": ""
+  },
+  "workday:Cigna Group:/job/New-Hampshire-Work-at-Home/Appeals-Processing-Sr-Representative---Evernorth---Remote_26012823": {
+    "company": "Cigna Group",
+    "enriched_at": "2026-10-28T12:56:25.376961+00:00",
+    "external_id": "/job/New-Hampshire-Work-at-Home/Appeals-Processing-Sr-Representative---Evernorth---Remote_26012823",
     "h1b_mentioned": false,
     "h1b_status": "unknown",
     "keywords": [],
@@ -297053,6 +297274,25 @@
       "analytics",
       "sales",
       "legal"
+    ],
+    "salary_currency": "",
+    "salary_max": null,
+    "salary_min": null,
+    "salary_period": "",
+    "salary_text": "",
+    "source": "workday",
+    "source_updated_at": "",
+    "sponsorship_evidence": ""
+  },
+  "workday:Cisco Systems:/job/San-Jose-California-US/Senior-Director--Communications-Orchestration---AI-Transformation_2029523-1": {
+    "company": "Cisco Systems",
+    "enriched_at": "2026-10-28T13:03:59.604372+00:00",
+    "external_id": "/job/San-Jose-California-US/Senior-Director--Communications-Orchestration---AI-Transformation_2029523-1",
+    "h1b_mentioned": false,
+    "h1b_status": "unknown",
+    "keywords": [
+      "analytics",
+      "sales"
     ],
     "salary_currency": "",
     "salary_max": null,
@@ -385528,7 +385768,7 @@
   },
   "workday:Johnson & Johnson:/job/Boston-Massachusetts-United-States-of-America/Sr-Product-Security-R-D-Manager_R-105003-1": {
     "company": "Johnson & Johnson",
-    "enriched_at": "2026-10-21T11:52:17.421906+00:00",
+    "enriched_at": "2026-10-28T12:57:30.502869+00:00",
     "external_id": "/job/Boston-Massachusetts-United-States-of-America/Sr-Product-Security-R-D-Manager_R-105003-1",
     "h1b_mentioned": false,
     "h1b_status": "unknown",
@@ -419786,7 +420026,7 @@
   },
   "workday:Johnson & Johnson:/job/Titusville-New-Jersey-United-States-of-America/Director--CRM-Platform--Operations---Field-Adoption_R-105065": {
     "company": "Johnson & Johnson",
-    "enriched_at": "2026-10-21T11:52:17.403404+00:00",
+    "enriched_at": "2026-10-28T12:57:30.492230+00:00",
     "external_id": "/job/Titusville-New-Jersey-United-States-of-America/Director--CRM-Platform--Operations---Field-Adoption_R-105065",
     "h1b_mentioned": false,
     "h1b_status": "unknown",
@@ -422982,7 +423222,7 @@
   },
   "workday:Johnson & Johnson:/job/West-Chester-Pennsylvania-United-States-of-America/Technical-Operations-Co-op_R-100885": {
     "company": "Johnson & Johnson",
-    "enriched_at": "2026-10-21T11:52:17.389796+00:00",
+    "enriched_at": "2026-10-28T12:57:30.484607+00:00",
     "external_id": "/job/West-Chester-Pennsylvania-United-States-of-America/Technical-Operations-Co-op_R-100885",
     "h1b_mentioned": true,
     "h1b_status": "unknown",
@@ -430871,6 +431111,24 @@
     "company": "Lowe's",
     "enriched_at": "2026-10-14T17:23:03.905205+00:00",
     "external_id": "/job/Asheville-NC-W-Asheville-0526/Full-Time---Sales-Specialist---Appliances---Day_JR-02673313-1",
+    "h1b_mentioned": false,
+    "h1b_status": "unknown",
+    "keywords": [
+      "sales"
+    ],
+    "salary_currency": "",
+    "salary_max": null,
+    "salary_min": null,
+    "salary_period": "",
+    "salary_text": "",
+    "source": "workday",
+    "source_updated_at": "",
+    "sponsorship_evidence": ""
+  },
+  "workday:Lowe's:/job/Asheville-NC-W-Asheville-0526/Full-Time---Sales-Specialist---Appliances---Day_JR-02686391-1": {
+    "company": "Lowe's",
+    "enriched_at": "2026-10-28T13:03:18.393753+00:00",
+    "external_id": "/job/Asheville-NC-W-Asheville-0526/Full-Time---Sales-Specialist---Appliances---Day_JR-02686391-1",
     "h1b_mentioned": false,
     "h1b_status": "unknown",
     "keywords": [
@@ -441125,7 +441383,7 @@
   },
   "workday:Lowe's:/job/Columbia-SC-Irmo-0385/Full-Time---Sales-Associate---Inside-Lawn---Garden---Closing_JR-02682347": {
     "company": "Lowe's",
-    "enriched_at": "2026-10-21T11:58:10.156484+00:00",
+    "enriched_at": "2026-10-28T13:03:18.406875+00:00",
     "external_id": "/job/Columbia-SC-Irmo-0385/Full-Time---Sales-Associate---Inside-Lawn---Garden---Closing_JR-02682347",
     "h1b_mentioned": false,
     "h1b_status": "unknown",
@@ -441143,7 +441401,7 @@
   },
   "workday:Lowe's:/job/Columbia-SC-Irmo-0385/Full-Time---Sales-Associate---Inside-Lawn---Garden---Closing_JR-02682348": {
     "company": "Lowe's",
-    "enriched_at": "2026-10-21T11:58:10.144791+00:00",
+    "enriched_at": "2026-10-28T13:03:18.400490+00:00",
     "external_id": "/job/Columbia-SC-Irmo-0385/Full-Time---Sales-Associate---Inside-Lawn---Garden---Closing_JR-02682348",
     "h1b_mentioned": false,
     "h1b_status": "unknown",
@@ -450262,7 +450520,7 @@
   },
   "workday:Lowe's:/job/Geneva-NY-Waterloo-2759/Full-Time---Fulfillment-Associate---Day_JR-02682330": {
     "company": "Lowe's",
-    "enriched_at": "2026-10-21T11:58:10.199322+00:00",
+    "enriched_at": "2026-10-28T13:03:18.425107+00:00",
     "external_id": "/job/Geneva-NY-Waterloo-2759/Full-Time---Fulfillment-Associate---Day_JR-02682330",
     "h1b_mentioned": false,
     "h1b_status": "unknown",
@@ -458092,7 +458350,7 @@
   },
   "workday:Lowe's:/job/Kailua-Kona-HI-Kona-1561/Full-Time---Sales-Associate---Inside-Lawn---Garden---Day_JR-02678350": {
     "company": "Lowe's",
-    "enriched_at": "2026-10-21T11:58:10.207987+00:00",
+    "enriched_at": "2026-10-28T13:03:18.429964+00:00",
     "external_id": "/job/Kailua-Kona-HI-Kona-1561/Full-Time---Sales-Associate---Inside-Lawn---Garden---Day_JR-02678350",
     "h1b_mentioned": false,
     "h1b_status": "unknown",
@@ -458331,6 +458589,24 @@
     "company": "Lowe's",
     "enriched_at": "2026-09-05T20:33:31.882143+00:00",
     "external_id": "/job/Kannapolis-NC-N-Concord-2368/Full-Time---Merchandising-Service-Associate---Day_JR-02617917",
+    "h1b_mentioned": false,
+    "h1b_status": "unknown",
+    "keywords": [
+      "sales"
+    ],
+    "salary_currency": "",
+    "salary_max": null,
+    "salary_min": null,
+    "salary_period": "",
+    "salary_text": "",
+    "source": "workday",
+    "source_updated_at": "",
+    "sponsorship_evidence": ""
+  },
+  "workday:Lowe's:/job/Kannapolis-NC-N-Concord-2368/Full-Time---Sales-Specialist---Millwork---Day_JR-02686431-1": {
+    "company": "Lowe's",
+    "enriched_at": "2026-10-28T13:03:18.386872+00:00",
+    "external_id": "/job/Kannapolis-NC-N-Concord-2368/Full-Time---Sales-Specialist---Millwork---Day_JR-02686431-1",
     "h1b_mentioned": false,
     "h1b_status": "unknown",
     "keywords": [
@@ -463238,6 +463514,24 @@
     "company": "Lowe's",
     "enriched_at": "2026-09-11T21:08:52.076505+00:00",
     "external_id": "/job/Leesburg-FL-Lake-County-0569/Full-Time---Sales-Associate---Plumbing---Closing_JR-02648178",
+    "h1b_mentioned": false,
+    "h1b_status": "unknown",
+    "keywords": [
+      "sales"
+    ],
+    "salary_currency": "",
+    "salary_max": null,
+    "salary_min": null,
+    "salary_period": "",
+    "salary_text": "",
+    "source": "workday",
+    "source_updated_at": "",
+    "sponsorship_evidence": ""
+  },
+  "workday:Lowe's:/job/Lewes-DE-Sussex-County-0658/Asset-Protection---Safety-Mgr_JR-02684988-1": {
+    "company": "Lowe's",
+    "enriched_at": "2026-10-28T13:03:18.382673+00:00",
+    "external_id": "/job/Lewes-DE-Sussex-County-0658/Asset-Protection---Safety-Mgr_JR-02684988-1",
     "h1b_mentioned": false,
     "h1b_status": "unknown",
     "keywords": [
@@ -476249,7 +476543,7 @@
   },
   "workday:Lowe's:/job/Mount-Pleasant-SC-N-Mt-Pleasant-3317/Full-Time---Cashier---Closing_JR-02682339": {
     "company": "Lowe's",
-    "enriched_at": "2026-10-21T11:58:10.189369+00:00",
+    "enriched_at": "2026-10-28T13:03:18.419575+00:00",
     "external_id": "/job/Mount-Pleasant-SC-N-Mt-Pleasant-3317/Full-Time---Cashier---Closing_JR-02682339",
     "h1b_mentioned": false,
     "h1b_status": "unknown",
@@ -476375,7 +476669,7 @@
   },
   "workday:Lowe's:/job/Mount-Pleasant-SC-N-Mt-Pleasant-3317/Full-Time---Sales-Associate---Electrical---Lighting---Closing_JR-02682342": {
     "company": "Lowe's",
-    "enriched_at": "2026-10-21T11:58:10.177864+00:00",
+    "enriched_at": "2026-10-28T13:03:18.413243+00:00",
     "external_id": "/job/Mount-Pleasant-SC-N-Mt-Pleasant-3317/Full-Time---Sales-Associate---Electrical---Lighting---Closing_JR-02682342",
     "h1b_mentioned": false,
     "h1b_status": "unknown",
@@ -488506,6 +488800,24 @@
     "h1b_status": "unknown",
     "keywords": [
       "Excel",
+      "sales"
+    ],
+    "salary_currency": "",
+    "salary_max": null,
+    "salary_min": null,
+    "salary_period": "",
+    "salary_text": "",
+    "source": "workday",
+    "source_updated_at": "",
+    "sponsorship_evidence": ""
+  },
+  "workday:Lowe's:/job/Scottsdale-AZ-S-Scottsdale-1850/Sales-Floor-Dept-Supervisor---Inside-Garden_JR-02679537-1": {
+    "company": "Lowe's",
+    "enriched_at": "2026-10-28T13:03:18.377414+00:00",
+    "external_id": "/job/Scottsdale-AZ-S-Scottsdale-1850/Sales-Floor-Dept-Supervisor---Inside-Garden_JR-02679537-1",
+    "h1b_mentioned": false,
+    "h1b_status": "unknown",
+    "keywords": [
       "sales"
     ],
     "salary_currency": "",
@@ -536240,7 +536552,7 @@
   },
   "workday:Micron Technology:/job/Boise-ID---Main-Site/AI-Security-Engineer_JR115157": {
     "company": "Micron Technology",
-    "enriched_at": "2026-10-21T11:51:09.218638+00:00",
+    "enriched_at": "2026-10-28T12:56:14.949127+00:00",
     "external_id": "/job/Boise-ID---Main-Site/AI-Security-Engineer_JR115157",
     "h1b_mentioned": false,
     "h1b_status": "unknown",
@@ -583452,6 +583764,27 @@
     "source_updated_at": "",
     "sponsorship_evidence": ""
   },
+  "workday:NVIDIA:/job/US-CA-Santa-Clara/Senior-Software-Engineer--Bare-Metal-Infrastructure---DGX-Cloud_JR2028557": {
+    "company": "NVIDIA",
+    "enriched_at": "2026-10-28T12:52:51.690324+00:00",
+    "external_id": "/job/US-CA-Santa-Clara/Senior-Software-Engineer--Bare-Metal-Infrastructure---DGX-Cloud_JR2028557",
+    "h1b_mentioned": false,
+    "h1b_status": "unknown",
+    "keywords": [
+      "Python",
+      "Rust",
+      "Kubernetes",
+      "recruiting"
+    ],
+    "salary_currency": "",
+    "salary_max": null,
+    "salary_min": null,
+    "salary_period": "",
+    "salary_text": "",
+    "source": "workday",
+    "source_updated_at": "",
+    "sponsorship_evidence": ""
+  },
   "workday:NVIDIA:/job/US-CA-Santa-Clara/Senior-Software-Engineer--CAD-Tool-Development---Circuits_JR2025518": {
     "company": "NVIDIA",
     "enriched_at": "2026-09-15T21:20:23.611285+00:00",
@@ -589386,7 +589719,7 @@
   },
   "workday:Nike:/job/Beaverton-Oregon/Designer-II--Core-Studio-Footwear-Materials-Design-Expression_R-90744-1": {
     "company": "Nike",
-    "enriched_at": "2026-10-21T11:59:26.430732+00:00",
+    "enriched_at": "2026-10-28T13:04:25.245523+00:00",
     "external_id": "/job/Beaverton-Oregon/Designer-II--Core-Studio-Footwear-Materials-Design-Expression_R-90744-1",
     "h1b_mentioned": false,
     "h1b_status": "unknown",
@@ -591443,7 +591776,7 @@
   },
   "workday:Nike:/job/Beaverton-Oregon/Lead--x-Sport-Styling-Design--Global-Jordan_R-92425": {
     "company": "Nike",
-    "enriched_at": "2026-10-21T11:59:26.389521+00:00",
+    "enriched_at": "2026-10-28T13:04:25.233050+00:00",
     "external_id": "/job/Beaverton-Oregon/Lead--x-Sport-Styling-Design--Global-Jordan_R-92425",
     "h1b_mentioned": false,
     "h1b_status": "unknown",
@@ -591497,7 +591830,7 @@
   },
   "workday:Nike:/job/Beaverton-Oregon/Lead-Buyer-Associate--NVS-NA_R-95226": {
     "company": "Nike",
-    "enriched_at": "2026-10-21T11:59:26.406815+00:00",
+    "enriched_at": "2026-10-28T13:04:25.236980+00:00",
     "external_id": "/job/Beaverton-Oregon/Lead-Buyer-Associate--NVS-NA_R-95226",
     "h1b_mentioned": false,
     "h1b_status": "unknown",
@@ -592737,7 +593070,7 @@
   },
   "workday:Nike:/job/Beaverton-Oregon/Maintenance-Team-Coach_R-94682": {
     "company": "Nike",
-    "enriched_at": "2026-10-21T11:59:26.419957+00:00",
+    "enriched_at": "2026-10-28T13:04:25.240210+00:00",
     "external_id": "/job/Beaverton-Oregon/Maintenance-Team-Coach_R-94682",
     "h1b_mentioned": false,
     "h1b_status": "unknown",
@@ -598078,7 +598411,7 @@
   },
   "workday:Nike:/job/Los-Angeles-California/Senior--Retail-Producer--North-America_R-95029": {
     "company": "Nike",
-    "enriched_at": "2026-10-21T11:59:26.381410+00:00",
+    "enriched_at": "2026-10-28T13:04:25.228582+00:00",
     "external_id": "/job/Los-Angeles-California/Senior--Retail-Producer--North-America_R-95029",
     "h1b_mentioned": false,
     "h1b_status": "unknown",
@@ -604951,6 +605284,22 @@
     "source_updated_at": "",
     "sponsorship_evidence": ""
   },
+  "workday:Northrop Grumman:/job/United-States-Alabama-Huntsville/XMLNAME-2027-Associate-Software-Engineer---Software-Engineer---Huntsville-AL_R10257986": {
+    "company": "Northrop Grumman",
+    "enriched_at": "2026-10-28T12:54:53.403451+00:00",
+    "external_id": "/job/United-States-Alabama-Huntsville/XMLNAME-2027-Associate-Software-Engineer---Software-Engineer---Huntsville-AL_R10257986",
+    "h1b_mentioned": false,
+    "h1b_status": "unknown",
+    "keywords": [],
+    "salary_currency": "",
+    "salary_max": null,
+    "salary_min": null,
+    "salary_period": "",
+    "salary_text": "",
+    "source": "workday",
+    "source_updated_at": "",
+    "sponsorship_evidence": ""
+  },
   "workday:Northrop Grumman:/job/United-States-Alabama-Huntsville/XMLNAME-2027-Associate-Software-Systems-Engineer---Software-Systems-Engineer---Huntsville-AL_R10253385-1": {
     "company": "Northrop Grumman",
     "enriched_at": "2026-09-29T12:52:55.262845+00:00",
@@ -606012,6 +606361,25 @@
     "h1b_status": "unknown",
     "keywords": [
       "Excel"
+    ],
+    "salary_currency": "",
+    "salary_max": null,
+    "salary_min": null,
+    "salary_period": "",
+    "salary_text": "",
+    "source": "workday",
+    "source_updated_at": "",
+    "sponsorship_evidence": ""
+  },
+  "workday:Northrop Grumman:/job/United-States-Arizona-Chandler/DevSecOps-Software-Infrastructure-Engineer---Level-2-3--Chandler---AHT-_R10257989": {
+    "company": "Northrop Grumman",
+    "enriched_at": "2026-10-28T12:54:53.387629+00:00",
+    "external_id": "/job/United-States-Arizona-Chandler/DevSecOps-Software-Infrastructure-Engineer---Level-2-3--Chandler---AHT-_R10257989",
+    "h1b_mentioned": false,
+    "h1b_status": "unknown",
+    "keywords": [
+      "Python",
+      "Docker"
     ],
     "salary_currency": "",
     "salary_max": null,
@@ -624289,11 +624657,12 @@
   },
   "workday:Northrop Grumman:/job/United-States-California-Northridge/Principal-SrPrincipal-Software-Engineer-Level-3-4_R10257008": {
     "company": "Northrop Grumman",
-    "enriched_at": "2026-10-21T11:49:42.012792+00:00",
+    "enriched_at": "2026-10-28T12:54:53.414613+00:00",
     "external_id": "/job/United-States-California-Northridge/Principal-SrPrincipal-Software-Engineer-Level-3-4_R10257008",
     "h1b_mentioned": false,
     "h1b_status": "unknown",
     "keywords": [
+      "C++",
       "C#"
     ],
     "salary_currency": "",
@@ -624596,7 +624965,7 @@
   },
   "workday:Northrop Grumman:/job/United-States-California-Northridge/Software-Test-Engineer-2-3--AHT-_R10257009": {
     "company": "Northrop Grumman",
-    "enriched_at": "2026-10-21T11:49:42.024386+00:00",
+    "enriched_at": "2026-10-28T12:54:53.420680+00:00",
     "external_id": "/job/United-States-California-Northridge/Software-Test-Engineer-2-3--AHT-_R10257009",
     "h1b_mentioned": false,
     "h1b_status": "unknown",
@@ -624874,7 +625243,7 @@
   },
   "workday:Northrop Grumman:/job/United-States-California-Northridge/Staff-FPGA-Digital-Design-Engineer-Level-5--AHT-_R10257005-1": {
     "company": "Northrop Grumman",
-    "enriched_at": "2026-10-21T11:49:42.034362+00:00",
+    "enriched_at": "2026-10-28T12:54:53.426558+00:00",
     "external_id": "/job/United-States-California-Northridge/Staff-FPGA-Digital-Design-Engineer-Level-5--AHT-_R10257005-1",
     "h1b_mentioned": false,
     "h1b_status": "unknown",
@@ -629302,6 +629671,22 @@
     "company": "Northrop Grumman",
     "enriched_at": "2026-10-18T04:33:57.340893+00:00",
     "external_id": "/job/United-States-California-Palmdale/Principal-Engineer-NDT--Sr-Principal-Engineer-NDT----Travel-Team_R10233788",
+    "h1b_mentioned": false,
+    "h1b_status": "unknown",
+    "keywords": [],
+    "salary_currency": "",
+    "salary_max": null,
+    "salary_min": null,
+    "salary_period": "",
+    "salary_text": "",
+    "source": "workday",
+    "source_updated_at": "",
+    "sponsorship_evidence": ""
+  },
+  "workday:Northrop Grumman:/job/United-States-California-Palmdale/Principal-Engineer-NDT--Sr-Principal-Engineer-NDT----Travel-Team_R10257993": {
+    "company": "Northrop Grumman",
+    "enriched_at": "2026-10-28T12:54:53.383020+00:00",
+    "external_id": "/job/United-States-California-Palmdale/Principal-Engineer-NDT--Sr-Principal-Engineer-NDT----Travel-Team_R10257993",
     "h1b_mentioned": false,
     "h1b_status": "unknown",
     "keywords": [],
@@ -753103,6 +753488,22 @@
     "source_updated_at": "",
     "sponsorship_evidence": ""
   },
+  "workday:Northrop Grumman:/job/United-States-Utah-Roy/XMLNAME-2027-Business-Management-Intern---Roy-UT_R10257987": {
+    "company": "Northrop Grumman",
+    "enriched_at": "2026-10-28T12:54:53.398632+00:00",
+    "external_id": "/job/United-States-Utah-Roy/XMLNAME-2027-Business-Management-Intern---Roy-UT_R10257987",
+    "h1b_mentioned": false,
+    "h1b_status": "unknown",
+    "keywords": [],
+    "salary_currency": "USD",
+    "salary_max": 25.0,
+    "salary_min": 20.75,
+    "salary_period": "hour",
+    "salary_text": "$20.75 to $25.00 per hour",
+    "source": "workday",
+    "source_updated_at": "",
+    "sponsorship_evidence": ""
+  },
   "workday:Northrop Grumman:/job/United-States-Utah-Roy/XMLNAME-2027-Civil-Engineering-Intern---Roy-UT_R10257899": {
     "company": "Northrop Grumman",
     "enriched_at": "2026-10-27T22:15:18.297255+00:00",
@@ -754167,7 +754568,7 @@
   },
   "workday:Northrop Grumman:/job/United-States-Utah-Salt-Lake-City/Manufacturing-Technician-3---B-Shift_R10241279": {
     "company": "Northrop Grumman",
-    "enriched_at": "2026-09-19T20:42:05.946416+00:00",
+    "enriched_at": "2026-10-28T12:54:53.408768+00:00",
     "external_id": "/job/United-States-Utah-Salt-Lake-City/Manufacturing-Technician-3---B-Shift_R10241279",
     "h1b_mentioned": false,
     "h1b_status": "unknown",
@@ -1013796,7 +1014197,7 @@
   },
   "workday:Sysco:/job/Freshpoint-Central-Florida/Forklift-Outbound_R268527": {
     "company": "Sysco",
-    "enriched_at": "2026-09-22T17:09:48.930883+00:00",
+    "enriched_at": "2026-10-28T13:03:21.095166+00:00",
     "external_id": "/job/Freshpoint-Central-Florida/Forklift-Outbound_R268527",
     "h1b_mentioned": false,
     "h1b_status": "unknown",
@@ -1014405,7 +1014806,7 @@
   },
   "workday:Sysco:/job/Freshpoint-Oklahoma-City/CDL-A-Shuttle-Truck-Driver_R269694": {
     "company": "Sysco",
-    "enriched_at": "2026-09-29T22:26:05.456791+00:00",
+    "enriched_at": "2026-10-28T13:03:21.091048+00:00",
     "external_id": "/job/Freshpoint-Oklahoma-City/CDL-A-Shuttle-Truck-Driver_R269694",
     "h1b_mentioned": false,
     "h1b_status": "unknown",
@@ -1025124,6 +1025525,24 @@
     "h1b_status": "unknown",
     "keywords": [
       "supply chain",
+      "sales"
+    ],
+    "salary_currency": "",
+    "salary_max": null,
+    "salary_min": null,
+    "salary_period": "",
+    "salary_text": "",
+    "source": "workday",
+    "source_updated_at": "",
+    "sponsorship_evidence": ""
+  },
+  "workday:Sysco:/job/Sysco-North-Dakota-----Fargo/CDL-A-Local-Delivery-Truck-Driver-Make-up-to--100-000-Yearly---Incentives_R256443": {
+    "company": "Sysco",
+    "enriched_at": "2026-10-28T13:03:21.086421+00:00",
+    "external_id": "/job/Sysco-North-Dakota-----Fargo/CDL-A-Local-Delivery-Truck-Driver-Make-up-to--100-000-Yearly---Incentives_R256443",
+    "h1b_mentioned": false,
+    "h1b_status": "unknown",
+    "keywords": [
       "sales"
     ],
     "salary_currency": "",
@@ -1047049,6 +1047468,26 @@
     "source_updated_at": "",
     "sponsorship_evidence": ""
   },
+  "workday:Thermo Fisher Scientific:/job/Juncos-Puerto-Rico-USA/System-Owner_R-01372604-1": {
+    "company": "Thermo Fisher Scientific",
+    "enriched_at": "2026-10-28T13:05:56.349631+00:00",
+    "external_id": "/job/Juncos-Puerto-Rico-USA/System-Owner_R-01372604-1",
+    "h1b_mentioned": false,
+    "h1b_status": "unknown",
+    "keywords": [
+      "Excel",
+      "audit",
+      "compliance"
+    ],
+    "salary_currency": "",
+    "salary_max": null,
+    "salary_min": null,
+    "salary_period": "",
+    "salary_text": "",
+    "source": "workday",
+    "source_updated_at": "",
+    "sponsorship_evidence": ""
+  },
   "workday:Thermo Fisher Scientific:/job/Kansas-City-Missouri-USA/Field-Service-Engineer--Electron-Microscopy--KCMO-Remote_R-01359121": {
     "company": "Thermo Fisher Scientific",
     "enriched_at": "2026-08-14T23:13:20.932890+00:00",
@@ -1064957,6 +1065396,25 @@
     "source_updated_at": "",
     "sponsorship_evidence": ""
   },
+  "workday:Thermo Fisher Scientific:/job/Richmond-Virginia-USA/Chromatography-Scientist---Multiple-Shifts-Available_R-01374209": {
+    "company": "Thermo Fisher Scientific",
+    "enriched_at": "2026-10-28T13:05:56.360076+00:00",
+    "external_id": "/job/Richmond-Virginia-USA/Chromatography-Scientist---Multiple-Shifts-Available_R-01374209",
+    "h1b_mentioned": false,
+    "h1b_status": "does_not_support_h1b",
+    "keywords": [
+      "Excel",
+      "compliance"
+    ],
+    "salary_currency": "",
+    "salary_max": null,
+    "salary_min": null,
+    "salary_period": "",
+    "salary_text": "",
+    "source": "workday",
+    "source_updated_at": "",
+    "sponsorship_evidence": "Must be legally authorized to work in the United States without sponsorship."
+  },
   "workday:Thermo Fisher Scientific:/job/Richmond-Virginia-USA/Director-Labs---Bioanalytical-LCMS-Research-and-Development--_R-01362496": {
     "company": "Thermo Fisher Scientific",
     "enriched_at": "2026-10-10T21:57:17.324641+00:00",
@@ -1065090,6 +1065548,22 @@
     "company": "Thermo Fisher Scientific",
     "enriched_at": "2026-10-10T12:41:42.318958+00:00",
     "external_id": "/job/Richmond-Virginia-USA/Inventory-Management-Specialist-II---1st-Shift_R-01363665",
+    "h1b_mentioned": false,
+    "h1b_status": "unknown",
+    "keywords": [],
+    "salary_currency": "",
+    "salary_max": null,
+    "salary_min": null,
+    "salary_period": "",
+    "salary_text": "",
+    "source": "workday",
+    "source_updated_at": "",
+    "sponsorship_evidence": ""
+  },
+  "workday:Thermo Fisher Scientific:/job/Richmond-Virginia-USA/Inventory-Management-Specialist-II_R-01372598": {
+    "company": "Thermo Fisher Scientific",
+    "enriched_at": "2026-10-28T13:05:56.340645+00:00",
+    "external_id": "/job/Richmond-Virginia-USA/Inventory-Management-Specialist-II_R-01372598",
     "h1b_mentioned": false,
     "h1b_status": "unknown",
     "keywords": [],
@@ -1075931,6 +1076405,25 @@
     "source_updated_at": "",
     "sponsorship_evidence": ""
   },
+  "workday:Truist Financial:/job/Atlanta-GA/Fiduciary-Intern_R0121175": {
+    "company": "Truist Financial",
+    "enriched_at": "2026-10-28T13:06:08.520830+00:00",
+    "external_id": "/job/Atlanta-GA/Fiduciary-Intern_R0121175",
+    "h1b_mentioned": true,
+    "h1b_status": "does_not_support_h1b",
+    "keywords": [
+      "accounting",
+      "tax"
+    ],
+    "salary_currency": "",
+    "salary_max": null,
+    "salary_min": null,
+    "salary_period": "",
+    "salary_text": "",
+    "source": "workday",
+    "source_updated_at": "",
+    "sponsorship_evidence": "Demonstrated leadership aptitude At this time, Truist will not sponsor an applicant for employment authorization, nor will we offer any immigration-related support for thi"
+  },
   "workday:Truist Financial:/job/Atlanta-GA/Fiduciary-Support-Specialist-II_R0118352": {
     "company": "Truist Financial",
     "enriched_at": "2026-08-26T20:16:06.814102+00:00",
@@ -1086685,6 +1087178,28 @@
     "company": "Truist Financial",
     "enriched_at": "2026-10-27T18:19:19.622724+00:00",
     "external_id": "/job/Fort-Myers-FL/Branch-Leader-I--II--III---Alico-Commons_R0121218",
+    "h1b_mentioned": false,
+    "h1b_status": "unknown",
+    "keywords": [
+      "accounting",
+      "tax",
+      "risk management",
+      "sales",
+      "compliance"
+    ],
+    "salary_currency": "",
+    "salary_max": null,
+    "salary_min": null,
+    "salary_period": "",
+    "salary_text": "",
+    "source": "workday",
+    "source_updated_at": "",
+    "sponsorship_evidence": ""
+  },
+  "workday:Truist Financial:/job/Fort-Myers-FL/Branch-Leader-I--II-or-III---Colonial-Blvd_R0121221": {
+    "company": "Truist Financial",
+    "enriched_at": "2026-10-28T13:06:08.514064+00:00",
+    "external_id": "/job/Fort-Myers-FL/Branch-Leader-I--II-or-III---Colonial-Blvd_R0121221",
     "h1b_mentioned": false,
     "h1b_status": "unknown",
     "keywords": [
@@ -1099516,7 +1100031,7 @@
   },
   "workday:Truist Financial:/job/Richmond-VA/Client-Solutions-Specialist-I_R0119365": {
     "company": "Truist Financial",
-    "enriched_at": "2026-09-22T17:12:03.844472+00:00",
+    "enriched_at": "2026-10-28T13:06:08.526085+00:00",
     "external_id": "/job/Richmond-VA/Client-Solutions-Specialist-I_R0119365",
     "h1b_mentioned": false,
     "h1b_status": "unknown",
@@ -1099536,7 +1100051,7 @@
   },
   "workday:Truist Financial:/job/Richmond-VA/Client-Solutions-Specialist-I_R0120675": {
     "company": "Truist Financial",
-    "enriched_at": "2026-10-12T15:38:17.145772+00:00",
+    "enriched_at": "2026-10-28T13:06:08.531997+00:00",
     "external_id": "/job/Richmond-VA/Client-Solutions-Specialist-I_R0120675",
     "h1b_mentioned": false,
     "h1b_status": "unknown",
@@ -1102430,6 +1102945,27 @@
     "source_updated_at": "",
     "sponsorship_evidence": ""
   },
+  "workday:Truist Financial:/job/Stockbridge-GA/Universal-Banker---Southeast-Atlanta-Area_R0120086": {
+    "company": "Truist Financial",
+    "enriched_at": "2026-10-28T13:06:08.501224+00:00",
+    "external_id": "/job/Stockbridge-GA/Universal-Banker---Southeast-Atlanta-Area_R0120086",
+    "h1b_mentioned": false,
+    "h1b_status": "unknown",
+    "keywords": [
+      "tax",
+      "risk management",
+      "sales",
+      "compliance"
+    ],
+    "salary_currency": "",
+    "salary_max": null,
+    "salary_min": null,
+    "salary_period": "",
+    "salary_text": "",
+    "source": "workday",
+    "source_updated_at": "",
+    "sponsorship_evidence": ""
+  },
   "workday:Truist Financial:/job/Stone-Mountain-GA---3850-Rockbridge-Road---Rockbridge-Memorial-Branch/Universal-Banker---Southeast-Atlanta-Area_R0120082": {
     "company": "Truist Financial",
     "enriched_at": "2026-10-26T13:16:25.925459+00:00",
@@ -1104363,7 +1104899,7 @@
   },
   "workday:Truist Financial:/job/Washington-DC/NFP-Government-Banker-II_R0118339": {
     "company": "Truist Financial",
-    "enriched_at": "2026-08-26T20:16:06.844254+00:00",
+    "enriched_at": "2026-10-28T13:06:08.507896+00:00",
     "external_id": "/job/Washington-DC/NFP-Government-Banker-II_R0118339",
     "h1b_mentioned": false,
     "h1b_status": "unknown",
@@ -1111146,7 +1111682,7 @@
   },
   "workday:U.S. Bancorp:/job/Chesterfield-MO/Business-Banking-Treasury-Management-Payments-Consultant_2026-0028179": {
     "company": "U.S. Bancorp",
-    "enriched_at": "2026-09-10T16:38:27.551016+00:00",
+    "enriched_at": "2026-10-28T13:05:59.415485+00:00",
     "external_id": "/job/Chesterfield-MO/Business-Banking-Treasury-Management-Payments-Consultant_2026-0028179",
     "h1b_mentioned": false,
     "h1b_status": "unknown",
@@ -1112915,7 +1113451,7 @@
   },
   "workday:U.S. Bancorp:/job/Columbus-OH/Fraud-Investigator_2026-0025400": {
     "company": "U.S. Bancorp",
-    "enriched_at": "2026-09-17T21:35:56.524358+00:00",
+    "enriched_at": "2026-10-28T13:05:59.409827+00:00",
     "external_id": "/job/Columbus-OH/Fraud-Investigator_2026-0025400",
     "h1b_mentioned": false,
     "h1b_status": "unknown",
@@ -1124139,7 +1124675,7 @@
   },
   "workday:U.S. Bancorp:/job/Maysville-KY/Peak-Time-Teller--19-hours--Maysville-KY_2026-0025853": {
     "company": "U.S. Bancorp",
-    "enriched_at": "2026-10-07T13:34:59.912776+00:00",
+    "enriched_at": "2026-10-28T13:05:59.391384+00:00",
     "external_id": "/job/Maysville-KY/Peak-Time-Teller--19-hours--Maysville-KY_2026-0025853",
     "h1b_mentioned": false,
     "h1b_status": "unknown",
@@ -1135979,8 +1136515,29 @@
   },
   "workday:U.S. Bancorp:/job/Saint-Paul-MN/Small-Business-Connect-Relationship-Banker--Call-Center---St-Paul-MN-West-Side-Flats_2026-0028516-1": {
     "company": "U.S. Bancorp",
-    "enriched_at": "2026-10-07T13:34:59.901364+00:00",
+    "enriched_at": "2026-10-28T13:05:59.403461+00:00",
     "external_id": "/job/Saint-Paul-MN/Small-Business-Connect-Relationship-Banker--Call-Center---St-Paul-MN-West-Side-Flats_2026-0028516-1",
+    "h1b_mentioned": false,
+    "h1b_status": "unknown",
+    "keywords": [
+      "Excel",
+      "sales",
+      "compliance",
+      "legal"
+    ],
+    "salary_currency": "",
+    "salary_max": null,
+    "salary_min": null,
+    "salary_period": "",
+    "salary_text": "",
+    "source": "workday",
+    "source_updated_at": "",
+    "sponsorship_evidence": ""
+  },
+  "workday:U.S. Bancorp:/job/Saint-Paul-MN/Small-Business-Connect-Relationship-Banker--Call-Center---St-Paul-MN-West-Side-Flats_2026-0033381-1": {
+    "company": "U.S. Bancorp",
+    "enriched_at": "2026-10-28T13:05:59.397156+00:00",
+    "external_id": "/job/Saint-Paul-MN/Small-Business-Connect-Relationship-Banker--Call-Center---St-Paul-MN-West-Side-Flats_2026-0033381-1",
     "h1b_mentioned": false,
     "h1b_status": "unknown",
     "keywords": [
@@ -1148994,7 +1149551,7 @@
   },
   "workday:Visa:/job/IN---Bengaluru-India/Sr-Systems-Analyst---Reporting---Analytics_REF087838W": {
     "company": "Visa",
-    "enriched_at": "2026-09-17T11:42:18.675693+00:00",
+    "enriched_at": "2026-10-28T12:55:06.837811+00:00",
     "external_id": "/job/IN---Bengaluru-India/Sr-Systems-Analyst---Reporting---Analytics_REF087838W",
     "h1b_mentioned": false,
     "h1b_status": "unknown",
@@ -1151092,7 +1151649,7 @@
   },
   "workday:Visa:/job/US---Atlanta-GA/Sr-Data---Insights-Consultant--Data---Insights--Bilingual-Spanish-English-_REF088825W": {
     "company": "Visa",
-    "enriched_at": "2026-10-07T23:07:39.216852+00:00",
+    "enriched_at": "2026-10-28T12:55:06.830829+00:00",
     "external_id": "/job/US---Atlanta-GA/Sr-Data---Insights-Consultant--Data---Insights--Bilingual-Spanish-English-_REF088825W",
     "h1b_mentioned": false,
     "h1b_status": "unknown",
@@ -1181421,7 +1181978,7 @@
   },
   "workday:Workday:/job/USA-Remote/Principal-Grants-Management-Implementation-Consultant--State---Local-Government_JR-0110870": {
     "company": "Workday",
-    "enriched_at": "2026-10-21T11:47:32.864093+00:00",
+    "enriched_at": "2026-10-28T12:52:48.919415+00:00",
     "external_id": "/job/USA-Remote/Principal-Grants-Management-Implementation-Consultant--State---Local-Government_JR-0110870",
     "h1b_mentioned": false,
     "h1b_status": "unknown",
@@ -1181441,7 +1181998,7 @@
   },
   "workday:Workday:/job/USA-Remote/Principal-PATTS-Consultant--State---Local-Government_JR-0110871": {
     "company": "Workday",
-    "enriched_at": "2026-10-21T11:47:32.884552+00:00",
+    "enriched_at": "2026-10-28T12:52:48.931033+00:00",
     "external_id": "/job/USA-Remote/Principal-PATTS-Consultant--State---Local-Government_JR-0110871",
     "h1b_mentioned": false,
     "h1b_status": "unknown",
@@ -1182761,7 +1183318,7 @@
   },
   "workday:Workday:/job/USAVAReston/Software-Development-Engineer---US-Federal_JR-0109614": {
     "company": "Workday",
-    "enriched_at": "2026-10-21T04:44:33.374436+00:00",
+    "enriched_at": "2026-10-28T12:52:48.910244+00:00",
     "external_id": "/job/USAVAReston/Software-Development-Engineer---US-Federal_JR-0109614",
     "h1b_mentioned": false,
     "h1b_status": "unknown",
