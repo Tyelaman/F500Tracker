@@ -1,18 +1,18 @@
 # F500Tracker internships
 
-Last updated: October 29, 2026 at 06:00 UTC
+Last updated: October 29, 2026 at 13:13 UTC
 
-Current internships: 558
+Current internships: 556
 
 ## Categories
 
-[Software & IT (63)](#software-it) · [Data & AI (12)](#data-ai) · [Product & Design (3)](#product-design) · [Engineering (68)](#engineering) · [Finance & Accounting (13)](#finance-accounting) · [Sales & Marketing (16)](#sales-marketing) · [Operations & Supply Chain (34)](#operations-supply-chain) · [People & Legal (4)](#people-legal) · [Other (345)](#other)
+[Software & IT (62)](#software-it) · [Data & AI (12)](#data-ai) · [Product & Design (3)](#product-design) · [Engineering (67)](#engineering) · [Finance & Accounting (13)](#finance-accounting) · [Sales & Marketing (15)](#sales-marketing) · [Operations & Supply Chain (34)](#operations-supply-chain) · [People & Legal (4)](#people-legal) · [Other (346)](#other)
 
 <a id="software-it"></a>
 
 ## Software & IT
 
-Open positions: 63
+Open positions: 62
 
 | Rank | Company | Position | Location | Category | Salary | Keywords | Sponsorship | Apply |
 |---:|---|---|---|---|---|---|---|---|
@@ -53,7 +53,6 @@ Open positions: 63
 | 49 | RTX | Part time Software Engineer Co-op (Remote) | US-TX-RICHARDSON-C17 ~ 1717 Cityline Dr ~ CITYLINE C17 | Software & IT | Not disclosed | Python · Java · JavaScript · AWS · Docker | Not specified | [Apply](https://globalhr.wd5.myworkdayjobs.com/en-US/REC_RTX_Ext_Gateway/job/US-TX-RICHARDSON-C17--1717-Cityline-Dr--CITYLINE-C17/Software-Engineer-Co-op--Remote-_01883545) |
 | 49 | RTX | Part Time Software Platform Engineer Co-Op  (Remote) | US-TX-RICHARDSON-C17 ~ 1717 Cityline Dr ~ CITYLINE C17 | Software & IT | Not disclosed | Python · AWS · Docker · Kubernetes · compliance | Not specified | [Apply](https://globalhr.wd5.myworkdayjobs.com/en-US/REC_RTX_Ext_Gateway/job/US-TX-RICHARDSON-C17--1717-Cityline-Dr--CITYLINE-C17/Part-Time-Software-Platform-Engineer-Co-Op---Remote-_01884756) |
 | 49 | RTX | Part Time Software Platform Engineer Co-Op  (Remote) | US-CO-AURORA-S75 ~ 16800 E Centretech Pkwy ~ BLDG S75 | Software & IT | Not disclosed | Python · AWS · Docker · Kubernetes · compliance | Not specified | [Apply](https://globalhr.wd5.myworkdayjobs.com/en-US/REC_RTX_Ext_Gateway/job/US-CO-AURORA-S75--16800-E-Centretech-Pkwy--BLDG-S75/Part-Time-Software-Platform-Engineer-Co-Op---Remote-_01884752) |
-| 49 | RTX | Part-Time Software Engineer Co-op(Remote) | US-CO-AURORA-S77 ~ 16470 E Hughes Dr ~ BLDG S77 | Software & IT | Not disclosed | Python · Java · JavaScript · AWS · Docker | Not specified | [Apply](https://globalhr.wd5.myworkdayjobs.com/en-US/REC_RTX_Ext_Gateway/job/US-CO-AURORA-S77--16470-E-Hughes-Dr--BLDG-S77/Part-Time-Software-Engineer-Co-op-Remote-_01883451) |
 | 49 | RTX | Software Engineering  Intern (Summer 2027) | US-CO-AURORA-S77 ~ 16470 E Hughes Dr ~ BLDG S77 | Software & IT | Not disclosed | Java · AWS · Docker · Kubernetes · compliance | Not specified | [Apply](https://globalhr.wd5.myworkdayjobs.com/en-US/REC_RTX_Ext_Gateway/job/US-CO-AURORA-S77--16470-E-Hughes-Dr--BLDG-S77/Software-Engineering--Intern--Summer-2027-_01881520) |
 | 49 | RTX | Software Engineer Intern | US-AZ-TUCSON-805 ~ 1151 E Hermans Rd ~ BLDG 805 | Software & IT | Not disclosed | Python · C# · compliance | Not specified | [Apply](https://globalhr.wd5.myworkdayjobs.com/en-US/REC_RTX_Ext_Gateway/job/US-AZ-TUCSON-805--1151-E-Hermans-Rd--BLDG-805/Software-Engineer-Intern_01874282) |
 | 49 | RTX | Summer 2027 RF Systems Engineer Intern - Onsite | US-IN-FT WAYNE-150A ~ 1010 Production Rd ~ BLDG 150A | Software & IT | Not disclosed | Python · mechanical engineering · electrical engineering · compliance · contracts | Not specified | [Apply](https://globalhr.wd5.myworkdayjobs.com/en-US/REC_RTX_Ext_Gateway/job/US-IN-FT-WAYNE-150A--1010-Production-Rd--BLDG-150A/Summer-2027-RF-Systems-Engineer-Intern---Onsite_01880963) |
@@ -123,7 +122,7 @@ Open positions: 3
 
 ## Engineering
 
-Open positions: 68
+Open positions: 67
 
 | Rank | Company | Position | Location | Category | Salary | Keywords | Sponsorship | Apply |
 |---:|---|---|---|---|---|---|---|---|
@@ -135,7 +134,6 @@ Open positions: 68
 | 112 | Northrop Grumman | 2027 Electrical Engineer Intern- Redondo Beach CA | United States-California-Redondo Beach | Engineering | $21.5–$39/hr | electrical engineering | Not specified | [Apply](https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-California-Redondo-Beach/XMLNAME-2027-Electrical-Engineer-Intern--Redondo-Beach-CA_R10258125) |
 | 112 | Northrop Grumman | 2027 Electrical Engineer Intern- Redondo Beach CA | United States-California-Redondo Beach | Engineering | $21.5–$39/hr | electrical engineering | Not specified | [Apply](https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-California-Redondo-Beach/XMLNAME-2027-Electrical-Engineer-Intern--Redondo-Beach-CA_R10258128) |
 | 112 | Northrop Grumman | 2027 Civil Engineering Intern - Roy UT | United States-Utah-Roy | Engineering | $23–$29/hr | mechanical engineering | Not specified | [Apply](https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-Utah-Roy/XMLNAME-2027-Civil-Engineering-Intern---Roy-UT_R10257899) |
-| 112 | Northrop Grumman | 2027 Mechanical Engineering Intern - Clearfield UT | United States-Utah-Clearfield | Engineering | $23–$29/hr | analytics · mechanical engineering | Not specified | [Apply](https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-Utah-Clearfield/XMLNAME-2027-Mechanical-Engineering-Intern---Clearfield-UT_R10257639-1) |
 | 125 | Micron Technology | Intern - ID1 Manufacturing Engineer | Boise, ID - ID1 | Engineering | Not disclosed | Python · Java · artificial intelligence · analytics · Excel | Not specified | [Apply](https://micron.wd1.myworkdayjobs.com/en-US/External/job/Boise-ID---ID1/Intern---ID1-Manufacturing-Engineer_JR113287) |
 | 45 | Johnson & Johnson | Beatbox Electrical Engineering Co-op | Danvers, Massachusetts, United States of America | Engineering | $23.5/hr | Python · electrical engineering | Not specified | [Apply](https://jj.wd5.myworkdayjobs.com/en-US/JJ/job/Danvers-Massachusetts-United-States-of-America/Beatbox-Electrical-Engineering-Co-op_R-101679) |
 | 45 | Johnson & Johnson | Electrical Engineering Co-Op, Summer 2027 | Cincinnati, Ohio, United States of America | Engineering | $23.5/hr | Python · risk management · electrical engineering · recruiting | Not specified | [Apply](https://jj.wd5.myworkdayjobs.com/en-US/JJ/job/Cincinnati-Ohio-United-States-of-America/Electrical-Engineering-Co-Op--Summer-2027_R-096736) |
@@ -226,7 +224,7 @@ Open positions: 13
 
 ## Sales & Marketing
 
-Open positions: 16
+Open positions: 15
 
 | Rank | Company | Position | Location | Category | Salary | Keywords | Sponsorship | Apply |
 |---:|---|---|---|---|---|---|---|---|
@@ -237,7 +235,6 @@ Open positions: 16
 | 125 | Micron Technology | Intern - CDBU Marketing | San Jose, CA | Sales & Marketing | Not disclosed | artificial intelligence · electrical engineering · sales | Not specified | [Apply](https://micron.wd1.myworkdayjobs.com/en-US/External/job/San-Jose-CA/Intern---CDBU-Marketing_JR109697) |
 | 294 | S&P Global | Market Intelligence Sales Associate Internship | New York, NY | Sales & Marketing | Not disclosed | supply chain · sales · CRM · compliance | Not specified | [Apply](https://spgi.wd5.myworkdayjobs.com/en-US/SPGI_Careers/job/New-York-NY/Exclusive-Networking-Event---Client-Forward--Early-Careers-in-Commercial-Functions-at-S-P-Global_332243-1) |
 | 44 | Walt Disney | Creative Strategy & Partnership Marketing Intern, Glendale, Spring 2027 | Glendale, CA, USA | Sales & Marketing | $23/hr | — | Not specified | [Apply](https://disney.wd5.myworkdayjobs.com/en-US/disneycareer/job/Glendale-CA-USA/Creative-Strategy---Partnership-Marketing-Intern--Glendale--Spring-2027_10162405) |
-| 44 | Walt Disney | Social Media Marketing Strategy Intern, Spring 2027 | Glendale, CA, USA | Sales & Marketing | $23/hr | — | Not specified | [Apply](https://disney.wd5.myworkdayjobs.com/en-US/disneycareer/job/Glendale-CA-USA/Social-Media-Marketing-Strategy-Intern--Spring-2027_10160419) |
 | 44 | Walt Disney | Disney  Public Relations/Communications Intern, Spring 2027 | Celebration, FL, USA | Sales & Marketing | $23/hr | analytics · Excel · logistics | Not specified | [Apply](https://disney.wd5.myworkdayjobs.com/en-US/disneycareer/job/Celebration-FL-USA/Disney--Public-Relations-Communications-Intern--Spring-2027_10157709) |
 | 44 | Walt Disney | WPVI- TV (6abc) Creative Marketing Intern, Spring 2027 | Philadelphia, PA, USA | Sales & Marketing | $23/hr | — | Not specified | [Apply](https://disney.wd5.myworkdayjobs.com/en-US/disneycareer/job/Philadelphia-PA-USA/WPVI--TV--6abc--Creative-Marketing-Intern--Spring-2027_10158540) |
 | 49 | RTX | Factory Modernization Marketing Co-Op (Spring/Summer 2027) | US-IA-CEDAR RAPIDS-105 ~ 400 Collins Rd NE ~ BLDG 105 | Sales & Marketing | Not disclosed | Excel · compliance | Not specified | [Apply](https://globalhr.wd5.myworkdayjobs.com/en-US/REC_RTX_Ext_Gateway/job/US-IA-CEDAR-RAPIDS-105--400-Collins-Rd-NE--BLDG-105/Factory-Modernization-Marketing-Co-Op--Spring-Summer-2027-_01873900) |
@@ -313,7 +310,7 @@ Open positions: 4
 
 ## Other
 
-Open positions: 345
+Open positions: 346
 
 | Rank | Company | Position | Location | Category | Salary | Keywords | Sponsorship | Apply |
 |---:|---|---|---|---|---|---|---|---|
@@ -499,6 +496,9 @@ Open positions: 345
 | 45 | Johnson & Johnson | Design and Development Co-Op, Summer 2027 | Cincinnati, Ohio, United States of America | Other | $23.5/hr | mechanical engineering · electrical engineering · CAD · recruiting | Not specified | [Apply](https://jj.wd5.myworkdayjobs.com/en-US/JJ/job/Cincinnati-Ohio-United-States-of-America/Design-and-Development-Co-Op--Summer-2027_R-096727) |
 | 45 | Johnson & Johnson | Data Science Co-Op, Spring 2027 | Cincinnati, Ohio, United States of America | Other | $23.5/hr | Python · SQL · data science · electrical engineering · recruiting | Not specified | [Apply](https://jj.wd5.myworkdayjobs.com/en-US/JJ/job/Cincinnati-Ohio-United-States-of-America/Data-Science-Co-Op--Spring-2027_R-095743) |
 | 45 | Johnson & Johnson | Design and Development, Co-Op Spring 2027 | Cincinnati, Ohio, United States of America | Other | $23.5/hr | mechanical engineering · electrical engineering · CAD · recruiting | Not specified | [Apply](https://jj.wd5.myworkdayjobs.com/en-US/JJ/job/Cincinnati-Ohio-United-States-of-America/Design-and-Development-Co-Op-Spring-2027_R-095696) |
+| 49 | RTX | Manufacturing Engineering Co-op (Summer/Fall 2027) | US-TX-HALTOM CITY-4630 ~ 4630 N Beach St ~ BEACH | Other | Not disclosed | Python · SQL · analytics · Excel · mechanical engineering | Not specified | [Apply](https://globalhr.wd5.myworkdayjobs.com/en-US/REC_RTX_Ext_Gateway/job/US-TX-HALTOM-CITY-4630--4630-N-Beach-St--BEACH/Manufacturing-Engineering-Co-op--Summer-Fall-2027-_01884414) |
+| 49 | RTX | Manufacturing Engineering Co-op (Summer/Fall 2027) | US-CA-SANTA FE SPRINGS-9920 ~ 9920 Freeman Ave ~ FREEMAN | Other | Not disclosed | Python · SQL · analytics · Excel · mechanical engineering | Not specified | [Apply](https://globalhr.wd5.myworkdayjobs.com/en-US/REC_RTX_Ext_Gateway/job/US-CA-SANTA-FE-SPRINGS-9920--9920-Freeman-Ave--FREEMAN/Manufacturing-Engineering-Co-op--Summer-Fall-2027-_01885901) |
+| 49 | RTX | Manufacturing Engineering Co-op (Summer/Fall 2027) | US-KY-LOUISVILLE-7100 ~ 7100 Intermodal Dr ~ INTERMODAL, Ste G | Other | Not disclosed | Python · SQL · analytics · Excel · mechanical engineering | Not specified | [Apply](https://globalhr.wd5.myworkdayjobs.com/en-US/REC_RTX_Ext_Gateway/job/US-KY-LOUISVILLE-7100--7100-Intermodal-Dr--INTERMODAL-Ste-G/Manufacturing-Engineering-Co-op--Summer-Fall-2027-_01885903) |
 | 49 | RTX | Digital Technology Intern (Summer 2027) | US-CT-EAST HARTFORD-ETC ~ 400 Main St ~ BLDG ETC | Other | Not disclosed | data science · analytics · risk management · compliance · contracts | Not specified | [Apply](https://globalhr.wd5.myworkdayjobs.com/en-US/REC_RTX_Ext_Gateway/job/US-CT-EAST-HARTFORD-ETC--400-Main-St--BLDG-ETC/Digital-Technology-Intern--Summer-2027-_01867772) |
 | 49 | RTX | Stage - Superviseur COOP- Hiver 2027 / Internship -  COOP supervisor – Winter 2027 (Mirabel) | CA-QC-MIRABEL-M01 ~ 11155 Julien-Audette ~ M01 BLDG | Other | Not disclosed | Excel · human resources · compliance | Not specified | [Apply](https://globalhr.wd5.myworkdayjobs.com/en-US/REC_RTX_Ext_Gateway/job/CA-QC-MIRABEL-M01--11155-Julien-Audette--M01-BLDG/Stage---Superviseur-COOP--Hiver-2027---Internship----COOP-supervisor---Winter-2027--Mirabel-_01869452) |
 | 49 | RTX | Manufacturing Execution System (MES) Co-Op (Spring/Summer 2027) | US-IA-CEDAR RAPIDS-105 ~ 400 Collins Rd NE ~ BLDG 105 | Other | Not disclosed | Excel · mechanical engineering · compliance | Not specified | [Apply](https://globalhr.wd5.myworkdayjobs.com/en-US/REC_RTX_Ext_Gateway/job/US-IA-CEDAR-RAPIDS-105--400-Collins-Rd-NE--BLDG-105/Manufacturing-Execution-System--MES--Co-Op--Spring-Summer-2027-_01885556) |
@@ -535,7 +535,6 @@ Open positions: 345
 | 49 | RTX | Environmental Health & Safety / Facilities Engineering Co-Op (Summer/Fall 2027) | US-IA-MANCHESTER-185 ~ 901 S 10th St ~ S 10TH | Other | Not disclosed | Excel · mechanical engineering · CAD · compliance | Not specified | [Apply](https://globalhr.wd5.myworkdayjobs.com/en-US/REC_RTX_Ext_Gateway/job/US-IA-MANCHESTER-185--901-S-10th-St--S-10TH/Environmental-Health---Safety---Facilities-Engineering-Co-Op--Summer-Fall-2027-_01883110) |
 | 49 | RTX | Data Science Engineering Co-Op (January 2027) (Hybrid) | US-PR-AGUADILLA-110 ~ Rd 110 N Km 28.8 ~ RD110 | Other | Not disclosed | Python · data science · analytics · compliance · contracts | Not specified | [Apply](https://globalhr.wd5.myworkdayjobs.com/en-US/REC_RTX_Ext_Gateway/job/US-PR-AGUADILLA-110--Rd-110-N-Km-288--RD110/Data-Science-Engineering-Co-Op--January-2027---Hybrid-_01883759) |
 | 49 | RTX | Stage - Hiver 2027 - Conception de la section d'essai / Internship - Winter 2027 - Test Section Design | CA-QC-LONGUEUIL-J01 ~ 1000 Blvd Marie-Victorin ~ J01 BLDG | Other | Not disclosed | — | Not specified | [Apply](https://globalhr.wd5.myworkdayjobs.com/en-US/REC_RTX_Ext_Gateway/job/CA-QC-LONGUEUIL-J01--1000-Blvd-Marie-Victorin--J01-BLDG/Stage---Hiver-2027---Conception-de-la-section-d-essai---Internship---Winter-2027---Test-Section-Design_01871035) |
-| 49 | RTX | 2027 Summer Intern - Systems Engineering - Onsite | US-CA-EL SEGUNDO-E04 ~ 2006 E El Segundo Blvd ~ BLDG E04 | Other | Not disclosed | Python · electrical engineering · compliance · contracts | Not specified | [Apply](https://globalhr.wd5.myworkdayjobs.com/en-US/REC_RTX_Ext_Gateway/job/US-CA-EL-SEGUNDO-E04--2006-E-El-Segundo-Blvd--BLDG-E04/XMLNAME-2027-Summer-Intern---Systems-Engineering---Onsite_01881121) |
 | 49 | RTX | Co-op: Systems Engineering Co-op (Summer-Fall 2027) - Onsite | US-IA-CEDAR RAPIDS-105 ~ 400 Collins Rd NE ~ BLDG 105 | Other | Not disclosed | Python · recruiting · compliance | Not specified | [Apply](https://globalhr.wd5.myworkdayjobs.com/en-US/REC_RTX_Ext_Gateway/job/US-IA-CEDAR-RAPIDS-105--400-Collins-Rd-NE--BLDG-105/Co-op--Systems-Engineering-Co-op--Summer-Fall-2027----Onsite_01873973) |
 | 49 | RTX | Manufacturing Engineering Co-Op (Spring/Summer 2027) | US-IA-MANCHESTER-185 ~ 901 S 10th St ~ S 10TH | Other | Not disclosed | Excel · mechanical engineering · SolidWorks · compliance | Not specified | [Apply](https://globalhr.wd5.myworkdayjobs.com/en-US/REC_RTX_Ext_Gateway/job/US-IA-MANCHESTER-185--901-S-10th-St--S-10TH/Manufacturing-Engineering-Co-Op--Spring-Summer-2027-_01876132) |
 | 49 | RTX | Systems Engineering Intern, Weather Radar | US-FL-MELBOURNE-307 ~ 1100 W Hibiscus Blvd ~ BLDG 307 | Other | Not disclosed | Python · compliance | Not specified | [Apply](https://globalhr.wd5.myworkdayjobs.com/en-US/REC_RTX_Ext_Gateway/job/US-FL-MELBOURNE-307--1100-W-Hibiscus-Blvd--BLDG-307/Systems-Engineering-Intern--Weather-Radar_01876489) |
@@ -620,7 +619,6 @@ Open positions: 345
 | 52 | Lowe's | Merchandising - Store Environment – Undergraduate Internship – Summer 2027 | Mooresville, NC (SSC) 1999 | Other | Not disclosed | analytics · Excel · sales | Not specified | [Apply](https://lowes.wd5.myworkdayjobs.com/en-US/LWS_External_CS/job/Mooresville-NC-SSC-1999/Merchandising---Store-Environment---Undergraduate-Internship---Summer-2027_JR-02653683) |
 | 52 | Lowe's | Planogram / Visual Space Planning – Undergraduate Internship – Summer 2027 | Mooresville, NC (SSC) 1999 | Other | Not disclosed | analytics · Excel · CAD · sales | Not specified | [Apply](https://lowes.wd5.myworkdayjobs.com/en-US/LWS_External_CS/job/Mooresville-NC-SSC-1999/Planogram---Visual-Space-Planning---Undergraduate-Internship---Summer-2027_JR-02654211) |
 | 52 | Lowe's | Merchandising Collateral Production - Undergrad Internship - Summer 2027 | Mooresville, NC (SSC) 1999 | Other | Not disclosed | Excel · supply chain · sales | Not specified | [Apply](https://lowes.wd5.myworkdayjobs.com/en-US/LWS_External_CS/job/Mooresville-NC-SSC-1999/Merchandising-Collateral-Production---Undergrad-Internship---Summer-2027_JR-02653663) |
-| 52 | Lowe's | Store Optimization – Undergrad Internship – Summer 2027 | Mooresville, NC (SSC) 1999 | Other | Not disclosed | analytics · Excel · CAD · sales | Not specified | [Apply](https://lowes.wd5.myworkdayjobs.com/en-US/LWS_External_CS/job/Mooresville-NC-SSC-1999/Store-Optimization---Undergrad-Internship---Summer-2027_JR-02651672) |
 | 52 | Lowe's | Merchandising Support – Undergrad Internship – Summer 2027 | Mooresville, NC (SSC) 1999 | Other | Not disclosed | Excel · supply chain · sales | Not specified | [Apply](https://lowes.wd5.myworkdayjobs.com/en-US/LWS_External_CS/job/Mooresville-NC-SSC-1999/Merchandising-Support---Undergrad-Internship---Summer-2027_JR-02651655) |
 | 52 | Lowe's | Merchandising Field Execution – Undergrad Internship – Summer 2027 | Mooresville, NC (SSC) 1999 | Other | Not disclosed | Excel · sales | Not specified | [Apply](https://lowes.wd5.myworkdayjobs.com/en-US/LWS_External_CS/job/Mooresville-NC-SSC-1999/Merchandising-Field-Execution---Undergrad-Internship---Summer-2027_JR-02651638) |
 | 52 | Lowe's | Merchandising Analyst - Undergrad Internship - Summer 2027 | Mooresville, NC (SSC) 1999 | Other | Not disclosed | SQL · analytics · Excel · supply chain · sales | Not specified | [Apply](https://lowes.wd5.myworkdayjobs.com/en-US/LWS_External_CS/job/Mooresville-NC-SSC-1999/Merchandising-Analyst---Undergrad-Internship---Summer-2027_JR-02650526) |
