@@ -1,6 +1,6 @@
 # F500Tracker internships
 
-Last updated: October 31, 2026 at 12:38 UTC
+Last updated: October 31, 2026 at 21:44 UTC
 
 Current internships: 482
 
@@ -314,6 +314,7 @@ Open positions: 311
 | 112 | Northrop Grumman | 2027 Engineering Intern - Melbourne (FL) (Evergreen) | United States-Florida-Melbourne | Other | Not disclosed | — | Not specified | [Apply](https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-Florida-Melbourne/XMLNAME-2027-Engineering-Intern---Melbourne--FL---Evergreen-_R10253720-1) |
 | 112 | Northrop Grumman | 2027 Engineering Intern - Manhattan Beach (CA) (Evergreen) | United States-California-Manhattan Beach | Other | Not disclosed | — | Not specified | [Apply](https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-California-Manhattan-Beach/XMLNAME-2027-Engineering-Intern---Manhattan-Beach--CA---Evergreen-_R10253708) |
 | 119 | Visa | Risk Intern | PA - Panama City, Panama | Other | Not disclosed | analytics · risk management | Not specified | [Apply](https://visa.wd5.myworkdayjobs.com/en-US/Visa/job/PA---Panama-City-Panama/Risk-Intern_REF086150W-1) |
+| 125 | Micron Technology | Intern - Process Integration – Advanced Packaging | Boise, ID - Main Site | Other | Not disclosed | analytics | Not specified | [Apply](https://micron.wd1.myworkdayjobs.com/en-US/External/job/Boise-ID---Main-Site/Intern---Process-Integration---Advanced-Packaging_JR115378) |
 | 125 | Micron Technology | Intern - ASIC Digital Design | Minneapolis, MN | Other | Not disclosed | Python · electrical engineering | Not specified | [Apply](https://micron.wd1.myworkdayjobs.com/en-US/External/job/Minneapolis-MN/Intern---ASIC-Digital-Design_JR112163) |
 | 125 | Micron Technology | Intern - Equipment Engineer | Manassas, VA -  Fab 6 | Other | Not disclosed | machine learning · analytics · mechanical engineering · electrical engineering | Not specified | [Apply](https://micron.wd1.myworkdayjobs.com/en-US/External/job/Manassas-VA----Fab-6/Intern---Equipment-Engineer_JR114818) |
 | 125 | Micron Technology | Intern - Strategic Category Analyst | Boise, ID - North Office | Other | Not disclosed | SQL · analytics · Excel · supply chain · procurement | Not specified | [Apply](https://micron.wd1.myworkdayjobs.com/en-US/External/job/Boise-ID---North-Office/Intern---Strategic-Category-Analyst_JR115962) |
@@ -381,7 +382,6 @@ Open positions: 311
 | 125 | Micron Technology | Intern - Realtime Defect Analysis (RDA) Yield Technology | Boise, ID - Main Site | Other | Not disclosed | Python · SQL · artificial intelligence · analytics · electrical engineering | Not specified | [Apply](https://micron.wd1.myworkdayjobs.com/en-US/External/job/Boise-ID---Main-Site/Intern---Realtime-Defect-Analysis--RDA--Yield-Technology_JR109054) |
 | 125 | Micron Technology | Intern - Yield Technology Equipment | Boise, ID - Main Site | Other | Not disclosed | data science · electrical engineering | Not specified | [Apply](https://micron.wd1.myworkdayjobs.com/en-US/External/job/Boise-ID---Main-Site/Intern---Yield-Technology-Equipment_JR109069) |
 | 125 | Micron Technology | Intern - Advanced DRAM Process Integration | Boise, ID - Main Site | Other | Not disclosed | artificial intelligence | Not specified | [Apply](https://micron.wd1.myworkdayjobs.com/en-US/External/job/Boise-ID---Main-Site/Intern---Advanced-DRAM-Process-Integration_JR107205) |
-| 125 | Micron Technology | Intern - EUV & Materials Lithography | Boise, ID - Main Site | Other | Not disclosed | artificial intelligence · data science | Not specified | [Apply](https://micron.wd1.myworkdayjobs.com/en-US/External/job/Boise-ID---Main-Site/Intern---EUV---Materials-Lithography_JR108053) |
 | 125 | Micron Technology | Intern - Wet Etch Process Development Engineer | Boise, ID - Main Site | Other | Not disclosed | artificial intelligence | Not specified | [Apply](https://micron.wd1.myworkdayjobs.com/en-US/External/job/Boise-ID---Main-Site/Intern---Wet-Etch-Process-Development-Engineer_JR108050) |
 | 125 | Micron Technology | Intern - DRAM PI | Boise, ID - Main Site | Other | Not disclosed | artificial intelligence · electrical engineering | Not specified | [Apply](https://micron.wd1.myworkdayjobs.com/en-US/External/job/Boise-ID---Main-Site/Intern---DRAM-PI_JR107483) |
 | 125 | Micron Technology | Intern - Process Pathfinding, DRAM Dry Etch | Boise, ID - Main Site | Other | Not disclosed | artificial intelligence | Not specified | [Apply](https://micron.wd1.myworkdayjobs.com/en-US/External/job/Boise-ID---Main-Site/Intern---Process-Pathfinding--DRAM-Dry-Etch_JR107347) |
