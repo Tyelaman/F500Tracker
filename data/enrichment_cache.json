@@ -298158,7 +298158,7 @@
   },
   "workday:Cisco Systems:/job/Milpitas-California-US/Technical-Leader--Platform-Security_2026165": {
     "company": "Cisco Systems",
-    "enriched_at": "2026-10-25T11:35:55.184941+00:00",
+    "enriched_at": "2026-11-01T13:31:22.793055+00:00",
     "external_id": "/job/Milpitas-California-US/Technical-Leader--Platform-Security_2026165",
     "h1b_mentioned": false,
     "h1b_status": "unknown",
@@ -298408,7 +298408,7 @@
   },
   "workday:Cisco Systems:/job/New-York-New-York-US/Solutions-Engineer---Splunk--Remote-_2024727-1": {
     "company": "Cisco Systems",
-    "enriched_at": "2026-10-25T11:35:55.196883+00:00",
+    "enriched_at": "2026-11-01T13:31:22.772772+00:00",
     "external_id": "/job/New-York-New-York-US/Solutions-Engineer---Splunk--Remote-_2024727-1",
     "h1b_mentioned": false,
     "h1b_status": "unknown",
@@ -309580,7 +309580,7 @@
   },
   "workday:Cisco Systems:/job/San-Jose-California-US/Technical-Lead--Software-Engineering_2026193": {
     "company": "Cisco Systems",
-    "enriched_at": "2026-10-25T11:35:55.169364+00:00",
+    "enriched_at": "2026-11-01T13:31:22.782980+00:00",
     "external_id": "/job/San-Jose-California-US/Technical-Lead--Software-Engineering_2026193",
     "h1b_mentioned": false,
     "h1b_status": "unknown",
@@ -364737,6 +364737,31 @@
     "h1b_status": "unknown",
     "keywords": [
       "analytics"
+    ],
+    "salary_currency": "",
+    "salary_max": null,
+    "salary_min": null,
+    "salary_period": "",
+    "salary_text": "",
+    "source": "workday",
+    "source_updated_at": "",
+    "sponsorship_evidence": ""
+  },
+  "workday:HP:/job/Vancouver-Washington-United-States-of-America/Software-Systems-Engineer_3162972-1": {
+    "company": "HP",
+    "enriched_at": "2026-11-01T13:23:32.683514+00:00",
+    "external_id": "/job/Vancouver-Washington-United-States-of-America/Software-Systems-Engineer_3162972-1",
+    "h1b_mentioned": false,
+    "h1b_status": "unknown",
+    "keywords": [
+      "Python",
+      "SQL",
+      "AWS",
+      "Azure",
+      "Docker",
+      "Kubernetes",
+      "Terraform",
+      "compliance"
     ],
     "salary_currency": "",
     "salary_max": null,
@@ -439583,7 +439608,7 @@
   },
   "workday:Lowe's:/job/Abilene-TX-N-Abilene-2719/Full-Time---Sales-Associate---Electrical---Lighting---Day_JR-02658294": {
     "company": "Lowe's",
-    "enriched_at": "2026-10-25T11:35:28.618217+00:00",
+    "enriched_at": "2026-11-01T13:30:53.424083+00:00",
     "external_id": "/job/Abilene-TX-N-Abilene-2719/Full-Time---Sales-Associate---Electrical---Lighting---Day_JR-02658294",
     "h1b_mentioned": false,
     "h1b_status": "unknown",
@@ -442973,7 +442998,7 @@
   },
   "workday:Lowe's:/job/Anchorage-AK-NE-Anchorage-2955/Full-Time---Loader-Cart-Associate---Opening_JR-02676392": {
     "company": "Lowe's",
-    "enriched_at": "2026-10-25T11:35:28.444083+00:00",
+    "enriched_at": "2026-11-01T13:30:53.333120+00:00",
     "external_id": "/job/Anchorage-AK-NE-Anchorage-2955/Full-Time---Loader-Cart-Associate---Opening_JR-02676392",
     "h1b_mentioned": false,
     "h1b_status": "unknown",
@@ -445585,7 +445610,7 @@
   },
   "workday:Lowe's:/job/Arlington-TX-S-Arlington-0520/Full-Time---Sales-Associate---Cabinets---Day_JR-02662828": {
     "company": "Lowe's",
-    "enriched_at": "2026-10-25T11:35:28.582223+00:00",
+    "enriched_at": "2026-11-01T13:30:53.401214+00:00",
     "external_id": "/job/Arlington-TX-S-Arlington-0520/Full-Time---Sales-Associate---Cabinets---Day_JR-02662828",
     "h1b_mentioned": false,
     "h1b_status": "unknown",
@@ -445603,7 +445628,7 @@
   },
   "workday:Lowe's:/job/Arlington-TX-S-Arlington-0520/Full-Time---Sales-Associate---Cabinets---Day_JR-02662829": {
     "company": "Lowe's",
-    "enriched_at": "2026-10-25T11:35:28.570956+00:00",
+    "enriched_at": "2026-11-01T13:30:53.393942+00:00",
     "external_id": "/job/Arlington-TX-S-Arlington-0520/Full-Time---Sales-Associate---Cabinets---Day_JR-02662829",
     "h1b_mentioned": false,
     "h1b_status": "unknown",
@@ -449120,7 +449145,7 @@
   },
   "workday:Lowe's:/job/Birmingham-AL-Trussville-0594/Local-Delivery-Driver--Birmingham--AL-_JR-02614488": {
     "company": "Lowe's",
-    "enriched_at": "2026-10-25T11:35:28.807532+00:00",
+    "enriched_at": "2026-11-01T13:30:53.500640+00:00",
     "external_id": "/job/Birmingham-AL-Trussville-0594/Local-Delivery-Driver--Birmingham--AL-_JR-02614488",
     "h1b_mentioned": false,
     "h1b_status": "unknown",
@@ -449724,7 +449749,7 @@
   },
   "workday:Lowe's:/job/Brick-NJ-Brick-Township-1535/Full-Time---Fulfillment-Associate---Day_JR-02658430": {
     "company": "Lowe's",
-    "enriched_at": "2026-10-25T11:35:28.608490+00:00",
+    "enriched_at": "2026-11-01T13:30:53.418112+00:00",
     "external_id": "/job/Brick-NJ-Brick-Township-1535/Full-Time---Fulfillment-Associate---Day_JR-02658430",
     "h1b_mentioned": false,
     "h1b_status": "unknown",
@@ -450957,7 +450982,7 @@
   },
   "workday:Lowe's:/job/Chandler-AZ-Ocotillo-2582/Full-Time---Sales-Associate---Building-Materials---Closing_JR-02609562": {
     "company": "Lowe's",
-    "enriched_at": "2026-10-25T11:35:28.891265+00:00",
+    "enriched_at": "2026-11-01T13:30:53.539929+00:00",
     "external_id": "/job/Chandler-AZ-Ocotillo-2582/Full-Time---Sales-Associate---Building-Materials---Closing_JR-02609562",
     "h1b_mentioned": false,
     "h1b_status": "unknown",
@@ -461116,7 +461141,7 @@
   },
   "workday:Lowe's:/job/Dickson-City-PA-Scranton-0242/Full-Time---Head-Cashier---Day_JR-02541560-1": {
     "company": "Lowe's",
-    "enriched_at": "2026-10-25T11:35:28.776965+00:00",
+    "enriched_at": "2026-11-01T13:30:53.481001+00:00",
     "external_id": "/job/Dickson-City-PA-Scranton-0242/Full-Time---Head-Cashier---Day_JR-02541560-1",
     "h1b_mentioned": false,
     "h1b_status": "unknown",
@@ -461297,7 +461322,7 @@
   },
   "workday:Lowe's:/job/Dickson-City-PA-Scranton-0242/Full-Time---Sales-Associate---Plumbing---Day_JR-02148014-1": {
     "company": "Lowe's",
-    "enriched_at": "2026-10-25T11:35:28.986290+00:00",
+    "enriched_at": "2026-11-01T13:30:53.600492+00:00",
     "external_id": "/job/Dickson-City-PA-Scranton-0242/Full-Time---Sales-Associate---Plumbing---Day_JR-02148014-1",
     "h1b_mentioned": false,
     "h1b_status": "unknown",
@@ -462853,7 +462878,7 @@
   },
   "workday:Lowe's:/job/Erie-PA-W-Erie-1654/Full-Time---Head-Cashier---Closing_JR-02645765-1": {
     "company": "Lowe's",
-    "enriched_at": "2026-10-25T11:35:28.693681+00:00",
+    "enriched_at": "2026-11-01T13:30:53.465478+00:00",
     "external_id": "/job/Erie-PA-W-Erie-1654/Full-Time---Head-Cashier---Closing_JR-02645765-1",
     "h1b_mentioned": false,
     "h1b_status": "unknown",
@@ -462872,7 +462897,7 @@
   },
   "workday:Lowe's:/job/Erie-PA-W-Erie-1654/Full-Time---Head-Cashier---Closing_JR-02645766-1": {
     "company": "Lowe's",
-    "enriched_at": "2026-10-25T11:35:28.684536+00:00",
+    "enriched_at": "2026-11-01T13:30:53.459621+00:00",
     "external_id": "/job/Erie-PA-W-Erie-1654/Full-Time---Head-Cashier---Closing_JR-02645766-1",
     "h1b_mentioned": false,
     "h1b_status": "unknown",
@@ -464151,7 +464176,7 @@
   },
   "workday:Lowe's:/job/Flemington-NJ-Raritan-2552/Full-Time---Sales-Associate---Electrical---Lighting---Day_JR-02676182": {
     "company": "Lowe's",
-    "enriched_at": "2026-10-25T11:35:28.488866+00:00",
+    "enriched_at": "2026-11-01T13:30:53.352353+00:00",
     "external_id": "/job/Flemington-NJ-Raritan-2552/Full-Time---Sales-Associate---Electrical---Lighting---Day_JR-02676182",
     "h1b_mentioned": false,
     "h1b_status": "unknown",
@@ -465975,7 +466000,7 @@
   },
   "workday:Lowe's:/job/Garysburg-NC-Mid-Atlantic-RDC-1420/Industrial-Engineer---SSC_JR-02464811": {
     "company": "Lowe's",
-    "enriched_at": "2026-10-25T11:35:28.542615+00:00",
+    "enriched_at": "2026-11-01T13:30:53.236967+00:00",
     "external_id": "/job/Garysburg-NC-Mid-Atlantic-RDC-1420/Industrial-Engineer---SSC_JR-02464811",
     "h1b_mentioned": false,
     "h1b_status": "does_not_support_h1b",
@@ -467735,7 +467760,7 @@
   },
   "workday:Lowe's:/job/Greensboro-NC-SW-Greensboro-0404/Full-Time---Sales-Associate---Electrical---Lighting---Closing_JR-02676424": {
     "company": "Lowe's",
-    "enriched_at": "2026-10-25T11:35:28.432691+00:00",
+    "enriched_at": "2026-11-01T13:30:53.325813+00:00",
     "external_id": "/job/Greensboro-NC-SW-Greensboro-0404/Full-Time---Sales-Associate---Electrical---Lighting---Closing_JR-02676424",
     "h1b_mentioned": false,
     "h1b_status": "unknown",
@@ -468559,7 +468584,7 @@
   },
   "workday:Lowe's:/job/Hebron-KY-XDT-3981/Market-Delivery-Support-Specialist_JR-02591458-1": {
     "company": "Lowe's",
-    "enriched_at": "2026-10-25T11:35:28.914337+00:00",
+    "enriched_at": "2026-11-01T13:30:53.554651+00:00",
     "external_id": "/job/Hebron-KY-XDT-3981/Market-Delivery-Support-Specialist_JR-02591458-1",
     "h1b_mentioned": false,
     "h1b_status": "unknown",
@@ -468579,7 +468604,7 @@
   },
   "workday:Lowe's:/job/Hebron-KY-XDT-3981/Market-Delivery-Support-Specialist_JR-02591461": {
     "company": "Lowe's",
-    "enriched_at": "2026-10-25T11:35:28.919858+00:00",
+    "enriched_at": "2026-11-01T13:30:53.558134+00:00",
     "external_id": "/job/Hebron-KY-XDT-3981/Market-Delivery-Support-Specialist_JR-02591461",
     "h1b_mentioned": false,
     "h1b_status": "unknown",
@@ -469748,7 +469773,7 @@
   },
   "workday:Lowe's:/job/Honolulu-HI-Iwilei-2336/Full-Time---Loader-Cart-Associate---Day_JR-02676473": {
     "company": "Lowe's",
-    "enriched_at": "2026-10-25T11:35:28.349351+00:00",
+    "enriched_at": "2026-11-01T13:30:53.272096+00:00",
     "external_id": "/job/Honolulu-HI-Iwilei-2336/Full-Time---Loader-Cart-Associate---Day_JR-02676473",
     "h1b_mentioned": false,
     "h1b_status": "unknown",
@@ -469856,7 +469881,7 @@
   },
   "workday:Lowe's:/job/Honolulu-HI-Iwilei-2336/Full-Time---Receiver-Stocker---Day_JR-02676472": {
     "company": "Lowe's",
-    "enriched_at": "2026-10-25T11:35:28.362025+00:00",
+    "enriched_at": "2026-11-01T13:30:53.280214+00:00",
     "external_id": "/job/Honolulu-HI-Iwilei-2336/Full-Time---Receiver-Stocker---Day_JR-02676472",
     "h1b_mentioned": false,
     "h1b_status": "unknown",
@@ -469910,7 +469935,7 @@
   },
   "workday:Lowe's:/job/Honolulu-HI-Iwilei-2336/Full-Time---Sales-Associate---Building-Materials---Day_JR-02676445": {
     "company": "Lowe's",
-    "enriched_at": "2026-10-25T11:35:28.418202+00:00",
+    "enriched_at": "2026-11-01T13:30:53.316455+00:00",
     "external_id": "/job/Honolulu-HI-Iwilei-2336/Full-Time---Sales-Associate---Building-Materials---Day_JR-02676445",
     "h1b_mentioned": false,
     "h1b_status": "unknown",
@@ -470126,7 +470151,7 @@
   },
   "workday:Lowe's:/job/Houston-TX-Bunker-Hill-1058/Customer-Service---Pro_JR-02217894": {
     "company": "Lowe's",
-    "enriched_at": "2026-10-25T11:35:28.952509+00:00",
+    "enriched_at": "2026-11-01T13:30:53.578843+00:00",
     "external_id": "/job/Houston-TX-Bunker-Hill-1058/Customer-Service---Pro_JR-02217894",
     "h1b_mentioned": false,
     "h1b_status": "unknown",
@@ -472791,7 +472816,7 @@
   },
   "workday:Lowe's:/job/Indianapolis-IN-SSC-3369/Services-Project-Coordinator--Remote--CST_JR-02563260": {
     "company": "Lowe's",
-    "enriched_at": "2026-10-25T11:35:28.323300+00:00",
+    "enriched_at": "2026-11-01T13:30:53.255352+00:00",
     "external_id": "/job/Indianapolis-IN-SSC-3369/Services-Project-Coordinator--Remote--CST_JR-02563260",
     "h1b_mentioned": false,
     "h1b_status": "unknown",
@@ -474386,7 +474411,7 @@
   },
   "workday:Lowe's:/job/Kailua-Kona-HI-Kona-1561/Full-Time---Cashier---Closing_JR-02676459": {
     "company": "Lowe's",
-    "enriched_at": "2026-10-25T11:35:28.405068+00:00",
+    "enriched_at": "2026-11-01T13:30:53.307980+00:00",
     "external_id": "/job/Kailua-Kona-HI-Kona-1561/Full-Time---Cashier---Closing_JR-02676459",
     "h1b_mentioned": false,
     "h1b_status": "unknown",
@@ -474552,7 +474577,7 @@
   },
   "workday:Lowe's:/job/Kailua-Kona-HI-Kona-1561/Full-Time---Receiver-Stocker---Day_JR-02616122": {
     "company": "Lowe's",
-    "enriched_at": "2026-10-25T11:35:28.793497+00:00",
+    "enriched_at": "2026-11-01T13:30:53.491620+00:00",
     "external_id": "/job/Kailua-Kona-HI-Kona-1561/Full-Time---Receiver-Stocker---Day_JR-02616122",
     "h1b_mentioned": false,
     "h1b_status": "unknown",
@@ -474750,7 +474775,7 @@
   },
   "workday:Lowe's:/job/Kailua-Kona-HI-Kona-1561/Full-Time---Sales-Associate---Paint---Closing_JR-02676460": {
     "company": "Lowe's",
-    "enriched_at": "2026-10-25T11:35:28.390573+00:00",
+    "enriched_at": "2026-11-01T13:30:53.298622+00:00",
     "external_id": "/job/Kailua-Kona-HI-Kona-1561/Full-Time---Sales-Associate---Paint---Closing_JR-02676460",
     "h1b_mentioned": false,
     "h1b_status": "unknown",
@@ -474786,7 +474811,7 @@
   },
   "workday:Lowe's:/job/Kailua-Kona-HI-Kona-1561/Full-Time---Sales-Associate---ProServices---Day_JR-02676461": {
     "company": "Lowe's",
-    "enriched_at": "2026-10-25T11:35:28.376093+00:00",
+    "enriched_at": "2026-11-01T13:30:53.289294+00:00",
     "external_id": "/job/Kailua-Kona-HI-Kona-1561/Full-Time---Sales-Associate---ProServices---Day_JR-02676461",
     "h1b_mentioned": false,
     "h1b_status": "unknown",
@@ -480637,7 +480662,7 @@
   },
   "workday:Lowe's:/job/Lilburn-GA-Stone-Mountain-0640/Full-Time---Merchandising-Service-Associate---Day_JR-02662897": {
     "company": "Lowe's",
-    "enriched_at": "2026-10-25T11:35:28.559756+00:00",
+    "enriched_at": "2026-11-01T13:30:53.386751+00:00",
     "external_id": "/job/Lilburn-GA-Stone-Mountain-0640/Full-Time---Merchandising-Service-Associate---Day_JR-02662897",
     "h1b_mentioned": false,
     "h1b_status": "unknown",
@@ -485553,7 +485578,7 @@
   },
   "workday:Lowe's:/job/Mooresville-NC-Import-Sourcing-0948/Photo-Producer-Packaging-Operations_JR-02570898": {
     "company": "Lowe's",
-    "enriched_at": "2026-10-25T11:35:28.600397+00:00",
+    "enriched_at": "2026-11-01T13:30:53.412906+00:00",
     "external_id": "/job/Mooresville-NC-Import-Sourcing-0948/Photo-Producer-Packaging-Operations_JR-02570898",
     "h1b_mentioned": false,
     "h1b_status": "unknown",
@@ -486100,7 +486125,7 @@
   },
   "workday:Lowe's:/job/Mooresville-NC-SSC-1999/Assistant-Marketing-Manager--Influencer-Performance---Analytics_JR-02598309-1": {
     "company": "Lowe's",
-    "enriched_at": "2026-10-25T11:35:28.661156+00:00",
+    "enriched_at": "2026-11-01T13:30:53.444653+00:00",
     "external_id": "/job/Mooresville-NC-SSC-1999/Assistant-Marketing-Manager--Influencer-Performance---Analytics_JR-02598309-1",
     "h1b_mentioned": false,
     "h1b_status": "unknown",
@@ -486558,7 +486583,7 @@
   },
   "workday:Lowe's:/job/Mooresville-NC-SSC-1999/Consultant-Merchandising-Operations_JR-02557717": {
     "company": "Lowe's",
-    "enriched_at": "2026-10-25T11:35:28.534635+00:00",
+    "enriched_at": "2026-11-01T13:30:53.381907+00:00",
     "external_id": "/job/Mooresville-NC-SSC-1999/Consultant-Merchandising-Operations_JR-02557717",
     "h1b_mentioned": false,
     "h1b_status": "unknown",
@@ -486657,7 +486682,7 @@
   },
   "workday:Lowe's:/job/Mooresville-NC-SSC-1999/Corporate-Counsel---Product---Technology_JR-02568667": {
     "company": "Lowe's",
-    "enriched_at": "2026-10-25T11:35:28.940653+00:00",
+    "enriched_at": "2026-11-01T13:30:53.571315+00:00",
     "external_id": "/job/Mooresville-NC-SSC-1999/Corporate-Counsel---Product---Technology_JR-02568667",
     "h1b_mentioned": false,
     "h1b_status": "unknown",
@@ -486955,7 +486980,7 @@
   },
   "workday:Lowe's:/job/Mooresville-NC-SSC-1999/Director---Adtech-Operations-Lowe-s-Media-Network_JR-02586088": {
     "company": "Lowe's",
-    "enriched_at": "2026-10-25T11:35:28.963467+00:00",
+    "enriched_at": "2026-11-01T13:30:53.585827+00:00",
     "external_id": "/job/Mooresville-NC-SSC-1999/Director---Adtech-Operations-Lowe-s-Media-Network_JR-02586088",
     "h1b_mentioned": false,
     "h1b_status": "unknown",
@@ -486975,7 +487000,7 @@
   },
   "workday:Lowe's:/job/Mooresville-NC-SSC-1999/Director---Corporate-Events_JR-02539277": {
     "company": "Lowe's",
-    "enriched_at": "2026-10-25T11:35:28.977543+00:00",
+    "enriched_at": "2026-11-01T13:30:53.594860+00:00",
     "external_id": "/job/Mooresville-NC-SSC-1999/Director---Corporate-Events_JR-02539277",
     "h1b_mentioned": false,
     "h1b_status": "unknown",
@@ -486996,7 +487021,7 @@
   },
   "workday:Lowe's:/job/Mooresville-NC-SSC-1999/Director---Customer-Relationship-Marketing--CRM-_JR-02597707": {
     "company": "Lowe's",
-    "enriched_at": "2026-10-25T11:35:28.854002+00:00",
+    "enriched_at": "2026-11-01T13:30:53.522402+00:00",
     "external_id": "/job/Mooresville-NC-SSC-1999/Director---Customer-Relationship-Marketing--CRM-_JR-02597707",
     "h1b_mentioned": false,
     "h1b_status": "unknown",
@@ -487038,7 +487063,7 @@
   },
   "workday:Lowe's:/job/Mooresville-NC-SSC-1999/Director--Digital-Fulfillment_JR-02532453": {
     "company": "Lowe's",
-    "enriched_at": "2026-10-25T11:35:28.312391+00:00",
+    "enriched_at": "2026-11-01T13:30:53.248514+00:00",
     "external_id": "/job/Mooresville-NC-SSC-1999/Director--Digital-Fulfillment_JR-02532453",
     "h1b_mentioned": false,
     "h1b_status": "unknown",
@@ -487329,7 +487354,7 @@
   },
   "workday:Lowe's:/job/Mooresville-NC-SSC-1999/Executive-Protection-Consultant_JR-02592335": {
     "company": "Lowe's",
-    "enriched_at": "2026-10-25T11:35:28.873389+00:00",
+    "enriched_at": "2026-11-01T13:30:53.528638+00:00",
     "external_id": "/job/Mooresville-NC-SSC-1999/Executive-Protection-Consultant_JR-02592335",
     "h1b_mentioned": false,
     "h1b_status": "unknown",
@@ -487533,7 +487558,7 @@
   },
   "workday:Lowe's:/job/Mooresville-NC-SSC-1999/Finance-Manager---Stores-Finance-Operations_JR-02591753": {
     "company": "Lowe's",
-    "enriched_at": "2026-10-25T11:35:28.881762+00:00",
+    "enriched_at": "2026-11-01T13:30:53.533921+00:00",
     "external_id": "/job/Mooresville-NC-SSC-1999/Finance-Manager---Stores-Finance-Operations_JR-02591753",
     "h1b_mentioned": false,
     "h1b_status": "unknown",
@@ -488324,7 +488349,7 @@
   },
   "workday:Lowe's:/job/Mooresville-NC-SSC-1999/Lead-Analyst-Digital-Commerce--Marketplace-_JR-02570235": {
     "company": "Lowe's",
-    "enriched_at": "2026-10-25T11:35:28.997181+00:00",
+    "enriched_at": "2026-11-01T13:30:53.243488+00:00",
     "external_id": "/job/Mooresville-NC-SSC-1999/Lead-Analyst-Digital-Commerce--Marketplace-_JR-02570235",
     "h1b_mentioned": false,
     "h1b_status": "unknown",
@@ -488665,7 +488690,7 @@
   },
   "workday:Lowe's:/job/Mooresville-NC-SSC-1999/Manager--Digital-Commerce--Dropship-_JR-02588998": {
     "company": "Lowe's",
-    "enriched_at": "2026-10-25T11:35:28.902716+00:00",
+    "enriched_at": "2026-11-01T13:30:53.547230+00:00",
     "external_id": "/job/Mooresville-NC-SSC-1999/Manager--Digital-Commerce--Dropship-_JR-02588998",
     "h1b_mentioned": false,
     "h1b_status": "unknown",
@@ -489416,7 +489441,7 @@
   },
   "workday:Lowe's:/job/Mooresville-NC-SSC-1999/Mgr-Digital-Brand-Advocate_JR-02612445": {
     "company": "Lowe's",
-    "enriched_at": "2026-10-25T11:35:28.836466+00:00",
+    "enriched_at": "2026-11-01T13:30:53.511022+00:00",
     "external_id": "/job/Mooresville-NC-SSC-1999/Mgr-Digital-Brand-Advocate_JR-02612445",
     "h1b_mentioned": false,
     "h1b_status": "unknown",
@@ -489684,7 +489709,7 @@
   },
   "workday:Lowe's:/job/Mooresville-NC-SSC-1999/PROvider-Network-Specialist_JR-02531923-1": {
     "company": "Lowe's",
-    "enriched_at": "2026-10-25T11:35:29.014490+00:00",
+    "enriched_at": "2026-11-01T13:30:53.612751+00:00",
     "external_id": "/job/Mooresville-NC-SSC-1999/PROvider-Network-Specialist_JR-02531923-1",
     "h1b_mentioned": false,
     "h1b_status": "unknown",
@@ -489704,7 +489729,7 @@
   },
   "workday:Lowe's:/job/Mooresville-NC-SSC-1999/PROvider-Rotation-Specialist_JR-02531928": {
     "company": "Lowe's",
-    "enriched_at": "2026-10-25T11:35:29.022437+00:00",
+    "enriched_at": "2026-11-01T13:30:53.617814+00:00",
     "external_id": "/job/Mooresville-NC-SSC-1999/PROvider-Rotation-Specialist_JR-02531928",
     "h1b_mentioned": false,
     "h1b_status": "unknown",
@@ -489723,7 +489748,7 @@
   },
   "workday:Lowe's:/job/Mooresville-NC-SSC-1999/PROvider-Specialist_JR-02531916": {
     "company": "Lowe's",
-    "enriched_at": "2026-10-25T11:35:29.031049+00:00",
+    "enriched_at": "2026-11-01T13:30:53.623307+00:00",
     "external_id": "/job/Mooresville-NC-SSC-1999/PROvider-Specialist_JR-02531916",
     "h1b_mentioned": false,
     "h1b_status": "unknown",
@@ -490038,7 +490063,7 @@
   },
   "workday:Lowe's:/job/Mooresville-NC-SSC-1999/Principal-Industrial-Engineer---SSC_JR-02611999": {
     "company": "Lowe's",
-    "enriched_at": "2026-10-25T11:35:28.846857+00:00",
+    "enriched_at": "2026-11-01T13:30:53.517741+00:00",
     "external_id": "/job/Mooresville-NC-SSC-1999/Principal-Industrial-Engineer---SSC_JR-02611999",
     "h1b_mentioned": false,
     "h1b_status": "does_not_support_h1b",
@@ -490694,7 +490719,7 @@
   },
   "workday:Lowe's:/job/Mooresville-NC-SSC-1999/Senior-Manager--Digital-Fulfillment--Dropship-_JR-02568783": {
     "company": "Lowe's",
-    "enriched_at": "2026-10-25T11:35:29.039016+00:00",
+    "enriched_at": "2026-11-01T13:30:53.628409+00:00",
     "external_id": "/job/Mooresville-NC-SSC-1999/Senior-Manager--Digital-Fulfillment--Dropship-_JR-02568783",
     "h1b_mentioned": false,
     "h1b_status": "unknown",
@@ -492300,7 +492325,7 @@
   },
   "workday:Lowe's:/job/Mooresville-NC-SSC-1999/Sr-Mgr-Corporate-Communications---Community-Impact_JR-02586076-1": {
     "company": "Lowe's",
-    "enriched_at": "2026-10-25T11:35:28.931037+00:00",
+    "enriched_at": "2026-11-01T13:30:53.565242+00:00",
     "external_id": "/job/Mooresville-NC-SSC-1999/Sr-Mgr-Corporate-Communications---Community-Impact_JR-02586076-1",
     "h1b_mentioned": false,
     "h1b_status": "unknown",
@@ -492454,7 +492479,7 @@
   },
   "workday:Lowe's:/job/Mooresville-NC-SSC-1999/Sr-Mgr-Talent-Management_JR-02652677": {
     "company": "Lowe's",
-    "enriched_at": "2026-10-25T11:35:28.674322+00:00",
+    "enriched_at": "2026-11-01T13:30:53.453054+00:00",
     "external_id": "/job/Mooresville-NC-SSC-1999/Sr-Mgr-Talent-Management_JR-02652677",
     "h1b_mentioned": false,
     "h1b_status": "unknown",
@@ -492675,7 +492700,7 @@
   },
   "workday:Lowe's:/job/Mooresville-NC-SSC-1999/Store-Operations-Sr-Analyst---Outlets_JR-02493201": {
     "company": "Lowe's",
-    "enriched_at": "2026-10-25T11:35:28.786090+00:00",
+    "enriched_at": "2026-11-01T13:30:53.486854+00:00",
     "external_id": "/job/Mooresville-NC-SSC-1999/Store-Operations-Sr-Analyst---Outlets_JR-02493201",
     "h1b_mentioned": false,
     "h1b_status": "unknown",
@@ -495360,7 +495385,7 @@
   },
   "workday:Lowe's:/job/Nashville-TN-XDT-3978/Market-Delivery-Warehouse-Associate---Days_JR-02590718": {
     "company": "Lowe's",
-    "enriched_at": "2026-10-25T11:35:28.925326+00:00",
+    "enriched_at": "2026-11-01T13:30:53.561612+00:00",
     "external_id": "/job/Nashville-TN-XDT-3978/Market-Delivery-Warehouse-Associate---Days_JR-02590718",
     "h1b_mentioned": false,
     "h1b_status": "unknown",
@@ -496024,7 +496049,7 @@
   },
   "workday:Lowe's:/job/North-Chesterfield-VA-Midlothian-0113/Full-Time---Sales-Associate---Plumbing---Closing_JR-02658163": {
     "company": "Lowe's",
-    "enriched_at": "2026-10-25T11:35:28.645892+00:00",
+    "enriched_at": "2026-11-01T13:30:53.434774+00:00",
     "external_id": "/job/North-Chesterfield-VA-Midlothian-0113/Full-Time---Sales-Associate---Plumbing---Closing_JR-02658163",
     "h1b_mentioned": false,
     "h1b_status": "unknown",
@@ -501106,7 +501131,7 @@
   },
   "workday:Lowe's:/job/Princeton-NJ-W-Windsor-1185/Full-Time---Fulfillment-Associate---Day_JR-02676343-1": {
     "company": "Lowe's",
-    "enriched_at": "2026-10-25T11:35:28.453486+00:00",
+    "enriched_at": "2026-11-01T13:30:53.339124+00:00",
     "external_id": "/job/Princeton-NJ-W-Windsor-1185/Full-Time---Fulfillment-Associate---Day_JR-02676343-1",
     "h1b_mentioned": false,
     "h1b_status": "unknown",
@@ -501895,7 +501920,7 @@
   },
   "workday:Lowe's:/job/Remote-NC-SSC-4932/Mortgage-Representative---Utah--Non-Producing-_JR-02529421": {
     "company": "Lowe's",
-    "enriched_at": "2026-10-25T11:35:29.006091+00:00",
+    "enriched_at": "2026-11-01T13:30:53.607398+00:00",
     "external_id": "/job/Remote-NC-SSC-4932/Mortgage-Representative---Utah--Non-Producing-_JR-02529421",
     "h1b_mentioned": false,
     "h1b_status": "unknown",
@@ -502228,7 +502253,7 @@
   },
   "workday:Lowe's:/job/Richmond-VA-N-Richmond-0247/Full-Time---Sales-Associate---Building-Materials---Day_JR-02676163": {
     "company": "Lowe's",
-    "enriched_at": "2026-10-25T11:35:28.519403+00:00",
+    "enriched_at": "2026-11-01T13:30:53.371984+00:00",
     "external_id": "/job/Richmond-VA-N-Richmond-0247/Full-Time---Sales-Associate---Building-Materials---Day_JR-02676163",
     "h1b_mentioned": false,
     "h1b_status": "unknown",
@@ -502300,7 +502325,7 @@
   },
   "workday:Lowe's:/job/Richmond-VA-N-Richmond-0247/Full-Time---Sales-Associate---Inside-Lawn---Garden---Day_JR-02676165": {
     "company": "Lowe's",
-    "enriched_at": "2026-10-25T11:35:28.504120+00:00",
+    "enriched_at": "2026-11-01T13:30:53.362145+00:00",
     "external_id": "/job/Richmond-VA-N-Richmond-0247/Full-Time---Sales-Associate---Inside-Lawn---Garden---Day_JR-02676165",
     "h1b_mentioned": false,
     "h1b_status": "unknown",
@@ -510205,7 +510230,7 @@
   },
   "workday:Lowe's:/job/Syracuse-NY-XDT-3508/Market-Delivery-Warehouse-Associate---Nights_JR-02590424": {
     "company": "Lowe's",
-    "enriched_at": "2026-10-25T11:35:28.760763+00:00",
+    "enriched_at": "2026-11-01T13:30:53.475714+00:00",
     "external_id": "/job/Syracuse-NY-XDT-3508/Market-Delivery-Warehouse-Associate---Nights_JR-02590424",
     "h1b_mentioned": false,
     "h1b_status": "unknown",
@@ -510224,7 +510249,7 @@
   },
   "workday:Lowe's:/job/Syracuse-NY-XDT-3508/Market-Delivery-Warehouse-Associate---Nights_JR-02616545": {
     "company": "Lowe's",
-    "enriched_at": "2026-10-25T11:35:28.815617+00:00",
+    "enriched_at": "2026-11-01T13:30:53.505798+00:00",
     "external_id": "/job/Syracuse-NY-XDT-3508/Market-Delivery-Warehouse-Associate---Nights_JR-02616545",
     "h1b_mentioned": false,
     "h1b_status": "unknown",
@@ -512909,7 +512934,7 @@
   },
   "workday:Lowe's:/job/Twinsburg-OH-XDT-3964/Market-Delivery-Manager---XDT_JR-02596523": {
     "company": "Lowe's",
-    "enriched_at": "2026-10-25T11:35:28.753879+00:00",
+    "enriched_at": "2026-11-01T13:30:53.471330+00:00",
     "external_id": "/job/Twinsburg-OH-XDT-3964/Market-Delivery-Manager---XDT_JR-02596523",
     "h1b_mentioned": false,
     "h1b_status": "unknown",
@@ -513569,7 +513594,7 @@
   },
   "workday:Lowe's:/job/Ventura-CA-Central-Ventura-1734/Full-Time---Sales-Associate---Outside-Lawn---Garden---Closing_JR-02680385": {
     "company": "Lowe's",
-    "enriched_at": "2026-10-25T11:35:28.334729+00:00",
+    "enriched_at": "2026-11-01T13:30:53.262725+00:00",
     "external_id": "/job/Ventura-CA-Central-Ventura-1734/Full-Time---Sales-Associate---Outside-Lawn---Garden---Closing_JR-02680385",
     "h1b_mentioned": false,
     "h1b_status": "unknown",
@@ -514927,7 +514952,7 @@
   },
   "workday:Lowe's:/job/Washington-MO-1648/Full-Time---Fulfillment-Associate---Day_JR-02658207": {
     "company": "Lowe's",
-    "enriched_at": "2026-10-25T11:35:28.640531+00:00",
+    "enriched_at": "2026-11-01T13:30:53.431358+00:00",
     "external_id": "/job/Washington-MO-1648/Full-Time---Fulfillment-Associate---Day_JR-02658207",
     "h1b_mentioned": false,
     "h1b_status": "unknown",
@@ -516025,7 +516050,7 @@
   },
   "workday:Lowe's:/job/West-Des-Moines-IA-Jordan-Creek-2648/Full-Time---Sales-Associate---Inside-Lawn---Garden---Opening_JR-02676287": {
     "company": "Lowe's",
-    "enriched_at": "2026-10-25T11:35:28.462793+00:00",
+    "enriched_at": "2026-11-01T13:30:53.345100+00:00",
     "external_id": "/job/West-Des-Moines-IA-Jordan-Creek-2648/Full-Time---Sales-Associate---Inside-Lawn---Garden---Opening_JR-02676287",
     "h1b_mentioned": false,
     "h1b_status": "unknown",
@@ -517805,7 +517830,7 @@
   },
   "workday:Lowe's:/job/Winston-salem-NC-Corporate-Data-Center-1991/Lead-Technology-Operations-Analyst---Possible-Days-or-Nights_JR-02585048": {
     "company": "Lowe's",
-    "enriched_at": "2026-10-25T11:35:28.593427+00:00",
+    "enriched_at": "2026-11-01T13:30:53.408476+00:00",
     "external_id": "/job/Winston-salem-NC-Corporate-Data-Center-1991/Lead-Technology-Operations-Analyst---Possible-Days-or-Nights_JR-02585048",
     "h1b_mentioned": false,
     "h1b_status": "unknown",
@@ -635237,7 +635262,7 @@
   },
   "workday:Northrop Grumman:/job/United-States-Arizona-Gilbert/Mechanical-Engineer-Level-2-or-Level-3_R10255466": {
     "company": "Northrop Grumman",
-    "enriched_at": "2026-10-25T11:28:09.752995+00:00",
+    "enriched_at": "2026-11-01T13:23:26.574835+00:00",
     "external_id": "/job/United-States-Arizona-Gilbert/Mechanical-Engineer-Level-2-or-Level-3_R10255466",
     "h1b_mentioned": false,
     "h1b_status": "unknown",
@@ -642597,7 +642622,7 @@
   },
   "workday:Northrop Grumman:/job/United-States-California-El-Segundo/Principal-Systems-Modeling-Simulation-Engineer_R10256801": {
     "company": "Northrop Grumman",
-    "enriched_at": "2026-10-25T11:28:09.731863+00:00",
+    "enriched_at": "2026-11-01T13:23:26.561312+00:00",
     "external_id": "/job/United-States-California-El-Segundo/Principal-Systems-Modeling-Simulation-Engineer_R10256801",
     "h1b_mentioned": false,
     "h1b_status": "unknown",
@@ -664687,7 +664712,7 @@
   },
   "workday:Northrop Grumman:/job/United-States-California-San-Diego/Electronics-Project-Engineer--Principal-Electronics-Project-Engineer_R10254670": {
     "company": "Northrop Grumman",
-    "enriched_at": "2026-10-25T11:28:09.697315+00:00",
+    "enriched_at": "2026-11-01T13:23:26.539165+00:00",
     "external_id": "/job/United-States-California-San-Diego/Electronics-Project-Engineer--Principal-Electronics-Project-Engineer_R10254670",
     "h1b_mentioned": false,
     "h1b_status": "unknown",
@@ -667821,7 +667846,7 @@
   },
   "workday:Northrop Grumman:/job/United-States-California-San-Diego/Principal--Sr-Principal-Electronics-Responsible-Engineer_R10253370-1": {
     "company": "Northrop Grumman",
-    "enriched_at": "2026-10-25T11:28:09.708762+00:00",
+    "enriched_at": "2026-11-01T13:23:26.546514+00:00",
     "external_id": "/job/United-States-California-San-Diego/Principal--Sr-Principal-Electronics-Responsible-Engineer_R10253370-1",
     "h1b_mentioned": false,
     "h1b_status": "unknown",
@@ -668588,7 +668613,7 @@
   },
   "workday:Northrop Grumman:/job/United-States-California-San-Diego/Principal-Engineer-Software--Software-Integration_R10256946-1": {
     "company": "Northrop Grumman",
-    "enriched_at": "2026-10-25T11:28:09.721717+00:00",
+    "enriched_at": "2026-11-01T13:23:26.554809+00:00",
     "external_id": "/job/United-States-California-San-Diego/Principal-Engineer-Software--Software-Integration_R10256946-1",
     "h1b_mentioned": false,
     "h1b_status": "unknown",
@@ -671690,7 +671715,7 @@
   },
   "workday:Northrop Grumman:/job/United-States-California-San-Diego/Sr-Principal-Cyber-Systems-Engineer_R10256004-1": {
     "company": "Northrop Grumman",
-    "enriched_at": "2026-10-25T11:28:09.742220+00:00",
+    "enriched_at": "2026-11-01T13:23:26.567942+00:00",
     "external_id": "/job/United-States-California-San-Diego/Sr-Principal-Cyber-Systems-Engineer_R10256004-1",
     "h1b_mentioned": false,
     "h1b_status": "unknown",
@@ -705340,7 +705365,7 @@
   },
   "workday:Northrop Grumman:/job/United-States-Florida-Melbourne/Staff-Software-Configuration-Analyst_R10254746": {
     "company": "Northrop Grumman",
-    "enriched_at": "2026-10-25T11:28:09.764262+00:00",
+    "enriched_at": "2026-11-01T13:23:26.582023+00:00",
     "external_id": "/job/United-States-Florida-Melbourne/Staff-Software-Configuration-Analyst_R10254746",
     "h1b_mentioned": false,
     "h1b_status": "unknown",
@@ -963172,6 +963197,27 @@
     "h1b_status": "unknown",
     "keywords": [
       "compliance"
+    ],
+    "salary_currency": "",
+    "salary_max": null,
+    "salary_min": null,
+    "salary_period": "",
+    "salary_text": "",
+    "source": "workday",
+    "source_updated_at": "",
+    "sponsorship_evidence": ""
+  },
+  "workday:RTX:/job/US-MA-TEWKSBURY-TB1--50-Apple-Hill-Dr--ASSABET-BLDG/Principal-Electrical-Engineer---Proposal-Lead_01884566": {
+    "company": "RTX",
+    "enriched_at": "2026-11-01T13:26:46.041854+00:00",
+    "external_id": "/job/US-MA-TEWKSBURY-TB1--50-Apple-Hill-Dr--ASSABET-BLDG/Principal-Electrical-Engineer---Proposal-Lead_01884566",
+    "h1b_mentioned": false,
+    "h1b_status": "unknown",
+    "keywords": [
+      "mechanical engineering",
+      "electrical engineering",
+      "compliance",
+      "contracts"
     ],
     "salary_currency": "",
     "salary_max": null,

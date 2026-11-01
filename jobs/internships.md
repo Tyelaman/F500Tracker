@@ -1,12 +1,12 @@
 # F500Tracker internships
 
-Last updated: November 01, 2026 at 06:16 UTC
+Last updated: November 01, 2026 at 13:32 UTC
 
-Current internships: 472
+Current internships: 467
 
 ## Categories
 
-[Software & IT (48)](#software-it) · [Data & AI (13)](#data-ai) · [Product & Design (3)](#product-design) · [Engineering (52)](#engineering) · [Finance & Accounting (9)](#finance-accounting) · [Sales & Marketing (13)](#sales-marketing) · [Operations & Supply Chain (29)](#operations-supply-chain) · [People & Legal (3)](#people-legal) · [Other (302)](#other)
+[Software & IT (48)](#software-it) · [Data & AI (13)](#data-ai) · [Product & Design (3)](#product-design) · [Engineering (50)](#engineering) · [Finance & Accounting (9)](#finance-accounting) · [Sales & Marketing (13)](#sales-marketing) · [Operations & Supply Chain (29)](#operations-supply-chain) · [People & Legal (3)](#people-legal) · [Other (299)](#other)
 
 <a id="software-it"></a>
 
@@ -109,7 +109,7 @@ Open positions: 3
 
 ## Engineering
 
-Open positions: 52
+Open positions: 50
 
 | Rank | Company | Position | Location | Category | Salary | Keywords | Sponsorship | Apply |
 |---:|---|---|---|---|---|---|---|---|
@@ -120,7 +120,6 @@ Open positions: 52
 | 112 | Northrop Grumman | 2027 Mechanical Engineer Internship - East Hartford CT | United States-Connecticut-East Hartford | Engineering | Not disclosed | mechanical engineering | Not specified | [Apply](https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-Connecticut-East-Hartford/XMLNAME-2027-Mechanical-Engineer-Internship---East-Hartford-CT_R10258435) |
 | 112 | Northrop Grumman | 2027 Thermal Mechanical Engineer Internship - Hanover MD | United States-Maryland-Hanover | Engineering | Not disclosed | mechanical engineering | Not specified | [Apply](https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-Maryland-Hanover/XMLNAME-2027-Thermal-Mechanical-Engineer-Internship---Hanover-MD_R10258425) |
 | 112 | Northrop Grumman | 2027 Mechanical Engineer Intern- Gilbert AZ | United States-Arizona-Gilbert | Engineering | $18.5–$33.5/hr | mechanical engineering · CAD | Not specified | [Apply](https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-Arizona-Gilbert/XMLNAME-2027-Mechanical-Engineer-Intern--Gilbert-AZ_R10258213-1) |
-| 112 | Northrop Grumman | 2027 Mechanical Design Intern - Gilbert AZ | United States-Arizona-Gilbert | Engineering | $18.5–$33.5/hr | Excel · mechanical engineering · CAD · procurement | Not specified | [Apply](https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-Arizona-Gilbert/XMLNAME-2027-Mechanical-Design-Intern---Gilbert-AZ_R10258156) |
 | 112 | Northrop Grumman | 2027 Electrical Engineer Intern- Gilbert AZ | United States-Arizona-Gilbert | Engineering | $21.5–$39/hr | electrical engineering | Not specified | [Apply](https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-Arizona-Gilbert/XMLNAME-2027-Electrical-Engineer-Intern--Gilbert-AZ_R10258107) |
 | 112 | Northrop Grumman | 2027 Electrical Engineer Intern- Redondo Beach CA | United States-California-Redondo Beach | Engineering | $21.5–$39/hr | electrical engineering | Not specified | [Apply](https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-California-Redondo-Beach/XMLNAME-2027-Electrical-Engineer-Intern--Redondo-Beach-CA_R10258121) |
 | 112 | Northrop Grumman | 2027 Electrical Engineer Intern- Redondo Beach CA | United States-California-Redondo Beach | Engineering | $21.5–$39/hr | electrical engineering | Not specified | [Apply](https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-California-Redondo-Beach/XMLNAME-2027-Electrical-Engineer-Intern--Redondo-Beach-CA_R10258125) |
@@ -130,7 +129,6 @@ Open positions: 52
 | 45 | Johnson & Johnson | Electrical Engineering Co-Op, Summer 2027 | Cincinnati, Ohio, United States of America | Engineering | $23.5/hr | Python · risk management · electrical engineering · recruiting | Not specified | [Apply](https://jj.wd5.myworkdayjobs.com/en-US/JJ/job/Cincinnati-Ohio-United-States-of-America/Electrical-Engineering-Co-Op--Summer-2027_R-096736) |
 | 45 | Johnson & Johnson | Electrical Engineering Co-Op, Spring 2027 | Cincinnati, Ohio, United States of America | Engineering | Not disclosed | Python · risk management · electrical engineering · recruiting | Not specified | [Apply](https://jj.wd5.myworkdayjobs.com/en-US/JJ/job/Cincinnati-Ohio-United-States-of-America/Electrical-Engineer-Co-Op--Spring-2027_R-095700) |
 | 49 | RTX | Electrical Engineering Co-op (Winter/Spring 2027) | US-IA-CEDAR RAPIDS-131 ~ 5450 C Ave NE ~ BLDG 131 | Engineering | Not disclosed | electrical engineering · compliance | Not specified | [Apply](https://globalhr.wd5.myworkdayjobs.com/en-US/REC_RTX_Ext_Gateway/job/US-IA-CEDAR-RAPIDS-131--5450-C-Ave-NE--BLDG-131/Electrical-Engineering-Co-op--Winter-Spring-2027-_01885823) |
-| 49 | RTX | Industrial Engineering Intern (Summer 2027) | US-AZ-TUCSON-801 ~ 1151 E Hermans Rd ~ BLDG 801 (External Site) | Engineering | Not disclosed | supply chain · compliance | Not specified | [Apply](https://globalhr.wd5.myworkdayjobs.com/en-US/REC_RTX_Ext_Gateway/job/US-AZ-TUCSON-801--1151-E-Hermans-Rd--BLDG-801-External-Site/Industrial-Engineering-Intern--Summer-2027-_01879158) |
 | 49 | RTX | Mechanical Systems Design Intern (Summer 2027)(Onsite) | US-CT-EAST HARTFORD-ETC ~ 400 Main St ~ BLDG ETC | Engineering | Not disclosed | mechanical engineering · CAD · compliance · contracts | Not specified | [Apply](https://globalhr.wd5.myworkdayjobs.com/en-US/REC_RTX_Ext_Gateway/job/US-CT-EAST-HARTFORD-ETC--400-Main-St--BLDG-ETC/Mechanical-Systems-Design-Intern--Summer-2027--Onsite-_01882530) |
 | 49 | RTX | Manufacturing Electrical Engineering Co-Op (Spring/Summer 2027) | US-IA-CEDAR RAPIDS-108 ~ 400 Collins Rd NE ~ BLDG 108 | Engineering | Not disclosed | electrical engineering · SolidWorks · recruiting · compliance · contracts | Not specified | [Apply](https://globalhr.wd5.myworkdayjobs.com/en-US/REC_RTX_Ext_Gateway/job/US-IA-CEDAR-RAPIDS-108--400-Collins-Rd-NE--BLDG-108/Manufacturing-Electrical-Engineering-Co-Op--Spring-Summer-2027-_01870653) |
 | 49 | RTX | Mechanical Engineer Intern (Summer 2027) | US-CA-EL SEGUNDO-E01 ~ 2000 E El Segundo Blvd ~ BLDG E01 | Engineering | Not disclosed | mechanical engineering · CAD · compliance · contracts | Not specified | [Apply](https://globalhr.wd5.myworkdayjobs.com/en-US/REC_RTX_Ext_Gateway/job/US-CA-EL-SEGUNDO-E01--2000-E-El-Segundo-Blvd--BLDG-E01/Mechanical-Engineer-Intern--Summer-2027-_01885537) |
@@ -270,7 +268,7 @@ Open positions: 3
 
 ## Other
 
-Open positions: 302
+Open positions: 299
 
 | Rank | Company | Position | Location | Category | Salary | Keywords | Sponsorship | Apply |
 |---:|---|---|---|---|---|---|---|---|
@@ -298,7 +296,6 @@ Open positions: 302
 | 112 | Northrop Grumman | 2027 Structural Engineering Intern- Roy UT | United States-Utah-Roy | Other | $23–$29/hr | — | Not specified | [Apply](https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-Utah-Roy/XMLNAME-2027-Structural-Engineering-Intern--Roy-UT_R10258270) |
 | 112 | Northrop Grumman | 2027 Parts Materials and Process Engineering Intern- Roy UT | United States-Utah-Roy | Other | $23–$29/hr | mechanical engineering · compliance | Not specified | [Apply](https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-Utah-Roy/XMLNAME-2027-Parts-Materials-and-Process-Engineering-Intern--Roy-UT_R10258248) |
 | 112 | Northrop Grumman | 2027 Parts Materials and Process Engineering Intern- Roy UT | United States-Utah-Roy | Other | $23–$29/hr | mechanical engineering · compliance | Not specified | [Apply](https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-Utah-Roy/XMLNAME-2027-Parts-Materials-and-Process-Engineering-Intern--Roy-UT_R10258242-1) |
-| 112 | Northrop Grumman | 2027 Structural Engineer Intern - Gilbert AZ | United States-Arizona-Gilbert | Other | $18.5–$33.5/hr | Excel · mechanical engineering | Not specified | [Apply](https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-Arizona-Gilbert/XMLNAME-2027-Structural-Engineer-Intern---Gilbert-AZ_R10258208) |
 | 112 | Northrop Grumman | 2027 Intern Facilities Management - San Diego CA | United States-California-San Diego | Other | $24–$29/hr | supply chain · logistics | Not specified | [Apply](https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-California-San-Diego/XMLNAME-2027-Intern-Facilities-Management---San-Diego-CA_R10258075) |
 | 112 | Northrop Grumman | 2027 Configuration Analyst Intern - Redondo Beach CA | United States-California-Redondo Beach | Other | $38–$40/hr | contracts | Not specified | [Apply](https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-California-Redondo-Beach/XMLNAME-2027-Configuration-Analyst-Intern---Redondo-Beach-CA_R10258093) |
 | 112 | Northrop Grumman | 2027 Business Management Intern - Roy UT | United States-Utah-Roy | Other | $20.75–$25/hr | — | Not specified | [Apply](https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-Utah-Roy/XMLNAME-2027-Business-Management-Intern---Roy-UT_R10257987) |
@@ -555,13 +552,11 @@ Open positions: 302
 | 99 | Nike | Converse AI Enablement Graduate Internship | Boston, Massachusetts | Other | Not disclosed | — | Not specified | [Apply](https://nike.wd1.myworkdayjobs.com/en-US/nke/job/Boston-Massachusetts/Converse-AI-Enablement-Graduate-Internship_R-96256) |
 | 99 | Nike | Converse Social Community Impact Graduate Internship | Boston, Massachusetts | Other | Not disclosed | Excel | Not specified | [Apply](https://nike.wd1.myworkdayjobs.com/en-US/nke/job/Boston-Massachusetts/Converse-Social-Community-Impact-Graduate-Internship_R-95789-1) |
 | 99 | Nike | NIKE, Inc. NXT SPACE Engineering, Innovation Graduate Internship | Beaverton, Oregon | Other | Not disclosed | — | Not specified | [Apply](https://nike.wd1.myworkdayjobs.com/en-US/nke/job/Beaverton-Oregon/NIKE--Inc-NXT-SPACE-Engineering--Innovation-Graduate-Internship_R-94423-1) |
-| 99 | Nike | NIKE, Inc. Footwear Product Creation Undergraduate Internship | Beaverton, Oregon | Other | Not disclosed | mechanical engineering | Not specified | [Apply](https://nike.wd1.myworkdayjobs.com/en-US/nke/job/Beaverton-Oregon/NIKE--Inc-Footwear-Product-Creation-Undergraduate-Internship_R-94410) |
 | 99 | Nike | Converse Enterprise Business Planning Graduate Internship | Boston, Massachusetts | Other | Not disclosed | SQL · analytics · Excel · supply chain | Not specified | [Apply](https://nike.wd1.myworkdayjobs.com/en-US/nke/job/Boston-Massachusetts/Converse-Enterprise-Business-Planning-Graduate-Internship_R-92810) |
 | 99 | Nike | NIKE, Inc. Global Sustainability Graduate Internship | Beaverton, Oregon | Other | Not disclosed | analytics · supply chain · procurement · compliance | Not specified | [Apply](https://nike.wd1.myworkdayjobs.com/en-US/nke/job/Beaverton-Oregon/NIKE--Inc-Global-Sustainability-Graduate-Internship_R-92069) |
 | 99 | Nike | Converse Strategic Planning Graduate Internship | Boston, Massachusetts | Other | Not disclosed | — | Not specified | [Apply](https://nike.wd1.myworkdayjobs.com/en-US/nke/job/Boston-Massachusetts/Converse-Strategic-Planning-Graduate-Internship_R-92185) |
 | 99 | Nike | NIKE, Inc. Digital Growth Graduate Internship | Beaverton, Oregon | Other | Not disclosed | financial modeling | Not specified | [Apply](https://nike.wd1.myworkdayjobs.com/en-US/nke/job/Beaverton-Oregon/NIKE--Inc-Digital-Growth-Graduate-Internship_R-92073-1) |
 | 99 | Nike | NIKE, Inc. Strategic Planning Graduate Internship | Beaverton, Oregon | Other | Not disclosed | — | Not specified | [Apply](https://nike.wd1.myworkdayjobs.com/en-US/nke/job/Beaverton-Oregon/NIKE--Inc-Strategic-Planning-Graduate-Internship_R-91142) |
-| 99 | Nike | NIKE, Inc. Apparel Development, Global Apparel Materials, Undergraduate Internship | Beaverton, Oregon | Other | Not disclosed | — | Not specified | [Apply](https://nike.wd1.myworkdayjobs.com/en-US/nke/job/Beaverton-Oregon/NIKE--Inc-Apparel-Development--Global-Apparel-Materials--Undergraduate-Internship_R-91228) |
 | 106 | Thermo Fisher Scientific | Engineering Co-Op | Allentown, Pennsylvania, USA | Other | Not disclosed | — | Not specified | [Apply](https://thermofisher.wd5.myworkdayjobs.com/en-US/ThermoFisherCareers/job/Allentown-Pennsylvania-USA/Engineering-Co-Op_R-01372098) |
 | 106 | Thermo Fisher Scientific | Quality Co-op | Marietta, Ohio, USA | Other | Not disclosed | mechanical engineering | Not specified | [Apply](https://thermofisher.wd5.myworkdayjobs.com/en-US/ThermoFisherCareers/job/Marietta-Ohio-USA/Quality-Co-op_R-01366629) |
 | 106 | Thermo Fisher Scientific | Manufacturing Engineering Co-op | Marietta, Ohio, USA | Other | Not disclosed | mechanical engineering | Not specified | [Apply](https://thermofisher.wd5.myworkdayjobs.com/en-US/ThermoFisherCareers/job/Marietta-Ohio-USA/Manufacturing-Engineering-Co-op_R-01366628) |
