@@ -1,12 +1,12 @@
 # F500Tracker internships
 
-Last updated: November 07, 2026 at 13:10 UTC
+Last updated: November 07, 2026 at 22:00 UTC
 
-Current internships: 370
+Current internships: 371
 
 ## Categories
 
-[Software & IT (39)](#software-it) · [Data & AI (9)](#data-ai) · [Product & Design (3)](#product-design) · [Engineering (45)](#engineering) · [Finance & Accounting (6)](#finance-accounting) · [Sales & Marketing (10)](#sales-marketing) · [Operations & Supply Chain (24)](#operations-supply-chain) · [People & Legal (2)](#people-legal) · [Other (232)](#other)
+[Software & IT (39)](#software-it) · [Data & AI (9)](#data-ai) · [Product & Design (3)](#product-design) · [Engineering (45)](#engineering) · [Finance & Accounting (6)](#finance-accounting) · [Sales & Marketing (10)](#sales-marketing) · [Operations & Supply Chain (24)](#operations-supply-chain) · [People & Legal (2)](#people-legal) · [Other (233)](#other)
 
 <a id="software-it"></a>
 
@@ -238,7 +238,7 @@ Open positions: 2
 
 ## Other
 
-Open positions: 232
+Open positions: 233
 
 | Rank | Company | Position | Location | Category | Salary | Keywords | Sponsorship | Apply |
 |---:|---|---|---|---|---|---|---|---|
@@ -473,6 +473,7 @@ Open positions: 232
 | 396 | Analog Devices | Design Evaluation Engineering Intern | US, CA, San Jose, Rio Robles | Other | Not disclosed | — | Not specified | [Apply](https://analogdevices.wd1.myworkdayjobs.com/en-US/External/job/US-CA-San-Jose-Rio-Robles/Design-Evaluation-Engineering-Intern_R267479) |
 | 396 | Analog Devices | Wet Lab Sensor Research Co-Op | US, MA, Boston | Other | Not disclosed | — | Not specified | [Apply](https://analogdevices.wd1.myworkdayjobs.com/en-US/External/job/US-MA-Boston/Wet-Lab-Sensor-Research-Co-Op_R268534-1) |
 | 396 | Analog Devices | Equipment Engineering Co-Op GFU (May-Dec) | US, OR, Beaverton | Other | Not disclosed | mechanical engineering · electrical engineering | Not specified | [Apply](https://analogdevices.wd1.myworkdayjobs.com/en-US/External/job/US-OR-Beaverton/Equipment-Engineering-Co-Op-GFU--May-Dec-_R268545) |
+| 476 | Marvell Technology | Design For Test Intern, MS - Summer 2027 | Santa Clara, CA | Other | Not disclosed | Python · electrical engineering | Not specified | [Apply](https://marvell.wd1.myworkdayjobs.com/en-US/MarvellCareers/job/Santa-Clara-CA/Design-For-Test-Intern--MS---Summer-2027_2603788-1) |
 | 476 | Marvell Technology | Hardware Signal Integrity Intern, MS - Summer 2027 | Santa Clara, CA | Other | Not disclosed | electrical engineering · CAD | Not specified | [Apply](https://marvell.wd1.myworkdayjobs.com/en-US/MarvellCareers/job/Santa-Clara-CA/Hardware-Signal-Integrity-Intern--MS---Summer-2027_2603877-1) |
 
 [Back to categories](#categories) · [Back to README](../README.md)

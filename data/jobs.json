@@ -21293,90 +21293,6 @@
   {
     "company": "NVIDIA",
     "fortune_rank": 16,
-    "title": "Senior Firmware Engineer \u2013 CSP Engagements",
-    "location": "US, CA, Santa Clara",
-    "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Firmware-Engineer---CSP-Engagements_JR1999599",
-    "source": "workday",
-    "external_id": "/job/US-CA-Santa-Clara/Senior-Firmware-Engineer---CSP-Engagements_JR1999599",
-    "employment_type": "full-time",
-    "category": "Other",
-    "h1b_status": "unknown",
-    "sponsorship_evidence": "",
-    "h1b_mentioned": false,
-    "salary_min": null,
-    "salary_max": null,
-    "salary_currency": "",
-    "salary_period": "",
-    "salary_text": "",
-    "keywords": [
-      "artificial intelligence",
-      "recruiting"
-    ],
-    "updated_at": "",
-    "first_seen_at": "2026-11-07T06:10:10.671072+00:00",
-    "enriched_at": "2026-11-07T05:57:00.421739+00:00"
-  },
-  {
-    "company": "NVIDIA",
-    "fortune_rank": 16,
-    "title": "Senior Software Engineer, Release Management Platform",
-    "location": "US, CA, Santa Clara",
-    "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Release-Infrastructure-Architect_JR2028878",
-    "source": "workday",
-    "external_id": "/job/US-CA-Santa-Clara/Senior-Release-Infrastructure-Architect_JR2028878",
-    "employment_type": "full-time",
-    "category": "Software & IT",
-    "h1b_status": "unknown",
-    "sponsorship_evidence": "",
-    "h1b_mentioned": false,
-    "salary_min": null,
-    "salary_max": null,
-    "salary_currency": "",
-    "salary_period": "",
-    "salary_text": "",
-    "keywords": [
-      "Python",
-      "TypeScript",
-      "React",
-      "Kubernetes",
-      "PostgreSQL",
-      "audit",
-      "recruiting"
-    ],
-    "updated_at": "",
-    "first_seen_at": "2026-11-07T06:10:10.671072+00:00",
-    "enriched_at": "2026-11-07T05:57:00.428155+00:00"
-  },
-  {
-    "company": "NVIDIA",
-    "fortune_rank": 16,
-    "title": "Senior Software Support Engineer - Slinky",
-    "location": "US, UT, Remote",
-    "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-UT-Remote/Senior-Software-Support-Engineer---Slinky_JR2029107",
-    "source": "workday",
-    "external_id": "/job/US-UT-Remote/Senior-Software-Support-Engineer---Slinky_JR2029107",
-    "employment_type": "full-time",
-    "category": "Software & IT",
-    "h1b_status": "unknown",
-    "sponsorship_evidence": "",
-    "h1b_mentioned": false,
-    "salary_min": null,
-    "salary_max": null,
-    "salary_currency": "",
-    "salary_period": "",
-    "salary_text": "",
-    "keywords": [
-      "Kubernetes",
-      "artificial intelligence",
-      "recruiting"
-    ],
-    "updated_at": "",
-    "first_seen_at": "2026-11-07T06:10:10.671072+00:00",
-    "enriched_at": "2026-11-07T05:57:00.436949+00:00"
-  },
-  {
-    "company": "NVIDIA",
-    "fortune_rank": 16,
     "title": "Senior Product Marketing Manager, AI Infrastructure",
     "location": "US, CA, Santa Clara",
     "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Product-Marketing-Manager--AI-Infrastructure_JR2028861",
@@ -21455,6 +21371,115 @@
     "updated_at": "",
     "first_seen_at": "2026-11-07T06:10:10.671072+00:00",
     "enriched_at": "2026-11-07T05:57:00.456058+00:00"
+  },
+  {
+    "company": "NVIDIA",
+    "fortune_rank": 16,
+    "title": "Senior Software Support Engineer - Slinky",
+    "location": "US, UT, Remote",
+    "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-UT-Remote/Senior-Software-Support-Engineer---Slinky_JR2029107",
+    "source": "workday",
+    "external_id": "/job/US-UT-Remote/Senior-Software-Support-Engineer---Slinky_JR2029107",
+    "employment_type": "full-time",
+    "category": "Software & IT",
+    "h1b_status": "unknown",
+    "sponsorship_evidence": "",
+    "h1b_mentioned": false,
+    "salary_min": null,
+    "salary_max": null,
+    "salary_currency": "",
+    "salary_period": "",
+    "salary_text": "",
+    "keywords": [
+      "Kubernetes",
+      "artificial intelligence",
+      "recruiting"
+    ],
+    "updated_at": "",
+    "first_seen_at": "2026-11-07T06:10:10.671072+00:00",
+    "enriched_at": "2026-11-07T05:57:00.436949+00:00"
+  },
+  {
+    "company": "NVIDIA",
+    "fortune_rank": 16,
+    "title": "Senior Systems Architect - Datacenter",
+    "location": "US, CA, Santa Clara",
+    "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Systems-Architect---Datacenter_JR2019127",
+    "source": "workday",
+    "external_id": "/job/US-CA-Santa-Clara/Senior-Systems-Architect---Datacenter_JR2019127",
+    "employment_type": "full-time",
+    "category": "Other",
+    "h1b_status": "unknown",
+    "sponsorship_evidence": "",
+    "h1b_mentioned": false,
+    "salary_min": null,
+    "salary_max": null,
+    "salary_currency": "",
+    "salary_period": "",
+    "salary_text": "",
+    "keywords": [
+      "recruiting"
+    ],
+    "updated_at": "",
+    "first_seen_at": "2026-11-07T22:00:43.118409+00:00",
+    "enriched_at": "2026-11-07T21:48:51.719874+00:00"
+  },
+  {
+    "company": "NVIDIA",
+    "fortune_rank": 16,
+    "title": "Senior Firmware Engineer \u2013 CSP Engagements",
+    "location": "US, CA, Santa Clara",
+    "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Firmware-Engineer---CSP-Engagements_JR1999599",
+    "source": "workday",
+    "external_id": "/job/US-CA-Santa-Clara/Senior-Firmware-Engineer---CSP-Engagements_JR1999599",
+    "employment_type": "full-time",
+    "category": "Other",
+    "h1b_status": "unknown",
+    "sponsorship_evidence": "",
+    "h1b_mentioned": false,
+    "salary_min": null,
+    "salary_max": null,
+    "salary_currency": "",
+    "salary_period": "",
+    "salary_text": "",
+    "keywords": [
+      "artificial intelligence",
+      "recruiting"
+    ],
+    "updated_at": "",
+    "first_seen_at": "2026-11-07T06:10:10.671072+00:00",
+    "enriched_at": "2026-11-07T05:57:00.421739+00:00"
+  },
+  {
+    "company": "NVIDIA",
+    "fortune_rank": 16,
+    "title": "Senior Software Engineer, Release Management Platform",
+    "location": "US, CA, Santa Clara",
+    "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Release-Infrastructure-Architect_JR2028878",
+    "source": "workday",
+    "external_id": "/job/US-CA-Santa-Clara/Senior-Release-Infrastructure-Architect_JR2028878",
+    "employment_type": "full-time",
+    "category": "Software & IT",
+    "h1b_status": "unknown",
+    "sponsorship_evidence": "",
+    "h1b_mentioned": false,
+    "salary_min": null,
+    "salary_max": null,
+    "salary_currency": "",
+    "salary_period": "",
+    "salary_text": "",
+    "keywords": [
+      "Python",
+      "TypeScript",
+      "React",
+      "Kubernetes",
+      "PostgreSQL",
+      "audit",
+      "recruiting"
+    ],
+    "updated_at": "",
+    "first_seen_at": "2026-11-07T06:10:10.671072+00:00",
+    "enriched_at": "2026-11-07T05:57:00.428155+00:00"
   },
   {
     "company": "NVIDIA",
@@ -21738,59 +21763,6 @@
     "updated_at": "",
     "first_seen_at": "2026-11-06T06:57:24.104440+00:00",
     "enriched_at": "2026-11-06T06:41:04.878100+00:00"
-  },
-  {
-    "company": "NVIDIA",
-    "fortune_rank": 16,
-    "title": "Senior Account Manager, Hyperscale and AI Native",
-    "location": "US, CA, Remote",
-    "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Remote/Senior-Account-Manager--Hyperscale-and-AI-Native_JR2023413-1",
-    "source": "workday",
-    "external_id": "/job/US-CA-Remote/Senior-Account-Manager--Hyperscale-and-AI-Native_JR2023413-1",
-    "employment_type": "full-time",
-    "category": "Other",
-    "h1b_status": "unknown",
-    "sponsorship_evidence": "",
-    "h1b_mentioned": false,
-    "salary_min": null,
-    "salary_max": null,
-    "salary_currency": "",
-    "salary_period": "",
-    "salary_text": "",
-    "keywords": [
-      "sales",
-      "recruiting"
-    ],
-    "updated_at": "",
-    "first_seen_at": "2026-11-06T19:38:16.210775+00:00",
-    "enriched_at": "2026-11-06T19:23:37.476012+00:00"
-  },
-  {
-    "company": "NVIDIA",
-    "fortune_rank": 16,
-    "title": "Senior Digital Design Verification Engineer - Hardware",
-    "location": "US, CA, Santa Clara",
-    "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Digital-Design-Verification-Engineer---Hardware_JR2028075",
-    "source": "workday",
-    "external_id": "/job/US-CA-Santa-Clara/Senior-Digital-Design-Verification-Engineer---Hardware_JR2028075",
-    "employment_type": "full-time",
-    "category": "Other",
-    "h1b_status": "unknown",
-    "sponsorship_evidence": "",
-    "h1b_mentioned": false,
-    "salary_min": null,
-    "salary_max": null,
-    "salary_currency": "",
-    "salary_period": "",
-    "salary_text": "",
-    "keywords": [
-      "artificial intelligence",
-      "electrical engineering",
-      "recruiting"
-    ],
-    "updated_at": "",
-    "first_seen_at": "2026-11-06T19:38:16.210775+00:00",
-    "enriched_at": "2026-11-06T19:23:37.482897+00:00"
   },
   {
     "company": "Salesforce",
@@ -23325,7 +23297,7 @@
     ],
     "updated_at": "",
     "first_seen_at": "2026-10-23T21:38:39.052830+00:00",
-    "enriched_at": "2026-10-31T21:32:44.428466+00:00"
+    "enriched_at": "2026-11-07T21:49:23.032472+00:00"
   },
   {
     "company": "Capital One",
@@ -23657,7 +23629,7 @@
     ],
     "updated_at": "",
     "first_seen_at": "2026-11-04T20:01:12.730775+00:00",
-    "enriched_at": "2026-10-31T21:32:44.509068+00:00"
+    "enriched_at": "2026-11-07T21:49:23.044329+00:00"
   },
   {
     "company": "Capital One",
@@ -23716,7 +23688,7 @@
     ],
     "updated_at": "",
     "first_seen_at": "2026-11-04T20:01:12.730775+00:00",
-    "enriched_at": "2026-10-31T21:32:44.531253+00:00"
+    "enriched_at": "2026-11-07T21:49:23.053141+00:00"
   },
   {
     "company": "Capital One",
@@ -25555,7 +25527,7 @@
     ],
     "updated_at": "",
     "first_seen_at": "2026-08-15T02:30:47.614898+00:00",
-    "enriched_at": "2026-10-31T21:32:44.413988+00:00"
+    "enriched_at": "2026-11-07T21:49:23.067322+00:00"
   },
   {
     "company": "Capital One",
@@ -28120,7 +28092,7 @@
     ],
     "updated_at": "",
     "first_seen_at": "2026-08-15T02:30:47.614898+00:00",
-    "enriched_at": "2026-10-31T21:32:44.420505+00:00"
+    "enriched_at": "2026-11-07T21:49:23.075473+00:00"
   },
   {
     "company": "Capital One",
@@ -28745,7 +28717,7 @@
     ],
     "updated_at": "",
     "first_seen_at": "2026-08-15T02:30:47.614898+00:00",
-    "enriched_at": "2026-10-31T21:32:44.436069+00:00"
+    "enriched_at": "2026-11-07T21:49:23.085881+00:00"
   },
   {
     "company": "Capital One",
@@ -28775,7 +28747,7 @@
     ],
     "updated_at": "",
     "first_seen_at": "2026-08-15T02:30:47.614898+00:00",
-    "enriched_at": "2026-10-31T21:32:44.444894+00:00"
+    "enriched_at": "2026-11-07T21:49:23.097453+00:00"
   },
   {
     "company": "Capital One",
@@ -30658,7 +30630,7 @@
     ],
     "updated_at": "",
     "first_seen_at": "2026-08-15T02:30:47.614898+00:00",
-    "enriched_at": "2026-10-31T21:32:44.453613+00:00"
+    "enriched_at": "2026-11-07T21:49:23.108812+00:00"
   },
   {
     "company": "Capital One",
@@ -30753,7 +30725,7 @@
     ],
     "updated_at": "",
     "first_seen_at": "2026-08-15T02:30:47.614898+00:00",
-    "enriched_at": "2026-10-31T21:32:44.462830+00:00"
+    "enriched_at": "2026-11-07T21:49:23.120750+00:00"
   },
   {
     "company": "Capital One",
@@ -31805,7 +31777,7 @@
     ],
     "updated_at": "",
     "first_seen_at": "2026-09-03T21:16:07.532271+00:00",
-    "enriched_at": "2026-10-31T21:32:44.470123+00:00"
+    "enriched_at": "2026-11-07T21:49:23.130218+00:00"
   },
   {
     "company": "Capital One",
@@ -36483,7 +36455,7 @@
     ],
     "updated_at": "",
     "first_seen_at": "2026-09-18T16:37:42.131228+00:00",
-    "enriched_at": "2026-10-31T21:32:44.484290+00:00"
+    "enriched_at": "2026-11-07T21:49:23.139545+00:00"
   },
   {
     "company": "Capital One",
@@ -37266,7 +37238,7 @@
     ],
     "updated_at": "",
     "first_seen_at": "2026-08-15T02:30:47.614898+00:00",
-    "enriched_at": "2026-10-31T21:32:44.498126+00:00"
+    "enriched_at": "2026-11-07T21:49:23.148550+00:00"
   },
   {
     "company": "Capital One",
@@ -37384,7 +37356,7 @@
     ],
     "updated_at": "",
     "first_seen_at": "2026-08-15T02:30:47.614898+00:00",
-    "enriched_at": "2026-10-31T21:32:44.515496+00:00"
+    "enriched_at": "2026-11-07T21:49:23.162411+00:00"
   },
   {
     "company": "Capital One",
@@ -37417,7 +37389,7 @@
     ],
     "updated_at": "",
     "first_seen_at": "2026-08-15T02:30:47.614898+00:00",
-    "enriched_at": "2026-10-31T21:32:44.525136+00:00"
+    "enriched_at": "2026-11-07T21:49:23.174227+00:00"
   },
   {
     "company": "Capital One",
@@ -37445,7 +37417,7 @@
     ],
     "updated_at": "",
     "first_seen_at": "2026-08-15T02:30:47.614898+00:00",
-    "enriched_at": "2026-10-31T21:32:44.541893+00:00"
+    "enriched_at": "2026-11-07T21:49:23.182201+00:00"
   },
   {
     "company": "Capital One",
@@ -37473,7 +37445,7 @@
     ],
     "updated_at": "",
     "first_seen_at": "2026-08-15T02:30:47.614898+00:00",
-    "enriched_at": "2026-10-31T21:32:44.551300+00:00"
+    "enriched_at": "2026-11-07T21:49:23.194249+00:00"
   },
   {
     "company": "Capital One",
@@ -37505,7 +37477,7 @@
     ],
     "updated_at": "",
     "first_seen_at": "2026-08-15T02:30:47.614898+00:00",
-    "enriched_at": "2026-10-31T21:32:44.560627+00:00"
+    "enriched_at": "2026-11-07T21:49:23.206481+00:00"
   },
   {
     "company": "Capital One",
@@ -37533,7 +37505,7 @@
     ],
     "updated_at": "",
     "first_seen_at": "2026-08-15T02:30:47.614898+00:00",
-    "enriched_at": "2026-10-31T21:32:44.578983+00:00"
+    "enriched_at": "2026-11-07T21:49:23.218058+00:00"
   },
   {
     "company": "Capital One",
@@ -37561,7 +37533,7 @@
     ],
     "updated_at": "",
     "first_seen_at": "2026-08-15T02:30:47.614898+00:00",
-    "enriched_at": "2026-10-31T21:32:44.585427+00:00"
+    "enriched_at": "2026-11-07T21:49:23.226498+00:00"
   },
   {
     "company": "Capital One",
@@ -37593,7 +37565,7 @@
     ],
     "updated_at": "",
     "first_seen_at": "2026-08-15T02:30:47.614898+00:00",
-    "enriched_at": "2026-10-31T21:32:44.591842+00:00"
+    "enriched_at": "2026-11-07T21:49:23.234807+00:00"
   },
   {
     "company": "Capital One",
@@ -37621,7 +37593,7 @@
     ],
     "updated_at": "",
     "first_seen_at": "2026-08-15T02:30:47.614898+00:00",
-    "enriched_at": "2026-10-31T21:32:44.600227+00:00"
+    "enriched_at": "2026-11-07T21:49:23.245651+00:00"
   },
   {
     "company": "Capital One",
@@ -37654,7 +37626,7 @@
     ],
     "updated_at": "",
     "first_seen_at": "2026-08-15T02:30:47.614898+00:00",
-    "enriched_at": "2026-10-31T21:32:44.621392+00:00"
+    "enriched_at": "2026-11-07T21:49:23.254494+00:00"
   },
   {
     "company": "Capital One",
@@ -37681,7 +37653,7 @@
     ],
     "updated_at": "",
     "first_seen_at": "2026-08-15T02:30:47.614898+00:00",
-    "enriched_at": "2026-10-31T21:32:44.630821+00:00"
+    "enriched_at": "2026-11-07T21:49:23.266741+00:00"
   },
   {
     "company": "Capital One",
@@ -37712,7 +37684,7 @@
     ],
     "updated_at": "",
     "first_seen_at": "2026-08-15T02:30:47.614898+00:00",
-    "enriched_at": "2026-10-31T21:32:44.637611+00:00"
+    "enriched_at": "2026-11-07T21:49:23.275720+00:00"
   },
   {
     "company": "Capital One",
@@ -37740,7 +37712,7 @@
     ],
     "updated_at": "",
     "first_seen_at": "2026-08-15T02:30:47.614898+00:00",
-    "enriched_at": "2026-10-31T21:32:44.644809+00:00"
+    "enriched_at": "2026-11-07T21:49:23.285129+00:00"
   },
   {
     "company": "Capital One",
@@ -37769,7 +37741,7 @@
     ],
     "updated_at": "",
     "first_seen_at": "2026-08-15T02:30:47.614898+00:00",
-    "enriched_at": "2026-10-31T21:32:44.651695+00:00"
+    "enriched_at": "2026-11-07T21:49:23.294032+00:00"
   },
   {
     "company": "Capital One",
@@ -37803,7 +37775,7 @@
     ],
     "updated_at": "",
     "first_seen_at": "2026-08-15T02:30:47.614898+00:00",
-    "enriched_at": "2026-10-31T21:32:44.667457+00:00"
+    "enriched_at": "2026-11-07T21:49:23.302497+00:00"
   },
   {
     "company": "Capital One",
@@ -37835,7 +37807,7 @@
     ],
     "updated_at": "",
     "first_seen_at": "2026-08-15T02:30:47.614898+00:00",
-    "enriched_at": "2026-10-31T21:32:44.684573+00:00"
+    "enriched_at": "2026-11-07T21:49:23.307627+00:00"
   },
   {
     "company": "Capital One",
@@ -37867,7 +37839,7 @@
     ],
     "updated_at": "",
     "first_seen_at": "2026-08-15T02:30:47.614898+00:00",
-    "enriched_at": "2026-10-31T21:32:44.692918+00:00"
+    "enriched_at": "2026-11-07T21:49:23.318354+00:00"
   },
   {
     "company": "Capital One",
@@ -37895,7 +37867,7 @@
     ],
     "updated_at": "",
     "first_seen_at": "2026-08-15T02:30:47.614898+00:00",
-    "enriched_at": "2026-10-31T21:32:44.701444+00:00"
+    "enriched_at": "2026-11-07T21:49:23.329324+00:00"
   },
   {
     "company": "Capital One",
@@ -37921,7 +37893,7 @@
     ],
     "updated_at": "",
     "first_seen_at": "2026-08-15T02:30:47.614898+00:00",
-    "enriched_at": "2026-10-31T21:32:44.708411+00:00"
+    "enriched_at": "2026-11-07T21:49:23.338367+00:00"
   },
   {
     "company": "Capital One",
@@ -37955,7 +37927,7 @@
     ],
     "updated_at": "",
     "first_seen_at": "2026-08-15T02:30:47.614898+00:00",
-    "enriched_at": "2026-10-31T21:32:44.715089+00:00"
+    "enriched_at": "2026-11-07T21:49:23.347043+00:00"
   },
   {
     "company": "Capital One",
@@ -37982,7 +37954,7 @@
     ],
     "updated_at": "",
     "first_seen_at": "2026-08-15T02:30:47.614898+00:00",
-    "enriched_at": "2026-10-31T21:32:44.720341+00:00"
+    "enriched_at": "2026-11-07T21:49:23.353825+00:00"
   },
   {
     "company": "Capital One",
@@ -38008,7 +37980,7 @@
     ],
     "updated_at": "",
     "first_seen_at": "2026-08-15T02:30:47.614898+00:00",
-    "enriched_at": "2026-10-31T21:32:44.741618+00:00"
+    "enriched_at": "2026-11-07T21:49:23.364817+00:00"
   },
   {
     "company": "Capital One",
@@ -38040,7 +38012,7 @@
     ],
     "updated_at": "",
     "first_seen_at": "2026-08-15T02:30:47.614898+00:00",
-    "enriched_at": "2026-10-31T21:32:44.748328+00:00"
+    "enriched_at": "2026-11-07T21:49:23.373482+00:00"
   },
   {
     "company": "Capital One",
@@ -38072,7 +38044,7 @@
     ],
     "updated_at": "",
     "first_seen_at": "2026-08-15T02:30:47.614898+00:00",
-    "enriched_at": "2026-10-31T21:32:44.755177+00:00"
+    "enriched_at": "2026-11-07T21:49:23.382383+00:00"
   },
   {
     "company": "Capital One",
@@ -38105,7 +38077,62 @@
     ],
     "updated_at": "",
     "first_seen_at": "2026-08-15T02:30:47.614898+00:00",
-    "enriched_at": "2026-10-31T21:32:44.764917+00:00"
+    "enriched_at": "2026-11-07T21:49:23.395021+00:00"
+  },
+  {
+    "company": "Northrop Grumman",
+    "fortune_rank": 112,
+    "title": "Admin Functional Support 4",
+    "location": "United States-Maryland-Sykesville",
+    "url": "https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-Maryland-Sykesville/Admin-Functional-Support-4_R10257700",
+    "source": "workday",
+    "external_id": "/job/United-States-Maryland-Sykesville/Admin-Functional-Support-4_R10257700",
+    "employment_type": "full-time",
+    "category": "Other",
+    "h1b_status": "unknown",
+    "sponsorship_evidence": "",
+    "h1b_mentioned": false,
+    "salary_min": null,
+    "salary_max": null,
+    "salary_currency": "",
+    "salary_period": "",
+    "salary_text": "",
+    "keywords": [
+      "Excel",
+      "compliance",
+      "contracts"
+    ],
+    "updated_at": "",
+    "first_seen_at": "2026-11-07T22:00:43.118409+00:00",
+    "enriched_at": "2026-11-07T21:50:37.470468+00:00"
+  },
+  {
+    "company": "Northrop Grumman",
+    "fortune_rank": 112,
+    "title": "Business Management Analyst",
+    "location": "United States-Illinois-Rolling Meadows",
+    "url": "https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-Illinois-Rolling-Meadows/Business-Management-Analyst_R10250726-1",
+    "source": "workday",
+    "external_id": "/job/United-States-Illinois-Rolling-Meadows/Business-Management-Analyst_R10250726-1",
+    "employment_type": "full-time",
+    "category": "Other",
+    "h1b_status": "unknown",
+    "sponsorship_evidence": "",
+    "h1b_mentioned": false,
+    "salary_min": null,
+    "salary_max": null,
+    "salary_currency": "",
+    "salary_period": "",
+    "salary_text": "",
+    "keywords": [
+      "Excel",
+      "accounting",
+      "compliance",
+      "contracts"
+    ],
+    "updated_at": "",
+    "first_seen_at": "2026-11-07T22:00:43.118409+00:00",
+    "enriched_at": "2026-11-07T21:50:37.479197+00:00"
   },
   {
     "company": "Northrop Grumman",
@@ -51529,7 +51556,7 @@
     ],
     "updated_at": "",
     "first_seen_at": "2026-10-31T21:44:16.617525+00:00",
-    "enriched_at": "2026-10-31T21:34:07.396480+00:00"
+    "enriched_at": "2026-11-07T21:50:37.489337+00:00"
   },
   {
     "company": "Northrop Grumman",
@@ -51556,7 +51583,7 @@
     ],
     "updated_at": "",
     "first_seen_at": "2026-10-31T21:44:16.617525+00:00",
-    "enriched_at": "2026-10-31T21:34:07.404973+00:00"
+    "enriched_at": "2026-11-07T21:50:37.500222+00:00"
   },
   {
     "company": "Northrop Grumman",
@@ -51581,7 +51608,7 @@
     ],
     "updated_at": "",
     "first_seen_at": "2026-10-31T21:44:16.617525+00:00",
-    "enriched_at": "2026-10-31T21:34:07.414839+00:00"
+    "enriched_at": "2026-11-07T21:50:37.512957+00:00"
   },
   {
     "company": "Northrop Grumman",
@@ -73423,7 +73450,7 @@
     ],
     "updated_at": "",
     "first_seen_at": "2026-10-17T20:47:11.042731+00:00",
-    "enriched_at": "2026-10-31T21:34:07.422767+00:00"
+    "enriched_at": "2026-11-07T21:50:37.523197+00:00"
   },
   {
     "company": "Northrop Grumman",
@@ -73449,7 +73476,7 @@
     ],
     "updated_at": "",
     "first_seen_at": "2026-10-17T20:47:11.042731+00:00",
-    "enriched_at": "2026-10-31T21:34:07.427780+00:00"
+    "enriched_at": "2026-11-07T21:50:37.529694+00:00"
   },
   {
     "company": "Northrop Grumman",
@@ -73476,7 +73503,7 @@
     ],
     "updated_at": "",
     "first_seen_at": "2026-10-17T20:47:11.042731+00:00",
-    "enriched_at": "2026-10-31T21:34:07.437261+00:00"
+    "enriched_at": "2026-11-07T21:50:37.541913+00:00"
   },
   {
     "company": "Northrop Grumman",
@@ -89786,7 +89813,7 @@
     ],
     "updated_at": "",
     "first_seen_at": "2026-10-03T11:49:36.393698+00:00",
-    "enriched_at": "2026-10-31T21:34:07.444030+00:00"
+    "enriched_at": "2026-11-07T21:50:37.550653+00:00"
   },
   {
     "company": "Northrop Grumman",
@@ -89811,7 +89838,7 @@
     ],
     "updated_at": "",
     "first_seen_at": "2026-10-03T11:49:36.393698+00:00",
-    "enriched_at": "2026-10-31T21:34:07.453285+00:00"
+    "enriched_at": "2026-11-07T21:50:37.562516+00:00"
   },
   {
     "company": "Northrop Grumman",
@@ -125316,7 +125343,7 @@
     ],
     "updated_at": "",
     "first_seen_at": "2026-10-31T21:44:16.617525+00:00",
-    "enriched_at": "2026-10-31T21:35:09.074840+00:00"
+    "enriched_at": "2026-11-07T21:51:33.923779+00:00"
   },
   {
     "company": "Micron Technology",
@@ -136511,7 +136538,7 @@
     ],
     "updated_at": "",
     "first_seen_at": "2026-09-12T10:56:01.636978+00:00",
-    "enriched_at": "2026-10-31T21:35:09.080781+00:00"
+    "enriched_at": "2026-11-07T21:51:33.933030+00:00"
   },
   {
     "company": "Micron Technology",
@@ -142511,35 +142538,6 @@
     "enriched_at": "2026-11-03T01:01:39.793543+00:00"
   },
   {
-    "company": "McKesson",
-    "fortune_rank": 8,
-    "title": "Executive Assistant",
-    "location": "USA, TN, Nashville",
-    "url": "https://mckesson.wd3.myworkdayjobs.com/en-US/External_Careers/job/USA-TN-Nashville/Executive-Assistant_JR0154164",
-    "source": "workday",
-    "external_id": "/job/USA-TN-Nashville/Executive-Assistant_JR0154164",
-    "employment_type": "full-time",
-    "category": "Other",
-    "h1b_status": "unknown",
-    "sponsorship_evidence": "",
-    "h1b_mentioned": false,
-    "salary_min": null,
-    "salary_max": null,
-    "salary_currency": "",
-    "salary_period": "",
-    "salary_text": "",
-    "keywords": [
-      "Excel",
-      "recruiting",
-      "compliance",
-      "legal",
-      "contracts"
-    ],
-    "updated_at": "",
-    "first_seen_at": "2026-11-05T20:12:45.563908+00:00",
-    "enriched_at": "2026-11-05T20:01:18.437649+00:00"
-  },
-  {
     "company": "Cigna Group",
     "fortune_rank": 14,
     "title": "Pharmacy Processing Technician - Freedom Fertility - Hybrid",
@@ -143031,6 +143029,31 @@
     "updated_at": "",
     "first_seen_at": "2026-11-05T20:12:45.563908+00:00",
     "enriched_at": "2026-11-05T20:01:21.125643+00:00"
+  },
+  {
+    "company": "Centene",
+    "fortune_rank": 19,
+    "title": "Supervisor, Contact Center Operations",
+    "location": "Remote-MO",
+    "url": "https://centene.wd5.myworkdayjobs.com/en-US/centene_external/job/Remote-MO/Supervisor--Contact-Center-Operations_1674673",
+    "source": "workday",
+    "external_id": "/job/Remote-MO/Supervisor--Contact-Center-Operations_1674673",
+    "employment_type": "full-time",
+    "category": "Operations & Supply Chain",
+    "h1b_status": "unknown",
+    "sponsorship_evidence": "",
+    "h1b_mentioned": true,
+    "salary_min": 56200.0,
+    "salary_max": 101000.0,
+    "salary_currency": "USD",
+    "salary_period": "year",
+    "salary_text": "$56,200.00 - $101,000.00 per year",
+    "keywords": [
+      "compliance"
+    ],
+    "updated_at": "",
+    "first_seen_at": "2026-11-07T22:00:43.118409+00:00",
+    "enriched_at": "2026-11-07T21:51:42.677939+00:00"
   },
   {
     "company": "Centene",
@@ -157312,6 +157335,65 @@
     "updated_at": "",
     "first_seen_at": "2026-08-15T02:30:47.614898+00:00",
     "enriched_at": "2026-11-01T06:05:49.412367+00:00"
+  },
+  {
+    "company": "RTX",
+    "fortune_rank": 49,
+    "title": "Analyst \u2013 Digital Software Contracts",
+    "location": "IN-KA-BENGALURU-NORTHGATE ~ Sy No 2/2 Venkatala Village ~ SY NO 2/2 VENKATALA VILLAGE, Yelahanka Hobli",
+    "url": "https://globalhr.wd5.myworkdayjobs.com/en-US/REC_RTX_Ext_Gateway/job/IN-KA-BENGALURU-NORTHGATE--Sy-No-22-Venkatala-Village--SY-NO-22-VENKATALA-VILLAGE-Yelahanka-Hobli/Analyst---Digital-Software-Contracts_01888013",
+    "source": "workday",
+    "external_id": "/job/IN-KA-BENGALURU-NORTHGATE--Sy-No-22-Venkatala-Village--SY-NO-22-VENKATALA-VILLAGE-Yelahanka-Hobli/Analyst---Digital-Software-Contracts_01888013",
+    "employment_type": "full-time",
+    "category": "Software & IT",
+    "h1b_status": "unknown",
+    "sponsorship_evidence": "",
+    "h1b_mentioned": false,
+    "salary_min": null,
+    "salary_max": null,
+    "salary_currency": "",
+    "salary_period": "",
+    "salary_text": "",
+    "keywords": [
+      "Excel",
+      "procurement",
+      "recruiting",
+      "contracts"
+    ],
+    "updated_at": "",
+    "first_seen_at": "2026-11-07T22:00:43.118409+00:00",
+    "enriched_at": "2026-11-07T21:53:55.711857+00:00"
+  },
+  {
+    "company": "RTX",
+    "fortune_rank": 49,
+    "title": "HR Operations Analyst",
+    "location": "IN-KA-BENGALURU-NORTHGATE ~ Sy No 2/2 Venkatala Village ~ SY NO 2/2 VENKATALA VILLAGE, Yelahanka Hobli",
+    "url": "https://globalhr.wd5.myworkdayjobs.com/en-US/REC_RTX_Ext_Gateway/job/IN-KA-BENGALURU-NORTHGATE--Sy-No-22-Venkatala-Village--SY-NO-22-VENKATALA-VILLAGE-Yelahanka-Hobli/HR-Operations-Analyst_01886310",
+    "source": "workday",
+    "external_id": "/job/IN-KA-BENGALURU-NORTHGATE--Sy-No-22-Venkatala-Village--SY-NO-22-VENKATALA-VILLAGE-Yelahanka-Hobli/HR-Operations-Analyst_01886310",
+    "employment_type": "full-time",
+    "category": "Operations & Supply Chain",
+    "h1b_status": "unknown",
+    "sponsorship_evidence": "",
+    "h1b_mentioned": false,
+    "salary_min": null,
+    "salary_max": null,
+    "salary_currency": "",
+    "salary_period": "",
+    "salary_text": "",
+    "keywords": [
+      "Excel",
+      "audit",
+      "human resources",
+      "recruiting",
+      "talent acquisition",
+      "compliance",
+      "contracts"
+    ],
+    "updated_at": "",
+    "first_seen_at": "2026-11-07T22:00:43.118409+00:00",
+    "enriched_at": "2026-11-07T21:53:55.719510+00:00"
   },
   {
     "company": "RTX",
@@ -178316,7 +178398,7 @@
     ],
     "updated_at": "",
     "first_seen_at": "2026-10-03T05:29:56.777821+00:00",
-    "enriched_at": "2026-10-31T21:37:41.971412+00:00"
+    "enriched_at": "2026-11-07T21:53:55.733230+00:00"
   },
   {
     "company": "RTX",
@@ -180130,31 +180212,6 @@
     "updated_at": "",
     "first_seen_at": "2026-10-30T05:59:57.320874+00:00",
     "enriched_at": "2026-11-06T06:49:02.649930+00:00"
-  },
-  {
-    "company": "RTX",
-    "fortune_rank": 49,
-    "title": "RF Test Systems Engineer II - Onsite McKinney, TX",
-    "location": "US-TX-MCKINNEY-513WC ~ 2501 W University Dr ~ WING C BLDG",
-    "url": "https://globalhr.wd5.myworkdayjobs.com/en-US/REC_RTX_Ext_Gateway/job/US-TX-MCKINNEY-513WC--2501-W-University-Dr--WING-C-BLDG/RF-Test-Systems-Engineer-II---Onsite-McKinney--TX_01881841",
-    "source": "workday",
-    "external_id": "/job/US-TX-MCKINNEY-513WC--2501-W-University-Dr--WING-C-BLDG/RF-Test-Systems-Engineer-II---Onsite-McKinney--TX_01881841",
-    "employment_type": "full-time",
-    "category": "Software & IT",
-    "h1b_status": "unknown",
-    "sponsorship_evidence": "",
-    "h1b_mentioned": false,
-    "salary_min": null,
-    "salary_max": null,
-    "salary_currency": "",
-    "salary_period": "",
-    "salary_text": "",
-    "keywords": [
-      "compliance"
-    ],
-    "updated_at": "",
-    "first_seen_at": "2026-10-30T05:59:57.320874+00:00",
-    "enriched_at": "2026-11-06T06:49:02.660671+00:00"
   },
   {
     "company": "RTX",
@@ -189686,7 +189743,7 @@
     ],
     "updated_at": "",
     "first_seen_at": "2026-08-21T19:08:25.182473+00:00",
-    "enriched_at": "2026-10-31T21:37:41.982403+00:00"
+    "enriched_at": "2026-11-07T21:53:55.746153+00:00"
   },
   {
     "company": "RTX",
@@ -191120,7 +191177,7 @@
     ],
     "updated_at": "",
     "first_seen_at": "2026-10-27T05:16:57.176975+00:00",
-    "enriched_at": "2026-10-31T21:37:41.993261+00:00"
+    "enriched_at": "2026-11-07T21:53:55.759038+00:00"
   },
   {
     "company": "RTX",
@@ -192452,62 +192509,6 @@
     "updated_at": "",
     "first_seen_at": "2026-10-26T22:54:54.810515+00:00",
     "enriched_at": "2026-11-03T01:04:48.052290+00:00"
-  },
-  {
-    "company": "RTX",
-    "fortune_rank": 49,
-    "title": "Principal System Administrator (SAP BASIS Admin,9-14 Years,Bangalore)",
-    "location": "IN-KA-BENGALURU-NORTHGATE ~ Sy No 2/2 Venkatala Village ~ SY NO 2/2 VENKATALA VILLAGE, Yelahanka Hobli",
-    "url": "https://globalhr.wd5.myworkdayjobs.com/en-US/REC_RTX_Ext_Gateway/job/IN-KA-BENGALURU-NORTHGATE--Sy-No-22-Venkatala-Village--SY-NO-22-VENKATALA-VILLAGE-Yelahanka-Hobli/Principal-System-Administrator--SAP-BASIS-Admin-9-14-Years-Bangalore-_01884618",
-    "source": "workday",
-    "external_id": "/job/IN-KA-BENGALURU-NORTHGATE--Sy-No-22-Venkatala-Village--SY-NO-22-VENKATALA-VILLAGE-Yelahanka-Hobli/Principal-System-Administrator--SAP-BASIS-Admin-9-14-Years-Bangalore-_01884618",
-    "employment_type": "full-time",
-    "category": "Other",
-    "h1b_status": "unknown",
-    "sponsorship_evidence": "",
-    "h1b_mentioned": false,
-    "salary_min": null,
-    "salary_max": null,
-    "salary_currency": "",
-    "salary_period": "",
-    "salary_text": "",
-    "keywords": [
-      "Python",
-      "artificial intelligence",
-      "procurement",
-      "CRM"
-    ],
-    "updated_at": "",
-    "first_seen_at": "2026-10-27T18:19:41.762243+00:00",
-    "enriched_at": "2026-11-03T23:29:34.040281+00:00"
-  },
-  {
-    "company": "RTX",
-    "fortune_rank": 49,
-    "title": "Senior Lead System Administrator(SAP BASIS Admin,6-10 Years,Bangalore)",
-    "location": "IN-KA-BENGALURU-NORTHGATE ~ Sy No 2/2 Venkatala Village ~ SY NO 2/2 VENKATALA VILLAGE, Yelahanka Hobli",
-    "url": "https://globalhr.wd5.myworkdayjobs.com/en-US/REC_RTX_Ext_Gateway/job/IN-KA-BENGALURU-NORTHGATE--Sy-No-22-Venkatala-Village--SY-NO-22-VENKATALA-VILLAGE-Yelahanka-Hobli/Senior-Lead-System-Administrator-SAP-BASIS-Admin-6-10-Years-Bangalore-_01884616",
-    "source": "workday",
-    "external_id": "/job/IN-KA-BENGALURU-NORTHGATE--Sy-No-22-Venkatala-Village--SY-NO-22-VENKATALA-VILLAGE-Yelahanka-Hobli/Senior-Lead-System-Administrator-SAP-BASIS-Admin-6-10-Years-Bangalore-_01884616",
-    "employment_type": "full-time",
-    "category": "Other",
-    "h1b_status": "unknown",
-    "sponsorship_evidence": "",
-    "h1b_mentioned": false,
-    "salary_min": null,
-    "salary_max": null,
-    "salary_currency": "",
-    "salary_period": "",
-    "salary_text": "",
-    "keywords": [
-      "Python",
-      "artificial intelligence",
-      "procurement",
-      "CRM"
-    ],
-    "updated_at": "",
-    "first_seen_at": "2026-10-27T18:19:41.762243+00:00",
-    "enriched_at": "2026-11-03T23:29:34.056278+00:00"
   },
   {
     "company": "RTX",
@@ -194339,7 +194340,7 @@
     ],
     "updated_at": "",
     "first_seen_at": "2026-10-24T20:59:33.742797+00:00",
-    "enriched_at": "2026-10-31T21:37:42.004372+00:00"
+    "enriched_at": "2026-11-07T21:53:55.772406+00:00"
   },
   {
     "company": "RTX",
@@ -194365,7 +194366,7 @@
     ],
     "updated_at": "",
     "first_seen_at": "2026-10-24T16:08:56.089038+00:00",
-    "enriched_at": "2026-10-31T21:37:42.013675+00:00"
+    "enriched_at": "2026-11-07T21:53:55.783525+00:00"
   },
   {
     "company": "RTX",
@@ -197930,7 +197931,7 @@
     ],
     "updated_at": "",
     "first_seen_at": "2026-09-11T21:11:24.093992+00:00",
-    "enriched_at": "2026-10-31T21:37:42.024228+00:00"
+    "enriched_at": "2026-11-07T21:53:55.796630+00:00"
   },
   {
     "company": "RTX",
@@ -202946,7 +202947,7 @@
     ],
     "updated_at": "",
     "first_seen_at": "2026-10-20T17:18:50.519045+00:00",
-    "enriched_at": "2026-10-31T21:37:42.034973+00:00"
+    "enriched_at": "2026-11-07T21:53:55.810136+00:00"
   },
   {
     "company": "RTX",
@@ -204171,7 +204172,7 @@
     ],
     "updated_at": "",
     "first_seen_at": "2026-08-28T22:33:12.377535+00:00",
-    "enriched_at": "2026-10-31T21:37:42.041372+00:00"
+    "enriched_at": "2026-11-07T21:53:55.818383+00:00"
   },
   {
     "company": "RTX",
@@ -210195,7 +210196,7 @@
     ],
     "updated_at": "",
     "first_seen_at": "2026-10-03T05:29:56.777821+00:00",
-    "enriched_at": "2026-10-31T21:37:42.048536+00:00"
+    "enriched_at": "2026-11-07T21:53:55.827604+00:00"
   },
   {
     "company": "RTX",
@@ -210840,56 +210841,6 @@
     "updated_at": "",
     "first_seen_at": "2026-09-10T21:05:43.294276+00:00",
     "enriched_at": "2026-11-06T06:49:05.779563+00:00"
-  },
-  {
-    "company": "RTX",
-    "fortune_rank": 49,
-    "title": "Principal Engineer - Project Engineering",
-    "location": "IN-KA-BENGALURU-NORTHGATE ~ Sy No 2/2 Venkatala Village ~ SY NO 2/2 VENKATALA VILLAGE, Yelahanka Hobli",
-    "url": "https://globalhr.wd5.myworkdayjobs.com/en-US/REC_RTX_Ext_Gateway/job/IN-KA-BENGALURU-NORTHGATE--Sy-No-22-Venkatala-Village--SY-NO-22-VENKATALA-VILLAGE-Yelahanka-Hobli/Principal-Engineer---Project-Engineering_01881653",
-    "source": "workday",
-    "external_id": "/job/IN-KA-BENGALURU-NORTHGATE--Sy-No-22-Venkatala-Village--SY-NO-22-VENKATALA-VILLAGE-Yelahanka-Hobli/Principal-Engineer---Project-Engineering_01881653",
-    "employment_type": "full-time",
-    "category": "Other",
-    "h1b_status": "unknown",
-    "sponsorship_evidence": "",
-    "h1b_mentioned": false,
-    "salary_min": null,
-    "salary_max": null,
-    "salary_currency": "",
-    "salary_period": "",
-    "salary_text": "",
-    "keywords": [
-      "recruiting"
-    ],
-    "updated_at": "",
-    "first_seen_at": "2026-10-13T14:26:47.169240+00:00",
-    "enriched_at": "2026-11-03T23:29:35.043182+00:00"
-  },
-  {
-    "company": "RTX",
-    "fortune_rank": 49,
-    "title": "Senior Engineer - Project Engineering",
-    "location": "IN-KA-BENGALURU-NORTHGATE ~ Sy No 2/2 Venkatala Village ~ SY NO 2/2 VENKATALA VILLAGE, Yelahanka Hobli",
-    "url": "https://globalhr.wd5.myworkdayjobs.com/en-US/REC_RTX_Ext_Gateway/job/IN-KA-BENGALURU-NORTHGATE--Sy-No-22-Venkatala-Village--SY-NO-22-VENKATALA-VILLAGE-Yelahanka-Hobli/Senior-Engineer---Project-Engineering_01881650",
-    "source": "workday",
-    "external_id": "/job/IN-KA-BENGALURU-NORTHGATE--Sy-No-22-Venkatala-Village--SY-NO-22-VENKATALA-VILLAGE-Yelahanka-Hobli/Senior-Engineer---Project-Engineering_01881650",
-    "employment_type": "full-time",
-    "category": "Other",
-    "h1b_status": "unknown",
-    "sponsorship_evidence": "",
-    "h1b_mentioned": false,
-    "salary_min": null,
-    "salary_max": null,
-    "salary_currency": "",
-    "salary_period": "",
-    "salary_text": "",
-    "keywords": [
-      "recruiting"
-    ],
-    "updated_at": "",
-    "first_seen_at": "2026-10-13T14:26:47.169240+00:00",
-    "enriched_at": "2026-11-03T23:29:35.054702+00:00"
   },
   {
     "company": "RTX",
@@ -214514,7 +214465,7 @@
     ],
     "updated_at": "",
     "first_seen_at": "2026-10-10T06:05:52.506595+00:00",
-    "enriched_at": "2026-10-31T21:37:42.058183+00:00"
+    "enriched_at": "2026-11-07T21:53:55.839894+00:00"
   },
   {
     "company": "RTX",
@@ -214537,7 +214488,7 @@
     "keywords": [],
     "updated_at": "",
     "first_seen_at": "2026-10-10T06:05:52.506595+00:00",
-    "enriched_at": "2026-10-31T21:37:42.066235+00:00"
+    "enriched_at": "2026-11-07T21:53:55.850370+00:00"
   },
   {
     "company": "RTX",
@@ -215773,7 +215724,7 @@
     ],
     "updated_at": "",
     "first_seen_at": "2026-08-21T19:08:25.182473+00:00",
-    "enriched_at": "2026-10-31T21:37:42.070316+00:00"
+    "enriched_at": "2026-11-07T21:53:55.855766+00:00"
   },
   {
     "company": "RTX",
@@ -218502,34 +218453,6 @@
   {
     "company": "RTX",
     "fortune_rank": 49,
-    "title": "Analyst - Global Mobility Payroll & Tax",
-    "location": "IN-KA-BENGALURU-NORTHGATE ~ Sy No 2/2 Venkatala Village ~ SY NO 2/2 VENKATALA VILLAGE, Yelahanka Hobli",
-    "url": "https://globalhr.wd5.myworkdayjobs.com/en-US/REC_RTX_Ext_Gateway/job/IN-KA-BENGALURU-NORTHGATE--Sy-No-22-Venkatala-Village--SY-NO-22-VENKATALA-VILLAGE-Yelahanka-Hobli/Analyst---Global-Mobility-Payroll---Tax_01865001",
-    "source": "workday",
-    "external_id": "/job/IN-KA-BENGALURU-NORTHGATE--Sy-No-22-Venkatala-Village--SY-NO-22-VENKATALA-VILLAGE-Yelahanka-Hobli/Analyst---Global-Mobility-Payroll---Tax_01865001",
-    "employment_type": "full-time",
-    "category": "Finance & Accounting",
-    "h1b_status": "unknown",
-    "sponsorship_evidence": "",
-    "h1b_mentioned": false,
-    "salary_min": null,
-    "salary_max": null,
-    "salary_currency": "",
-    "salary_period": "",
-    "salary_text": "",
-    "keywords": [
-      "Excel",
-      "audit",
-      "tax",
-      "recruiting"
-    ],
-    "updated_at": "",
-    "first_seen_at": "2026-10-08T13:42:23.753584+00:00",
-    "enriched_at": "2026-11-06T06:49:06.798932+00:00"
-  },
-  {
-    "company": "RTX",
-    "fortune_rank": 49,
     "title": "Sr Principal RF SME for HWIL",
     "location": "US-AZ-TUCSON-805 ~ 1151 E Hermans Rd ~ BLDG 805",
     "url": "https://globalhr.wd5.myworkdayjobs.com/en-US/REC_RTX_Ext_Gateway/job/US-AZ-TUCSON-805--1151-E-Hermans-Rd--BLDG-805/Sr-Principal-RF-SME-for-HWIL_01871677",
@@ -220531,7 +220454,7 @@
     ],
     "updated_at": "",
     "first_seen_at": "2026-09-11T21:11:24.093992+00:00",
-    "enriched_at": "2026-10-31T21:37:42.080244+00:00"
+    "enriched_at": "2026-11-07T21:53:55.868652+00:00"
   },
   {
     "company": "RTX",
@@ -221006,7 +220929,7 @@
     ],
     "updated_at": "",
     "first_seen_at": "2026-09-26T05:09:48.706401+00:00",
-    "enriched_at": "2026-10-31T21:37:42.088953+00:00"
+    "enriched_at": "2026-11-07T21:53:55.879966+00:00"
   },
   {
     "company": "RTX",
@@ -222355,35 +222278,6 @@
     "updated_at": "",
     "first_seen_at": "2026-08-15T02:30:47.614898+00:00",
     "enriched_at": "2026-11-01T06:08:31.046083+00:00"
-  },
-  {
-    "company": "RTX",
-    "fortune_rank": 49,
-    "title": "Senior Analyst, Business Solutions Contracts",
-    "location": "IN-KA-BENGALURU-NORTHGATE ~ Sy No 2/2 Venkatala Village ~ SY NO 2/2 VENKATALA VILLAGE, Yelahanka Hobli",
-    "url": "https://globalhr.wd5.myworkdayjobs.com/en-US/REC_RTX_Ext_Gateway/job/IN-KA-BENGALURU-NORTHGATE--Sy-No-22-Venkatala-Village--SY-NO-22-VENKATALA-VILLAGE-Yelahanka-Hobli/Senior-Analyst--Business-Solutions-Contracts_01877063",
-    "source": "workday",
-    "external_id": "/job/IN-KA-BENGALURU-NORTHGATE--Sy-No-22-Venkatala-Village--SY-NO-22-VENKATALA-VILLAGE-Yelahanka-Hobli/Senior-Analyst--Business-Solutions-Contracts_01877063",
-    "employment_type": "full-time",
-    "category": "Other",
-    "h1b_status": "unknown",
-    "sponsorship_evidence": "",
-    "h1b_mentioned": false,
-    "salary_min": null,
-    "salary_max": null,
-    "salary_currency": "",
-    "salary_period": "",
-    "salary_text": "",
-    "keywords": [
-      "Excel",
-      "procurement",
-      "recruiting",
-      "legal",
-      "contracts"
-    ],
-    "updated_at": "",
-    "first_seen_at": "2026-10-06T18:40:32.031587+00:00",
-    "enriched_at": "2026-11-04T06:24:50.265376+00:00"
   },
   {
     "company": "RTX",
@@ -223810,7 +223704,7 @@
     ],
     "updated_at": "",
     "first_seen_at": "2026-10-27T22:27:33.539780+00:00",
-    "enriched_at": "2026-10-31T21:37:42.115884+00:00"
+    "enriched_at": "2026-11-07T21:53:55.891298+00:00"
   },
   {
     "company": "RTX",
@@ -230448,7 +230342,7 @@
     ],
     "updated_at": "",
     "first_seen_at": "2026-09-26T05:09:48.706401+00:00",
-    "enriched_at": "2026-10-31T21:37:42.133345+00:00"
+    "enriched_at": "2026-11-07T21:53:55.902590+00:00"
   },
   {
     "company": "RTX",
@@ -230473,7 +230367,7 @@
     ],
     "updated_at": "",
     "first_seen_at": "2026-09-26T05:09:48.706401+00:00",
-    "enriched_at": "2026-10-31T21:37:42.143723+00:00"
+    "enriched_at": "2026-11-07T21:53:55.916035+00:00"
   },
   {
     "company": "RTX",
@@ -236132,7 +236026,7 @@
     ],
     "updated_at": "",
     "first_seen_at": "2026-09-19T11:09:13.046280+00:00",
-    "enriched_at": "2026-10-31T21:37:42.150838+00:00"
+    "enriched_at": "2026-11-07T21:53:55.925234+00:00"
   },
   {
     "company": "RTX",
@@ -236158,7 +236052,7 @@
     ],
     "updated_at": "",
     "first_seen_at": "2026-09-19T04:48:38.951694+00:00",
-    "enriched_at": "2026-10-31T21:37:42.157371+00:00"
+    "enriched_at": "2026-11-07T21:53:55.933666+00:00"
   },
   {
     "company": "RTX",
@@ -236449,7 +236343,7 @@
     ],
     "updated_at": "",
     "first_seen_at": "2026-09-11T21:11:24.093992+00:00",
-    "enriched_at": "2026-10-31T21:37:42.167394+00:00"
+    "enriched_at": "2026-11-07T21:53:55.946625+00:00"
   },
   {
     "company": "RTX",
@@ -236478,7 +236372,7 @@
     ],
     "updated_at": "",
     "first_seen_at": "2026-09-18T16:37:42.131228+00:00",
-    "enriched_at": "2026-10-31T21:37:42.177303+00:00"
+    "enriched_at": "2026-11-07T21:53:55.959289+00:00"
   },
   {
     "company": "RTX",
@@ -240991,7 +240885,7 @@
     ],
     "updated_at": "",
     "first_seen_at": "2026-09-12T04:45:11.324524+00:00",
-    "enriched_at": "2026-10-31T21:37:42.184631+00:00"
+    "enriched_at": "2026-11-07T21:53:55.968795+00:00"
   },
   {
     "company": "RTX",
@@ -241045,7 +240939,7 @@
     ],
     "updated_at": "",
     "first_seen_at": "2026-09-11T21:11:24.093992+00:00",
-    "enriched_at": "2026-10-31T21:37:42.194273+00:00"
+    "enriched_at": "2026-11-07T21:53:55.981178+00:00"
   },
   {
     "company": "RTX",
@@ -241073,7 +240967,7 @@
     ],
     "updated_at": "",
     "first_seen_at": "2026-09-11T21:11:24.093992+00:00",
-    "enriched_at": "2026-10-31T21:37:42.202240+00:00"
+    "enriched_at": "2026-11-07T21:53:55.991396+00:00"
   },
   {
     "company": "RTX",
@@ -241099,7 +240993,7 @@
     ],
     "updated_at": "",
     "first_seen_at": "2026-09-11T21:11:24.093992+00:00",
-    "enriched_at": "2026-10-31T21:37:42.211713+00:00"
+    "enriched_at": "2026-11-07T21:53:56.003658+00:00"
   },
   {
     "company": "RTX",
@@ -241126,7 +241020,7 @@
     ],
     "updated_at": "",
     "first_seen_at": "2026-09-11T21:11:24.093992+00:00",
-    "enriched_at": "2026-10-31T21:37:42.219676+00:00"
+    "enriched_at": "2026-11-07T21:53:56.013897+00:00"
   },
   {
     "company": "RTX",
@@ -241153,7 +241047,7 @@
     ],
     "updated_at": "",
     "first_seen_at": "2026-09-11T21:11:24.093992+00:00",
-    "enriched_at": "2026-10-31T21:37:42.238370+00:00"
+    "enriched_at": "2026-11-07T21:53:56.027596+00:00"
   },
   {
     "company": "RTX",
@@ -241208,7 +241102,7 @@
     ],
     "updated_at": "",
     "first_seen_at": "2026-09-11T21:11:24.093992+00:00",
-    "enriched_at": "2026-10-31T21:37:42.245693+00:00"
+    "enriched_at": "2026-11-07T21:53:56.037186+00:00"
   },
   {
     "company": "RTX",
@@ -241234,7 +241128,7 @@
     ],
     "updated_at": "",
     "first_seen_at": "2026-09-11T21:11:24.093992+00:00",
-    "enriched_at": "2026-10-31T21:37:42.252557+00:00"
+    "enriched_at": "2026-11-07T21:53:56.046075+00:00"
   },
   {
     "company": "RTX",
@@ -241261,7 +241155,7 @@
     ],
     "updated_at": "",
     "first_seen_at": "2026-09-11T21:11:24.093992+00:00",
-    "enriched_at": "2026-10-31T21:37:42.259380+00:00"
+    "enriched_at": "2026-11-07T21:53:56.054989+00:00"
   },
   {
     "company": "RTX",
@@ -241289,7 +241183,7 @@
     ],
     "updated_at": "",
     "first_seen_at": "2026-09-11T21:11:24.093992+00:00",
-    "enriched_at": "2026-10-31T21:37:42.267628+00:00"
+    "enriched_at": "2026-11-07T21:53:56.065749+00:00"
   },
   {
     "company": "RTX",
@@ -241344,7 +241238,7 @@
     ],
     "updated_at": "",
     "first_seen_at": "2026-09-11T21:11:24.093992+00:00",
-    "enriched_at": "2026-10-31T21:37:42.275806+00:00"
+    "enriched_at": "2026-11-07T21:53:56.076518+00:00"
   },
   {
     "company": "RTX",
@@ -241400,7 +241294,7 @@
     ],
     "updated_at": "",
     "first_seen_at": "2026-09-11T21:11:24.093992+00:00",
-    "enriched_at": "2026-10-31T21:37:42.284565+00:00"
+    "enriched_at": "2026-11-07T21:53:56.087875+00:00"
   },
   {
     "company": "RTX",
@@ -241512,7 +241406,7 @@
     ],
     "updated_at": "",
     "first_seen_at": "2026-09-11T21:11:24.093992+00:00",
-    "enriched_at": "2026-10-31T21:37:42.293543+00:00"
+    "enriched_at": "2026-11-07T21:53:56.099468+00:00"
   },
   {
     "company": "RTX",
@@ -244312,7 +244206,7 @@
     ],
     "updated_at": "",
     "first_seen_at": "2026-09-05T04:39:16.588778+00:00",
-    "enriched_at": "2026-10-31T21:37:42.302095+00:00"
+    "enriched_at": "2026-11-07T21:53:56.110471+00:00"
   },
   {
     "company": "RTX",
@@ -244339,7 +244233,7 @@
     ],
     "updated_at": "",
     "first_seen_at": "2026-09-05T04:39:16.588778+00:00",
-    "enriched_at": "2026-10-31T21:37:42.312989+00:00"
+    "enriched_at": "2026-11-07T21:53:56.124640+00:00"
   },
   {
     "company": "RTX",
@@ -244366,7 +244260,7 @@
     ],
     "updated_at": "",
     "first_seen_at": "2026-09-05T04:39:16.588778+00:00",
-    "enriched_at": "2026-10-31T21:37:42.324498+00:00"
+    "enriched_at": "2026-11-07T21:53:56.139480+00:00"
   },
   {
     "company": "RTX",
@@ -244393,7 +244287,7 @@
     ],
     "updated_at": "",
     "first_seen_at": "2026-09-04T20:58:47.826318+00:00",
-    "enriched_at": "2026-10-31T21:37:42.335462+00:00"
+    "enriched_at": "2026-11-07T21:53:56.153760+00:00"
   },
   {
     "company": "RTX",
@@ -244418,7 +244312,7 @@
     ],
     "updated_at": "",
     "first_seen_at": "2026-09-04T20:58:47.826318+00:00",
-    "enriched_at": "2026-10-31T21:37:42.343724+00:00"
+    "enriched_at": "2026-11-07T21:53:56.164434+00:00"
   },
   {
     "company": "RTX",
@@ -244443,7 +244337,7 @@
     ],
     "updated_at": "",
     "first_seen_at": "2026-09-04T20:58:47.826318+00:00",
-    "enriched_at": "2026-10-31T21:37:42.350779+00:00"
+    "enriched_at": "2026-11-07T21:53:56.173686+00:00"
   },
   {
     "company": "RTX",
@@ -244470,7 +244364,7 @@
     ],
     "updated_at": "",
     "first_seen_at": "2026-09-04T20:58:47.826318+00:00",
-    "enriched_at": "2026-10-31T21:37:42.380299+00:00"
+    "enriched_at": "2026-11-07T21:53:56.182682+00:00"
   },
   {
     "company": "RTX",
@@ -246880,7 +246774,7 @@
     ],
     "updated_at": "",
     "first_seen_at": "2026-08-28T22:33:12.377535+00:00",
-    "enriched_at": "2026-10-31T21:37:42.396176+00:00"
+    "enriched_at": "2026-11-07T21:53:56.191612+00:00"
   },
   {
     "company": "RTX",
@@ -246905,7 +246799,7 @@
     ],
     "updated_at": "",
     "first_seen_at": "2026-08-28T22:33:12.377535+00:00",
-    "enriched_at": "2026-10-31T21:37:42.404428+00:00"
+    "enriched_at": "2026-11-07T21:53:56.202366+00:00"
   },
   {
     "company": "RTX",
@@ -246931,7 +246825,7 @@
     ],
     "updated_at": "",
     "first_seen_at": "2026-08-28T22:33:12.377535+00:00",
-    "enriched_at": "2026-10-31T21:37:42.420594+00:00"
+    "enriched_at": "2026-11-07T21:53:56.213005+00:00"
   },
   {
     "company": "RTX",
@@ -246957,7 +246851,7 @@
     ],
     "updated_at": "",
     "first_seen_at": "2026-08-28T22:33:12.377535+00:00",
-    "enriched_at": "2026-10-31T21:37:42.429731+00:00"
+    "enriched_at": "2026-11-07T21:53:56.224873+00:00"
   },
   {
     "company": "RTX",
@@ -246983,7 +246877,7 @@
     ],
     "updated_at": "",
     "first_seen_at": "2026-08-28T22:33:12.377535+00:00",
-    "enriched_at": "2026-10-31T21:37:42.447338+00:00"
+    "enriched_at": "2026-11-07T21:53:56.236677+00:00"
   },
   {
     "company": "RTX",
@@ -247009,7 +246903,7 @@
     ],
     "updated_at": "",
     "first_seen_at": "2026-08-28T22:33:12.377535+00:00",
-    "enriched_at": "2026-10-31T21:37:42.474226+00:00"
+    "enriched_at": "2026-11-07T21:53:56.249495+00:00"
   },
   {
     "company": "RTX",
@@ -247035,7 +246929,7 @@
     ],
     "updated_at": "",
     "first_seen_at": "2026-08-28T22:33:12.377535+00:00",
-    "enriched_at": "2026-10-31T21:37:42.485113+00:00"
+    "enriched_at": "2026-11-07T21:53:56.263690+00:00"
   },
   {
     "company": "RTX",
@@ -247061,7 +246955,7 @@
     ],
     "updated_at": "",
     "first_seen_at": "2026-09-04T04:44:23.921969+00:00",
-    "enriched_at": "2026-10-31T21:37:42.495995+00:00"
+    "enriched_at": "2026-11-07T21:53:56.277786+00:00"
   },
   {
     "company": "RTX",
@@ -247087,7 +246981,7 @@
     ],
     "updated_at": "",
     "first_seen_at": "2026-08-28T22:33:12.377535+00:00",
-    "enriched_at": "2026-10-31T21:37:42.506853+00:00"
+    "enriched_at": "2026-11-07T21:53:56.291874+00:00"
   },
   {
     "company": "RTX",
@@ -247114,7 +247008,7 @@
     ],
     "updated_at": "",
     "first_seen_at": "2026-08-28T22:33:12.377535+00:00",
-    "enriched_at": "2026-10-31T21:37:42.517899+00:00"
+    "enriched_at": "2026-11-07T21:53:56.305996+00:00"
   },
   {
     "company": "RTX",
@@ -247141,7 +247035,7 @@
     ],
     "updated_at": "",
     "first_seen_at": "2026-10-21T21:56:48.018764+00:00",
-    "enriched_at": "2026-10-31T21:37:42.535479+00:00"
+    "enriched_at": "2026-11-07T21:53:56.318218+00:00"
   },
   {
     "company": "RTX",
@@ -247167,7 +247061,7 @@
     ],
     "updated_at": "",
     "first_seen_at": "2026-10-21T21:56:48.018764+00:00",
-    "enriched_at": "2026-10-31T21:37:42.543242+00:00"
+    "enriched_at": "2026-11-07T21:53:56.327819+00:00"
   },
   {
     "company": "RTX",
@@ -247222,7 +247116,7 @@
     ],
     "updated_at": "",
     "first_seen_at": "2026-08-28T22:33:12.377535+00:00",
-    "enriched_at": "2026-10-31T21:37:42.569918+00:00"
+    "enriched_at": "2026-11-07T21:53:56.337491+00:00"
   },
   {
     "company": "RTX",
@@ -247250,7 +247144,7 @@
     ],
     "updated_at": "",
     "first_seen_at": "2026-10-08T06:15:34.202343+00:00",
-    "enriched_at": "2026-10-31T21:37:42.579306+00:00"
+    "enriched_at": "2026-11-07T21:53:56.349275+00:00"
   },
   {
     "company": "RTX",
@@ -249177,7 +249071,7 @@
     ],
     "updated_at": "",
     "first_seen_at": "2026-10-21T21:56:48.018764+00:00",
-    "enriched_at": "2026-10-31T21:37:42.591097+00:00"
+    "enriched_at": "2026-11-07T21:53:56.364135+00:00"
   },
   {
     "company": "RTX",
@@ -249207,7 +249101,7 @@
     ],
     "updated_at": "",
     "first_seen_at": "2026-08-21T19:08:25.182473+00:00",
-    "enriched_at": "2026-10-31T21:37:42.602587+00:00"
+    "enriched_at": "2026-11-07T21:53:56.378777+00:00"
   },
   {
     "company": "RTX",
@@ -249237,7 +249131,7 @@
     ],
     "updated_at": "",
     "first_seen_at": "2026-08-21T19:08:25.182473+00:00",
-    "enriched_at": "2026-10-31T21:37:42.613794+00:00"
+    "enriched_at": "2026-11-07T21:53:56.393179+00:00"
   },
   {
     "company": "RTX",
@@ -249265,7 +249159,7 @@
     ],
     "updated_at": "",
     "first_seen_at": "2026-08-21T19:08:25.182473+00:00",
-    "enriched_at": "2026-10-31T21:37:42.637331+00:00"
+    "enriched_at": "2026-11-07T21:53:56.407588+00:00"
   },
   {
     "company": "RTX",
@@ -249292,7 +249186,7 @@
     ],
     "updated_at": "",
     "first_seen_at": "2026-08-21T19:08:25.182473+00:00",
-    "enriched_at": "2026-10-31T21:37:42.644628+00:00"
+    "enriched_at": "2026-11-07T21:53:56.416979+00:00"
   },
   {
     "company": "RTX",
@@ -249320,7 +249214,7 @@
     ],
     "updated_at": "",
     "first_seen_at": "2026-08-21T19:08:25.182473+00:00",
-    "enriched_at": "2026-10-31T21:37:42.651542+00:00"
+    "enriched_at": "2026-11-07T21:53:56.425940+00:00"
   },
   {
     "company": "RTX",
@@ -252085,32 +251979,6 @@
     "updated_at": "",
     "first_seen_at": "2026-08-15T02:30:47.614898+00:00",
     "enriched_at": "2026-11-01T06:08:32.467113+00:00"
-  },
-  {
-    "company": "RTX",
-    "fortune_rank": 49,
-    "title": "Program Quality Lead",
-    "location": "US-CA-GOLETA-H04 ~ 115 Robin Hill Rd ~ BLDG H04",
-    "url": "https://globalhr.wd5.myworkdayjobs.com/en-US/REC_RTX_Ext_Gateway/job/US-CA-GOLETA-H04--115-Robin-Hill-Rd--BLDG-H04/Program-Quality-Lead_01866643",
-    "source": "workday",
-    "external_id": "/job/US-CA-GOLETA-H04--115-Robin-Hill-Rd--BLDG-H04/Program-Quality-Lead_01866643",
-    "employment_type": "full-time",
-    "category": "Other",
-    "h1b_status": "unknown",
-    "sponsorship_evidence": "",
-    "h1b_mentioned": false,
-    "salary_min": null,
-    "salary_max": null,
-    "salary_currency": "",
-    "salary_period": "",
-    "salary_text": "",
-    "keywords": [
-      "Excel",
-      "compliance"
-    ],
-    "updated_at": "",
-    "first_seen_at": "2026-08-15T02:30:47.614898+00:00",
-    "enriched_at": "2026-11-01T06:08:32.481875+00:00"
   },
   {
     "company": "RTX",
@@ -260219,6 +260087,458 @@
   {
     "company": "Lowe's",
     "fortune_rank": 52,
+    "title": "Full Time - Cashier - Day",
+    "location": "W. Jefferson, NC (W Jefferson) 2255",
+    "url": "https://lowes.wd5.myworkdayjobs.com/en-US/LWS_External_CS/job/W-Jefferson-NC-W-Jefferson-2255/Full-Time---Cashier---Day_JR-02701394",
+    "source": "workday",
+    "external_id": "/job/W-Jefferson-NC-W-Jefferson-2255/Full-Time---Cashier---Day_JR-02701394",
+    "employment_type": "full-time",
+    "category": "Other",
+    "h1b_status": "unknown",
+    "sponsorship_evidence": "",
+    "h1b_mentioned": false,
+    "salary_min": null,
+    "salary_max": null,
+    "salary_currency": "",
+    "salary_period": "",
+    "salary_text": "",
+    "keywords": [
+      "sales"
+    ],
+    "updated_at": "",
+    "first_seen_at": "2026-11-07T22:00:43.118409+00:00",
+    "enriched_at": "2026-11-07T21:58:28.950200+00:00"
+  },
+  {
+    "company": "Lowe's",
+    "fortune_rank": 52,
+    "title": "Full Time - Fulfillment Associate - Opening",
+    "location": "W. Jefferson, NC (W Jefferson) 2255",
+    "url": "https://lowes.wd5.myworkdayjobs.com/en-US/LWS_External_CS/job/W-Jefferson-NC-W-Jefferson-2255/Full-Time---Fulfillment-Associate---Opening_JR-02701393-1",
+    "source": "workday",
+    "external_id": "/job/W-Jefferson-NC-W-Jefferson-2255/Full-Time---Fulfillment-Associate---Opening_JR-02701393-1",
+    "employment_type": "full-time",
+    "category": "Other",
+    "h1b_status": "unknown",
+    "sponsorship_evidence": "",
+    "h1b_mentioned": false,
+    "salary_min": null,
+    "salary_max": null,
+    "salary_currency": "",
+    "salary_period": "",
+    "salary_text": "",
+    "keywords": [
+      "sales",
+      "compliance"
+    ],
+    "updated_at": "",
+    "first_seen_at": "2026-11-07T22:00:43.118409+00:00",
+    "enriched_at": "2026-11-07T21:58:28.958471+00:00"
+  },
+  {
+    "company": "Lowe's",
+    "fortune_rank": 52,
+    "title": "Full Time - Receiver/Stocker - Day",
+    "location": "Suwanee, GA (John's Creek) 0710",
+    "url": "https://lowes.wd5.myworkdayjobs.com/en-US/LWS_External_CS/job/Suwanee-GA-Johns-Creek-0710/Full-Time---Receiver-Stocker---Day_JR-02701387",
+    "source": "workday",
+    "external_id": "/job/Suwanee-GA-Johns-Creek-0710/Full-Time---Receiver-Stocker---Day_JR-02701387",
+    "employment_type": "full-time",
+    "category": "Other",
+    "h1b_status": "unknown",
+    "sponsorship_evidence": "",
+    "h1b_mentioned": false,
+    "salary_min": null,
+    "salary_max": null,
+    "salary_currency": "",
+    "salary_period": "",
+    "salary_text": "",
+    "keywords": [
+      "sales"
+    ],
+    "updated_at": "",
+    "first_seen_at": "2026-11-07T22:00:43.118409+00:00",
+    "enriched_at": "2026-11-07T21:58:28.962870+00:00"
+  },
+  {
+    "company": "Lowe's",
+    "fortune_rank": 52,
+    "title": "Full Time - Sales Associate - Inside Lawn & Garden - Closing",
+    "location": "Anchorage, AK (NE Anchorage) 2955",
+    "url": "https://lowes.wd5.myworkdayjobs.com/en-US/LWS_External_CS/job/Anchorage-AK-NE-Anchorage-2955/Full-Time---Sales-Associate---Inside-Lawn---Garden---Closing_JR-02701360",
+    "source": "workday",
+    "external_id": "/job/Anchorage-AK-NE-Anchorage-2955/Full-Time---Sales-Associate---Inside-Lawn---Garden---Closing_JR-02701360",
+    "employment_type": "full-time",
+    "category": "Sales & Marketing",
+    "h1b_status": "unknown",
+    "sponsorship_evidence": "",
+    "h1b_mentioned": false,
+    "salary_min": null,
+    "salary_max": null,
+    "salary_currency": "",
+    "salary_period": "",
+    "salary_text": "",
+    "keywords": [
+      "sales"
+    ],
+    "updated_at": "",
+    "first_seen_at": "2026-11-07T22:00:43.118409+00:00",
+    "enriched_at": "2026-11-07T21:58:28.971540+00:00"
+  },
+  {
+    "company": "Lowe's",
+    "fortune_rank": 52,
+    "title": "Full Time - Receiver/Stocker - Overnight",
+    "location": "Lafayette, LA (N Lafayette) 0618",
+    "url": "https://lowes.wd5.myworkdayjobs.com/en-US/LWS_External_CS/job/Lafayette-LA-N-Lafayette-0618/Full-Time---Receiver-Stocker---Overnight_JR-02701304",
+    "source": "workday",
+    "external_id": "/job/Lafayette-LA-N-Lafayette-0618/Full-Time---Receiver-Stocker---Overnight_JR-02701304",
+    "employment_type": "full-time",
+    "category": "Other",
+    "h1b_status": "unknown",
+    "sponsorship_evidence": "",
+    "h1b_mentioned": false,
+    "salary_min": null,
+    "salary_max": null,
+    "salary_currency": "",
+    "salary_period": "",
+    "salary_text": "",
+    "keywords": [
+      "sales"
+    ],
+    "updated_at": "",
+    "first_seen_at": "2026-11-07T22:00:43.118409+00:00",
+    "enriched_at": "2026-11-07T21:58:28.980515+00:00"
+  },
+  {
+    "company": "Lowe's",
+    "fortune_rank": 52,
+    "title": "Full Time - Sales Associate - Outside Lawn & Garden - Day",
+    "location": "Cincinnati, OH (Western Hills) 2338",
+    "url": "https://lowes.wd5.myworkdayjobs.com/en-US/LWS_External_CS/job/Cincinnati-OH-Western-Hills-2338/Full-Time---Sales-Associate---Outside-Lawn---Garden---Day_JR-02701255",
+    "source": "workday",
+    "external_id": "/job/Cincinnati-OH-Western-Hills-2338/Full-Time---Sales-Associate---Outside-Lawn---Garden---Day_JR-02701255",
+    "employment_type": "full-time",
+    "category": "Sales & Marketing",
+    "h1b_status": "unknown",
+    "sponsorship_evidence": "",
+    "h1b_mentioned": false,
+    "salary_min": null,
+    "salary_max": null,
+    "salary_currency": "",
+    "salary_period": "",
+    "salary_text": "",
+    "keywords": [
+      "sales"
+    ],
+    "updated_at": "",
+    "first_seen_at": "2026-11-07T22:00:43.118409+00:00",
+    "enriched_at": "2026-11-07T21:58:28.989104+00:00"
+  },
+  {
+    "company": "Lowe's",
+    "fortune_rank": 52,
+    "title": "Full Time - Merchandising Service Associate - Day",
+    "location": "Knoxville, TN (S Knoxville) 2239",
+    "url": "https://lowes.wd5.myworkdayjobs.com/en-US/LWS_External_CS/job/Knoxville-TN-S-Knoxville-2239/Full-Time---Merchandising-Service-Associate---Day_JR-02701254",
+    "source": "workday",
+    "external_id": "/job/Knoxville-TN-S-Knoxville-2239/Full-Time---Merchandising-Service-Associate---Day_JR-02701254",
+    "employment_type": "full-time",
+    "category": "Other",
+    "h1b_status": "unknown",
+    "sponsorship_evidence": "",
+    "h1b_mentioned": false,
+    "salary_min": null,
+    "salary_max": null,
+    "salary_currency": "",
+    "salary_period": "",
+    "salary_text": "",
+    "keywords": [
+      "sales"
+    ],
+    "updated_at": "",
+    "first_seen_at": "2026-11-07T22:00:43.118409+00:00",
+    "enriched_at": "2026-11-07T21:58:28.998173+00:00"
+  },
+  {
+    "company": "Lowe's",
+    "fortune_rank": 52,
+    "title": "Full Time - Cashier - Day",
+    "location": "Virginia Beach, VA (E Virginia Beach) 1546",
+    "url": "https://lowes.wd5.myworkdayjobs.com/en-US/LWS_External_CS/job/Virginia-Beach-VA-E-Virginia-Beach-1546/Full-Time---Cashier---Day_JR-02701220",
+    "source": "workday",
+    "external_id": "/job/Virginia-Beach-VA-E-Virginia-Beach-1546/Full-Time---Cashier---Day_JR-02701220",
+    "employment_type": "full-time",
+    "category": "Other",
+    "h1b_status": "unknown",
+    "sponsorship_evidence": "",
+    "h1b_mentioned": false,
+    "salary_min": 15.0,
+    "salary_max": 16.2,
+    "salary_currency": "USD",
+    "salary_period": "hour",
+    "salary_text": "$15.00 - $16.20 per hour",
+    "keywords": [
+      "sales"
+    ],
+    "updated_at": "",
+    "first_seen_at": "2026-11-07T22:00:43.118409+00:00",
+    "enriched_at": "2026-11-07T21:58:29.007126+00:00"
+  },
+  {
+    "company": "Lowe's",
+    "fortune_rank": 52,
+    "title": "Full Time - Fulfillment Associate - Day",
+    "location": "Dickson City, PA (Scranton) 0242",
+    "url": "https://lowes.wd5.myworkdayjobs.com/en-US/LWS_External_CS/job/Dickson-City-PA-Scranton-0242/Full-Time---Fulfillment-Associate---Day_JR-02701218",
+    "source": "workday",
+    "external_id": "/job/Dickson-City-PA-Scranton-0242/Full-Time---Fulfillment-Associate---Day_JR-02701218",
+    "employment_type": "full-time",
+    "category": "Other",
+    "h1b_status": "unknown",
+    "sponsorship_evidence": "",
+    "h1b_mentioned": false,
+    "salary_min": null,
+    "salary_max": null,
+    "salary_currency": "",
+    "salary_period": "",
+    "salary_text": "",
+    "keywords": [
+      "sales",
+      "compliance"
+    ],
+    "updated_at": "",
+    "first_seen_at": "2026-11-07T22:00:43.118409+00:00",
+    "enriched_at": "2026-11-07T21:58:29.018368+00:00"
+  },
+  {
+    "company": "Lowe's",
+    "fortune_rank": 52,
+    "title": "Full Time - Receiver/Stocker - Overnight",
+    "location": "Dickson City, PA (Scranton) 0242",
+    "url": "https://lowes.wd5.myworkdayjobs.com/en-US/LWS_External_CS/job/Dickson-City-PA-Scranton-0242/Full-Time---Receiver-Stocker---Overnight_JR-02701149",
+    "source": "workday",
+    "external_id": "/job/Dickson-City-PA-Scranton-0242/Full-Time---Receiver-Stocker---Overnight_JR-02701149",
+    "employment_type": "full-time",
+    "category": "Other",
+    "h1b_status": "unknown",
+    "sponsorship_evidence": "",
+    "h1b_mentioned": false,
+    "salary_min": null,
+    "salary_max": null,
+    "salary_currency": "",
+    "salary_period": "",
+    "salary_text": "",
+    "keywords": [
+      "sales"
+    ],
+    "updated_at": "",
+    "first_seen_at": "2026-11-07T22:00:43.118409+00:00",
+    "enriched_at": "2026-11-07T21:58:29.022581+00:00"
+  },
+  {
+    "company": "Lowe's",
+    "fortune_rank": 52,
+    "title": "Full Time - Receiver/Stocker - Overnight",
+    "location": "Whitehall, PA (Whitehall Township) 2763",
+    "url": "https://lowes.wd5.myworkdayjobs.com/en-US/LWS_External_CS/job/Whitehall-PA-Whitehall-Township-2763/Full-Time---Receiver-Stocker---Overnight_JR-02701147",
+    "source": "workday",
+    "external_id": "/job/Whitehall-PA-Whitehall-Township-2763/Full-Time---Receiver-Stocker---Overnight_JR-02701147",
+    "employment_type": "full-time",
+    "category": "Other",
+    "h1b_status": "unknown",
+    "sponsorship_evidence": "",
+    "h1b_mentioned": false,
+    "salary_min": null,
+    "salary_max": null,
+    "salary_currency": "",
+    "salary_period": "",
+    "salary_text": "",
+    "keywords": [
+      "sales"
+    ],
+    "updated_at": "",
+    "first_seen_at": "2026-11-07T22:00:43.118409+00:00",
+    "enriched_at": "2026-11-07T21:58:29.031126+00:00"
+  },
+  {
+    "company": "Lowe's",
+    "fortune_rank": 52,
+    "title": "Full Time - Merchandising Service Associate - Day",
+    "location": "Louisville, KY (NE Louisville) 2245",
+    "url": "https://lowes.wd5.myworkdayjobs.com/en-US/LWS_External_CS/job/Louisville-KY-NE-Louisville-2245/Full-Time---Merchandising-Service-Associate---Day_JR-02701137",
+    "source": "workday",
+    "external_id": "/job/Louisville-KY-NE-Louisville-2245/Full-Time---Merchandising-Service-Associate---Day_JR-02701137",
+    "employment_type": "full-time",
+    "category": "Other",
+    "h1b_status": "unknown",
+    "sponsorship_evidence": "",
+    "h1b_mentioned": false,
+    "salary_min": null,
+    "salary_max": null,
+    "salary_currency": "",
+    "salary_period": "",
+    "salary_text": "",
+    "keywords": [
+      "sales"
+    ],
+    "updated_at": "",
+    "first_seen_at": "2026-11-07T22:00:43.118409+00:00",
+    "enriched_at": "2026-11-07T21:58:29.039672+00:00"
+  },
+  {
+    "company": "Lowe's",
+    "fortune_rank": 52,
+    "title": "Full Time - Sales Associate - Paint - Opening",
+    "location": "Katy, TX (Cinco Ranch) 3306",
+    "url": "https://lowes.wd5.myworkdayjobs.com/en-US/LWS_External_CS/job/Katy-TX-Cinco-Ranch-3306/Full-Time---Sales-Associate---Paint---Opening_JR-02701129",
+    "source": "workday",
+    "external_id": "/job/Katy-TX-Cinco-Ranch-3306/Full-Time---Sales-Associate---Paint---Opening_JR-02701129",
+    "employment_type": "full-time",
+    "category": "Sales & Marketing",
+    "h1b_status": "unknown",
+    "sponsorship_evidence": "",
+    "h1b_mentioned": false,
+    "salary_min": null,
+    "salary_max": null,
+    "salary_currency": "",
+    "salary_period": "",
+    "salary_text": "",
+    "keywords": [
+      "sales"
+    ],
+    "updated_at": "",
+    "first_seen_at": "2026-11-07T22:00:43.118409+00:00",
+    "enriched_at": "2026-11-07T21:58:29.048525+00:00"
+  },
+  {
+    "company": "Lowe's",
+    "fortune_rank": 52,
+    "title": "Full Time - Merchandising Service Associate - Day",
+    "location": "Columbia, SC (NE Columbia) 0433",
+    "url": "https://lowes.wd5.myworkdayjobs.com/en-US/LWS_External_CS/job/Columbia-SC-NE-Columbia-0433/Full-Time---Merchandising-Service-Associate---Day_JR-02701128",
+    "source": "workday",
+    "external_id": "/job/Columbia-SC-NE-Columbia-0433/Full-Time---Merchandising-Service-Associate---Day_JR-02701128",
+    "employment_type": "full-time",
+    "category": "Other",
+    "h1b_status": "unknown",
+    "sponsorship_evidence": "",
+    "h1b_mentioned": false,
+    "salary_min": null,
+    "salary_max": null,
+    "salary_currency": "",
+    "salary_period": "",
+    "salary_text": "",
+    "keywords": [
+      "sales"
+    ],
+    "updated_at": "",
+    "first_seen_at": "2026-11-07T22:00:43.118409+00:00",
+    "enriched_at": "2026-11-07T21:58:29.057455+00:00"
+  },
+  {
+    "company": "Lowe's",
+    "fortune_rank": 52,
+    "title": "Full Time - Sales Associate - Building Materials - Day",
+    "location": "Arden, NC (S Asheville) 2201",
+    "url": "https://lowes.wd5.myworkdayjobs.com/en-US/LWS_External_CS/job/Arden-NC-S-Asheville-2201/Full-Time---Sales-Associate---Building-Materials---Day_JR-02701122",
+    "source": "workday",
+    "external_id": "/job/Arden-NC-S-Asheville-2201/Full-Time---Sales-Associate---Building-Materials---Day_JR-02701122",
+    "employment_type": "full-time",
+    "category": "Sales & Marketing",
+    "h1b_status": "unknown",
+    "sponsorship_evidence": "",
+    "h1b_mentioned": false,
+    "salary_min": null,
+    "salary_max": null,
+    "salary_currency": "",
+    "salary_period": "",
+    "salary_text": "",
+    "keywords": [
+      "sales"
+    ],
+    "updated_at": "",
+    "first_seen_at": "2026-11-07T22:00:43.118409+00:00",
+    "enriched_at": "2026-11-07T21:58:29.066316+00:00"
+  },
+  {
+    "company": "Lowe's",
+    "fortune_rank": 52,
+    "title": "Full Time - Sales Associate - Flooring - Opening",
+    "location": "Arden, NC (S Asheville) 2201",
+    "url": "https://lowes.wd5.myworkdayjobs.com/en-US/LWS_External_CS/job/Arden-NC-S-Asheville-2201/Full-Time---Sales-Associate---Flooring---Opening_JR-02701121",
+    "source": "workday",
+    "external_id": "/job/Arden-NC-S-Asheville-2201/Full-Time---Sales-Associate---Flooring---Opening_JR-02701121",
+    "employment_type": "full-time",
+    "category": "Sales & Marketing",
+    "h1b_status": "unknown",
+    "sponsorship_evidence": "",
+    "h1b_mentioned": false,
+    "salary_min": null,
+    "salary_max": null,
+    "salary_currency": "",
+    "salary_period": "",
+    "salary_text": "",
+    "keywords": [
+      "sales"
+    ],
+    "updated_at": "",
+    "first_seen_at": "2026-11-07T22:00:43.118409+00:00",
+    "enriched_at": "2026-11-07T21:58:29.075272+00:00"
+  },
+  {
+    "company": "Lowe's",
+    "fortune_rank": 52,
+    "title": "Full Time - Sales Associate - Paint - Day",
+    "location": "Gibsonia, PA (Richland Township) 2411",
+    "url": "https://lowes.wd5.myworkdayjobs.com/en-US/LWS_External_CS/job/Gibsonia-PA-Richland-Township-2411/Full-Time---Sales-Associate---Paint---Day_JR-02701120",
+    "source": "workday",
+    "external_id": "/job/Gibsonia-PA-Richland-Township-2411/Full-Time---Sales-Associate---Paint---Day_JR-02701120",
+    "employment_type": "full-time",
+    "category": "Sales & Marketing",
+    "h1b_status": "unknown",
+    "sponsorship_evidence": "",
+    "h1b_mentioned": false,
+    "salary_min": null,
+    "salary_max": null,
+    "salary_currency": "",
+    "salary_period": "",
+    "salary_text": "",
+    "keywords": [
+      "sales"
+    ],
+    "updated_at": "",
+    "first_seen_at": "2026-11-07T22:00:43.118409+00:00",
+    "enriched_at": "2026-11-07T21:58:29.084246+00:00"
+  },
+  {
+    "company": "Lowe's",
+    "fortune_rank": 52,
+    "title": "Full Time - Sales Associate - Plumbing - Day",
+    "location": "Gibsonia, PA (Richland Township) 2411",
+    "url": "https://lowes.wd5.myworkdayjobs.com/en-US/LWS_External_CS/job/Gibsonia-PA-Richland-Township-2411/Full-Time---Sales-Associate---Plumbing---Day_JR-02701119",
+    "source": "workday",
+    "external_id": "/job/Gibsonia-PA-Richland-Township-2411/Full-Time---Sales-Associate---Plumbing---Day_JR-02701119",
+    "employment_type": "full-time",
+    "category": "Sales & Marketing",
+    "h1b_status": "unknown",
+    "sponsorship_evidence": "",
+    "h1b_mentioned": false,
+    "salary_min": null,
+    "salary_max": null,
+    "salary_currency": "",
+    "salary_period": "",
+    "salary_text": "",
+    "keywords": [
+      "sales"
+    ],
+    "updated_at": "",
+    "first_seen_at": "2026-11-07T22:00:43.118409+00:00",
+    "enriched_at": "2026-11-07T21:58:29.093196+00:00"
+  },
+  {
+    "company": "Lowe's",
+    "fortune_rank": 52,
     "title": "Full Time - Sales Associate - Paint - Closing",
     "location": "East Point, GA (Camp Creek) 1715",
     "url": "https://lowes.wd5.myworkdayjobs.com/en-US/LWS_External_CS/job/East-Point-GA-Camp-Creek-1715/Full-Time---Sales-Associate---Paint---Closing_JR-02701111",
@@ -264065,31 +264385,6 @@
   {
     "company": "Lowe's",
     "fortune_rank": 52,
-    "title": "Full Time - Merchandising Service Associate - Day",
-    "location": "Whitehall, PA (Whitehall Township) 2763",
-    "url": "https://lowes.wd5.myworkdayjobs.com/en-US/LWS_External_CS/job/Whitehall-PA-Whitehall-Township-2763/Full-Time---Merchandising-Service-Associate---Day_JR-02699239",
-    "source": "workday",
-    "external_id": "/job/Whitehall-PA-Whitehall-Township-2763/Full-Time---Merchandising-Service-Associate---Day_JR-02699239",
-    "employment_type": "full-time",
-    "category": "Other",
-    "h1b_status": "unknown",
-    "sponsorship_evidence": "",
-    "h1b_mentioned": false,
-    "salary_min": null,
-    "salary_max": null,
-    "salary_currency": "",
-    "salary_period": "",
-    "salary_text": "",
-    "keywords": [
-      "sales"
-    ],
-    "updated_at": "",
-    "first_seen_at": "2026-11-04T20:01:12.730775+00:00",
-    "enriched_at": "2026-11-04T19:57:50.504547+00:00"
-  },
-  {
-    "company": "Lowe's",
-    "fortune_rank": 52,
     "title": "Branch General Manager",
     "location": "LPS - Kansas City, MO 4531",
     "url": "https://lowes.wd5.myworkdayjobs.com/en-US/LWS_External_CS/job/LPS---Kansas-City-MO-4531/Branch-General-Manager_JR-02699218",
@@ -264779,31 +265074,6 @@
     "updated_at": "",
     "first_seen_at": "2026-11-04T20:01:12.730775+00:00",
     "enriched_at": "2026-11-04T19:57:50.793163+00:00"
-  },
-  {
-    "company": "Lowe's",
-    "fortune_rank": 52,
-    "title": "Full Time - Sales Specialist - Flooring - Day",
-    "location": "Tulsa, OK (Midtown) 1580",
-    "url": "https://lowes.wd5.myworkdayjobs.com/en-US/LWS_External_CS/job/Tulsa-OK-Midtown-1580/Full-Time---Sales-Specialist---Flooring---Day_JR-02685981-1",
-    "source": "workday",
-    "external_id": "/job/Tulsa-OK-Midtown-1580/Full-Time---Sales-Specialist---Flooring---Day_JR-02685981-1",
-    "employment_type": "full-time",
-    "category": "Sales & Marketing",
-    "h1b_status": "unknown",
-    "sponsorship_evidence": "",
-    "h1b_mentioned": false,
-    "salary_min": null,
-    "salary_max": null,
-    "salary_currency": "",
-    "salary_period": "",
-    "salary_text": "",
-    "keywords": [
-      "sales"
-    ],
-    "updated_at": "",
-    "first_seen_at": "2026-11-04T20:01:12.730775+00:00",
-    "enriched_at": "2026-11-04T19:57:50.802577+00:00"
   },
   {
     "company": "Lowe's",
@@ -268678,31 +268948,6 @@
   {
     "company": "Lowe's",
     "fortune_rank": 52,
-    "title": "Full Time - Sales Associate - Inside Lawn & Garden - Opening",
-    "location": "Gainesville, FL (NE Gainesville) 2365",
-    "url": "https://lowes.wd5.myworkdayjobs.com/en-US/LWS_External_CS/job/Gainesville-FL-NE-Gainesville-2365/Full-Time---Sales-Associate---Inside-Lawn---Garden---Opening_JR-02697265",
-    "source": "workday",
-    "external_id": "/job/Gainesville-FL-NE-Gainesville-2365/Full-Time---Sales-Associate---Inside-Lawn---Garden---Opening_JR-02697265",
-    "employment_type": "full-time",
-    "category": "Sales & Marketing",
-    "h1b_status": "unknown",
-    "sponsorship_evidence": "",
-    "h1b_mentioned": false,
-    "salary_min": null,
-    "salary_max": null,
-    "salary_currency": "",
-    "salary_period": "",
-    "salary_text": "",
-    "keywords": [
-      "sales"
-    ],
-    "updated_at": "",
-    "first_seen_at": "2026-11-03T01:12:54.521776+00:00",
-    "enriched_at": "2026-11-03T01:09:59.034118+00:00"
-  },
-  {
-    "company": "Lowe's",
-    "fortune_rank": 52,
     "title": "Full Time - Fulfillment Associate - Opening",
     "location": "Amarillo, TX (NW Amarillo) 2801",
     "url": "https://lowes.wd5.myworkdayjobs.com/en-US/LWS_External_CS/job/Amarillo-TX-NW-Amarillo-2801/Full-Time---Fulfillment-Associate---Opening_JR-02697263",
@@ -268876,31 +269121,6 @@
     "updated_at": "",
     "first_seen_at": "2026-10-30T05:59:57.320874+00:00",
     "enriched_at": "2026-11-06T06:54:02.640462+00:00"
-  },
-  {
-    "company": "Lowe's",
-    "fortune_rank": 52,
-    "title": "Full Time - Receiver/Stocker - Overnight",
-    "location": "Sarasota, FL (NE Sarasota) 1935",
-    "url": "https://lowes.wd5.myworkdayjobs.com/en-US/LWS_External_CS/job/Sarasota-FL-NE-Sarasota-1935/Full-Time---Receiver-Stocker---Overnight_JR-02697186-1",
-    "source": "workday",
-    "external_id": "/job/Sarasota-FL-NE-Sarasota-1935/Full-Time---Receiver-Stocker---Overnight_JR-02697186-1",
-    "employment_type": "full-time",
-    "category": "Other",
-    "h1b_status": "unknown",
-    "sponsorship_evidence": "",
-    "h1b_mentioned": false,
-    "salary_min": null,
-    "salary_max": null,
-    "salary_currency": "",
-    "salary_period": "",
-    "salary_text": "",
-    "keywords": [
-      "sales"
-    ],
-    "updated_at": "",
-    "first_seen_at": "2026-11-02T16:06:00.921117+00:00",
-    "enriched_at": "2026-11-02T16:01:48.523555+00:00"
   },
   {
     "company": "Lowe's",
@@ -269106,7 +269326,7 @@
     ],
     "updated_at": "",
     "first_seen_at": "2026-11-02T16:06:00.921117+00:00",
-    "enriched_at": "2026-10-31T21:42:00.087108+00:00"
+    "enriched_at": "2026-11-07T21:58:29.102139+00:00"
   },
   {
     "company": "Lowe's",
@@ -270085,31 +270305,6 @@
   {
     "company": "Lowe's",
     "fortune_rank": 52,
-    "title": "Full Time - Receiver/Stocker - Day",
-    "location": "Sarasota, FL (NE Sarasota) 1935",
-    "url": "https://lowes.wd5.myworkdayjobs.com/en-US/LWS_External_CS/job/Sarasota-FL-NE-Sarasota-1935/Full-Time---Receiver-Stocker---Day_JR-02687826",
-    "source": "workday",
-    "external_id": "/job/Sarasota-FL-NE-Sarasota-1935/Full-Time---Receiver-Stocker---Day_JR-02687826",
-    "employment_type": "full-time",
-    "category": "Other",
-    "h1b_status": "unknown",
-    "sponsorship_evidence": "",
-    "h1b_mentioned": false,
-    "salary_min": null,
-    "salary_max": null,
-    "salary_currency": "",
-    "salary_period": "",
-    "salary_text": "",
-    "keywords": [
-      "sales"
-    ],
-    "updated_at": "",
-    "first_seen_at": "2026-10-30T22:32:33.311973+00:00",
-    "enriched_at": "2026-11-07T06:07:27.323952+00:00"
-  },
-  {
-    "company": "Lowe's",
-    "fortune_rank": 52,
     "title": "Legal Program Manager",
     "location": "Mooresville, NC (SSC) 1999",
     "url": "https://lowes.wd5.myworkdayjobs.com/en-US/LWS_External_CS/job/Mooresville-NC-SSC-1999/Legal-Program-Manager_JR-02685339-1",
@@ -270417,31 +270612,6 @@
     "updated_at": "",
     "first_seen_at": "2026-10-30T13:07:24.621153+00:00",
     "enriched_at": "2026-11-06T19:35:17.238473+00:00"
-  },
-  {
-    "company": "Lowe's",
-    "fortune_rank": 52,
-    "title": "Full Time - Sales Associate - Internet Fulfillment - Day",
-    "location": "Hagerstown, MD (N Hagerstown) 2357",
-    "url": "https://lowes.wd5.myworkdayjobs.com/en-US/LWS_External_CS/job/Hagerstown-MD-N-Hagerstown-2357/Full-Time---Sales-Associate---Internet-Fulfillment---Day_JR-02687592",
-    "source": "workday",
-    "external_id": "/job/Hagerstown-MD-N-Hagerstown-2357/Full-Time---Sales-Associate---Internet-Fulfillment---Day_JR-02687592",
-    "employment_type": "full-time",
-    "category": "Sales & Marketing",
-    "h1b_status": "unknown",
-    "sponsorship_evidence": "",
-    "h1b_mentioned": false,
-    "salary_min": 15.0,
-    "salary_max": 15.6,
-    "salary_currency": "USD",
-    "salary_period": "hour",
-    "salary_text": "$15.00 - $15.60 per hour",
-    "keywords": [
-      "sales"
-    ],
-    "updated_at": "",
-    "first_seen_at": "2026-10-30T13:07:24.621153+00:00",
-    "enriched_at": "2026-11-06T19:35:17.248107+00:00"
   },
   {
     "company": "Lowe's",
@@ -271467,31 +271637,6 @@
     "updated_at": "",
     "first_seen_at": "2026-10-30T05:59:57.320874+00:00",
     "enriched_at": "2026-11-06T06:54:02.966263+00:00"
-  },
-  {
-    "company": "Lowe's",
-    "fortune_rank": 52,
-    "title": "Full Time - Sales Specialist - Flooring - Closing",
-    "location": "Baltimore, MD (Catonsville) 0624",
-    "url": "https://lowes.wd5.myworkdayjobs.com/en-US/LWS_External_CS/job/Baltimore-MD-Catonsville-0624/Full-Time---Sales-Specialist---Flooring---Closing_JR-02685033-1",
-    "source": "workday",
-    "external_id": "/job/Baltimore-MD-Catonsville-0624/Full-Time---Sales-Specialist---Flooring---Closing_JR-02685033-1",
-    "employment_type": "full-time",
-    "category": "Sales & Marketing",
-    "h1b_status": "unknown",
-    "sponsorship_evidence": "",
-    "h1b_mentioned": false,
-    "salary_min": 18.0,
-    "salary_max": 19.45,
-    "salary_currency": "USD",
-    "salary_period": "hour",
-    "salary_text": "$18.00 - $19.45 per hour",
-    "keywords": [
-      "sales"
-    ],
-    "updated_at": "",
-    "first_seen_at": "2026-10-29T13:13:57.377526+00:00",
-    "enriched_at": "2026-11-05T20:09:31.830652+00:00"
   },
   {
     "company": "Lowe's",
@@ -274898,31 +275043,6 @@
   {
     "company": "Lowe's",
     "fortune_rank": 52,
-    "title": "Full Time - Merchandising Service Associate - Day",
-    "location": "Nashua, NH (S. Nashua) 2391",
-    "url": "https://lowes.wd5.myworkdayjobs.com/en-US/LWS_External_CS/job/Nashua-NH-S-Nashua-2391/Full-Time---Merchandising-Service-Associate---Day_JR-02684401",
-    "source": "workday",
-    "external_id": "/job/Nashua-NH-S-Nashua-2391/Full-Time---Merchandising-Service-Associate---Day_JR-02684401",
-    "employment_type": "full-time",
-    "category": "Other",
-    "h1b_status": "unknown",
-    "sponsorship_evidence": "",
-    "h1b_mentioned": false,
-    "salary_min": null,
-    "salary_max": null,
-    "salary_currency": "",
-    "salary_period": "",
-    "salary_text": "",
-    "keywords": [
-      "sales"
-    ],
-    "updated_at": "",
-    "first_seen_at": "2026-10-24T16:08:56.089038+00:00",
-    "enriched_at": "2026-10-31T21:41:59.705465+00:00"
-  },
-  {
-    "company": "Lowe's",
-    "fortune_rank": 52,
     "title": "Full Time - Asset Protection Agent - Day",
     "location": "Chicago, IL (83rd & Stewart) 2301",
     "url": "https://lowes.wd5.myworkdayjobs.com/en-US/LWS_External_CS/job/Chicago-IL-83rd--Stewart-2301/Full-Time---Asset-Protection-Agent---Day_JR-02683459-1",
@@ -275509,31 +275629,6 @@
   {
     "company": "Lowe's",
     "fortune_rank": 52,
-    "title": "Full Time - Sales Associate - Building Materials - Closing",
-    "location": "Liverpool, NY (Clay) 2379",
-    "url": "https://lowes.wd5.myworkdayjobs.com/en-US/LWS_External_CS/job/Liverpool-NY-Clay-2379/Full-Time---Sales-Associate---Building-Materials---Closing_JR-02683841",
-    "source": "workday",
-    "external_id": "/job/Liverpool-NY-Clay-2379/Full-Time---Sales-Associate---Building-Materials---Closing_JR-02683841",
-    "employment_type": "full-time",
-    "category": "Sales & Marketing",
-    "h1b_status": "unknown",
-    "sponsorship_evidence": "",
-    "h1b_mentioned": false,
-    "salary_min": 16.0,
-    "salary_max": 16.15,
-    "salary_currency": "USD",
-    "salary_period": "hour",
-    "salary_text": "$16.00 - $16.15 per hour",
-    "keywords": [
-      "sales"
-    ],
-    "updated_at": "",
-    "first_seen_at": "2026-10-23T17:20:41.429109+00:00",
-    "enriched_at": "2026-11-07T06:07:27.580655+00:00"
-  },
-  {
-    "company": "Lowe's",
-    "fortune_rank": 52,
     "title": "Transportation Analyst",
     "location": "Mooresville, NC (SSC) 1999",
     "url": "https://lowes.wd5.myworkdayjobs.com/en-US/LWS_External_CS/job/Mooresville-NC-SSC-1999/Transportation-Analyst_JR-02674467",
@@ -275660,31 +275755,6 @@
     "updated_at": "",
     "first_seen_at": "2026-10-23T17:20:41.429109+00:00",
     "enriched_at": "2026-11-07T06:07:27.616186+00:00"
-  },
-  {
-    "company": "Lowe's",
-    "fortune_rank": 52,
-    "title": "Full Time - Merchandising Service Associate - Day",
-    "location": "Mobile, AL (SW Mobile) 1599",
-    "url": "https://lowes.wd5.myworkdayjobs.com/en-US/LWS_External_CS/job/Mobile-AL-SW-Mobile-1599/Full-Time---Merchandising-Service-Associate---Day_JR-02677189-1",
-    "source": "workday",
-    "external_id": "/job/Mobile-AL-SW-Mobile-1599/Full-Time---Merchandising-Service-Associate---Day_JR-02677189-1",
-    "employment_type": "full-time",
-    "category": "Other",
-    "h1b_status": "unknown",
-    "sponsorship_evidence": "",
-    "h1b_mentioned": false,
-    "salary_min": null,
-    "salary_max": null,
-    "salary_currency": "",
-    "salary_period": "",
-    "salary_text": "",
-    "keywords": [
-      "sales"
-    ],
-    "updated_at": "",
-    "first_seen_at": "2026-10-23T17:20:41.429109+00:00",
-    "enriched_at": "2026-11-07T06:07:27.619987+00:00"
   },
   {
     "company": "Lowe's",
@@ -275889,32 +275959,6 @@
     "updated_at": "",
     "first_seen_at": "2026-10-22T21:49:24.171569+00:00",
     "enriched_at": "2026-11-06T06:54:02.999532+00:00"
-  },
-  {
-    "company": "Lowe's",
-    "fortune_rank": 52,
-    "title": "Full Time - CDL Delivery Driver",
-    "location": "Meridian, ID (S Meridian) 2792",
-    "url": "https://lowes.wd5.myworkdayjobs.com/en-US/LWS_External_CS/job/Meridian-ID-S-Meridian-2792/Full-Time---CDL-Delivery-Driver_JR-02683388",
-    "source": "workday",
-    "external_id": "/job/Meridian-ID-S-Meridian-2792/Full-Time---CDL-Delivery-Driver_JR-02683388",
-    "employment_type": "full-time",
-    "category": "Other",
-    "h1b_status": "unknown",
-    "sponsorship_evidence": "",
-    "h1b_mentioned": false,
-    "salary_min": null,
-    "salary_max": null,
-    "salary_currency": "",
-    "salary_period": "",
-    "salary_text": "",
-    "keywords": [
-      "sales",
-      "compliance"
-    ],
-    "updated_at": "",
-    "first_seen_at": "2026-10-22T21:49:24.171569+00:00",
-    "enriched_at": "2026-11-06T06:54:03.008283+00:00"
   },
   {
     "company": "Lowe's",
@@ -278059,31 +278103,6 @@
   {
     "company": "Lowe's",
     "fortune_rank": 52,
-    "title": "Full Time - Sales Specialist - Flooring - Day",
-    "location": "Kansas City, MO (N Kansas City) 1078",
-    "url": "https://lowes.wd5.myworkdayjobs.com/en-US/LWS_External_CS/job/Kansas-City-MO-N-Kansas-City-1078/Full-Time---Sales-Specialist---Flooring---Day_JR-02680968-1",
-    "source": "workday",
-    "external_id": "/job/Kansas-City-MO-N-Kansas-City-1078/Full-Time---Sales-Specialist---Flooring---Day_JR-02680968-1",
-    "employment_type": "full-time",
-    "category": "Sales & Marketing",
-    "h1b_status": "unknown",
-    "sponsorship_evidence": "",
-    "h1b_mentioned": false,
-    "salary_min": null,
-    "salary_max": null,
-    "salary_currency": "",
-    "salary_period": "",
-    "salary_text": "",
-    "keywords": [
-      "sales"
-    ],
-    "updated_at": "",
-    "first_seen_at": "2026-10-19T22:35:57.324107+00:00",
-    "enriched_at": "2026-11-03T01:09:59.545975+00:00"
-  },
-  {
-    "company": "Lowe's",
-    "fortune_rank": 52,
     "title": "Market Delivery Warehouse Associate - Nights",
     "location": "Joplin, MO (XDT) 3995",
     "url": "https://lowes.wd5.myworkdayjobs.com/en-US/LWS_External_CS/job/Joplin-MO-XDT-3995/Market-Delivery-Warehouse-Associate---Nights_JR-02677218",
@@ -278977,31 +278996,6 @@
     "updated_at": "",
     "first_seen_at": "2026-10-16T16:53:48.574632+00:00",
     "enriched_at": "2026-11-07T06:07:27.761606+00:00"
-  },
-  {
-    "company": "Lowe's",
-    "fortune_rank": 52,
-    "title": "Full Time - Sales Associate - Plumbing - Closing",
-    "location": "Mckinney, TX (S McKinney) 2878",
-    "url": "https://lowes.wd5.myworkdayjobs.com/en-US/LWS_External_CS/job/Mckinney-TX-S-McKinney-2878/Full-Time---Sales-Associate---Plumbing---Closing_JR-02679842",
-    "source": "workday",
-    "external_id": "/job/Mckinney-TX-S-McKinney-2878/Full-Time---Sales-Associate---Plumbing---Closing_JR-02679842",
-    "employment_type": "full-time",
-    "category": "Sales & Marketing",
-    "h1b_status": "unknown",
-    "sponsorship_evidence": "",
-    "h1b_mentioned": false,
-    "salary_min": null,
-    "salary_max": null,
-    "salary_currency": "",
-    "salary_period": "",
-    "salary_text": "",
-    "keywords": [
-      "sales"
-    ],
-    "updated_at": "",
-    "first_seen_at": "2026-10-16T16:53:48.574632+00:00",
-    "enriched_at": "2026-11-07T06:07:27.770624+00:00"
   },
   {
     "company": "Lowe's",
@@ -281378,7 +281372,7 @@
     ],
     "updated_at": "",
     "first_seen_at": "2026-10-10T12:42:10.044399+00:00",
-    "enriched_at": "2026-10-31T21:41:59.726233+00:00"
+    "enriched_at": "2026-11-07T21:58:29.108957+00:00"
   },
   {
     "company": "Lowe's",
@@ -281403,7 +281397,7 @@
     ],
     "updated_at": "",
     "first_seen_at": "2026-10-10T12:42:10.044399+00:00",
-    "enriched_at": "2026-10-31T21:41:59.735316+00:00"
+    "enriched_at": "2026-11-07T21:58:29.120631+00:00"
   },
   {
     "company": "Lowe's",
@@ -281428,7 +281422,7 @@
     ],
     "updated_at": "",
     "first_seen_at": "2026-10-10T12:42:10.044399+00:00",
-    "enriched_at": "2026-10-31T21:41:59.742266+00:00"
+    "enriched_at": "2026-11-07T21:58:29.129590+00:00"
   },
   {
     "company": "Lowe's",
@@ -281453,7 +281447,7 @@
     ],
     "updated_at": "",
     "first_seen_at": "2026-10-10T12:42:10.044399+00:00",
-    "enriched_at": "2026-10-31T21:41:59.749242+00:00"
+    "enriched_at": "2026-11-07T21:58:29.138526+00:00"
   },
   {
     "company": "Lowe's",
@@ -281478,7 +281472,7 @@
     ],
     "updated_at": "",
     "first_seen_at": "2026-10-10T12:42:10.044399+00:00",
-    "enriched_at": "2026-10-31T21:41:59.755919+00:00"
+    "enriched_at": "2026-11-07T21:58:29.147049+00:00"
   },
   {
     "company": "Lowe's",
@@ -281504,7 +281498,7 @@
     ],
     "updated_at": "",
     "first_seen_at": "2026-10-10T12:42:10.044399+00:00",
-    "enriched_at": "2026-10-31T21:41:59.762527+00:00"
+    "enriched_at": "2026-11-07T21:58:29.155580+00:00"
   },
   {
     "company": "Lowe's",
@@ -281530,7 +281524,7 @@
     ],
     "updated_at": "",
     "first_seen_at": "2026-10-10T12:42:10.044399+00:00",
-    "enriched_at": "2026-10-31T21:41:59.773759+00:00"
+    "enriched_at": "2026-11-07T21:58:29.162553+00:00"
   },
   {
     "company": "Lowe's",
@@ -281555,7 +281549,7 @@
     ],
     "updated_at": "",
     "first_seen_at": "2026-10-10T12:42:10.044399+00:00",
-    "enriched_at": "2026-10-31T21:41:59.779188+00:00"
+    "enriched_at": "2026-11-07T21:58:29.169456+00:00"
   },
   {
     "company": "Lowe's",
@@ -281580,7 +281574,7 @@
     ],
     "updated_at": "",
     "first_seen_at": "2026-10-10T12:42:10.044399+00:00",
-    "enriched_at": "2026-10-31T21:41:59.786241+00:00"
+    "enriched_at": "2026-11-07T21:58:29.178379+00:00"
   },
   {
     "company": "Lowe's",
@@ -281605,7 +281599,7 @@
     ],
     "updated_at": "",
     "first_seen_at": "2026-10-10T12:42:10.044399+00:00",
-    "enriched_at": "2026-10-31T21:41:59.793272+00:00"
+    "enriched_at": "2026-11-07T21:58:29.187421+00:00"
   },
   {
     "company": "Lowe's",
@@ -281630,32 +281624,7 @@
     ],
     "updated_at": "",
     "first_seen_at": "2026-10-10T12:42:10.044399+00:00",
-    "enriched_at": "2026-10-31T21:41:59.800037+00:00"
-  },
-  {
-    "company": "Lowe's",
-    "fortune_rank": 52,
-    "title": "Full Time - Sales Associate - Electrical & Lighting - Day",
-    "location": "New Hudson, MI (Lyon Township) 2570",
-    "url": "https://lowes.wd5.myworkdayjobs.com/en-US/LWS_External_CS/job/New-Hudson-MI-Lyon-Township-2570/Full-Time---Sales-Associate---Electrical---Lighting---Day_JR-02675715",
-    "source": "workday",
-    "external_id": "/job/New-Hudson-MI-Lyon-Township-2570/Full-Time---Sales-Associate---Electrical---Lighting---Day_JR-02675715",
-    "employment_type": "full-time",
-    "category": "Engineering",
-    "h1b_status": "unknown",
-    "sponsorship_evidence": "",
-    "h1b_mentioned": false,
-    "salary_min": null,
-    "salary_max": null,
-    "salary_currency": "",
-    "salary_period": "",
-    "salary_text": "",
-    "keywords": [
-      "sales"
-    ],
-    "updated_at": "",
-    "first_seen_at": "2026-10-10T12:42:10.044399+00:00",
-    "enriched_at": "2026-10-31T21:41:59.806272+00:00"
+    "enriched_at": "2026-11-07T21:58:29.196045+00:00"
   },
   {
     "company": "Lowe's",
@@ -281680,7 +281649,7 @@
     ],
     "updated_at": "",
     "first_seen_at": "2026-10-10T12:42:10.044399+00:00",
-    "enriched_at": "2026-10-31T21:41:59.813440+00:00"
+    "enriched_at": "2026-11-07T21:58:29.203919+00:00"
   },
   {
     "company": "Lowe's",
@@ -281706,7 +281675,7 @@
     ],
     "updated_at": "",
     "first_seen_at": "2026-10-10T12:42:10.044399+00:00",
-    "enriched_at": "2026-10-31T21:41:59.820455+00:00"
+    "enriched_at": "2026-11-07T21:58:29.212823+00:00"
   },
   {
     "company": "Lowe's",
@@ -281731,7 +281700,7 @@
     ],
     "updated_at": "",
     "first_seen_at": "2026-10-10T12:42:10.044399+00:00",
-    "enriched_at": "2026-10-31T21:41:59.831527+00:00"
+    "enriched_at": "2026-11-07T21:58:29.220017+00:00"
   },
   {
     "company": "Lowe's",
@@ -281756,7 +281725,7 @@
     ],
     "updated_at": "",
     "first_seen_at": "2026-10-10T12:42:10.044399+00:00",
-    "enriched_at": "2026-10-31T21:41:59.838484+00:00"
+    "enriched_at": "2026-11-07T21:58:29.228985+00:00"
   },
   {
     "company": "Lowe's",
@@ -281783,7 +281752,7 @@
     ],
     "updated_at": "",
     "first_seen_at": "2026-10-10T12:42:10.044399+00:00",
-    "enriched_at": "2026-10-31T21:41:59.845420+00:00"
+    "enriched_at": "2026-11-07T21:58:29.237974+00:00"
   },
   {
     "company": "Lowe's",
@@ -281808,7 +281777,7 @@
     ],
     "updated_at": "",
     "first_seen_at": "2026-10-10T12:42:10.044399+00:00",
-    "enriched_at": "2026-10-31T21:41:59.852424+00:00"
+    "enriched_at": "2026-11-07T21:58:29.247004+00:00"
   },
   {
     "company": "Lowe's",
@@ -281833,7 +281802,7 @@
     ],
     "updated_at": "",
     "first_seen_at": "2026-10-10T12:42:10.044399+00:00",
-    "enriched_at": "2026-10-31T21:41:59.864601+00:00"
+    "enriched_at": "2026-11-07T21:58:29.255569+00:00"
   },
   {
     "company": "Lowe's",
@@ -281858,7 +281827,7 @@
     ],
     "updated_at": "",
     "first_seen_at": "2026-10-10T12:42:10.044399+00:00",
-    "enriched_at": "2026-10-31T21:41:59.873603+00:00"
+    "enriched_at": "2026-11-07T21:58:29.267242+00:00"
   },
   {
     "company": "Lowe's",
@@ -283938,31 +283907,6 @@
   {
     "company": "Lowe's",
     "fortune_rank": 52,
-    "title": "Full Time - Merchandising Service Associate - Day",
-    "location": "West Carrollton, OH (Dayton Mall) 0203",
-    "url": "https://lowes.wd5.myworkdayjobs.com/en-US/LWS_External_CS/job/West-Carrollton-OH-Dayton-Mall-0203/Full-Time---Merchandising-Service-Associate---Day_JR-02672108",
-    "source": "workday",
-    "external_id": "/job/West-Carrollton-OH-Dayton-Mall-0203/Full-Time---Merchandising-Service-Associate---Day_JR-02672108",
-    "employment_type": "full-time",
-    "category": "Other",
-    "h1b_status": "unknown",
-    "sponsorship_evidence": "",
-    "h1b_mentioned": false,
-    "salary_min": null,
-    "salary_max": null,
-    "salary_currency": "",
-    "salary_period": "",
-    "salary_text": "",
-    "keywords": [
-      "sales"
-    ],
-    "updated_at": "",
-    "first_seen_at": "2026-10-06T00:18:57.741501+00:00",
-    "enriched_at": "2026-11-03T14:27:03.793593+00:00"
-  },
-  {
-    "company": "Lowe's",
-    "fortune_rank": 52,
     "title": "Full Time - Sales Associate - Flooring - Opening",
     "location": "Appleton, WI (Buchanan) 2486",
     "url": "https://lowes.wd5.myworkdayjobs.com/en-US/LWS_External_CS/job/Appleton-WI-Buchanan-2486/Full-Time---Sales-Associate---Flooring---Opening_JR-02672072",
@@ -284193,32 +284137,6 @@
     "updated_at": "",
     "first_seen_at": "2026-10-05T14:50:49.269819+00:00",
     "enriched_at": "2026-11-03T01:09:59.881326+00:00"
-  },
-  {
-    "company": "Lowe's",
-    "fortune_rank": 52,
-    "title": "Market Delivery Warehouse Associate - Days",
-    "location": "Passaic, NJ (XDT) 3961",
-    "url": "https://lowes.wd5.myworkdayjobs.com/en-US/LWS_External_CS/job/Passaic-NJ-XDT-3961/Market-Delivery-Warehouse-Associate---Days_JR-02661353",
-    "source": "workday",
-    "external_id": "/job/Passaic-NJ-XDT-3961/Market-Delivery-Warehouse-Associate---Days_JR-02661353",
-    "employment_type": "full-time",
-    "category": "Operations & Supply Chain",
-    "h1b_status": "unknown",
-    "sponsorship_evidence": "",
-    "h1b_mentioned": false,
-    "salary_min": 21.0,
-    "salary_max": 25.6,
-    "salary_currency": "USD",
-    "salary_period": "hour",
-    "salary_text": "$21.00 - $25.60 per hour",
-    "keywords": [
-      "logistics",
-      "sales"
-    ],
-    "updated_at": "",
-    "first_seen_at": "2026-10-05T14:50:49.269819+00:00",
-    "enriched_at": "2026-11-03T01:09:59.888226+00:00"
   },
   {
     "company": "Lowe's",
@@ -284455,7 +284373,7 @@
     ],
     "updated_at": "",
     "first_seen_at": "2026-11-03T23:36:52.662087+00:00",
-    "enriched_at": "2026-10-31T21:41:59.879671+00:00"
+    "enriched_at": "2026-11-07T21:58:29.275111+00:00"
   },
   {
     "company": "Lowe's",
@@ -284480,7 +284398,7 @@
     ],
     "updated_at": "",
     "first_seen_at": "2026-11-03T23:36:52.662087+00:00",
-    "enriched_at": "2026-10-31T21:41:59.886293+00:00"
+    "enriched_at": "2026-11-07T21:58:29.283645+00:00"
   },
   {
     "company": "Lowe's",
@@ -284505,7 +284423,7 @@
     ],
     "updated_at": "",
     "first_seen_at": "2026-11-03T23:36:52.662087+00:00",
-    "enriched_at": "2026-10-31T21:41:59.902137+00:00"
+    "enriched_at": "2026-11-07T21:58:29.295176+00:00"
   },
   {
     "company": "Lowe's",
@@ -284530,7 +284448,7 @@
     ],
     "updated_at": "",
     "first_seen_at": "2026-11-03T23:36:52.662087+00:00",
-    "enriched_at": "2026-10-31T21:41:59.909077+00:00"
+    "enriched_at": "2026-11-07T21:58:29.304120+00:00"
   },
   {
     "company": "Lowe's",
@@ -285129,56 +285047,6 @@
     "updated_at": "",
     "first_seen_at": "2026-09-30T22:30:14.606761+00:00",
     "enriched_at": "2026-11-05T06:58:18.190808+00:00"
-  },
-  {
-    "company": "Lowe's",
-    "fortune_rank": 52,
-    "title": "Full Time - Sales Associate - Building Materials - Closing",
-    "location": "Sarasota, FL (NE Sarasota) 1935",
-    "url": "https://lowes.wd5.myworkdayjobs.com/en-US/LWS_External_CS/job/Sarasota-FL-NE-Sarasota-1935/Full-Time---Sales-Associate---Building-Materials---Closing_JR-02660572",
-    "source": "workday",
-    "external_id": "/job/Sarasota-FL-NE-Sarasota-1935/Full-Time---Sales-Associate---Building-Materials---Closing_JR-02660572",
-    "employment_type": "full-time",
-    "category": "Sales & Marketing",
-    "h1b_status": "unknown",
-    "sponsorship_evidence": "",
-    "h1b_mentioned": false,
-    "salary_min": null,
-    "salary_max": null,
-    "salary_currency": "",
-    "salary_period": "",
-    "salary_text": "",
-    "keywords": [
-      "sales"
-    ],
-    "updated_at": "",
-    "first_seen_at": "2026-09-29T22:28:40.118786+00:00",
-    "enriched_at": "2026-11-05T06:58:18.196094+00:00"
-  },
-  {
-    "company": "Lowe's",
-    "fortune_rank": 52,
-    "title": "Full Time - Sales Associate - Building Materials - Closing",
-    "location": "Sarasota, FL (NE Sarasota) 1935",
-    "url": "https://lowes.wd5.myworkdayjobs.com/en-US/LWS_External_CS/job/Sarasota-FL-NE-Sarasota-1935/Full-Time---Sales-Associate---Building-Materials---Closing_JR-02660571",
-    "source": "workday",
-    "external_id": "/job/Sarasota-FL-NE-Sarasota-1935/Full-Time---Sales-Associate---Building-Materials---Closing_JR-02660571",
-    "employment_type": "full-time",
-    "category": "Sales & Marketing",
-    "h1b_status": "unknown",
-    "sponsorship_evidence": "",
-    "h1b_mentioned": false,
-    "salary_min": null,
-    "salary_max": null,
-    "salary_currency": "",
-    "salary_period": "",
-    "salary_text": "",
-    "keywords": [
-      "sales"
-    ],
-    "updated_at": "",
-    "first_seen_at": "2026-09-29T22:28:40.118786+00:00",
-    "enriched_at": "2026-11-05T06:58:18.204736+00:00"
   },
   {
     "company": "Lowe's",
@@ -286224,7 +286092,7 @@
     ],
     "updated_at": "",
     "first_seen_at": "2026-11-03T23:36:52.662087+00:00",
-    "enriched_at": "2026-10-31T21:41:59.955905+00:00"
+    "enriched_at": "2026-11-07T21:58:29.312764+00:00"
   },
   {
     "company": "Lowe's",
@@ -286249,7 +286117,7 @@
     ],
     "updated_at": "",
     "first_seen_at": "2026-09-25T21:47:26.928317+00:00",
-    "enriched_at": "2026-10-31T21:41:59.965586+00:00"
+    "enriched_at": "2026-11-07T21:58:29.317014+00:00"
   },
   {
     "company": "Lowe's",
@@ -286275,7 +286143,7 @@
     ],
     "updated_at": "",
     "first_seen_at": "2026-10-01T22:55:30.968656+00:00",
-    "enriched_at": "2026-10-31T21:41:59.972411+00:00"
+    "enriched_at": "2026-11-07T21:58:29.326049+00:00"
   },
   {
     "company": "Lowe's",
@@ -286300,7 +286168,7 @@
     ],
     "updated_at": "",
     "first_seen_at": "2026-09-25T21:47:26.928317+00:00",
-    "enriched_at": "2026-10-31T21:41:59.975677+00:00"
+    "enriched_at": "2026-11-07T21:58:29.330296+00:00"
   },
   {
     "company": "Lowe's",
@@ -286325,7 +286193,7 @@
     ],
     "updated_at": "",
     "first_seen_at": "2026-09-25T21:47:26.928317+00:00",
-    "enriched_at": "2026-10-31T21:41:59.982599+00:00"
+    "enriched_at": "2026-11-07T21:58:29.339289+00:00"
   },
   {
     "company": "Lowe's",
@@ -286350,7 +286218,7 @@
     ],
     "updated_at": "",
     "first_seen_at": "2026-09-25T21:47:26.928317+00:00",
-    "enriched_at": "2026-10-31T21:41:59.989548+00:00"
+    "enriched_at": "2026-11-07T21:58:29.348189+00:00"
   },
   {
     "company": "Lowe's",
@@ -286376,7 +286244,7 @@
     ],
     "updated_at": "",
     "first_seen_at": "2026-09-25T21:47:26.928317+00:00",
-    "enriched_at": "2026-10-31T21:41:59.996559+00:00"
+    "enriched_at": "2026-11-07T21:58:29.357039+00:00"
   },
   {
     "company": "Lowe's",
@@ -286402,7 +286270,7 @@
     ],
     "updated_at": "",
     "first_seen_at": "2026-09-25T21:47:26.928317+00:00",
-    "enriched_at": "2026-10-31T21:42:00.002347+00:00"
+    "enriched_at": "2026-11-07T21:58:29.364209+00:00"
   },
   {
     "company": "Lowe's",
@@ -286428,7 +286296,7 @@
     ],
     "updated_at": "",
     "first_seen_at": "2026-09-25T21:47:26.928317+00:00",
-    "enriched_at": "2026-10-31T21:42:00.008135+00:00"
+    "enriched_at": "2026-11-07T21:58:29.371663+00:00"
   },
   {
     "company": "Lowe's",
@@ -286457,7 +286325,7 @@
     ],
     "updated_at": "",
     "first_seen_at": "2026-09-25T21:47:26.928317+00:00",
-    "enriched_at": "2026-10-31T21:42:00.013418+00:00"
+    "enriched_at": "2026-11-07T21:58:29.378474+00:00"
   },
   {
     "company": "Lowe's",
@@ -286483,7 +286351,7 @@
     ],
     "updated_at": "",
     "first_seen_at": "2026-09-25T21:47:26.928317+00:00",
-    "enriched_at": "2026-10-31T21:42:00.025218+00:00"
+    "enriched_at": "2026-11-07T21:58:29.384774+00:00"
   },
   {
     "company": "Lowe's",
@@ -286590,7 +286458,7 @@
     ],
     "updated_at": "",
     "first_seen_at": "2026-09-11T21:11:24.093992+00:00",
-    "enriched_at": "2026-10-31T21:42:00.044772+00:00"
+    "enriched_at": "2026-11-07T21:58:29.388982+00:00"
   },
   {
     "company": "Lowe's",
@@ -287604,7 +287472,7 @@
     ],
     "updated_at": "",
     "first_seen_at": "2026-08-28T22:33:12.377535+00:00",
-    "enriched_at": "2026-10-31T21:42:00.099091+00:00"
+    "enriched_at": "2026-11-07T21:58:29.394647+00:00"
   },
   {
     "company": "Lowe's",
@@ -287631,7 +287499,7 @@
     ],
     "updated_at": "",
     "first_seen_at": "2026-08-28T22:33:12.377535+00:00",
-    "enriched_at": "2026-10-31T21:42:00.106026+00:00"
+    "enriched_at": "2026-11-07T21:58:29.403615+00:00"
   },
   {
     "company": "Lowe's",
@@ -288004,7 +287872,7 @@
     ],
     "updated_at": "",
     "first_seen_at": "2026-08-21T13:22:21.130204+00:00",
-    "enriched_at": "2026-10-31T21:42:00.111642+00:00"
+    "enriched_at": "2026-11-07T21:58:29.410893+00:00"
   },
   {
     "company": "Lowe's",
@@ -288799,32 +288667,6 @@
     "enriched_at": "2026-11-07T06:07:35.135925+00:00"
   },
   {
-    "company": "Sysco",
-    "fortune_rank": 55,
-    "title": "Sales Consultant",
-    "location": "Sysco Central Illinois",
-    "url": "https://sysco.wd5.myworkdayjobs.com/en-US/syscocareers/job/Sysco-Central-Illinois/Sales-Consultant_R262301",
-    "source": "workday",
-    "external_id": "/job/Sysco-Central-Illinois/Sales-Consultant_R262301",
-    "employment_type": "full-time",
-    "category": "Sales & Marketing",
-    "h1b_status": "unknown",
-    "sponsorship_evidence": "",
-    "h1b_mentioned": false,
-    "salary_min": null,
-    "salary_max": null,
-    "salary_currency": "",
-    "salary_period": "",
-    "salary_text": "",
-    "keywords": [
-      "sales",
-      "compliance"
-    ],
-    "updated_at": "",
-    "first_seen_at": "2026-11-07T06:10:10.671072+00:00",
-    "enriched_at": "2026-11-07T06:07:35.148496+00:00"
-  },
-  {
     "company": "Allstate",
     "fortune_rank": 64,
     "title": "Territory Sales Manager (Phoenix)",
@@ -289161,6 +289003,32 @@
     "updated_at": "",
     "first_seen_at": "2026-11-05T20:12:45.563908+00:00",
     "enriched_at": "2026-11-05T20:09:36.694151+00:00"
+  },
+  {
+    "company": "Caterpillar",
+    "fortune_rank": 65,
+    "title": "Senior Manufacturing Support - Facility Maintenance",
+    "location": "Clayton, North Carolina",
+    "url": "https://cat.wd5.myworkdayjobs.com/en-US/CaterpillarCareers/job/Clayton-North-Carolina/Senior-Manufacturing-Support---Facility-Maintenance_R0000401844",
+    "source": "workday",
+    "external_id": "/job/Clayton-North-Carolina/Senior-Manufacturing-Support---Facility-Maintenance_R0000401844",
+    "employment_type": "full-time",
+    "category": "Other",
+    "h1b_status": "unknown",
+    "sponsorship_evidence": "",
+    "h1b_mentioned": false,
+    "salary_min": null,
+    "salary_max": null,
+    "salary_currency": "",
+    "salary_period": "",
+    "salary_text": "",
+    "keywords": [
+      "Excel",
+      "CAD"
+    ],
+    "updated_at": "",
+    "first_seen_at": "2026-11-07T22:00:43.118409+00:00",
+    "enriched_at": "2026-11-07T21:58:34.494574+00:00"
   },
   {
     "company": "Caterpillar",
@@ -289762,33 +289630,6 @@
     "updated_at": "",
     "first_seen_at": "2026-11-06T19:38:16.210775+00:00",
     "enriched_at": "2026-11-06T19:35:25.787025+00:00"
-  },
-  {
-    "company": "Caterpillar",
-    "fortune_rank": 65,
-    "title": "Senior Corporate Counsel - Global Investigations",
-    "location": "Irving, Texas",
-    "url": "https://cat.wd5.myworkdayjobs.com/en-US/CaterpillarCareers/job/Irving-Texas/Senior-Corporate-Counsel---Global-Investigations_R0000400987",
-    "source": "workday",
-    "external_id": "/job/Irving-Texas/Senior-Corporate-Counsel---Global-Investigations_R0000400987",
-    "employment_type": "full-time",
-    "category": "People & Legal",
-    "h1b_status": "unknown",
-    "sponsorship_evidence": "",
-    "h1b_mentioned": false,
-    "salary_min": null,
-    "salary_max": null,
-    "salary_currency": "",
-    "salary_period": "",
-    "salary_text": "",
-    "keywords": [
-      "risk management",
-      "compliance",
-      "legal"
-    ],
-    "updated_at": "",
-    "first_seen_at": "2026-11-06T19:38:16.210775+00:00",
-    "enriched_at": "2026-11-06T19:35:25.803637+00:00"
   },
   {
     "company": "Prudential Financial",
@@ -290788,7 +290629,7 @@
     ],
     "updated_at": "",
     "first_seen_at": "2026-09-04T20:58:47.826318+00:00",
-    "enriched_at": "2026-10-31T21:42:30.761950+00:00"
+    "enriched_at": "2026-11-07T21:58:58.582397+00:00"
   },
   {
     "company": "Cisco Systems",
@@ -293700,7 +293541,7 @@
     ],
     "updated_at": "",
     "first_seen_at": "2026-10-26T13:16:47.397549+00:00",
-    "enriched_at": "2026-10-31T21:42:30.769289+00:00"
+    "enriched_at": "2026-11-07T21:58:58.591884+00:00"
   },
   {
     "company": "Cisco Systems",
@@ -294293,7 +294134,7 @@
     ],
     "updated_at": "",
     "first_seen_at": "2026-09-16T21:31:34.745587+00:00",
-    "enriched_at": "2026-10-31T21:42:30.776866+00:00"
+    "enriched_at": "2026-11-07T21:58:58.601692+00:00"
   },
   {
     "company": "Cisco Systems",
@@ -296264,7 +296105,7 @@
     ],
     "updated_at": "",
     "first_seen_at": "2026-10-10T12:42:10.044399+00:00",
-    "enriched_at": "2026-10-31T21:42:30.784607+00:00"
+    "enriched_at": "2026-11-07T21:58:58.611602+00:00"
   },
   {
     "company": "Cisco Systems",
@@ -296472,7 +296313,7 @@
     ],
     "updated_at": "",
     "first_seen_at": "2026-10-03T11:49:36.393698+00:00",
-    "enriched_at": "2026-10-31T21:42:30.794294+00:00"
+    "enriched_at": "2026-11-07T21:58:58.624076+00:00"
   },
   {
     "company": "Cisco Systems",
@@ -296752,7 +296593,7 @@
     ],
     "updated_at": "",
     "first_seen_at": "2026-09-25T05:10:09.019400+00:00",
-    "enriched_at": "2026-10-31T21:42:30.801743+00:00"
+    "enriched_at": "2026-11-07T21:58:58.633746+00:00"
   },
   {
     "company": "Cisco Systems",
@@ -296863,7 +296704,7 @@
     ],
     "updated_at": "",
     "first_seen_at": "2026-09-16T05:01:44.516712+00:00",
-    "enriched_at": "2026-10-31T21:42:30.810641+00:00"
+    "enriched_at": "2026-11-07T21:58:58.645214+00:00"
   },
   {
     "company": "Cisco Systems",
@@ -296970,7 +296811,7 @@
     ],
     "updated_at": "",
     "first_seen_at": "2026-08-28T22:33:12.377535+00:00",
-    "enriched_at": "2026-10-31T21:42:30.819272+00:00"
+    "enriched_at": "2026-11-07T21:58:58.656436+00:00"
   },
   {
     "company": "Cisco Systems",
@@ -301332,7 +301173,7 @@
     ],
     "updated_at": "",
     "first_seen_at": "2026-09-12T04:45:11.324524+00:00",
-    "enriched_at": "2026-10-31T21:42:47.872620+00:00"
+    "enriched_at": "2026-11-07T21:59:13.006001+00:00"
   },
   {
     "company": "Nike",
@@ -301360,7 +301201,7 @@
     ],
     "updated_at": "",
     "first_seen_at": "2026-09-12T04:45:11.324524+00:00",
-    "enriched_at": "2026-10-31T21:42:47.876647+00:00"
+    "enriched_at": "2026-11-07T21:59:13.012399+00:00"
   },
   {
     "company": "Nike",
@@ -301440,7 +301281,7 @@
     "keywords": [],
     "updated_at": "",
     "first_seen_at": "2026-09-04T20:58:47.826318+00:00",
-    "enriched_at": "2026-10-31T21:42:47.880845+00:00"
+    "enriched_at": "2026-11-07T21:59:13.018013+00:00"
   },
   {
     "company": "Nike",
@@ -301678,7 +301519,7 @@
     "keywords": [],
     "updated_at": "",
     "first_seen_at": "2026-08-21T13:22:21.130204+00:00",
-    "enriched_at": "2026-10-31T21:42:47.885925+00:00"
+    "enriched_at": "2026-11-07T21:59:13.024760+00:00"
   },
   {
     "company": "Nike",
@@ -308724,7 +308565,7 @@
     ],
     "updated_at": "",
     "first_seen_at": "2026-08-21T19:08:25.182473+00:00",
-    "enriched_at": "2026-10-31T21:43:51.806957+00:00"
+    "enriched_at": "2026-11-07T22:00:18.159407+00:00"
   },
   {
     "company": "Thermo Fisher Scientific",
@@ -310347,7 +310188,7 @@
     "keywords": [],
     "updated_at": "",
     "first_seen_at": "2026-09-12T04:45:11.324524+00:00",
-    "enriched_at": "2026-10-31T21:43:51.668002+00:00"
+    "enriched_at": "2026-11-07T22:00:18.168374+00:00"
   },
   {
     "company": "Thermo Fisher Scientific",
@@ -310370,7 +310211,7 @@
     "keywords": [],
     "updated_at": "",
     "first_seen_at": "2026-09-12T04:45:11.324524+00:00",
-    "enriched_at": "2026-10-31T21:43:51.670416+00:00"
+    "enriched_at": "2026-11-07T22:00:18.171381+00:00"
   },
   {
     "company": "Thermo Fisher Scientific",
@@ -312052,7 +311893,7 @@
     ],
     "updated_at": "",
     "first_seen_at": "2026-09-11T21:11:24.093992+00:00",
-    "enriched_at": "2026-10-31T21:43:51.672707+00:00"
+    "enriched_at": "2026-11-07T22:00:18.174313+00:00"
   },
   {
     "company": "Thermo Fisher Scientific",
@@ -320476,7 +320317,7 @@
     ],
     "updated_at": "",
     "first_seen_at": "2026-09-12T04:45:11.324524+00:00",
-    "enriched_at": "2026-10-31T21:43:51.688430+00:00"
+    "enriched_at": "2026-11-07T22:00:18.186838+00:00"
   },
   {
     "company": "Thermo Fisher Scientific",
@@ -320501,7 +320342,7 @@
     ],
     "updated_at": "",
     "first_seen_at": "2026-09-04T20:58:47.826318+00:00",
-    "enriched_at": "2026-10-31T21:43:51.691769+00:00"
+    "enriched_at": "2026-11-07T22:00:18.191216+00:00"
   },
   {
     "company": "Thermo Fisher Scientific",
@@ -321038,7 +320879,7 @@
     ],
     "updated_at": "",
     "first_seen_at": "2026-09-26T05:09:48.706401+00:00",
-    "enriched_at": "2026-10-31T21:43:51.694710+00:00"
+    "enriched_at": "2026-11-07T22:00:18.195058+00:00"
   },
   {
     "company": "Thermo Fisher Scientific",
@@ -321071,7 +320912,7 @@
     ],
     "updated_at": "",
     "first_seen_at": "2026-09-26T05:09:48.706401+00:00",
-    "enriched_at": "2026-10-31T21:43:51.704809+00:00"
+    "enriched_at": "2026-11-07T22:00:18.208970+00:00"
   },
   {
     "company": "Thermo Fisher Scientific",
@@ -321538,29 +321379,6 @@
     "updated_at": "",
     "first_seen_at": "2026-09-24T05:01:25.371705+00:00",
     "enriched_at": "2026-11-05T20:11:51.703289+00:00"
-  },
-  {
-    "company": "Thermo Fisher Scientific",
-    "fortune_rank": 106,
-    "title": "DO NOT APPLY - TEST REQ - Staff R&D/Mfg Scientist - Hillsboro US",
-    "location": "Hillsboro, Oregon, USA",
-    "url": "https://thermofisher.wd5.myworkdayjobs.com/en-US/ThermoFisherCareers/job/Hillsboro-Oregon-USA/DO-NOT-APPLY---TEST-REQ---Staff-R-D-Mfg-Scientist---Hillsboro-US_R-01369271",
-    "source": "workday",
-    "external_id": "/job/Hillsboro-Oregon-USA/DO-NOT-APPLY---TEST-REQ---Staff-R-D-Mfg-Scientist---Hillsboro-US_R-01369271",
-    "employment_type": "full-time",
-    "category": "Other",
-    "h1b_status": "unknown",
-    "sponsorship_evidence": "",
-    "h1b_mentioned": false,
-    "salary_min": null,
-    "salary_max": null,
-    "salary_currency": "",
-    "salary_period": "",
-    "salary_text": "",
-    "keywords": [],
-    "updated_at": "",
-    "first_seen_at": "2026-09-24T05:01:25.371705+00:00",
-    "enriched_at": "2026-11-05T20:11:51.703799+00:00"
   },
   {
     "company": "Thermo Fisher Scientific",
@@ -323002,7 +322820,7 @@
     ],
     "updated_at": "",
     "first_seen_at": "2026-09-19T04:48:38.951694+00:00",
-    "enriched_at": "2026-10-31T21:43:51.710614+00:00"
+    "enriched_at": "2026-11-07T22:00:18.216490+00:00"
   },
   {
     "company": "Thermo Fisher Scientific",
@@ -323623,7 +323441,7 @@
     ],
     "updated_at": "",
     "first_seen_at": "2026-09-12T04:45:11.324524+00:00",
-    "enriched_at": "2026-10-31T21:43:51.713462+00:00"
+    "enriched_at": "2026-11-07T22:00:18.220145+00:00"
   },
   {
     "company": "Thermo Fisher Scientific",
@@ -323649,7 +323467,7 @@
     ],
     "updated_at": "",
     "first_seen_at": "2026-09-12T04:45:11.324524+00:00",
-    "enriched_at": "2026-10-31T21:43:51.720966+00:00"
+    "enriched_at": "2026-11-07T22:00:18.230004+00:00"
   },
   {
     "company": "Thermo Fisher Scientific",
@@ -323675,7 +323493,7 @@
     ],
     "updated_at": "",
     "first_seen_at": "2026-09-12T04:45:11.324524+00:00",
-    "enriched_at": "2026-10-31T21:43:51.728317+00:00"
+    "enriched_at": "2026-11-07T22:00:18.239725+00:00"
   },
   {
     "company": "Thermo Fisher Scientific",
@@ -323700,7 +323518,7 @@
     ],
     "updated_at": "",
     "first_seen_at": "2026-09-11T21:11:24.093992+00:00",
-    "enriched_at": "2026-10-31T21:43:51.736539+00:00"
+    "enriched_at": "2026-11-07T22:00:18.250627+00:00"
   },
   {
     "company": "Thermo Fisher Scientific",
@@ -323723,7 +323541,7 @@
     "keywords": [],
     "updated_at": "",
     "first_seen_at": "2026-09-11T21:11:24.093992+00:00",
-    "enriched_at": "2026-10-31T21:43:51.740777+00:00"
+    "enriched_at": "2026-11-07T22:00:18.256204+00:00"
   },
   {
     "company": "Thermo Fisher Scientific",
@@ -323750,7 +323568,7 @@
     ],
     "updated_at": "",
     "first_seen_at": "2026-09-11T21:11:24.093992+00:00",
-    "enriched_at": "2026-10-31T21:43:51.749048+00:00"
+    "enriched_at": "2026-11-07T22:00:18.267114+00:00"
   },
   {
     "company": "Thermo Fisher Scientific",
@@ -323780,7 +323598,7 @@
     ],
     "updated_at": "",
     "first_seen_at": "2026-09-11T21:11:24.093992+00:00",
-    "enriched_at": "2026-10-31T21:43:51.753296+00:00"
+    "enriched_at": "2026-11-07T22:00:18.272789+00:00"
   },
   {
     "company": "Thermo Fisher Scientific",
@@ -323805,7 +323623,7 @@
     ],
     "updated_at": "",
     "first_seen_at": "2026-09-11T21:11:24.093992+00:00",
-    "enriched_at": "2026-10-31T21:43:51.758002+00:00"
+    "enriched_at": "2026-11-07T22:00:18.279057+00:00"
   },
   {
     "company": "Thermo Fisher Scientific",
@@ -324389,7 +324207,7 @@
     ],
     "updated_at": "",
     "first_seen_at": "2026-09-04T20:58:47.826318+00:00",
-    "enriched_at": "2026-10-31T21:43:51.762669+00:00"
+    "enriched_at": "2026-11-07T22:00:18.285332+00:00"
   },
   {
     "company": "Thermo Fisher Scientific",
@@ -324414,7 +324232,7 @@
     ],
     "updated_at": "",
     "first_seen_at": "2026-09-04T20:58:47.826318+00:00",
-    "enriched_at": "2026-10-31T21:43:51.768791+00:00"
+    "enriched_at": "2026-11-07T22:00:18.293443+00:00"
   },
   {
     "company": "Thermo Fisher Scientific",
@@ -324440,7 +324258,7 @@
     ],
     "updated_at": "",
     "first_seen_at": "2026-09-04T20:58:47.826318+00:00",
-    "enriched_at": "2026-10-31T21:43:51.774974+00:00"
+    "enriched_at": "2026-11-07T22:00:18.301533+00:00"
   },
   {
     "company": "Thermo Fisher Scientific",
@@ -324466,7 +324284,7 @@
     ],
     "updated_at": "",
     "first_seen_at": "2026-09-04T20:58:47.826318+00:00",
-    "enriched_at": "2026-10-31T21:43:51.783370+00:00"
+    "enriched_at": "2026-11-07T22:00:18.312664+00:00"
   },
   {
     "company": "Thermo Fisher Scientific",
@@ -324777,7 +324595,7 @@
     ],
     "updated_at": "",
     "first_seen_at": "2026-08-28T22:33:12.377535+00:00",
-    "enriched_at": "2026-10-31T21:43:51.787911+00:00"
+    "enriched_at": "2026-11-07T22:00:18.318663+00:00"
   },
   {
     "company": "Thermo Fisher Scientific",
@@ -324802,7 +324620,7 @@
     ],
     "updated_at": "",
     "first_seen_at": "2026-08-28T22:33:12.377535+00:00",
-    "enriched_at": "2026-10-31T21:43:51.795572+00:00"
+    "enriched_at": "2026-11-07T22:00:18.328862+00:00"
   },
   {
     "company": "Thermo Fisher Scientific",
@@ -325106,7 +324924,7 @@
     ],
     "updated_at": "",
     "first_seen_at": "2026-08-21T19:08:25.182473+00:00",
-    "enriched_at": "2026-10-31T21:43:51.800482+00:00"
+    "enriched_at": "2026-11-07T22:00:18.335401+00:00"
   },
   {
     "company": "Thermo Fisher Scientific",
@@ -326824,6 +326642,31 @@
     "updated_at": "",
     "first_seen_at": "2026-08-15T02:30:47.614898+00:00",
     "enriched_at": "2026-11-01T06:15:40.986117+00:00"
+  },
+  {
+    "company": "U.S. Bancorp",
+    "fortune_rank": 110,
+    "title": "Relationship Banker - Benton- $1500 Sign-on Bonus",
+    "location": "Benton, IL",
+    "url": "https://usbank.wd1.myworkdayjobs.com/en-US/US_Bank_Careers/job/Benton-IL/Relationship-Banker---Benton_2026-0034706",
+    "source": "workday",
+    "external_id": "/job/Benton-IL/Relationship-Banker---Benton_2026-0034706",
+    "employment_type": "full-time",
+    "category": "Other",
+    "h1b_status": "unknown",
+    "sponsorship_evidence": "",
+    "h1b_mentioned": false,
+    "salary_min": null,
+    "salary_max": null,
+    "salary_currency": "",
+    "salary_period": "",
+    "salary_text": "",
+    "keywords": [
+      "Excel"
+    ],
+    "updated_at": "",
+    "first_seen_at": "2026-11-07T22:00:43.118409+00:00",
+    "enriched_at": "2026-11-06T06:56:41.275594+00:00"
   },
   {
     "company": "U.S. Bancorp",
@@ -373495,29 +373338,6 @@
   {
     "company": "Broadcom",
     "fortune_rank": 70,
-    "title": "Government Affairs Specialist",
-    "location": "USA-DC Washington 14th Street NW",
-    "url": "https://broadcom.wd1.myworkdayjobs.com/en-US/External_Career/job/USA-DC-Washington-14th-Street-NW/Government-Affairs-Specialist_R027731",
-    "source": "workday",
-    "external_id": "/job/USA-DC-Washington-14th-Street-NW/Government-Affairs-Specialist_R027731",
-    "employment_type": "full-time",
-    "category": "Other",
-    "h1b_status": "unknown",
-    "sponsorship_evidence": "",
-    "h1b_mentioned": false,
-    "salary_min": null,
-    "salary_max": null,
-    "salary_currency": "",
-    "salary_period": "",
-    "salary_text": "",
-    "keywords": [],
-    "updated_at": "",
-    "first_seen_at": "2026-11-07T06:10:10.671072+00:00",
-    "enriched_at": "2026-11-07T06:10:02.299537+00:00"
-  },
-  {
-    "company": "Broadcom",
-    "fortune_rank": 70,
     "title": "ASIC Emulation and Verification Engineer",
     "location": "USA-CA San Jose Innovation Drive",
     "url": "https://broadcom.wd1.myworkdayjobs.com/en-US/External_Career/job/USA-CA-San-Jose-Innovation-Drive/ASIC-Emulation-and-Verification-Engineer_R027621",
@@ -374062,11 +373882,11 @@
     "salary_period": "",
     "salary_text": "",
     "keywords": [
-      "Python"
+      "recruiting"
     ],
     "updated_at": "",
     "first_seen_at": "2026-08-28T22:33:12.377535+00:00",
-    "enriched_at": "2026-10-31T21:44:09.435585+00:00"
+    "enriched_at": "2026-11-07T22:00:34.559549+00:00"
   },
   {
     "company": "Broadcom",
@@ -376293,7 +376113,7 @@
     "keywords": [],
     "updated_at": "",
     "first_seen_at": "2026-09-11T21:11:24.093992+00:00",
-    "enriched_at": "2026-10-31T21:44:09.428470+00:00"
+    "enriched_at": "2026-11-07T22:00:34.568103+00:00"
   },
   {
     "company": "Broadcom",
@@ -376473,7 +376293,7 @@
     ],
     "updated_at": "",
     "first_seen_at": "2026-08-28T22:33:12.377535+00:00",
-    "enriched_at": "2026-10-31T21:44:09.432115+00:00"
+    "enriched_at": "2026-11-07T22:00:34.572904+00:00"
   },
   {
     "company": "Broadcom",
@@ -376496,7 +376316,7 @@
     "keywords": [],
     "updated_at": "",
     "first_seen_at": "2026-08-28T22:33:12.377535+00:00",
-    "enriched_at": "2026-10-31T21:44:09.440231+00:00"
+    "enriched_at": "2026-11-07T22:00:34.577442+00:00"
   },
   {
     "company": "Broadcom",
@@ -377937,6 +377757,32 @@
     "updated_at": "",
     "first_seen_at": "2026-10-14T21:54:19.458910+00:00",
     "enriched_at": "2026-11-05T07:01:29.363094+00:00"
+  },
+  {
+    "company": "Marvell Technology",
+    "fortune_rank": 476,
+    "title": "Design For Test Intern, MS - Summer 2027",
+    "location": "Santa Clara, CA",
+    "url": "https://marvell.wd1.myworkdayjobs.com/en-US/MarvellCareers/job/Santa-Clara-CA/Design-For-Test-Intern--MS---Summer-2027_2603788-1",
+    "source": "workday",
+    "external_id": "/job/Santa-Clara-CA/Design-For-Test-Intern--MS---Summer-2027_2603788-1",
+    "employment_type": "internship",
+    "category": "Other",
+    "h1b_status": "unknown",
+    "sponsorship_evidence": "",
+    "h1b_mentioned": false,
+    "salary_min": null,
+    "salary_max": null,
+    "salary_currency": "",
+    "salary_period": "",
+    "salary_text": "",
+    "keywords": [
+      "Python",
+      "electrical engineering"
+    ],
+    "updated_at": "",
+    "first_seen_at": "2026-11-07T22:00:43.118409+00:00",
+    "enriched_at": "2026-11-07T22:00:42.307827+00:00"
   },
   {
     "company": "Marvell Technology",
