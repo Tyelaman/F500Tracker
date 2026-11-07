@@ -1,29 +1,24 @@
 # F500Tracker internships
 
-Last updated: November 07, 2026 at 06:10 UTC
+Last updated: November 07, 2026 at 13:10 UTC
 
-Current internships: 380
+Current internships: 370
 
 ## Categories
 
-[Software & IT (44)](#software-it) · [Data & AI (9)](#data-ai) · [Product & Design (3)](#product-design) · [Engineering (46)](#engineering) · [Finance & Accounting (6)](#finance-accounting) · [Sales & Marketing (10)](#sales-marketing) · [Operations & Supply Chain (25)](#operations-supply-chain) · [People & Legal (2)](#people-legal) · [Other (235)](#other)
+[Software & IT (39)](#software-it) · [Data & AI (9)](#data-ai) · [Product & Design (3)](#product-design) · [Engineering (45)](#engineering) · [Finance & Accounting (6)](#finance-accounting) · [Sales & Marketing (10)](#sales-marketing) · [Operations & Supply Chain (24)](#operations-supply-chain) · [People & Legal (2)](#people-legal) · [Other (232)](#other)
 
 <a id="software-it"></a>
 
 ## Software & IT
 
-Open positions: 44
+Open positions: 39
 
 | Rank | Company | Position | Location | Category | Salary | Keywords | Sponsorship | Apply |
 |---:|---|---|---|---|---|---|---|---|
 | 329 | DoorDash | Software Engineer, Intern - Labs (Summer 2027) | San Francisco, CA; Sunnyvale, CA | Software & IT | Not disclosed | Python · Java · SQL · AWS · machine learning | Not specified | [Apply](https://job-boards.greenhouse.io/doordashusa/jobs/8263774) |
 | 329 | DoorDash | Software Engineer, Intern (Summer 2027) - US | New York, NY; San Francisco, CA; Sunnyvale, CA; Los Angeles, CA; Seattle, WA | Software & IT | Not disclosed | Python · Java · SQL · AWS · Excel | Not specified | [Apply](https://job-boards.greenhouse.io/doordashusa/jobs/8171041) |
 | 112 | Northrop Grumman | 2027 Systems Engineer Intern - Cape Canaveral FL | United States-Florida-Cape Canaveral | Software & IT | $18.5–$33.5/hr | mechanical engineering · electrical engineering | Not specified | [Apply](https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-Florida-Cape-Canaveral/XMLNAME-2027-Systems-Engineer-Intern---Cape-Canaveral-FL_R10251849) |
-| 112 | Northrop Grumman | 2027 Spring Co-op Software Engineer Intern – McClellan CA | United States-California-McClellan | Software & IT | $21.5–$39/hr | Python · machine learning | Not specified | [Apply](https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-California-McClellan/XMLNAME-2027-Spring-Co-op-Software-Engineer-Intern---McClellan-CA_R10259329) |
-| 112 | Northrop Grumman | 2027 Software Engineering Intern - Roy UT | United States-Utah-Roy | Software & IT | $23–$29/hr | — | Not specified | [Apply](https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-Utah-Roy/XMLNAME-2027-Software-Engineering-Intern---Roy-UT_R10259181) |
-| 112 | Northrop Grumman | 2027 Software Test Engineering Intern - Roy UT | United States-Utah-Roy | Software & IT | $23–$29/hr | — | Not specified | [Apply](https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-Utah-Roy/XMLNAME-2027-Software-Test-Engineering-Intern---Roy-UT_R10259179) |
-| 112 | Northrop Grumman | 2027 DevOps Software Engineering Intern - Roy UT | United States-Utah-Roy | Software & IT | $23–$29/hr | Kubernetes | Not specified | [Apply](https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-Utah-Roy/XMLNAME-2027-DevOps-Software-Engineering-Intern---Roy-UT_R10259178) |
-| 112 | Northrop Grumman | 2027 Cybersecurity Software Engineering Intern - Roy UT | United States-Utah-Clearfield | Software & IT | $23–$29/hr | compliance | Not specified | [Apply](https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-Utah-Clearfield/XMLNAME-2027-Cybersecurity-Software-Engineering-Intern---Roy-UT_R10259177) |
 | 112 | Northrop Grumman | 2027 Software Engineering Intern - Colorado Springs | United States-Colorado-Colorado Springs | Software & IT | $24.25–$30.5/hr | — | Not specified | [Apply](https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-Colorado-Colorado-Springs/XMLNAME-2027-Software-Engineering-Intern---Colorado-Springs_R10257803) |
 | 112 | Northrop Grumman | 2027 Software Engineering Intern - Colorado Springs | United States-Colorado-Colorado Springs | Software & IT | $24.25–$30.5/hr | — | Not specified | [Apply](https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-Colorado-Colorado-Springs/XMLNAME-2027-Software-Engineering-Intern---Colorado-Springs_R10256259) |
 | 125 | Micron Technology | Intern - Front End Materials Category Supplier Manager (CSM) | Boise, ID - North Office | Software & IT | Not disclosed | Excel · supply chain · procurement | Not specified | [Apply](https://micron.wd1.myworkdayjobs.com/en-US/External/job/Boise-ID---North-Office/Intern---Front-End-Materials-Category-Supplier-Manager--CSM-_JR116161) |
@@ -101,13 +96,12 @@ Open positions: 3
 
 ## Engineering
 
-Open positions: 46
+Open positions: 45
 
 | Rank | Company | Position | Location | Category | Salary | Keywords | Sponsorship | Apply |
 |---:|---|---|---|---|---|---|---|---|
 | 329 | DoorDash | Electrical Engineer, Intern - Labs (Summer 2027) | Oakland, CA | Engineering | Not disclosed | Python · C++ · Excel · electrical engineering · logistics | Not specified | [Apply](https://job-boards.greenhouse.io/doordashusa/jobs/8274095) |
 | 329 | DoorDash | Mechanical Engineering, Intern - Labs (Summer 2027) | Oakland, CA | Engineering | Not disclosed | Excel · mechanical engineering · CAD · SolidWorks · logistics | Not specified | [Apply](https://job-boards.greenhouse.io/doordashusa/jobs/8313401) |
-| 112 | Northrop Grumman | 2027 Mechanical Engineer Intern- Gilbert AZ | United States-Arizona-Gilbert | Engineering | $18.5–$33.5/hr | mechanical engineering | Not specified | [Apply](https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-Arizona-Gilbert/XMLNAME-2027-Mechanical-Engineer-Intern--Gilbert-AZ_R10258214) |
 | 112 | Northrop Grumman | 2027 Electrical Engineering Intern- Huntsville AL | United States-Alabama-Huntsville | Engineering | $25.5–$32/hr | electrical engineering | Not specified | [Apply](https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-Alabama-Huntsville/XMLNAME-2027-Electrical-Engineering-Intern--Huntsville-AL_R10259306-1) |
 | 112 | Northrop Grumman | 2027 Electrical Engineering Intern - Colorado Springs | United States-Colorado-Colorado Springs | Engineering | $24.25–$30.5/hr | electrical engineering | Not specified | [Apply](https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-Colorado-Colorado-Springs/XMLNAME-2027-Electrical-Engineering-Intern---Colorado-Springs_R10259022) |
 | 125 | Micron Technology | Intern - HVM Area Manufacturing Engineer (AME) | Boise, ID - Main Site | Engineering | Not disclosed | Python · SQL | Not specified | [Apply](https://micron.wd1.myworkdayjobs.com/en-US/External/job/Boise-ID---Main-Site/Intern---HVM-Area-Manufacturing-Engineer--AME-_JR116168) |
@@ -196,13 +190,12 @@ Open positions: 10
 
 ## Operations & Supply Chain
 
-Open positions: 25
+Open positions: 24
 
 | Rank | Company | Position | Location | Category | Salary | Keywords | Sponsorship | Apply |
 |---:|---|---|---|---|---|---|---|---|
 | 329 | DoorDash | Drone Operations, Intern - Labs (Summer 2027) | San Francisco, CA | Operations & Supply Chain | Not disclosed | Excel · logistics · recruiting | Not specified | [Apply](https://job-boards.greenhouse.io/doordashusa/jobs/8312381) |
 | 329 | DoorDash | Operations Research Intern (PhD), Summer 2027 | Sunnyvale, CA | Operations & Supply Chain | Not disclosed | Java · SQL · machine learning · Excel · logistics | Not specified | [Apply](https://job-boards.greenhouse.io/doordashusa/jobs/8273965) |
-| 112 | Northrop Grumman | 2027 Operations Tool Engineer Intern | United States-California-Palmdale | Operations & Supply Chain | $21.5–$39/hr | mechanical engineering | Not specified | [Apply](https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-California-Palmdale/XMLNAME-2027-Operations-Tool-Engineer-Intern_R10259204) |
 | 125 | Micron Technology | Intern – Procurement Cost Analyst | Boise, ID - North Office | Operations & Supply Chain | Not disclosed | analytics · Excel · mechanical engineering · electrical engineering · supply chain | Not specified | [Apply](https://micron.wd1.myworkdayjobs.com/en-US/External/job/Boise-ID---North-Office/Intern---Procurement-Cost-Analyst_JR112690) |
 | 49 | RTX | Digital Technologies Project Management Office Operations Intern (Summer 2027) | US-IA-CEDAR RAPIDS-193 ~ 1120 Collins Rd NE ~ BLDG193 | Operations & Supply Chain | Not disclosed | data science · analytics · Excel · audit · compliance | Not specified | [Apply](https://globalhr.wd5.myworkdayjobs.com/en-US/REC_RTX_Ext_Gateway/job/US-IA-CEDAR-RAPIDS-193--1120-Collins-Rd-NE--BLDG193/Digital-Technologies-Project-Management-Office-Operations-Intern--Summer-2027-_01884834) |
 | 49 | RTX | Stage- Gestion des Programmes Moteurs – Introduction de Nouveau produit  / Internship-  Operations Program Management – New Product Introduction | CA-QC-LONGUEUIL-J01 ~ 1000 Blvd Marie-Victorin ~ J01 BLDG | Operations & Supply Chain | Not disclosed | Excel · compliance | Not specified | [Apply](https://globalhr.wd5.myworkdayjobs.com/en-US/REC_RTX_Ext_Gateway/job/CA-QC-LONGUEUIL-J01--1000-Blvd-Marie-Victorin--J01-BLDG/Stage--Gestion-des-Programmes-Moteurs---Introduction-de-Nouveau-produit----Internship---Operations-Program-Management---New-Product-Introduction_01887628) |
@@ -245,7 +238,7 @@ Open positions: 2
 
 ## Other
 
-Open positions: 235
+Open positions: 232
 
 | Rank | Company | Position | Location | Category | Salary | Keywords | Sponsorship | Apply |
 |---:|---|---|---|---|---|---|---|---|
@@ -256,8 +249,6 @@ Open positions: 235
 | 220 | Carvana | Paid Customer Experience Internship (Summer 2027) | Tempe, AZ | Other | Not disclosed | — | Not specified | [Apply](https://www.carvana.com/careers/apply?gh_jid=8279265) |
 | 329 | DoorDash | Product Design, Intern (Summer 2027) | San Francisco, CA; New York, NY | Other | Not disclosed | Excel · logistics · recruiting · compliance | Not specified | [Apply](https://job-boards.greenhouse.io/doordashusa/jobs/8176863) |
 | 191 | Block | Applied Research Intern, Proactive Intelligence & Customer World Models (PhD / Graduate Co-op) | Bay Area, CA, United States of America | Other | Not disclosed | Python · machine learning · legal | Not specified | [Apply](http://block.xyz/careers/jobs/5108007008?gh_jid=5108007008) |
-| 112 | Northrop Grumman | 2027 Structural Dynamics Engineer Intern - Redondo Beach CA | United States-California-Redondo Beach | Other | $21.5–$39/hr | mechanical engineering | Not specified | [Apply](https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-California-Redondo-Beach/XMLNAME-2027-Structural-Dynamics-Engineer-Intern---Redondo-Beach-CA_R10259391) |
-| 112 | Northrop Grumman | 2027 Guidance Navigation and Control Engineer Intern - Redondo Beach CA | United States-California-Redondo Beach | Other | $21.5–$39/hr | Python · mechanical engineering | Not specified | [Apply](https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-California-Redondo-Beach/XMLNAME-2027-Guidance-Navigation-and-Control-Engineer-Intern---Redondo-Beach-CA_R10259386) |
 | 112 | Northrop Grumman | 2027 Program Management Intern - Northridge CA | United States-California-Northridge | Other | Not disclosed | supply chain | Not specified | [Apply](https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-California-Northridge/XMLNAME-2027-Program-Management-Intern---Northridge-CA_R10259102) |
 | 112 | Northrop Grumman | 2027 Systems Engineering Intern - Colorado Springs CO | United States-Colorado-Colorado Springs | Other | $24.25–$30.5/hr | — | Not specified | [Apply](https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-Colorado-Colorado-Springs/XMLNAME-2027-Systems-Engineering-Intern---Colorado-Springs-CO_R10257809) |
 | 112 | Northrop Grumman | 2027 Intern Facilities Management - San Diego CA | United States-California-San Diego | Other | $24–$29/hr | supply chain · logistics | Not specified | [Apply](https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-California-San-Diego/XMLNAME-2027-Intern-Facilities-Management---San-Diego-CA_R10258075) |
@@ -483,6 +474,5 @@ Open positions: 235
 | 396 | Analog Devices | Wet Lab Sensor Research Co-Op | US, MA, Boston | Other | Not disclosed | — | Not specified | [Apply](https://analogdevices.wd1.myworkdayjobs.com/en-US/External/job/US-MA-Boston/Wet-Lab-Sensor-Research-Co-Op_R268534-1) |
 | 396 | Analog Devices | Equipment Engineering Co-Op GFU (May-Dec) | US, OR, Beaverton | Other | Not disclosed | mechanical engineering · electrical engineering | Not specified | [Apply](https://analogdevices.wd1.myworkdayjobs.com/en-US/External/job/US-OR-Beaverton/Equipment-Engineering-Co-Op-GFU--May-Dec-_R268545) |
 | 476 | Marvell Technology | Hardware Signal Integrity Intern, MS - Summer 2027 | Santa Clara, CA | Other | Not disclosed | electrical engineering · CAD | Not specified | [Apply](https://marvell.wd1.myworkdayjobs.com/en-US/MarvellCareers/job/Santa-Clara-CA/Hardware-Signal-Integrity-Intern--MS---Summer-2027_2603877-1) |
-| 476 | Marvell Technology | Digital IC Design Intern | IL - Petah Tikva | Other | Not disclosed | electrical engineering | Not specified | [Apply](https://marvell.wd1.myworkdayjobs.com/en-US/MarvellCareers/job/IL---Petah-Tikva/Digital-IC-Design-Intern_2604490) |
 
 [Back to categories](#categories) · [Back to README](../README.md)
