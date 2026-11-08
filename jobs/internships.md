@@ -1,12 +1,12 @@
 # F500Tracker internships
 
-Last updated: November 08, 2026 at 06:10 UTC
+Last updated: November 08, 2026 at 13:36 UTC
 
-Current internships: 369
+Current internships: 367
 
 ## Categories
 
-[Software & IT (38)](#software-it) · [Data & AI (9)](#data-ai) · [Product & Design (3)](#product-design) · [Engineering (45)](#engineering) · [Finance & Accounting (6)](#finance-accounting) · [Sales & Marketing (10)](#sales-marketing) · [Operations & Supply Chain (24)](#operations-supply-chain) · [People & Legal (2)](#people-legal) · [Other (232)](#other)
+[Software & IT (38)](#software-it) · [Data & AI (9)](#data-ai) · [Product & Design (3)](#product-design) · [Engineering (44)](#engineering) · [Finance & Accounting (6)](#finance-accounting) · [Sales & Marketing (10)](#sales-marketing) · [Operations & Supply Chain (24)](#operations-supply-chain) · [People & Legal (2)](#people-legal) · [Other (231)](#other)
 
 <a id="software-it"></a>
 
@@ -95,13 +95,12 @@ Open positions: 3
 
 ## Engineering
 
-Open positions: 45
+Open positions: 44
 
 | Rank | Company | Position | Location | Category | Salary | Keywords | Sponsorship | Apply |
 |---:|---|---|---|---|---|---|---|---|
 | 329 | DoorDash | Electrical Engineer, Intern - Labs (Summer 2027) | Oakland, CA | Engineering | Not disclosed | Python · C++ · Excel · electrical engineering · logistics | Not specified | [Apply](https://job-boards.greenhouse.io/doordashusa/jobs/8274095) |
 | 329 | DoorDash | Mechanical Engineering, Intern - Labs (Summer 2027) | Oakland, CA | Engineering | Not disclosed | Excel · mechanical engineering · CAD · SolidWorks · logistics | Not specified | [Apply](https://job-boards.greenhouse.io/doordashusa/jobs/8313401) |
-| 112 | Northrop Grumman | 2027 Electrical Engineering Intern- Huntsville AL | United States-Alabama-Huntsville | Engineering | $25.5–$32/hr | electrical engineering | Not specified | [Apply](https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-Alabama-Huntsville/XMLNAME-2027-Electrical-Engineering-Intern--Huntsville-AL_R10259306-1) |
 | 112 | Northrop Grumman | 2027 Electrical Engineering Intern - Colorado Springs | United States-Colorado-Colorado Springs | Engineering | $24.25–$30.5/hr | electrical engineering | Not specified | [Apply](https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-Colorado-Colorado-Springs/XMLNAME-2027-Electrical-Engineering-Intern---Colorado-Springs_R10259022) |
 | 125 | Micron Technology | Intern - HVM Area Manufacturing Engineer (AME) | Boise, ID - Main Site | Engineering | Not disclosed | Python · SQL | Not specified | [Apply](https://micron.wd1.myworkdayjobs.com/en-US/External/job/Boise-ID---Main-Site/Intern---HVM-Area-Manufacturing-Engineer--AME-_JR116168) |
 | 125 | Micron Technology | Intern - YE-Electrical Failure Analysis Engineer | Boise, ID - ID1 | Engineering | Not disclosed | Python · SQL · machine learning · artificial intelligence · data science | Not specified | [Apply](https://micron.wd1.myworkdayjobs.com/en-US/External/job/Boise-ID---ID1/Intern---YE-Electrical-Failure-Analysis-Engineer_JR114538) |
@@ -237,7 +236,7 @@ Open positions: 2
 
 ## Other
 
-Open positions: 232
+Open positions: 231
 
 | Rank | Company | Position | Location | Category | Salary | Keywords | Sponsorship | Apply |
 |---:|---|---|---|---|---|---|---|---|
@@ -248,7 +247,6 @@ Open positions: 232
 | 220 | Carvana | Paid Customer Experience Internship (Summer 2027) | Tempe, AZ | Other | Not disclosed | — | Not specified | [Apply](https://www.carvana.com/careers/apply?gh_jid=8279265) |
 | 329 | DoorDash | Product Design, Intern (Summer 2027) | San Francisco, CA; New York, NY | Other | Not disclosed | Excel · logistics · recruiting · compliance | Not specified | [Apply](https://job-boards.greenhouse.io/doordashusa/jobs/8176863) |
 | 191 | Block | Applied Research Intern, Proactive Intelligence & Customer World Models (PhD / Graduate Co-op) | Bay Area, CA, United States of America | Other | Not disclosed | Python · machine learning · legal | Not specified | [Apply](http://block.xyz/careers/jobs/5108007008?gh_jid=5108007008) |
-| 112 | Northrop Grumman | 2027 Program Management Intern - Northridge CA | United States-California-Northridge | Other | Not disclosed | supply chain | Not specified | [Apply](https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-California-Northridge/XMLNAME-2027-Program-Management-Intern---Northridge-CA_R10259102) |
 | 112 | Northrop Grumman | 2027 Systems Engineering Intern - Colorado Springs CO | United States-Colorado-Colorado Springs | Other | $24.25–$30.5/hr | — | Not specified | [Apply](https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-Colorado-Colorado-Springs/XMLNAME-2027-Systems-Engineering-Intern---Colorado-Springs-CO_R10257809) |
 | 112 | Northrop Grumman | 2027 Intern Facilities Management - San Diego CA | United States-California-San Diego | Other | $24–$29/hr | supply chain · logistics | Not specified | [Apply](https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-California-San-Diego/XMLNAME-2027-Intern-Facilities-Management---San-Diego-CA_R10258075) |
 | 112 | Northrop Grumman | 2027 Engineering Intern - Hollywood (MD) (Evergreen) | United States-Maryland-Hollywood | Other | Not disclosed | — | Not specified | [Apply](https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-Maryland-Hollywood/XMLNAME-2027-Engineering-Intern---Hollywood--MD---Evergreen-_R10253725) |
