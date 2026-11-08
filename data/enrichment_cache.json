@@ -107247,7 +107247,7 @@
   },
   "greenhouse:Coupang:8118774": {
     "company": "Coupang",
-    "enriched_at": "2026-11-07T05:56:51.372866+00:00",
+    "enriched_at": "2026-11-08T05:58:56.124480+00:00",
     "external_id": "8118774",
     "h1b_mentioned": false,
     "h1b_status": "unknown",
@@ -107265,7 +107265,7 @@
     "salary_period": "year",
     "salary_text": "$132,000/year",
     "source": "greenhouse",
-    "source_updated_at": "2026-11-06T20:11:10-05:00",
+    "source_updated_at": "2026-11-07T20:10:42-05:00",
     "sponsorship_evidence": ""
   },
   "greenhouse:Coupang:8120779": {
@@ -107906,7 +107906,7 @@
   },
   "greenhouse:Coupang:8274425": {
     "company": "Coupang",
-    "enriched_at": "2026-11-07T05:56:51.385539+00:00",
+    "enriched_at": "2026-11-08T05:58:56.141017+00:00",
     "external_id": "8274425",
     "h1b_mentioned": false,
     "h1b_status": "unknown",
@@ -107920,12 +107920,12 @@
     "salary_period": "year",
     "salary_text": "$132,000/year",
     "source": "greenhouse",
-    "source_updated_at": "2026-11-06T20:11:26-05:00",
+    "source_updated_at": "2026-11-07T20:11:00-05:00",
     "sponsorship_evidence": ""
   },
   "greenhouse:Coupang:8275829": {
     "company": "Coupang",
-    "enriched_at": "2026-11-07T05:56:51.402570+00:00",
+    "enriched_at": "2026-11-08T05:58:56.163490+00:00",
     "external_id": "8275829",
     "h1b_mentioned": false,
     "h1b_status": "unknown",
@@ -107942,7 +107942,7 @@
     "salary_period": "year",
     "salary_text": "$159,000/year",
     "source": "greenhouse",
-    "source_updated_at": "2026-11-06T20:11:29-05:00",
+    "source_updated_at": "2026-11-07T20:11:04-05:00",
     "sponsorship_evidence": ""
   },
   "greenhouse:Coupang:8283587": {
@@ -108041,7 +108041,7 @@
   },
   "greenhouse:Coupang:8319602": {
     "company": "Coupang",
-    "enriched_at": "2026-11-07T05:56:51.439946+00:00",
+    "enriched_at": "2026-11-08T05:58:56.212589+00:00",
     "external_id": "8319602",
     "h1b_mentioned": false,
     "h1b_status": "unknown",
@@ -108061,12 +108061,12 @@
     "salary_period": "year",
     "salary_text": "$164,000/year",
     "source": "greenhouse",
-    "source_updated_at": "2026-11-06T20:11:33-05:00",
+    "source_updated_at": "2026-11-07T20:11:07-05:00",
     "sponsorship_evidence": ""
   },
   "greenhouse:Coupang:8335707": {
     "company": "Coupang",
-    "enriched_at": "2026-11-07T12:58:36.344206+00:00",
+    "enriched_at": "2026-11-08T05:58:56.111420+00:00",
     "external_id": "8335707",
     "h1b_mentioned": false,
     "h1b_status": "unknown",
@@ -108084,12 +108084,12 @@
     "salary_period": "year",
     "salary_text": "$140,000/year",
     "source": "greenhouse",
-    "source_updated_at": "2026-11-07T03:40:46-05:00",
+    "source_updated_at": "2026-11-07T20:11:17-05:00",
     "sponsorship_evidence": ""
   },
   "greenhouse:Coupang:8356962": {
     "company": "Coupang",
-    "enriched_at": "2026-11-07T05:56:51.426192+00:00",
+    "enriched_at": "2026-11-08T05:58:56.194891+00:00",
     "external_id": "8356962",
     "h1b_mentioned": false,
     "h1b_status": "unknown",
@@ -108108,7 +108108,7 @@
     "salary_period": "year",
     "salary_text": "$164K/year",
     "source": "greenhouse",
-    "source_updated_at": "2026-11-06T20:11:49-05:00",
+    "source_updated_at": "2026-11-07T20:11:24-05:00",
     "sponsorship_evidence": ""
   },
   "greenhouse:DoorDash:3236374": {
@@ -318736,6 +318736,26 @@
     "source_updated_at": "",
     "sponsorship_evidence": ""
   },
+  "workday:Cisco Systems:/job/RTP-North-Carolina-US/Market-Ready-Solutions-Lead---FED-RAMP-_2028721": {
+    "company": "Cisco Systems",
+    "enriched_at": "2026-11-08T06:09:12.201728+00:00",
+    "external_id": "/job/RTP-North-Carolina-US/Market-Ready-Solutions-Lead---FED-RAMP-_2028721",
+    "h1b_mentioned": false,
+    "h1b_status": "unknown",
+    "keywords": [
+      "sales",
+      "compliance",
+      "legal"
+    ],
+    "salary_currency": "",
+    "salary_max": null,
+    "salary_min": null,
+    "salary_period": "",
+    "salary_text": "",
+    "source": "workday",
+    "source_updated_at": "",
+    "sponsorship_evidence": ""
+  },
   "workday:Cisco Systems:/job/RTP-North-Carolina-US/OpenStack-Platform-Engineer_2024061": {
     "company": "Cisco Systems",
     "enriched_at": "2026-10-14T12:03:05.961536+00:00",
@@ -489903,6 +489923,24 @@
     "source_updated_at": "",
     "sponsorship_evidence": ""
   },
+  "workday:Lowe's:/job/Downingtown-PA-E-Caln-Township-1729/Full-Time---Merchandising-Service-Associate---Day_JR-02701419": {
+    "company": "Lowe's",
+    "enriched_at": "2026-11-08T06:08:44.123079+00:00",
+    "external_id": "/job/Downingtown-PA-E-Caln-Township-1729/Full-Time---Merchandising-Service-Associate---Day_JR-02701419",
+    "h1b_mentioned": false,
+    "h1b_status": "unknown",
+    "keywords": [
+      "sales"
+    ],
+    "salary_currency": "",
+    "salary_max": null,
+    "salary_min": null,
+    "salary_period": "",
+    "salary_text": "",
+    "source": "workday",
+    "source_updated_at": "",
+    "sponsorship_evidence": ""
+  },
   "workday:Lowe's:/job/Downingtown-PA-E-Caln-Township-1729/Full-Time---Receiver-Stocker---Day_JR-02687209": {
     "company": "Lowe's",
     "enriched_at": "2026-11-06T06:54:02.873474+00:00",
@@ -504040,6 +504078,25 @@
     "source_updated_at": "",
     "sponsorship_evidence": ""
   },
+  "workday:Lowe's:/job/Kailua-Kona-HI-Kona-1561/Full-Time---Fulfillment-Team-Lead---Day_JR-02700442-1": {
+    "company": "Lowe's",
+    "enriched_at": "2026-11-08T06:08:44.113198+00:00",
+    "external_id": "/job/Kailua-Kona-HI-Kona-1561/Full-Time---Fulfillment-Team-Lead---Day_JR-02700442-1",
+    "h1b_mentioned": false,
+    "h1b_status": "unknown",
+    "keywords": [
+      "sales",
+      "compliance"
+    ],
+    "salary_currency": "USD",
+    "salary_max": 20.2,
+    "salary_min": 18.0,
+    "salary_period": "hour",
+    "salary_text": "$18.00 - $20.20 per hour",
+    "source": "workday",
+    "source_updated_at": "",
+    "sponsorship_evidence": ""
+  },
   "workday:Lowe's:/job/Kailua-Kona-HI-Kona-1561/Full-Time---Head-Cashier---Day_JR-02612095-1": {
     "company": "Lowe's",
     "enriched_at": "2026-09-19T20:52:22.140116+00:00",
@@ -515818,6 +515875,24 @@
     "company": "Lowe's",
     "enriched_at": "2026-11-07T06:07:27.715630+00:00",
     "external_id": "/job/Milwaukie-OR-Clackamas-County-1824/Full-Time---Sales-Associate---Building-Materials---Closing_JR-02679954-1",
+    "h1b_mentioned": false,
+    "h1b_status": "unknown",
+    "keywords": [
+      "sales"
+    ],
+    "salary_currency": "",
+    "salary_max": null,
+    "salary_min": null,
+    "salary_period": "",
+    "salary_text": "",
+    "source": "workday",
+    "source_updated_at": "",
+    "sponsorship_evidence": ""
+  },
+  "workday:Lowe's:/job/Milwaukie-OR-Clackamas-County-1824/Full-Time---Sales-Associate---Building-Materials---Day_JR-02701420": {
+    "company": "Lowe's",
+    "enriched_at": "2026-11-08T06:08:44.101791+00:00",
+    "external_id": "/job/Milwaukie-OR-Clackamas-County-1824/Full-Time---Sales-Associate---Building-Materials---Day_JR-02701420",
     "h1b_mentioned": false,
     "h1b_status": "unknown",
     "keywords": [
@@ -552007,6 +552082,42 @@
     "company": "Lowe's",
     "enriched_at": "2026-10-18T11:12:31.090732+00:00",
     "external_id": "/job/York-PA-W-York-2409/Full-Time---Receiver-Stocker---Overnight_JR-02658182",
+    "h1b_mentioned": false,
+    "h1b_status": "unknown",
+    "keywords": [
+      "sales"
+    ],
+    "salary_currency": "",
+    "salary_max": null,
+    "salary_min": null,
+    "salary_period": "",
+    "salary_text": "",
+    "source": "workday",
+    "source_updated_at": "",
+    "sponsorship_evidence": ""
+  },
+  "workday:Lowe's:/job/York-PA-W-York-2409/Full-Time---Receiver-Stocker---Overnight_JR-02701434": {
+    "company": "Lowe's",
+    "enriched_at": "2026-11-08T06:08:44.090848+00:00",
+    "external_id": "/job/York-PA-W-York-2409/Full-Time---Receiver-Stocker---Overnight_JR-02701434",
+    "h1b_mentioned": false,
+    "h1b_status": "unknown",
+    "keywords": [
+      "sales"
+    ],
+    "salary_currency": "",
+    "salary_max": null,
+    "salary_min": null,
+    "salary_period": "",
+    "salary_text": "",
+    "source": "workday",
+    "source_updated_at": "",
+    "sponsorship_evidence": ""
+  },
+  "workday:Lowe's:/job/York-PA-W-York-2409/Full-Time---Receiver-Stocker---Overnight_JR-02701435": {
+    "company": "Lowe's",
+    "enriched_at": "2026-11-08T06:08:44.079994+00:00",
+    "external_id": "/job/York-PA-W-York-2409/Full-Time---Receiver-Stocker---Overnight_JR-02701435",
     "h1b_mentioned": false,
     "h1b_status": "unknown",
     "keywords": [
@@ -644693,7 +644804,7 @@
   },
   "workday:NVIDIA:/job/US-CA-Santa-Clara/Senior-Software-Engineer--GPU-Communications-and-Networking_JR1997186": {
     "company": "NVIDIA",
-    "enriched_at": "2026-10-21T04:44:36.669615+00:00",
+    "enriched_at": "2026-11-08T05:59:04.035837+00:00",
     "external_id": "/job/US-CA-Santa-Clara/Senior-Software-Engineer--GPU-Communications-and-Networking_JR1997186",
     "h1b_mentioned": false,
     "h1b_status": "unknown",
@@ -645011,7 +645122,7 @@
   },
   "workday:NVIDIA:/job/US-CA-Santa-Clara/Senior-Software-Program-Manager---Datacenter-Compute-Server_JR1996363": {
     "company": "NVIDIA",
-    "enriched_at": "2026-10-25T04:39:31.124634+00:00",
+    "enriched_at": "2026-11-08T05:59:04.015788+00:00",
     "external_id": "/job/US-CA-Santa-Clara/Senior-Software-Program-Manager---Datacenter-Compute-Server_JR1996363",
     "h1b_mentioned": false,
     "h1b_status": "unknown",
@@ -646397,7 +646508,7 @@
   },
   "workday:NVIDIA:/job/US-CA-Santa-Clara/Senior-Systems-Firmware-Engineer---SBIOS--Bringup_JR2028412": {
     "company": "NVIDIA",
-    "enriched_at": "2026-10-27T05:02:51.700404+00:00",
+    "enriched_at": "2026-11-08T05:59:04.024640+00:00",
     "external_id": "/job/US-CA-Santa-Clara/Senior-Systems-Firmware-Engineer---SBIOS--Bringup_JR2028412",
     "h1b_mentioned": false,
     "h1b_status": "unknown",
@@ -746390,6 +746501,42 @@
     "company": "Northrop Grumman",
     "enriched_at": "2026-08-22T01:53:11.232046+00:00",
     "external_id": "/job/United-States-Florida-Melbourne/Senior-Principal-Subsystems-Thermal-Analyst_R10243356",
+    "h1b_mentioned": false,
+    "h1b_status": "unknown",
+    "keywords": [],
+    "salary_currency": "",
+    "salary_max": null,
+    "salary_min": null,
+    "salary_period": "",
+    "salary_text": "",
+    "source": "workday",
+    "source_updated_at": "",
+    "sponsorship_evidence": ""
+  },
+  "workday:Northrop Grumman:/job/United-States-Florida-Melbourne/Senior-Principal-Systems-Architect--Melbourne-FL-_R10257975": {
+    "company": "Northrop Grumman",
+    "enriched_at": "2026-11-08T06:00:43.225915+00:00",
+    "external_id": "/job/United-States-Florida-Melbourne/Senior-Principal-Systems-Architect--Melbourne-FL-_R10257975",
+    "h1b_mentioned": false,
+    "h1b_status": "unknown",
+    "keywords": [
+      "Python",
+      "JavaScript",
+      "audit"
+    ],
+    "salary_currency": "",
+    "salary_max": null,
+    "salary_min": null,
+    "salary_period": "",
+    "salary_text": "",
+    "source": "workday",
+    "source_updated_at": "",
+    "sponsorship_evidence": ""
+  },
+  "workday:Northrop Grumman:/job/United-States-Florida-Melbourne/Senior-Principal-Systems-Engineer--Melbourne-FL-_R10257974": {
+    "company": "Northrop Grumman",
+    "enriched_at": "2026-11-08T06:00:43.236563+00:00",
+    "external_id": "/job/United-States-Florida-Melbourne/Senior-Principal-Systems-Engineer--Melbourne-FL-_R10257974",
     "h1b_mentioned": false,
     "h1b_status": "unknown",
     "keywords": [],
@@ -1098577,6 +1098724,28 @@
     "source_updated_at": "",
     "sponsorship_evidence": ""
   },
+  "workday:S&P Global:/job/New-York-NY/Analyst--Investor-Relations_332704-1": {
+    "company": "S&P Global",
+    "enriched_at": "2026-11-08T06:01:41.571167+00:00",
+    "external_id": "/job/New-York-NY/Analyst--Investor-Relations_332704-1",
+    "h1b_mentioned": false,
+    "h1b_status": "unknown",
+    "keywords": [
+      "Excel",
+      "accounting",
+      "supply chain",
+      "compliance",
+      "legal"
+    ],
+    "salary_currency": "",
+    "salary_max": null,
+    "salary_min": null,
+    "salary_period": "",
+    "salary_text": "",
+    "source": "workday",
+    "source_updated_at": "",
+    "sponsorship_evidence": ""
+  },
   "workday:S&P Global:/job/New-York-NY/Associate--Bonds-Data_332412-1": {
     "company": "S&P Global",
     "enriched_at": "2026-10-25T04:43:29.811943+00:00",
@@ -1099198,6 +1099367,30 @@
       "accounting",
       "supply chain",
       "sales",
+      "compliance",
+      "contracts"
+    ],
+    "salary_currency": "",
+    "salary_max": null,
+    "salary_min": null,
+    "salary_period": "",
+    "salary_text": "",
+    "source": "workday",
+    "source_updated_at": "",
+    "sponsorship_evidence": ""
+  },
+  "workday:S&P Global:/job/New-York-NY/Director--Infrastructure---Project-Finance--New-York_332536-1": {
+    "company": "S&P Global",
+    "enriched_at": "2026-11-08T06:01:41.636111+00:00",
+    "external_id": "/job/New-York-NY/Director--Infrastructure---Project-Finance--New-York_332536-1",
+    "h1b_mentioned": false,
+    "h1b_status": "unknown",
+    "keywords": [
+      "analytics",
+      "accounting",
+      "risk management",
+      "supply chain",
+      "procurement",
       "compliance",
       "contracts"
     ],
@@ -1101021,6 +1101214,56 @@
     "source_updated_at": "",
     "sponsorship_evidence": ""
   },
+  "workday:S&P Global:/job/Princeton-NJ/Associate-Director--DevSecOps-Architect_332523-2": {
+    "company": "S&P Global",
+    "enriched_at": "2026-11-08T06:01:41.604636+00:00",
+    "external_id": "/job/Princeton-NJ/Associate-Director--DevSecOps-Architect_332523-2",
+    "h1b_mentioned": false,
+    "h1b_status": "unknown",
+    "keywords": [
+      "AWS",
+      "Azure",
+      "GCP",
+      "Kubernetes",
+      "Terraform",
+      "supply chain",
+      "compliance"
+    ],
+    "salary_currency": "",
+    "salary_max": null,
+    "salary_min": null,
+    "salary_period": "",
+    "salary_text": "",
+    "source": "workday",
+    "source_updated_at": "",
+    "sponsorship_evidence": ""
+  },
+  "workday:S&P Global:/job/Princeton-NJ/Director--DevOps-Engineering_332522-1": {
+    "company": "S&P Global",
+    "enriched_at": "2026-11-08T06:01:41.621142+00:00",
+    "external_id": "/job/Princeton-NJ/Director--DevOps-Engineering_332522-1",
+    "h1b_mentioned": false,
+    "h1b_status": "unknown",
+    "keywords": [
+      "AWS",
+      "Azure",
+      "GCP",
+      "Docker",
+      "Kubernetes",
+      "Terraform",
+      "supply chain",
+      "recruiting",
+      "compliance"
+    ],
+    "salary_currency": "",
+    "salary_max": null,
+    "salary_min": null,
+    "salary_period": "",
+    "salary_text": "",
+    "source": "workday",
+    "source_updated_at": "",
+    "sponsorship_evidence": ""
+  },
   "workday:S&P Global:/job/Princeton-NJ/Director--Open-Source-Software-Manager_331956-1": {
     "company": "S&P Global",
     "enriched_at": "2026-11-04T19:49:05.817754+00:00",
@@ -1101582,6 +1101825,26 @@
       "SQL",
       "analytics",
       "supply chain",
+      "compliance"
+    ],
+    "salary_currency": "",
+    "salary_max": null,
+    "salary_min": null,
+    "salary_period": "",
+    "salary_text": "",
+    "source": "workday",
+    "source_updated_at": "",
+    "sponsorship_evidence": ""
+  },
+  "workday:S&P Global:/job/Washington-DC/Analyst--Research---CERAWeek-Program-Team_332703-1": {
+    "company": "S&P Global",
+    "enriched_at": "2026-11-08T06:01:41.587400+00:00",
+    "external_id": "/job/Washington-DC/Analyst--Research---CERAWeek-Program-Team_332703-1",
+    "h1b_mentioned": false,
+    "h1b_status": "unknown",
+    "keywords": [
+      "supply chain",
+      "sales",
       "compliance"
     ],
     "salary_currency": "",
@@ -1240510,6 +1240773,25 @@
       "compliance",
       "legal",
       "contracts"
+    ],
+    "salary_currency": "",
+    "salary_max": null,
+    "salary_min": null,
+    "salary_period": "",
+    "salary_text": "",
+    "source": "workday",
+    "source_updated_at": "",
+    "sponsorship_evidence": ""
+  },
+  "workday:U.S. Bancorp:/job/Minneapolis-MN/Credit-Analyst-5_2026-0034637": {
+    "company": "U.S. Bancorp",
+    "enriched_at": "2026-11-08T06:10:28.319905+00:00",
+    "external_id": "/job/Minneapolis-MN/Credit-Analyst-5_2026-0034637",
+    "h1b_mentioned": false,
+    "h1b_status": "unknown",
+    "keywords": [
+      "Excel",
+      "accounting"
     ],
     "salary_currency": "",
     "salary_max": null,

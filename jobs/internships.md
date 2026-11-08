@@ -1,24 +1,23 @@
 # F500Tracker internships
 
-Last updated: November 07, 2026 at 22:00 UTC
+Last updated: November 08, 2026 at 06:10 UTC
 
-Current internships: 371
+Current internships: 369
 
 ## Categories
 
-[Software & IT (39)](#software-it) · [Data & AI (9)](#data-ai) · [Product & Design (3)](#product-design) · [Engineering (45)](#engineering) · [Finance & Accounting (6)](#finance-accounting) · [Sales & Marketing (10)](#sales-marketing) · [Operations & Supply Chain (24)](#operations-supply-chain) · [People & Legal (2)](#people-legal) · [Other (233)](#other)
+[Software & IT (38)](#software-it) · [Data & AI (9)](#data-ai) · [Product & Design (3)](#product-design) · [Engineering (45)](#engineering) · [Finance & Accounting (6)](#finance-accounting) · [Sales & Marketing (10)](#sales-marketing) · [Operations & Supply Chain (24)](#operations-supply-chain) · [People & Legal (2)](#people-legal) · [Other (232)](#other)
 
 <a id="software-it"></a>
 
 ## Software & IT
 
-Open positions: 39
+Open positions: 38
 
 | Rank | Company | Position | Location | Category | Salary | Keywords | Sponsorship | Apply |
 |---:|---|---|---|---|---|---|---|---|
 | 329 | DoorDash | Software Engineer, Intern - Labs (Summer 2027) | San Francisco, CA; Sunnyvale, CA | Software & IT | Not disclosed | Python · Java · SQL · AWS · machine learning | Not specified | [Apply](https://job-boards.greenhouse.io/doordashusa/jobs/8263774) |
 | 329 | DoorDash | Software Engineer, Intern (Summer 2027) - US | New York, NY; San Francisco, CA; Sunnyvale, CA; Los Angeles, CA; Seattle, WA | Software & IT | Not disclosed | Python · Java · SQL · AWS · Excel | Not specified | [Apply](https://job-boards.greenhouse.io/doordashusa/jobs/8171041) |
-| 112 | Northrop Grumman | 2027 Systems Engineer Intern - Cape Canaveral FL | United States-Florida-Cape Canaveral | Software & IT | $18.5–$33.5/hr | mechanical engineering · electrical engineering | Not specified | [Apply](https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-Florida-Cape-Canaveral/XMLNAME-2027-Systems-Engineer-Intern---Cape-Canaveral-FL_R10251849) |
 | 112 | Northrop Grumman | 2027 Software Engineering Intern - Colorado Springs | United States-Colorado-Colorado Springs | Software & IT | $24.25–$30.5/hr | — | Not specified | [Apply](https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-Colorado-Colorado-Springs/XMLNAME-2027-Software-Engineering-Intern---Colorado-Springs_R10257803) |
 | 112 | Northrop Grumman | 2027 Software Engineering Intern - Colorado Springs | United States-Colorado-Colorado Springs | Software & IT | $24.25–$30.5/hr | — | Not specified | [Apply](https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-Colorado-Colorado-Springs/XMLNAME-2027-Software-Engineering-Intern---Colorado-Springs_R10256259) |
 | 125 | Micron Technology | Intern - Front End Materials Category Supplier Manager (CSM) | Boise, ID - North Office | Software & IT | Not disclosed | Excel · supply chain · procurement | Not specified | [Apply](https://micron.wd1.myworkdayjobs.com/en-US/External/job/Boise-ID---North-Office/Intern---Front-End-Materials-Category-Supplier-Manager--CSM-_JR116161) |
@@ -238,7 +237,7 @@ Open positions: 2
 
 ## Other
 
-Open positions: 233
+Open positions: 232
 
 | Rank | Company | Position | Location | Category | Salary | Keywords | Sponsorship | Apply |
 |---:|---|---|---|---|---|---|---|---|
@@ -371,7 +370,6 @@ Open positions: 233
 | 49 | RTX | PW1100G-JM Program Fleet Intern (Summer 2027) | US-CT-EAST HARTFORD-OBG ~ 400 Main St ~ BLDG OBG | Other | Not disclosed | Python · data science · analytics · compliance · legal | Not specified | [Apply](https://globalhr.wd5.myworkdayjobs.com/en-US/REC_RTX_Ext_Gateway/job/US-CT-EAST-HARTFORD-OBG--400-Main-St--BLDG-OBG/PW1100G-JM-Program-Fleet-Intern--Summer-2027-_01878283) |
 | 49 | RTX | RF/Microwave Engineering Intern (Summer 2027) | US-MA-ANDOVER-AR1 ~ 358 Lowell St ~ AR1 DUKES BLDG | Other | Not disclosed | Python · Java · compliance | Not specified | [Apply](https://globalhr.wd5.myworkdayjobs.com/en-US/REC_RTX_Ext_Gateway/job/US-MA-ANDOVER-AR1--358-Lowell-St--AR1-DUKES-BLDG/RF-Microwave-Engineering-Intern--Summer-2027-_01875478) |
 | 49 | RTX | Advanced Manufacturing Engineering Co-Op (Summer/Fall 2027) | US-IA-CEDAR RAPIDS-105 ~ 400 Collins Rd NE ~ BLDG 105 | Other | Not disclosed | SolidWorks · compliance · contracts | Not specified | [Apply](https://globalhr.wd5.myworkdayjobs.com/en-US/REC_RTX_Ext_Gateway/job/US-IA-CEDAR-RAPIDS-105--400-Collins-Rd-NE--BLDG-105/Advanced-Manufacturing-Engineering-Co-Op--Summer-Fall-2027-_01874261) |
-| 49 | RTX | Commercial Engines Programs Intern (Summer 2027) | US-CT-EAST HARTFORD-OBG ~ 400 Main St ~ BLDG OBG | Other | Not disclosed | analytics · supply chain · compliance · contracts | Not specified | [Apply](https://globalhr.wd5.myworkdayjobs.com/en-US/REC_RTX_Ext_Gateway/job/US-CT-EAST-HARTFORD-OBG--400-Main-St--BLDG-OBG/Commercial-Engines-Programs-Intern--Summer-2027-_01884450) |
 | 49 | RTX | 2027 High School Intern | US-GA-MIDLAND-MPC ~ 8801/8987 Macon Rd ~ BLDG MPC | Other | Not disclosed | recruiting · compliance | Not specified | [Apply](https://globalhr.wd5.myworkdayjobs.com/en-US/REC_RTX_Ext_Gateway/job/US-GA-MIDLAND-MPC--88018987-Macon-Rd--BLDG-MPC/XMLNAME-2027-High-School-Intern_01885889) |
 | 49 | RTX | Operational Excellence (OPEX) Co-Op (January 2027) (Onsite) | US-PR-SANTA ISABEL-B1 ~ Felicia Industrial Park - St B1 ~ BLDG 1 | Other | Not disclosed | supply chain · recruiting · compliance · contracts | Not specified | [Apply](https://globalhr.wd5.myworkdayjobs.com/en-US/REC_RTX_Ext_Gateway/job/US-PR-SANTA-ISABEL-B1--Felicia-Industrial-Park---St-B1--BLDG-1/Operational-Excellence--OPEX--Co-Op--January-2027---Onsite-_01886048) |
 | 49 | RTX | Quality Management System Co-Op (Spring/Summer 2027) | US-MN-BURNSVILLE-WEST ~ 14300 Judicial Rd ~ WEST BLDG | Other | Not disclosed | Excel · compliance | Not specified | [Apply](https://globalhr.wd5.myworkdayjobs.com/en-US/REC_RTX_Ext_Gateway/job/US-MN-BURNSVILLE-WEST--14300-Judicial-Rd--WEST-BLDG/Quality-Management-System-Co-Op--Spring-Summer-2027-_01879983) |
