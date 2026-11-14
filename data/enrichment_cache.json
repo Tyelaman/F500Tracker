@@ -8122,7 +8122,7 @@
   },
   "greenhouse:Block:5358204008": {
     "company": "Block",
-    "enriched_at": "2026-11-06T19:23:28.892120+00:00",
+    "enriched_at": "2026-11-14T06:19:46.925408+00:00",
     "external_id": "5358204008",
     "h1b_mentioned": false,
     "h1b_status": "unknown",
@@ -8138,7 +8138,7 @@
     "salary_period": "",
     "salary_text": "",
     "source": "greenhouse",
-    "source_updated_at": "2026-11-06T14:16:56-05:00",
+    "source_updated_at": "2026-11-13T16:31:51-05:00",
     "sponsorship_evidence": ""
   },
   "greenhouse:Block:5363212008": {
@@ -12097,6 +12097,26 @@
     "source": "greenhouse",
     "source_updated_at": "2026-11-05T18:28:14-05:00",
     "sponsorship_evidence": ""
+  },
+  "greenhouse:Carvana:6817238": {
+    "company": "Carvana",
+    "enriched_at": "2026-11-14T06:20:31.234330+00:00",
+    "external_id": "6817238",
+    "h1b_mentioned": false,
+    "h1b_status": "does_not_support_h1b",
+    "keywords": [
+      "Azure",
+      "compliance",
+      "legal"
+    ],
+    "salary_currency": "",
+    "salary_max": null,
+    "salary_min": null,
+    "salary_period": "",
+    "salary_text": "",
+    "source": "greenhouse",
+    "source_updated_at": "2026-11-13T17:19:52-05:00",
+    "sponsorship_evidence": "&nbsp; This role is not eligible for visa sponsorship."
   },
   "greenhouse:Carvana:6865533": {
     "company": "Carvana",
@@ -24710,7 +24730,7 @@
   },
   "greenhouse:Carvana:8041791": {
     "company": "Carvana",
-    "enriched_at": "2026-09-16T05:01:26.573847+00:00",
+    "enriched_at": "2026-11-14T06:20:31.218462+00:00",
     "external_id": "8041791",
     "h1b_mentioned": false,
     "h1b_status": "does_not_support_h1b",
@@ -24723,7 +24743,7 @@
     "salary_period": "hour",
     "salary_text": "$17-$19 hourly",
     "source": "greenhouse",
-    "source_updated_at": "2026-09-15T22:24:04-04:00",
+    "source_updated_at": "2026-11-13T15:57:26-05:00",
     "sponsorship_evidence": "</em>This role is not eligible for visa sponsorship."
   },
   "greenhouse:Carvana:8041825": {
@@ -104552,7 +104572,7 @@
   },
   "greenhouse:Carvana:8351079": {
     "company": "Carvana",
-    "enriched_at": "2026-11-03T23:36:32.066580+00:00",
+    "enriched_at": "2026-11-14T06:20:31.224592+00:00",
     "external_id": "8351079",
     "h1b_mentioned": false,
     "h1b_status": "does_not_support_h1b",
@@ -104563,7 +104583,7 @@
     "salary_period": "",
     "salary_text": "",
     "source": "greenhouse",
-    "source_updated_at": "2026-11-03T16:30:16-05:00",
+    "source_updated_at": "2026-11-13T16:18:41-05:00",
     "sponsorship_evidence": "This role is not eligible for visa sponsorship."
   },
   "greenhouse:Carvana:8351088": {
@@ -107315,7 +107335,7 @@
   },
   "greenhouse:Carvana:8368723": {
     "company": "Carvana",
-    "enriched_at": "2026-11-12T23:52:16.606151+00:00",
+    "enriched_at": "2026-11-14T06:20:31.208826+00:00",
     "external_id": "8368723",
     "h1b_mentioned": false,
     "h1b_status": "does_not_support_h1b",
@@ -107326,7 +107346,7 @@
     "salary_period": "",
     "salary_text": "",
     "source": "greenhouse",
-    "source_updated_at": "2026-11-12T12:38:54-05:00",
+    "source_updated_at": "2026-11-13T19:49:16-05:00",
     "sponsorship_evidence": "This role is not eligible for visa sponsorship."
   },
   "greenhouse:Carvana:8368724": {
@@ -110308,7 +110328,7 @@
   },
   "greenhouse:Carvana:8383622": {
     "company": "Carvana",
-    "enriched_at": "2026-11-12T23:52:16.643207+00:00",
+    "enriched_at": "2026-11-14T06:20:31.213925+00:00",
     "external_id": "8383622",
     "h1b_mentioned": false,
     "h1b_status": "does_not_support_h1b",
@@ -110319,7 +110339,7 @@
     "salary_period": "hour",
     "salary_text": "$20.00 - $24.00 per hour",
     "source": "greenhouse",
-    "source_updated_at": "2026-11-12T14:30:33-05:00",
+    "source_updated_at": "2026-11-13T16:08:58-05:00",
     "sponsorship_evidence": "This role is not eligible for visa sponsorship."
   },
   "greenhouse:Carvana:8383660": {
@@ -111188,6 +111208,79 @@
     "salary_text": "$18-$19 hourly",
     "source": "greenhouse",
     "source_updated_at": "2026-11-13T15:21:02-05:00",
+    "sponsorship_evidence": "&nbsp; This role is not eligible for visa sponsorship."
+  },
+  "greenhouse:Carvana:8386577": {
+    "company": "Carvana",
+    "enriched_at": "2026-11-14T06:20:31.229628+00:00",
+    "external_id": "8386577",
+    "h1b_mentioned": false,
+    "h1b_status": "does_not_support_h1b",
+    "keywords": [],
+    "salary_currency": "",
+    "salary_max": null,
+    "salary_min": null,
+    "salary_period": "",
+    "salary_text": "",
+    "source": "greenhouse",
+    "source_updated_at": "2026-11-13T15:47:21-05:00",
+    "sponsorship_evidence": "This role is not eligible for visa sponsorship."
+  },
+  "greenhouse:Carvana:8386582": {
+    "company": "Carvana",
+    "enriched_at": "2026-11-14T06:20:31.202810+00:00",
+    "external_id": "8386582",
+    "h1b_mentioned": false,
+    "h1b_status": "does_not_support_h1b",
+    "keywords": [
+      "legal"
+    ],
+    "salary_currency": "USD",
+    "salary_max": 41.0,
+    "salary_min": 34.0,
+    "salary_period": "hour",
+    "salary_text": "$34.00 to $41.00 per hour",
+    "source": "greenhouse",
+    "source_updated_at": "2026-11-13T15:47:59-05:00",
+    "sponsorship_evidence": "&nbsp; This role is not eligible for visa sponsorship."
+  },
+  "greenhouse:Carvana:8386804": {
+    "company": "Carvana",
+    "enriched_at": "2026-11-14T06:20:31.239809+00:00",
+    "external_id": "8386804",
+    "h1b_mentioned": false,
+    "h1b_status": "unknown",
+    "keywords": [
+      "logistics",
+      "legal"
+    ],
+    "salary_currency": "",
+    "salary_max": null,
+    "salary_min": null,
+    "salary_period": "",
+    "salary_text": "",
+    "source": "greenhouse",
+    "source_updated_at": "2026-11-13T17:19:02-05:00",
+    "sponsorship_evidence": ""
+  },
+  "greenhouse:Carvana:8386929": {
+    "company": "Carvana",
+    "enriched_at": "2026-11-14T06:20:31.251210+00:00",
+    "external_id": "8386929",
+    "h1b_mentioned": false,
+    "h1b_status": "does_not_support_h1b",
+    "keywords": [
+      "sales",
+      "legal",
+      "contracts"
+    ],
+    "salary_currency": "USD",
+    "salary_max": 20.0,
+    "salary_min": 19.0,
+    "salary_period": "hour",
+    "salary_text": "$19-$20 hourly",
+    "source": "greenhouse",
+    "source_updated_at": "2026-11-13T19:07:18-05:00",
     "sponsorship_evidence": "&nbsp; This role is not eligible for visa sponsorship."
   },
   "greenhouse:Coupang:3887444": {
@@ -112483,7 +112576,7 @@
   },
   "greenhouse:Coupang:8118774": {
     "company": "Coupang",
-    "enriched_at": "2026-11-13T06:42:49.495271+00:00",
+    "enriched_at": "2026-11-14T06:19:46.670099+00:00",
     "external_id": "8118774",
     "h1b_mentioned": false,
     "h1b_status": "unknown",
@@ -112501,7 +112594,7 @@
     "salary_period": "year",
     "salary_text": "$132,000/year",
     "source": "greenhouse",
-    "source_updated_at": "2026-11-12T20:09:31-05:00",
+    "source_updated_at": "2026-11-13T20:56:01-05:00",
     "sponsorship_evidence": ""
   },
   "greenhouse:Coupang:8120779": {
@@ -113142,7 +113235,7 @@
   },
   "greenhouse:Coupang:8274425": {
     "company": "Coupang",
-    "enriched_at": "2026-11-13T06:42:49.507775+00:00",
+    "enriched_at": "2026-11-14T06:19:46.679525+00:00",
     "external_id": "8274425",
     "h1b_mentioned": false,
     "h1b_status": "unknown",
@@ -113156,12 +113249,12 @@
     "salary_period": "year",
     "salary_text": "$132,000/year",
     "source": "greenhouse",
-    "source_updated_at": "2026-11-12T20:09:48-05:00",
+    "source_updated_at": "2026-11-13T20:56:15-05:00",
     "sponsorship_evidence": ""
   },
   "greenhouse:Coupang:8275829": {
     "company": "Coupang",
-    "enriched_at": "2026-11-13T06:42:49.524727+00:00",
+    "enriched_at": "2026-11-14T06:19:46.705100+00:00",
     "external_id": "8275829",
     "h1b_mentioned": false,
     "h1b_status": "unknown",
@@ -113178,7 +113271,7 @@
     "salary_period": "year",
     "salary_text": "$159,000/year",
     "source": "greenhouse",
-    "source_updated_at": "2026-11-12T20:09:52-05:00",
+    "source_updated_at": "2026-11-13T20:56:19-05:00",
     "sponsorship_evidence": ""
   },
   "greenhouse:Coupang:8283587": {
@@ -113277,7 +113370,7 @@
   },
   "greenhouse:Coupang:8319602": {
     "company": "Coupang",
-    "enriched_at": "2026-11-13T06:42:49.572575+00:00",
+    "enriched_at": "2026-11-14T06:19:46.738215+00:00",
     "external_id": "8319602",
     "h1b_mentioned": false,
     "h1b_status": "unknown",
@@ -113297,12 +113390,12 @@
     "salary_period": "year",
     "salary_text": "$164,000/year",
     "source": "greenhouse",
-    "source_updated_at": "2026-11-12T21:25:24-05:00",
+    "source_updated_at": "2026-11-13T20:56:22-05:00",
     "sponsorship_evidence": ""
   },
   "greenhouse:Coupang:8335707": {
     "company": "Coupang",
-    "enriched_at": "2026-11-13T06:42:49.485330+00:00",
+    "enriched_at": "2026-11-14T06:19:46.635531+00:00",
     "external_id": "8335707",
     "h1b_mentioned": false,
     "h1b_status": "unknown",
@@ -113320,12 +113413,12 @@
     "salary_period": "year",
     "salary_text": "$140,000/year",
     "source": "greenhouse",
-    "source_updated_at": "2026-11-12T20:10:06-05:00",
+    "source_updated_at": "2026-11-13T20:56:33-05:00",
     "sponsorship_evidence": ""
   },
   "greenhouse:Coupang:8347854": {
     "company": "Coupang",
-    "enriched_at": "2026-11-13T06:42:49.548148+00:00",
+    "enriched_at": "2026-11-14T06:19:46.721441+00:00",
     "external_id": "8347854",
     "h1b_mentioned": false,
     "h1b_status": "unknown",
@@ -113346,7 +113439,7 @@
     "salary_period": "year",
     "salary_text": "$164,000/year",
     "source": "greenhouse",
-    "source_updated_at": "2026-11-12T20:10:09-05:00",
+    "source_updated_at": "2026-11-13T20:56:36-05:00",
     "sponsorship_evidence": ""
   },
   "greenhouse:Coupang:8351526": {
@@ -113375,16 +113468,14 @@
   },
   "greenhouse:Coupang:8354908": {
     "company": "Coupang",
-    "enriched_at": "2026-11-09T22:20:15.114175+00:00",
+    "enriched_at": "2026-11-14T06:19:46.691107+00:00",
     "external_id": "8354908",
     "h1b_mentioned": false,
     "h1b_status": "unknown",
     "keywords": [
-      "financial modeling",
       "accounting",
       "audit",
       "tax",
-      "risk management",
       "recruiting",
       "compliance",
       "legal"
@@ -113395,12 +113486,12 @@
     "salary_period": "year",
     "salary_text": "$155,000/year",
     "source": "greenhouse",
-    "source_updated_at": "2026-11-09T03:45:15-05:00",
+    "source_updated_at": "2026-11-13T16:11:42-05:00",
     "sponsorship_evidence": ""
   },
   "greenhouse:Coupang:8356962": {
     "company": "Coupang",
-    "enriched_at": "2026-11-13T06:42:49.559285+00:00",
+    "enriched_at": "2026-11-14T06:19:46.729051+00:00",
     "external_id": "8356962",
     "h1b_mentioned": false,
     "h1b_status": "unknown",
@@ -113419,7 +113510,7 @@
     "salary_period": "year",
     "salary_text": "$164K/year",
     "source": "greenhouse",
-    "source_updated_at": "2026-11-12T20:10:13-05:00",
+    "source_updated_at": "2026-11-13T20:56:38-05:00",
     "sponsorship_evidence": ""
   },
   "greenhouse:Coupang:8364554": {
@@ -113442,6 +113533,49 @@
     "salary_text": "$174,000/year",
     "source": "greenhouse",
     "source_updated_at": "2026-11-10T15:08:28-05:00",
+    "sponsorship_evidence": ""
+  },
+  "greenhouse:Coupang:8386063": {
+    "company": "Coupang",
+    "enriched_at": "2026-11-14T06:19:46.642360+00:00",
+    "external_id": "8386063",
+    "h1b_mentioned": false,
+    "h1b_status": "unknown",
+    "keywords": [
+      "Kubernetes",
+      "tax",
+      "recruiting"
+    ],
+    "salary_currency": "USD",
+    "salary_max": 159000.0,
+    "salary_min": 159000.0,
+    "salary_period": "year",
+    "salary_text": "$159,000/year",
+    "source": "greenhouse",
+    "source_updated_at": "2026-11-13T15:51:41-05:00",
+    "sponsorship_evidence": ""
+  },
+  "greenhouse:Coupang:8386291": {
+    "company": "Coupang",
+    "enriched_at": "2026-11-14T06:19:46.649910+00:00",
+    "external_id": "8386291",
+    "h1b_mentioned": false,
+    "h1b_status": "unknown",
+    "keywords": [
+      "analytics",
+      "tax",
+      "risk management",
+      "logistics",
+      "recruiting",
+      "compliance"
+    ],
+    "salary_currency": "USD",
+    "salary_max": 155000.0,
+    "salary_min": 155000.0,
+    "salary_period": "year",
+    "salary_text": "$155K/year",
+    "source": "greenhouse",
+    "source_updated_at": "2026-11-13T16:24:10-05:00",
     "sponsorship_evidence": ""
   },
   "greenhouse:DoorDash:3236374": {
@@ -121810,7 +121944,7 @@
   },
   "greenhouse:DoorDash:8041387": {
     "company": "DoorDash",
-    "enriched_at": "2026-11-05T06:44:13.429390+00:00",
+    "enriched_at": "2026-11-14T06:19:47.211264+00:00",
     "external_id": "8041387",
     "h1b_mentioned": false,
     "h1b_status": "unknown",
@@ -121818,10 +121952,12 @@
       "SQL",
       "analytics",
       "Excel",
+      "audit",
       "logistics",
       "CRM",
       "recruiting",
-      "compliance"
+      "compliance",
+      "legal"
     ],
     "salary_currency": "",
     "salary_max": null,
@@ -121829,7 +121965,7 @@
     "salary_period": "",
     "salary_text": "",
     "source": "greenhouse",
-    "source_updated_at": "2026-11-04T16:15:15-05:00",
+    "source_updated_at": "2026-11-13T17:45:55-05:00",
     "sponsorship_evidence": ""
   },
   "greenhouse:DoorDash:8041960": {
@@ -123010,7 +123146,7 @@
   },
   "greenhouse:DoorDash:8068432": {
     "company": "DoorDash",
-    "enriched_at": "2026-09-17T16:59:08.356044+00:00",
+    "enriched_at": "2026-11-14T06:19:47.191315+00:00",
     "external_id": "8068432",
     "h1b_mentioned": false,
     "h1b_status": "unknown",
@@ -123020,7 +123156,8 @@
       "logistics",
       "sales",
       "recruiting",
-      "compliance"
+      "compliance",
+      "legal"
     ],
     "salary_currency": "",
     "salary_max": null,
@@ -123028,7 +123165,7 @@
     "salary_period": "",
     "salary_text": "",
     "source": "greenhouse",
-    "source_updated_at": "2026-09-17T10:20:42-04:00",
+    "source_updated_at": "2026-11-13T15:38:58-05:00",
     "sponsorship_evidence": ""
   },
   "greenhouse:DoorDash:8068444": {
@@ -134195,16 +134332,18 @@
   },
   "greenhouse:DoorDash:8301438": {
     "company": "DoorDash",
-    "enriched_at": "2026-11-05T06:44:11.934035+00:00",
+    "enriched_at": "2026-11-14T06:19:47.201308+00:00",
     "external_id": "8301438",
     "h1b_mentioned": false,
     "h1b_status": "unknown",
     "keywords": [
       "Excel",
+      "audit",
       "logistics",
       "sales",
       "recruiting",
-      "compliance"
+      "compliance",
+      "legal"
     ],
     "salary_currency": "",
     "salary_max": null,
@@ -134212,7 +134351,7 @@
     "salary_period": "",
     "salary_text": "",
     "source": "greenhouse",
-    "source_updated_at": "2026-11-04T16:15:15-05:00",
+    "source_updated_at": "2026-11-13T17:45:33-05:00",
     "sponsorship_evidence": ""
   },
   "greenhouse:DoorDash:8301776": {
@@ -136726,7 +136865,7 @@
   },
   "greenhouse:DoorDash:8384411": {
     "company": "DoorDash",
-    "enriched_at": "2026-11-13T19:40:31.356609+00:00",
+    "enriched_at": "2026-11-14T06:19:47.222153+00:00",
     "external_id": "8384411",
     "h1b_mentioned": false,
     "h1b_status": "unknown",
@@ -136746,7 +136885,56 @@
     "salary_period": "",
     "salary_text": "",
     "source": "greenhouse",
-    "source_updated_at": "2026-11-13T04:16:28-05:00",
+    "source_updated_at": "2026-11-13T16:53:20-05:00",
+    "sponsorship_evidence": ""
+  },
+  "greenhouse:DoorDash:8386082": {
+    "company": "DoorDash",
+    "enriched_at": "2026-11-14T06:19:47.232044+00:00",
+    "external_id": "8386082",
+    "h1b_mentioned": false,
+    "h1b_status": "unknown",
+    "keywords": [
+      "Python",
+      "SQL",
+      "analytics",
+      "Excel",
+      "audit",
+      "logistics",
+      "recruiting",
+      "compliance",
+      "legal"
+    ],
+    "salary_currency": "",
+    "salary_max": null,
+    "salary_min": null,
+    "salary_period": "",
+    "salary_text": "",
+    "source": "greenhouse",
+    "source_updated_at": "2026-11-13T17:21:36-05:00",
+    "sponsorship_evidence": ""
+  },
+  "greenhouse:DoorDash:8386180": {
+    "company": "DoorDash",
+    "enriched_at": "2026-11-14T06:19:47.244655+00:00",
+    "external_id": "8386180",
+    "h1b_mentioned": false,
+    "h1b_status": "unknown",
+    "keywords": [
+      "Excel",
+      "audit",
+      "logistics",
+      "recruiting",
+      "compliance",
+      "legal"
+    ],
+    "salary_currency": "",
+    "salary_max": null,
+    "salary_min": null,
+    "salary_period": "",
+    "salary_text": "",
+    "source": "greenhouse",
+    "source_updated_at": "2026-11-13T15:14:32-05:00",
     "sponsorship_evidence": ""
   },
   "greenhouse:Oscar Health:3083308": {
@@ -148244,6 +148432,52 @@
     "salary_text": "$149,040.00 - $195,615.00 per year",
     "source": "greenhouse",
     "source_updated_at": "2026-11-12T19:06:04-05:00",
+    "sponsorship_evidence": ""
+  },
+  "greenhouse:Oscar Health:8386248": {
+    "company": "Oscar Health",
+    "enriched_at": "2026-11-14T06:20:31.371106+00:00",
+    "external_id": "8386248",
+    "h1b_mentioned": false,
+    "h1b_status": "unknown",
+    "keywords": [
+      "artificial intelligence",
+      "sales",
+      "CRM",
+      "recruiting",
+      "compliance",
+      "contracts"
+    ],
+    "salary_currency": "USD",
+    "salary_max": 73355.63,
+    "salary_min": 55890.0,
+    "salary_period": "year",
+    "salary_text": "$55,890.00 - $73,355.63 per year",
+    "source": "greenhouse",
+    "source_updated_at": "2026-11-13T17:18:54-05:00",
+    "sponsorship_evidence": ""
+  },
+  "greenhouse:Oscar Health:8386823": {
+    "company": "Oscar Health",
+    "enriched_at": "2026-11-14T06:20:31.365291+00:00",
+    "external_id": "8386823",
+    "h1b_mentioned": false,
+    "h1b_status": "unknown",
+    "keywords": [
+      "artificial intelligence",
+      "sales",
+      "CRM",
+      "recruiting",
+      "compliance",
+      "contracts"
+    ],
+    "salary_currency": "USD",
+    "salary_max": 73355.63,
+    "salary_min": 55890.0,
+    "salary_period": "year",
+    "salary_text": "$55,890.00 - $73,355.63 per year",
+    "source": "greenhouse",
+    "source_updated_at": "2026-11-13T17:18:56-05:00",
     "sponsorship_evidence": ""
   },
   "workday:3M:/job/DE-Kempten/Ausbildung---Chemielaborant--m-w---_R01168133-1": {
@@ -227017,7 +227251,7 @@
   },
   "workday:Capital One:/job/Baton-Rouge-LA/Full-Time-Branch-Ambassador---Shenandoah_R1003993": {
     "company": "Capital One",
-    "enriched_at": "2026-11-07T05:57:27.231374+00:00",
+    "enriched_at": "2026-11-14T06:20:20.799200+00:00",
     "external_id": "/job/Baton-Rouge-LA/Full-Time-Branch-Ambassador---Shenandoah_R1003993",
     "h1b_mentioned": true,
     "h1b_status": "does_not_support_h1b",
@@ -227485,7 +227719,7 @@
   },
   "workday:Capital One:/job/Chalmette-LA/Full-Time-Branch-Ambassador---Civic-Center_R1003833-1": {
     "company": "Capital One",
-    "enriched_at": "2026-11-07T05:57:27.428954+00:00",
+    "enriched_at": "2026-11-14T06:20:20.919227+00:00",
     "external_id": "/job/Chalmette-LA/Full-Time-Branch-Ambassador---Civic-Center_R1003833-1",
     "h1b_mentioned": true,
     "h1b_status": "does_not_support_h1b",
@@ -229306,7 +229540,7 @@
   },
   "workday:Capital One:/job/Denver--CO/Caf-Ambassador--Union-Station-LoDo_R1004849-1": {
     "company": "Capital One",
-    "enriched_at": "2026-11-07T05:57:27.276553+00:00",
+    "enriched_at": "2026-11-14T06:20:20.821880+00:00",
     "external_id": "/job/Denver--CO/Caf-Ambassador--Union-Station-LoDo_R1004849-1",
     "h1b_mentioned": true,
     "h1b_status": "does_not_support_h1b",
@@ -232337,6 +232571,27 @@
     "source_updated_at": "",
     "sponsorship_evidence": ""
   },
+  "workday:Capital One:/job/McLean-VA/Full-Time-Branch-Ambassador---Mclean_R1005805-1": {
+    "company": "Capital One",
+    "enriched_at": "2026-11-14T06:20:20.760036+00:00",
+    "external_id": "/job/McLean-VA/Full-Time-Branch-Ambassador---Mclean_R1005805-1",
+    "h1b_mentioned": true,
+    "h1b_status": "does_not_support_h1b",
+    "keywords": [
+      "audit",
+      "sales",
+      "recruiting",
+      "compliance"
+    ],
+    "salary_currency": "",
+    "salary_max": null,
+    "salary_min": null,
+    "salary_period": "",
+    "salary_text": "",
+    "source": "workday",
+    "source_updated_at": "",
+    "sponsorship_evidence": "king for? Let\u2019s build the future of banking together! At this time, Capital One will not sponsor a new applicant for employment authorization, or offer any immigration related support for this position (e."
+  },
   "workday:Capital One:/job/McLean-VA/Full-Time-Branch-Ambassador---Northern-Virginia--Arlington-Alexandria-Areas-_R1000886": {
     "company": "Capital One",
     "enriched_at": "2026-11-07T12:59:12.933230+00:00",
@@ -232621,7 +232876,7 @@
   },
   "workday:Capital One:/job/McLean-VA/Full-stack-Engineer-4--Manager--IC---Nodejs--TypeScript--AWS-_R1001666": {
     "company": "Capital One",
-    "enriched_at": "2026-11-07T05:57:27.443163+00:00",
+    "enriched_at": "2026-11-14T06:20:20.928445+00:00",
     "external_id": "/job/McLean-VA/Full-stack-Engineer-4--Manager--IC---Nodejs--TypeScript--AWS-_R1001666",
     "h1b_mentioned": true,
     "h1b_status": "does_not_support_h1b",
@@ -233810,7 +234065,7 @@
   },
   "workday:Capital One:/job/McLean-VA/Full-stack-Engineer-4_R1003751": {
     "company": "Capital One",
-    "enriched_at": "2026-11-07T05:57:27.390832+00:00",
+    "enriched_at": "2026-11-14T06:20:20.894642+00:00",
     "external_id": "/job/McLean-VA/Full-stack-Engineer-4_R1003751",
     "h1b_mentioned": true,
     "h1b_status": "does_not_support_h1b",
@@ -234042,7 +234297,7 @@
   },
   "workday:Capital One:/job/McLean-VA/Full-stack-Engineer-4_R1004571-2": {
     "company": "Capital One",
-    "enriched_at": "2026-11-07T05:57:27.318491+00:00",
+    "enriched_at": "2026-11-14T06:20:20.848881+00:00",
     "external_id": "/job/McLean-VA/Full-stack-Engineer-4_R1004571-2",
     "h1b_mentioned": true,
     "h1b_status": "does_not_support_h1b",
@@ -234631,7 +234886,7 @@
   },
   "workday:Capital One:/job/McLean-VA/KippsDeSanto---Investment-Banking-Analyst_R1004840-1": {
     "company": "Capital One",
-    "enriched_at": "2026-11-07T05:57:27.290302+00:00",
+    "enriched_at": "2026-11-14T06:20:20.830839+00:00",
     "external_id": "/job/McLean-VA/KippsDeSanto---Investment-Banking-Analyst_R1004840-1",
     "h1b_mentioned": false,
     "h1b_status": "does_not_support_h1b",
@@ -237718,7 +237973,7 @@
   },
   "workday:Capital One:/job/McLean-VA/Manager--Community-Finance---Governance-and-Process-Operations_R1003918-2": {
     "company": "Capital One",
-    "enriched_at": "2026-11-07T05:57:27.401456+00:00",
+    "enriched_at": "2026-11-14T06:20:20.901538+00:00",
     "external_id": "/job/McLean-VA/Manager--Community-Finance---Governance-and-Process-Operations_R1003918-2",
     "h1b_mentioned": false,
     "h1b_status": "does_not_support_h1b",
@@ -237739,7 +237994,7 @@
   },
   "workday:Capital One:/job/McLean-VA/Manager--Compliance-Privacy-Advisor_R1003708-1": {
     "company": "Capital One",
-    "enriched_at": "2026-11-07T05:57:27.219268+00:00",
+    "enriched_at": "2026-11-14T06:20:20.791441+00:00",
     "external_id": "/job/McLean-VA/Manager--Compliance-Privacy-Advisor_R1003708-1",
     "h1b_mentioned": true,
     "h1b_status": "does_not_support_h1b",
@@ -237821,7 +238076,7 @@
   },
   "workday:Capital One:/job/McLean-VA/Manager--Data-Science---Model-Risk-Office_R1003550-1": {
     "company": "Capital One",
-    "enriched_at": "2026-11-07T05:57:27.265590+00:00",
+    "enriched_at": "2026-11-14T06:20:20.814969+00:00",
     "external_id": "/job/McLean-VA/Manager--Data-Science---Model-Risk-Office_R1003550-1",
     "h1b_mentioned": false,
     "h1b_status": "unknown",
@@ -240369,7 +240624,7 @@
   },
   "workday:Capital One:/job/McLean-VA/Senior-Associate--Project-Manager---SBB-Data-Evangelization_R1003575-2": {
     "company": "Capital One",
-    "enriched_at": "2026-11-07T05:57:27.417497+00:00",
+    "enriched_at": "2026-11-14T06:20:20.911832+00:00",
     "external_id": "/job/McLean-VA/Senior-Associate--Project-Manager---SBB-Data-Evangelization_R1003575-2",
     "h1b_mentioned": true,
     "h1b_status": "does_not_support_h1b",
@@ -240600,6 +240855,30 @@
       "risk management",
       "mechanical engineering",
       "sales",
+      "recruiting",
+      "compliance"
+    ],
+    "salary_currency": "",
+    "salary_max": null,
+    "salary_min": null,
+    "salary_period": "",
+    "salary_text": "",
+    "source": "workday",
+    "source_updated_at": "",
+    "sponsorship_evidence": ""
+  },
+  "workday:Capital One:/job/McLean-VA/Senior-Business-Analyst---Commercial-Risk-Management--Strategy---Analytics-_R1000949": {
+    "company": "Capital One",
+    "enriched_at": "2026-11-14T06:20:20.752474+00:00",
+    "external_id": "/job/McLean-VA/Senior-Business-Analyst---Commercial-Risk-Management--Strategy---Analytics-_R1000949",
+    "h1b_mentioned": false,
+    "h1b_status": "unknown",
+    "keywords": [
+      "SQL",
+      "analytics",
+      "accounting",
+      "risk management",
+      "mechanical engineering",
       "recruiting",
       "compliance"
     ],
@@ -241980,7 +242259,7 @@
   },
   "workday:Capital One:/job/McLean-VA/Site-Reliability-Engineer-5_R1004883-1": {
     "company": "Capital One",
-    "enriched_at": "2026-11-07T05:57:27.307793+00:00",
+    "enriched_at": "2026-11-14T06:20:20.842086+00:00",
     "external_id": "/job/McLean-VA/Site-Reliability-Engineer-5_R1004883-1",
     "h1b_mentioned": false,
     "h1b_status": "unknown",
@@ -242192,7 +242471,7 @@
   },
   "workday:Capital One:/job/McLean-VA/Sr-Associate--Cash-Forecasting_R1004365-2": {
     "company": "Capital One",
-    "enriched_at": "2026-11-07T05:57:27.327819+00:00",
+    "enriched_at": "2026-11-14T06:20:20.854758+00:00",
     "external_id": "/job/McLean-VA/Sr-Associate--Cash-Forecasting_R1004365-2",
     "h1b_mentioned": true,
     "h1b_status": "does_not_support_h1b",
@@ -245611,7 +245890,7 @@
   },
   "workday:Capital One:/job/New-York-NY/Senior-Associate--Data-Scientist----Business-Cards-Marketing-Data-Science_R248511-1": {
     "company": "Capital One",
-    "enriched_at": "2026-11-07T05:57:27.338756+00:00",
+    "enriched_at": "2026-11-14T06:20:20.861683+00:00",
     "external_id": "/job/New-York-NY/Senior-Associate--Data-Scientist----Business-Cards-Marketing-Data-Science_R248511-1",
     "h1b_mentioned": false,
     "h1b_status": "unknown",
@@ -246806,7 +247085,7 @@
   },
   "workday:Capital One:/job/Plano-TX/Compliance-Tester-III_R1003932-1": {
     "company": "Capital One",
-    "enriched_at": "2026-11-07T05:57:27.381960+00:00",
+    "enriched_at": "2026-11-14T06:20:20.888979+00:00",
     "external_id": "/job/Plano-TX/Compliance-Tester-III_R1003932-1",
     "h1b_mentioned": false,
     "h1b_status": "does_not_support_h1b",
@@ -246966,6 +247245,32 @@
     "company": "Capital One",
     "enriched_at": "2026-10-29T05:46:49.562713+00:00",
     "external_id": "/job/Plano-TX/Data-Engineer-4_R1001702-1",
+    "h1b_mentioned": true,
+    "h1b_status": "does_not_support_h1b",
+    "keywords": [
+      "Python",
+      "Java",
+      "SQL",
+      "AWS",
+      "Azure",
+      "machine learning",
+      "analytics",
+      "recruiting",
+      "compliance"
+    ],
+    "salary_currency": "",
+    "salary_max": null,
+    "salary_min": null,
+    "salary_period": "",
+    "salary_text": "",
+    "source": "workday",
+    "source_updated_at": "",
+    "sponsorship_evidence": "rience developing user-centric reusable data products At this time, Capital One will not sponsor a new applicant for employment authorization, or offer any immigration related support for this position (e."
+  },
+  "workday:Capital One:/job/Plano-TX/Data-Engineer-4_R1005335-1": {
+    "company": "Capital One",
+    "enriched_at": "2026-11-14T06:20:20.767688+00:00",
+    "external_id": "/job/Plano-TX/Data-Engineer-4_R1005335-1",
     "h1b_mentioned": true,
     "h1b_status": "does_not_support_h1b",
     "keywords": [
@@ -247200,7 +247505,7 @@
   },
   "workday:Capital One:/job/Plano-TX/Director--Compliance-Advisory_R1004702-1": {
     "company": "Capital One",
-    "enriched_at": "2026-11-07T05:57:27.245172+00:00",
+    "enriched_at": "2026-11-14T06:20:20.808183+00:00",
     "external_id": "/job/Plano-TX/Director--Compliance-Advisory_R1004702-1",
     "h1b_mentioned": true,
     "h1b_status": "does_not_support_h1b",
@@ -250607,7 +250912,7 @@
   },
   "workday:Capital One:/job/Plano-TX/Manager--Data-Analysis---Auto-Navigator-_R1002013-1": {
     "company": "Capital One",
-    "enriched_at": "2026-11-07T05:57:27.358727+00:00",
+    "enriched_at": "2026-11-14T06:20:20.874289+00:00",
     "external_id": "/job/Plano-TX/Manager--Data-Analysis---Auto-Navigator-_R1002013-1",
     "h1b_mentioned": false,
     "h1b_status": "unknown",
@@ -252724,7 +253029,7 @@
   },
   "workday:Capital One:/job/Plano-TX/Senior-Manager--Full-Stack-Engineer--Java---JavaScript---Typescript---AWS-_R1005153": {
     "company": "Capital One",
-    "enriched_at": "2026-11-07T05:57:27.187229+00:00",
+    "enriched_at": "2026-11-14T06:20:20.775452+00:00",
     "external_id": "/job/Plano-TX/Senior-Manager--Full-Stack-Engineer--Java---JavaScript---Typescript---AWS-_R1005153",
     "h1b_mentioned": false,
     "h1b_status": "unknown",
@@ -255454,7 +255759,7 @@
   },
   "workday:Capital One:/job/Richmond-VA/Full-stack-Engineer-4_R1003297-2": {
     "company": "Capital One",
-    "enriched_at": "2026-11-07T05:57:27.298358+00:00",
+    "enriched_at": "2026-11-14T06:20:20.835981+00:00",
     "external_id": "/job/Richmond-VA/Full-stack-Engineer-4_R1003297-2",
     "h1b_mentioned": true,
     "h1b_status": "does_not_support_h1b",
@@ -255483,7 +255788,7 @@
   },
   "workday:Capital One:/job/Richmond-VA/Full-stack-Engineer-4_R1003642-1": {
     "company": "Capital One",
-    "enriched_at": "2026-11-07T05:57:27.201862+00:00",
+    "enriched_at": "2026-11-14T06:20:20.785158+00:00",
     "external_id": "/job/Richmond-VA/Full-stack-Engineer-4_R1003642-1",
     "h1b_mentioned": true,
     "h1b_status": "does_not_support_h1b",
@@ -256434,7 +256739,7 @@
   },
   "workday:Capital One:/job/Richmond-VA/Principal-Risk-Specialist_R1004609-1": {
     "company": "Capital One",
-    "enriched_at": "2026-11-07T05:57:27.350414+00:00",
+    "enriched_at": "2026-11-14T06:20:20.868993+00:00",
     "external_id": "/job/Richmond-VA/Principal-Risk-Specialist_R1004609-1",
     "h1b_mentioned": true,
     "h1b_status": "does_not_support_h1b",
@@ -258013,7 +258318,7 @@
   },
   "workday:Capital One:/job/San-Francisco--CA/Director--Project-Management_R1003831-1": {
     "company": "Capital One",
-    "enriched_at": "2026-11-07T05:57:27.370795+00:00",
+    "enriched_at": "2026-11-14T06:20:20.881896+00:00",
     "external_id": "/job/San-Francisco--CA/Director--Project-Management_R1003831-1",
     "h1b_mentioned": true,
     "h1b_status": "does_not_support_h1b",
@@ -1158972,6 +1159277,28 @@
     "source_updated_at": "",
     "sponsorship_evidence": ""
   },
+  "workday:Salesforce:/job/California---San-Francisco/Executive-Assistant-Senior-Executive-Assistant_JR368394": {
+    "company": "Salesforce",
+    "enriched_at": "2026-11-14T06:19:49.156407+00:00",
+    "external_id": "/job/California---San-Francisco/Executive-Assistant-Senior-Executive-Assistant_JR368394",
+    "h1b_mentioned": false,
+    "h1b_status": "unknown",
+    "keywords": [
+      "artificial intelligence",
+      "sales",
+      "CRM",
+      "recruiting",
+      "legal"
+    ],
+    "salary_currency": "USD",
+    "salary_max": 145200.0,
+    "salary_min": 81800.0,
+    "salary_period": "year",
+    "salary_text": "$81,800 - $145,200 annually",
+    "source": "workday",
+    "source_updated_at": "",
+    "sponsorship_evidence": ""
+  },
   "workday:Salesforce:/job/California---San-Francisco/Expert-Agent-Builder--Forward-Deployed-Engineering_JR360234": {
     "company": "Salesforce",
     "enriched_at": "2026-09-25T04:56:45.727071+00:00",
@@ -1160603,6 +1160930,30 @@
     "h1b_status": "unknown",
     "keywords": [
       "artificial intelligence",
+      "sales",
+      "CRM",
+      "recruiting",
+      "legal"
+    ],
+    "salary_currency": "USD",
+    "salary_max": 260100.0,
+    "salary_min": 172500.0,
+    "salary_period": "year",
+    "salary_text": "$172,500 - $260,100 annually",
+    "source": "workday",
+    "source_updated_at": "",
+    "sponsorship_evidence": ""
+  },
+  "workday:Salesforce:/job/California---San-Francisco/Senior-Product-Manager--Tableau-Applied-AI_JR367767": {
+    "company": "Salesforce",
+    "enriched_at": "2026-11-14T06:19:49.137682+00:00",
+    "external_id": "/job/California---San-Francisco/Senior-Product-Manager--Tableau-Applied-AI_JR367767",
+    "h1b_mentioned": false,
+    "h1b_status": "unknown",
+    "keywords": [
+      "artificial intelligence",
+      "data science",
+      "analytics",
       "sales",
       "CRM",
       "recruiting",
@@ -1165071,6 +1165422,29 @@
     "salary_min": 46.0,
     "salary_period": "hour",
     "salary_text": "$46 - $57 per hour",
+    "source": "workday",
+    "source_updated_at": "",
+    "sponsorship_evidence": ""
+  },
+  "workday:Salesforce:/job/New-York---New-York/Summer-2027-Intern---Sales-Immersion--Financial-Services_JR368293-1": {
+    "company": "Salesforce",
+    "enriched_at": "2026-11-14T06:19:49.147987+00:00",
+    "external_id": "/job/New-York---New-York/Summer-2027-Intern---Sales-Immersion--Financial-Services_JR368293-1",
+    "h1b_mentioned": false,
+    "h1b_status": "unknown",
+    "keywords": [
+      "artificial intelligence",
+      "Excel",
+      "sales",
+      "CRM",
+      "recruiting",
+      "legal"
+    ],
+    "salary_currency": "USD",
+    "salary_max": 32.0,
+    "salary_min": 30.0,
+    "salary_period": "hour",
+    "salary_text": "$30 - $32 per hour",
     "source": "workday",
     "source_updated_at": "",
     "sponsorship_evidence": ""

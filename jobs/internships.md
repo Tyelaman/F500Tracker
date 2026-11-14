@@ -1,12 +1,12 @@
 # F500Tracker internships
 
-Last updated: November 13, 2026 at 20:29 UTC
+Last updated: November 14, 2026 at 06:20 UTC
 
-Current internships: 363
+Current internships: 364
 
 ## Categories
 
-[Software & IT (37)](#software-it) · [Data & AI (9)](#data-ai) · [Product & Design (1)](#product-design) · [Engineering (56)](#engineering) · [Finance & Accounting (7)](#finance-accounting) · [Sales & Marketing (7)](#sales-marketing) · [Operations & Supply Chain (24)](#operations-supply-chain) · [People & Legal (1)](#people-legal) · [Other (221)](#other)
+[Software & IT (37)](#software-it) · [Data & AI (9)](#data-ai) · [Product & Design (1)](#product-design) · [Engineering (56)](#engineering) · [Finance & Accounting (8)](#finance-accounting) · [Sales & Marketing (7)](#sales-marketing) · [Operations & Supply Chain (24)](#operations-supply-chain) · [People & Legal (1)](#people-legal) · [Other (221)](#other)
 
 <a id="software-it"></a>
 
@@ -159,10 +159,11 @@ Open positions: 56
 
 ## Finance & Accounting
 
-Open positions: 7
+Open positions: 8
 
 | Rank | Company | Position | Location | Category | Salary | Keywords | Sponsorship | Apply |
 |---:|---|---|---|---|---|---|---|---|
+| 114 | Salesforce | Summer 2027 Intern - Sales Immersion, Financial Services | New York - New York | Finance & Accounting | $30–$32/hr | artificial intelligence · Excel · sales · CRM · recruiting | Not specified | [Apply](https://salesforce.wd12.myworkdayjobs.com/en-US/External_Career_Site/job/New-York---New-York/Summer-2027-Intern---Sales-Immersion--Financial-Services_JR368293-1) |
 | 294 | S&P Global | Summer Intern, Managed Services - Tax Outsourcing | Massachusetts, US | Finance & Accounting | Not disclosed | Excel · tax · supply chain · sales · compliance | Not specified | [Apply](https://spgi.wd5.myworkdayjobs.com/en-US/SPGI_Careers/job/Massachusetts-US/Managed-Services---Tax-Outsourcing_332648) |
 | 30 | Marathon Petroleum | Intern/Co-op - Accounting (Spring 2027 - Denver, CO)) | Denver CO | Finance & Accounting | $0–$999.99/hr | accounting · audit · tax · supply chain · logistics | No sponsorship for this position | [Apply](https://mpc.wd1.myworkdayjobs.com/en-US/MPCCareers/job/Denver-CO/Intern-Co-op---Accounting--Spring-2027---Denver--CO--_00025251) |
 | 49 | RTX | Finance Intern (Summer 2027) | US-TX-MCKINNEY-513PW ~ 2501 W University Dr ~ PW BLDG | Finance & Accounting | Not disclosed | Excel · accounting · compliance · contracts | Not specified | [Apply](https://globalhr.wd5.myworkdayjobs.com/en-US/REC_RTX_Ext_Gateway/job/US-TX-MCKINNEY-513PW--2501-W-University-Dr--PW-BLDG/Finance-Intern--Summer-2027-_01889012) |
