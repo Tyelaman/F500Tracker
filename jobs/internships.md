@@ -1,12 +1,12 @@
 # F500Tracker internships
 
-Last updated: November 16, 2026 at 06:37 UTC
+Last updated: November 16, 2026 at 22:03 UTC
 
-Current internships: 346
+Current internships: 345
 
 ## Categories
 
-[Software & IT (35)](#software-it) · [Data & AI (8)](#data-ai) · [Product & Design (1)](#product-design) · [Engineering (52)](#engineering) · [Finance & Accounting (8)](#finance-accounting) · [Sales & Marketing (7)](#sales-marketing) · [Operations & Supply Chain (23)](#operations-supply-chain) · [People & Legal (1)](#people-legal) · [Other (211)](#other)
+[Software & IT (35)](#software-it) · [Data & AI (8)](#data-ai) · [Product & Design (1)](#product-design) · [Engineering (52)](#engineering) · [Finance & Accounting (7)](#finance-accounting) · [Sales & Marketing (7)](#sales-marketing) · [Operations & Supply Chain (23)](#operations-supply-chain) · [People & Legal (1)](#people-legal) · [Other (211)](#other)
 
 <a id="software-it"></a>
 
@@ -152,7 +152,7 @@ Open positions: 52
 
 ## Finance & Accounting
 
-Open positions: 8
+Open positions: 7
 
 | Rank | Company | Position | Location | Category | Salary | Keywords | Sponsorship | Apply |
 |---:|---|---|---|---|---|---|---|---|
@@ -163,7 +163,6 @@ Open positions: 8
 | 52 | Lowe's | Finance Intern – Graduate Internship – Summer 2027 | Mooresville, NC (SSC) 1999 | Finance & Accounting | Not disclosed | Excel · accounting · supply chain · sales | Not specified | [Apply](https://lowes.wd5.myworkdayjobs.com/en-US/LWS_External_CS/job/Mooresville-NC-SSC-1999/Finance-Intern---Graduate-Internship---Summer-2027_JR-02673498) |
 | 52 | Lowe's | Accounting Intern – Undergrad Internship – Summer 2027 | Mooresville, NC (SSC) 1999 | Finance & Accounting | Not disclosed | Excel · accounting · sales · compliance | Not specified | [Apply](https://lowes.wd5.myworkdayjobs.com/en-US/LWS_External_CS/job/Mooresville-NC-SSC-1999/Accounting-Intern---Undergrad-Internship---Summer-2027_JR-02662488-1) |
 | 99 | Nike | NIKE, Inc. Finance Graduate Internship | Beaverton, Oregon | Finance & Accounting | Not disclosed | financial modeling · supply chain | Not specified | [Apply](https://nike.wd1.myworkdayjobs.com/en-US/nke/job/Beaverton-Oregon/NIKE--Inc-Finance-Graduate-Internship_R-91119) |
-| 114 | Salesforce | Summer 2027 Intern - Sales Immersion, Financial Services | New York - New York | Finance & Accounting | $30–$32/hr | artificial intelligence · Excel · sales · CRM · recruiting | Not specified | [Apply](https://salesforce.wd12.myworkdayjobs.com/en-US/External_Career_Site/job/New-York---New-York/Summer-2027-Intern---Sales-Immersion--Financial-Services_JR368293-1) |
 
 [Back to categories](#categories) · [Back to README](../README.md)
 
