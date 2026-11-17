@@ -5871,6 +5871,110 @@
     "source_updated_at": "2026-11-16T12:21:36-05:00",
     "sponsorship_evidence": ""
   },
+  "greenhouse:Airbnb:8393726": {
+    "company": "Airbnb",
+    "enriched_at": "2026-11-17T07:53:35.365833+00:00",
+    "external_id": "8393726",
+    "h1b_mentioned": false,
+    "h1b_status": "unknown",
+    "keywords": [
+      "Python",
+      "Java",
+      "Kubernetes",
+      "machine learning",
+      "recruiting"
+    ],
+    "salary_currency": "",
+    "salary_max": null,
+    "salary_min": null,
+    "salary_period": "",
+    "salary_text": "",
+    "source": "greenhouse",
+    "source_updated_at": "2026-11-16T18:03:26-05:00",
+    "sponsorship_evidence": ""
+  },
+  "greenhouse:Airbnb:8393912": {
+    "company": "Airbnb",
+    "enriched_at": "2026-11-17T07:53:35.419073+00:00",
+    "external_id": "8393912",
+    "h1b_mentioned": false,
+    "h1b_status": "unknown",
+    "keywords": [
+      "recruiting"
+    ],
+    "salary_currency": "",
+    "salary_max": null,
+    "salary_min": null,
+    "salary_period": "",
+    "salary_text": "",
+    "source": "greenhouse",
+    "source_updated_at": "2026-11-16T17:07:16-05:00",
+    "sponsorship_evidence": ""
+  },
+  "greenhouse:Airbnb:8394151": {
+    "company": "Airbnb",
+    "enriched_at": "2026-11-17T07:53:35.402770+00:00",
+    "external_id": "8394151",
+    "h1b_mentioned": false,
+    "h1b_status": "unknown",
+    "keywords": [
+      "Python",
+      "SQL",
+      "machine learning",
+      "artificial intelligence",
+      "data science",
+      "recruiting"
+    ],
+    "salary_currency": "",
+    "salary_max": null,
+    "salary_min": null,
+    "salary_period": "",
+    "salary_text": "",
+    "source": "greenhouse",
+    "source_updated_at": "2026-11-16T17:10:18-05:00",
+    "sponsorship_evidence": ""
+  },
+  "greenhouse:Airbnb:8394382": {
+    "company": "Airbnb",
+    "enriched_at": "2026-11-17T07:53:35.353297+00:00",
+    "external_id": "8394382",
+    "h1b_mentioned": false,
+    "h1b_status": "unknown",
+    "keywords": [
+      "machine learning",
+      "data science",
+      "SEO",
+      "recruiting",
+      "legal"
+    ],
+    "salary_currency": "",
+    "salary_max": null,
+    "salary_min": null,
+    "salary_period": "",
+    "salary_text": "",
+    "source": "greenhouse",
+    "source_updated_at": "2026-11-16T19:53:52-05:00",
+    "sponsorship_evidence": ""
+  },
+  "greenhouse:Airbnb:8394433": {
+    "company": "Airbnb",
+    "enriched_at": "2026-11-17T07:53:35.383742+00:00",
+    "external_id": "8394433",
+    "h1b_mentioned": false,
+    "h1b_status": "unknown",
+    "keywords": [
+      "analytics",
+      "recruiting"
+    ],
+    "salary_currency": "",
+    "salary_max": null,
+    "salary_min": null,
+    "salary_period": "",
+    "salary_text": "",
+    "source": "greenhouse",
+    "source_updated_at": "2026-11-16T19:19:38-05:00",
+    "sponsorship_evidence": ""
+  },
   "greenhouse:Block:4809166008": {
     "company": "Block",
     "enriched_at": "2026-09-22T11:36:45.084679+00:00",
@@ -6530,7 +6634,7 @@
   },
   "greenhouse:Block:5196194008": {
     "company": "Block",
-    "enriched_at": "2026-11-11T06:15:12.434584+00:00",
+    "enriched_at": "2026-11-17T07:53:34.866469+00:00",
     "external_id": "5196194008",
     "h1b_mentioned": false,
     "h1b_status": "unknown",
@@ -6545,7 +6649,7 @@
     "salary_period": "",
     "salary_text": "",
     "source": "greenhouse",
-    "source_updated_at": "2026-11-10T14:46:51-05:00",
+    "source_updated_at": "2026-11-16T17:46:43-05:00",
     "sponsorship_evidence": ""
   },
   "greenhouse:Block:5198097008": {
@@ -6770,7 +6874,7 @@
   },
   "greenhouse:Block:5207148008": {
     "company": "Block",
-    "enriched_at": "2026-11-11T06:15:12.421656+00:00",
+    "enriched_at": "2026-11-17T07:53:34.850694+00:00",
     "external_id": "5207148008",
     "h1b_mentioned": false,
     "h1b_status": "unknown",
@@ -6785,7 +6889,7 @@
     "salary_period": "",
     "salary_text": "",
     "source": "greenhouse",
-    "source_updated_at": "2026-11-10T14:46:51-05:00",
+    "source_updated_at": "2026-11-16T17:46:43-05:00",
     "sponsorship_evidence": ""
   },
   "greenhouse:Block:5212159008": {
@@ -11482,6 +11586,25 @@
     "source_updated_at": "2026-10-30T10:00:21-04:00",
     "sponsorship_evidence": ""
   },
+  "greenhouse:Block:5456605008": {
+    "company": "Block",
+    "enriched_at": "2026-11-17T07:53:34.819503+00:00",
+    "external_id": "5456605008",
+    "h1b_mentioned": false,
+    "h1b_status": "unknown",
+    "keywords": [
+      "sales",
+      "legal"
+    ],
+    "salary_currency": "",
+    "salary_max": null,
+    "salary_min": null,
+    "salary_period": "",
+    "salary_text": "",
+    "source": "greenhouse",
+    "source_updated_at": "2026-11-16T19:39:52-05:00",
+    "sponsorship_evidence": ""
+  },
   "greenhouse:Block:5456921008": {
     "company": "Block",
     "enriched_at": "2026-11-04T19:44:39.320990+00:00",
@@ -11815,7 +11938,7 @@
   },
   "greenhouse:Block:5476097008": {
     "company": "Block",
-    "enriched_at": "2026-11-12T00:41:34.561418+00:00",
+    "enriched_at": "2026-11-17T07:53:34.804648+00:00",
     "external_id": "5476097008",
     "h1b_mentioned": false,
     "h1b_status": "unknown",
@@ -11829,7 +11952,7 @@
     "salary_period": "",
     "salary_text": "",
     "source": "greenhouse",
-    "source_updated_at": "2026-11-11T14:01:59-05:00",
+    "source_updated_at": "2026-11-16T19:46:44-05:00",
     "sponsorship_evidence": ""
   },
   "greenhouse:Block:5476641008": {
@@ -11890,7 +12013,7 @@
   },
   "greenhouse:Block:5477220008": {
     "company": "Block",
-    "enriched_at": "2026-11-09T22:20:15.294509+00:00",
+    "enriched_at": "2026-11-17T07:53:34.833770+00:00",
     "external_id": "5477220008",
     "h1b_mentioned": false,
     "h1b_status": "unknown",
@@ -11908,7 +12031,7 @@
     "salary_period": "",
     "salary_text": "",
     "source": "greenhouse",
-    "source_updated_at": "2026-11-09T14:16:56-05:00",
+    "source_updated_at": "2026-11-16T23:31:41-05:00",
     "sponsorship_evidence": ""
   },
   "greenhouse:Block:5477312008": {
@@ -59480,7 +59603,7 @@
   },
   "greenhouse:Carvana:8167888": {
     "company": "Carvana",
-    "enriched_at": "2026-11-06T06:56:58.653231+00:00",
+    "enriched_at": "2026-11-17T07:56:27.423950+00:00",
     "external_id": "8167888",
     "h1b_mentioned": false,
     "h1b_status": "does_not_support_h1b",
@@ -59491,7 +59614,7 @@
     "salary_period": "hour",
     "salary_text": "$20.00 - $23.00 hourly",
     "source": "greenhouse",
-    "source_updated_at": "2026-11-05T18:28:14-05:00",
+    "source_updated_at": "2026-11-16T17:52:13-05:00",
     "sponsorship_evidence": "This role is not eligible for visa sponsorship."
   },
   "greenhouse:Carvana:8167952": {
@@ -68302,7 +68425,7 @@
   },
   "greenhouse:Carvana:8205107": {
     "company": "Carvana",
-    "enriched_at": "2026-11-11T06:29:36.990187+00:00",
+    "enriched_at": "2026-11-17T07:56:27.444667+00:00",
     "external_id": "8205107",
     "h1b_mentioned": false,
     "h1b_status": "unknown",
@@ -68316,7 +68439,7 @@
     "salary_period": "",
     "salary_text": "",
     "source": "greenhouse",
-    "source_updated_at": "2026-11-10T17:43:19-05:00",
+    "source_updated_at": "2026-11-16T17:04:52-05:00",
     "sponsorship_evidence": ""
   },
   "greenhouse:Carvana:8205112": {
@@ -112179,6 +112302,92 @@
     "source_updated_at": "2026-11-16T16:31:23-05:00",
     "sponsorship_evidence": ""
   },
+  "greenhouse:Carvana:8394335": {
+    "company": "Carvana",
+    "enriched_at": "2026-11-17T07:56:27.415987+00:00",
+    "external_id": "8394335",
+    "h1b_mentioned": false,
+    "h1b_status": "does_not_support_h1b",
+    "keywords": [],
+    "salary_currency": "USD",
+    "salary_max": 20.0,
+    "salary_min": 19.0,
+    "salary_period": "hour",
+    "salary_text": "$19-$20 hourly",
+    "source": "greenhouse",
+    "source_updated_at": "2026-11-16T17:12:09-05:00",
+    "sponsorship_evidence": "</em></strong><em> This role is not eligible for visa sponsorship."
+  },
+  "greenhouse:Carvana:8394417": {
+    "company": "Carvana",
+    "enriched_at": "2026-11-17T07:56:27.404811+00:00",
+    "external_id": "8394417",
+    "h1b_mentioned": false,
+    "h1b_status": "unknown",
+    "keywords": [
+      "Python",
+      "SQL",
+      "data science",
+      "analytics",
+      "legal"
+    ],
+    "salary_currency": "",
+    "salary_max": null,
+    "salary_min": null,
+    "salary_period": "",
+    "salary_text": "",
+    "source": "greenhouse",
+    "source_updated_at": "2026-11-16T18:51:18-05:00",
+    "sponsorship_evidence": ""
+  },
+  "greenhouse:Carvana:8394435": {
+    "company": "Carvana",
+    "enriched_at": "2026-11-17T07:56:27.436320+00:00",
+    "external_id": "8394435",
+    "h1b_mentioned": false,
+    "h1b_status": "does_not_support_h1b",
+    "keywords": [],
+    "salary_currency": "",
+    "salary_max": null,
+    "salary_min": null,
+    "salary_period": "",
+    "salary_text": "",
+    "source": "greenhouse",
+    "source_updated_at": "2026-11-16T18:03:56-05:00",
+    "sponsorship_evidence": "This role is not eligible for visa sponsorship."
+  },
+  "greenhouse:Carvana:8394439": {
+    "company": "Carvana",
+    "enriched_at": "2026-11-17T07:56:27.473936+00:00",
+    "external_id": "8394439",
+    "h1b_mentioned": false,
+    "h1b_status": "does_not_support_h1b",
+    "keywords": [],
+    "salary_currency": "USD",
+    "salary_max": 20.5,
+    "salary_min": 18.5,
+    "salary_period": "hour",
+    "salary_text": "$18.50-$20.50 hourly",
+    "source": "greenhouse",
+    "source_updated_at": "2026-11-16T18:07:36-05:00",
+    "sponsorship_evidence": "This role is not eligible for visa sponsorship."
+  },
+  "greenhouse:Carvana:8394442": {
+    "company": "Carvana",
+    "enriched_at": "2026-11-17T07:56:27.460771+00:00",
+    "external_id": "8394442",
+    "h1b_mentioned": false,
+    "h1b_status": "does_not_support_h1b",
+    "keywords": [],
+    "salary_currency": "",
+    "salary_max": null,
+    "salary_min": null,
+    "salary_period": "",
+    "salary_text": "",
+    "source": "greenhouse",
+    "source_updated_at": "2026-11-16T18:06:08-05:00",
+    "sponsorship_evidence": "This role is not eligible for visa sponsorship."
+  },
   "greenhouse:Coupang:3887444": {
     "company": "Coupang",
     "enriched_at": "2026-10-01T13:12:16.514579+00:00",
@@ -113081,7 +113290,7 @@
   },
   "greenhouse:Coupang:8063701": {
     "company": "Coupang",
-    "enriched_at": "2026-11-16T22:00:12.477313+00:00",
+    "enriched_at": "2026-11-17T07:53:34.554503+00:00",
     "external_id": "8063701",
     "h1b_mentioned": false,
     "h1b_status": "unknown",
@@ -113100,7 +113309,7 @@
     "salary_period": "year",
     "salary_text": "$164,000/year",
     "source": "greenhouse",
-    "source_updated_at": "2026-11-16T03:12:22-05:00",
+    "source_updated_at": "2026-11-17T01:53:39-05:00",
     "sponsorship_evidence": ""
   },
   "greenhouse:Coupang:8067901": {
@@ -113472,7 +113681,7 @@
   },
   "greenhouse:Coupang:8118774": {
     "company": "Coupang",
-    "enriched_at": "2026-11-16T06:25:40.180924+00:00",
+    "enriched_at": "2026-11-17T07:53:34.387842+00:00",
     "external_id": "8118774",
     "h1b_mentioned": false,
     "h1b_status": "unknown",
@@ -113490,12 +113699,12 @@
     "salary_period": "year",
     "salary_text": "$132,000/year",
     "source": "greenhouse",
-    "source_updated_at": "2026-11-15T20:10:23-05:00",
+    "source_updated_at": "2026-11-16T20:09:58-05:00",
     "sponsorship_evidence": ""
   },
   "greenhouse:Coupang:8120779": {
     "company": "Coupang",
-    "enriched_at": "2026-08-14T22:09:20.362889+00:00",
+    "enriched_at": "2026-11-17T07:53:34.473215+00:00",
     "external_id": "8120779",
     "h1b_mentioned": false,
     "h1b_status": "unknown",
@@ -113513,7 +113722,7 @@
     "salary_period": "year",
     "salary_text": "$174,000/year",
     "source": "greenhouse",
-    "source_updated_at": "2026-08-11T23:39:14-04:00",
+    "source_updated_at": "2026-11-16T18:13:48-05:00",
     "sponsorship_evidence": ""
   },
   "greenhouse:Coupang:8122290": {
@@ -113541,7 +113750,7 @@
   },
   "greenhouse:Coupang:8123934": {
     "company": "Coupang",
-    "enriched_at": "2026-08-14T22:09:20.379531+00:00",
+    "enriched_at": "2026-11-17T07:53:34.443552+00:00",
     "external_id": "8123934",
     "h1b_mentioned": false,
     "h1b_status": "unknown",
@@ -113559,12 +113768,12 @@
     "salary_period": "year",
     "salary_text": "$174,000/year",
     "source": "greenhouse",
-    "source_updated_at": "2026-08-11T23:37:37-04:00",
+    "source_updated_at": "2026-11-16T18:13:44-05:00",
     "sponsorship_evidence": ""
   },
   "greenhouse:Coupang:8124210": {
     "company": "Coupang",
-    "enriched_at": "2026-11-16T06:25:40.210432+00:00",
+    "enriched_at": "2026-11-17T07:53:34.502559+00:00",
     "external_id": "8124210",
     "h1b_mentioned": false,
     "h1b_status": "unknown",
@@ -113581,7 +113790,7 @@
     "salary_period": "year",
     "salary_text": "$209,000/year",
     "source": "greenhouse",
-    "source_updated_at": "2026-11-15T21:39:50-05:00",
+    "source_updated_at": "2026-11-16T20:09:55-05:00",
     "sponsorship_evidence": ""
   },
   "greenhouse:Coupang:8140987": {
@@ -114035,7 +114244,7 @@
   },
   "greenhouse:Coupang:8207116": {
     "company": "Coupang",
-    "enriched_at": "2026-10-31T05:38:42.079041+00:00",
+    "enriched_at": "2026-11-17T07:53:34.425239+00:00",
     "external_id": "8207116",
     "h1b_mentioned": false,
     "h1b_status": "unknown",
@@ -114053,7 +114262,7 @@
     "salary_period": "year",
     "salary_text": "$152,000/year",
     "source": "greenhouse",
-    "source_updated_at": "2026-10-30T22:21:12-04:00",
+    "source_updated_at": "2026-11-16T18:39:29-05:00",
     "sponsorship_evidence": ""
   },
   "greenhouse:Coupang:8208567": {
@@ -114131,7 +114340,7 @@
   },
   "greenhouse:Coupang:8274425": {
     "company": "Coupang",
-    "enriched_at": "2026-11-16T06:25:40.193522+00:00",
+    "enriched_at": "2026-11-17T07:53:34.403655+00:00",
     "external_id": "8274425",
     "h1b_mentioned": false,
     "h1b_status": "unknown",
@@ -114145,12 +114354,12 @@
     "salary_period": "year",
     "salary_text": "$132,000/year",
     "source": "greenhouse",
-    "source_updated_at": "2026-11-15T20:10:37-05:00",
+    "source_updated_at": "2026-11-16T20:10:15-05:00",
     "sponsorship_evidence": ""
   },
   "greenhouse:Coupang:8275829": {
     "company": "Coupang",
-    "enriched_at": "2026-11-16T06:25:40.225253+00:00",
+    "enriched_at": "2026-11-17T07:53:34.522606+00:00",
     "external_id": "8275829",
     "h1b_mentioned": false,
     "h1b_status": "unknown",
@@ -114167,7 +114376,7 @@
     "salary_period": "year",
     "salary_text": "$159,000/year",
     "source": "greenhouse",
-    "source_updated_at": "2026-11-15T20:10:40-05:00",
+    "source_updated_at": "2026-11-16T20:10:18-05:00",
     "sponsorship_evidence": ""
   },
   "greenhouse:Coupang:8283587": {
@@ -114266,7 +114475,7 @@
   },
   "greenhouse:Coupang:8319602": {
     "company": "Coupang",
-    "enriched_at": "2026-11-16T06:25:40.272821+00:00",
+    "enriched_at": "2026-11-17T07:53:34.622773+00:00",
     "external_id": "8319602",
     "h1b_mentioned": false,
     "h1b_status": "unknown",
@@ -114286,12 +114495,12 @@
     "salary_period": "year",
     "salary_text": "$164,000/year",
     "source": "greenhouse",
-    "source_updated_at": "2026-11-15T20:10:44-05:00",
+    "source_updated_at": "2026-11-16T20:10:23-05:00",
     "sponsorship_evidence": ""
   },
   "greenhouse:Coupang:8335707": {
     "company": "Coupang",
-    "enriched_at": "2026-11-16T06:25:40.170866+00:00",
+    "enriched_at": "2026-11-17T07:53:34.375117+00:00",
     "external_id": "8335707",
     "h1b_mentioned": false,
     "h1b_status": "unknown",
@@ -114309,12 +114518,12 @@
     "salary_period": "year",
     "salary_text": "$140,000/year",
     "source": "greenhouse",
-    "source_updated_at": "2026-11-15T20:10:54-05:00",
+    "source_updated_at": "2026-11-16T20:10:43-05:00",
     "sponsorship_evidence": ""
   },
   "greenhouse:Coupang:8347854": {
     "company": "Coupang",
-    "enriched_at": "2026-11-16T06:25:40.248351+00:00",
+    "enriched_at": "2026-11-17T07:53:34.589865+00:00",
     "external_id": "8347854",
     "h1b_mentioned": false,
     "h1b_status": "unknown",
@@ -114335,7 +114544,7 @@
     "salary_period": "year",
     "salary_text": "$164,000/year",
     "source": "greenhouse",
-    "source_updated_at": "2026-11-15T20:10:57-05:00",
+    "source_updated_at": "2026-11-16T20:10:47-05:00",
     "sponsorship_evidence": ""
   },
   "greenhouse:Coupang:8351526": {
@@ -114387,7 +114596,7 @@
   },
   "greenhouse:Coupang:8356962": {
     "company": "Coupang",
-    "enriched_at": "2026-11-16T06:25:40.259470+00:00",
+    "enriched_at": "2026-11-17T07:53:34.604817+00:00",
     "external_id": "8356962",
     "h1b_mentioned": false,
     "h1b_status": "unknown",
@@ -114406,7 +114615,29 @@
     "salary_period": "year",
     "salary_text": "$164K/year",
     "source": "greenhouse",
-    "source_updated_at": "2026-11-15T20:11:00-05:00",
+    "source_updated_at": "2026-11-16T20:10:51-05:00",
+    "sponsorship_evidence": ""
+  },
+  "greenhouse:Coupang:8360398": {
+    "company": "Coupang",
+    "enriched_at": "2026-11-17T07:53:34.567681+00:00",
+    "external_id": "8360398",
+    "h1b_mentioned": false,
+    "h1b_status": "unknown",
+    "keywords": [
+      "tax",
+      "procurement",
+      "recruiting",
+      "compliance",
+      "legal"
+    ],
+    "salary_currency": "USD",
+    "salary_max": 155000.0,
+    "salary_min": 155000.0,
+    "salary_period": "year",
+    "salary_text": "$155K/year",
+    "source": "greenhouse",
+    "source_updated_at": "2026-11-16T20:10:26-05:00",
     "sponsorship_evidence": ""
   },
   "greenhouse:Coupang:8364554": {
@@ -118319,7 +118550,7 @@
   },
   "greenhouse:DoorDash:7612643": {
     "company": "DoorDash",
-    "enriched_at": "2026-11-05T06:44:10.979211+00:00",
+    "enriched_at": "2026-11-17T07:53:35.163086+00:00",
     "external_id": "7612643",
     "h1b_mentioned": false,
     "h1b_status": "unknown",
@@ -118330,7 +118561,8 @@
       "logistics",
       "sales",
       "recruiting",
-      "compliance"
+      "compliance",
+      "legal"
     ],
     "salary_currency": "",
     "salary_max": null,
@@ -118338,7 +118570,7 @@
     "salary_period": "",
     "salary_text": "",
     "source": "greenhouse",
-    "source_updated_at": "2026-11-04T16:15:15-05:00",
+    "source_updated_at": "2026-11-16T18:45:52-05:00",
     "sponsorship_evidence": ""
   },
   "greenhouse:DoorDash:7616066": {
@@ -133032,7 +133264,7 @@
   },
   "greenhouse:DoorDash:8239753": {
     "company": "DoorDash",
-    "enriched_at": "2026-10-26T22:39:33.183018+00:00",
+    "enriched_at": "2026-11-17T07:53:35.216868+00:00",
     "external_id": "8239753",
     "h1b_mentioned": false,
     "h1b_status": "unknown",
@@ -133054,7 +133286,7 @@
     "salary_period": "",
     "salary_text": "",
     "source": "greenhouse",
-    "source_updated_at": "2026-10-26T16:34:48-04:00",
+    "source_updated_at": "2026-11-16T18:50:54-05:00",
     "sponsorship_evidence": ""
   },
   "greenhouse:DoorDash:8239768": {
@@ -137990,7 +138222,7 @@
   },
   "greenhouse:DoorDash:8393450": {
     "company": "DoorDash",
-    "enriched_at": "2026-11-16T22:00:13.024604+00:00",
+    "enriched_at": "2026-11-17T07:53:35.200979+00:00",
     "external_id": "8393450",
     "h1b_mentioned": false,
     "h1b_status": "unknown",
@@ -138009,7 +138241,30 @@
     "salary_period": "",
     "salary_text": "",
     "source": "greenhouse",
-    "source_updated_at": "2026-11-16T15:46:58-05:00",
+    "source_updated_at": "2026-11-16T17:18:57-05:00",
+    "sponsorship_evidence": ""
+  },
+  "greenhouse:DoorDash:8394370": {
+    "company": "DoorDash",
+    "enriched_at": "2026-11-17T07:53:35.182780+00:00",
+    "external_id": "8394370",
+    "h1b_mentioned": false,
+    "h1b_status": "unknown",
+    "keywords": [
+      "Excel",
+      "audit",
+      "logistics",
+      "recruiting",
+      "compliance",
+      "legal"
+    ],
+    "salary_currency": "",
+    "salary_max": null,
+    "salary_min": null,
+    "salary_period": "",
+    "salary_text": "",
+    "source": "greenhouse",
+    "source_updated_at": "2026-11-17T00:49:05-05:00",
     "sponsorship_evidence": ""
   },
   "greenhouse:Oscar Health:3083308": {
@@ -149387,6 +149642,33 @@
     "salary_text": "$75,348 - $98,894 per year",
     "source": "greenhouse",
     "source_updated_at": "2026-11-11T17:07:58-05:00",
+    "sponsorship_evidence": ""
+  },
+  "greenhouse:Oscar Health:8382174": {
+    "company": "Oscar Health",
+    "enriched_at": "2026-11-17T07:56:27.588842+00:00",
+    "external_id": "8382174",
+    "h1b_mentioned": false,
+    "h1b_status": "unknown",
+    "keywords": [
+      "Python",
+      "JavaScript",
+      "SQL",
+      "AWS",
+      "GCP",
+      "Kubernetes",
+      "Terraform",
+      "artificial intelligence",
+      "recruiting",
+      "compliance"
+    ],
+    "salary_currency": "USD",
+    "salary_max": 215176.0,
+    "salary_min": 163944.0,
+    "salary_period": "year",
+    "salary_text": "$163,944.00- $215,176.00 per year",
+    "source": "greenhouse",
+    "source_updated_at": "2026-11-16T17:27:32-05:00",
     "sponsorship_evidence": ""
   },
   "greenhouse:Oscar Health:8383316": {
@@ -261787,18 +262069,16 @@
   },
   "workday:Caterpillar:/job/Athens-Georgia/Warehouse-Associate_R0000395398": {
     "company": "Caterpillar",
-    "enriched_at": "2026-11-01T22:10:22.889878+00:00",
+    "enriched_at": "2026-11-17T07:55:46.322891+00:00",
     "external_id": "/job/Athens-Georgia/Warehouse-Associate_R0000395398",
     "h1b_mentioned": false,
     "h1b_status": "unknown",
-    "keywords": [
-      "logistics"
-    ],
-    "salary_currency": "USD",
-    "salary_max": 19.28,
-    "salary_min": 19.28,
-    "salary_period": "hour",
-    "salary_text": "$19.28/hour",
+    "keywords": [],
+    "salary_currency": "",
+    "salary_max": null,
+    "salary_min": null,
+    "salary_period": "",
+    "salary_text": "",
     "source": "workday",
     "source_updated_at": "",
     "sponsorship_evidence": ""
@@ -262616,6 +262896,38 @@
     "salary_min": 29.93,
     "salary_period": "hour",
     "salary_text": "$29.93/hour",
+    "source": "workday",
+    "source_updated_at": "",
+    "sponsorship_evidence": ""
+  },
+  "workday:Caterpillar:/job/Brooklyn-Park-Minnesota/CNC-Maintenance-Technician-III--3rd-shift--Weekend-_R0000399839": {
+    "company": "Caterpillar",
+    "enriched_at": "2026-11-17T07:55:46.292717+00:00",
+    "external_id": "/job/Brooklyn-Park-Minnesota/CNC-Maintenance-Technician-III--3rd-shift--Weekend-_R0000399839",
+    "h1b_mentioned": false,
+    "h1b_status": "unknown",
+    "keywords": [],
+    "salary_currency": "USD",
+    "salary_max": 36.95,
+    "salary_min": 36.95,
+    "salary_period": "hour",
+    "salary_text": "$36.95/hour",
+    "source": "workday",
+    "source_updated_at": "",
+    "sponsorship_evidence": ""
+  },
+  "workday:Caterpillar:/job/Brooklyn-Park-Minnesota/CNC-Maintenance-Technician-III--3rd-shift--Weekends-_R0000399861": {
+    "company": "Caterpillar",
+    "enriched_at": "2026-11-17T07:55:46.263392+00:00",
+    "external_id": "/job/Brooklyn-Park-Minnesota/CNC-Maintenance-Technician-III--3rd-shift--Weekends-_R0000399861",
+    "h1b_mentioned": false,
+    "h1b_status": "unknown",
+    "keywords": [],
+    "salary_currency": "USD",
+    "salary_max": 36.95,
+    "salary_min": 36.95,
+    "salary_period": "hour",
+    "salary_text": "$36.95/hour",
     "source": "workday",
     "source_updated_at": "",
     "sponsorship_evidence": ""
@@ -266288,6 +266600,24 @@
     "source_updated_at": "",
     "sponsorship_evidence": ""
   },
+  "workday:Caterpillar:/job/Decatur-Illinois/Manufacturing-Engineer-2_R0000405194": {
+    "company": "Caterpillar",
+    "enriched_at": "2026-11-17T07:55:46.224443+00:00",
+    "external_id": "/job/Decatur-Illinois/Manufacturing-Engineer-2_R0000405194",
+    "h1b_mentioned": false,
+    "h1b_status": "does_not_support_h1b",
+    "keywords": [
+      "compliance"
+    ],
+    "salary_currency": "",
+    "salary_max": null,
+    "salary_min": null,
+    "salary_period": "",
+    "salary_text": "",
+    "source": "workday",
+    "source_updated_at": "",
+    "sponsorship_evidence": "imary Location: Decatur, IL Travel: Up to 10% (domestic) Relocation Assistance: Not Available Visa Sponsorship: Not Available What You\u2019ll Do Provide day-to-day engineering support for manufacturing equipment, pr"
+  },
   "workday:Caterpillar:/job/Decatur-Illinois/Manufacturing-Engineering-and-Automation-Manager_R0000404320": {
     "company": "Caterpillar",
     "enriched_at": "2026-11-07T06:07:39.824021+00:00",
@@ -267645,6 +267975,22 @@
     "company": "Caterpillar",
     "enriched_at": "2026-11-10T19:56:56.587893+00:00",
     "external_id": "/job/East-Peoria-Illinois/Manager-Production---Building-KK--3rd-Shift_R0000404610",
+    "h1b_mentioned": false,
+    "h1b_status": "unknown",
+    "keywords": [],
+    "salary_currency": "",
+    "salary_max": null,
+    "salary_min": null,
+    "salary_period": "",
+    "salary_text": "",
+    "source": "workday",
+    "source_updated_at": "",
+    "sponsorship_evidence": ""
+  },
+  "workday:Caterpillar:/job/East-Peoria-Illinois/Manager-Production---Building-KK--3rd-Shift_R0000405571": {
+    "company": "Caterpillar",
+    "enriched_at": "2026-11-17T07:55:46.245525+00:00",
+    "external_id": "/job/East-Peoria-Illinois/Manager-Production---Building-KK--3rd-Shift_R0000405571",
     "h1b_mentioned": false,
     "h1b_status": "unknown",
     "keywords": [],
@@ -269479,6 +269825,22 @@
     "keywords": [
       "sales"
     ],
+    "salary_currency": "",
+    "salary_max": null,
+    "salary_min": null,
+    "salary_period": "",
+    "salary_text": "",
+    "source": "workday",
+    "source_updated_at": "",
+    "sponsorship_evidence": ""
+  },
+  "workday:Caterpillar:/job/Green-Valley-Arizona/Senior-Autonomy-Development-Engineer_R0000405714": {
+    "company": "Caterpillar",
+    "enriched_at": "2026-11-17T07:55:46.322822+00:00",
+    "external_id": "/job/Green-Valley-Arizona/Senior-Autonomy-Development-Engineer_R0000405714",
+    "h1b_mentioned": false,
+    "h1b_status": "unknown",
+    "keywords": [],
     "salary_currency": "",
     "salary_max": null,
     "salary_min": null,
@@ -279322,13 +279684,11 @@
   },
   "workday:Caterpillar:/job/Midland-Texas/Field-Service-Technician-I_R0000378922": {
     "company": "Caterpillar",
-    "enriched_at": "2026-11-07T06:07:39.847555+00:00",
+    "enriched_at": "2026-11-17T07:55:46.322673+00:00",
     "external_id": "/job/Midland-Texas/Field-Service-Technician-I_R0000378922",
     "h1b_mentioned": false,
     "h1b_status": "unknown",
-    "keywords": [
-      "recruiting"
-    ],
+    "keywords": [],
     "salary_currency": "",
     "salary_max": null,
     "salary_min": null,
@@ -280475,21 +280835,16 @@
   },
   "workday:Caterpillar:/job/Morton-Illinois/Warehouse-Associate---2nd-and-3rd-Shift_R0000394065": {
     "company": "Caterpillar",
-    "enriched_at": "2026-11-06T19:35:25.849019+00:00",
+    "enriched_at": "2026-11-17T07:55:46.278941+00:00",
     "external_id": "/job/Morton-Illinois/Warehouse-Associate---2nd-and-3rd-Shift_R0000394065",
     "h1b_mentioned": false,
     "h1b_status": "unknown",
-    "keywords": [
-      "Rust",
-      "logistics",
-      "procurement",
-      "talent acquisition"
-    ],
-    "salary_currency": "USD",
-    "salary_max": 19.91,
-    "salary_min": 19.91,
-    "salary_period": "hour",
-    "salary_text": "$19.91/hour",
+    "keywords": [],
+    "salary_currency": "",
+    "salary_max": null,
+    "salary_min": null,
+    "salary_period": "",
+    "salary_text": "",
     "source": "workday",
     "source_updated_at": "",
     "sponsorship_evidence": ""
@@ -285720,6 +286075,24 @@
     "source_updated_at": "",
     "sponsorship_evidence": ""
   },
+  "workday:Caterpillar:/job/Peachtree-City-Georgia/Marketing---Sales-Operations-Representative_R0000403610": {
+    "company": "Caterpillar",
+    "enriched_at": "2026-11-17T07:55:46.323000+00:00",
+    "external_id": "/job/Peachtree-City-Georgia/Marketing---Sales-Operations-Representative_R0000403610",
+    "h1b_mentioned": false,
+    "h1b_status": "unknown",
+    "keywords": [
+      "sales"
+    ],
+    "salary_currency": "",
+    "salary_max": null,
+    "salary_min": null,
+    "salary_period": "",
+    "salary_text": "",
+    "source": "workday",
+    "source_updated_at": "",
+    "sponsorship_evidence": ""
+  },
   "workday:Caterpillar:/job/Peoria-Illinois/Administrative-Assistant_R0000402251": {
     "company": "Caterpillar",
     "enriched_at": "2026-11-03T01:10:08.161242+00:00",
@@ -287479,6 +287852,22 @@
     "source_updated_at": "",
     "sponsorship_evidence": ""
   },
+  "workday:Caterpillar:/job/Pontiac-Illinois/Manager-Production---2nd-and-3rd-Shift-Available_R0000405738": {
+    "company": "Caterpillar",
+    "enriched_at": "2026-11-17T07:55:46.322741+00:00",
+    "external_id": "/job/Pontiac-Illinois/Manager-Production---2nd-and-3rd-Shift-Available_R0000405738",
+    "h1b_mentioned": false,
+    "h1b_status": "unknown",
+    "keywords": [],
+    "salary_currency": "",
+    "salary_max": null,
+    "salary_min": null,
+    "salary_period": "",
+    "salary_text": "",
+    "source": "workday",
+    "source_updated_at": "",
+    "sponsorship_evidence": ""
+  },
   "workday:Caterpillar:/job/Pontiac-Illinois/Manager-Production---3rd-Shift_R0000384406": {
     "company": "Caterpillar",
     "enriched_at": "2026-09-08T21:21:31.831055+00:00",
@@ -288823,6 +289212,31 @@
     "source_updated_at": "",
     "sponsorship_evidence": ""
   },
+  "workday:Caterpillar:/job/Sanford-North-Carolina/Indirect-Category-Buyer--Procurement-_R0000405773": {
+    "company": "Caterpillar",
+    "enriched_at": "2026-11-17T07:55:46.279021+00:00",
+    "external_id": "/job/Sanford-North-Carolina/Indirect-Category-Buyer--Procurement-_R0000405773",
+    "h1b_mentioned": false,
+    "h1b_status": "unknown",
+    "keywords": [
+      "analytics",
+      "risk management",
+      "supply chain",
+      "logistics",
+      "procurement",
+      "compliance",
+      "legal",
+      "contracts"
+    ],
+    "salary_currency": "",
+    "salary_max": null,
+    "salary_min": null,
+    "salary_period": "",
+    "salary_text": "",
+    "source": "workday",
+    "source_updated_at": "",
+    "sponsorship_evidence": ""
+  },
   "workday:Caterpillar:/job/Sanford-North-Carolina/Maintenance-Dispatcher---1st--2nd---3rd-Shifts_R0000390051": {
     "company": "Caterpillar",
     "enriched_at": "2026-08-21T19:06:07.576872+00:00",
@@ -290155,6 +290569,22 @@
     "source_updated_at": "",
     "sponsorship_evidence": ""
   },
+  "workday:Caterpillar:/job/South-Milwaukee-Wisconsin/Finish-Grinder---2nd-Shift_R0000405501": {
+    "company": "Caterpillar",
+    "enriched_at": "2026-11-17T07:55:46.322943+00:00",
+    "external_id": "/job/South-Milwaukee-Wisconsin/Finish-Grinder---2nd-Shift_R0000405501",
+    "h1b_mentioned": false,
+    "h1b_status": "unknown",
+    "keywords": [],
+    "salary_currency": "",
+    "salary_max": null,
+    "salary_min": null,
+    "salary_period": "",
+    "salary_text": "",
+    "source": "workday",
+    "source_updated_at": "",
+    "sponsorship_evidence": ""
+  },
   "workday:Caterpillar:/job/South-Milwaukee-Wisconsin/Heavy-Industrial-Shipping-Specialist_R0000387805": {
     "company": "Caterpillar",
     "enriched_at": "2026-10-05T14:48:02.195558+00:00",
@@ -290294,6 +290724,22 @@
     "salary_min": 35.47,
     "salary_period": "hour",
     "salary_text": "$35.47/hour",
+    "source": "workday",
+    "source_updated_at": "",
+    "sponsorship_evidence": ""
+  },
+  "workday:Caterpillar:/job/South-Milwaukee-Wisconsin/Weld-Trainee_R0000390946": {
+    "company": "Caterpillar",
+    "enriched_at": "2026-11-17T07:55:46.308491+00:00",
+    "external_id": "/job/South-Milwaukee-Wisconsin/Weld-Trainee_R0000390946",
+    "h1b_mentioned": false,
+    "h1b_status": "unknown",
+    "keywords": [],
+    "salary_currency": "USD",
+    "salary_max": 29.3,
+    "salary_min": 29.3,
+    "salary_period": "hour",
+    "salary_text": "$29.30/hour",
     "source": "workday",
     "source_updated_at": "",
     "sponsorship_evidence": ""
@@ -292393,7 +292839,7 @@
   },
   "workday:Caterpillar:/job/USA--IN--Dyer/Finishing-Technician--3rd-Shift_R0000403384": {
     "company": "Caterpillar",
-    "enriched_at": "2026-11-02T16:02:01.001416+00:00",
+    "enriched_at": "2026-11-17T07:55:46.236380+00:00",
     "external_id": "/job/USA--IN--Dyer/Finishing-Technician--3rd-Shift_R0000403384",
     "h1b_mentioned": false,
     "h1b_status": "unknown",
@@ -606521,6 +606967,27 @@
     "source_updated_at": "",
     "sponsorship_evidence": ""
   },
+  "workday:McKesson:/job/The-Woodlands-TX-USA---9950-Woodloch-Forest-Drive-8540/Business-Intelligence-Analyst_JR0157354": {
+    "company": "McKesson",
+    "enriched_at": "2026-11-17T07:54:44.355888+00:00",
+    "external_id": "/job/The-Woodlands-TX-USA---9950-Woodloch-Forest-Drive-8540/Business-Intelligence-Analyst_JR0157354",
+    "h1b_mentioned": true,
+    "h1b_status": "unknown",
+    "keywords": [
+      "analytics",
+      "recruiting",
+      "legal",
+      "contracts"
+    ],
+    "salary_currency": "",
+    "salary_max": null,
+    "salary_min": null,
+    "salary_period": "",
+    "salary_text": "",
+    "source": "workday",
+    "source_updated_at": "",
+    "sponsorship_evidence": ""
+  },
   "workday:McKesson:/job/Tolleson-AZ-USA---495-South-107th-Avenue-P170/Material-Handler_JR0155665-1": {
     "company": "McKesson",
     "enriched_at": "2026-11-12T23:41:22.063447+00:00",
@@ -606766,6 +607233,24 @@
     "source_updated_at": "",
     "sponsorship_evidence": ""
   },
+  "workday:McKesson:/job/USA-AZ-Tolleson/Facilities-Maintenance-Service-Technician--Distribution-Center-_JR0157464": {
+    "company": "McKesson",
+    "enriched_at": "2026-11-17T07:54:44.410122+00:00",
+    "external_id": "/job/USA-AZ-Tolleson/Facilities-Maintenance-Service-Technician--Distribution-Center-_JR0157464",
+    "h1b_mentioned": false,
+    "h1b_status": "unknown",
+    "keywords": [
+      "recruiting"
+    ],
+    "salary_currency": "",
+    "salary_max": null,
+    "salary_min": null,
+    "salary_period": "",
+    "salary_text": "",
+    "source": "workday",
+    "source_updated_at": "",
+    "sponsorship_evidence": ""
+  },
   "workday:McKesson:/job/USA-AZ-Tolleson/Warehouse-Worker---Full-Time-Shifts_JR0154212": {
     "company": "McKesson",
     "enriched_at": "2026-09-24T21:33:55.699345+00:00",
@@ -606804,7 +607289,7 @@
   },
   "workday:McKesson:/job/USA-AZ-Tolleson/Warehouse-Worker---Full-Time-Shifts_JR0156703": {
     "company": "McKesson",
-    "enriched_at": "2026-10-29T22:48:13.241640+00:00",
+    "enriched_at": "2026-11-17T07:54:44.439546+00:00",
     "external_id": "/job/USA-AZ-Tolleson/Warehouse-Worker---Full-Time-Shifts_JR0156703",
     "h1b_mentioned": false,
     "h1b_status": "unknown",
@@ -608148,18 +608633,16 @@
   },
   "workday:McKesson:/job/USA-FL-Orlando/Warehouse-Equipment-Operator---Full-Time_JR0156664": {
     "company": "McKesson",
-    "enriched_at": "2026-10-28T22:38:42.216481+00:00",
+    "enriched_at": "2026-11-17T07:54:44.453534+00:00",
     "external_id": "/job/USA-FL-Orlando/Warehouse-Equipment-Operator---Full-Time_JR0156664",
     "h1b_mentioned": false,
     "h1b_status": "unknown",
-    "keywords": [
-      "recruiting"
-    ],
-    "salary_currency": "USD",
-    "salary_max": 18.3,
-    "salary_min": 18.3,
-    "salary_period": "hour",
-    "salary_text": "$18.30/hour",
+    "keywords": [],
+    "salary_currency": "",
+    "salary_max": null,
+    "salary_min": null,
+    "salary_period": "",
+    "salary_text": "",
     "source": "workday",
     "source_updated_at": "",
     "sponsorship_evidence": ""
@@ -609957,12 +610440,11 @@
   },
   "workday:McKesson:/job/USA-KY-Shepherdsville/Warehouse-Worker---Full-Time-Shifts_JR0155587": {
     "company": "McKesson",
-    "enriched_at": "2026-11-09T22:25:02.280648+00:00",
+    "enriched_at": "2026-11-17T07:54:44.390667+00:00",
     "external_id": "/job/USA-KY-Shepherdsville/Warehouse-Worker---Full-Time-Shifts_JR0155587",
     "h1b_mentioned": false,
     "h1b_status": "unknown",
     "keywords": [
-      "logistics",
       "recruiting"
     ],
     "salary_currency": "USD",
@@ -610250,7 +610732,7 @@
   },
   "workday:McKesson:/job/USA-MA-Uxbridge/Warehouse-Worker---Full-Time-Shifts_JR0156714": {
     "company": "McKesson",
-    "enriched_at": "2026-10-29T22:48:13.221109+00:00",
+    "enriched_at": "2026-11-17T07:54:44.425503+00:00",
     "external_id": "/job/USA-MA-Uxbridge/Warehouse-Worker---Full-Time-Shifts_JR0156714",
     "h1b_mentioned": false,
     "h1b_status": "unknown",
@@ -611042,15 +611524,11 @@
   },
   "workday:McKesson:/job/USA-NC-Cary/Director--Customer-Support-and-Call-Center-Operations_JR0155570": {
     "company": "McKesson",
-    "enriched_at": "2026-10-14T21:43:49.648725+00:00",
+    "enriched_at": "2026-11-17T07:54:44.453825+00:00",
     "external_id": "/job/USA-NC-Cary/Director--Customer-Support-and-Call-Center-Operations_JR0155570",
     "h1b_mentioned": false,
     "h1b_status": "unknown",
-    "keywords": [
-      "Excel",
-      "recruiting",
-      "compliance"
-    ],
+    "keywords": [],
     "salary_currency": "",
     "salary_max": null,
     "salary_min": null,
@@ -611324,6 +611802,25 @@
     "h1b_status": "unknown",
     "keywords": [
       "recruiting"
+    ],
+    "salary_currency": "",
+    "salary_max": null,
+    "salary_min": null,
+    "salary_period": "",
+    "salary_text": "",
+    "source": "workday",
+    "source_updated_at": "",
+    "sponsorship_evidence": ""
+  },
+  "workday:McKesson:/job/USA-NC-Cary/Supervisor--Rare-Disease-Operations_JR0157128": {
+    "company": "McKesson",
+    "enriched_at": "2026-11-17T07:54:44.368191+00:00",
+    "external_id": "/job/USA-NC-Cary/Supervisor--Rare-Disease-Operations_JR0157128",
+    "h1b_mentioned": false,
+    "h1b_status": "unknown",
+    "keywords": [
+      "recruiting",
+      "compliance"
     ],
     "salary_currency": "",
     "salary_max": null,
@@ -612526,18 +613023,16 @@
   },
   "workday:McKesson:/job/USA-OH-Columbus/Warehouse-Worker---Full-Time-Shifts_JR0156698": {
     "company": "McKesson",
-    "enriched_at": "2026-10-29T22:48:13.262028+00:00",
+    "enriched_at": "2026-11-17T07:54:44.453691+00:00",
     "external_id": "/job/USA-OH-Columbus/Warehouse-Worker---Full-Time-Shifts_JR0156698",
     "h1b_mentioned": false,
     "h1b_status": "unknown",
-    "keywords": [
-      "recruiting"
-    ],
-    "salary_currency": "USD",
-    "salary_max": 20.0,
-    "salary_min": 20.0,
-    "salary_period": "hour",
-    "salary_text": "$20.00/hour",
+    "keywords": [],
+    "salary_currency": "",
+    "salary_max": null,
+    "salary_min": null,
+    "salary_period": "",
+    "salary_text": "",
     "source": "workday",
     "source_updated_at": "",
     "sponsorship_evidence": ""
@@ -612716,6 +613211,28 @@
     "salary_min": 20.0,
     "salary_period": "hour",
     "salary_text": "$20/hour",
+    "source": "workday",
+    "source_updated_at": "",
+    "sponsorship_evidence": ""
+  },
+  "workday:McKesson:/job/USA-OH-Mason/Operations-Supervisor--Mid-Shift-_JR0157022": {
+    "company": "McKesson",
+    "enriched_at": "2026-11-17T07:54:44.381041+00:00",
+    "external_id": "/job/USA-OH-Mason/Operations-Supervisor--Mid-Shift-_JR0157022",
+    "h1b_mentioned": false,
+    "h1b_status": "unknown",
+    "keywords": [
+      "Excel",
+      "supply chain",
+      "logistics",
+      "recruiting",
+      "compliance"
+    ],
+    "salary_currency": "",
+    "salary_max": null,
+    "salary_min": null,
+    "salary_period": "",
+    "salary_text": "",
     "source": "workday",
     "source_updated_at": "",
     "sponsorship_evidence": ""
@@ -614686,18 +615203,16 @@
   },
   "workday:McKesson:/job/USA-TX-Grapevine/Warehouse-Equipment-Operator---Full-Time_JR0156649": {
     "company": "McKesson",
-    "enriched_at": "2026-10-28T22:38:42.269338+00:00",
+    "enriched_at": "2026-11-17T07:54:44.453616+00:00",
     "external_id": "/job/USA-TX-Grapevine/Warehouse-Equipment-Operator---Full-Time_JR0156649",
     "h1b_mentioned": false,
     "h1b_status": "unknown",
-    "keywords": [
-      "recruiting"
-    ],
-    "salary_currency": "USD",
-    "salary_max": 18.0,
-    "salary_min": 18.0,
-    "salary_period": "hour",
-    "salary_text": "$18.00/hour",
+    "keywords": [],
+    "salary_currency": "",
+    "salary_max": null,
+    "salary_min": null,
+    "salary_period": "",
+    "salary_text": "",
     "source": "workday",
     "source_updated_at": "",
     "sponsorship_evidence": ""
@@ -617889,6 +618404,22 @@
     "source_updated_at": "",
     "sponsorship_evidence": ""
   },
+  "workday:McKesson:/job/USA-TX-San-Antonio/Clinical-Research-Coordinator_JR0157389-1": {
+    "company": "McKesson",
+    "enriched_at": "2026-11-17T07:54:44.355827+00:00",
+    "external_id": "/job/USA-TX-San-Antonio/Clinical-Research-Coordinator_JR0157389-1",
+    "h1b_mentioned": false,
+    "h1b_status": "unknown",
+    "keywords": [],
+    "salary_currency": "",
+    "salary_max": null,
+    "salary_min": null,
+    "salary_period": "",
+    "salary_text": "",
+    "source": "workday",
+    "source_updated_at": "",
+    "sponsorship_evidence": ""
+  },
   "workday:McKesson:/job/USA-TX-Spring/Associate-Facilities-Specialist--Pharmacy-Central-Fill_JR0155430": {
     "company": "McKesson",
     "enriched_at": "2026-11-03T01:01:39.807016+00:00",
@@ -618416,18 +618947,16 @@
   },
   "workday:McKesson:/job/USA-VA-Clear-Brook/Warehouse-Worker---Full-Time-Shifts_JR0156720": {
     "company": "McKesson",
-    "enriched_at": "2026-10-29T22:48:13.207102+00:00",
+    "enriched_at": "2026-11-17T07:54:44.453759+00:00",
     "external_id": "/job/USA-VA-Clear-Brook/Warehouse-Worker---Full-Time-Shifts_JR0156720",
     "h1b_mentioned": false,
     "h1b_status": "unknown",
-    "keywords": [
-      "recruiting"
-    ],
-    "salary_currency": "USD",
-    "salary_max": 18.75,
-    "salary_min": 18.75,
-    "salary_period": "hour",
-    "salary_text": "$18.75/hour",
+    "keywords": [],
+    "salary_currency": "",
+    "salary_max": null,
+    "salary_min": null,
+    "salary_period": "",
+    "salary_text": "",
     "source": "workday",
     "source_updated_at": "",
     "sponsorship_evidence": ""
@@ -619517,6 +620046,29 @@
     "source_updated_at": "",
     "sponsorship_evidence": ""
   },
+  "workday:McKesson:/job/USA-VA-Richmond/Separation---Cybersecurity-Engineer_JR0157439": {
+    "company": "McKesson",
+    "enriched_at": "2026-11-17T07:54:44.339488+00:00",
+    "external_id": "/job/USA-VA-Richmond/Separation---Cybersecurity-Engineer_JR0157439",
+    "h1b_mentioned": false,
+    "h1b_status": "unknown",
+    "keywords": [
+      "Python",
+      "AWS",
+      "Azure",
+      "GCP",
+      "recruiting",
+      "compliance"
+    ],
+    "salary_currency": "",
+    "salary_max": null,
+    "salary_min": null,
+    "salary_period": "",
+    "salary_text": "",
+    "source": "workday",
+    "source_updated_at": "",
+    "sponsorship_evidence": ""
+  },
   "workday:McKesson:/job/USA-VA-Richmond/Separation---Vulnerability-Management-Lead_JR0156516": {
     "company": "McKesson",
     "enriched_at": "2026-10-30T22:21:11.729019+00:00",
@@ -619531,6 +620083,22 @@
       "risk management",
       "recruiting"
     ],
+    "salary_currency": "",
+    "salary_max": null,
+    "salary_min": null,
+    "salary_period": "",
+    "salary_text": "",
+    "source": "workday",
+    "source_updated_at": "",
+    "sponsorship_evidence": ""
+  },
+  "workday:McKesson:/job/USA-VA-Richmond/Separation-Sr-Specialist--Network-Security-Engineer_JR0157490": {
+    "company": "McKesson",
+    "enriched_at": "2026-11-17T07:54:44.355724+00:00",
+    "external_id": "/job/USA-VA-Richmond/Separation-Sr-Specialist--Network-Security-Engineer_JR0157490",
+    "h1b_mentioned": false,
+    "h1b_status": "unknown",
+    "keywords": [],
     "salary_currency": "",
     "salary_max": null,
     "salary_min": null,
@@ -619946,6 +620514,22 @@
       "sales",
       "recruiting"
     ],
+    "salary_currency": "",
+    "salary_max": null,
+    "salary_min": null,
+    "salary_period": "",
+    "salary_text": "",
+    "source": "workday",
+    "source_updated_at": "",
+    "sponsorship_evidence": ""
+  },
+  "workday:McKesson:/job/USA-VA-Richmond/Sr-IT-Architect_JR0157328": {
+    "company": "McKesson",
+    "enriched_at": "2026-11-17T07:54:44.339372+00:00",
+    "external_id": "/job/USA-VA-Richmond/Sr-IT-Architect_JR0157328",
+    "h1b_mentioned": false,
+    "h1b_status": "unknown",
+    "keywords": [],
     "salary_currency": "",
     "salary_max": null,
     "salary_min": null,
