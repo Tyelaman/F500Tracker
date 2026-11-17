@@ -1,12 +1,12 @@
 # F500Tracker internships
 
-Last updated: November 17, 2026 at 07:56 UTC
+Last updated: November 17, 2026 at 20:57 UTC
 
-Current internships: 345
+Current internships: 346
 
 ## Categories
 
-[Software & IT (35)](#software-it) · [Data & AI (8)](#data-ai) · [Product & Design (1)](#product-design) · [Engineering (52)](#engineering) · [Finance & Accounting (7)](#finance-accounting) · [Sales & Marketing (7)](#sales-marketing) · [Operations & Supply Chain (23)](#operations-supply-chain) · [People & Legal (1)](#people-legal) · [Other (211)](#other)
+[Software & IT (35)](#software-it) · [Data & AI (9)](#data-ai) · [Product & Design (1)](#product-design) · [Engineering (52)](#engineering) · [Finance & Accounting (7)](#finance-accounting) · [Sales & Marketing (7)](#sales-marketing) · [Operations & Supply Chain (23)](#operations-supply-chain) · [People & Legal (1)](#people-legal) · [Other (211)](#other)
 
 <a id="software-it"></a>
 
@@ -58,13 +58,14 @@ Open positions: 35
 
 ## Data & AI
 
-Open positions: 8
+Open positions: 9
 
 | Rank | Company | Position | Location | Category | Salary | Keywords | Sponsorship | Apply |
 |---:|---|---|---|---|---|---|---|---|
 | 357 | Airbnb | Advanced Analytics Intern | United States | Data & AI | Not disclosed | Python · SQL · data science · analytics · recruiting | Not specified | [Apply](https://careers.airbnb.com/positions/8380007?gh_jid=8380007) |
 | 329 | DoorDash | Machine Learning Intern (Masters) - Summer 2027 | San Francisco, CA;  Sunnyvale, CA ; New York City, NY; Seattle, WA | Data & AI | Not disclosed | Python · Java · C++ · Go · machine learning | Not specified | [Apply](https://job-boards.greenhouse.io/doordashusa/jobs/8204111) |
 | 329 | DoorDash | Machine Learning Intern (PhD) - Summer 2027 | San Francisco, CA;  Sunnyvale, CA ; New York City, NY; Seattle, WA | Data & AI | Not disclosed | Python · Java · C++ · Go · machine learning | Not specified | [Apply](https://job-boards.greenhouse.io/doordashusa/jobs/8233953) |
+| 119 | Visa | Consulting & Analytics Summer Intern | DE - Frankfurt, Germany | Data & AI | Not disclosed | analytics · Excel · sales | No sponsorship for this position | [Apply](https://visa.wd5.myworkdayjobs.com/en-US/Visa/job/DE---Frankfurt-Germany/Consulting---Analytics-Summer-Intern_REF089625W-2) |
 | 125 | Micron Technology | Intern -  AI Engineer Platform | Boise, ID - Main Site | Data & AI | Not disclosed | Python · Java · SQL · Docker · Kubernetes | Not specified | [Apply](https://micron.wd1.myworkdayjobs.com/en-US/External/job/Boise-ID---Main-Site/Intern----AI-Engineer-Platform_JR115934) |
 | 125 | Micron Technology | Intern - Machine Learning Engineering | Richardson, TX | Data & AI | Not disclosed | Python · machine learning · artificial intelligence · electrical engineering | Not specified | [Apply](https://micron.wd1.myworkdayjobs.com/en-US/External/job/Richardson-TX/Intern---Machine-Learning-Engineering_JR114750) |
 | 125 | Micron Technology | Intern - SMAI Probe AI Engineer | Boise, ID - Main Site | Data & AI | Not disclosed | Python · Java · C# · JavaScript · SQL | Not specified | [Apply](https://micron.wd1.myworkdayjobs.com/en-US/External/job/Boise-ID---Main-Site/Intern---SMAI-Probe-AI-Engineer_JR114094) |
@@ -238,13 +239,14 @@ Open positions: 211
 
 | Rank | Company | Position | Location | Category | Salary | Keywords | Sponsorship | Apply |
 |---:|---|---|---|---|---|---|---|---|
+| 191 | Block | Applied Research Intern, Proactive Intelligence & Customer World Models (PhD / Graduate Co-op) | Bay Area, CA, United States of America | Other | Not disclosed | Python · machine learning · legal | Not specified | [Apply](http://block.xyz/careers/jobs/5108007008?gh_jid=5108007008) |
 | 220 | Carvana | Customer Experience Intern (Summer 2027) | Tempe, AZ | Other | Not disclosed | — | Not specified | [Apply](https://www.carvana.com/careers/apply?gh_jid=8279204) |
 | 220 | Carvana | Paid Customer Experience Internship (Summer 2027) | Tempe, AZ | Other | Not disclosed | — | Not specified | [Apply](https://www.carvana.com/careers/apply?gh_jid=8279265) |
 | 220 | Carvana | Customer Support Intern (Summer 2027) | Tempe, AZ | Other | Not disclosed | — | Not specified | [Apply](https://www.carvana.com/careers/apply?gh_jid=8279263) |
 | 220 | Carvana | Customer Service Intern (Summer 2027) | Tempe, AZ | Other | Not disclosed | — | Not specified | [Apply](https://www.carvana.com/careers/apply?gh_jid=8279255) |
 | 376 | Oscar Health | Actuarial Intern | New York, New York, United States | Other | Not disclosed | Python · SQL · artificial intelligence · Excel · recruiting | Not specified | [Apply](https://oscarhealth.com/careers/jobs?gh_jid=8303588) |
 | 329 | DoorDash | Product Design, Intern (Summer 2027) | San Francisco, CA; New York, NY | Other | Not disclosed | Excel · logistics · recruiting · compliance | Not specified | [Apply](https://job-boards.greenhouse.io/doordashusa/jobs/8176863) |
-| 191 | Block | Applied Research Intern, Proactive Intelligence & Customer World Models (PhD / Graduate Co-op) | Bay Area, CA, United States of America | Other | Not disclosed | Python · machine learning · legal | Not specified | [Apply](http://block.xyz/careers/jobs/5108007008?gh_jid=5108007008) |
+| 160 | Applied Materials | Internship Program Manager - B4 | Santa Clara,CA | Other | Not disclosed | analytics · risk management · sales · human resources · recruiting | Not specified | [Apply](https://amat.wd1.myworkdayjobs.com/en-US/External/job/Santa-ClaraCA/Internship-Program-Manager---B4_R2631565) |
 | 112 | Northrop Grumman | 2027 Manufacturing Engineering Intern - Sunnyvale CA | United States-California-Sunnyvale | Other | $21.5–$39/hr | mechanical engineering | Not specified | [Apply](https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-California-Sunnyvale/XMLNAME-2027-Manufacturing-Engineering-Intern---Sunnyvale-CA_R10260394) |
 | 112 | Northrop Grumman | 2027 Materials & Process Engineering Intern - Northridge CA | United States-California-Northridge | Other | Not disclosed | — | Not specified | [Apply](https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-California-Northridge/XMLNAME-2027-Materials---Process-Engineering-Intern---Northridge-CA_R10260526) |
 | 112 | Northrop Grumman | SkillBridge Internship Opportunity - Seeking Enlisted-Active Military Applicants - Engineering Technician – 4 | United States-Arizona-Chandler | Other | Not disclosed | Excel · CAD | Not specified | [Apply](https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-Arizona-Chandler/Engineering-Technician---4---Electrical-Ground-Support-Equipment_R10260399) |
@@ -447,7 +449,6 @@ Open positions: 211
 | 106 | Thermo Fisher Scientific | Development Engineering Co-Op | Rochester, New York, USA | Other | Not disclosed | — | Not specified | [Apply](https://thermofisher.wd5.myworkdayjobs.com/en-US/ThermoFisherCareers/job/Rochester-New-York-USA/Development-Engineering-Co-Op_R-01368185) |
 | 106 | Thermo Fisher Scientific | Engineering Co-Op | Greenville, North Carolina, USA | Other | Not disclosed | — | Not specified | [Apply](https://thermofisher.wd5.myworkdayjobs.com/en-US/ThermoFisherCareers/job/Greenville-North-Carolina-USA/Engineering-Co-Op_R-01366580-1) |
 | 106 | Thermo Fisher Scientific | Supplier Relations Intern | Pittsburgh, Pennsylvania, USA | Other | Not disclosed | supply chain · sales | Not specified | [Apply](https://thermofisher.wd5.myworkdayjobs.com/en-US/ThermoFisherCareers/job/Pittsburgh-Pennsylvania-USA/Supplier-Relations-Intern_R-01366588) |
-| 160 | Applied Materials | Internship Program Manager - B4 | Santa Clara,CA | Other | Not disclosed | analytics · risk management · sales · human resources · recruiting | Not specified | [Apply](https://amat.wd1.myworkdayjobs.com/en-US/External/job/Santa-ClaraCA/Internship-Program-Manager---B4_R2631565) |
 | 476 | Marvell Technology | Design For Test Intern, MS - Summer 2027 | Santa Clara, CA | Other | Not disclosed | Python · electrical engineering | Not specified | [Apply](https://marvell.wd1.myworkdayjobs.com/en-US/MarvellCareers/job/Santa-Clara-CA/Design-For-Test-Intern--MS---Summer-2027_2603788-1) |
 
 [Back to categories](#categories) · [Back to README](../README.md)
