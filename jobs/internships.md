@@ -1,21 +1,22 @@
 # F500Tracker internships
 
-Last updated: November 17, 2026 at 20:57 UTC
+Last updated: November 18, 2026 at 07:29 UTC
 
 Current internships: 346
 
 ## Categories
 
-[Software & IT (35)](#software-it) · [Data & AI (9)](#data-ai) · [Product & Design (1)](#product-design) · [Engineering (52)](#engineering) · [Finance & Accounting (7)](#finance-accounting) · [Sales & Marketing (7)](#sales-marketing) · [Operations & Supply Chain (23)](#operations-supply-chain) · [People & Legal (1)](#people-legal) · [Other (211)](#other)
+[Software & IT (36)](#software-it) · [Data & AI (8)](#data-ai) · [Product & Design (1)](#product-design) · [Engineering (52)](#engineering) · [Finance & Accounting (7)](#finance-accounting) · [Sales & Marketing (7)](#sales-marketing) · [Operations & Supply Chain (23)](#operations-supply-chain) · [People & Legal (1)](#people-legal) · [Other (211)](#other)
 
 <a id="software-it"></a>
 
 ## Software & IT
 
-Open positions: 35
+Open positions: 36
 
 | Rank | Company | Position | Location | Category | Salary | Keywords | Sponsorship | Apply |
 |---:|---|---|---|---|---|---|---|---|
+| 357 | Airbnb | Software Engineering Intern (BS/MS) | San Francisco, California | Software & IT | Not disclosed | Java · C++ · JavaScript · SQL · machine learning | Not specified | [Apply](https://careers.airbnb.com/positions/8360478?gh_jid=8360478) |
 | 329 | DoorDash | Software Engineer, Intern - Labs (Summer 2027) | San Francisco, CA; Sunnyvale, CA | Software & IT | Not disclosed | Python · Java · SQL · AWS · machine learning | Not specified | [Apply](https://job-boards.greenhouse.io/doordashusa/jobs/8263774) |
 | 329 | DoorDash | Software Engineer, Intern (Summer 2027) - US | New York, NY; San Francisco, CA; Sunnyvale, CA; Los Angeles, CA; Seattle, WA | Software & IT | Not disclosed | Python · Java · SQL · AWS · Excel | Not specified | [Apply](https://job-boards.greenhouse.io/doordashusa/jobs/8171041) |
 | 112 | Northrop Grumman | SkillBridge Internship Program is seeking our exceptional enlisted-military talent to join us as a Systems Engineer - 2 | United States-Alabama-Huntsville | Software & IT | Not disclosed | — | Not specified | [Apply](https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-Alabama-Huntsville/SkillBridge-Internship-Program-is-seeking-our-exceptional-enlisted-military-talent-to-join-us-as-a-Systems-Engineer---2_R10260427) |
@@ -58,11 +59,10 @@ Open positions: 35
 
 ## Data & AI
 
-Open positions: 9
+Open positions: 8
 
 | Rank | Company | Position | Location | Category | Salary | Keywords | Sponsorship | Apply |
 |---:|---|---|---|---|---|---|---|---|
-| 357 | Airbnb | Advanced Analytics Intern | United States | Data & AI | Not disclosed | Python · SQL · data science · analytics · recruiting | Not specified | [Apply](https://careers.airbnb.com/positions/8380007?gh_jid=8380007) |
 | 329 | DoorDash | Machine Learning Intern (Masters) - Summer 2027 | San Francisco, CA;  Sunnyvale, CA ; New York City, NY; Seattle, WA | Data & AI | Not disclosed | Python · Java · C++ · Go · machine learning | Not specified | [Apply](https://job-boards.greenhouse.io/doordashusa/jobs/8204111) |
 | 329 | DoorDash | Machine Learning Intern (PhD) - Summer 2027 | San Francisco, CA;  Sunnyvale, CA ; New York City, NY; Seattle, WA | Data & AI | Not disclosed | Python · Java · C++ · Go · machine learning | Not specified | [Apply](https://job-boards.greenhouse.io/doordashusa/jobs/8233953) |
 | 119 | Visa | Consulting & Analytics Summer Intern | DE - Frankfurt, Germany | Data & AI | Not disclosed | analytics · Excel · sales | No sponsorship for this position | [Apply](https://visa.wd5.myworkdayjobs.com/en-US/Visa/job/DE---Frankfurt-Germany/Consulting---Analytics-Summer-Intern_REF089625W-2) |
