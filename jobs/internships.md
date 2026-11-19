@@ -1,24 +1,25 @@
 # F500Tracker internships
 
-Last updated: November 18, 2026 at 20:32 UTC
+Last updated: November 19, 2026 at 07:26 UTC
 
-Current internships: 346
+Current internships: 354
 
 ## Categories
 
-[Software & IT (36)](#software-it) · [Data & AI (8)](#data-ai) · [Product & Design (1)](#product-design) · [Engineering (52)](#engineering) · [Finance & Accounting (7)](#finance-accounting) · [Sales & Marketing (7)](#sales-marketing) · [Operations & Supply Chain (23)](#operations-supply-chain) · [People & Legal (1)](#people-legal) · [Other (211)](#other)
+[Software & IT (37)](#software-it) · [Data & AI (9)](#data-ai) · [Product & Design (1)](#product-design) · [Engineering (51)](#engineering) · [Finance & Accounting (6)](#finance-accounting) · [Sales & Marketing (7)](#sales-marketing) · [Operations & Supply Chain (23)](#operations-supply-chain) · [People & Legal (1)](#people-legal) · [Other (219)](#other)
 
 <a id="software-it"></a>
 
 ## Software & IT
 
-Open positions: 36
+Open positions: 37
 
 | Rank | Company | Position | Location | Category | Salary | Keywords | Sponsorship | Apply |
 |---:|---|---|---|---|---|---|---|---|
-| 357 | Airbnb | Software Engineering Intern (BS/MS) | San Francisco, California | Software & IT | Not disclosed | Java · C++ · JavaScript · SQL · machine learning | Not specified | [Apply](https://careers.airbnb.com/positions/8360478?gh_jid=8360478) |
 | 329 | DoorDash | Software Engineer, Intern - Labs (Summer 2027) | San Francisco, CA; Sunnyvale, CA | Software & IT | Not disclosed | Python · Java · SQL · AWS · machine learning | Not specified | [Apply](https://job-boards.greenhouse.io/doordashusa/jobs/8263774) |
+| 357 | Airbnb | Software Engineering Intern (BS/MS) | San Francisco, California | Software & IT | Not disclosed | Java · C++ · JavaScript · SQL · machine learning | Not specified | [Apply](https://careers.airbnb.com/positions/8360478?gh_jid=8360478) |
 | 329 | DoorDash | Software Engineer, Intern (Summer 2027) - US | New York, NY; San Francisco, CA; Sunnyvale, CA; Los Angeles, CA; Seattle, WA | Software & IT | Not disclosed | Python · Java · SQL · AWS · Excel | Not specified | [Apply](https://job-boards.greenhouse.io/doordashusa/jobs/8171041) |
+| 396 | Analog Devices | Embedded Software Engineer Intern | US, TX, Austin, Plaza on the Lake | Software & IT | Not disclosed | Python · electrical engineering | Not specified | [Apply](https://analogdevices.wd1.myworkdayjobs.com/en-US/External/job/US-TX-Austin-Plaza-on-the-Lake/Embedded-Software-Engineer-Intern_R269548) |
 | 112 | Northrop Grumman | SkillBridge Internship Program is seeking our exceptional enlisted-military talent to join us as a Systems Engineer - 2 | United States-Alabama-Huntsville | Software & IT | Not disclosed | — | Not specified | [Apply](https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-Alabama-Huntsville/SkillBridge-Internship-Program-is-seeking-our-exceptional-enlisted-military-talent-to-join-us-as-a-Systems-Engineer---2_R10260427) |
 | 84 | HP | Software and Engineering Intern Roles - Imaging and Print | Corvallis, Oregon, United States of America | Software & IT | $29–$35/hr | Python · Java · C# · JavaScript · SQL | Not specified | [Apply](https://hp.wd5.myworkdayjobs.com/en-US/ExternalCareerSite/job/Corvallis-Oregon-United-States-of-America/Software-and-Engineering-Intern-Roles---Imaging-and-Print_3168142-1) |
 | 125 | Micron Technology | Intern - IT Software Engineer | Boise, ID - Main Site | Software & IT | Not disclosed | Python · C# · JavaScript · SQL · React | Not specified | [Apply](https://micron.wd1.myworkdayjobs.com/en-US/External/job/Boise-ID---Main-Site/Intern---IT-Software-Engineer_JR111582) |
@@ -59,13 +60,14 @@ Open positions: 36
 
 ## Data & AI
 
-Open positions: 8
+Open positions: 9
 
 | Rank | Company | Position | Location | Category | Salary | Keywords | Sponsorship | Apply |
 |---:|---|---|---|---|---|---|---|---|
 | 329 | DoorDash | Machine Learning Intern (Masters) - Summer 2027 | San Francisco, CA;  Sunnyvale, CA ; New York City, NY; Seattle, WA | Data & AI | Not disclosed | Python · Java · C++ · Go · machine learning | Not specified | [Apply](https://job-boards.greenhouse.io/doordashusa/jobs/8204111) |
 | 329 | DoorDash | Machine Learning Intern (PhD) - Summer 2027 | San Francisco, CA;  Sunnyvale, CA ; New York City, NY; Seattle, WA | Data & AI | Not disclosed | Python · Java · C++ · Go · machine learning | Not specified | [Apply](https://job-boards.greenhouse.io/doordashusa/jobs/8233953) |
 | 119 | Visa | Consulting & Analytics Summer Intern | DE - Frankfurt, Germany | Data & AI | Not disclosed | analytics · Excel · sales | No sponsorship for this position | [Apply](https://visa.wd5.myworkdayjobs.com/en-US/Visa/job/DE---Frankfurt-Germany/Consulting---Analytics-Summer-Intern_REF089625W-2) |
+| 294 | S&P Global | Summer Intern, Client Services, Equity Analytics Products | New York, NY | Data & AI | Not disclosed | analytics | Not specified | [Apply](https://spgi.wd5.myworkdayjobs.com/en-US/SPGI_Careers/job/New-York-NY/Summer-Intern--Client-Services--Equity-Analytics-Products_332606-1) |
 | 125 | Micron Technology | Intern -  AI Engineer Platform | Boise, ID - Main Site | Data & AI | Not disclosed | Python · Java · SQL · Docker · Kubernetes | Not specified | [Apply](https://micron.wd1.myworkdayjobs.com/en-US/External/job/Boise-ID---Main-Site/Intern----AI-Engineer-Platform_JR115934) |
 | 125 | Micron Technology | Intern - Machine Learning Engineering | Richardson, TX | Data & AI | Not disclosed | Python · machine learning · artificial intelligence · electrical engineering | Not specified | [Apply](https://micron.wd1.myworkdayjobs.com/en-US/External/job/Richardson-TX/Intern---Machine-Learning-Engineering_JR114750) |
 | 125 | Micron Technology | Intern - SMAI Probe AI Engineer | Boise, ID - Main Site | Data & AI | Not disclosed | Python · Java · C# · JavaScript · SQL | Not specified | [Apply](https://micron.wd1.myworkdayjobs.com/en-US/External/job/Boise-ID---Main-Site/Intern---SMAI-Probe-AI-Engineer_JR114094) |
@@ -90,7 +92,7 @@ Open positions: 1
 
 ## Engineering
 
-Open positions: 52
+Open positions: 51
 
 | Rank | Company | Position | Location | Category | Salary | Keywords | Sponsorship | Apply |
 |---:|---|---|---|---|---|---|---|---|
@@ -145,7 +147,6 @@ Open positions: 52
 | 83 | Cisco Systems | Hardware Engineer I (Co-op) - United States | San Jose, California, US | Engineering | Not disclosed | Python · sales | Not specified | [Apply](https://cisco.wd5.myworkdayjobs.com/en-US/Cisco_Careers/job/San-Jose-California-US/Hardware-Engineer-I--Co-op----United-States_2025369) |
 | 106 | Thermo Fisher Scientific | Industrial Engineering Co-op | Rochester, New York, USA | Engineering | Not disclosed | supply chain | Not specified | [Apply](https://thermofisher.wd5.myworkdayjobs.com/en-US/ThermoFisherCareers/job/Rochester-New-York-USA/Industrial-Engineering-Co-op_R-01366625) |
 | 106 | Thermo Fisher Scientific | Mechanical Engineering Co-op | Rochester, New York, USA | Engineering | Not disclosed | mechanical engineering · electrical engineering | Not specified | [Apply](https://thermofisher.wd5.myworkdayjobs.com/en-US/ThermoFisherCareers/job/Rochester-New-York-USA/Mechanical-Engineering-Co-op_R-01366623) |
-| 396 | Analog Devices | Mechanical Engineer - Advanced Robotics Intern | US, MA, Wilmington | Engineering | Not disclosed | mechanical engineering · CAD · SolidWorks | Not specified | [Apply](https://analogdevices.wd1.myworkdayjobs.com/en-US/External/job/US-MA-Wilmington/Mechanical-Engineer---Advanced-Robotics-Intern_R268505) |
 
 [Back to categories](#categories) · [Back to README](../README.md)
 
@@ -153,11 +154,10 @@ Open positions: 52
 
 ## Finance & Accounting
 
-Open positions: 7
+Open positions: 6
 
 | Rank | Company | Position | Location | Category | Salary | Keywords | Sponsorship | Apply |
 |---:|---|---|---|---|---|---|---|---|
-| 294 | S&P Global | Summer Intern, Managed Services - Tax Outsourcing | Massachusetts, US | Finance & Accounting | Not disclosed | Excel · tax · supply chain · sales · compliance | Not specified | [Apply](https://spgi.wd5.myworkdayjobs.com/en-US/SPGI_Careers/job/Massachusetts-US/Managed-Services---Tax-Outsourcing_332648) |
 | 30 | Marathon Petroleum | Intern/Co-op - Accounting (Spring 2027 - Denver, CO)) | Denver CO | Finance & Accounting | $0–$999.99/hr | accounting · audit · tax · supply chain · logistics | No sponsorship for this position | [Apply](https://mpc.wd1.myworkdayjobs.com/en-US/MPCCareers/job/Denver-CO/Intern-Co-op---Accounting--Spring-2027---Denver--CO--_00025251) |
 | 49 | RTX | Finance Intern (Summer 2027) | US-TX-MCKINNEY-513PW ~ 2501 W University Dr ~ PW BLDG | Finance & Accounting | Not disclosed | Excel · accounting · compliance · contracts | Not specified | [Apply](https://globalhr.wd5.myworkdayjobs.com/en-US/REC_RTX_Ext_Gateway/job/US-TX-MCKINNEY-513PW--2501-W-University-Dr--PW-BLDG/Finance-Intern--Summer-2027-_01889012) |
 | 52 | Lowe's | Finance Intern – Undergrad Internship – Summer 2027 | Mooresville, NC (SSC) 1999 | Finance & Accounting | Not disclosed | Excel · accounting · supply chain · sales | Not specified | [Apply](https://lowes.wd5.myworkdayjobs.com/en-US/LWS_External_CS/job/Mooresville-NC-SSC-1999/Finance-Intern---Undergrad-Internship---Summer-2027_JR-02673472) |
@@ -235,7 +235,7 @@ Open positions: 1
 
 ## Other
 
-Open positions: 211
+Open positions: 219
 
 | Rank | Company | Position | Location | Category | Salary | Keywords | Sponsorship | Apply |
 |---:|---|---|---|---|---|---|---|---|
@@ -246,7 +246,17 @@ Open positions: 211
 | 220 | Carvana | Customer Service Intern (Summer 2027) | Tempe, AZ | Other | Not disclosed | — | Not specified | [Apply](https://www.carvana.com/careers/apply?gh_jid=8279255) |
 | 376 | Oscar Health | Actuarial Intern | New York, New York, United States | Other | Not disclosed | Python · SQL · artificial intelligence · Excel · recruiting | Not specified | [Apply](https://oscarhealth.com/careers/jobs?gh_jid=8303588) |
 | 329 | DoorDash | Product Design, Intern (Summer 2027) | San Francisco, CA; New York, NY | Other | Not disclosed | Excel · logistics · recruiting · compliance | Not specified | [Apply](https://job-boards.greenhouse.io/doordashusa/jobs/8176863) |
+| 114 | Salesforce | Summer 2027 Intern -  Policy, Office of Ethical and Humane Use (OHEU) | California - San Francisco | Other | $29–$33/hr | artificial intelligence · sales · CRM · recruiting · legal | Not specified | [Apply](https://salesforce.wd12.myworkdayjobs.com/en-US/External_Career_Site/job/California---San-Francisco/Summer-2027-Intern----Policy--Office-of-Ethical-and-Humane-Use--OHEU-_JR368543-2) |
+| 33 | Freddie Mac | Risk Management Graduate Intern – Business Summer 2027 | McLean, VA | Other | Not disclosed | risk management | Not specified | [Apply](https://freddiemac.wd5.myworkdayjobs.com/en-US/External/job/McLean-VA/Risk-Management-Graduate-Intern---Business-Summer-2027_JR17554) |
+| 33 | Freddie Mac | Risk Management Graduate Intern – Quantitative Summer 2027 | McLean, VA | Other | Not disclosed | risk management | Not specified | [Apply](https://freddiemac.wd5.myworkdayjobs.com/en-US/External/job/McLean-VA/Risk-Management-Graduate-Intern---Quantitative-Summer-2027_JR17553) |
 | 160 | Applied Materials | Internship Program Manager - B4 | Santa Clara,CA | Other | Not disclosed | analytics · risk management · sales · human resources · recruiting | Not specified | [Apply](https://amat.wd1.myworkdayjobs.com/en-US/External/job/Santa-ClaraCA/Internship-Program-Manager---B4_R2631565) |
+| 396 | Analog Devices | Analog Design Engineering Intern | US, OR, Beaverton | Other | Not disclosed | electrical engineering | Not specified | [Apply](https://analogdevices.wd1.myworkdayjobs.com/en-US/External/job/US-OR-Beaverton/Analog-Design-Engineering-Intern_R268078) |
+| 396 | Analog Devices | Product Applications Intern | US, CA, San Jose, Rio Robles | Other | Not disclosed | — | Not specified | [Apply](https://analogdevices.wd1.myworkdayjobs.com/en-US/External/job/US-CA-San-Jose-Rio-Robles/Product-Applications-Intern_R269555) |
+| 396 | Analog Devices | Equipment Engineering Intern | US, MA, Wilmington | Other | Not disclosed | mechanical engineering · electrical engineering | Not specified | [Apply](https://analogdevices.wd1.myworkdayjobs.com/en-US/External/job/US-MA-Wilmington/Equipment-Engineering-Intern_R269551) |
+| 396 | Analog Devices | Design Evaluation Engineer Intern | US, MA, Wilmington | Other | Not disclosed | Python · electrical engineering | Not specified | [Apply](https://analogdevices.wd1.myworkdayjobs.com/en-US/External/job/US-MA-Wilmington/Design-Evaluation-Engineer-Intern_R269550-1) |
+| 396 | Analog Devices | Analog Design Engineer Intern | US, CA, San Jose, Rio Robles | Other | Not disclosed | — | Not specified | [Apply](https://analogdevices.wd1.myworkdayjobs.com/en-US/External/job/US-CA-San-Jose-Rio-Robles/Analog-Design-Engineer-Intern_R269549) |
+| 396 | Analog Devices | Digital Design Engineering Intern - Summer 2027 | US, TX, Austin, Plaza on the Lake | Other | Not disclosed | electrical engineering | Not specified | [Apply](https://analogdevices.wd1.myworkdayjobs.com/en-US/External/job/US-TX-Austin-Plaza-on-the-Lake/Digital-Design-Engineering-Intern---Summer-2027_R268548) |
+| 396 | Analog Devices | Analog Design Engineering Intern - Summer 2027 | US, CO, Colorado Springs, Centennial | Other | Not disclosed | — | Not specified | [Apply](https://analogdevices.wd1.myworkdayjobs.com/en-US/External/job/US-CO-Colorado-Springs-Centennial/Analog-Design-Engineering-Intern---Summer-2027_R268077) |
 | 112 | Northrop Grumman | 2027 Manufacturing Engineering Intern - Sunnyvale CA | United States-California-Sunnyvale | Other | $21.5–$39/hr | mechanical engineering | Not specified | [Apply](https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-California-Sunnyvale/XMLNAME-2027-Manufacturing-Engineering-Intern---Sunnyvale-CA_R10260394) |
 | 112 | Northrop Grumman | 2027 Materials & Process Engineering Intern - Northridge CA | United States-California-Northridge | Other | Not disclosed | — | Not specified | [Apply](https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-California-Northridge/XMLNAME-2027-Materials---Process-Engineering-Intern---Northridge-CA_R10260526) |
 | 112 | Northrop Grumman | SkillBridge Internship Opportunity - Seeking Enlisted-Active Military Applicants - Engineering Technician – 4 | United States-Arizona-Chandler | Other | Not disclosed | Excel · CAD | Not specified | [Apply](https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-Arizona-Chandler/Engineering-Technician---4---Electrical-Ground-Support-Equipment_R10260399) |
@@ -322,8 +332,6 @@ Open positions: 211
 | 125 | Micron Technology | Intern - DRAM PI | Boise, ID - Main Site | Other | Not disclosed | artificial intelligence · electrical engineering | Not specified | [Apply](https://micron.wd1.myworkdayjobs.com/en-US/External/job/Boise-ID---Main-Site/Intern---DRAM-PI_JR107483) |
 | 125 | Micron Technology | Intern - Process Pathfinding, DRAM Dry Etch | Boise, ID - Main Site | Other | Not disclosed | artificial intelligence | Not specified | [Apply](https://micron.wd1.myworkdayjobs.com/en-US/External/job/Boise-ID---Main-Site/Intern---Process-Pathfinding--DRAM-Dry-Etch_JR107347) |
 | 125 | Micron Technology | Intern - Process Development Engineer, 3D DRAM Dry Etch | Boise, ID - Main Site | Other | Not disclosed | Python · analytics · mechanical engineering · electrical engineering | Not specified | [Apply](https://micron.wd1.myworkdayjobs.com/en-US/External/job/Boise-ID---Main-Site/Intern---Process-Development-Engineer--3D-DRAM-Dry-Etch_JR107330) |
-| 33 | Freddie Mac | Risk Management Graduate Intern – Business Summer 2027 | McLean, VA | Other | Not disclosed | artificial intelligence · analytics · Excel · risk management | Not specified | [Apply](https://freddiemac.wd5.myworkdayjobs.com/en-US/External/job/McLean-VA/Risk-Management-Graduate-Intern---Business-Summer-2027_JR17554) |
-| 33 | Freddie Mac | Risk Management Graduate Intern – Quantitative Summer 2027 | McLean, VA | Other | Not disclosed | Python · Java · SQL · machine learning · artificial intelligence | Not specified | [Apply](https://freddiemac.wd5.myworkdayjobs.com/en-US/External/job/McLean-VA/Risk-Management-Graduate-Intern---Quantitative-Summer-2027_JR17553) |
 | 39 | Morgan Stanley | Intern | Winter Park, Florida, United States of America | Other | Not disclosed | sales · recruiting | Not specified | [Apply](https://ms.wd5.myworkdayjobs.com/en-US/External/job/Winter-Park-Florida-United-States-of-America/Intern_JR045797) |
 | 45 | Johnson & Johnson | Innovation Excellence Co-op | Danvers, Massachusetts, United States of America | Other | $23.5/hr | compliance | Not specified | [Apply](https://jj.wd5.myworkdayjobs.com/en-US/JJ/job/Danvers-Massachusetts-United-States-of-America/Innovation-Excellence-Co-op_R-097289) |
 | 45 | Johnson & Johnson | Data Science Co-Op, Summer 2027 | Cincinnati, Ohio, United States of America | Other | $23.5/hr | Python · SQL · data science · electrical engineering · recruiting | Not specified | [Apply](https://jj.wd5.myworkdayjobs.com/en-US/JJ/job/Cincinnati-Ohio-United-States-of-America/Data-Science-Co-Op--Summer-2027_R-096746) |
