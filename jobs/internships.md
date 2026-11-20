@@ -1,12 +1,12 @@
 # F500Tracker internships
 
-Last updated: November 19, 2026 at 20:37 UTC
+Last updated: November 20, 2026 at 07:15 UTC
 
-Current internships: 354
+Current internships: 353
 
 ## Categories
 
-[Software & IT (37)](#software-it) · [Data & AI (9)](#data-ai) · [Product & Design (1)](#product-design) · [Engineering (51)](#engineering) · [Finance & Accounting (6)](#finance-accounting) · [Sales & Marketing (7)](#sales-marketing) · [Operations & Supply Chain (23)](#operations-supply-chain) · [People & Legal (1)](#people-legal) · [Other (219)](#other)
+[Software & IT (37)](#software-it) · [Data & AI (8)](#data-ai) · [Product & Design (1)](#product-design) · [Engineering (51)](#engineering) · [Finance & Accounting (6)](#finance-accounting) · [Sales & Marketing (7)](#sales-marketing) · [Operations & Supply Chain (23)](#operations-supply-chain) · [People & Legal (1)](#people-legal) · [Other (219)](#other)
 
 <a id="software-it"></a>
 
@@ -60,7 +60,7 @@ Open positions: 37
 
 ## Data & AI
 
-Open positions: 9
+Open positions: 8
 
 | Rank | Company | Position | Location | Category | Salary | Keywords | Sponsorship | Apply |
 |---:|---|---|---|---|---|---|---|---|
@@ -71,7 +71,6 @@ Open positions: 9
 | 125 | Micron Technology | Intern -  AI Engineer Platform | Boise, ID - Main Site | Data & AI | Not disclosed | Python · Java · SQL · Docker · Kubernetes | Not specified | [Apply](https://micron.wd1.myworkdayjobs.com/en-US/External/job/Boise-ID---Main-Site/Intern----AI-Engineer-Platform_JR115934) |
 | 125 | Micron Technology | Intern - Machine Learning Engineering | Richardson, TX | Data & AI | Not disclosed | Python · machine learning · artificial intelligence · electrical engineering | Not specified | [Apply](https://micron.wd1.myworkdayjobs.com/en-US/External/job/Richardson-TX/Intern---Machine-Learning-Engineering_JR114750) |
 | 125 | Micron Technology | Intern - SMAI Probe AI Engineer | Boise, ID - Main Site | Data & AI | Not disclosed | Python · Java · C# · JavaScript · SQL | Not specified | [Apply](https://micron.wd1.myworkdayjobs.com/en-US/External/job/Boise-ID---Main-Site/Intern---SMAI-Probe-AI-Engineer_JR114094) |
-| 14 | Cigna Group | Healthcare Analytics Summer Intern - Start Date: May 24, 2027 | Morris Plains, NJ | Data & AI | Not disclosed | Python · SQL · AWS · data science · analytics | Not specified | [Apply](https://cigna.wd5.myworkdayjobs.com/en-US/cignacareers/job/Morris-Plains-NJ/Healthcare-Analytics-Summer-Intern---Start-Date--May-24--2027_26009857) |
 | 99 | Nike | NIKE, Inc. AI & Machine Learning, Innovation Graduate Internship | Beaverton, Oregon | Data & AI | Not disclosed | Python · machine learning · artificial intelligence · data science · mechanical engineering | Not specified | [Apply](https://nike.wd1.myworkdayjobs.com/en-US/nke/job/Beaverton-Oregon/NIKE--Inc-AI---Machine-Learning--Innovation-Graduate-Internship_R-94412) |
 
 [Back to categories](#categories) · [Back to README](../README.md)
