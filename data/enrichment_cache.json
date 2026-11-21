@@ -12088,7 +12088,7 @@
   },
   "greenhouse:Block:5465878008": {
     "company": "Block",
-    "enriched_at": "2026-11-19T07:22:41.421894+00:00",
+    "enriched_at": "2026-11-21T19:14:27.646815+00:00",
     "external_id": "5465878008",
     "h1b_mentioned": false,
     "h1b_status": "unknown",
@@ -12105,12 +12105,12 @@
     "salary_period": "",
     "salary_text": "",
     "source": "greenhouse",
-    "source_updated_at": "2026-11-18T20:23:09-05:00",
+    "source_updated_at": "2026-11-21T05:31:53-05:00",
     "sponsorship_evidence": ""
   },
   "greenhouse:Block:5465891008": {
     "company": "Block",
-    "enriched_at": "2026-11-19T07:22:41.436928+00:00",
+    "enriched_at": "2026-11-21T19:14:27.660325+00:00",
     "external_id": "5465891008",
     "h1b_mentioned": false,
     "h1b_status": "unknown",
@@ -12127,7 +12127,7 @@
     "salary_period": "",
     "salary_text": "",
     "source": "greenhouse",
-    "source_updated_at": "2026-11-18T20:23:09-05:00",
+    "source_updated_at": "2026-11-21T05:32:20-05:00",
     "sponsorship_evidence": ""
   },
   "greenhouse:Block:5466269008": {
@@ -125928,7 +125928,7 @@
   },
   "greenhouse:DoorDash:7863361": {
     "company": "DoorDash",
-    "enriched_at": "2026-11-05T06:44:11.708178+00:00",
+    "enriched_at": "2026-11-21T19:14:27.951924+00:00",
     "external_id": "7863361",
     "h1b_mentioned": false,
     "h1b_status": "unknown",
@@ -125939,6 +125939,7 @@
       "sales",
       "recruiting",
       "compliance",
+      "legal",
       "contracts"
     ],
     "salary_currency": "",
@@ -125947,7 +125948,7 @@
     "salary_period": "",
     "salary_text": "",
     "source": "greenhouse",
-    "source_updated_at": "2026-11-04T16:15:15-05:00",
+    "source_updated_at": "2026-11-21T10:31:37-05:00",
     "sponsorship_evidence": ""
   },
   "greenhouse:DoorDash:7863636": {
@@ -130554,14 +130555,17 @@
   },
   "greenhouse:DoorDash:8072970": {
     "company": "DoorDash",
-    "enriched_at": "2026-11-05T06:44:11.699869+00:00",
+    "enriched_at": "2026-11-21T19:14:27.941066+00:00",
     "external_id": "8072970",
     "h1b_mentioned": false,
     "h1b_status": "unknown",
     "keywords": [
       "Excel",
+      "audit",
       "logistics",
-      "recruiting"
+      "recruiting",
+      "compliance",
+      "legal"
     ],
     "salary_currency": "",
     "salary_max": null,
@@ -130569,7 +130573,7 @@
     "salary_period": "",
     "salary_text": "",
     "source": "greenhouse",
-    "source_updated_at": "2026-11-04T16:15:15-05:00",
+    "source_updated_at": "2026-11-21T04:44:32-05:00",
     "sponsorship_evidence": ""
   },
   "greenhouse:DoorDash:8073126": {
@@ -137601,7 +137605,7 @@
   },
   "greenhouse:DoorDash:8205677": {
     "company": "DoorDash",
-    "enriched_at": "2026-11-05T06:44:12.366404+00:00",
+    "enriched_at": "2026-11-21T19:14:27.967838+00:00",
     "external_id": "8205677",
     "h1b_mentioned": false,
     "h1b_status": "unknown",
@@ -137611,7 +137615,8 @@
       "logistics",
       "sales",
       "recruiting",
-      "compliance"
+      "compliance",
+      "legal"
     ],
     "salary_currency": "",
     "salary_max": null,
@@ -137619,7 +137624,7 @@
     "salary_period": "",
     "salary_text": "",
     "source": "greenhouse",
-    "source_updated_at": "2026-11-04T16:15:15-05:00",
+    "source_updated_at": "2026-11-21T10:28:07-05:00",
     "sponsorship_evidence": ""
   },
   "greenhouse:DoorDash:8207740": {
@@ -144382,7 +144387,7 @@
   },
   "greenhouse:DoorDash:8403631": {
     "company": "DoorDash",
-    "enriched_at": "2026-11-20T20:15:41.386222+00:00",
+    "enriched_at": "2026-11-21T19:14:27.924415+00:00",
     "external_id": "8403631",
     "h1b_mentioned": false,
     "h1b_status": "unknown",
@@ -144401,7 +144406,7 @@
     "salary_period": "",
     "salary_text": "",
     "source": "greenhouse",
-    "source_updated_at": "2026-11-20T13:54:26-05:00",
+    "source_updated_at": "2026-11-21T04:44:43-05:00",
     "sponsorship_evidence": ""
   },
   "greenhouse:Oscar Health:3083308": {
@@ -327411,6 +327416,22 @@
     "source_updated_at": "",
     "sponsorship_evidence": ""
   },
+  "workday:Cigna Group:/job/Midland-TX/Home-Infusion-Nurse--Per-Diem---Accredo---Roswell--NM_26014166": {
+    "company": "Cigna Group",
+    "enriched_at": "2026-11-21T19:15:31.049520+00:00",
+    "external_id": "/job/Midland-TX/Home-Infusion-Nurse--Per-Diem---Accredo---Roswell--NM_26014166",
+    "h1b_mentioned": false,
+    "h1b_status": "unknown",
+    "keywords": [],
+    "salary_currency": "",
+    "salary_max": null,
+    "salary_min": null,
+    "salary_period": "",
+    "salary_text": "",
+    "source": "workday",
+    "source_updated_at": "",
+    "sponsorship_evidence": ""
+  },
   "workday:Cigna Group:/job/Minneapolis-MN/MarComms-Analytics-Solutions-Advisor_26012439-1": {
     "company": "Cigna Group",
     "enriched_at": "2026-10-14T21:43:52.391274+00:00",
@@ -329006,6 +329027,22 @@
       "data science",
       "analytics"
     ],
+    "salary_currency": "",
+    "salary_max": null,
+    "salary_min": null,
+    "salary_period": "",
+    "salary_text": "",
+    "source": "workday",
+    "source_updated_at": "",
+    "sponsorship_evidence": ""
+  },
+  "workday:Cigna Group:/job/Raleigh-NC/Home-Infusion-Field--Based-Nurse--Full-Time---Accredo---Raleigh--NC_26013906": {
+    "company": "Cigna Group",
+    "enriched_at": "2026-11-21T19:15:31.008664+00:00",
+    "external_id": "/job/Raleigh-NC/Home-Infusion-Field--Based-Nurse--Full-Time---Accredo---Raleigh--NC_26013906",
+    "h1b_mentioned": false,
+    "h1b_status": "unknown",
+    "keywords": [],
     "salary_currency": "",
     "salary_max": null,
     "salary_min": null,
@@ -330958,6 +330995,22 @@
     "source_updated_at": "",
     "sponsorship_evidence": ""
   },
+  "workday:Cigna Group:/job/Tennessee-Work-at-Home/Encore-Claims-Representative---EviCore---Remote_26013731": {
+    "company": "Cigna Group",
+    "enriched_at": "2026-11-21T19:15:31.034052+00:00",
+    "external_id": "/job/Tennessee-Work-at-Home/Encore-Claims-Representative---EviCore---Remote_26013731",
+    "h1b_mentioned": false,
+    "h1b_status": "unknown",
+    "keywords": [],
+    "salary_currency": "",
+    "salary_max": null,
+    "salary_min": null,
+    "salary_period": "",
+    "salary_text": "",
+    "source": "workday",
+    "source_updated_at": "",
+    "sponsorship_evidence": ""
+  },
   "workday:Cigna Group:/job/Tennessee-Work-at-Home/Quality-Review-and-Audit-Analyst---Remote_26011186": {
     "company": "Cigna Group",
     "enriched_at": "2026-09-11T16:31:36.435691+00:00",
@@ -331762,6 +331815,27 @@
       "SQL",
       "machine learning",
       "data science",
+      "analytics"
+    ],
+    "salary_currency": "",
+    "salary_max": null,
+    "salary_min": null,
+    "salary_period": "",
+    "salary_text": "",
+    "source": "workday",
+    "source_updated_at": "",
+    "sponsorship_evidence": ""
+  },
+  "workday:Cigna Group:/job/United-States-Work-at-Home/Business-Analytics-Lead-Analyst_26014152": {
+    "company": "Cigna Group",
+    "enriched_at": "2026-11-21T19:15:31.017190+00:00",
+    "external_id": "/job/United-States-Work-at-Home/Business-Analytics-Lead-Analyst_26014152",
+    "h1b_mentioned": false,
+    "h1b_status": "unknown",
+    "keywords": [
+      "Python",
+      "SQL",
+      "machine learning",
       "analytics"
     ],
     "salary_currency": "",
@@ -333167,6 +333241,24 @@
     "h1b_status": "unknown",
     "keywords": [
       "SQL",
+      "Excel"
+    ],
+    "salary_currency": "",
+    "salary_max": null,
+    "salary_min": null,
+    "salary_period": "",
+    "salary_text": "",
+    "source": "workday",
+    "source_updated_at": "",
+    "sponsorship_evidence": ""
+  },
+  "workday:Cigna Group:/job/United-States-Work-at-Home/Entry-Level-Product-Management-Analyst---EviCore---Remote_26013995": {
+    "company": "Cigna Group",
+    "enriched_at": "2026-11-21T19:15:31.041364+00:00",
+    "external_id": "/job/United-States-Work-at-Home/Entry-Level-Product-Management-Analyst---EviCore---Remote_26013995",
+    "h1b_mentioned": false,
+    "h1b_status": "unknown",
+    "keywords": [
       "Excel"
     ],
     "salary_currency": "",
@@ -335886,6 +335978,29 @@
       "analytics",
       "supply chain",
       "compliance"
+    ],
+    "salary_currency": "",
+    "salary_max": null,
+    "salary_min": null,
+    "salary_period": "",
+    "salary_text": "",
+    "source": "workday",
+    "source_updated_at": "",
+    "sponsorship_evidence": ""
+  },
+  "workday:Cigna Group:/job/United-States-Work-at-Home/Software-Engineering-Advisor---Remote_26014397": {
+    "company": "Cigna Group",
+    "enriched_at": "2026-11-21T19:15:31.025673+00:00",
+    "external_id": "/job/United-States-Work-at-Home/Software-Engineering-Advisor---Remote_26014397",
+    "h1b_mentioned": false,
+    "h1b_status": "unknown",
+    "keywords": [
+      "Python",
+      "Java",
+      "JavaScript",
+      "React",
+      "Node.js",
+      "machine learning"
     ],
     "salary_currency": "",
     "salary_max": null,
@@ -1304935,6 +1305050,22 @@
     "source_updated_at": "",
     "sponsorship_evidence": ""
   },
+  "workday:U.S. Bancorp:/job/Coeur-dAlene-ID/Relationship-Banker-I---Government-Way-at-Hanley--ID_2026-0036419": {
+    "company": "U.S. Bancorp",
+    "enriched_at": "2026-11-21T19:16:53.270352+00:00",
+    "external_id": "/job/Coeur-dAlene-ID/Relationship-Banker-I---Government-Way-at-Hanley--ID_2026-0036419",
+    "h1b_mentioned": false,
+    "h1b_status": "unknown",
+    "keywords": [],
+    "salary_currency": "",
+    "salary_max": null,
+    "salary_min": null,
+    "salary_period": "",
+    "salary_text": "",
+    "source": "workday",
+    "source_updated_at": "",
+    "sponsorship_evidence": ""
+  },
   "workday:U.S. Bancorp:/job/Colfax-CA/Relationship-Banker-1---Colfax--CA_2026-0033077": {
     "company": "U.S. Bancorp",
     "enriched_at": "2026-10-21T21:56:15.085423+00:00",
@@ -1305766,7 +1305897,7 @@
   },
   "workday:U.S. Bancorp:/job/Corona-CA/Relationship-Banker--multi-level----Mira-Loma--CA--30-35hrs-_2026-0028862": {
     "company": "U.S. Bancorp",
-    "enriched_at": "2026-09-15T21:34:26.906606+00:00",
+    "enriched_at": "2026-11-21T19:16:53.168483+00:00",
     "external_id": "/job/Corona-CA/Relationship-Banker--multi-level----Mira-Loma--CA--30-35hrs-_2026-0028862",
     "h1b_mentioned": false,
     "h1b_status": "unknown",
@@ -1307071,6 +1307202,22 @@
     "keywords": [
       "Excel"
     ],
+    "salary_currency": "",
+    "salary_max": null,
+    "salary_min": null,
+    "salary_period": "",
+    "salary_text": "",
+    "source": "workday",
+    "source_updated_at": "",
+    "sponsorship_evidence": ""
+  },
+  "workday:U.S. Bancorp:/job/Des-Plaines-IL/Bilingual-Relationship-Banker-2---Spanish---Des-Plaines-Oakton_2026-0036384": {
+    "company": "U.S. Bancorp",
+    "enriched_at": "2026-11-21T19:16:53.270887+00:00",
+    "external_id": "/job/Des-Plaines-IL/Bilingual-Relationship-Banker-2---Spanish---Des-Plaines-Oakton_2026-0036384",
+    "h1b_mentioned": false,
+    "h1b_status": "unknown",
+    "keywords": [],
     "salary_currency": "",
     "salary_max": null,
     "salary_min": null,
@@ -1308440,13 +1308587,11 @@
   },
   "workday:U.S. Bancorp:/job/Eureka-MO/Relationship-Banker-1---Eureka-MO_2026-0033164": {
     "company": "U.S. Bancorp",
-    "enriched_at": "2026-10-23T17:20:00.448010+00:00",
+    "enriched_at": "2026-11-21T19:16:53.270970+00:00",
     "external_id": "/job/Eureka-MO/Relationship-Banker-1---Eureka-MO_2026-0033164",
     "h1b_mentioned": false,
     "h1b_status": "unknown",
-    "keywords": [
-      "Excel"
-    ],
+    "keywords": [],
     "salary_currency": "",
     "salary_max": null,
     "salary_min": null,
@@ -1311216,15 +1311361,13 @@
   },
   "workday:U.S. Bancorp:/job/Hackensack-NJ/Middle-Office-Operations-Manager_2026-0034077": {
     "company": "U.S. Bancorp",
-    "enriched_at": "2026-11-03T01:12:20.355451+00:00",
+    "enriched_at": "2026-11-21T19:16:53.204100+00:00",
     "external_id": "/job/Hackensack-NJ/Middle-Office-Operations-Manager_2026-0034077",
     "h1b_mentioned": false,
     "h1b_status": "unknown",
     "keywords": [
       "Excel",
-      "accounting",
-      "audit",
-      "tax"
+      "accounting"
     ],
     "salary_currency": "",
     "salary_max": null,
@@ -1315274,15 +1315417,11 @@
   },
   "workday:U.S. Bancorp:/job/Laguna-Niguel-CA/Wealth-Management-Client-Associate---Laguna-Niguel--CA_2026-0032899-1": {
     "company": "U.S. Bancorp",
-    "enriched_at": "2026-10-20T21:50:29.181707+00:00",
+    "enriched_at": "2026-11-21T19:16:53.270663+00:00",
     "external_id": "/job/Laguna-Niguel-CA/Wealth-Management-Client-Associate---Laguna-Niguel--CA_2026-0032899-1",
     "h1b_mentioned": false,
     "h1b_status": "unknown",
-    "keywords": [
-      "Excel",
-      "sales",
-      "compliance"
-    ],
+    "keywords": [],
     "salary_currency": "",
     "salary_max": null,
     "salary_min": null,
@@ -1316062,6 +1316201,22 @@
     "source_updated_at": "",
     "sponsorship_evidence": ""
   },
+  "workday:U.S. Bancorp:/job/Las-Vegas-NV/Sr-Relationship-Banker---Craig---Jones--38hrs-_2026-0036432": {
+    "company": "U.S. Bancorp",
+    "enriched_at": "2026-11-21T19:16:53.270426+00:00",
+    "external_id": "/job/Las-Vegas-NV/Sr-Relationship-Banker---Craig---Jones--38hrs-_2026-0036432",
+    "h1b_mentioned": false,
+    "h1b_status": "unknown",
+    "keywords": [],
+    "salary_currency": "",
+    "salary_max": null,
+    "salary_min": null,
+    "salary_period": "",
+    "salary_text": "",
+    "source": "workday",
+    "source_updated_at": "",
+    "sponsorship_evidence": ""
+  },
   "workday:U.S. Bancorp:/job/Las-Vegas-NV/Sr-Relationship-Banker---Montecito--38hrs-_2026-0025586": {
     "company": "U.S. Bancorp",
     "enriched_at": "2026-08-18T19:09:06.993120+00:00",
@@ -1316225,6 +1316380,22 @@
       "compliance",
       "legal"
     ],
+    "salary_currency": "",
+    "salary_max": null,
+    "salary_min": null,
+    "salary_period": "",
+    "salary_text": "",
+    "source": "workday",
+    "source_updated_at": "",
+    "sponsorship_evidence": ""
+  },
+  "workday:U.S. Bancorp:/job/Lebanon-MO/Relationship-Banker-1---Lebanon--MO_2026-0036128-1": {
+    "company": "U.S. Bancorp",
+    "enriched_at": "2026-11-21T19:16:53.270220+00:00",
+    "external_id": "/job/Lebanon-MO/Relationship-Banker-1---Lebanon--MO_2026-0036128-1",
+    "h1b_mentioned": false,
+    "h1b_status": "unknown",
+    "keywords": [],
     "salary_currency": "",
     "salary_max": null,
     "salary_min": null,
@@ -1316545,6 +1316716,25 @@
     "h1b_status": "unknown",
     "keywords": [
       "Excel"
+    ],
+    "salary_currency": "",
+    "salary_max": null,
+    "salary_min": null,
+    "salary_period": "",
+    "salary_text": "",
+    "source": "workday",
+    "source_updated_at": "",
+    "sponsorship_evidence": ""
+  },
+  "workday:U.S. Bancorp:/job/Little-Rock-AR/Relationship-Banker-2_2026-0036425": {
+    "company": "U.S. Bancorp",
+    "enriched_at": "2026-11-21T19:16:53.259998+00:00",
+    "external_id": "/job/Little-Rock-AR/Relationship-Banker-2_2026-0036425",
+    "h1b_mentioned": false,
+    "h1b_status": "unknown",
+    "keywords": [
+      "Excel",
+      "sales"
     ],
     "salary_currency": "",
     "salary_max": null,
@@ -1317944,7 +1318134,7 @@
   },
   "workday:U.S. Bancorp:/job/Madera-CA/Relationship-Banker-1---Madera--CA_2026-0027709": {
     "company": "U.S. Bancorp",
-    "enriched_at": "2026-09-04T16:35:27.363685+00:00",
+    "enriched_at": "2026-11-21T19:16:53.225154+00:00",
     "external_id": "/job/Madera-CA/Relationship-Banker-1---Madera--CA_2026-0027709",
     "h1b_mentioned": false,
     "h1b_status": "unknown",
@@ -1319687,6 +1319877,38 @@
     "source_updated_at": "",
     "sponsorship_evidence": "ematical and computer skills Excellent customer service skills This position is not eligible for visa sponsorship."
   },
+  "workday:U.S. Bancorp:/job/Milwaukee-WI/Mutual-Funds-Specialist-5_2026-0035524": {
+    "company": "U.S. Bancorp",
+    "enriched_at": "2026-11-21T19:16:53.270613+00:00",
+    "external_id": "/job/Milwaukee-WI/Mutual-Funds-Specialist-5_2026-0035524",
+    "h1b_mentioned": false,
+    "h1b_status": "unknown",
+    "keywords": [],
+    "salary_currency": "",
+    "salary_max": null,
+    "salary_min": null,
+    "salary_period": "",
+    "salary_text": "",
+    "source": "workday",
+    "source_updated_at": "",
+    "sponsorship_evidence": ""
+  },
+  "workday:U.S. Bancorp:/job/Milwaukee-WI/Mutual-Funds-Specialist-5_2026-0035527": {
+    "company": "U.S. Bancorp",
+    "enriched_at": "2026-11-21T19:16:53.270566+00:00",
+    "external_id": "/job/Milwaukee-WI/Mutual-Funds-Specialist-5_2026-0035527",
+    "h1b_mentioned": false,
+    "h1b_status": "unknown",
+    "keywords": [],
+    "salary_currency": "",
+    "salary_max": null,
+    "salary_min": null,
+    "salary_period": "",
+    "salary_text": "",
+    "source": "workday",
+    "source_updated_at": "",
+    "sponsorship_evidence": ""
+  },
   "workday:U.S. Bancorp:/job/Milwaukee-WI/Mutual-Funds-Specialist_2026-0032712": {
     "company": "U.S. Bancorp",
     "enriched_at": "2026-10-22T17:25:50.133749+00:00",
@@ -1320354,6 +1320576,25 @@
     "keywords": [
       "Excel",
       "accounting"
+    ],
+    "salary_currency": "",
+    "salary_max": null,
+    "salary_min": null,
+    "salary_period": "",
+    "salary_text": "",
+    "source": "workday",
+    "source_updated_at": "",
+    "sponsorship_evidence": ""
+  },
+  "workday:U.S. Bancorp:/job/Minneapolis-MN/Ascent-Investment-Reporting-Analyst_2026-0033944-1": {
+    "company": "U.S. Bancorp",
+    "enriched_at": "2026-11-21T19:16:53.236632+00:00",
+    "external_id": "/job/Minneapolis-MN/Ascent-Investment-Reporting-Analyst_2026-0033944-1",
+    "h1b_mentioned": false,
+    "h1b_status": "unknown",
+    "keywords": [
+      "analytics",
+      "Excel"
     ],
     "salary_currency": "",
     "salary_max": null,
@@ -1321862,6 +1322103,29 @@
     "source_updated_at": "",
     "sponsorship_evidence": ""
   },
+  "workday:U.S. Bancorp:/job/Minneapolis-MN/Senior-AI-Security-Data-and-Knowledge-Engineer_2026-0035448": {
+    "company": "U.S. Bancorp",
+    "enriched_at": "2026-11-21T19:16:53.156041+00:00",
+    "external_id": "/job/Minneapolis-MN/Senior-AI-Security-Data-and-Knowledge-Engineer_2026-0035448",
+    "h1b_mentioned": false,
+    "h1b_status": "unknown",
+    "keywords": [
+      "Python",
+      "SQL",
+      "Azure",
+      "PostgreSQL",
+      "Excel",
+      "contracts"
+    ],
+    "salary_currency": "",
+    "salary_max": null,
+    "salary_min": null,
+    "salary_period": "",
+    "salary_text": "",
+    "source": "workday",
+    "source_updated_at": "",
+    "sponsorship_evidence": ""
+  },
   "workday:U.S. Bancorp:/job/Minneapolis-MN/Senior-Data-Product-Analyst_2026-0021445": {
     "company": "U.S. Bancorp",
     "enriched_at": "2026-09-24T21:44:51.581399+00:00",
@@ -1322420,6 +1322684,22 @@
       "compliance",
       "legal"
     ],
+    "salary_currency": "",
+    "salary_max": null,
+    "salary_min": null,
+    "salary_period": "",
+    "salary_text": "",
+    "source": "workday",
+    "source_updated_at": "",
+    "sponsorship_evidence": ""
+  },
+  "workday:U.S. Bancorp:/job/Minneapolis-MN/Wealth-Management--Senior-Trust-Officer_2026-0036436": {
+    "company": "U.S. Bancorp",
+    "enriched_at": "2026-11-21T19:16:53.270289+00:00",
+    "external_id": "/job/Minneapolis-MN/Wealth-Management--Senior-Trust-Officer_2026-0036436",
+    "h1b_mentioned": false,
+    "h1b_status": "unknown",
+    "keywords": [],
     "salary_currency": "",
     "salary_max": null,
     "salary_min": null,
@@ -1323423,6 +1323703,22 @@
     "source_updated_at": "",
     "sponsorship_evidence": ""
   },
+  "workday:U.S. Bancorp:/job/Naperville-IL/Relationship-Banker-2---Market-Meadows-Naperville---1-500-Sign-On-Bonus_2026-0036381": {
+    "company": "U.S. Bancorp",
+    "enriched_at": "2026-11-21T19:16:53.270737+00:00",
+    "external_id": "/job/Naperville-IL/Relationship-Banker-2---Market-Meadows-Naperville---1-500-Sign-On-Bonus_2026-0036381",
+    "h1b_mentioned": false,
+    "h1b_status": "unknown",
+    "keywords": [],
+    "salary_currency": "",
+    "salary_max": null,
+    "salary_min": null,
+    "salary_period": "",
+    "salary_text": "",
+    "source": "workday",
+    "source_updated_at": "",
+    "sponsorship_evidence": ""
+  },
   "workday:U.S. Bancorp:/job/Naperville-IL/Senior-Pega-Software-Engineer-in-Naperville--IL_2026-0034732": {
     "company": "U.S. Bancorp",
     "enriched_at": "2026-11-16T06:37:04.859182+00:00",
@@ -1323889,6 +1324185,22 @@
       "Excel",
       "sales"
     ],
+    "salary_currency": "",
+    "salary_max": null,
+    "salary_min": null,
+    "salary_period": "",
+    "salary_text": "",
+    "source": "workday",
+    "source_updated_at": "",
+    "sponsorship_evidence": ""
+  },
+  "workday:U.S. Bancorp:/job/New-York-NY/Mutual-Funds-Relationship-Manager_2026-0035750": {
+    "company": "U.S. Bancorp",
+    "enriched_at": "2026-11-21T19:16:53.271025+00:00",
+    "external_id": "/job/New-York-NY/Mutual-Funds-Relationship-Manager_2026-0035750",
+    "h1b_mentioned": false,
+    "h1b_status": "unknown",
+    "keywords": [],
     "salary_currency": "",
     "salary_max": null,
     "salary_min": null,
@@ -1324932,7 +1325244,7 @@
   },
   "workday:U.S. Bancorp:/job/Oceanside-CA/Sr-Relationship-Banker_2026-0034013": {
     "company": "U.S. Bancorp",
-    "enriched_at": "2026-11-05T07:00:56.906060+00:00",
+    "enriched_at": "2026-11-21T19:16:53.214258+00:00",
     "external_id": "/job/Oceanside-CA/Sr-Relationship-Banker_2026-0034013",
     "h1b_mentioned": false,
     "h1b_status": "unknown",
@@ -1326820,6 +1327132,25 @@
     "source_updated_at": "",
     "sponsorship_evidence": ""
   },
+  "workday:U.S. Bancorp:/job/Phoenix-AZ/Business-Banking-Relationship-Analyst_2026-0036365": {
+    "company": "U.S. Bancorp",
+    "enriched_at": "2026-11-21T19:16:53.251726+00:00",
+    "external_id": "/job/Phoenix-AZ/Business-Banking-Relationship-Analyst_2026-0036365",
+    "h1b_mentioned": false,
+    "h1b_status": "unknown",
+    "keywords": [
+      "Excel",
+      "accounting"
+    ],
+    "salary_currency": "",
+    "salary_max": null,
+    "salary_min": null,
+    "salary_period": "",
+    "salary_text": "",
+    "source": "workday",
+    "source_updated_at": "",
+    "sponsorship_evidence": ""
+  },
   "workday:U.S. Bancorp:/job/Phoenix-AZ/Healthcare-Business-Banking-Relationship-Manager_2026-0020645": {
     "company": "U.S. Bancorp",
     "enriched_at": "2026-08-28T22:32:26.162944+00:00",
@@ -1327868,13 +1328199,11 @@
   },
   "workday:U.S. Bancorp:/job/Pueblo-CO/Relationship-Banker-I---Pueblo-North_2026-0026502": {
     "company": "U.S. Bancorp",
-    "enriched_at": "2026-09-25T05:09:29.122321+00:00",
+    "enriched_at": "2026-11-21T19:16:53.270828+00:00",
     "external_id": "/job/Pueblo-CO/Relationship-Banker-I---Pueblo-North_2026-0026502",
     "h1b_mentioned": false,
     "h1b_status": "unknown",
-    "keywords": [
-      "Excel"
-    ],
+    "keywords": [],
     "salary_currency": "",
     "salary_max": null,
     "salary_min": null,
@@ -1333666,6 +1333995,24 @@
     "source_updated_at": "",
     "sponsorship_evidence": ""
   },
+  "workday:U.S. Bancorp:/job/San-Francisco-CA/Relationship-Banker-I---Chinatown---San-Francisco--CA_2026-0036359": {
+    "company": "U.S. Bancorp",
+    "enriched_at": "2026-11-21T19:16:53.193620+00:00",
+    "external_id": "/job/San-Francisco-CA/Relationship-Banker-I---Chinatown---San-Francisco--CA_2026-0036359",
+    "h1b_mentioned": false,
+    "h1b_status": "unknown",
+    "keywords": [
+      "Excel"
+    ],
+    "salary_currency": "",
+    "salary_max": null,
+    "salary_min": null,
+    "salary_period": "",
+    "salary_text": "",
+    "source": "workday",
+    "source_updated_at": "",
+    "sponsorship_evidence": ""
+  },
   "workday:U.S. Bancorp:/job/San-Francisco-CA/Relationship-Banker-II---Chinatown---San-Francisco--CA--Bilingual-Cantonese---English-_2026-0031541": {
     "company": "U.S. Bancorp",
     "enriched_at": "2026-10-30T22:32:05.953291+00:00",
@@ -1337121,6 +1337468,22 @@
     "source_updated_at": "",
     "sponsorship_evidence": ""
   },
+  "workday:U.S. Bancorp:/job/Surprise-AZ/Float-Sr-Relationship-Banker---Surprise_2026-0036174": {
+    "company": "U.S. Bancorp",
+    "enriched_at": "2026-11-21T19:16:53.270502+00:00",
+    "external_id": "/job/Surprise-AZ/Float-Sr-Relationship-Banker---Surprise_2026-0036174",
+    "h1b_mentioned": false,
+    "h1b_status": "unknown",
+    "keywords": [],
+    "salary_currency": "",
+    "salary_max": null,
+    "salary_min": null,
+    "salary_period": "",
+    "salary_text": "",
+    "source": "workday",
+    "source_updated_at": "",
+    "sponsorship_evidence": ""
+  },
   "workday:U.S. Bancorp:/job/Sylmar-CA/Client-Relationship-Consultant-2--Banker----Sylmar--CA_2026-0009842": {
     "company": "U.S. Bancorp",
     "enriched_at": "2026-08-31T13:59:57.450351+00:00",
@@ -1340158,6 +1340521,24 @@
       "sales",
       "compliance",
       "legal"
+    ],
+    "salary_currency": "",
+    "salary_max": null,
+    "salary_min": null,
+    "salary_period": "",
+    "salary_text": "",
+    "source": "workday",
+    "source_updated_at": "",
+    "sponsorship_evidence": ""
+  },
+  "workday:U.S. Bancorp:/job/Yakima-WA/Relationship-Banker-I---Chalet-Mall---Yakima--WA_2026-0036335": {
+    "company": "U.S. Bancorp",
+    "enriched_at": "2026-11-21T19:16:53.183015+00:00",
+    "external_id": "/job/Yakima-WA/Relationship-Banker-I---Chalet-Mall---Yakima--WA_2026-0036335",
+    "h1b_mentioned": false,
+    "h1b_status": "unknown",
+    "keywords": [
+      "Excel"
     ],
     "salary_currency": "",
     "salary_max": null,
