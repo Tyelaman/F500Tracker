@@ -1,18 +1,18 @@
 # F500Tracker internships
 
-Last updated: November 21, 2026 at 19:17 UTC
+Last updated: November 22, 2026 at 06:47 UTC
 
 Current internships: 353
 
 ## Categories
 
-[Software & IT (37)](#software-it) · [Data & AI (8)](#data-ai) · [Product & Design (1)](#product-design) · [Engineering (51)](#engineering) · [Finance & Accounting (6)](#finance-accounting) · [Sales & Marketing (7)](#sales-marketing) · [Operations & Supply Chain (23)](#operations-supply-chain) · [People & Legal (1)](#people-legal) · [Other (219)](#other)
+[Software & IT (36)](#software-it) · [Data & AI (8)](#data-ai) · [Product & Design (1)](#product-design) · [Engineering (52)](#engineering) · [Finance & Accounting (6)](#finance-accounting) · [Sales & Marketing (7)](#sales-marketing) · [Operations & Supply Chain (23)](#operations-supply-chain) · [People & Legal (1)](#people-legal) · [Other (219)](#other)
 
 <a id="software-it"></a>
 
 ## Software & IT
 
-Open positions: 37
+Open positions: 36
 
 | Rank | Company | Position | Location | Category | Salary | Keywords | Sponsorship | Apply |
 |---:|---|---|---|---|---|---|---|---|
@@ -21,7 +21,6 @@ Open positions: 37
 | 329 | DoorDash | Software Engineer, Intern (Summer 2027) - US | New York, NY; San Francisco, CA; Sunnyvale, CA; Los Angeles, CA; Seattle, WA | Software & IT | Not disclosed | Python · Java · SQL · AWS · Excel | Not specified | [Apply](https://job-boards.greenhouse.io/doordashusa/jobs/8171041) |
 | 396 | Analog Devices | Embedded Software Engineer Intern | US, TX, Austin, Plaza on the Lake | Software & IT | Not disclosed | Python · electrical engineering | Not specified | [Apply](https://analogdevices.wd1.myworkdayjobs.com/en-US/External/job/US-TX-Austin-Plaza-on-the-Lake/Embedded-Software-Engineer-Intern_R269548) |
 | 112 | Northrop Grumman | SkillBridge Internship Program is seeking our exceptional enlisted-military talent to join us as a Systems Engineer - 2 | United States-Alabama-Huntsville | Software & IT | Not disclosed | — | Not specified | [Apply](https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-Alabama-Huntsville/SkillBridge-Internship-Program-is-seeking-our-exceptional-enlisted-military-talent-to-join-us-as-a-Systems-Engineer---2_R10260427) |
-| 84 | HP | Software and Engineering Intern Roles - Imaging and Print | Corvallis, Oregon, United States of America | Software & IT | $29–$35/hr | Python · Java · C# · JavaScript · SQL | Not specified | [Apply](https://hp.wd5.myworkdayjobs.com/en-US/ExternalCareerSite/job/Corvallis-Oregon-United-States-of-America/Software-and-Engineering-Intern-Roles---Imaging-and-Print_3168142-1) |
 | 125 | Micron Technology | Intern - IT Software Engineer | Boise, ID - Main Site | Software & IT | Not disclosed | Python · C# · JavaScript · SQL · React | Not specified | [Apply](https://micron.wd1.myworkdayjobs.com/en-US/External/job/Boise-ID---Main-Site/Intern---IT-Software-Engineer_JR111582) |
 | 125 | Micron Technology | Intern - Front End Materials Category Supplier Manager (CSM) | Boise, ID - North Office | Software & IT | Not disclosed | Excel · supply chain · procurement | Not specified | [Apply](https://micron.wd1.myworkdayjobs.com/en-US/External/job/Boise-ID---North-Office/Intern---Front-End-Materials-Category-Supplier-Manager--CSM-_JR116161) |
 | 125 | Micron Technology | Intern - Product Yield Software Engineer | Boise, ID - Main Site | Software & IT | Not disclosed | Python · Java · SQL · machine learning · data science | Not specified | [Apply](https://micron.wd1.myworkdayjobs.com/en-US/External/job/Boise-ID---Main-Site/Intern---Product-Yield-Software-Engineer_JR115864) |
@@ -91,12 +90,13 @@ Open positions: 1
 
 ## Engineering
 
-Open positions: 51
+Open positions: 52
 
 | Rank | Company | Position | Location | Category | Salary | Keywords | Sponsorship | Apply |
 |---:|---|---|---|---|---|---|---|---|
 | 329 | DoorDash | Electrical Engineer, Intern - Labs (Summer 2027) | Oakland, CA | Engineering | Not disclosed | Python · C++ · Excel · electrical engineering · logistics | Not specified | [Apply](https://job-boards.greenhouse.io/doordashusa/jobs/8274095) |
 | 329 | DoorDash | Mechanical Engineering, Intern - Labs (Summer 2027) | Oakland, CA | Engineering | Not disclosed | Excel · mechanical engineering · CAD · SolidWorks · logistics | Not specified | [Apply](https://job-boards.greenhouse.io/doordashusa/jobs/8313401) |
+| 84 | HP | Technology & Innovation Organization Electrical Engineering Internship | Corvallis, Oregon, United States of America | Engineering | Not disclosed | electrical engineering | Not specified | [Apply](https://hp.wd5.myworkdayjobs.com/en-US/ExternalCareerSite/job/Corvallis-Oregon-United-States-of-America/Technology---Innovation-Organization-Electrical-Engineering-Internship_3167270-1) |
 | 125 | Micron Technology | Intern - HVM Area Manufacturing Engineer (AME) | Boise, ID - Main Site | Engineering | Not disclosed | Python · SQL | Not specified | [Apply](https://micron.wd1.myworkdayjobs.com/en-US/External/job/Boise-ID---Main-Site/Intern---HVM-Area-Manufacturing-Engineer--AME-_JR116168) |
 | 125 | Micron Technology | Intern - YE-Electrical Failure Analysis Engineer | Boise, ID - ID1 | Engineering | Not disclosed | Python · SQL · machine learning · artificial intelligence · data science | Not specified | [Apply](https://micron.wd1.myworkdayjobs.com/en-US/External/job/Boise-ID---ID1/Intern---YE-Electrical-Failure-Analysis-Engineer_JR114538) |
 | 125 | Micron Technology | Intern - ID1 Manufacturing Engineer | Boise, ID - ID1 | Engineering | Not disclosed | Python · Java · artificial intelligence · analytics · Excel | Not specified | [Apply](https://micron.wd1.myworkdayjobs.com/en-US/External/job/Boise-ID---ID1/Intern---ID1-Manufacturing-Engineer_JR113287) |
