@@ -156882,15 +156882,11 @@
   },
   "workday:3M:/job/IN-BANGALORE/Continuous-Improvement-and-Plant-Execution-System-Administrator_R01171367": {
     "company": "3M",
-    "enriched_at": "2026-11-12T23:52:15.619315+00:00",
+    "enriched_at": "2026-11-22T19:40:34.198490+00:00",
     "external_id": "/job/IN-BANGALORE/Continuous-Improvement-and-Plant-Execution-System-Administrator_R01171367",
     "h1b_mentioned": false,
     "h1b_status": "unknown",
-    "keywords": [
-      "analytics",
-      "Excel",
-      "compliance"
-    ],
+    "keywords": [],
     "salary_currency": "",
     "salary_max": null,
     "salary_min": null,
@@ -156938,6 +156934,38 @@
       "recruiting",
       "compliance"
     ],
+    "salary_currency": "",
+    "salary_max": null,
+    "salary_min": null,
+    "salary_period": "",
+    "salary_text": "",
+    "source": "workday",
+    "source_updated_at": "",
+    "sponsorship_evidence": ""
+  },
+  "workday:3M:/job/IN-BANGALORE/EHS-AI-Specialist_R01173862-2": {
+    "company": "3M",
+    "enriched_at": "2026-11-22T19:40:34.124196+00:00",
+    "external_id": "/job/IN-BANGALORE/EHS-AI-Specialist_R01173862-2",
+    "h1b_mentioned": false,
+    "h1b_status": "unknown",
+    "keywords": [],
+    "salary_currency": "",
+    "salary_max": null,
+    "salary_min": null,
+    "salary_period": "",
+    "salary_text": "",
+    "source": "workday",
+    "source_updated_at": "",
+    "sponsorship_evidence": ""
+  },
+  "workday:3M:/job/IN-BANGALORE/EHS-Data-Analyst---Global_R01173870": {
+    "company": "3M",
+    "enriched_at": "2026-11-22T19:40:34.124243+00:00",
+    "external_id": "/job/IN-BANGALORE/EHS-Data-Analyst---Global_R01173870",
+    "h1b_mentioned": false,
+    "h1b_status": "unknown",
+    "keywords": [],
     "salary_currency": "",
     "salary_max": null,
     "salary_min": null,
@@ -157010,14 +157038,12 @@
   },
   "workday:3M:/job/IN-BANGALORE/Enterprise-Supply-Chain-GCC-Leader_R01172280-1": {
     "company": "3M",
-    "enriched_at": "2026-11-12T15:32:43.300585+00:00",
+    "enriched_at": "2026-11-22T19:40:34.198732+00:00",
     "external_id": "/job/IN-BANGALORE/Enterprise-Supply-Chain-GCC-Leader_R01172280-1",
     "h1b_mentioned": false,
     "h1b_status": "unknown",
     "keywords": [
-      "analytics",
-      "supply chain",
-      "compliance"
+      "supply chain"
     ],
     "salary_currency": "",
     "salary_max": null,
@@ -157141,15 +157167,12 @@
   },
   "workday:3M:/job/IN-BANGALORE/Global-Audit-Supervisor_R01173583-1": {
     "company": "3M",
-    "enriched_at": "2026-11-12T15:32:43.293809+00:00",
+    "enriched_at": "2026-11-22T19:40:34.198677+00:00",
     "external_id": "/job/IN-BANGALORE/Global-Audit-Supervisor_R01173583-1",
     "h1b_mentioned": false,
     "h1b_status": "unknown",
     "keywords": [
-      "analytics",
-      "accounting",
-      "audit",
-      "compliance"
+      "audit"
     ],
     "salary_currency": "",
     "salary_max": null,
@@ -157201,6 +157224,22 @@
     "source_updated_at": "",
     "sponsorship_evidence": ""
   },
+  "workday:3M:/job/IN-BANGALORE/Global-Network---Telecom-Services---Software-Engineer_R01172563": {
+    "company": "3M",
+    "enriched_at": "2026-11-22T19:40:34.124115+00:00",
+    "external_id": "/job/IN-BANGALORE/Global-Network---Telecom-Services---Software-Engineer_R01172563",
+    "h1b_mentioned": false,
+    "h1b_status": "unknown",
+    "keywords": [],
+    "salary_currency": "",
+    "salary_max": null,
+    "salary_min": null,
+    "salary_period": "",
+    "salary_text": "",
+    "source": "workday",
+    "source_updated_at": "",
+    "sponsorship_evidence": ""
+  },
   "workday:3M:/job/IN-BANGALORE/Global-Paper-Liners-Cloth-Fibers-and-Packaging--PLCFP--Procurement-Operations-Specialist_R01167277": {
     "company": "3M",
     "enriched_at": "2026-08-14T23:13:45.210480+00:00",
@@ -157243,13 +157282,12 @@
   },
   "workday:3M:/job/IN-BANGALORE/HR-Technology-Workday-Analyst---Recruiting_R01173661-2": {
     "company": "3M",
-    "enriched_at": "2026-11-12T15:32:43.309152+00:00",
+    "enriched_at": "2026-11-22T19:40:34.198797+00:00",
     "external_id": "/job/IN-BANGALORE/HR-Technology-Workday-Analyst---Recruiting_R01173661-2",
     "h1b_mentioned": false,
     "h1b_status": "unknown",
     "keywords": [
-      "recruiting",
-      "compliance"
+      "recruiting"
     ],
     "salary_currency": "",
     "salary_max": null,
@@ -157301,13 +157339,11 @@
   },
   "workday:3M:/job/IN-BANGALORE/Lead-Software-Developer--AI---Full-Stack-Developer-_R01173721": {
     "company": "3M",
-    "enriched_at": "2026-11-12T15:32:43.284311+00:00",
+    "enriched_at": "2026-11-22T19:40:34.124031+00:00",
     "external_id": "/job/IN-BANGALORE/Lead-Software-Developer--AI---Full-Stack-Developer-_R01173721",
     "h1b_mentioned": false,
     "h1b_status": "unknown",
-    "keywords": [
-      "compliance"
-    ],
+    "keywords": [],
     "salary_currency": "",
     "salary_max": null,
     "salary_min": null,
@@ -157462,6 +157498,46 @@
     "source_updated_at": "",
     "sponsorship_evidence": ""
   },
+  "workday:3M:/job/IN-BANGALORE/Quality-System---Senior-Auditor_R01172472": {
+    "company": "3M",
+    "enriched_at": "2026-11-22T19:40:34.137728+00:00",
+    "external_id": "/job/IN-BANGALORE/Quality-System---Senior-Auditor_R01172472",
+    "h1b_mentioned": false,
+    "h1b_status": "unknown",
+    "keywords": [
+      "audit",
+      "recruiting",
+      "compliance"
+    ],
+    "salary_currency": "",
+    "salary_max": null,
+    "salary_min": null,
+    "salary_period": "",
+    "salary_text": "",
+    "source": "workday",
+    "source_updated_at": "",
+    "sponsorship_evidence": ""
+  },
+  "workday:3M:/job/IN-BANGALORE/Quality-System---Training-Administration_R01172471": {
+    "company": "3M",
+    "enriched_at": "2026-11-22T19:40:34.147187+00:00",
+    "external_id": "/job/IN-BANGALORE/Quality-System---Training-Administration_R01172471",
+    "h1b_mentioned": false,
+    "h1b_status": "unknown",
+    "keywords": [
+      "audit",
+      "recruiting",
+      "compliance"
+    ],
+    "salary_currency": "",
+    "salary_max": null,
+    "salary_min": null,
+    "salary_period": "",
+    "salary_text": "",
+    "source": "workday",
+    "source_updated_at": "",
+    "sponsorship_evidence": ""
+  },
   "workday:3M:/job/IN-BANGALORE/Quality-Testing-Associate-Analyst_R01170739": {
     "company": "3M",
     "enriched_at": "2026-09-16T11:43:46.842338+00:00",
@@ -157526,6 +157602,25 @@
     "keywords": [
       "SQL",
       "AWS",
+      "compliance"
+    ],
+    "salary_currency": "",
+    "salary_max": null,
+    "salary_min": null,
+    "salary_period": "",
+    "salary_text": "",
+    "source": "workday",
+    "source_updated_at": "",
+    "sponsorship_evidence": ""
+  },
+  "workday:3M:/job/IN-BANGALORE/SAP-EWM-Functional-Analyst_R01174074-1": {
+    "company": "3M",
+    "enriched_at": "2026-11-22T19:40:34.114970+00:00",
+    "external_id": "/job/IN-BANGALORE/SAP-EWM-Functional-Analyst_R01174074-1",
+    "h1b_mentioned": false,
+    "h1b_status": "unknown",
+    "keywords": [
+      "logistics",
       "compliance"
     ],
     "salary_currency": "",
@@ -157654,15 +157749,32 @@
     "source_updated_at": "",
     "sponsorship_evidence": ""
   },
-  "workday:3M:/job/IN-BANGALORE/Senior-Software-Developer--AI---Full-Stack-Developer-_R01173345": {
+  "workday:3M:/job/IN-BANGALORE/Senior-Product-Quality-Engineer---NPI-Deliverables_R01172469": {
     "company": "3M",
-    "enriched_at": "2026-11-12T15:32:43.287589+00:00",
-    "external_id": "/job/IN-BANGALORE/Senior-Software-Developer--AI---Full-Stack-Developer-_R01173345",
+    "enriched_at": "2026-11-22T19:40:34.156999+00:00",
+    "external_id": "/job/IN-BANGALORE/Senior-Product-Quality-Engineer---NPI-Deliverables_R01172469",
     "h1b_mentioned": false,
     "h1b_status": "unknown",
     "keywords": [
+      "recruiting",
       "compliance"
     ],
+    "salary_currency": "",
+    "salary_max": null,
+    "salary_min": null,
+    "salary_period": "",
+    "salary_text": "",
+    "source": "workday",
+    "source_updated_at": "",
+    "sponsorship_evidence": ""
+  },
+  "workday:3M:/job/IN-BANGALORE/Senior-Software-Developer--AI---Full-Stack-Developer-_R01173345": {
+    "company": "3M",
+    "enriched_at": "2026-11-22T19:40:34.198593+00:00",
+    "external_id": "/job/IN-BANGALORE/Senior-Software-Developer--AI---Full-Stack-Developer-_R01173345",
+    "h1b_mentioned": false,
+    "h1b_status": "unknown",
+    "keywords": [],
     "salary_currency": "",
     "salary_max": null,
     "salary_min": null,
@@ -158096,6 +158208,22 @@
     "source_updated_at": "",
     "sponsorship_evidence": ""
   },
+  "workday:3M:/job/IN-Bangalore-Kar/Internal-Control-Specialist_R01173587-1": {
+    "company": "3M",
+    "enriched_at": "2026-11-22T19:40:34.124297+00:00",
+    "external_id": "/job/IN-Bangalore-Kar/Internal-Control-Specialist_R01173587-1",
+    "h1b_mentioned": false,
+    "h1b_status": "unknown",
+    "keywords": [],
+    "salary_currency": "",
+    "salary_max": null,
+    "salary_min": null,
+    "salary_period": "",
+    "salary_text": "",
+    "source": "workday",
+    "source_updated_at": "",
+    "sponsorship_evidence": ""
+  },
   "workday:3M:/job/IN-Bangalore-Kar/Privacy-Compliance-Program-Specialist_R01171682": {
     "company": "3M",
     "enriched_at": "2026-11-01T22:12:16.647247+00:00",
@@ -158368,6 +158496,24 @@
     "source_updated_at": "",
     "sponsorship_evidence": ""
   },
+  "workday:3M:/job/MX-Ensenada-Baja-Ca/Supervisor-de-Produccin--Ensenada_R01174152": {
+    "company": "3M",
+    "enriched_at": "2026-11-22T19:40:34.106926+00:00",
+    "external_id": "/job/MX-Ensenada-Baja-Ca/Supervisor-de-Produccin--Ensenada_R01174152",
+    "h1b_mentioned": false,
+    "h1b_status": "unknown",
+    "keywords": [
+      "compliance"
+    ],
+    "salary_currency": "",
+    "salary_max": null,
+    "salary_min": null,
+    "salary_period": "",
+    "salary_text": "",
+    "source": "workday",
+    "source_updated_at": "",
+    "sponsorship_evidence": ""
+  },
   "workday:3M:/job/Remote---California/Core-Sales-Representative--Personal-Safety-Division---Northern-California-and-Reno-Nevada_R01163771": {
     "company": "3M",
     "enriched_at": "2026-11-04T06:31:35.386371+00:00",
@@ -158411,7 +158557,7 @@
   },
   "workday:3M:/job/Remote---California/Solutions-Architect_R01170327": {
     "company": "3M",
-    "enriched_at": "2026-11-12T23:52:15.605285+00:00",
+    "enriched_at": "2026-11-22T19:40:34.177604+00:00",
     "external_id": "/job/Remote---California/Solutions-Architect_R01170327",
     "h1b_mentioned": true,
     "h1b_status": "does_not_support_h1b",
@@ -159323,7 +159469,7 @@
   },
   "workday:3M:/job/US-Minnesota-Maplewood/Senior-Product-Development-Engineer_R01173498": {
     "company": "3M",
-    "enriched_at": "2026-11-13T20:28:34.529744+00:00",
+    "enriched_at": "2026-11-22T19:40:34.166792+00:00",
     "external_id": "/job/US-Minnesota-Maplewood/Senior-Product-Development-Engineer_R01173498",
     "h1b_mentioned": true,
     "h1b_status": "does_not_support_h1b",
@@ -159402,7 +159548,7 @@
   },
   "workday:3M:/job/US-Minnesota-Maplewood/Sr-Dir--Enterprise-AI-Adoption---Transformation_R01171561": {
     "company": "3M",
-    "enriched_at": "2026-11-06T06:56:50.887101+00:00",
+    "enriched_at": "2026-11-22T19:40:34.124351+00:00",
     "external_id": "/job/US-Minnesota-Maplewood/Sr-Dir--Enterprise-AI-Adoption---Transformation_R01171561",
     "h1b_mentioned": true,
     "h1b_status": "does_not_support_h1b",
@@ -159603,7 +159749,7 @@
   },
   "workday:3M:/job/US-Texas-Angleton/Plant-Manager--Angleton--TX-_R01173772": {
     "company": "3M",
-    "enriched_at": "2026-11-12T23:52:15.611974+00:00",
+    "enriched_at": "2026-11-22T19:40:34.187446+00:00",
     "external_id": "/job/US-Texas-Angleton/Plant-Manager--Angleton--TX-_R01173772",
     "h1b_mentioned": true,
     "h1b_status": "does_not_support_h1b",
@@ -159641,6 +159787,22 @@
     "source": "workday",
     "source_updated_at": "",
     "sponsorship_evidence": ": May be authorized Must be legally authorized to work in country of employment without sponsorship for employment visa status (e."
+  },
+  "workday:3M:/job/US-Texas-Austin/Controls-Systems-Engineer_R01173934": {
+    "company": "3M",
+    "enriched_at": "2026-11-22T19:40:34.123959+00:00",
+    "external_id": "/job/US-Texas-Austin/Controls-Systems-Engineer_R01173934",
+    "h1b_mentioned": false,
+    "h1b_status": "unknown",
+    "keywords": [],
+    "salary_currency": "",
+    "salary_max": null,
+    "salary_min": null,
+    "salary_period": "",
+    "salary_text": "",
+    "source": "workday",
+    "source_updated_at": "",
+    "sponsorship_evidence": ""
   },
   "workday:3M:/job/US-Texas-Austin/Inside-Sales-Representative-Distribution_R01171508": {
     "company": "3M",
@@ -432750,6 +432912,22 @@
     "source_updated_at": "",
     "sponsorship_evidence": ""
   },
+  "workday:Humana:/job/Corpus-Christi-TX/Registered-Nurse--Home-Health_R-438170": {
+    "company": "Humana",
+    "enriched_at": "2026-11-22T19:39:19.830538+00:00",
+    "external_id": "/job/Corpus-Christi-TX/Registered-Nurse--Home-Health_R-438170",
+    "h1b_mentioned": false,
+    "h1b_status": "unknown",
+    "keywords": [],
+    "salary_currency": "",
+    "salary_max": null,
+    "salary_min": null,
+    "salary_period": "",
+    "salary_text": "",
+    "source": "workday",
+    "source_updated_at": "",
+    "sponsorship_evidence": ""
+  },
   "workday:Humana:/job/Crystal-Lake-IL/Medicare-Field-Sales-McHenry-CTY_R-437219": {
     "company": "Humana",
     "enriched_at": "2026-11-13T19:46:00.329903+00:00",
@@ -432766,6 +432944,22 @@
     "salary_min": 35000.0,
     "salary_period": "year",
     "salary_text": "$35,000 - $128,200 per year",
+    "source": "workday",
+    "source_updated_at": "",
+    "sponsorship_evidence": ""
+  },
+  "workday:Humana:/job/Dallas-TX/Associate-Director--Technology-Solutions_R-437019": {
+    "company": "Humana",
+    "enriched_at": "2026-11-22T19:39:19.830674+00:00",
+    "external_id": "/job/Dallas-TX/Associate-Director--Technology-Solutions_R-437019",
+    "h1b_mentioned": false,
+    "h1b_status": "unknown",
+    "keywords": [],
+    "salary_currency": "",
+    "salary_max": null,
+    "salary_min": null,
+    "salary_period": "",
+    "salary_text": "",
     "source": "workday",
     "source_updated_at": "",
     "sponsorship_evidence": ""
@@ -435656,6 +435850,26 @@
     "source_updated_at": "",
     "sponsorship_evidence": ""
   },
+  "workday:Humana:/job/Metairie-LA/Director--Network-Optimization_R-436675": {
+    "company": "Humana",
+    "enriched_at": "2026-11-22T19:39:19.817722+00:00",
+    "external_id": "/job/Metairie-LA/Director--Network-Optimization_R-436675",
+    "h1b_mentioned": false,
+    "h1b_status": "unknown",
+    "keywords": [
+      "analytics",
+      "compliance",
+      "contracts"
+    ],
+    "salary_currency": "USD",
+    "salary_max": 191000.0,
+    "salary_min": 138900.0,
+    "salary_period": "year",
+    "salary_text": "$138,900 - $191,000 per year",
+    "source": "workday",
+    "source_updated_at": "",
+    "sponsorship_evidence": ""
+  },
   "workday:Humana:/job/Miami-FL/Account-Manager---Onsite_R-426843-1": {
     "company": "Humana",
     "enriched_at": "2026-09-16T21:21:15.654839+00:00",
@@ -436218,6 +436432,26 @@
     "salary_min": 117600.0,
     "salary_period": "year",
     "salary_text": "$117,600 - $161,700 per year",
+    "source": "workday",
+    "source_updated_at": "",
+    "sponsorship_evidence": ""
+  },
+  "workday:Humana:/job/Nashville-TN/Senior-Software-Engineer---NBA_R-425861": {
+    "company": "Humana",
+    "enriched_at": "2026-11-22T19:39:19.801835+00:00",
+    "external_id": "/job/Nashville-TN/Senior-Software-Engineer---NBA_R-425861",
+    "h1b_mentioned": false,
+    "h1b_status": "unknown",
+    "keywords": [
+      "Python",
+      "Java",
+      "compliance"
+    ],
+    "salary_currency": "USD",
+    "salary_max": 147000.0,
+    "salary_min": 106900.0,
+    "salary_period": "year",
+    "salary_text": "$106,900 - $147,000 per year",
     "source": "workday",
     "source_updated_at": "",
     "sponsorship_evidence": ""
@@ -441012,19 +441246,16 @@
   },
   "workday:Humana:/job/Remote-New-York/Corporate-Strategy-Lead_R-426881": {
     "company": "Humana",
-    "enriched_at": "2026-08-17T19:01:07.772675+00:00",
+    "enriched_at": "2026-11-22T19:39:19.830615+00:00",
     "external_id": "/job/Remote-New-York/Corporate-Strategy-Lead_R-426881",
     "h1b_mentioned": false,
     "h1b_status": "unknown",
-    "keywords": [
-      "financial modeling",
-      "compliance"
-    ],
-    "salary_currency": "USD",
-    "salary_max": 173700.0,
-    "salary_min": 126300.0,
-    "salary_period": "year",
-    "salary_text": "$126,300 - $173,700 per year",
+    "keywords": [],
+    "salary_currency": "",
+    "salary_max": null,
+    "salary_min": null,
+    "salary_period": "",
+    "salary_text": "",
     "source": "workday",
     "source_updated_at": "",
     "sponsorship_evidence": ""
@@ -443637,6 +443868,22 @@
     "salary_min": 97900.0,
     "salary_period": "year",
     "salary_text": "$97,900 - $133,500 per year",
+    "source": "workday",
+    "source_updated_at": "",
+    "sponsorship_evidence": ""
+  },
+  "workday:Humana:/job/Work-at-Home---Washington-DC/Senior-Counsel--CenterWell-Senior-Primary-Care--Billing-and-Coding_R-436417": {
+    "company": "Humana",
+    "enriched_at": "2026-11-22T19:39:19.801666+00:00",
+    "external_id": "/job/Work-at-Home---Washington-DC/Senior-Counsel--CenterWell-Senior-Primary-Care--Billing-and-Coding_R-436417",
+    "h1b_mentioned": false,
+    "h1b_status": "unknown",
+    "keywords": [],
+    "salary_currency": "",
+    "salary_max": null,
+    "salary_min": null,
+    "salary_period": "",
+    "salary_text": "",
     "source": "workday",
     "source_updated_at": "",
     "sponsorship_evidence": ""
@@ -594790,6 +595037,24 @@
     "source_updated_at": "",
     "sponsorship_evidence": ""
   },
+  "workday:Marathon Petroleum:/job/Anacortes-Washington/Process-Engineer_00025325": {
+    "company": "Marathon Petroleum",
+    "enriched_at": "2026-11-22T19:39:11.367226+00:00",
+    "external_id": "/job/Anacortes-Washington/Process-Engineer_00025325",
+    "h1b_mentioned": false,
+    "h1b_status": "unknown",
+    "keywords": [
+      "human resources"
+    ],
+    "salary_currency": "",
+    "salary_max": null,
+    "salary_min": null,
+    "salary_period": "",
+    "salary_text": "",
+    "source": "workday",
+    "source_updated_at": "",
+    "sponsorship_evidence": ""
+  },
   "workday:Marathon Petroleum:/job/Anacortes-Washington/Project-Engineer_00024020": {
     "company": "Marathon Petroleum",
     "enriched_at": "2026-09-09T20:59:42.764866+00:00",
@@ -594908,7 +595173,7 @@
   },
   "workday:Marathon Petroleum:/job/Burley-Idaho/MPL-Operations-Technician_00024740": {
     "company": "Marathon Petroleum",
-    "enriched_at": "2026-11-13T19:45:45.613523+00:00",
+    "enriched_at": "2026-11-22T19:39:11.215501+00:00",
     "external_id": "/job/Burley-Idaho/MPL-Operations-Technician_00024740",
     "h1b_mentioned": false,
     "h1b_status": "unknown",
@@ -595213,6 +595478,26 @@
     "h1b_mentioned": false,
     "h1b_status": "unknown",
     "keywords": [
+      "human resources"
+    ],
+    "salary_currency": "",
+    "salary_max": null,
+    "salary_min": null,
+    "salary_period": "",
+    "salary_text": "",
+    "source": "workday",
+    "source_updated_at": "",
+    "sponsorship_evidence": ""
+  },
+  "workday:Marathon Petroleum:/job/Canton-Ohio/Economics---Planning-Advisor-Engineer_00025335": {
+    "company": "Marathon Petroleum",
+    "enriched_at": "2026-11-22T19:39:11.259036+00:00",
+    "external_id": "/job/Canton-Ohio/Economics---Planning-Advisor-Engineer_00025335",
+    "h1b_mentioned": false,
+    "h1b_status": "unknown",
+    "keywords": [
+      "analytics",
+      "logistics",
       "human resources"
     ],
     "salary_currency": "",
@@ -595865,6 +596150,26 @@
     "source_updated_at": "",
     "sponsorship_evidence": ""
   },
+  "workday:Marathon Petroleum:/job/Catlettsburg-Kentucky/Electrician_00025411": {
+    "company": "Marathon Petroleum",
+    "enriched_at": "2026-11-22T19:39:11.177335+00:00",
+    "external_id": "/job/Catlettsburg-Kentucky/Electrician_00025411",
+    "h1b_mentioned": false,
+    "h1b_status": "unknown",
+    "keywords": [
+      "Excel",
+      "human resources",
+      "compliance"
+    ],
+    "salary_currency": "USD",
+    "salary_max": 54.78,
+    "salary_min": 54.78,
+    "salary_period": "hour",
+    "salary_text": "$54.78/hour",
+    "source": "workday",
+    "source_updated_at": "",
+    "sponsorship_evidence": ""
+  },
   "workday:Marathon Petroleum:/job/Catlettsburg-Kentucky/Environmental-Specialist_00024280-1": {
     "company": "Marathon Petroleum",
     "enriched_at": "2026-09-23T21:33:27.809809+00:00",
@@ -595938,6 +596243,25 @@
     "salary_min": null,
     "salary_period": "",
     "salary_text": "",
+    "source": "workday",
+    "source_updated_at": "",
+    "sponsorship_evidence": ""
+  },
+  "workday:Marathon Petroleum:/job/Catlettsburg-Kentucky/Machinist_00025412": {
+    "company": "Marathon Petroleum",
+    "enriched_at": "2026-11-22T19:39:11.187628+00:00",
+    "external_id": "/job/Catlettsburg-Kentucky/Machinist_00025412",
+    "h1b_mentioned": false,
+    "h1b_status": "unknown",
+    "keywords": [
+      "Excel",
+      "human resources"
+    ],
+    "salary_currency": "USD",
+    "salary_max": 54.78,
+    "salary_min": 54.78,
+    "salary_period": "hour",
+    "salary_text": "$54.78/hour",
     "source": "workday",
     "source_updated_at": "",
     "sponsorship_evidence": ""
@@ -596156,6 +596480,25 @@
     "h1b_status": "unknown",
     "keywords": [
       "human resources"
+    ],
+    "salary_currency": "",
+    "salary_max": null,
+    "salary_min": null,
+    "salary_period": "",
+    "salary_text": "",
+    "source": "workday",
+    "source_updated_at": "",
+    "sponsorship_evidence": ""
+  },
+  "workday:Marathon Petroleum:/job/Dallas-West-Virginia/Board-Operator_00025333-1": {
+    "company": "Marathon Petroleum",
+    "enriched_at": "2026-11-22T19:39:11.204833+00:00",
+    "external_id": "/job/Dallas-West-Virginia/Board-Operator_00025333-1",
+    "h1b_mentioned": false,
+    "h1b_status": "unknown",
+    "keywords": [
+      "human resources",
+      "compliance"
     ],
     "salary_currency": "",
     "salary_max": null,
@@ -596385,6 +596728,24 @@
     "source_updated_at": "",
     "sponsorship_evidence": ""
   },
+  "workday:Marathon Petroleum:/job/Detroit-Michigan/Analyzer-Technician_00025420": {
+    "company": "Marathon Petroleum",
+    "enriched_at": "2026-11-22T19:39:11.166930+00:00",
+    "external_id": "/job/Detroit-Michigan/Analyzer-Technician_00025420",
+    "h1b_mentioned": false,
+    "h1b_status": "unknown",
+    "keywords": [
+      "human resources"
+    ],
+    "salary_currency": "USD",
+    "salary_max": 53.49,
+    "salary_min": 53.49,
+    "salary_period": "hour",
+    "salary_text": "$53.49/hour",
+    "source": "workday",
+    "source_updated_at": "",
+    "sponsorship_evidence": ""
+  },
   "workday:Marathon Petroleum:/job/Detroit-Michigan/Craftsman-Welder_00023309": {
     "company": "Marathon Petroleum",
     "enriched_at": "2026-10-01T22:45:18.945489+00:00",
@@ -596421,6 +596782,22 @@
     "source_updated_at": "",
     "sponsorship_evidence": ""
   },
+  "workday:Marathon Petroleum:/job/Detroit-Michigan/Electrician_00025422": {
+    "company": "Marathon Petroleum",
+    "enriched_at": "2026-11-22T19:39:11.177173+00:00",
+    "external_id": "/job/Detroit-Michigan/Electrician_00025422",
+    "h1b_mentioned": false,
+    "h1b_status": "unknown",
+    "keywords": [],
+    "salary_currency": "",
+    "salary_max": null,
+    "salary_min": null,
+    "salary_period": "",
+    "salary_text": "",
+    "source": "workday",
+    "source_updated_at": "",
+    "sponsorship_evidence": ""
+  },
   "workday:Marathon Petroleum:/job/Detroit-Michigan/Instrument-Mechanic_00023306-1": {
     "company": "Marathon Petroleum",
     "enriched_at": "2026-10-01T22:45:18.974833+00:00",
@@ -596439,6 +596816,22 @@
     "source_updated_at": "",
     "sponsorship_evidence": ""
   },
+  "workday:Marathon Petroleum:/job/Detroit-Michigan/Instrument-Mechanic_00025421": {
+    "company": "Marathon Petroleum",
+    "enriched_at": "2026-11-22T19:39:11.177229+00:00",
+    "external_id": "/job/Detroit-Michigan/Instrument-Mechanic_00025421",
+    "h1b_mentioned": false,
+    "h1b_status": "unknown",
+    "keywords": [],
+    "salary_currency": "",
+    "salary_max": null,
+    "salary_min": null,
+    "salary_period": "",
+    "salary_text": "",
+    "source": "workday",
+    "source_updated_at": "",
+    "sponsorship_evidence": ""
+  },
   "workday:Marathon Petroleum:/job/Detroit-Michigan/Pump-Mechanic-Machinist_00023723": {
     "company": "Marathon Petroleum",
     "enriched_at": "2026-10-01T22:45:18.952799+00:00",
@@ -596453,6 +596846,22 @@
     "salary_min": 43.77,
     "salary_period": "hour",
     "salary_text": "$43.77/hour",
+    "source": "workday",
+    "source_updated_at": "",
+    "sponsorship_evidence": ""
+  },
+  "workday:Marathon Petroleum:/job/Detroit-Michigan/Pump-Mechanic-Machinist_00025423": {
+    "company": "Marathon Petroleum",
+    "enriched_at": "2026-11-22T19:39:11.177282+00:00",
+    "external_id": "/job/Detroit-Michigan/Pump-Mechanic-Machinist_00025423",
+    "h1b_mentioned": false,
+    "h1b_status": "unknown",
+    "keywords": [],
+    "salary_currency": "",
+    "salary_max": null,
+    "salary_min": null,
+    "salary_period": "",
+    "salary_text": "",
     "source": "workday",
     "source_updated_at": "",
     "sponsorship_evidence": ""
@@ -596589,6 +596998,25 @@
     "salary_min": null,
     "salary_period": "",
     "salary_text": "",
+    "source": "workday",
+    "source_updated_at": "",
+    "sponsorship_evidence": ""
+  },
+  "workday:Marathon Petroleum:/job/Dickinson-North-Dakota/Operations-Technician_00025357": {
+    "company": "Marathon Petroleum",
+    "enriched_at": "2026-11-22T19:39:11.307321+00:00",
+    "external_id": "/job/Dickinson-North-Dakota/Operations-Technician_00025357",
+    "h1b_mentioned": false,
+    "h1b_status": "unknown",
+    "keywords": [
+      "human resources",
+      "compliance"
+    ],
+    "salary_currency": "USD",
+    "salary_max": 46.81,
+    "salary_min": 46.81,
+    "salary_period": "hour",
+    "salary_text": "$46.81 per hour",
     "source": "workday",
     "source_updated_at": "",
     "sponsorship_evidence": ""
@@ -596731,6 +597159,25 @@
     "company": "Marathon Petroleum",
     "enriched_at": "2026-10-21T17:17:47.739912+00:00",
     "external_id": "/job/Elk-City-Oklahoma/I-E-Technician_00024539",
+    "h1b_mentioned": false,
+    "h1b_status": "unknown",
+    "keywords": [
+      "human resources",
+      "compliance"
+    ],
+    "salary_currency": "",
+    "salary_max": null,
+    "salary_min": null,
+    "salary_period": "",
+    "salary_text": "",
+    "source": "workday",
+    "source_updated_at": "",
+    "sponsorship_evidence": ""
+  },
+  "workday:Marathon Petroleum:/job/Elk-City-Oklahoma/I-E-Technician_00025367-1": {
+    "company": "Marathon Petroleum",
+    "enriched_at": "2026-11-22T19:39:11.269081+00:00",
+    "external_id": "/job/Elk-City-Oklahoma/I-E-Technician_00025367-1",
     "h1b_mentioned": false,
     "h1b_status": "unknown",
     "keywords": [
@@ -597065,6 +597512,28 @@
       "analytics",
       "human resources",
       "compliance"
+    ],
+    "salary_currency": "",
+    "salary_max": null,
+    "salary_min": null,
+    "salary_period": "",
+    "salary_text": "",
+    "source": "workday",
+    "source_updated_at": "",
+    "sponsorship_evidence": ""
+  },
+  "workday:Marathon Petroleum:/job/Findlay-Ohio/Commercial-Market-Manager_00025418-1": {
+    "company": "Marathon Petroleum",
+    "enriched_at": "2026-11-22T19:39:11.132280+00:00",
+    "external_id": "/job/Findlay-Ohio/Commercial-Market-Manager_00025418-1",
+    "h1b_mentioned": false,
+    "h1b_status": "unknown",
+    "keywords": [
+      "logistics",
+      "sales",
+      "human resources",
+      "legal",
+      "contracts"
     ],
     "salary_currency": "",
     "salary_max": null,
@@ -598240,7 +598709,7 @@
   },
   "workday:Marathon Petroleum:/job/Findlay-Ohio/Transport-Scheduler_00025135": {
     "company": "Marathon Petroleum",
-    "enriched_at": "2026-11-12T15:19:14.219145+00:00",
+    "enriched_at": "2026-11-22T19:39:11.281516+00:00",
     "external_id": "/job/Findlay-Ohio/Transport-Scheduler_00025135",
     "h1b_mentioned": false,
     "h1b_status": "unknown",
@@ -599062,6 +599531,41 @@
     "source_updated_at": "",
     "sponsorship_evidence": ""
   },
+  "workday:Marathon Petroleum:/job/Jal-New-Mexico/Sour-Gas-Maintenance-Mechanic---14-14-Rotation_00025352": {
+    "company": "Marathon Petroleum",
+    "enriched_at": "2026-11-22T19:39:11.330749+00:00",
+    "external_id": "/job/Jal-New-Mexico/Sour-Gas-Maintenance-Mechanic---14-14-Rotation_00025352",
+    "h1b_mentioned": false,
+    "h1b_status": "unknown",
+    "keywords": [
+      "human resources",
+      "compliance"
+    ],
+    "salary_currency": "",
+    "salary_max": null,
+    "salary_min": null,
+    "salary_period": "",
+    "salary_text": "",
+    "source": "workday",
+    "source_updated_at": "",
+    "sponsorship_evidence": ""
+  },
+  "workday:Marathon Petroleum:/job/Jewett-Ohio/Gas-Plant-Operator_00025332-1": {
+    "company": "Marathon Petroleum",
+    "enriched_at": "2026-11-22T19:39:11.281419+00:00",
+    "external_id": "/job/Jewett-Ohio/Gas-Plant-Operator_00025332-1",
+    "h1b_mentioned": false,
+    "h1b_status": "unknown",
+    "keywords": [],
+    "salary_currency": "",
+    "salary_max": null,
+    "salary_min": null,
+    "salary_period": "",
+    "salary_text": "",
+    "source": "workday",
+    "source_updated_at": "",
+    "sponsorship_evidence": ""
+  },
   "workday:Marathon Petroleum:/job/Jewett-Ohio/Laboratory-Technician-I-II-III_00021952": {
     "company": "Marathon Petroleum",
     "enriched_at": "2026-08-21T02:00:44.098996+00:00",
@@ -599131,6 +599635,26 @@
       "logistics",
       "human resources",
       "compliance"
+    ],
+    "salary_currency": "",
+    "salary_max": null,
+    "salary_min": null,
+    "salary_period": "",
+    "salary_text": "",
+    "source": "workday",
+    "source_updated_at": "",
+    "sponsorship_evidence": ""
+  },
+  "workday:Marathon Petroleum:/job/Kenai-Alaska/Environmental--Safety--Security-Administrative-Assistant_00025303": {
+    "company": "Marathon Petroleum",
+    "enriched_at": "2026-11-22T19:39:11.293462+00:00",
+    "external_id": "/job/Kenai-Alaska/Environmental--Safety--Security-Administrative-Assistant_00025303",
+    "h1b_mentioned": false,
+    "h1b_status": "unknown",
+    "keywords": [
+      "Excel",
+      "logistics",
+      "human resources"
     ],
     "salary_currency": "",
     "salary_max": null,
@@ -599319,7 +599843,7 @@
   },
   "workday:Marathon Petroleum:/job/Lima-Ohio/Transport-Driver_00024568": {
     "company": "Marathon Petroleum",
-    "enriched_at": "2026-11-05T06:49:59.933886+00:00",
+    "enriched_at": "2026-11-22T19:39:11.224684+00:00",
     "external_id": "/job/Lima-Ohio/Transport-Driver_00024568",
     "h1b_mentioned": false,
     "h1b_status": "unknown",
@@ -599882,6 +600406,25 @@
     "source_updated_at": "",
     "sponsorship_evidence": ""
   },
+  "workday:Marathon Petroleum:/job/Orla-Texas/Board-Operator---14-14-Rotation_00025363": {
+    "company": "Marathon Petroleum",
+    "enriched_at": "2026-11-22T19:39:11.319422+00:00",
+    "external_id": "/job/Orla-Texas/Board-Operator---14-14-Rotation_00025363",
+    "h1b_mentioned": false,
+    "h1b_status": "unknown",
+    "keywords": [
+      "human resources",
+      "compliance"
+    ],
+    "salary_currency": "",
+    "salary_max": null,
+    "salary_min": null,
+    "salary_period": "",
+    "salary_text": "",
+    "source": "workday",
+    "source_updated_at": "",
+    "sponsorship_evidence": ""
+  },
   "workday:Marathon Petroleum:/job/Orla-Texas/Board-Operator_00024699": {
     "company": "Marathon Petroleum",
     "enriched_at": "2026-10-15T21:26:44.094582+00:00",
@@ -599889,6 +600432,26 @@
     "h1b_mentioned": false,
     "h1b_status": "unknown",
     "keywords": [
+      "human resources",
+      "compliance"
+    ],
+    "salary_currency": "",
+    "salary_max": null,
+    "salary_min": null,
+    "salary_period": "",
+    "salary_text": "",
+    "source": "workday",
+    "source_updated_at": "",
+    "sponsorship_evidence": ""
+  },
+  "workday:Marathon Petroleum:/job/Pasadena-Texas/Operations-Technician_00025378": {
+    "company": "Marathon Petroleum",
+    "enriched_at": "2026-11-22T19:39:11.196436+00:00",
+    "external_id": "/job/Pasadena-Texas/Operations-Technician_00025378",
+    "h1b_mentioned": false,
+    "h1b_status": "unknown",
+    "keywords": [
+      "logistics",
       "human resources",
       "compliance"
     ],
@@ -601194,7 +601757,7 @@
   },
   "workday:Marathon Petroleum:/job/St-Paul-Park-Minnesota/Rotating-Equipment-Mechanic_00022128-1": {
     "company": "Marathon Petroleum",
-    "enriched_at": "2026-10-06T18:25:15.288042+00:00",
+    "enriched_at": "2026-11-22T19:39:11.343514+00:00",
     "external_id": "/job/St-Paul-Park-Minnesota/Rotating-Equipment-Mechanic_00022128-1",
     "h1b_mentioned": false,
     "h1b_status": "unknown",
@@ -601409,7 +601972,7 @@
   },
   "workday:Marathon Petroleum:/job/Texas-City-Texas/Lab-Technician_00024642": {
     "company": "Marathon Petroleum",
-    "enriched_at": "2026-10-20T21:41:07.147331+00:00",
+    "enriched_at": "2026-11-22T19:39:11.241691+00:00",
     "external_id": "/job/Texas-City-Texas/Lab-Technician_00024642",
     "h1b_mentioned": false,
     "h1b_status": "unknown",
@@ -601502,6 +602065,27 @@
     "source_updated_at": "",
     "sponsorship_evidence": ""
   },
+  "workday:Marathon Petroleum:/job/Texas-City-Texas/Mechanical-Reliability-Engineer_00025349": {
+    "company": "Marathon Petroleum",
+    "enriched_at": "2026-11-22T19:39:11.353234+00:00",
+    "external_id": "/job/Texas-City-Texas/Mechanical-Reliability-Engineer_00025349",
+    "h1b_mentioned": false,
+    "h1b_status": "unknown",
+    "keywords": [
+      "analytics",
+      "mechanical engineering",
+      "human resources",
+      "contracts"
+    ],
+    "salary_currency": "",
+    "salary_max": null,
+    "salary_min": null,
+    "salary_period": "",
+    "salary_text": "",
+    "source": "workday",
+    "source_updated_at": "",
+    "sponsorship_evidence": ""
+  },
   "workday:Marathon Petroleum:/job/Texas-City-Texas/Mechanical-Technician_00024961": {
     "company": "Marathon Petroleum",
     "enriched_at": "2026-10-28T22:39:01.793311+00:00",
@@ -601558,6 +602142,25 @@
     "source_updated_at": "",
     "sponsorship_evidence": ""
   },
+  "workday:Marathon Petroleum:/job/Texas-City-Texas/Operations-Supervisor_00025424": {
+    "company": "Marathon Petroleum",
+    "enriched_at": "2026-11-22T19:39:11.157476+00:00",
+    "external_id": "/job/Texas-City-Texas/Operations-Supervisor_00025424",
+    "h1b_mentioned": false,
+    "h1b_status": "unknown",
+    "keywords": [
+      "human resources",
+      "compliance"
+    ],
+    "salary_currency": "",
+    "salary_max": null,
+    "salary_min": null,
+    "salary_period": "",
+    "salary_text": "",
+    "source": "workday",
+    "source_updated_at": "",
+    "sponsorship_evidence": ""
+  },
   "workday:Marathon Petroleum:/job/Texas-City-Texas/Operator-Internship_00024456": {
     "company": "Marathon Petroleum",
     "enriched_at": "2026-09-28T23:20:24.942952+00:00",
@@ -601578,7 +602181,7 @@
   },
   "workday:Marathon Petroleum:/job/Texas-City-Texas/Plant-Operator_00024496": {
     "company": "Marathon Petroleum",
-    "enriched_at": "2026-10-01T22:45:18.983448+00:00",
+    "enriched_at": "2026-11-22T19:39:11.143283+00:00",
     "external_id": "/job/Texas-City-Texas/Plant-Operator_00024496",
     "h1b_mentioned": false,
     "h1b_status": "unknown",
@@ -677438,6 +678041,24 @@
     "source_updated_at": "",
     "sponsorship_evidence": ""
   },
+  "workday:NVIDIA:/job/US-CA-Santa-Clara/Accounting-AI-Solution-Engineer-Intern---Summer-2027_JR2029155-1": {
+    "company": "NVIDIA",
+    "enriched_at": "2026-11-22T19:37:59.058584+00:00",
+    "external_id": "/job/US-CA-Santa-Clara/Accounting-AI-Solution-Engineer-Intern---Summer-2027_JR2029155-1",
+    "h1b_mentioned": false,
+    "h1b_status": "unknown",
+    "keywords": [
+      "accounting"
+    ],
+    "salary_currency": "",
+    "salary_max": null,
+    "salary_min": null,
+    "salary_period": "",
+    "salary_text": "",
+    "source": "workday",
+    "source_updated_at": "",
+    "sponsorship_evidence": ""
+  },
   "workday:NVIDIA:/job/US-CA-Santa-Clara/Agent-Evaluation-and-Self-Improvement-Engineer_JR2028060-1": {
     "company": "NVIDIA",
     "enriched_at": "2026-10-17T04:24:12.386594+00:00",
@@ -677646,6 +678267,22 @@
       "sales",
       "recruiting"
     ],
+    "salary_currency": "",
+    "salary_max": null,
+    "salary_min": null,
+    "salary_period": "",
+    "salary_text": "",
+    "source": "workday",
+    "source_updated_at": "",
+    "sponsorship_evidence": ""
+  },
+  "workday:NVIDIA:/job/US-CA-Santa-Clara/Automotive-Technical-Business-Development-Manager--Agentic-AI-and-GSI-Ecosystem_JR2029826": {
+    "company": "NVIDIA",
+    "enriched_at": "2026-11-22T19:37:59.101248+00:00",
+    "external_id": "/job/US-CA-Santa-Clara/Automotive-Technical-Business-Development-Manager--Agentic-AI-and-GSI-Ecosystem_JR2029826",
+    "h1b_mentioned": false,
+    "h1b_status": "unknown",
+    "keywords": [],
     "salary_currency": "",
     "salary_max": null,
     "salary_min": null,
@@ -678813,6 +679450,51 @@
     "source_updated_at": "",
     "sponsorship_evidence": ""
   },
+  "workday:NVIDIA:/job/US-CA-Santa-Clara/Director--Service-Operations-Trade-Compliance-Operations_JR2030027": {
+    "company": "NVIDIA",
+    "enriched_at": "2026-11-22T19:37:59.150004+00:00",
+    "external_id": "/job/US-CA-Santa-Clara/Director--Service-Operations-Trade-Compliance-Operations_JR2030027",
+    "h1b_mentioned": false,
+    "h1b_status": "unknown",
+    "keywords": [
+      "supply chain",
+      "logistics",
+      "recruiting",
+      "compliance",
+      "legal"
+    ],
+    "salary_currency": "",
+    "salary_max": null,
+    "salary_min": null,
+    "salary_period": "",
+    "salary_text": "",
+    "source": "workday",
+    "source_updated_at": "",
+    "sponsorship_evidence": ""
+  },
+  "workday:NVIDIA:/job/US-CA-Santa-Clara/Director--Services-and-Repair-Network-Strategy-and-Optimization_JR2030030": {
+    "company": "NVIDIA",
+    "enriched_at": "2026-11-22T19:37:59.140695+00:00",
+    "external_id": "/job/US-CA-Santa-Clara/Director--Services-and-Repair-Network-Strategy-and-Optimization_JR2030030",
+    "h1b_mentioned": false,
+    "h1b_status": "unknown",
+    "keywords": [
+      "artificial intelligence",
+      "analytics",
+      "supply chain",
+      "logistics",
+      "recruiting",
+      "contracts"
+    ],
+    "salary_currency": "",
+    "salary_max": null,
+    "salary_min": null,
+    "salary_period": "",
+    "salary_text": "",
+    "source": "workday",
+    "source_updated_at": "",
+    "sponsorship_evidence": ""
+  },
   "workday:NVIDIA:/job/US-CA-Santa-Clara/Director--Simulation-Product-Management_JR2026487": {
     "company": "NVIDIA",
     "enriched_at": "2026-10-01T22:40:52.408691+00:00",
@@ -679491,6 +680173,22 @@
     "keywords": [
       "recruiting"
     ],
+    "salary_currency": "",
+    "salary_max": null,
+    "salary_min": null,
+    "salary_period": "",
+    "salary_text": "",
+    "source": "workday",
+    "source_updated_at": "",
+    "sponsorship_evidence": ""
+  },
+  "workday:NVIDIA:/job/US-CA-Santa-Clara/Executive-Briefing-Center-Demo-Presenter_JR2029825": {
+    "company": "NVIDIA",
+    "enriched_at": "2026-11-22T19:37:59.163514+00:00",
+    "external_id": "/job/US-CA-Santa-Clara/Executive-Briefing-Center-Demo-Presenter_JR2029825",
+    "h1b_mentioned": false,
+    "h1b_status": "unknown",
+    "keywords": [],
     "salary_currency": "",
     "salary_max": null,
     "salary_min": null,
@@ -680479,6 +681177,28 @@
     "source_updated_at": "",
     "sponsorship_evidence": ""
   },
+  "workday:NVIDIA:/job/US-CA-Santa-Clara/Lifecycle-Operations-Project-Manager_JR2030346-1": {
+    "company": "NVIDIA",
+    "enriched_at": "2026-11-22T19:37:59.156242+00:00",
+    "external_id": "/job/US-CA-Santa-Clara/Lifecycle-Operations-Project-Manager_JR2030346-1",
+    "h1b_mentioned": false,
+    "h1b_status": "unknown",
+    "keywords": [
+      "analytics",
+      "supply chain",
+      "logistics",
+      "sales",
+      "recruiting"
+    ],
+    "salary_currency": "",
+    "salary_max": null,
+    "salary_min": null,
+    "salary_period": "",
+    "salary_text": "",
+    "source": "workday",
+    "source_updated_at": "",
+    "sponsorship_evidence": ""
+  },
   "workday:NVIDIA:/job/US-CA-Santa-Clara/Low-Power-ASIC-Engineer---New-College-Grad-2027_JR2027850": {
     "company": "NVIDIA",
     "enriched_at": "2026-10-14T04:52:27.932296+00:00",
@@ -680551,6 +681271,25 @@
       "machine learning",
       "data science",
       "analytics",
+      "recruiting"
+    ],
+    "salary_currency": "",
+    "salary_max": null,
+    "salary_min": null,
+    "salary_period": "",
+    "salary_text": "",
+    "source": "workday",
+    "source_updated_at": "",
+    "sponsorship_evidence": ""
+  },
+  "workday:NVIDIA:/job/US-CA-Santa-Clara/Manager--ATE-Test-Engineering_JR2025681": {
+    "company": "NVIDIA",
+    "enriched_at": "2026-11-22T19:37:59.108853+00:00",
+    "external_id": "/job/US-CA-Santa-Clara/Manager--ATE-Test-Engineering_JR2025681",
+    "h1b_mentioned": false,
+    "h1b_status": "unknown",
+    "keywords": [
+      "electrical engineering",
       "recruiting"
     ],
     "salary_currency": "",
@@ -683490,6 +684229,26 @@
     "source_updated_at": "",
     "sponsorship_evidence": ""
   },
+  "workday:NVIDIA:/job/US-CA-Santa-Clara/Product-Development-Engineer_JR2023943": {
+    "company": "NVIDIA",
+    "enriched_at": "2026-11-22T19:37:59.101487+00:00",
+    "external_id": "/job/US-CA-Santa-Clara/Product-Development-Engineer_JR2023943",
+    "h1b_mentioned": false,
+    "h1b_status": "unknown",
+    "keywords": [
+      "machine learning",
+      "recruiting",
+      "compliance"
+    ],
+    "salary_currency": "",
+    "salary_max": null,
+    "salary_min": null,
+    "salary_period": "",
+    "salary_text": "",
+    "source": "workday",
+    "source_updated_at": "",
+    "sponsorship_evidence": ""
+  },
   "workday:NVIDIA:/job/US-CA-Santa-Clara/Product-Engineer---Datacenter_JR2023146": {
     "company": "NVIDIA",
     "enriched_at": "2026-09-10T20:51:36.956853+00:00",
@@ -683704,6 +684463,22 @@
     "source_updated_at": "",
     "sponsorship_evidence": ""
   },
+  "workday:NVIDIA:/job/US-CA-Santa-Clara/Product-Marketing-Intern--DGX-Products---Summer-2027_JR2029456-1": {
+    "company": "NVIDIA",
+    "enriched_at": "2026-11-22T19:37:59.058363+00:00",
+    "external_id": "/job/US-CA-Santa-Clara/Product-Marketing-Intern--DGX-Products---Summer-2027_JR2029456-1",
+    "h1b_mentioned": false,
+    "h1b_status": "unknown",
+    "keywords": [],
+    "salary_currency": "",
+    "salary_max": null,
+    "salary_min": null,
+    "salary_period": "",
+    "salary_text": "",
+    "source": "workday",
+    "source_updated_at": "",
+    "sponsorship_evidence": ""
+  },
   "workday:NVIDIA:/job/US-CA-Santa-Clara/Product-Marketing-Management-MBA-Intern---Summer-2027_JR2025672": {
     "company": "NVIDIA",
     "enriched_at": "2026-10-17T04:24:12.436836+00:00",
@@ -683808,6 +684583,22 @@
       "electrical engineering",
       "recruiting"
     ],
+    "salary_currency": "",
+    "salary_max": null,
+    "salary_min": null,
+    "salary_period": "",
+    "salary_text": "",
+    "source": "workday",
+    "source_updated_at": "",
+    "sponsorship_evidence": ""
+  },
+  "workday:NVIDIA:/job/US-CA-Santa-Clara/Product-Quality-Engineer_JR2026870": {
+    "company": "NVIDIA",
+    "enriched_at": "2026-11-22T19:37:59.065833+00:00",
+    "external_id": "/job/US-CA-Santa-Clara/Product-Quality-Engineer_JR2026870",
+    "h1b_mentioned": false,
+    "h1b_status": "unknown",
+    "keywords": [],
     "salary_currency": "",
     "salary_max": null,
     "salary_min": null,
@@ -684538,7 +685329,7 @@
   },
   "workday:NVIDIA:/job/US-CA-Santa-Clara/Senior-AI-Engineer_JR2025309": {
     "company": "NVIDIA",
-    "enriched_at": "2026-10-27T22:12:52.948192+00:00",
+    "enriched_at": "2026-11-22T19:37:59.131768+00:00",
     "external_id": "/job/US-CA-Santa-Clara/Senior-AI-Engineer_JR2025309",
     "h1b_mentioned": false,
     "h1b_status": "unknown",
@@ -685339,6 +686130,22 @@
     "source_updated_at": "",
     "sponsorship_evidence": ""
   },
+  "workday:NVIDIA:/job/US-CA-Santa-Clara/Senior-Board-Product-Development-Engineer_JR2027639": {
+    "company": "NVIDIA",
+    "enriched_at": "2026-11-22T19:37:59.078923+00:00",
+    "external_id": "/job/US-CA-Santa-Clara/Senior-Board-Product-Development-Engineer_JR2027639",
+    "h1b_mentioned": false,
+    "h1b_status": "unknown",
+    "keywords": [],
+    "salary_currency": "",
+    "salary_max": null,
+    "salary_min": null,
+    "salary_period": "",
+    "salary_text": "",
+    "source": "workday",
+    "source_updated_at": "",
+    "sponsorship_evidence": ""
+  },
   "workday:NVIDIA:/job/US-CA-Santa-Clara/Senior-Bring-up-Methodology-Lead_JR2017863": {
     "company": "NVIDIA",
     "enriched_at": "2026-09-24T04:49:03.440979+00:00",
@@ -685921,6 +686728,24 @@
       "compliance",
       "legal",
       "contracts"
+    ],
+    "salary_currency": "",
+    "salary_max": null,
+    "salary_min": null,
+    "salary_period": "",
+    "salary_text": "",
+    "source": "workday",
+    "source_updated_at": "",
+    "sponsorship_evidence": ""
+  },
+  "workday:NVIDIA:/job/US-CA-Santa-Clara/Senior-Cybersecurity-Risk-Program-Manager--Ops-Supply-Chain_JR2024195": {
+    "company": "NVIDIA",
+    "enriched_at": "2026-11-22T19:37:59.108751+00:00",
+    "external_id": "/job/US-CA-Santa-Clara/Senior-Cybersecurity-Risk-Program-Manager--Ops-Supply-Chain_JR2024195",
+    "h1b_mentioned": false,
+    "h1b_status": "unknown",
+    "keywords": [
+      "supply chain"
     ],
     "salary_currency": "",
     "salary_max": null,
@@ -687255,6 +688080,22 @@
       "machine learning",
       "recruiting"
     ],
+    "salary_currency": "",
+    "salary_max": null,
+    "salary_min": null,
+    "salary_period": "",
+    "salary_text": "",
+    "source": "workday",
+    "source_updated_at": "",
+    "sponsorship_evidence": ""
+  },
+  "workday:NVIDIA:/job/US-CA-Santa-Clara/Senior-Foundry-Development-Engineer--Memory_JR2023611": {
+    "company": "NVIDIA",
+    "enriched_at": "2026-11-22T19:37:59.101420+00:00",
+    "external_id": "/job/US-CA-Santa-Clara/Senior-Foundry-Development-Engineer--Memory_JR2023611",
+    "h1b_mentioned": false,
+    "h1b_status": "unknown",
+    "keywords": [],
     "salary_currency": "",
     "salary_max": null,
     "salary_min": null,
@@ -688710,6 +689551,29 @@
     "source_updated_at": "",
     "sponsorship_evidence": ""
   },
+  "workday:NVIDIA:/job/US-CA-Santa-Clara/Senior-Manager--Travel-Operation_JR2030441": {
+    "company": "NVIDIA",
+    "enriched_at": "2026-11-22T19:37:59.078994+00:00",
+    "external_id": "/job/US-CA-Santa-Clara/Senior-Manager--Travel-Operation_JR2030441",
+    "h1b_mentioned": false,
+    "h1b_status": "unknown",
+    "keywords": [
+      "artificial intelligence",
+      "analytics",
+      "logistics",
+      "procurement",
+      "recruiting",
+      "compliance"
+    ],
+    "salary_currency": "",
+    "salary_max": null,
+    "salary_min": null,
+    "salary_period": "",
+    "salary_text": "",
+    "source": "workday",
+    "source_updated_at": "",
+    "sponsorship_evidence": ""
+  },
   "workday:NVIDIA:/job/US-CA-Santa-Clara/Senior-Manager--Treasury-Operations_JR2022561": {
     "company": "NVIDIA",
     "enriched_at": "2026-08-24T18:58:27.941424+00:00",
@@ -688780,6 +689644,25 @@
     "h1b_status": "unknown",
     "keywords": [
       "Python",
+      "recruiting"
+    ],
+    "salary_currency": "",
+    "salary_max": null,
+    "salary_min": null,
+    "salary_period": "",
+    "salary_text": "",
+    "source": "workday",
+    "source_updated_at": "",
+    "sponsorship_evidence": ""
+  },
+  "workday:NVIDIA:/job/US-CA-Santa-Clara/Senior-Materials-Engineer_JR2029877": {
+    "company": "NVIDIA",
+    "enriched_at": "2026-11-22T19:37:59.086250+00:00",
+    "external_id": "/job/US-CA-Santa-Clara/Senior-Materials-Engineer_JR2029877",
+    "h1b_mentioned": false,
+    "h1b_status": "unknown",
+    "keywords": [
+      "supply chain",
       "recruiting"
     ],
     "salary_currency": "",
@@ -689386,6 +690269,26 @@
     "h1b_status": "unknown",
     "keywords": [
       "Python",
+      "electrical engineering",
+      "recruiting"
+    ],
+    "salary_currency": "",
+    "salary_max": null,
+    "salary_min": null,
+    "salary_period": "",
+    "salary_text": "",
+    "source": "workday",
+    "source_updated_at": "",
+    "sponsorship_evidence": ""
+  },
+  "workday:NVIDIA:/job/US-CA-Santa-Clara/Senior-Physical-Failure-Analysis-Engineer_JR2024261-1": {
+    "company": "NVIDIA",
+    "enriched_at": "2026-11-22T19:37:59.123073+00:00",
+    "external_id": "/job/US-CA-Santa-Clara/Senior-Physical-Failure-Analysis-Engineer_JR2024261-1",
+    "h1b_mentioned": false,
+    "h1b_status": "unknown",
+    "keywords": [
+      "Excel",
       "electrical engineering",
       "recruiting"
     ],
@@ -690804,6 +691707,22 @@
     "source_updated_at": "",
     "sponsorship_evidence": ""
   },
+  "workday:NVIDIA:/job/US-CA-Santa-Clara/Senior-Silicon-Reliability-Engineer_JR2027856-1": {
+    "company": "NVIDIA",
+    "enriched_at": "2026-11-22T19:37:59.101356+00:00",
+    "external_id": "/job/US-CA-Santa-Clara/Senior-Silicon-Reliability-Engineer_JR2027856-1",
+    "h1b_mentioned": false,
+    "h1b_status": "unknown",
+    "keywords": [],
+    "salary_currency": "",
+    "salary_max": null,
+    "salary_min": null,
+    "salary_period": "",
+    "salary_text": "",
+    "source": "workday",
+    "source_updated_at": "",
+    "sponsorship_evidence": ""
+  },
   "workday:NVIDIA:/job/US-CA-Santa-Clara/Senior-Silicon-and-System-Product-Lead_JR2010985": {
     "company": "NVIDIA",
     "enriched_at": "2026-09-24T04:49:03.541845+00:00",
@@ -691828,6 +692747,25 @@
       "Azure",
       "GCP",
       "electrical engineering",
+      "recruiting"
+    ],
+    "salary_currency": "",
+    "salary_max": null,
+    "salary_min": null,
+    "salary_period": "",
+    "salary_text": "",
+    "source": "workday",
+    "source_updated_at": "",
+    "sponsorship_evidence": ""
+  },
+  "workday:NVIDIA:/job/US-CA-Santa-Clara/Senior-Software-Engineer--DSX-OS-Control-Plane_JR2028497": {
+    "company": "NVIDIA",
+    "enriched_at": "2026-11-22T19:37:59.058675+00:00",
+    "external_id": "/job/US-CA-Santa-Clara/Senior-Software-Engineer--DSX-OS-Control-Plane_JR2028497",
+    "h1b_mentioned": false,
+    "h1b_status": "unknown",
+    "keywords": [
+      "Kubernetes",
       "recruiting"
     ],
     "salary_currency": "",
@@ -693621,6 +694559,26 @@
     "source_updated_at": "",
     "sponsorship_evidence": ""
   },
+  "workday:NVIDIA:/job/US-CA-Santa-Clara/Senior-System-Test-Engineer_JR2029344": {
+    "company": "NVIDIA",
+    "enriched_at": "2026-11-22T19:37:59.072821+00:00",
+    "external_id": "/job/US-CA-Santa-Clara/Senior-System-Test-Engineer_JR2029344",
+    "h1b_mentioned": false,
+    "h1b_status": "unknown",
+    "keywords": [
+      "Python",
+      "recruiting",
+      "contracts"
+    ],
+    "salary_currency": "",
+    "salary_max": null,
+    "salary_min": null,
+    "salary_period": "",
+    "salary_text": "",
+    "source": "workday",
+    "source_updated_at": "",
+    "sponsorship_evidence": ""
+  },
   "workday:NVIDIA:/job/US-CA-Santa-Clara/Senior-System-and-Reporting-Analyst_JR2014259": {
     "company": "NVIDIA",
     "enriched_at": "2026-10-26T04:45:12.189498+00:00",
@@ -694566,6 +695524,22 @@
     "source_updated_at": "",
     "sponsorship_evidence": ""
   },
+  "workday:NVIDIA:/job/US-CA-Santa-Clara/Senior-Technical-Training-Lead---NCI-Program_JR2029864": {
+    "company": "NVIDIA",
+    "enriched_at": "2026-11-22T19:37:59.101165+00:00",
+    "external_id": "/job/US-CA-Santa-Clara/Senior-Technical-Training-Lead---NCI-Program_JR2029864",
+    "h1b_mentioned": false,
+    "h1b_status": "unknown",
+    "keywords": [],
+    "salary_currency": "",
+    "salary_max": null,
+    "salary_min": null,
+    "salary_period": "",
+    "salary_text": "",
+    "source": "workday",
+    "source_updated_at": "",
+    "sponsorship_evidence": ""
+  },
   "workday:NVIDIA:/job/US-CA-Santa-Clara/Senior-Tegra-Diagnostic-Software-Engineer_JR2011805": {
     "company": "NVIDIA",
     "enriched_at": "2026-10-14T21:40:28.407911+00:00",
@@ -694775,6 +695749,27 @@
       "machine learning",
       "artificial intelligence",
       "electrical engineering",
+      "recruiting"
+    ],
+    "salary_currency": "",
+    "salary_max": null,
+    "salary_min": null,
+    "salary_period": "",
+    "salary_text": "",
+    "source": "workday",
+    "source_updated_at": "",
+    "sponsorship_evidence": ""
+  },
+  "workday:NVIDIA:/job/US-CA-Santa-Clara/Service-Operations-Director-of-Fulfillment_JR2030026": {
+    "company": "NVIDIA",
+    "enriched_at": "2026-11-22T19:37:59.065899+00:00",
+    "external_id": "/job/US-CA-Santa-Clara/Service-Operations-Director-of-Fulfillment_JR2030026",
+    "h1b_mentioned": false,
+    "h1b_status": "unknown",
+    "keywords": [
+      "analytics",
+      "supply chain",
+      "logistics",
       "recruiting"
     ],
     "salary_currency": "",
@@ -696336,6 +697331,22 @@
     "source_updated_at": "",
     "sponsorship_evidence": ""
   },
+  "workday:NVIDIA:/job/US-CA-Santa-Clara/Technical-Marketing-Engineering-Intern--Digital-Biology-and-Scientific-Computing---Summer-2027_JR2029793": {
+    "company": "NVIDIA",
+    "enriched_at": "2026-11-22T19:37:59.078782+00:00",
+    "external_id": "/job/US-CA-Santa-Clara/Technical-Marketing-Engineering-Intern--Digital-Biology-and-Scientific-Computing---Summer-2027_JR2029793",
+    "h1b_mentioned": false,
+    "h1b_status": "unknown",
+    "keywords": [],
+    "salary_currency": "",
+    "salary_max": null,
+    "salary_min": null,
+    "salary_period": "",
+    "salary_text": "",
+    "source": "workday",
+    "source_updated_at": "",
+    "sponsorship_evidence": ""
+  },
   "workday:NVIDIA:/job/US-CA-Santa-Clara/Technical-Marketing-Specialist_JR2024965": {
     "company": "NVIDIA",
     "enriched_at": "2026-10-01T22:40:52.395484+00:00",
@@ -696669,6 +697680,24 @@
     "h1b_status": "unknown",
     "keywords": [
       "electrical engineering",
+      "recruiting"
+    ],
+    "salary_currency": "",
+    "salary_max": null,
+    "salary_min": null,
+    "salary_period": "",
+    "salary_text": "",
+    "source": "workday",
+    "source_updated_at": "",
+    "sponsorship_evidence": ""
+  },
+  "workday:NVIDIA:/job/US-CA-Santa-Clara/Thermal-Design-Engineer_JR2029574": {
+    "company": "NVIDIA",
+    "enriched_at": "2026-11-22T19:37:59.093005+00:00",
+    "external_id": "/job/US-CA-Santa-Clara/Thermal-Design-Engineer_JR2029574",
+    "h1b_mentioned": false,
+    "h1b_status": "unknown",
+    "keywords": [
       "recruiting"
     ],
     "salary_currency": "",
@@ -697486,6 +698515,26 @@
     "h1b_status": "unknown",
     "keywords": [
       "Excel",
+      "recruiting"
+    ],
+    "salary_currency": "",
+    "salary_max": null,
+    "salary_min": null,
+    "salary_period": "",
+    "salary_text": "",
+    "source": "workday",
+    "source_updated_at": "",
+    "sponsorship_evidence": ""
+  },
+  "workday:NVIDIA:/job/US-SC-Remote/Senior-PCB-DFx-Engineer_JR2027199": {
+    "company": "NVIDIA",
+    "enriched_at": "2026-11-22T19:37:59.116159+00:00",
+    "external_id": "/job/US-SC-Remote/Senior-PCB-DFx-Engineer_JR2027199",
+    "h1b_mentioned": false,
+    "h1b_status": "unknown",
+    "keywords": [
+      "CAD",
+      "SolidWorks",
       "recruiting"
     ],
     "salary_currency": "",

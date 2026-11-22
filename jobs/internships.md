@@ -1,12 +1,12 @@
 # F500Tracker internships
 
-Last updated: November 22, 2026 at 06:47 UTC
+Last updated: November 22, 2026 at 19:40 UTC
 
-Current internships: 353
+Current internships: 354
 
 ## Categories
 
-[Software & IT (36)](#software-it) · [Data & AI (8)](#data-ai) · [Product & Design (1)](#product-design) · [Engineering (52)](#engineering) · [Finance & Accounting (6)](#finance-accounting) · [Sales & Marketing (7)](#sales-marketing) · [Operations & Supply Chain (23)](#operations-supply-chain) · [People & Legal (1)](#people-legal) · [Other (219)](#other)
+[Software & IT (36)](#software-it) · [Data & AI (8)](#data-ai) · [Product & Design (1)](#product-design) · [Engineering (51)](#engineering) · [Finance & Accounting (6)](#finance-accounting) · [Sales & Marketing (9)](#sales-marketing) · [Operations & Supply Chain (23)](#operations-supply-chain) · [People & Legal (1)](#people-legal) · [Other (219)](#other)
 
 <a id="software-it"></a>
 
@@ -90,7 +90,7 @@ Open positions: 1
 
 ## Engineering
 
-Open positions: 52
+Open positions: 51
 
 | Rank | Company | Position | Location | Category | Salary | Keywords | Sponsorship | Apply |
 |---:|---|---|---|---|---|---|---|---|
@@ -100,7 +100,6 @@ Open positions: 52
 | 125 | Micron Technology | Intern - HVM Area Manufacturing Engineer (AME) | Boise, ID - Main Site | Engineering | Not disclosed | Python · SQL | Not specified | [Apply](https://micron.wd1.myworkdayjobs.com/en-US/External/job/Boise-ID---Main-Site/Intern---HVM-Area-Manufacturing-Engineer--AME-_JR116168) |
 | 125 | Micron Technology | Intern - YE-Electrical Failure Analysis Engineer | Boise, ID - ID1 | Engineering | Not disclosed | Python · SQL · machine learning · artificial intelligence · data science | Not specified | [Apply](https://micron.wd1.myworkdayjobs.com/en-US/External/job/Boise-ID---ID1/Intern---YE-Electrical-Failure-Analysis-Engineer_JR114538) |
 | 125 | Micron Technology | Intern - ID1 Manufacturing Engineer | Boise, ID - ID1 | Engineering | Not disclosed | Python · Java · artificial intelligence · analytics · Excel | Not specified | [Apply](https://micron.wd1.myworkdayjobs.com/en-US/External/job/Boise-ID---ID1/Intern---ID1-Manufacturing-Engineer_JR113287) |
-| 30 | Marathon Petroleum | Electrical Engineer I - Midstream Natural Gas & NGL Services (Intern to Full-Time Conversion) | Canonsburg, Pennsylvania | Engineering | Not disclosed | electrical engineering · human resources | Not specified | [Apply](https://mpc.wd1.myworkdayjobs.com/en-US/MPCCareers/job/Canonsburg-Pennsylvania/Electrical-Engineer-I---Midstream-Natural-Gas---NGL-Services--Intern-to-Full-Time-Conversion-_00024745) |
 | 45 | Johnson & Johnson | Electrical Engineering Co-Op, Summer 2027 | Cincinnati, Ohio, United States of America | Engineering | $23.5/hr | Python · risk management · electrical engineering · recruiting | Not specified | [Apply](https://jj.wd5.myworkdayjobs.com/en-US/JJ/job/Cincinnati-Ohio-United-States-of-America/Electrical-Engineering-Co-Op--Summer-2027_R-096736) |
 | 45 | Johnson & Johnson | Electrical Engineering Co-Op, Spring 2027 | Cincinnati, Ohio, United States of America | Engineering | Not disclosed | Python · risk management · electrical engineering · recruiting | Not specified | [Apply](https://jj.wd5.myworkdayjobs.com/en-US/JJ/job/Cincinnati-Ohio-United-States-of-America/Electrical-Engineer-Co-Op--Spring-2027_R-095700) |
 | 49 | RTX | Lean & Continuous Improvement Industrial Engineering Co-Op (Summer/Fall 2027) | US-NC-WILSON-4200 ~ 4200 Airport Dr ~ BLDG 4200 | Engineering | Not disclosed | SQL · Excel · compliance · contracts | Not specified | [Apply](https://globalhr.wd5.myworkdayjobs.com/en-US/REC_RTX_Ext_Gateway/job/US-NC-WILSON-4200--4200-Airport-Dr--BLDG-4200/Lean---Continuous-Improvement-Industrial-Engineering-Co-Op--Summer-Fall-2027-_01888251) |
@@ -157,7 +156,7 @@ Open positions: 6
 
 | Rank | Company | Position | Location | Category | Salary | Keywords | Sponsorship | Apply |
 |---:|---|---|---|---|---|---|---|---|
-| 30 | Marathon Petroleum | Intern/Co-op - Accounting (Spring 2027 - Denver, CO)) | Denver CO | Finance & Accounting | $0–$999.99/hr | accounting · audit · tax · supply chain · logistics | No sponsorship for this position | [Apply](https://mpc.wd1.myworkdayjobs.com/en-US/MPCCareers/job/Denver-CO/Intern-Co-op---Accounting--Spring-2027---Denver--CO--_00025251) |
+| 16 | NVIDIA | Accounting AI Solution Engineer Intern - Summer 2027 | US, CA, Santa Clara | Finance & Accounting | Not disclosed | accounting | Not specified | [Apply](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Accounting-AI-Solution-Engineer-Intern---Summer-2027_JR2029155-1) |
 | 49 | RTX | Finance Intern (Summer 2027) | US-TX-MCKINNEY-513PW ~ 2501 W University Dr ~ PW BLDG | Finance & Accounting | Not disclosed | Excel · accounting · compliance · contracts | Not specified | [Apply](https://globalhr.wd5.myworkdayjobs.com/en-US/REC_RTX_Ext_Gateway/job/US-TX-MCKINNEY-513PW--2501-W-University-Dr--PW-BLDG/Finance-Intern--Summer-2027-_01889012) |
 | 52 | Lowe's | Finance Intern – Undergrad Internship – Summer 2027 | Mooresville, NC (SSC) 1999 | Finance & Accounting | Not disclosed | Excel · accounting · supply chain · sales | Not specified | [Apply](https://lowes.wd5.myworkdayjobs.com/en-US/LWS_External_CS/job/Mooresville-NC-SSC-1999/Finance-Intern---Undergrad-Internship---Summer-2027_JR-02673472) |
 | 52 | Lowe's | Finance Intern – Graduate Internship – Summer 2027 | Mooresville, NC (SSC) 1999 | Finance & Accounting | Not disclosed | Excel · accounting · supply chain · sales | Not specified | [Apply](https://lowes.wd5.myworkdayjobs.com/en-US/LWS_External_CS/job/Mooresville-NC-SSC-1999/Finance-Intern---Graduate-Internship---Summer-2027_JR-02673498) |
@@ -170,10 +169,12 @@ Open positions: 6
 
 ## Sales & Marketing
 
-Open positions: 7
+Open positions: 9
 
 | Rank | Company | Position | Location | Category | Salary | Keywords | Sponsorship | Apply |
 |---:|---|---|---|---|---|---|---|---|
+| 16 | NVIDIA | Product Marketing Intern, DGX Products - Summer 2027 | US, CA, Santa Clara | Sales & Marketing | Not disclosed | — | Not specified | [Apply](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Product-Marketing-Intern--DGX-Products---Summer-2027_JR2029456-1) |
+| 16 | NVIDIA | Technical Marketing Engineering Intern, Digital Biology and Scientific Computing - Summer 2027 | US, CA, Santa Clara | Sales & Marketing | Not disclosed | — | Not specified | [Apply](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Technical-Marketing-Engineering-Intern--Digital-Biology-and-Scientific-Computing---Summer-2027_JR2029793) |
 | 125 | Micron Technology | Intern - Sales Strategy and Operations | San Jose, CA | Sales & Marketing | Not disclosed | analytics · Excel · sales | Not specified | [Apply](https://micron.wd1.myworkdayjobs.com/en-US/External/job/San-Jose-CA/Sales-Strategy-and-Operations-Summer-Intern_JR116055) |
 | 125 | Micron Technology | Intern - Sales Development | Boise, ID - Main Site | Sales & Marketing | Not disclosed | analytics · Excel · supply chain · sales · CRM | Not specified | [Apply](https://micron.wd1.myworkdayjobs.com/en-US/External/job/Boise-ID---Main-Site/Intern---SDR_JR112775) |
 | 125 | Micron Technology | Intern - CDBU Marketing | San Jose, CA | Sales & Marketing | Not disclosed | artificial intelligence · electrical engineering · sales | Not specified | [Apply](https://micron.wd1.myworkdayjobs.com/en-US/External/job/San-Jose-CA/Intern---CDBU-Marketing_JR109697) |
