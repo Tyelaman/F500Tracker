@@ -6312,6 +6312,27 @@
     "source_updated_at": "2026-11-20T12:02:41-05:00",
     "sponsorship_evidence": ""
   },
+  "greenhouse:Airbnb:8407159": {
+    "company": "Airbnb",
+    "enriched_at": "2026-11-23T07:35:19.801892+00:00",
+    "external_id": "8407159",
+    "h1b_mentioned": false,
+    "h1b_status": "unknown",
+    "keywords": [
+      "Python",
+      "SQL",
+      "data science",
+      "recruiting"
+    ],
+    "salary_currency": "",
+    "salary_max": null,
+    "salary_min": null,
+    "salary_period": "",
+    "salary_text": "",
+    "source": "greenhouse",
+    "source_updated_at": "2026-11-22T15:17:01-05:00",
+    "sponsorship_evidence": ""
+  },
   "greenhouse:Block:4809166008": {
     "company": "Block",
     "enriched_at": "2026-09-22T11:36:45.084679+00:00",
@@ -119405,7 +119426,7 @@
   },
   "greenhouse:Coupang:8118774": {
     "company": "Coupang",
-    "enriched_at": "2026-11-22T06:45:03.202874+00:00",
+    "enriched_at": "2026-11-23T07:35:19.092725+00:00",
     "external_id": "8118774",
     "h1b_mentioned": false,
     "h1b_status": "unknown",
@@ -119423,7 +119444,7 @@
     "salary_period": "year",
     "salary_text": "$132,000/year",
     "source": "greenhouse",
-    "source_updated_at": "2026-11-21T20:08:43-05:00",
+    "source_updated_at": "2026-11-22T20:08:48-05:00",
     "sponsorship_evidence": ""
   },
   "greenhouse:Coupang:8120779": {
@@ -119497,7 +119518,7 @@
   },
   "greenhouse:Coupang:8124210": {
     "company": "Coupang",
-    "enriched_at": "2026-11-22T06:45:03.241085+00:00",
+    "enriched_at": "2026-11-23T07:35:19.117946+00:00",
     "external_id": "8124210",
     "h1b_mentioned": false,
     "h1b_status": "unknown",
@@ -119514,7 +119535,7 @@
     "salary_period": "year",
     "salary_text": "$209,000/year",
     "source": "greenhouse",
-    "source_updated_at": "2026-11-21T20:08:39-05:00",
+    "source_updated_at": "2026-11-22T20:08:44-05:00",
     "sponsorship_evidence": ""
   },
   "greenhouse:Coupang:8140987": {
@@ -120064,7 +120085,7 @@
   },
   "greenhouse:Coupang:8274425": {
     "company": "Coupang",
-    "enriched_at": "2026-11-22T06:45:03.219229+00:00",
+    "enriched_at": "2026-11-23T07:35:19.103480+00:00",
     "external_id": "8274425",
     "h1b_mentioned": false,
     "h1b_status": "unknown",
@@ -120078,12 +120099,12 @@
     "salary_period": "year",
     "salary_text": "$132,000/year",
     "source": "greenhouse",
-    "source_updated_at": "2026-11-21T20:08:57-05:00",
+    "source_updated_at": "2026-11-22T20:09:03-05:00",
     "sponsorship_evidence": ""
   },
   "greenhouse:Coupang:8275829": {
     "company": "Coupang",
-    "enriched_at": "2026-11-22T06:45:03.260235+00:00",
+    "enriched_at": "2026-11-23T07:35:19.130771+00:00",
     "external_id": "8275829",
     "h1b_mentioned": false,
     "h1b_status": "unknown",
@@ -120100,7 +120121,7 @@
     "salary_period": "year",
     "salary_text": "$159,000/year",
     "source": "greenhouse",
-    "source_updated_at": "2026-11-21T20:09:01-05:00",
+    "source_updated_at": "2026-11-22T20:09:06-05:00",
     "sponsorship_evidence": ""
   },
   "greenhouse:Coupang:8283587": {
@@ -120199,7 +120220,7 @@
   },
   "greenhouse:Coupang:8319602": {
     "company": "Coupang",
-    "enriched_at": "2026-11-22T06:45:03.344214+00:00",
+    "enriched_at": "2026-11-23T07:35:19.186303+00:00",
     "external_id": "8319602",
     "h1b_mentioned": false,
     "h1b_status": "unknown",
@@ -120219,12 +120240,12 @@
     "salary_period": "year",
     "salary_text": "$164,000/year",
     "source": "greenhouse",
-    "source_updated_at": "2026-11-21T20:09:05-05:00",
+    "source_updated_at": "2026-11-22T20:09:09-05:00",
     "sponsorship_evidence": ""
   },
   "greenhouse:Coupang:8335707": {
     "company": "Coupang",
-    "enriched_at": "2026-11-22T06:45:03.189462+00:00",
+    "enriched_at": "2026-11-23T07:35:19.084019+00:00",
     "external_id": "8335707",
     "h1b_mentioned": false,
     "h1b_status": "unknown",
@@ -120242,12 +120263,12 @@
     "salary_period": "year",
     "salary_text": "$140,000/year",
     "source": "greenhouse",
-    "source_updated_at": "2026-11-21T20:09:12-05:00",
+    "source_updated_at": "2026-11-22T20:09:18-05:00",
     "sponsorship_evidence": ""
   },
   "greenhouse:Coupang:8347854": {
     "company": "Coupang",
-    "enriched_at": "2026-11-22T06:45:03.311811+00:00",
+    "enriched_at": "2026-11-23T07:35:19.165399+00:00",
     "external_id": "8347854",
     "h1b_mentioned": false,
     "h1b_status": "unknown",
@@ -120268,7 +120289,7 @@
     "salary_period": "year",
     "salary_text": "$164,000/year",
     "source": "greenhouse",
-    "source_updated_at": "2026-11-21T20:09:15-05:00",
+    "source_updated_at": "2026-11-22T20:09:21-05:00",
     "sponsorship_evidence": ""
   },
   "greenhouse:Coupang:8351526": {
@@ -120320,7 +120341,7 @@
   },
   "greenhouse:Coupang:8356962": {
     "company": "Coupang",
-    "enriched_at": "2026-11-22T06:45:03.326629+00:00",
+    "enriched_at": "2026-11-23T07:35:19.174903+00:00",
     "external_id": "8356962",
     "h1b_mentioned": false,
     "h1b_status": "unknown",
@@ -120339,12 +120360,12 @@
     "salary_period": "year",
     "salary_text": "$164K/year",
     "source": "greenhouse",
-    "source_updated_at": "2026-11-21T20:09:18-05:00",
+    "source_updated_at": "2026-11-22T20:09:25-05:00",
     "sponsorship_evidence": ""
   },
   "greenhouse:Coupang:8360398": {
     "company": "Coupang",
-    "enriched_at": "2026-11-22T06:45:03.290651+00:00",
+    "enriched_at": "2026-11-23T07:35:19.151157+00:00",
     "external_id": "8360398",
     "h1b_mentioned": false,
     "h1b_status": "unknown",
@@ -120361,7 +120382,7 @@
     "salary_period": "year",
     "salary_text": "$155K/year",
     "source": "greenhouse",
-    "source_updated_at": "2026-11-21T20:09:09-05:00",
+    "source_updated_at": "2026-11-22T20:09:13-05:00",
     "sponsorship_evidence": ""
   },
   "greenhouse:Coupang:8364554": {
@@ -598542,7 +598563,7 @@
   },
   "workday:Marathon Petroleum:/job/Findlay-Ohio/Senior-Fundamental-Trading-Analyst--Renewables-_00025314": {
     "company": "Marathon Petroleum",
-    "enriched_at": "2026-11-14T18:04:26.626526+00:00",
+    "enriched_at": "2026-11-23T07:36:40.041623+00:00",
     "external_id": "/job/Findlay-Ohio/Senior-Fundamental-Trading-Analyst--Renewables-_00025314",
     "h1b_mentioned": false,
     "h1b_status": "unknown",
@@ -598814,6 +598835,27 @@
     "h1b_status": "unknown",
     "keywords": [
       "analytics",
+      "human resources",
+      "compliance",
+      "contracts"
+    ],
+    "salary_currency": "",
+    "salary_max": null,
+    "salary_min": null,
+    "salary_period": "",
+    "salary_text": "",
+    "source": "workday",
+    "source_updated_at": "",
+    "sponsorship_evidence": ""
+  },
+  "workday:Marathon Petroleum:/job/Garyville-Louisiana/Inspector_00025247": {
+    "company": "Marathon Petroleum",
+    "enriched_at": "2026-11-23T07:36:40.034368+00:00",
+    "external_id": "/job/Garyville-Louisiana/Inspector_00025247",
+    "h1b_mentioned": false,
+    "h1b_status": "unknown",
+    "keywords": [
+      "Excel",
       "human resources",
       "compliance",
       "contracts"
@@ -1169211,15 +1169253,11 @@
   },
   "workday:S&P Global:/job/Buenos-Aires-AR/Multimedia-Designer_331426-1": {
     "company": "S&P Global",
-    "enriched_at": "2026-10-28T22:38:38.612051+00:00",
+    "enriched_at": "2026-11-23T07:36:14.328149+00:00",
     "external_id": "/job/Buenos-Aires-AR/Multimedia-Designer_331426-1",
     "h1b_mentioned": false,
     "h1b_status": "unknown",
-    "keywords": [
-      "analytics",
-      "supply chain",
-      "compliance"
-    ],
+    "keywords": [],
     "salary_currency": "",
     "salary_max": null,
     "salary_min": null,
@@ -1170835,18 +1170873,11 @@
   },
   "workday:S&P Global:/job/New-York-NY/Account-Manager---Canada-Sell-Side_332281-1": {
     "company": "S&P Global",
-    "enriched_at": "2026-10-26T04:48:10.633583+00:00",
+    "enriched_at": "2026-11-23T07:36:14.327990+00:00",
     "external_id": "/job/New-York-NY/Account-Manager---Canada-Sell-Side_332281-1",
     "h1b_mentioned": false,
     "h1b_status": "unknown",
-    "keywords": [
-      "analytics",
-      "Excel",
-      "supply chain",
-      "sales",
-      "CRM",
-      "compliance"
-    ],
+    "keywords": [],
     "salary_currency": "",
     "salary_max": null,
     "salary_min": null,
@@ -1170963,6 +1170994,22 @@
     "company": "S&P Global",
     "enriched_at": "2026-11-19T07:24:09.780552+00:00",
     "external_id": "/job/New-York-NY/Analyst--Index-Management_332060-1",
+    "h1b_mentioned": false,
+    "h1b_status": "unknown",
+    "keywords": [],
+    "salary_currency": "",
+    "salary_max": null,
+    "salary_min": null,
+    "salary_period": "",
+    "salary_text": "",
+    "source": "workday",
+    "source_updated_at": "",
+    "sponsorship_evidence": ""
+  },
+  "workday:S&P Global:/job/New-York-NY/Analyst--Index-Management_332719": {
+    "company": "S&P Global",
+    "enriched_at": "2026-11-23T07:36:14.328066+00:00",
+    "external_id": "/job/New-York-NY/Analyst--Index-Management_332719",
     "h1b_mentioned": false,
     "h1b_status": "unknown",
     "keywords": [],
@@ -1171274,16 +1171321,11 @@
   },
   "workday:S&P Global:/job/New-York-NY/Associate-Director--Product-Marketing---Multi-Asset_329444-1": {
     "company": "S&P Global",
-    "enriched_at": "2026-10-07T23:08:53.399699+00:00",
+    "enriched_at": "2026-11-23T07:36:14.327929+00:00",
     "external_id": "/job/New-York-NY/Associate-Director--Product-Marketing---Multi-Asset_329444-1",
     "h1b_mentioned": false,
     "h1b_status": "unknown",
-    "keywords": [
-      "analytics",
-      "supply chain",
-      "sales",
-      "compliance"
-    ],
+    "keywords": [],
     "salary_currency": "",
     "salary_max": null,
     "salary_min": null,
@@ -1172037,19 +1172079,11 @@
   },
   "workday:S&P Global:/job/New-York-NY/Global-Head-of-Commercial-Technology-Portfolio_322565-1": {
     "company": "S&P Global",
-    "enriched_at": "2026-08-21T18:59:09.294449+00:00",
+    "enriched_at": "2026-11-23T07:36:14.327870+00:00",
     "external_id": "/job/New-York-NY/Global-Head-of-Commercial-Technology-Portfolio_322565-1",
     "h1b_mentioned": false,
     "h1b_status": "unknown",
-    "keywords": [
-      "AWS",
-      "GCP",
-      "analytics",
-      "supply chain",
-      "sales",
-      "CRM",
-      "compliance"
-    ],
+    "keywords": [],
     "salary_currency": "",
     "salary_max": null,
     "salary_min": null,
@@ -1173261,6 +1173295,24 @@
     "source_updated_at": "",
     "sponsorship_evidence": ""
   },
+  "workday:S&P Global:/job/New-York-NY/Senior-Director--Technical-Accounting_332928-1": {
+    "company": "S&P Global",
+    "enriched_at": "2026-11-23T07:36:14.327807+00:00",
+    "external_id": "/job/New-York-NY/Senior-Director--Technical-Accounting_332928-1",
+    "h1b_mentioned": false,
+    "h1b_status": "unknown",
+    "keywords": [
+      "accounting"
+    ],
+    "salary_currency": "",
+    "salary_max": null,
+    "salary_min": null,
+    "salary_period": "",
+    "salary_text": "",
+    "source": "workday",
+    "source_updated_at": "",
+    "sponsorship_evidence": ""
+  },
   "workday:S&P Global:/job/New-York-NY/Senior-Director--Third-Party-Risk_332741-1": {
     "company": "S&P Global",
     "enriched_at": "2026-11-10T07:19:18.459687+00:00",
@@ -1173589,6 +1173641,22 @@
     "source_updated_at": "",
     "sponsorship_evidence": ""
   },
+  "workday:S&P Global:/job/New-York-NY/Summer-Intern--Fixed-Income-Pricing_332613-2": {
+    "company": "S&P Global",
+    "enriched_at": "2026-11-23T07:36:14.328182+00:00",
+    "external_id": "/job/New-York-NY/Summer-Intern--Fixed-Income-Pricing_332613-2",
+    "h1b_mentioned": false,
+    "h1b_status": "unknown",
+    "keywords": [],
+    "salary_currency": "",
+    "salary_max": null,
+    "salary_min": null,
+    "salary_period": "",
+    "salary_text": "",
+    "source": "workday",
+    "source_updated_at": "",
+    "sponsorship_evidence": ""
+  },
   "workday:S&P Global:/job/New-York-NY/Summer-Intern--Product-Management_332679-1": {
     "company": "S&P Global",
     "enriched_at": "2026-11-05T20:01:14.873376+00:00",
@@ -1173644,6 +1173712,22 @@
       "logistics",
       "compliance"
     ],
+    "salary_currency": "",
+    "salary_max": null,
+    "salary_min": null,
+    "salary_period": "",
+    "salary_text": "",
+    "source": "workday",
+    "source_updated_at": "",
+    "sponsorship_evidence": ""
+  },
+  "workday:S&P Global:/job/New-York-NY/VP-Investor-Relations_332997": {
+    "company": "S&P Global",
+    "enriched_at": "2026-11-23T07:36:14.327702+00:00",
+    "external_id": "/job/New-York-NY/VP-Investor-Relations_332997",
+    "h1b_mentioned": false,
+    "h1b_status": "unknown",
+    "keywords": [],
     "salary_currency": "",
     "salary_max": null,
     "salary_min": null,
@@ -1174023,6 +1174107,22 @@
       "sales",
       "compliance"
     ],
+    "salary_currency": "",
+    "salary_max": null,
+    "salary_min": null,
+    "salary_period": "",
+    "salary_text": "",
+    "source": "workday",
+    "source_updated_at": "",
+    "sponsorship_evidence": ""
+  },
+  "workday:S&P Global:/job/US---DC---WASHINGTON-1200-G-STREET/Sr-Distinguished-Engineer_331902-1": {
+    "company": "S&P Global",
+    "enriched_at": "2026-11-23T07:36:14.328105+00:00",
+    "external_id": "/job/US---DC---WASHINGTON-1200-G-STREET/Sr-Distinguished-Engineer_331902-1",
+    "h1b_mentioned": false,
+    "h1b_status": "unknown",
+    "keywords": [],
     "salary_currency": "",
     "salary_max": null,
     "salary_min": null,

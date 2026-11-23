@@ -286,25 +286,6 @@
   {
     "company": "Coupang",
     "title": "Senior Executive Assistant",
-    "location": "Seattle, USA",
-    "employment_type": "full-time",
-    "category": "Other",
-    "salary": "$89k/yr",
-    "salary_min": 89000.0,
-    "keywords": [
-      "Excel",
-      "tax",
-      "logistics",
-      "recruiting"
-    ],
-    "sponsorship_evidence": "",
-    "h1b_status": "unknown",
-    "sponsorship_label": "Not specified",
-    "url": "https://www.coupang.jobs/en/jobs/?gh_jid=8302715"
-  },
-  {
-    "company": "Coupang",
-    "title": "Senior Executive Assistant",
     "location": "Mountain View, USA",
     "employment_type": "full-time",
     "category": "Other",
@@ -320,6 +301,25 @@
     "h1b_status": "unknown",
     "sponsorship_label": "Not specified",
     "url": "https://www.coupang.jobs/en/jobs/?gh_jid=8143394"
+  },
+  {
+    "company": "Coupang",
+    "title": "Senior Executive Assistant",
+    "location": "Seattle, USA",
+    "employment_type": "full-time",
+    "category": "Other",
+    "salary": "$89k/yr",
+    "salary_min": 89000.0,
+    "keywords": [
+      "Excel",
+      "tax",
+      "logistics",
+      "recruiting"
+    ],
+    "sponsorship_evidence": "",
+    "h1b_status": "unknown",
+    "sponsorship_label": "Not specified",
+    "url": "https://www.coupang.jobs/en/jobs/?gh_jid=8302715"
   },
   {
     "company": "Coupang",
@@ -368,29 +368,6 @@
   {
     "company": "Coupang",
     "title": "Senior Staff Backend Engineer - Cloud Infrastructure",
-    "location": "Seattle, USA",
-    "employment_type": "full-time",
-    "category": "Software & IT",
-    "salary": "$174k/yr",
-    "salary_min": 174000.0,
-    "keywords": [
-      "Python",
-      "AWS",
-      "Azure",
-      "GCP",
-      "Docker",
-      "Kubernetes",
-      "Terraform",
-      "tax"
-    ],
-    "sponsorship_evidence": "",
-    "h1b_status": "unknown",
-    "sponsorship_label": "Not specified",
-    "url": "https://www.coupang.jobs/en/jobs/?gh_jid=7438944"
-  },
-  {
-    "company": "Coupang",
-    "title": "Senior Staff Backend Engineer - Cloud Infrastructure",
     "location": "Mountain View, USA",
     "employment_type": "full-time",
     "category": "Software & IT",
@@ -413,24 +390,26 @@
   },
   {
     "company": "Coupang",
-    "title": "Senior Staff Backend Engineer (Pricing)",
+    "title": "Senior Staff Backend Engineer - Cloud Infrastructure",
     "location": "Seattle, USA",
     "employment_type": "full-time",
     "category": "Software & IT",
     "salary": "$174k/yr",
     "salary_min": 174000.0,
     "keywords": [
-      "Java",
+      "Python",
       "AWS",
+      "Azure",
+      "GCP",
       "Docker",
       "Kubernetes",
-      "tax",
-      "recruiting"
+      "Terraform",
+      "tax"
     ],
     "sponsorship_evidence": "",
     "h1b_status": "unknown",
     "sponsorship_label": "Not specified",
-    "url": "https://www.coupang.jobs/en/jobs/?gh_jid=8120779"
+    "url": "https://www.coupang.jobs/en/jobs/?gh_jid=7438944"
   },
   {
     "company": "Coupang",
@@ -452,6 +431,27 @@
     "h1b_status": "unknown",
     "sponsorship_label": "Not specified",
     "url": "https://www.coupang.jobs/en/jobs/?gh_jid=8123934"
+  },
+  {
+    "company": "Coupang",
+    "title": "Senior Staff Backend Engineer (Pricing)",
+    "location": "Seattle, USA",
+    "employment_type": "full-time",
+    "category": "Software & IT",
+    "salary": "$174k/yr",
+    "salary_min": 174000.0,
+    "keywords": [
+      "Java",
+      "AWS",
+      "Docker",
+      "Kubernetes",
+      "tax",
+      "recruiting"
+    ],
+    "sponsorship_evidence": "",
+    "h1b_status": "unknown",
+    "sponsorship_label": "Not specified",
+    "url": "https://www.coupang.jobs/en/jobs/?gh_jid=8120779"
   },
   {
     "company": "Coupang",
@@ -12877,7 +12877,7 @@
     "sponsorship_evidence": "",
     "h1b_status": "unknown",
     "sponsorship_label": "Not specified",
-    "url": "https://careers.airbnb.com/positions/8130355?gh_jid=8130355"
+    "url": "https://careers.airbnb.com/positions/8232153?gh_jid=8232153"
   },
   {
     "company": "Airbnb",
@@ -12896,7 +12896,7 @@
     "sponsorship_evidence": "",
     "h1b_status": "unknown",
     "sponsorship_label": "Not specified",
-    "url": "https://careers.airbnb.com/positions/8232153?gh_jid=8232153"
+    "url": "https://careers.airbnb.com/positions/8130355?gh_jid=8130355"
   },
   {
     "company": "Airbnb",
@@ -13143,6 +13143,25 @@
     "h1b_status": "unknown",
     "sponsorship_label": "Not specified",
     "url": "https://careers.airbnb.com/positions/8325813?gh_jid=8325813"
+  },
+  {
+    "company": "Airbnb",
+    "title": "Senior Staff Data Scientist - Reputation (Inference)",
+    "location": "Remote - USA",
+    "employment_type": "full-time",
+    "category": "Data & AI",
+    "salary": "Not disclosed",
+    "salary_min": null,
+    "keywords": [
+      "Python",
+      "SQL",
+      "data science",
+      "recruiting"
+    ],
+    "sponsorship_evidence": "",
+    "h1b_status": "unknown",
+    "sponsorship_label": "Not specified",
+    "url": "https://careers.airbnb.com/positions/8407159?gh_jid=8407159"
   },
   {
     "company": "Airbnb",
@@ -13559,24 +13578,24 @@
     "url": "https://careers.airbnb.com/positions/8286207?gh_jid=8286207"
   },
   {
-    "company": "NVIDIA",
-    "title": "Product Marketing Intern, DGX Products - Summer 2027",
-    "location": "US, CA, Santa Clara",
-    "employment_type": "internship",
-    "category": "Sales & Marketing",
+    "company": "S&P Global",
+    "title": "VP Investor Relations",
+    "location": "New York, NY",
+    "employment_type": "full-time",
+    "category": "Other",
     "salary": "Not disclosed",
     "salary_min": null,
     "keywords": [],
     "sponsorship_evidence": "",
     "h1b_status": "unknown",
     "sponsorship_label": "Not specified",
-    "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Product-Marketing-Intern--DGX-Products---Summer-2027_JR2029456-1"
+    "url": "https://spgi.wd5.myworkdayjobs.com/en-US/SPGI_Careers/job/New-York-NY/VP-Investor-Relations_332997"
   },
   {
-    "company": "NVIDIA",
-    "title": "Accounting AI Solution Engineer Intern - Summer 2027",
-    "location": "US, CA, Santa Clara",
-    "employment_type": "internship",
+    "company": "S&P Global",
+    "title": "Senior Director, Technical Accounting",
+    "location": "New York, NY",
+    "employment_type": "full-time",
     "category": "Finance & Accounting",
     "salary": "Not disclosed",
     "salary_min": null,
@@ -13586,95 +13605,97 @@
     "sponsorship_evidence": "",
     "h1b_status": "unknown",
     "sponsorship_label": "Not specified",
-    "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Accounting-AI-Solution-Engineer-Intern---Summer-2027_JR2029155-1"
+    "url": "https://spgi.wd5.myworkdayjobs.com/en-US/SPGI_Careers/job/New-York-NY/Senior-Director--Technical-Accounting_332928-1"
   },
   {
-    "company": "NVIDIA",
-    "title": "Senior Software Engineer, DSX OS Control Plane",
-    "location": "US, CA, Santa Clara",
+    "company": "S&P Global",
+    "title": "Global Head of Commercial Technology Portfolio, DJI",
+    "location": "New York, NY",
     "employment_type": "full-time",
-    "category": "Software & IT",
-    "salary": "Not disclosed",
-    "salary_min": null,
-    "keywords": [
-      "Kubernetes",
-      "recruiting"
-    ],
-    "sponsorship_evidence": "",
-    "h1b_status": "unknown",
-    "sponsorship_label": "Not specified",
-    "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Software-Engineer--DSX-OS-Control-Plane_JR2028497"
-  },
-  {
-    "company": "NVIDIA",
-    "title": "Product Quality Engineer",
-    "location": "US, CA, Santa Clara",
-    "employment_type": "full-time",
-    "category": "Engineering",
+    "category": "Other",
     "salary": "Not disclosed",
     "salary_min": null,
     "keywords": [],
     "sponsorship_evidence": "",
     "h1b_status": "unknown",
     "sponsorship_label": "Not specified",
-    "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Product-Quality-Engineer_JR2026870"
+    "url": "https://spgi.wd5.myworkdayjobs.com/en-US/SPGI_Careers/job/New-York-NY/Global-Head-of-Commercial-Technology-Portfolio_322565-1"
   },
   {
-    "company": "NVIDIA",
-    "title": "Service Operations Director of Fulfillment",
-    "location": "US, CA, Santa Clara",
+    "company": "S&P Global",
+    "title": "Associate Director, Product Marketing - Multi Asset",
+    "location": "New York, NY",
     "employment_type": "full-time",
-    "category": "Operations & Supply Chain",
+    "category": "Sales & Marketing",
     "salary": "Not disclosed",
     "salary_min": null,
-    "keywords": [
-      "analytics",
-      "supply chain",
-      "logistics",
-      "recruiting"
-    ],
+    "keywords": [],
     "sponsorship_evidence": "",
     "h1b_status": "unknown",
     "sponsorship_label": "Not specified",
-    "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Service-Operations-Director-of-Fulfillment_JR2030026"
+    "url": "https://spgi.wd5.myworkdayjobs.com/en-US/SPGI_Careers/job/New-York-NY/Associate-Director--Product-Marketing---Multi-Asset_329444-1"
   },
   {
-    "company": "NVIDIA",
-    "title": "Senior System Test Engineer",
-    "location": "US, CA, Santa Clara",
+    "company": "S&P Global",
+    "title": "Account Manager - Canada Sell-Side",
+    "location": "New York, NY",
     "employment_type": "full-time",
     "category": "Other",
     "salary": "Not disclosed",
     "salary_min": null,
-    "keywords": [
-      "Python",
-      "recruiting",
-      "contracts"
-    ],
+    "keywords": [],
     "sponsorship_evidence": "",
     "h1b_status": "unknown",
     "sponsorship_label": "Not specified",
-    "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-System-Test-Engineer_JR2029344"
+    "url": "https://spgi.wd5.myworkdayjobs.com/en-US/SPGI_Careers/job/New-York-NY/Account-Manager---Canada-Sell-Side_332281-1"
   },
   {
-    "company": "NVIDIA",
-    "title": "Technical Marketing Engineering Intern, Digital Biology and Scientific Computing - Summer 2027",
-    "location": "US, CA, Santa Clara",
+    "company": "S&P Global",
+    "title": "Analyst, Index Management",
+    "location": "New York, NY",
+    "employment_type": "full-time",
+    "category": "Other",
+    "salary": "Not disclosed",
+    "salary_min": null,
+    "keywords": [],
+    "sponsorship_evidence": "",
+    "h1b_status": "unknown",
+    "sponsorship_label": "Not specified",
+    "url": "https://spgi.wd5.myworkdayjobs.com/en-US/SPGI_Careers/job/New-York-NY/Analyst--Index-Management_332719"
+  },
+  {
+    "company": "S&P Global",
+    "title": "Sr. Distinguished Engineer, DJI",
+    "location": "US - DC - WASHINGTON 1200 G STREET",
+    "employment_type": "full-time",
+    "category": "Other",
+    "salary": "Not disclosed",
+    "salary_min": null,
+    "keywords": [],
+    "sponsorship_evidence": "",
+    "h1b_status": "unknown",
+    "sponsorship_label": "Not specified",
+    "url": "https://spgi.wd5.myworkdayjobs.com/en-US/SPGI_Careers/job/US---DC---WASHINGTON-1200-G-STREET/Sr-Distinguished-Engineer_331902-1"
+  },
+  {
+    "company": "S&P Global",
+    "title": "Motion Designer",
+    "location": "Buenos Aires, AR",
+    "employment_type": "full-time",
+    "category": "Other",
+    "salary": "Not disclosed",
+    "salary_min": null,
+    "keywords": [],
+    "sponsorship_evidence": "",
+    "h1b_status": "unknown",
+    "sponsorship_label": "Not specified",
+    "url": "https://spgi.wd5.myworkdayjobs.com/en-US/SPGI_Careers/job/Buenos-Aires-AR/Multimedia-Designer_331426-1"
+  },
+  {
+    "company": "S&P Global",
+    "title": "Summer Intern, Fixed Income Pricing",
+    "location": "New York, NY",
     "employment_type": "internship",
-    "category": "Sales & Marketing",
-    "salary": "Not disclosed",
-    "salary_min": null,
-    "keywords": [],
-    "sponsorship_evidence": "",
-    "h1b_status": "unknown",
-    "sponsorship_label": "Not specified",
-    "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Technical-Marketing-Engineering-Intern--Digital-Biology-and-Scientific-Computing---Summer-2027_JR2029793"
-  },
-  {
-    "company": "NVIDIA",
-    "title": "Senior Board Product Development Engineer",
-    "location": "US, CA, Santa Clara",
-    "employment_type": "full-time",
     "category": "Other",
     "salary": "Not disclosed",
     "salary_min": null,
@@ -13682,302 +13703,7 @@
     "sponsorship_evidence": "",
     "h1b_status": "unknown",
     "sponsorship_label": "Not specified",
-    "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Board-Product-Development-Engineer_JR2027639"
-  },
-  {
-    "company": "NVIDIA",
-    "title": "Senior Manager, Travel Operation",
-    "location": "US, CA, Santa Clara",
-    "employment_type": "full-time",
-    "category": "Other",
-    "salary": "Not disclosed",
-    "salary_min": null,
-    "keywords": [
-      "artificial intelligence",
-      "analytics",
-      "logistics",
-      "procurement",
-      "recruiting",
-      "compliance"
-    ],
-    "sponsorship_evidence": "",
-    "h1b_status": "unknown",
-    "sponsorship_label": "Not specified",
-    "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Manager--Travel-Operation_JR2030441"
-  },
-  {
-    "company": "NVIDIA",
-    "title": "Senior Materials Engineer",
-    "location": "US, CA, Santa Clara",
-    "employment_type": "full-time",
-    "category": "Other",
-    "salary": "Not disclosed",
-    "salary_min": null,
-    "keywords": [
-      "supply chain",
-      "recruiting"
-    ],
-    "sponsorship_evidence": "",
-    "h1b_status": "unknown",
-    "sponsorship_label": "Not specified",
-    "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Materials-Engineer_JR2029877"
-  },
-  {
-    "company": "NVIDIA",
-    "title": "Thermal Design Engineer",
-    "location": "US, CA, Santa Clara",
-    "employment_type": "full-time",
-    "category": "Other",
-    "salary": "Not disclosed",
-    "salary_min": null,
-    "keywords": [
-      "recruiting"
-    ],
-    "sponsorship_evidence": "",
-    "h1b_status": "unknown",
-    "sponsorship_label": "Not specified",
-    "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Thermal-Design-Engineer_JR2029574"
-  },
-  {
-    "company": "NVIDIA",
-    "title": "Senior Technical Training Lead - NCI Program",
-    "location": "US, CA, Santa Clara",
-    "employment_type": "full-time",
-    "category": "Other",
-    "salary": "Not disclosed",
-    "salary_min": null,
-    "keywords": [],
-    "sponsorship_evidence": "",
-    "h1b_status": "unknown",
-    "sponsorship_label": "Not specified",
-    "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Technical-Training-Lead---NCI-Program_JR2029864"
-  },
-  {
-    "company": "NVIDIA",
-    "title": "Automotive Technical Business Development Manager, Agentic AI and GSI Ecosystem",
-    "location": "US, CA, Santa Clara",
-    "employment_type": "full-time",
-    "category": "Sales & Marketing",
-    "salary": "Not disclosed",
-    "salary_min": null,
-    "keywords": [],
-    "sponsorship_evidence": "",
-    "h1b_status": "unknown",
-    "sponsorship_label": "Not specified",
-    "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Automotive-Technical-Business-Development-Manager--Agentic-AI-and-GSI-Ecosystem_JR2029826"
-  },
-  {
-    "company": "NVIDIA",
-    "title": "Senior Silicon Reliability Engineer",
-    "location": "US, CA, Santa Clara",
-    "employment_type": "full-time",
-    "category": "Other",
-    "salary": "Not disclosed",
-    "salary_min": null,
-    "keywords": [],
-    "sponsorship_evidence": "",
-    "h1b_status": "unknown",
-    "sponsorship_label": "Not specified",
-    "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Silicon-Reliability-Engineer_JR2027856-1"
-  },
-  {
-    "company": "NVIDIA",
-    "title": "Senior Foundry Development Engineer, Memory",
-    "location": "US, CA, Santa Clara",
-    "employment_type": "full-time",
-    "category": "Other",
-    "salary": "Not disclosed",
-    "salary_min": null,
-    "keywords": [],
-    "sponsorship_evidence": "",
-    "h1b_status": "unknown",
-    "sponsorship_label": "Not specified",
-    "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Foundry-Development-Engineer--Memory_JR2023611"
-  },
-  {
-    "company": "NVIDIA",
-    "title": "Product Development Engineer",
-    "location": "US, CA, Santa Clara",
-    "employment_type": "full-time",
-    "category": "Other",
-    "salary": "Not disclosed",
-    "salary_min": null,
-    "keywords": [
-      "machine learning",
-      "recruiting",
-      "compliance"
-    ],
-    "sponsorship_evidence": "",
-    "h1b_status": "unknown",
-    "sponsorship_label": "Not specified",
-    "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Product-Development-Engineer_JR2023943"
-  },
-  {
-    "company": "NVIDIA",
-    "title": "Senior Cybersecurity Risk Program Manager, Ops Supply Chain",
-    "location": "US, CA, Santa Clara",
-    "employment_type": "full-time",
-    "category": "Software & IT",
-    "salary": "Not disclosed",
-    "salary_min": null,
-    "keywords": [
-      "supply chain"
-    ],
-    "sponsorship_evidence": "",
-    "h1b_status": "unknown",
-    "sponsorship_label": "Not specified",
-    "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Cybersecurity-Risk-Program-Manager--Ops-Supply-Chain_JR2024195"
-  },
-  {
-    "company": "NVIDIA",
-    "title": "Manager, ATE Test Engineering",
-    "location": "US, CA, Santa Clara",
-    "employment_type": "full-time",
-    "category": "Other",
-    "salary": "Not disclosed",
-    "salary_min": null,
-    "keywords": [
-      "electrical engineering",
-      "recruiting"
-    ],
-    "sponsorship_evidence": "",
-    "h1b_status": "unknown",
-    "sponsorship_label": "Not specified",
-    "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Manager--ATE-Test-Engineering_JR2025681"
-  },
-  {
-    "company": "NVIDIA",
-    "title": "Senior PCB DFx Engineer",
-    "location": "US, SC, Remote",
-    "employment_type": "full-time",
-    "category": "Other",
-    "salary": "Not disclosed",
-    "salary_min": null,
-    "keywords": [
-      "CAD",
-      "SolidWorks",
-      "recruiting"
-    ],
-    "sponsorship_evidence": "",
-    "h1b_status": "unknown",
-    "sponsorship_label": "Not specified",
-    "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-SC-Remote/Senior-PCB-DFx-Engineer_JR2027199"
-  },
-  {
-    "company": "NVIDIA",
-    "title": "Senior Physical Failure Analysis Engineer",
-    "location": "US, CA, Santa Clara",
-    "employment_type": "full-time",
-    "category": "Other",
-    "salary": "Not disclosed",
-    "salary_min": null,
-    "keywords": [
-      "Excel",
-      "electrical engineering",
-      "recruiting"
-    ],
-    "sponsorship_evidence": "",
-    "h1b_status": "unknown",
-    "sponsorship_label": "Not specified",
-    "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Physical-Failure-Analysis-Engineer_JR2024261-1"
-  },
-  {
-    "company": "NVIDIA",
-    "title": "Senior AI Engineer",
-    "location": "US, CA, Santa Clara",
-    "employment_type": "full-time",
-    "category": "Data & AI",
-    "salary": "Not disclosed",
-    "salary_min": null,
-    "keywords": [
-      "Python",
-      "Java",
-      "SQL",
-      "React",
-      "Kubernetes",
-      "supply chain",
-      "CRM",
-      "recruiting"
-    ],
-    "sponsorship_evidence": "",
-    "h1b_status": "unknown",
-    "sponsorship_label": "Not specified",
-    "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-AI-Engineer_JR2025309"
-  },
-  {
-    "company": "NVIDIA",
-    "title": "Director, Services and Repair Network Strategy and Optimization",
-    "location": "US, CA, Santa Clara",
-    "employment_type": "full-time",
-    "category": "Other",
-    "salary": "Not disclosed",
-    "salary_min": null,
-    "keywords": [
-      "artificial intelligence",
-      "analytics",
-      "supply chain",
-      "logistics",
-      "recruiting",
-      "contracts"
-    ],
-    "sponsorship_evidence": "",
-    "h1b_status": "unknown",
-    "sponsorship_label": "Not specified",
-    "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Director--Services-and-Repair-Network-Strategy-and-Optimization_JR2030030"
-  },
-  {
-    "company": "NVIDIA",
-    "title": "Director, Service Operations Trade Compliance Operations",
-    "location": "US, CA, Santa Clara",
-    "employment_type": "full-time",
-    "category": "Operations & Supply Chain",
-    "salary": "Not disclosed",
-    "salary_min": null,
-    "keywords": [
-      "supply chain",
-      "logistics",
-      "recruiting",
-      "compliance",
-      "legal"
-    ],
-    "sponsorship_evidence": "",
-    "h1b_status": "unknown",
-    "sponsorship_label": "Not specified",
-    "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Director--Service-Operations-Trade-Compliance-Operations_JR2030027"
-  },
-  {
-    "company": "NVIDIA",
-    "title": "Lifecycle Operations Project Manager",
-    "location": "US, CA, Santa Clara",
-    "employment_type": "full-time",
-    "category": "Operations & Supply Chain",
-    "salary": "Not disclosed",
-    "salary_min": null,
-    "keywords": [
-      "analytics",
-      "supply chain",
-      "logistics",
-      "sales",
-      "recruiting"
-    ],
-    "sponsorship_evidence": "",
-    "h1b_status": "unknown",
-    "sponsorship_label": "Not specified",
-    "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Lifecycle-Operations-Project-Manager_JR2030346-1"
-  },
-  {
-    "company": "NVIDIA",
-    "title": "Executive Briefing Center Demo Presenter",
-    "location": "US, CA, Santa Clara",
-    "employment_type": "full-time",
-    "category": "Other",
-    "salary": "Not disclosed",
-    "salary_min": null,
-    "keywords": [],
-    "sponsorship_evidence": "",
-    "h1b_status": "unknown",
-    "sponsorship_label": "Not specified",
-    "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Executive-Briefing-Center-Demo-Presenter_JR2029825"
+    "url": "https://spgi.wd5.myworkdayjobs.com/en-US/SPGI_Careers/job/New-York-NY/Summer-Intern--Fixed-Income-Pricing_332613-2"
   },
   {
     "company": "Marathon Petroleum",
@@ -14403,622 +14129,41 @@
     "url": "https://mpc.wd1.myworkdayjobs.com/en-US/MPCCareers/job/Anacortes-Washington/Process-Engineer_00025325"
   },
   {
-    "company": "Humana",
-    "title": "Senior Counsel, CenterWell Senior Primary Care, Billing and Coding",
-    "location": "Work at Home - Washington DC",
-    "employment_type": "full-time",
-    "category": "People & Legal",
-    "salary": "Not disclosed",
-    "salary_min": null,
-    "keywords": [],
-    "sponsorship_evidence": "",
-    "h1b_status": "unknown",
-    "sponsorship_label": "Not specified",
-    "url": "https://humana.wd5.myworkdayjobs.com/en-US/Humana_External_Career_Site/job/Work-at-Home---Washington-DC/Senior-Counsel--CenterWell-Senior-Primary-Care--Billing-and-Coding_R-436417"
-  },
-  {
-    "company": "Humana",
-    "title": "Senior Software Engineer - NBA",
-    "location": "Nashville, TN",
-    "employment_type": "full-time",
-    "category": "Software & IT",
-    "salary": "$106.9k\u2013$147k/yr",
-    "salary_min": 106900.0,
-    "keywords": [
-      "Python",
-      "Java",
-      "compliance"
-    ],
-    "sponsorship_evidence": "",
-    "h1b_status": "unknown",
-    "sponsorship_label": "Not specified",
-    "url": "https://humana.wd5.myworkdayjobs.com/en-US/Humana_External_Career_Site/job/Nashville-TN/Senior-Software-Engineer---NBA_R-425861"
-  },
-  {
-    "company": "Humana",
-    "title": "Director, Network Optimization",
-    "location": "Metairie, LA",
-    "employment_type": "full-time",
-    "category": "Other",
-    "salary": "$138.9k\u2013$191k/yr",
-    "salary_min": 138900.0,
-    "keywords": [
-      "analytics",
-      "compliance",
-      "contracts"
-    ],
-    "sponsorship_evidence": "",
-    "h1b_status": "unknown",
-    "sponsorship_label": "Not specified",
-    "url": "https://humana.wd5.myworkdayjobs.com/en-US/Humana_External_Career_Site/job/Metairie-LA/Director--Network-Optimization_R-436675"
-  },
-  {
-    "company": "Humana",
-    "title": "Registered Nurse, Home Health",
-    "location": "Corpus Christi, TX",
-    "employment_type": "full-time",
-    "category": "Other",
-    "salary": "Not disclosed",
-    "salary_min": null,
-    "keywords": [],
-    "sponsorship_evidence": "",
-    "h1b_status": "unknown",
-    "sponsorship_label": "Not specified",
-    "url": "https://humana.wd5.myworkdayjobs.com/en-US/Humana_External_Career_Site/job/Corpus-Christi-TX/Registered-Nurse--Home-Health_R-438170"
-  },
-  {
-    "company": "Humana",
-    "title": "Corporate Strategy Lead",
-    "location": "Remote New York",
-    "employment_type": "full-time",
-    "category": "Other",
-    "salary": "Not disclosed",
-    "salary_min": null,
-    "keywords": [],
-    "sponsorship_evidence": "",
-    "h1b_status": "unknown",
-    "sponsorship_label": "Not specified",
-    "url": "https://humana.wd5.myworkdayjobs.com/en-US/Humana_External_Career_Site/job/Remote-New-York/Corporate-Strategy-Lead_R-426881"
-  },
-  {
-    "company": "Humana",
-    "title": "Associate Director, Technology Solutions",
-    "location": "Dallas, TX",
-    "employment_type": "full-time",
-    "category": "Other",
-    "salary": "Not disclosed",
-    "salary_min": null,
-    "keywords": [],
-    "sponsorship_evidence": "",
-    "h1b_status": "unknown",
-    "sponsorship_label": "Not specified",
-    "url": "https://humana.wd5.myworkdayjobs.com/en-US/Humana_External_Career_Site/job/Dallas-TX/Associate-Director--Technology-Solutions_R-437019"
-  },
-  {
-    "company": "3M",
-    "title": "Supervisor de Producci\u00f3n, Ensenada",
-    "location": "MX, Ensenada Baja Ca",
+    "company": "Marathon Petroleum",
+    "title": "Inspector",
+    "location": "Garyville, Louisiana",
     "employment_type": "full-time",
     "category": "Other",
     "salary": "Not disclosed",
     "salary_min": null,
     "keywords": [
-      "compliance"
-    ],
-    "sponsorship_evidence": "",
-    "h1b_status": "unknown",
-    "sponsorship_label": "Not specified",
-    "url": "https://3m.wd1.myworkdayjobs.com/en-US/Search/job/MX-Ensenada-Baja-Ca/Supervisor-de-Produccin--Ensenada_R01174152"
-  },
-  {
-    "company": "3M",
-    "title": "SAP EWM Functional Analyst",
-    "location": "IN, BANGALORE",
-    "employment_type": "full-time",
-    "category": "Other",
-    "salary": "Not disclosed",
-    "salary_min": null,
-    "keywords": [
-      "logistics",
-      "compliance"
-    ],
-    "sponsorship_evidence": "",
-    "h1b_status": "unknown",
-    "sponsorship_label": "Not specified",
-    "url": "https://3m.wd1.myworkdayjobs.com/en-US/Search/job/IN-BANGALORE/SAP-EWM-Functional-Analyst_R01174074-1"
-  },
-  {
-    "company": "3M",
-    "title": "Controls Systems Engineer",
-    "location": "US, Texas, Austin",
-    "employment_type": "full-time",
-    "category": "Software & IT",
-    "salary": "Not disclosed",
-    "salary_min": null,
-    "keywords": [],
-    "sponsorship_evidence": "",
-    "h1b_status": "unknown",
-    "sponsorship_label": "Not specified",
-    "url": "https://3m.wd1.myworkdayjobs.com/en-US/Search/job/US-Texas-Austin/Controls-Systems-Engineer_R01173934"
-  },
-  {
-    "company": "3M",
-    "title": "Lead Software Developer (AI - Full Stack Developer)",
-    "location": "IN, BANGALORE",
-    "employment_type": "full-time",
-    "category": "Software & IT",
-    "salary": "Not disclosed",
-    "salary_min": null,
-    "keywords": [],
-    "sponsorship_evidence": "",
-    "h1b_status": "unknown",
-    "sponsorship_label": "Not specified",
-    "url": "https://3m.wd1.myworkdayjobs.com/en-US/Search/job/IN-BANGALORE/Lead-Software-Developer--AI---Full-Stack-Developer-_R01173721"
-  },
-  {
-    "company": "3M",
-    "title": "Global Network & Telecom Services - Software Engineer",
-    "location": "IN, BANGALORE",
-    "employment_type": "full-time",
-    "category": "Software & IT",
-    "salary": "Not disclosed",
-    "salary_min": null,
-    "keywords": [],
-    "sponsorship_evidence": "",
-    "h1b_status": "unknown",
-    "sponsorship_label": "Not specified",
-    "url": "https://3m.wd1.myworkdayjobs.com/en-US/Search/job/IN-BANGALORE/Global-Network---Telecom-Services---Software-Engineer_R01172563"
-  },
-  {
-    "company": "3M",
-    "title": "EHS AI Specialist",
-    "location": "IN, BANGALORE",
-    "employment_type": "full-time",
-    "category": "Other",
-    "salary": "Not disclosed",
-    "salary_min": null,
-    "keywords": [],
-    "sponsorship_evidence": "",
-    "h1b_status": "unknown",
-    "sponsorship_label": "Not specified",
-    "url": "https://3m.wd1.myworkdayjobs.com/en-US/Search/job/IN-BANGALORE/EHS-AI-Specialist_R01173862-2"
-  },
-  {
-    "company": "3M",
-    "title": "EHS Data Analyst - Global",
-    "location": "IN, BANGALORE",
-    "employment_type": "full-time",
-    "category": "Data & AI",
-    "salary": "Not disclosed",
-    "salary_min": null,
-    "keywords": [],
-    "sponsorship_evidence": "",
-    "h1b_status": "unknown",
-    "sponsorship_label": "Not specified",
-    "url": "https://3m.wd1.myworkdayjobs.com/en-US/Search/job/IN-BANGALORE/EHS-Data-Analyst---Global_R01173870"
-  },
-  {
-    "company": "3M",
-    "title": "Internal Control Specialist",
-    "location": "IN, Bangalore Kar",
-    "employment_type": "full-time",
-    "category": "Other",
-    "salary": "Not disclosed",
-    "salary_min": null,
-    "keywords": [],
-    "sponsorship_evidence": "",
-    "h1b_status": "unknown",
-    "sponsorship_label": "Not specified",
-    "url": "https://3m.wd1.myworkdayjobs.com/en-US/Search/job/IN-Bangalore-Kar/Internal-Control-Specialist_R01173587-1"
-  },
-  {
-    "company": "3M",
-    "title": "Sr Dir, Enterprise AI Adoption & Transformation",
-    "location": "US, Minnesota, Maplewood",
-    "employment_type": "full-time",
-    "category": "Other",
-    "salary": "Not disclosed",
-    "salary_min": null,
-    "keywords": [
-      "AWS",
-      "machine learning",
-      "supply chain",
+      "Excel",
       "human resources",
-      "recruiting",
-      "compliance",
-      "legal"
-    ],
-    "sponsorship_evidence": "ance: Is Authorized Must be legally authorized to work in country of employment without sponsorship for employment visa status (e.",
-    "h1b_status": "does_not_support_h1b",
-    "sponsorship_label": "No sponsorship for this position",
-    "url": "https://3m.wd1.myworkdayjobs.com/en-US/Search/job/US-Minnesota-Maplewood/Sr-Dir--Enterprise-AI-Adoption---Transformation_R01171561"
-  },
-  {
-    "company": "3M",
-    "title": "Quality System \u2013 Senior Auditor",
-    "location": "IN, BANGALORE",
-    "employment_type": "full-time",
-    "category": "Finance & Accounting",
-    "salary": "Not disclosed",
-    "salary_min": null,
-    "keywords": [
-      "audit",
-      "recruiting",
-      "compliance"
-    ],
-    "sponsorship_evidence": "",
-    "h1b_status": "unknown",
-    "sponsorship_label": "Not specified",
-    "url": "https://3m.wd1.myworkdayjobs.com/en-US/Search/job/IN-BANGALORE/Quality-System---Senior-Auditor_R01172472"
-  },
-  {
-    "company": "3M",
-    "title": "Quality System \u2013 Training Administration",
-    "location": "IN, BANGALORE",
-    "employment_type": "full-time",
-    "category": "Other",
-    "salary": "Not disclosed",
-    "salary_min": null,
-    "keywords": [
-      "audit",
-      "recruiting",
-      "compliance"
-    ],
-    "sponsorship_evidence": "",
-    "h1b_status": "unknown",
-    "sponsorship_label": "Not specified",
-    "url": "https://3m.wd1.myworkdayjobs.com/en-US/Search/job/IN-BANGALORE/Quality-System---Training-Administration_R01172471"
-  },
-  {
-    "company": "3M",
-    "title": "Senior Product Quality Engineer - NPI Deliverables",
-    "location": "IN, BANGALORE",
-    "employment_type": "full-time",
-    "category": "Engineering",
-    "salary": "Not disclosed",
-    "salary_min": null,
-    "keywords": [
-      "recruiting",
-      "compliance"
-    ],
-    "sponsorship_evidence": "",
-    "h1b_status": "unknown",
-    "sponsorship_label": "Not specified",
-    "url": "https://3m.wd1.myworkdayjobs.com/en-US/Search/job/IN-BANGALORE/Senior-Product-Quality-Engineer---NPI-Deliverables_R01172469"
-  },
-  {
-    "company": "3M",
-    "title": "Sr Specialist Corporate Audit",
-    "location": "IN, BANGALORE",
-    "employment_type": "full-time",
-    "category": "Finance & Accounting",
-    "salary": "Not disclosed",
-    "salary_min": null,
-    "keywords": [
-      "Excel",
-      "accounting",
-      "audit",
-      "compliance"
-    ],
-    "sponsorship_evidence": "",
-    "h1b_status": "unknown",
-    "sponsorship_label": "Not specified",
-    "url": "https://3m.wd1.myworkdayjobs.com/en-US/Search/job/IN-BANGALORE/Sr-Specialist-Corporate-Audit_R01174239-1"
-  },
-  {
-    "company": "3M",
-    "title": "SQE - 3PM SCAR Management",
-    "location": "IN, BANGALORE",
-    "employment_type": "full-time",
-    "category": "Other",
-    "salary": "Not disclosed",
-    "salary_min": null,
-    "keywords": [
-      "supply chain",
-      "recruiting",
-      "compliance"
-    ],
-    "sponsorship_evidence": "",
-    "h1b_status": "unknown",
-    "sponsorship_label": "Not specified",
-    "url": "https://3m.wd1.myworkdayjobs.com/en-US/Search/job/IN-BANGALORE/SQE---3PM-SCAR-Management_R01172463"
-  },
-  {
-    "company": "3M",
-    "title": "SQE - Supplier SCAR Management",
-    "location": "IN, BANGALORE",
-    "employment_type": "full-time",
-    "category": "Other",
-    "salary": "Not disclosed",
-    "salary_min": null,
-    "keywords": [
-      "supply chain",
-      "recruiting",
-      "compliance"
-    ],
-    "sponsorship_evidence": "",
-    "h1b_status": "unknown",
-    "sponsorship_label": "Not specified",
-    "url": "https://3m.wd1.myworkdayjobs.com/en-US/Search/job/IN-BANGALORE/SQE---Supplier-SCAR-Management_R01172462"
-  },
-  {
-    "company": "3M",
-    "title": "SQE - Customer and Supplier PPAP",
-    "location": "IN, BANGALORE",
-    "employment_type": "full-time",
-    "category": "Other",
-    "salary": "Not disclosed",
-    "salary_min": null,
-    "keywords": [
-      "recruiting",
-      "compliance"
-    ],
-    "sponsorship_evidence": "",
-    "h1b_status": "unknown",
-    "sponsorship_label": "Not specified",
-    "url": "https://3m.wd1.myworkdayjobs.com/en-US/Search/job/IN-BANGALORE/SQE---Customer-and-Supplier-PPAP_R01172460"
-  },
-  {
-    "company": "3M",
-    "title": "Data Analyst and Auditor Support \u2013 Environment Health and Safety",
-    "location": "IN, BANGALORE",
-    "employment_type": "full-time",
-    "category": "Data & AI",
-    "salary": "Not disclosed",
-    "salary_min": null,
-    "keywords": [
-      "analytics",
-      "Excel",
-      "audit",
-      "compliance"
-    ],
-    "sponsorship_evidence": "",
-    "h1b_status": "unknown",
-    "sponsorship_label": "Not specified",
-    "url": "https://3m.wd1.myworkdayjobs.com/en-US/Search/job/IN-BANGALORE/Data-Analyst-and-Auditor-Support---Environment-Health-and-Safety_R01173875"
-  },
-  {
-    "company": "3M",
-    "title": "USAC Procurement Sr Specialist, Filling & Chemical Services",
-    "location": "US, Minnesota, Maplewood",
-    "employment_type": "full-time",
-    "category": "Engineering",
-    "salary": "Not disclosed",
-    "salary_min": null,
-    "keywords": [
-      "analytics",
-      "mechanical engineering",
-      "supply chain",
-      "procurement",
-      "recruiting",
       "compliance",
       "contracts"
     ],
-    "sponsorship_evidence": ": May be authorized Must be legally authorized to work in country of employment without sponsorship for employment visa status (e.",
-    "h1b_status": "does_not_support_h1b",
-    "sponsorship_label": "No sponsorship for this position",
-    "url": "https://3m.wd1.myworkdayjobs.com/en-US/Search/job/US-Minnesota-Maplewood/USAC-Procurement-Sr-Specialist--Filling---Chemical-Services_R01169208"
-  },
-  {
-    "company": "3M",
-    "title": "Global Quality Assurance Engineer (Maplewood, MN)",
-    "location": "US, Minnesota, Maplewood",
-    "employment_type": "full-time",
-    "category": "Other",
-    "salary": "Not disclosed",
-    "salary_min": null,
-    "keywords": [
-      "recruiting",
-      "compliance",
-      "contracts"
-    ],
-    "sponsorship_evidence": ": May be authorized Must be legally authorized to work in country of employment without sponsorship for employment visa status (e.",
-    "h1b_status": "does_not_support_h1b",
-    "sponsorship_label": "No sponsorship for this position",
-    "url": "https://3m.wd1.myworkdayjobs.com/en-US/Search/job/US-Minnesota-Maplewood/Global-Quality-Assurance-Engineer--Maplewood--MN-_R01173985"
-  },
-  {
-    "company": "3M",
-    "title": "Product Development Electrical Engineer (R&D) \u2013 Electrical Markets (m/w/*)",
-    "location": "DE, Neuss",
-    "employment_type": "full-time",
-    "category": "Engineering",
-    "salary": "Not disclosed",
-    "salary_min": null,
-    "keywords": [
-      "compliance"
-    ],
     "sponsorship_evidence": "",
     "h1b_status": "unknown",
     "sponsorship_label": "Not specified",
-    "url": "https://3m.wd1.myworkdayjobs.com/en-US/Search/job/DE-Neuss/Product-Development-Electrical-Engineer--R-D----Electrical-Markets--m-w---_R01172991-2"
+    "url": "https://mpc.wd1.myworkdayjobs.com/en-US/MPCCareers/job/Garyville-Louisiana/Inspector_00025247"
   },
   {
-    "company": "3M",
-    "title": "Activation Marketer- Commercial Branding",
-    "location": "IN, Bangalore Kar",
+    "company": "Marathon Petroleum",
+    "title": "Senior Fundamental Trading Analyst (Renewables)",
+    "location": "Findlay, Ohio",
     "employment_type": "full-time",
     "category": "Other",
     "salary": "Not disclosed",
     "salary_min": null,
     "keywords": [
       "analytics",
-      "sales",
-      "CRM",
-      "compliance"
+      "logistics",
+      "human resources"
     ],
     "sponsorship_evidence": "",
     "h1b_status": "unknown",
     "sponsorship_label": "Not specified",
-    "url": "https://3m.wd1.myworkdayjobs.com/en-US/Search/job/IN-Bangalore-Kar/Activation-Marketer--Commercial-Branding_R01174075"
-  },
-  {
-    "company": "3M",
-    "title": "SAP BTP Developer",
-    "location": "IN, BANGALORE",
-    "employment_type": "full-time",
-    "category": "Software & IT",
-    "salary": "Not disclosed",
-    "salary_min": null,
-    "keywords": [
-      "compliance"
-    ],
-    "sponsorship_evidence": "",
-    "h1b_status": "unknown",
-    "sponsorship_label": "Not specified",
-    "url": "https://3m.wd1.myworkdayjobs.com/en-US/Search/job/IN-BANGALORE/SAP-BTP-Developer_R01173897-1"
-  },
-  {
-    "company": "3M",
-    "title": "Area Sales Manager - Personal Safety Division | Mumbai",
-    "location": "IN, Maharashtra, Mumbai",
-    "employment_type": "full-time",
-    "category": "Sales & Marketing",
-    "salary": "Not disclosed",
-    "salary_min": null,
-    "keywords": [
-      "supply chain",
-      "sales",
-      "CRM",
-      "compliance"
-    ],
-    "sponsorship_evidence": "",
-    "h1b_status": "unknown",
-    "sponsorship_label": "Not specified",
-    "url": "https://3m.wd1.myworkdayjobs.com/en-US/Search/job/IN-Maharashtra-Mumbai/Area-Sales-Manager---Personal-Safety-Division---Mumbai_R01173804"
-  },
-  {
-    "company": "3M",
-    "title": "Senior Product Development Engineer",
-    "location": "US, Minnesota, Maplewood",
-    "employment_type": "full-time",
-    "category": "Other",
-    "salary": "Not disclosed",
-    "salary_min": null,
-    "keywords": [
-      "procurement",
-      "recruiting",
-      "compliance"
-    ],
-    "sponsorship_evidence": ": May be authorized Must be legally authorized to work in country of employment without sponsorship for employment visa status (e.",
-    "h1b_status": "does_not_support_h1b",
-    "sponsorship_label": "No sponsorship for this position",
-    "url": "https://3m.wd1.myworkdayjobs.com/en-US/Search/job/US-Minnesota-Maplewood/Senior-Product-Development-Engineer_R01173498"
-  },
-  {
-    "company": "3M",
-    "title": "Solutions Architect-Physical Networking",
-    "location": "Remote - California",
-    "employment_type": "full-time",
-    "category": "Other",
-    "salary": "Not disclosed",
-    "salary_min": null,
-    "keywords": [
-      "electrical engineering",
-      "sales",
-      "recruiting",
-      "compliance"
-    ],
-    "sponsorship_evidence": ": May be authorized Must be legally authorized to work in country of employment without sponsorship for employment visa status (e.",
-    "h1b_status": "does_not_support_h1b",
-    "sponsorship_label": "No sponsorship for this position",
-    "url": "https://3m.wd1.myworkdayjobs.com/en-US/Search/job/Remote---California/Solutions-Architect_R01170327"
-  },
-  {
-    "company": "3M",
-    "title": "Plant Manager (Angleton, TX)",
-    "location": "US, Texas, Angleton",
-    "employment_type": "full-time",
-    "category": "Other",
-    "salary": "Not disclosed",
-    "salary_min": null,
-    "keywords": [
-      "accounting",
-      "supply chain",
-      "recruiting",
-      "compliance",
-      "contracts"
-    ],
-    "sponsorship_evidence": ": May be authorized Must be legally authorized to work in country of employment without sponsorship for employment visa status (e.",
-    "h1b_status": "does_not_support_h1b",
-    "sponsorship_label": "No sponsorship for this position",
-    "url": "https://3m.wd1.myworkdayjobs.com/en-US/Search/job/US-Texas-Angleton/Plant-Manager--Angleton--TX-_R01173772"
-  },
-  {
-    "company": "3M",
-    "title": "Continuous Improvement and Plant Execution System Administrator",
-    "location": "IN, BANGALORE",
-    "employment_type": "full-time",
-    "category": "Other",
-    "salary": "Not disclosed",
-    "salary_min": null,
-    "keywords": [],
-    "sponsorship_evidence": "",
-    "h1b_status": "unknown",
-    "sponsorship_label": "Not specified",
-    "url": "https://3m.wd1.myworkdayjobs.com/en-US/Search/job/IN-BANGALORE/Continuous-Improvement-and-Plant-Execution-System-Administrator_R01171367"
-  },
-  {
-    "company": "3M",
-    "title": "Senior Software Developer (AI - Full Stack Developer)",
-    "location": "IN, BANGALORE",
-    "employment_type": "full-time",
-    "category": "Software & IT",
-    "salary": "Not disclosed",
-    "salary_min": null,
-    "keywords": [],
-    "sponsorship_evidence": "",
-    "h1b_status": "unknown",
-    "sponsorship_label": "Not specified",
-    "url": "https://3m.wd1.myworkdayjobs.com/en-US/Search/job/IN-BANGALORE/Senior-Software-Developer--AI---Full-Stack-Developer-_R01173345"
-  },
-  {
-    "company": "3M",
-    "title": "Global Audit Supervisor",
-    "location": "IN, BANGALORE",
-    "employment_type": "full-time",
-    "category": "Finance & Accounting",
-    "salary": "Not disclosed",
-    "salary_min": null,
-    "keywords": [
-      "audit"
-    ],
-    "sponsorship_evidence": "",
-    "h1b_status": "unknown",
-    "sponsorship_label": "Not specified",
-    "url": "https://3m.wd1.myworkdayjobs.com/en-US/Search/job/IN-BANGALORE/Global-Audit-Supervisor_R01173583-1"
-  },
-  {
-    "company": "3M",
-    "title": "Enterprise Supply Chain GCC Leader",
-    "location": "IN, BANGALORE",
-    "employment_type": "full-time",
-    "category": "Operations & Supply Chain",
-    "salary": "Not disclosed",
-    "salary_min": null,
-    "keywords": [
-      "supply chain"
-    ],
-    "sponsorship_evidence": "",
-    "h1b_status": "unknown",
-    "sponsorship_label": "Not specified",
-    "url": "https://3m.wd1.myworkdayjobs.com/en-US/Search/job/IN-BANGALORE/Enterprise-Supply-Chain-GCC-Leader_R01172280-1"
-  },
-  {
-    "company": "3M",
-    "title": "HR Technology Workday Analyst - Recruiting",
-    "location": "IN, BANGALORE",
-    "employment_type": "full-time",
-    "category": "People & Legal",
-    "salary": "Not disclosed",
-    "salary_min": null,
-    "keywords": [
-      "recruiting"
-    ],
-    "sponsorship_evidence": "",
-    "h1b_status": "unknown",
-    "sponsorship_label": "Not specified",
-    "url": "https://3m.wd1.myworkdayjobs.com/en-US/Search/job/IN-BANGALORE/HR-Technology-Workday-Analyst---Recruiting_R01173661-2"
+    "url": "https://mpc.wd1.myworkdayjobs.com/en-US/MPCCareers/job/Findlay-Ohio/Senior-Fundamental-Trading-Analyst--Renewables-_00025314"
   },
   {
     "company": "Carvana",
@@ -42170,6 +41315,1045 @@
     "url": "https://oscarhealth.com/careers/jobs?gh_jid=8303349"
   },
   {
+    "company": "NVIDIA",
+    "title": "Product Marketing Intern, DGX Products - Summer 2027",
+    "location": "US, CA, Santa Clara",
+    "employment_type": "internship",
+    "category": "Sales & Marketing",
+    "salary": "Not disclosed",
+    "salary_min": null,
+    "keywords": [],
+    "sponsorship_evidence": "",
+    "h1b_status": "unknown",
+    "sponsorship_label": "Not specified",
+    "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Product-Marketing-Intern--DGX-Products---Summer-2027_JR2029456-1"
+  },
+  {
+    "company": "NVIDIA",
+    "title": "Accounting AI Solution Engineer Intern - Summer 2027",
+    "location": "US, CA, Santa Clara",
+    "employment_type": "internship",
+    "category": "Finance & Accounting",
+    "salary": "Not disclosed",
+    "salary_min": null,
+    "keywords": [
+      "accounting"
+    ],
+    "sponsorship_evidence": "",
+    "h1b_status": "unknown",
+    "sponsorship_label": "Not specified",
+    "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Accounting-AI-Solution-Engineer-Intern---Summer-2027_JR2029155-1"
+  },
+  {
+    "company": "NVIDIA",
+    "title": "Senior Software Engineer, DSX OS Control Plane",
+    "location": "US, CA, Santa Clara",
+    "employment_type": "full-time",
+    "category": "Software & IT",
+    "salary": "Not disclosed",
+    "salary_min": null,
+    "keywords": [
+      "Kubernetes",
+      "recruiting"
+    ],
+    "sponsorship_evidence": "",
+    "h1b_status": "unknown",
+    "sponsorship_label": "Not specified",
+    "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Software-Engineer--DSX-OS-Control-Plane_JR2028497"
+  },
+  {
+    "company": "NVIDIA",
+    "title": "Product Quality Engineer",
+    "location": "US, CA, Santa Clara",
+    "employment_type": "full-time",
+    "category": "Engineering",
+    "salary": "Not disclosed",
+    "salary_min": null,
+    "keywords": [],
+    "sponsorship_evidence": "",
+    "h1b_status": "unknown",
+    "sponsorship_label": "Not specified",
+    "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Product-Quality-Engineer_JR2026870"
+  },
+  {
+    "company": "NVIDIA",
+    "title": "Service Operations Director of Fulfillment",
+    "location": "US, CA, Santa Clara",
+    "employment_type": "full-time",
+    "category": "Operations & Supply Chain",
+    "salary": "Not disclosed",
+    "salary_min": null,
+    "keywords": [
+      "analytics",
+      "supply chain",
+      "logistics",
+      "recruiting"
+    ],
+    "sponsorship_evidence": "",
+    "h1b_status": "unknown",
+    "sponsorship_label": "Not specified",
+    "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Service-Operations-Director-of-Fulfillment_JR2030026"
+  },
+  {
+    "company": "NVIDIA",
+    "title": "Senior System Test Engineer",
+    "location": "US, CA, Santa Clara",
+    "employment_type": "full-time",
+    "category": "Other",
+    "salary": "Not disclosed",
+    "salary_min": null,
+    "keywords": [
+      "Python",
+      "recruiting",
+      "contracts"
+    ],
+    "sponsorship_evidence": "",
+    "h1b_status": "unknown",
+    "sponsorship_label": "Not specified",
+    "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-System-Test-Engineer_JR2029344"
+  },
+  {
+    "company": "NVIDIA",
+    "title": "Technical Marketing Engineering Intern, Digital Biology and Scientific Computing - Summer 2027",
+    "location": "US, CA, Santa Clara",
+    "employment_type": "internship",
+    "category": "Sales & Marketing",
+    "salary": "Not disclosed",
+    "salary_min": null,
+    "keywords": [],
+    "sponsorship_evidence": "",
+    "h1b_status": "unknown",
+    "sponsorship_label": "Not specified",
+    "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Technical-Marketing-Engineering-Intern--Digital-Biology-and-Scientific-Computing---Summer-2027_JR2029793"
+  },
+  {
+    "company": "NVIDIA",
+    "title": "Senior Board Product Development Engineer",
+    "location": "US, CA, Santa Clara",
+    "employment_type": "full-time",
+    "category": "Other",
+    "salary": "Not disclosed",
+    "salary_min": null,
+    "keywords": [],
+    "sponsorship_evidence": "",
+    "h1b_status": "unknown",
+    "sponsorship_label": "Not specified",
+    "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Board-Product-Development-Engineer_JR2027639"
+  },
+  {
+    "company": "NVIDIA",
+    "title": "Senior Manager, Travel Operation",
+    "location": "US, CA, Santa Clara",
+    "employment_type": "full-time",
+    "category": "Other",
+    "salary": "Not disclosed",
+    "salary_min": null,
+    "keywords": [
+      "artificial intelligence",
+      "analytics",
+      "logistics",
+      "procurement",
+      "recruiting",
+      "compliance"
+    ],
+    "sponsorship_evidence": "",
+    "h1b_status": "unknown",
+    "sponsorship_label": "Not specified",
+    "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Manager--Travel-Operation_JR2030441"
+  },
+  {
+    "company": "NVIDIA",
+    "title": "Senior Materials Engineer",
+    "location": "US, CA, Santa Clara",
+    "employment_type": "full-time",
+    "category": "Other",
+    "salary": "Not disclosed",
+    "salary_min": null,
+    "keywords": [
+      "supply chain",
+      "recruiting"
+    ],
+    "sponsorship_evidence": "",
+    "h1b_status": "unknown",
+    "sponsorship_label": "Not specified",
+    "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Materials-Engineer_JR2029877"
+  },
+  {
+    "company": "NVIDIA",
+    "title": "Thermal Design Engineer",
+    "location": "US, CA, Santa Clara",
+    "employment_type": "full-time",
+    "category": "Other",
+    "salary": "Not disclosed",
+    "salary_min": null,
+    "keywords": [
+      "recruiting"
+    ],
+    "sponsorship_evidence": "",
+    "h1b_status": "unknown",
+    "sponsorship_label": "Not specified",
+    "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Thermal-Design-Engineer_JR2029574"
+  },
+  {
+    "company": "NVIDIA",
+    "title": "Senior Technical Training Lead - NCI Program",
+    "location": "US, CA, Santa Clara",
+    "employment_type": "full-time",
+    "category": "Other",
+    "salary": "Not disclosed",
+    "salary_min": null,
+    "keywords": [],
+    "sponsorship_evidence": "",
+    "h1b_status": "unknown",
+    "sponsorship_label": "Not specified",
+    "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Technical-Training-Lead---NCI-Program_JR2029864"
+  },
+  {
+    "company": "NVIDIA",
+    "title": "Automotive Technical Business Development Manager, Agentic AI and GSI Ecosystem",
+    "location": "US, CA, Santa Clara",
+    "employment_type": "full-time",
+    "category": "Sales & Marketing",
+    "salary": "Not disclosed",
+    "salary_min": null,
+    "keywords": [],
+    "sponsorship_evidence": "",
+    "h1b_status": "unknown",
+    "sponsorship_label": "Not specified",
+    "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Automotive-Technical-Business-Development-Manager--Agentic-AI-and-GSI-Ecosystem_JR2029826"
+  },
+  {
+    "company": "NVIDIA",
+    "title": "Senior Silicon Reliability Engineer",
+    "location": "US, CA, Santa Clara",
+    "employment_type": "full-time",
+    "category": "Other",
+    "salary": "Not disclosed",
+    "salary_min": null,
+    "keywords": [],
+    "sponsorship_evidence": "",
+    "h1b_status": "unknown",
+    "sponsorship_label": "Not specified",
+    "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Silicon-Reliability-Engineer_JR2027856-1"
+  },
+  {
+    "company": "NVIDIA",
+    "title": "Senior Foundry Development Engineer, Memory",
+    "location": "US, CA, Santa Clara",
+    "employment_type": "full-time",
+    "category": "Other",
+    "salary": "Not disclosed",
+    "salary_min": null,
+    "keywords": [],
+    "sponsorship_evidence": "",
+    "h1b_status": "unknown",
+    "sponsorship_label": "Not specified",
+    "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Foundry-Development-Engineer--Memory_JR2023611"
+  },
+  {
+    "company": "NVIDIA",
+    "title": "Product Development Engineer",
+    "location": "US, CA, Santa Clara",
+    "employment_type": "full-time",
+    "category": "Other",
+    "salary": "Not disclosed",
+    "salary_min": null,
+    "keywords": [
+      "machine learning",
+      "recruiting",
+      "compliance"
+    ],
+    "sponsorship_evidence": "",
+    "h1b_status": "unknown",
+    "sponsorship_label": "Not specified",
+    "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Product-Development-Engineer_JR2023943"
+  },
+  {
+    "company": "NVIDIA",
+    "title": "Senior Cybersecurity Risk Program Manager, Ops Supply Chain",
+    "location": "US, CA, Santa Clara",
+    "employment_type": "full-time",
+    "category": "Software & IT",
+    "salary": "Not disclosed",
+    "salary_min": null,
+    "keywords": [
+      "supply chain"
+    ],
+    "sponsorship_evidence": "",
+    "h1b_status": "unknown",
+    "sponsorship_label": "Not specified",
+    "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Cybersecurity-Risk-Program-Manager--Ops-Supply-Chain_JR2024195"
+  },
+  {
+    "company": "NVIDIA",
+    "title": "Manager, ATE Test Engineering",
+    "location": "US, CA, Santa Clara",
+    "employment_type": "full-time",
+    "category": "Other",
+    "salary": "Not disclosed",
+    "salary_min": null,
+    "keywords": [
+      "electrical engineering",
+      "recruiting"
+    ],
+    "sponsorship_evidence": "",
+    "h1b_status": "unknown",
+    "sponsorship_label": "Not specified",
+    "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Manager--ATE-Test-Engineering_JR2025681"
+  },
+  {
+    "company": "NVIDIA",
+    "title": "Senior PCB DFx Engineer",
+    "location": "US, SC, Remote",
+    "employment_type": "full-time",
+    "category": "Other",
+    "salary": "Not disclosed",
+    "salary_min": null,
+    "keywords": [
+      "CAD",
+      "SolidWorks",
+      "recruiting"
+    ],
+    "sponsorship_evidence": "",
+    "h1b_status": "unknown",
+    "sponsorship_label": "Not specified",
+    "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-SC-Remote/Senior-PCB-DFx-Engineer_JR2027199"
+  },
+  {
+    "company": "NVIDIA",
+    "title": "Senior Physical Failure Analysis Engineer",
+    "location": "US, CA, Santa Clara",
+    "employment_type": "full-time",
+    "category": "Other",
+    "salary": "Not disclosed",
+    "salary_min": null,
+    "keywords": [
+      "Excel",
+      "electrical engineering",
+      "recruiting"
+    ],
+    "sponsorship_evidence": "",
+    "h1b_status": "unknown",
+    "sponsorship_label": "Not specified",
+    "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Physical-Failure-Analysis-Engineer_JR2024261-1"
+  },
+  {
+    "company": "NVIDIA",
+    "title": "Senior AI Engineer",
+    "location": "US, CA, Santa Clara",
+    "employment_type": "full-time",
+    "category": "Data & AI",
+    "salary": "Not disclosed",
+    "salary_min": null,
+    "keywords": [
+      "Python",
+      "Java",
+      "SQL",
+      "React",
+      "Kubernetes",
+      "supply chain",
+      "CRM",
+      "recruiting"
+    ],
+    "sponsorship_evidence": "",
+    "h1b_status": "unknown",
+    "sponsorship_label": "Not specified",
+    "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-AI-Engineer_JR2025309"
+  },
+  {
+    "company": "NVIDIA",
+    "title": "Director, Services and Repair Network Strategy and Optimization",
+    "location": "US, CA, Santa Clara",
+    "employment_type": "full-time",
+    "category": "Other",
+    "salary": "Not disclosed",
+    "salary_min": null,
+    "keywords": [
+      "artificial intelligence",
+      "analytics",
+      "supply chain",
+      "logistics",
+      "recruiting",
+      "contracts"
+    ],
+    "sponsorship_evidence": "",
+    "h1b_status": "unknown",
+    "sponsorship_label": "Not specified",
+    "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Director--Services-and-Repair-Network-Strategy-and-Optimization_JR2030030"
+  },
+  {
+    "company": "NVIDIA",
+    "title": "Director, Service Operations Trade Compliance Operations",
+    "location": "US, CA, Santa Clara",
+    "employment_type": "full-time",
+    "category": "Operations & Supply Chain",
+    "salary": "Not disclosed",
+    "salary_min": null,
+    "keywords": [
+      "supply chain",
+      "logistics",
+      "recruiting",
+      "compliance",
+      "legal"
+    ],
+    "sponsorship_evidence": "",
+    "h1b_status": "unknown",
+    "sponsorship_label": "Not specified",
+    "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Director--Service-Operations-Trade-Compliance-Operations_JR2030027"
+  },
+  {
+    "company": "NVIDIA",
+    "title": "Lifecycle Operations Project Manager",
+    "location": "US, CA, Santa Clara",
+    "employment_type": "full-time",
+    "category": "Operations & Supply Chain",
+    "salary": "Not disclosed",
+    "salary_min": null,
+    "keywords": [
+      "analytics",
+      "supply chain",
+      "logistics",
+      "sales",
+      "recruiting"
+    ],
+    "sponsorship_evidence": "",
+    "h1b_status": "unknown",
+    "sponsorship_label": "Not specified",
+    "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Lifecycle-Operations-Project-Manager_JR2030346-1"
+  },
+  {
+    "company": "NVIDIA",
+    "title": "Executive Briefing Center Demo Presenter",
+    "location": "US, CA, Santa Clara",
+    "employment_type": "full-time",
+    "category": "Other",
+    "salary": "Not disclosed",
+    "salary_min": null,
+    "keywords": [],
+    "sponsorship_evidence": "",
+    "h1b_status": "unknown",
+    "sponsorship_label": "Not specified",
+    "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Executive-Briefing-Center-Demo-Presenter_JR2029825"
+  },
+  {
+    "company": "Humana",
+    "title": "Senior Counsel, CenterWell Senior Primary Care, Billing and Coding",
+    "location": "Work at Home - Washington DC",
+    "employment_type": "full-time",
+    "category": "People & Legal",
+    "salary": "Not disclosed",
+    "salary_min": null,
+    "keywords": [],
+    "sponsorship_evidence": "",
+    "h1b_status": "unknown",
+    "sponsorship_label": "Not specified",
+    "url": "https://humana.wd5.myworkdayjobs.com/en-US/Humana_External_Career_Site/job/Work-at-Home---Washington-DC/Senior-Counsel--CenterWell-Senior-Primary-Care--Billing-and-Coding_R-436417"
+  },
+  {
+    "company": "Humana",
+    "title": "Senior Software Engineer - NBA",
+    "location": "Nashville, TN",
+    "employment_type": "full-time",
+    "category": "Software & IT",
+    "salary": "$106.9k\u2013$147k/yr",
+    "salary_min": 106900.0,
+    "keywords": [
+      "Python",
+      "Java",
+      "compliance"
+    ],
+    "sponsorship_evidence": "",
+    "h1b_status": "unknown",
+    "sponsorship_label": "Not specified",
+    "url": "https://humana.wd5.myworkdayjobs.com/en-US/Humana_External_Career_Site/job/Nashville-TN/Senior-Software-Engineer---NBA_R-425861"
+  },
+  {
+    "company": "Humana",
+    "title": "Director, Network Optimization",
+    "location": "Metairie, LA",
+    "employment_type": "full-time",
+    "category": "Other",
+    "salary": "$138.9k\u2013$191k/yr",
+    "salary_min": 138900.0,
+    "keywords": [
+      "analytics",
+      "compliance",
+      "contracts"
+    ],
+    "sponsorship_evidence": "",
+    "h1b_status": "unknown",
+    "sponsorship_label": "Not specified",
+    "url": "https://humana.wd5.myworkdayjobs.com/en-US/Humana_External_Career_Site/job/Metairie-LA/Director--Network-Optimization_R-436675"
+  },
+  {
+    "company": "Humana",
+    "title": "Registered Nurse, Home Health",
+    "location": "Corpus Christi, TX",
+    "employment_type": "full-time",
+    "category": "Other",
+    "salary": "Not disclosed",
+    "salary_min": null,
+    "keywords": [],
+    "sponsorship_evidence": "",
+    "h1b_status": "unknown",
+    "sponsorship_label": "Not specified",
+    "url": "https://humana.wd5.myworkdayjobs.com/en-US/Humana_External_Career_Site/job/Corpus-Christi-TX/Registered-Nurse--Home-Health_R-438170"
+  },
+  {
+    "company": "Humana",
+    "title": "Corporate Strategy Lead",
+    "location": "Remote New York",
+    "employment_type": "full-time",
+    "category": "Other",
+    "salary": "Not disclosed",
+    "salary_min": null,
+    "keywords": [],
+    "sponsorship_evidence": "",
+    "h1b_status": "unknown",
+    "sponsorship_label": "Not specified",
+    "url": "https://humana.wd5.myworkdayjobs.com/en-US/Humana_External_Career_Site/job/Remote-New-York/Corporate-Strategy-Lead_R-426881"
+  },
+  {
+    "company": "Humana",
+    "title": "Associate Director, Technology Solutions",
+    "location": "Dallas, TX",
+    "employment_type": "full-time",
+    "category": "Other",
+    "salary": "Not disclosed",
+    "salary_min": null,
+    "keywords": [],
+    "sponsorship_evidence": "",
+    "h1b_status": "unknown",
+    "sponsorship_label": "Not specified",
+    "url": "https://humana.wd5.myworkdayjobs.com/en-US/Humana_External_Career_Site/job/Dallas-TX/Associate-Director--Technology-Solutions_R-437019"
+  },
+  {
+    "company": "3M",
+    "title": "Supervisor de Producci\u00f3n, Ensenada",
+    "location": "MX, Ensenada Baja Ca",
+    "employment_type": "full-time",
+    "category": "Other",
+    "salary": "Not disclosed",
+    "salary_min": null,
+    "keywords": [
+      "compliance"
+    ],
+    "sponsorship_evidence": "",
+    "h1b_status": "unknown",
+    "sponsorship_label": "Not specified",
+    "url": "https://3m.wd1.myworkdayjobs.com/en-US/Search/job/MX-Ensenada-Baja-Ca/Supervisor-de-Produccin--Ensenada_R01174152"
+  },
+  {
+    "company": "3M",
+    "title": "SAP EWM Functional Analyst",
+    "location": "IN, BANGALORE",
+    "employment_type": "full-time",
+    "category": "Other",
+    "salary": "Not disclosed",
+    "salary_min": null,
+    "keywords": [
+      "logistics",
+      "compliance"
+    ],
+    "sponsorship_evidence": "",
+    "h1b_status": "unknown",
+    "sponsorship_label": "Not specified",
+    "url": "https://3m.wd1.myworkdayjobs.com/en-US/Search/job/IN-BANGALORE/SAP-EWM-Functional-Analyst_R01174074-1"
+  },
+  {
+    "company": "3M",
+    "title": "Controls Systems Engineer",
+    "location": "US, Texas, Austin",
+    "employment_type": "full-time",
+    "category": "Software & IT",
+    "salary": "Not disclosed",
+    "salary_min": null,
+    "keywords": [],
+    "sponsorship_evidence": "",
+    "h1b_status": "unknown",
+    "sponsorship_label": "Not specified",
+    "url": "https://3m.wd1.myworkdayjobs.com/en-US/Search/job/US-Texas-Austin/Controls-Systems-Engineer_R01173934"
+  },
+  {
+    "company": "3M",
+    "title": "Lead Software Developer (AI - Full Stack Developer)",
+    "location": "IN, BANGALORE",
+    "employment_type": "full-time",
+    "category": "Software & IT",
+    "salary": "Not disclosed",
+    "salary_min": null,
+    "keywords": [],
+    "sponsorship_evidence": "",
+    "h1b_status": "unknown",
+    "sponsorship_label": "Not specified",
+    "url": "https://3m.wd1.myworkdayjobs.com/en-US/Search/job/IN-BANGALORE/Lead-Software-Developer--AI---Full-Stack-Developer-_R01173721"
+  },
+  {
+    "company": "3M",
+    "title": "Global Network & Telecom Services - Software Engineer",
+    "location": "IN, BANGALORE",
+    "employment_type": "full-time",
+    "category": "Software & IT",
+    "salary": "Not disclosed",
+    "salary_min": null,
+    "keywords": [],
+    "sponsorship_evidence": "",
+    "h1b_status": "unknown",
+    "sponsorship_label": "Not specified",
+    "url": "https://3m.wd1.myworkdayjobs.com/en-US/Search/job/IN-BANGALORE/Global-Network---Telecom-Services---Software-Engineer_R01172563"
+  },
+  {
+    "company": "3M",
+    "title": "EHS AI Specialist",
+    "location": "IN, BANGALORE",
+    "employment_type": "full-time",
+    "category": "Other",
+    "salary": "Not disclosed",
+    "salary_min": null,
+    "keywords": [],
+    "sponsorship_evidence": "",
+    "h1b_status": "unknown",
+    "sponsorship_label": "Not specified",
+    "url": "https://3m.wd1.myworkdayjobs.com/en-US/Search/job/IN-BANGALORE/EHS-AI-Specialist_R01173862-2"
+  },
+  {
+    "company": "3M",
+    "title": "EHS Data Analyst - Global",
+    "location": "IN, BANGALORE",
+    "employment_type": "full-time",
+    "category": "Data & AI",
+    "salary": "Not disclosed",
+    "salary_min": null,
+    "keywords": [],
+    "sponsorship_evidence": "",
+    "h1b_status": "unknown",
+    "sponsorship_label": "Not specified",
+    "url": "https://3m.wd1.myworkdayjobs.com/en-US/Search/job/IN-BANGALORE/EHS-Data-Analyst---Global_R01173870"
+  },
+  {
+    "company": "3M",
+    "title": "Internal Control Specialist",
+    "location": "IN, Bangalore Kar",
+    "employment_type": "full-time",
+    "category": "Other",
+    "salary": "Not disclosed",
+    "salary_min": null,
+    "keywords": [],
+    "sponsorship_evidence": "",
+    "h1b_status": "unknown",
+    "sponsorship_label": "Not specified",
+    "url": "https://3m.wd1.myworkdayjobs.com/en-US/Search/job/IN-Bangalore-Kar/Internal-Control-Specialist_R01173587-1"
+  },
+  {
+    "company": "3M",
+    "title": "Sr Dir, Enterprise AI Adoption & Transformation",
+    "location": "US, Minnesota, Maplewood",
+    "employment_type": "full-time",
+    "category": "Other",
+    "salary": "Not disclosed",
+    "salary_min": null,
+    "keywords": [
+      "AWS",
+      "machine learning",
+      "supply chain",
+      "human resources",
+      "recruiting",
+      "compliance",
+      "legal"
+    ],
+    "sponsorship_evidence": "ance: Is Authorized Must be legally authorized to work in country of employment without sponsorship for employment visa status (e.",
+    "h1b_status": "does_not_support_h1b",
+    "sponsorship_label": "No sponsorship for this position",
+    "url": "https://3m.wd1.myworkdayjobs.com/en-US/Search/job/US-Minnesota-Maplewood/Sr-Dir--Enterprise-AI-Adoption---Transformation_R01171561"
+  },
+  {
+    "company": "3M",
+    "title": "Quality System \u2013 Senior Auditor",
+    "location": "IN, BANGALORE",
+    "employment_type": "full-time",
+    "category": "Finance & Accounting",
+    "salary": "Not disclosed",
+    "salary_min": null,
+    "keywords": [
+      "audit",
+      "recruiting",
+      "compliance"
+    ],
+    "sponsorship_evidence": "",
+    "h1b_status": "unknown",
+    "sponsorship_label": "Not specified",
+    "url": "https://3m.wd1.myworkdayjobs.com/en-US/Search/job/IN-BANGALORE/Quality-System---Senior-Auditor_R01172472"
+  },
+  {
+    "company": "3M",
+    "title": "Quality System \u2013 Training Administration",
+    "location": "IN, BANGALORE",
+    "employment_type": "full-time",
+    "category": "Other",
+    "salary": "Not disclosed",
+    "salary_min": null,
+    "keywords": [
+      "audit",
+      "recruiting",
+      "compliance"
+    ],
+    "sponsorship_evidence": "",
+    "h1b_status": "unknown",
+    "sponsorship_label": "Not specified",
+    "url": "https://3m.wd1.myworkdayjobs.com/en-US/Search/job/IN-BANGALORE/Quality-System---Training-Administration_R01172471"
+  },
+  {
+    "company": "3M",
+    "title": "Senior Product Quality Engineer - NPI Deliverables",
+    "location": "IN, BANGALORE",
+    "employment_type": "full-time",
+    "category": "Engineering",
+    "salary": "Not disclosed",
+    "salary_min": null,
+    "keywords": [
+      "recruiting",
+      "compliance"
+    ],
+    "sponsorship_evidence": "",
+    "h1b_status": "unknown",
+    "sponsorship_label": "Not specified",
+    "url": "https://3m.wd1.myworkdayjobs.com/en-US/Search/job/IN-BANGALORE/Senior-Product-Quality-Engineer---NPI-Deliverables_R01172469"
+  },
+  {
+    "company": "3M",
+    "title": "Sr Specialist Corporate Audit",
+    "location": "IN, BANGALORE",
+    "employment_type": "full-time",
+    "category": "Finance & Accounting",
+    "salary": "Not disclosed",
+    "salary_min": null,
+    "keywords": [
+      "Excel",
+      "accounting",
+      "audit",
+      "compliance"
+    ],
+    "sponsorship_evidence": "",
+    "h1b_status": "unknown",
+    "sponsorship_label": "Not specified",
+    "url": "https://3m.wd1.myworkdayjobs.com/en-US/Search/job/IN-BANGALORE/Sr-Specialist-Corporate-Audit_R01174239-1"
+  },
+  {
+    "company": "3M",
+    "title": "SQE - 3PM SCAR Management",
+    "location": "IN, BANGALORE",
+    "employment_type": "full-time",
+    "category": "Other",
+    "salary": "Not disclosed",
+    "salary_min": null,
+    "keywords": [
+      "supply chain",
+      "recruiting",
+      "compliance"
+    ],
+    "sponsorship_evidence": "",
+    "h1b_status": "unknown",
+    "sponsorship_label": "Not specified",
+    "url": "https://3m.wd1.myworkdayjobs.com/en-US/Search/job/IN-BANGALORE/SQE---3PM-SCAR-Management_R01172463"
+  },
+  {
+    "company": "3M",
+    "title": "SQE - Supplier SCAR Management",
+    "location": "IN, BANGALORE",
+    "employment_type": "full-time",
+    "category": "Other",
+    "salary": "Not disclosed",
+    "salary_min": null,
+    "keywords": [
+      "supply chain",
+      "recruiting",
+      "compliance"
+    ],
+    "sponsorship_evidence": "",
+    "h1b_status": "unknown",
+    "sponsorship_label": "Not specified",
+    "url": "https://3m.wd1.myworkdayjobs.com/en-US/Search/job/IN-BANGALORE/SQE---Supplier-SCAR-Management_R01172462"
+  },
+  {
+    "company": "3M",
+    "title": "SQE - Customer and Supplier PPAP",
+    "location": "IN, BANGALORE",
+    "employment_type": "full-time",
+    "category": "Other",
+    "salary": "Not disclosed",
+    "salary_min": null,
+    "keywords": [
+      "recruiting",
+      "compliance"
+    ],
+    "sponsorship_evidence": "",
+    "h1b_status": "unknown",
+    "sponsorship_label": "Not specified",
+    "url": "https://3m.wd1.myworkdayjobs.com/en-US/Search/job/IN-BANGALORE/SQE---Customer-and-Supplier-PPAP_R01172460"
+  },
+  {
+    "company": "3M",
+    "title": "Data Analyst and Auditor Support \u2013 Environment Health and Safety",
+    "location": "IN, BANGALORE",
+    "employment_type": "full-time",
+    "category": "Data & AI",
+    "salary": "Not disclosed",
+    "salary_min": null,
+    "keywords": [
+      "analytics",
+      "Excel",
+      "audit",
+      "compliance"
+    ],
+    "sponsorship_evidence": "",
+    "h1b_status": "unknown",
+    "sponsorship_label": "Not specified",
+    "url": "https://3m.wd1.myworkdayjobs.com/en-US/Search/job/IN-BANGALORE/Data-Analyst-and-Auditor-Support---Environment-Health-and-Safety_R01173875"
+  },
+  {
+    "company": "3M",
+    "title": "USAC Procurement Sr Specialist, Filling & Chemical Services",
+    "location": "US, Minnesota, Maplewood",
+    "employment_type": "full-time",
+    "category": "Engineering",
+    "salary": "Not disclosed",
+    "salary_min": null,
+    "keywords": [
+      "analytics",
+      "mechanical engineering",
+      "supply chain",
+      "procurement",
+      "recruiting",
+      "compliance",
+      "contracts"
+    ],
+    "sponsorship_evidence": ": May be authorized Must be legally authorized to work in country of employment without sponsorship for employment visa status (e.",
+    "h1b_status": "does_not_support_h1b",
+    "sponsorship_label": "No sponsorship for this position",
+    "url": "https://3m.wd1.myworkdayjobs.com/en-US/Search/job/US-Minnesota-Maplewood/USAC-Procurement-Sr-Specialist--Filling---Chemical-Services_R01169208"
+  },
+  {
+    "company": "3M",
+    "title": "Global Quality Assurance Engineer (Maplewood, MN)",
+    "location": "US, Minnesota, Maplewood",
+    "employment_type": "full-time",
+    "category": "Other",
+    "salary": "Not disclosed",
+    "salary_min": null,
+    "keywords": [
+      "recruiting",
+      "compliance",
+      "contracts"
+    ],
+    "sponsorship_evidence": ": May be authorized Must be legally authorized to work in country of employment without sponsorship for employment visa status (e.",
+    "h1b_status": "does_not_support_h1b",
+    "sponsorship_label": "No sponsorship for this position",
+    "url": "https://3m.wd1.myworkdayjobs.com/en-US/Search/job/US-Minnesota-Maplewood/Global-Quality-Assurance-Engineer--Maplewood--MN-_R01173985"
+  },
+  {
+    "company": "3M",
+    "title": "Product Development Electrical Engineer (R&D) \u2013 Electrical Markets (m/w/*)",
+    "location": "DE, Neuss",
+    "employment_type": "full-time",
+    "category": "Engineering",
+    "salary": "Not disclosed",
+    "salary_min": null,
+    "keywords": [
+      "compliance"
+    ],
+    "sponsorship_evidence": "",
+    "h1b_status": "unknown",
+    "sponsorship_label": "Not specified",
+    "url": "https://3m.wd1.myworkdayjobs.com/en-US/Search/job/DE-Neuss/Product-Development-Electrical-Engineer--R-D----Electrical-Markets--m-w---_R01172991-2"
+  },
+  {
+    "company": "3M",
+    "title": "Activation Marketer- Commercial Branding",
+    "location": "IN, Bangalore Kar",
+    "employment_type": "full-time",
+    "category": "Other",
+    "salary": "Not disclosed",
+    "salary_min": null,
+    "keywords": [
+      "analytics",
+      "sales",
+      "CRM",
+      "compliance"
+    ],
+    "sponsorship_evidence": "",
+    "h1b_status": "unknown",
+    "sponsorship_label": "Not specified",
+    "url": "https://3m.wd1.myworkdayjobs.com/en-US/Search/job/IN-Bangalore-Kar/Activation-Marketer--Commercial-Branding_R01174075"
+  },
+  {
+    "company": "3M",
+    "title": "SAP BTP Developer",
+    "location": "IN, BANGALORE",
+    "employment_type": "full-time",
+    "category": "Software & IT",
+    "salary": "Not disclosed",
+    "salary_min": null,
+    "keywords": [
+      "compliance"
+    ],
+    "sponsorship_evidence": "",
+    "h1b_status": "unknown",
+    "sponsorship_label": "Not specified",
+    "url": "https://3m.wd1.myworkdayjobs.com/en-US/Search/job/IN-BANGALORE/SAP-BTP-Developer_R01173897-1"
+  },
+  {
+    "company": "3M",
+    "title": "Area Sales Manager - Personal Safety Division | Mumbai",
+    "location": "IN, Maharashtra, Mumbai",
+    "employment_type": "full-time",
+    "category": "Sales & Marketing",
+    "salary": "Not disclosed",
+    "salary_min": null,
+    "keywords": [
+      "supply chain",
+      "sales",
+      "CRM",
+      "compliance"
+    ],
+    "sponsorship_evidence": "",
+    "h1b_status": "unknown",
+    "sponsorship_label": "Not specified",
+    "url": "https://3m.wd1.myworkdayjobs.com/en-US/Search/job/IN-Maharashtra-Mumbai/Area-Sales-Manager---Personal-Safety-Division---Mumbai_R01173804"
+  },
+  {
+    "company": "3M",
+    "title": "Senior Product Development Engineer",
+    "location": "US, Minnesota, Maplewood",
+    "employment_type": "full-time",
+    "category": "Other",
+    "salary": "Not disclosed",
+    "salary_min": null,
+    "keywords": [
+      "procurement",
+      "recruiting",
+      "compliance"
+    ],
+    "sponsorship_evidence": ": May be authorized Must be legally authorized to work in country of employment without sponsorship for employment visa status (e.",
+    "h1b_status": "does_not_support_h1b",
+    "sponsorship_label": "No sponsorship for this position",
+    "url": "https://3m.wd1.myworkdayjobs.com/en-US/Search/job/US-Minnesota-Maplewood/Senior-Product-Development-Engineer_R01173498"
+  },
+  {
+    "company": "3M",
+    "title": "Solutions Architect-Physical Networking",
+    "location": "Remote - California",
+    "employment_type": "full-time",
+    "category": "Other",
+    "salary": "Not disclosed",
+    "salary_min": null,
+    "keywords": [
+      "electrical engineering",
+      "sales",
+      "recruiting",
+      "compliance"
+    ],
+    "sponsorship_evidence": ": May be authorized Must be legally authorized to work in country of employment without sponsorship for employment visa status (e.",
+    "h1b_status": "does_not_support_h1b",
+    "sponsorship_label": "No sponsorship for this position",
+    "url": "https://3m.wd1.myworkdayjobs.com/en-US/Search/job/Remote---California/Solutions-Architect_R01170327"
+  },
+  {
+    "company": "3M",
+    "title": "Plant Manager (Angleton, TX)",
+    "location": "US, Texas, Angleton",
+    "employment_type": "full-time",
+    "category": "Other",
+    "salary": "Not disclosed",
+    "salary_min": null,
+    "keywords": [
+      "accounting",
+      "supply chain",
+      "recruiting",
+      "compliance",
+      "contracts"
+    ],
+    "sponsorship_evidence": ": May be authorized Must be legally authorized to work in country of employment without sponsorship for employment visa status (e.",
+    "h1b_status": "does_not_support_h1b",
+    "sponsorship_label": "No sponsorship for this position",
+    "url": "https://3m.wd1.myworkdayjobs.com/en-US/Search/job/US-Texas-Angleton/Plant-Manager--Angleton--TX-_R01173772"
+  },
+  {
+    "company": "3M",
+    "title": "Continuous Improvement and Plant Execution System Administrator",
+    "location": "IN, BANGALORE",
+    "employment_type": "full-time",
+    "category": "Other",
+    "salary": "Not disclosed",
+    "salary_min": null,
+    "keywords": [],
+    "sponsorship_evidence": "",
+    "h1b_status": "unknown",
+    "sponsorship_label": "Not specified",
+    "url": "https://3m.wd1.myworkdayjobs.com/en-US/Search/job/IN-BANGALORE/Continuous-Improvement-and-Plant-Execution-System-Administrator_R01171367"
+  },
+  {
+    "company": "3M",
+    "title": "Senior Software Developer (AI - Full Stack Developer)",
+    "location": "IN, BANGALORE",
+    "employment_type": "full-time",
+    "category": "Software & IT",
+    "salary": "Not disclosed",
+    "salary_min": null,
+    "keywords": [],
+    "sponsorship_evidence": "",
+    "h1b_status": "unknown",
+    "sponsorship_label": "Not specified",
+    "url": "https://3m.wd1.myworkdayjobs.com/en-US/Search/job/IN-BANGALORE/Senior-Software-Developer--AI---Full-Stack-Developer-_R01173345"
+  },
+  {
+    "company": "3M",
+    "title": "Global Audit Supervisor",
+    "location": "IN, BANGALORE",
+    "employment_type": "full-time",
+    "category": "Finance & Accounting",
+    "salary": "Not disclosed",
+    "salary_min": null,
+    "keywords": [
+      "audit"
+    ],
+    "sponsorship_evidence": "",
+    "h1b_status": "unknown",
+    "sponsorship_label": "Not specified",
+    "url": "https://3m.wd1.myworkdayjobs.com/en-US/Search/job/IN-BANGALORE/Global-Audit-Supervisor_R01173583-1"
+  },
+  {
+    "company": "3M",
+    "title": "Enterprise Supply Chain GCC Leader",
+    "location": "IN, BANGALORE",
+    "employment_type": "full-time",
+    "category": "Operations & Supply Chain",
+    "salary": "Not disclosed",
+    "salary_min": null,
+    "keywords": [
+      "supply chain"
+    ],
+    "sponsorship_evidence": "",
+    "h1b_status": "unknown",
+    "sponsorship_label": "Not specified",
+    "url": "https://3m.wd1.myworkdayjobs.com/en-US/Search/job/IN-BANGALORE/Enterprise-Supply-Chain-GCC-Leader_R01172280-1"
+  },
+  {
+    "company": "3M",
+    "title": "HR Technology Workday Analyst - Recruiting",
+    "location": "IN, BANGALORE",
+    "employment_type": "full-time",
+    "category": "People & Legal",
+    "salary": "Not disclosed",
+    "salary_min": null,
+    "keywords": [
+      "recruiting"
+    ],
+    "sponsorship_evidence": "",
+    "h1b_status": "unknown",
+    "sponsorship_label": "Not specified",
+    "url": "https://3m.wd1.myworkdayjobs.com/en-US/Search/job/IN-BANGALORE/HR-Technology-Workday-Analyst---Recruiting_R01173661-2"
+  },
+  {
     "company": "HP",
     "title": "MEMS Product Engineer",
     "location": "Corvallis, Oregon, United States of America",
@@ -44394,156 +44578,6 @@
     "h1b_status": "unknown",
     "sponsorship_label": "Not specified",
     "url": "https://visa.wd5.myworkdayjobs.com/en-US/Visa/job/IN---Bengaluru-India/Operations-Specialist--Visa-Consulting---Analytics--VCA-_REF090101W"
-  },
-  {
-    "company": "S&P Global",
-    "title": "Analyst, Index Management",
-    "location": "New York, NY",
-    "employment_type": "full-time",
-    "category": "Other",
-    "salary": "Not disclosed",
-    "salary_min": null,
-    "keywords": [
-      "Python",
-      "data science",
-      "analytics",
-      "Excel",
-      "supply chain",
-      "compliance"
-    ],
-    "sponsorship_evidence": "",
-    "h1b_status": "unknown",
-    "sponsorship_label": "Not specified",
-    "url": "https://spgi.wd5.myworkdayjobs.com/en-US/SPGI_Careers/job/New-York-NY/Analyst--Index-Management_332964-1"
-  },
-  {
-    "company": "S&P Global",
-    "title": "Analyst, Index Management",
-    "location": "New York, NY",
-    "employment_type": "full-time",
-    "category": "Other",
-    "salary": "Not disclosed",
-    "salary_min": null,
-    "keywords": [],
-    "sponsorship_evidence": "",
-    "h1b_status": "unknown",
-    "sponsorship_label": "Not specified",
-    "url": "https://spgi.wd5.myworkdayjobs.com/en-US/SPGI_Careers/job/New-York-NY/Analyst--Index-Management_332060-1"
-  },
-  {
-    "company": "S&P Global",
-    "title": "Senior Program Manager, Customer Experience",
-    "location": "New York, NY",
-    "employment_type": "full-time",
-    "category": "Other",
-    "salary": "Not disclosed",
-    "salary_min": null,
-    "keywords": [
-      "risk management",
-      "supply chain",
-      "CRM",
-      "compliance",
-      "legal"
-    ],
-    "sponsorship_evidence": "",
-    "h1b_status": "unknown",
-    "sponsorship_label": "Not specified",
-    "url": "https://spgi.wd5.myworkdayjobs.com/en-US/SPGI_Careers/job/New-York-NY/Senior-Program-Manager--Customer-Experience_332866-1"
-  },
-  {
-    "company": "S&P Global",
-    "title": "Summer Intern, Client Services, Equity Analytics Products",
-    "location": "New York, NY",
-    "employment_type": "internship",
-    "category": "Data & AI",
-    "salary": "Not disclosed",
-    "salary_min": null,
-    "keywords": [
-      "analytics"
-    ],
-    "sponsorship_evidence": "",
-    "h1b_status": "unknown",
-    "sponsorship_label": "Not specified",
-    "url": "https://spgi.wd5.myworkdayjobs.com/en-US/SPGI_Careers/job/New-York-NY/Summer-Intern--Client-Services--Equity-Analytics-Products_332606-1"
-  },
-  {
-    "company": "S&P Global",
-    "title": "Associate, AI Solutions & Enablement",
-    "location": "New York, NY",
-    "employment_type": "full-time",
-    "category": "Other",
-    "salary": "Not disclosed",
-    "salary_min": null,
-    "keywords": [],
-    "sponsorship_evidence": "",
-    "h1b_status": "unknown",
-    "sponsorship_label": "Not specified",
-    "url": "https://spgi.wd5.myworkdayjobs.com/en-US/SPGI_Careers/job/New-York-NY/Associate--AI-Solutions---Enablement_332349-1"
-  },
-  {
-    "company": "S&P Global",
-    "title": "Associate, AI Solutions & Enablement",
-    "location": "Dallas, TX",
-    "employment_type": "full-time",
-    "category": "Other",
-    "salary": "Not disclosed",
-    "salary_min": null,
-    "keywords": [],
-    "sponsorship_evidence": "",
-    "h1b_status": "unknown",
-    "sponsorship_label": "Not specified",
-    "url": "https://spgi.wd5.myworkdayjobs.com/en-US/SPGI_Careers/job/Dallas-TX/Associate--AI-Solutions---Enablement_332351-1"
-  },
-  {
-    "company": "S&P Global",
-    "title": "Analyst, Analytic Quality & Validation",
-    "location": "New York, NY",
-    "employment_type": "full-time",
-    "category": "Other",
-    "salary": "Not disclosed",
-    "salary_min": null,
-    "keywords": [],
-    "sponsorship_evidence": "",
-    "h1b_status": "unknown",
-    "sponsorship_label": "Not specified",
-    "url": "https://spgi.wd5.myworkdayjobs.com/en-US/SPGI_Careers/job/New-York-NY/Analyst--Analytic-Quality---Validation_332930-1"
-  },
-  {
-    "company": "S&P Global",
-    "title": "Lead Data Scientist",
-    "location": "New York, NY",
-    "employment_type": "full-time",
-    "category": "Data & AI",
-    "salary": "Not disclosed",
-    "salary_min": null,
-    "keywords": [],
-    "sponsorship_evidence": "",
-    "h1b_status": "unknown",
-    "sponsorship_label": "Not specified",
-    "url": "https://spgi.wd5.myworkdayjobs.com/en-US/SPGI_Careers/job/New-York-NY/Lead-Data-Scientist_332929-1"
-  },
-  {
-    "company": "S&P Global",
-    "title": "Sr. Director, Software Engineering \u2013 Data Platform & MDM Integration",
-    "location": "US - NY NYC - 55 WATER ST",
-    "employment_type": "full-time",
-    "category": "Software & IT",
-    "salary": "Not disclosed",
-    "salary_min": null,
-    "keywords": [
-      "AWS",
-      "Azure",
-      "GCP",
-      "machine learning",
-      "analytics",
-      "supply chain",
-      "sales",
-      "compliance"
-    ],
-    "sponsorship_evidence": "",
-    "h1b_status": "unknown",
-    "sponsorship_label": "Not specified",
-    "url": "https://spgi.wd5.myworkdayjobs.com/en-US/SPGI_Careers/job/US---NY-NYC---55-WATER-ST/Sr-Director--Software-Engineering---Data-Platform---MDM-Integration_328961"
   },
   {
     "company": "Freddie Mac",
