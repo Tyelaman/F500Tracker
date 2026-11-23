@@ -1,21 +1,22 @@
 # F500Tracker internships
 
-Last updated: November 23, 2026 at 07:38 UTC
+Last updated: November 23, 2026 at 23:55 UTC
 
-Current internships: 354
+Current internships: 353
 
 ## Categories
 
-[Software & IT (36)](#software-it) · [Data & AI (7)](#data-ai) · [Product & Design (1)](#product-design) · [Engineering (51)](#engineering) · [Finance & Accounting (6)](#finance-accounting) · [Sales & Marketing (9)](#sales-marketing) · [Operations & Supply Chain (23)](#operations-supply-chain) · [People & Legal (1)](#people-legal) · [Other (220)](#other)
+[Software & IT (37)](#software-it) · [Data & AI (6)](#data-ai) · [Product & Design (1)](#product-design) · [Engineering (51)](#engineering) · [Finance & Accounting (6)](#finance-accounting) · [Sales & Marketing (9)](#sales-marketing) · [Operations & Supply Chain (23)](#operations-supply-chain) · [People & Legal (1)](#people-legal) · [Other (219)](#other)
 
 <a id="software-it"></a>
 
 ## Software & IT
 
-Open positions: 36
+Open positions: 37
 
 | Rank | Company | Position | Location | Category | Salary | Keywords | Sponsorship | Apply |
 |---:|---|---|---|---|---|---|---|---|
+| 376 | Oscar Health | Software Engineering Intern | New York, New York, United States | Software & IT | Not disclosed | Python · Java · C++ · JavaScript · React | Not specified | [Apply](https://oscarhealth.com/careers/jobs?gh_jid=8407472) |
 | 329 | DoorDash | Software Engineer, Intern - Labs (Summer 2027) | San Francisco, CA; Sunnyvale, CA | Software & IT | Not disclosed | Python · Java · SQL · AWS · machine learning | Not specified | [Apply](https://job-boards.greenhouse.io/doordashusa/jobs/8263774) |
 | 357 | Airbnb | Software Engineering Intern (BS/MS) | San Francisco, California | Software & IT | Not disclosed | Java · C++ · JavaScript · SQL · machine learning | Not specified | [Apply](https://careers.airbnb.com/positions/8360478?gh_jid=8360478) |
 | 329 | DoorDash | Software Engineer, Intern (Summer 2027) - US | New York, NY; San Francisco, CA; Sunnyvale, CA; Los Angeles, CA; Seattle, WA | Software & IT | Not disclosed | Python · Java · SQL · AWS · Excel | Not specified | [Apply](https://job-boards.greenhouse.io/doordashusa/jobs/8171041) |
@@ -59,13 +60,12 @@ Open positions: 36
 
 ## Data & AI
 
-Open positions: 7
+Open positions: 6
 
 | Rank | Company | Position | Location | Category | Salary | Keywords | Sponsorship | Apply |
 |---:|---|---|---|---|---|---|---|---|
 | 329 | DoorDash | Machine Learning Intern (Masters) - Summer 2027 | San Francisco, CA;  Sunnyvale, CA ; New York City, NY; Seattle, WA | Data & AI | Not disclosed | Python · Java · C++ · Go · machine learning | Not specified | [Apply](https://job-boards.greenhouse.io/doordashusa/jobs/8204111) |
 | 329 | DoorDash | Machine Learning Intern (PhD) - Summer 2027 | San Francisco, CA;  Sunnyvale, CA ; New York City, NY; Seattle, WA | Data & AI | Not disclosed | Python · Java · C++ · Go · machine learning | Not specified | [Apply](https://job-boards.greenhouse.io/doordashusa/jobs/8233953) |
-| 119 | Visa | Consulting & Analytics Summer Intern | DE - Frankfurt, Germany | Data & AI | Not disclosed | analytics · Excel · sales | No sponsorship for this position | [Apply](https://visa.wd5.myworkdayjobs.com/en-US/Visa/job/DE---Frankfurt-Germany/Consulting---Analytics-Summer-Intern_REF089625W-2) |
 | 125 | Micron Technology | Intern -  AI Engineer Platform | Boise, ID - Main Site | Data & AI | Not disclosed | Python · Java · SQL · Docker · Kubernetes | Not specified | [Apply](https://micron.wd1.myworkdayjobs.com/en-US/External/job/Boise-ID---Main-Site/Intern----AI-Engineer-Platform_JR115934) |
 | 125 | Micron Technology | Intern - Machine Learning Engineering | Richardson, TX | Data & AI | Not disclosed | Python · machine learning · artificial intelligence · electrical engineering | Not specified | [Apply](https://micron.wd1.myworkdayjobs.com/en-US/External/job/Richardson-TX/Intern---Machine-Learning-Engineering_JR114750) |
 | 125 | Micron Technology | Intern - SMAI Probe AI Engineer | Boise, ID - Main Site | Data & AI | Not disclosed | Python · Java · C# · JavaScript · SQL | Not specified | [Apply](https://micron.wd1.myworkdayjobs.com/en-US/External/job/Boise-ID---Main-Site/Intern---SMAI-Probe-AI-Engineer_JR114094) |
@@ -234,7 +234,7 @@ Open positions: 1
 
 ## Other
 
-Open positions: 220
+Open positions: 219
 
 | Rank | Company | Position | Location | Category | Salary | Keywords | Sponsorship | Apply |
 |---:|---|---|---|---|---|---|---|---|
@@ -243,7 +243,6 @@ Open positions: 220
 | 220 | Carvana | Paid Customer Experience Internship (Summer 2027) | Tempe, AZ | Other | Not disclosed | — | Not specified | [Apply](https://www.carvana.com/careers/apply?gh_jid=8279265) |
 | 220 | Carvana | Customer Support Intern (Summer 2027) | Tempe, AZ | Other | Not disclosed | — | Not specified | [Apply](https://www.carvana.com/careers/apply?gh_jid=8279263) |
 | 220 | Carvana | Customer Service Intern (Summer 2027) | Tempe, AZ | Other | Not disclosed | — | Not specified | [Apply](https://www.carvana.com/careers/apply?gh_jid=8279255) |
-| 376 | Oscar Health | Actuarial Intern | New York, New York, United States | Other | Not disclosed | Python · SQL · artificial intelligence · Excel · recruiting | Not specified | [Apply](https://oscarhealth.com/careers/jobs?gh_jid=8303588) |
 | 329 | DoorDash | Product Design, Intern (Summer 2027) | San Francisco, CA; New York, NY | Other | Not disclosed | Excel · logistics · recruiting · compliance | Not specified | [Apply](https://job-boards.greenhouse.io/doordashusa/jobs/8176863) |
 | 294 | S&P Global | Summer Intern, Fixed Income Pricing | New York, NY | Other | Not disclosed | — | Not specified | [Apply](https://spgi.wd5.myworkdayjobs.com/en-US/SPGI_Careers/job/New-York-NY/Summer-Intern--Fixed-Income-Pricing_332613-2) |
 | 114 | Salesforce | Summer 2027 Intern -  Policy, Office of Ethical and Humane Use (OHEU) | California - San Francisco | Other | $29–$33/hr | artificial intelligence · sales · CRM · recruiting · legal | Not specified | [Apply](https://salesforce.wd12.myworkdayjobs.com/en-US/External_Career_Site/job/California---San-Francisco/Summer-2027-Intern----Policy--Office-of-Ethical-and-Humane-Use--OHEU-_JR368543-2) |
