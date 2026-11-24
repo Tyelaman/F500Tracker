@@ -1,18 +1,18 @@
 # F500Tracker internships
 
-Last updated: November 24, 2026 at 09:55 UTC
+Last updated: November 24, 2026 at 22:29 UTC
 
-Current internships: 356
+Current internships: 359
 
 ## Categories
 
-[Software & IT (37)](#software-it) · [Data & AI (7)](#data-ai) · [Product & Design (1)](#product-design) · [Engineering (51)](#engineering) · [Finance & Accounting (6)](#finance-accounting) · [Sales & Marketing (9)](#sales-marketing) · [Operations & Supply Chain (23)](#operations-supply-chain) · [People & Legal (1)](#people-legal) · [Other (221)](#other)
+[Software & IT (38)](#software-it) · [Data & AI (7)](#data-ai) · [Product & Design (1)](#product-design) · [Engineering (51)](#engineering) · [Finance & Accounting (6)](#finance-accounting) · [Sales & Marketing (9)](#sales-marketing) · [Operations & Supply Chain (24)](#operations-supply-chain) · [People & Legal (1)](#people-legal) · [Other (222)](#other)
 
 <a id="software-it"></a>
 
 ## Software & IT
 
-Open positions: 37
+Open positions: 38
 
 | Rank | Company | Position | Location | Category | Salary | Keywords | Sponsorship | Apply |
 |---:|---|---|---|---|---|---|---|---|
@@ -20,6 +20,7 @@ Open positions: 37
 | 329 | DoorDash | Software Engineer, Intern - Labs (Summer 2027) | San Francisco, CA; Sunnyvale, CA | Software & IT | Not disclosed | Python · Java · SQL · AWS · machine learning | Not specified | [Apply](https://job-boards.greenhouse.io/doordashusa/jobs/8263774) |
 | 357 | Airbnb | Software Engineering Intern (BS/MS) | San Francisco, California | Software & IT | Not disclosed | Java · C++ · JavaScript · SQL · machine learning | Not specified | [Apply](https://careers.airbnb.com/positions/8360478?gh_jid=8360478) |
 | 329 | DoorDash | Software Engineer, Intern (Summer 2027) - US | New York, NY; San Francisco, CA; Sunnyvale, CA; Los Angeles, CA; Seattle, WA | Software & IT | Not disclosed | Python · Java · SQL · AWS · Excel | Not specified | [Apply](https://job-boards.greenhouse.io/doordashusa/jobs/8171041) |
+| 23 | General Motors | 2027 Summer Intern – Software Verification Engineer, AV/AI Platform | Warren, Michigan, United States of America | Software & IT | Not disclosed | Python · electrical engineering | Not specified | [Apply](https://generalmotors.wd5.myworkdayjobs.com/en-US/Careers_GM/job/Warren-Michigan-United-States-of-America/XMLNAME-2027-Summer-Intern---Software-Verification-Engineer--AV-AI-Platform_JR-202621697) |
 | 396 | Analog Devices | Embedded Software Engineer Intern | US, TX, Austin, Plaza on the Lake | Software & IT | Not disclosed | Python · electrical engineering | Not specified | [Apply](https://analogdevices.wd1.myworkdayjobs.com/en-US/External/job/US-TX-Austin-Plaza-on-the-Lake/Embedded-Software-Engineer-Intern_R269548) |
 | 112 | Northrop Grumman | SkillBridge Internship Program is seeking our exceptional enlisted-military talent to join us as a Systems Engineer - 2 | United States-Alabama-Huntsville | Software & IT | Not disclosed | — | Not specified | [Apply](https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-Alabama-Huntsville/SkillBridge-Internship-Program-is-seeking-our-exceptional-enlisted-military-talent-to-join-us-as-a-Systems-Engineer---2_R10260427) |
 | 125 | Micron Technology | Intern - IT Software Engineer | Boise, ID - Main Site | Software & IT | Not disclosed | Python · C# · JavaScript · SQL · React | Not specified | [Apply](https://micron.wd1.myworkdayjobs.com/en-US/External/job/Boise-ID---Main-Site/Intern---IT-Software-Engineer_JR111582) |
@@ -189,12 +190,13 @@ Open positions: 9
 
 ## Operations & Supply Chain
 
-Open positions: 23
+Open positions: 24
 
 | Rank | Company | Position | Location | Category | Salary | Keywords | Sponsorship | Apply |
 |---:|---|---|---|---|---|---|---|---|
 | 329 | DoorDash | Drone Operations, Intern - Labs (Summer 2027) | San Francisco, CA | Operations & Supply Chain | Not disclosed | Excel · logistics · recruiting | Not specified | [Apply](https://job-boards.greenhouse.io/doordashusa/jobs/8312381) |
 | 329 | DoorDash | Operations Research Intern (PhD), Summer 2027 | Sunnyvale, CA | Operations & Supply Chain | Not disclosed | Java · SQL · machine learning · Excel · logistics | Not specified | [Apply](https://job-boards.greenhouse.io/doordashusa/jobs/8273965) |
+| 23 | General Motors | 2027 Summer Intern – Business Operations & Cost Optimization, Cadillac Racing Program Management | Milford, Michigan, United States of America | Operations & Supply Chain | Not disclosed | — | Not specified | [Apply](https://generalmotors.wd5.myworkdayjobs.com/en-US/Careers_GM/job/Milford-Michigan-United-States-of-America/XMLNAME-2027-Summer-Intern---Business-Operations---Cost-Optimization--Cadillac-Racing-Program-Management_JR-202619989) |
 | 125 | Micron Technology | Intern - Revenue Operations | Boise, ID - Main Site | Operations & Supply Chain | Not disclosed | data science · analytics · Excel · supply chain · sales | Not specified | [Apply](https://micron.wd1.myworkdayjobs.com/en-US/External/job/Boise-ID---Main-Site/Intern---Revenue-Operations_JR117383) |
 | 125 | Micron Technology | Intern – Procurement Cost Analyst | Boise, ID - North Office | Operations & Supply Chain | Not disclosed | analytics · Excel · mechanical engineering · electrical engineering · supply chain | Not specified | [Apply](https://micron.wd1.myworkdayjobs.com/en-US/External/job/Boise-ID---North-Office/Intern---Procurement-Cost-Analyst_JR112690) |
 | 49 | RTX | Operations Engineering Intern (Summer 2027) | US-MA-ANDOVER-AN1 ~ 350 Lowell St ~ AN1 ESSEX BLDG | Operations & Supply Chain | Not disclosed | supply chain · compliance | Not specified | [Apply](https://globalhr.wd5.myworkdayjobs.com/en-US/REC_RTX_Ext_Gateway/job/US-MA-ANDOVER-AN1--350-Lowell-St--AN1-ESSEX-BLDG/Operations-Engineering-Intern--Summer-2027-_01888583) |
@@ -235,10 +237,11 @@ Open positions: 1
 
 ## Other
 
-Open positions: 221
+Open positions: 222
 
 | Rank | Company | Position | Location | Category | Salary | Keywords | Sponsorship | Apply |
 |---:|---|---|---|---|---|---|---|---|
+| 376 | Oscar Health | Mergers and Acquisitions Intern | New York, New York, United States | Other | Not disclosed | artificial intelligence · recruiting · compliance · legal | Not specified | [Apply](https://oscarhealth.com/careers/jobs?gh_jid=8414269) |
 | 191 | Block | Applied Research Intern, Proactive Intelligence & Customer World Models (PhD / Graduate Co-op) | Bay Area, CA, United States of America | Other | Not disclosed | Python · machine learning · legal | Not specified | [Apply](http://block.xyz/careers/jobs/5108007008?gh_jid=5108007008) |
 | 220 | Carvana | Customer Experience Intern (Summer 2027) | Tempe, AZ | Other | Not disclosed | — | Not specified | [Apply](https://www.carvana.com/careers/apply?gh_jid=8279204) |
 | 220 | Carvana | Paid Customer Experience Internship (Summer 2027) | Tempe, AZ | Other | Not disclosed | — | Not specified | [Apply](https://www.carvana.com/careers/apply?gh_jid=8279265) |
