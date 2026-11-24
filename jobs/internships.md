@@ -1,12 +1,12 @@
 # F500Tracker internships
 
-Last updated: November 23, 2026 at 23:55 UTC
+Last updated: November 24, 2026 at 09:55 UTC
 
-Current internships: 353
+Current internships: 356
 
 ## Categories
 
-[Software & IT (37)](#software-it) · [Data & AI (6)](#data-ai) · [Product & Design (1)](#product-design) · [Engineering (51)](#engineering) · [Finance & Accounting (6)](#finance-accounting) · [Sales & Marketing (9)](#sales-marketing) · [Operations & Supply Chain (23)](#operations-supply-chain) · [People & Legal (1)](#people-legal) · [Other (219)](#other)
+[Software & IT (37)](#software-it) · [Data & AI (7)](#data-ai) · [Product & Design (1)](#product-design) · [Engineering (51)](#engineering) · [Finance & Accounting (6)](#finance-accounting) · [Sales & Marketing (9)](#sales-marketing) · [Operations & Supply Chain (23)](#operations-supply-chain) · [People & Legal (1)](#people-legal) · [Other (221)](#other)
 
 <a id="software-it"></a>
 
@@ -60,12 +60,13 @@ Open positions: 37
 
 ## Data & AI
 
-Open positions: 6
+Open positions: 7
 
 | Rank | Company | Position | Location | Category | Salary | Keywords | Sponsorship | Apply |
 |---:|---|---|---|---|---|---|---|---|
 | 329 | DoorDash | Machine Learning Intern (Masters) - Summer 2027 | San Francisco, CA;  Sunnyvale, CA ; New York City, NY; Seattle, WA | Data & AI | Not disclosed | Python · Java · C++ · Go · machine learning | Not specified | [Apply](https://job-boards.greenhouse.io/doordashusa/jobs/8204111) |
 | 329 | DoorDash | Machine Learning Intern (PhD) - Summer 2027 | San Francisco, CA;  Sunnyvale, CA ; New York City, NY; Seattle, WA | Data & AI | Not disclosed | Python · Java · C++ · Go · machine learning | Not specified | [Apply](https://job-boards.greenhouse.io/doordashusa/jobs/8233953) |
+| 14 | Cigna Group | Business Analytics Intern | Bloomfield, CT | Data & AI | Not disclosed | Python · SQL · analytics · Excel | Not specified | [Apply](https://cigna.wd5.myworkdayjobs.com/en-US/cignacareers/job/Bloomfield-CT/Business-Analytics-Intern_26012472) |
 | 125 | Micron Technology | Intern -  AI Engineer Platform | Boise, ID - Main Site | Data & AI | Not disclosed | Python · Java · SQL · Docker · Kubernetes | Not specified | [Apply](https://micron.wd1.myworkdayjobs.com/en-US/External/job/Boise-ID---Main-Site/Intern----AI-Engineer-Platform_JR115934) |
 | 125 | Micron Technology | Intern - Machine Learning Engineering | Richardson, TX | Data & AI | Not disclosed | Python · machine learning · artificial intelligence · electrical engineering | Not specified | [Apply](https://micron.wd1.myworkdayjobs.com/en-US/External/job/Richardson-TX/Intern---Machine-Learning-Engineering_JR114750) |
 | 125 | Micron Technology | Intern - SMAI Probe AI Engineer | Boise, ID - Main Site | Data & AI | Not disclosed | Python · Java · C# · JavaScript · SQL | Not specified | [Apply](https://micron.wd1.myworkdayjobs.com/en-US/External/job/Boise-ID---Main-Site/Intern---SMAI-Probe-AI-Engineer_JR114094) |
@@ -234,7 +235,7 @@ Open positions: 1
 
 ## Other
 
-Open positions: 219
+Open positions: 221
 
 | Rank | Company | Position | Location | Category | Salary | Keywords | Sponsorship | Apply |
 |---:|---|---|---|---|---|---|---|---|
@@ -244,8 +245,10 @@ Open positions: 219
 | 220 | Carvana | Customer Support Intern (Summer 2027) | Tempe, AZ | Other | Not disclosed | — | Not specified | [Apply](https://www.carvana.com/careers/apply?gh_jid=8279263) |
 | 220 | Carvana | Customer Service Intern (Summer 2027) | Tempe, AZ | Other | Not disclosed | — | Not specified | [Apply](https://www.carvana.com/careers/apply?gh_jid=8279255) |
 | 329 | DoorDash | Product Design, Intern (Summer 2027) | San Francisco, CA; New York, NY | Other | Not disclosed | Excel · logistics · recruiting · compliance | Not specified | [Apply](https://job-boards.greenhouse.io/doordashusa/jobs/8176863) |
+| 19 | Centene | Business Analyst Graduate Summer Intern | Remote-MO | Other | Not disclosed | — | Not specified | [Apply](https://centene.wd5.myworkdayjobs.com/en-US/centene_external/job/Remote-MO/Graduate-Summer-Intern_1667776) |
+| 19 | Centene | Managed Care Pharmacy Graduate Summer Intern | Remote-MO | Other | Not disclosed | — | Not specified | [Apply](https://centene.wd5.myworkdayjobs.com/en-US/centene_external/job/Remote-MO/Managed-Care-Pharmacy-Undergraduate-Summer-Intern_1667804) |
+| 19 | Centene | Technology Summer 2027 Intern (Undergraduate) | Remote-FL | Other | Not disclosed | — | Not specified | [Apply](https://centene.wd5.myworkdayjobs.com/en-US/centene_external/job/Remote-FL/Centene-2027-Undergraduate-Summer-Intern_1660476) |
 | 294 | S&P Global | Summer Intern, Fixed Income Pricing | New York, NY | Other | Not disclosed | — | Not specified | [Apply](https://spgi.wd5.myworkdayjobs.com/en-US/SPGI_Careers/job/New-York-NY/Summer-Intern--Fixed-Income-Pricing_332613-2) |
-| 114 | Salesforce | Summer 2027 Intern -  Policy, Office of Ethical and Humane Use (OHEU) | California - San Francisco | Other | $29–$33/hr | artificial intelligence · sales · CRM · recruiting · legal | Not specified | [Apply](https://salesforce.wd12.myworkdayjobs.com/en-US/External_Career_Site/job/California---San-Francisco/Summer-2027-Intern----Policy--Office-of-Ethical-and-Humane-Use--OHEU-_JR368543-2) |
 | 33 | Freddie Mac | Risk Management Graduate Intern – Business Summer 2027 | McLean, VA | Other | Not disclosed | risk management | Not specified | [Apply](https://freddiemac.wd5.myworkdayjobs.com/en-US/External/job/McLean-VA/Risk-Management-Graduate-Intern---Business-Summer-2027_JR17554) |
 | 33 | Freddie Mac | Risk Management Graduate Intern – Quantitative Summer 2027 | McLean, VA | Other | Not disclosed | risk management | Not specified | [Apply](https://freddiemac.wd5.myworkdayjobs.com/en-US/External/job/McLean-VA/Risk-Management-Graduate-Intern---Quantitative-Summer-2027_JR17553) |
 | 160 | Applied Materials | Internship Program Manager - B4 | Santa Clara,CA | Other | Not disclosed | analytics · risk management · sales · human resources · recruiting | Not specified | [Apply](https://amat.wd1.myworkdayjobs.com/en-US/External/job/Santa-ClaraCA/Internship-Program-Manager---B4_R2631565) |
