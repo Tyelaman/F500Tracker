@@ -3580,7 +3580,7 @@
   },
   "greenhouse:Airbnb:8207095": {
     "company": "Airbnb",
-    "enriched_at": "2026-09-30T05:31:23.750767+00:00",
+    "enriched_at": "2026-11-25T21:40:26.773401+00:00",
     "external_id": "8207095",
     "h1b_mentioned": false,
     "h1b_status": "unknown",
@@ -3597,7 +3597,7 @@
     "salary_period": "",
     "salary_text": "",
     "source": "greenhouse",
-    "source_updated_at": "2026-09-29T20:00:54-04:00",
+    "source_updated_at": "2026-11-25T14:22:37-05:00",
     "sponsorship_evidence": ""
   },
   "greenhouse:Airbnb:8209061": {
@@ -6375,7 +6375,7 @@
   },
   "greenhouse:Airbnb:8411254": {
     "company": "Airbnb",
-    "enriched_at": "2026-11-23T23:52:13.535955+00:00",
+    "enriched_at": "2026-11-25T21:40:26.749140+00:00",
     "external_id": "8411254",
     "h1b_mentioned": false,
     "h1b_status": "unknown",
@@ -6392,7 +6392,7 @@
     "salary_period": "",
     "salary_text": "",
     "source": "greenhouse",
-    "source_updated_at": "2026-11-23T15:18:00-05:00",
+    "source_updated_at": "2026-11-25T13:28:28-05:00",
     "sponsorship_evidence": ""
   },
   "greenhouse:Airbnb:8411290": {
@@ -6422,7 +6422,7 @@
   },
   "greenhouse:Airbnb:8412312": {
     "company": "Airbnb",
-    "enriched_at": "2026-11-23T23:52:13.569390+00:00",
+    "enriched_at": "2026-11-25T21:40:26.762060+00:00",
     "external_id": "8412312",
     "h1b_mentioned": false,
     "h1b_status": "unknown",
@@ -6440,7 +6440,7 @@
     "salary_period": "",
     "salary_text": "",
     "source": "greenhouse",
-    "source_updated_at": "2026-11-23T15:14:05-05:00",
+    "source_updated_at": "2026-11-25T16:24:06-05:00",
     "sponsorship_evidence": ""
   },
   "greenhouse:Airbnb:8412322": {
@@ -11213,7 +11213,7 @@
   },
   "greenhouse:Block:5430678008": {
     "company": "Block",
-    "enriched_at": "2026-11-23T23:52:11.828172+00:00",
+    "enriched_at": "2026-11-25T21:40:25.654649+00:00",
     "external_id": "5430678008",
     "h1b_mentioned": false,
     "h1b_status": "unknown",
@@ -11226,7 +11226,7 @@
     "salary_period": "",
     "salary_text": "",
     "source": "greenhouse",
-    "source_updated_at": "2026-11-23T14:17:29-05:00",
+    "source_updated_at": "2026-11-25T13:02:00-05:00",
     "sponsorship_evidence": ""
   },
   "greenhouse:Block:5431065008": {
@@ -12157,6 +12157,26 @@
     "source_updated_at": "2026-11-18T20:23:09-05:00",
     "sponsorship_evidence": ""
   },
+  "greenhouse:Block:5460772008": {
+    "company": "Block",
+    "enriched_at": "2026-11-25T21:40:25.681753+00:00",
+    "external_id": "5460772008",
+    "h1b_mentioned": false,
+    "h1b_status": "unknown",
+    "keywords": [
+      "Python",
+      "machine learning",
+      "legal"
+    ],
+    "salary_currency": "",
+    "salary_max": null,
+    "salary_min": null,
+    "salary_period": "",
+    "salary_text": "",
+    "source": "greenhouse",
+    "source_updated_at": "2026-11-25T11:33:03-05:00",
+    "sponsorship_evidence": ""
+  },
   "greenhouse:Block:5461961008": {
     "company": "Block",
     "enriched_at": "2026-11-23T23:52:12.506574+00:00",
@@ -12364,7 +12384,7 @@
   },
   "greenhouse:Block:5473172008": {
     "company": "Block",
-    "enriched_at": "2026-11-24T22:25:18.283944+00:00",
+    "enriched_at": "2026-11-25T21:40:25.707747+00:00",
     "external_id": "5473172008",
     "h1b_mentioned": false,
     "h1b_status": "unknown",
@@ -12378,7 +12398,7 @@
     "salary_period": "",
     "salary_text": "",
     "source": "greenhouse",
-    "source_updated_at": "2026-11-24T14:37:43-05:00",
+    "source_updated_at": "2026-11-25T08:16:47-05:00",
     "sponsorship_evidence": ""
   },
   "greenhouse:Block:5473182008": {
@@ -12657,7 +12677,7 @@
   },
   "greenhouse:Block:5484041008": {
     "company": "Block",
-    "enriched_at": "2026-11-24T22:25:18.245379+00:00",
+    "enriched_at": "2026-11-25T21:40:25.666979+00:00",
     "external_id": "5484041008",
     "h1b_mentioned": false,
     "h1b_status": "unknown",
@@ -12673,7 +12693,7 @@
     "salary_period": "",
     "salary_text": "",
     "source": "greenhouse",
-    "source_updated_at": "2026-11-24T14:47:04-05:00",
+    "source_updated_at": "2026-11-25T08:01:59-05:00",
     "sponsorship_evidence": ""
   },
   "greenhouse:Block:5485146008": {
@@ -12803,6 +12823,30 @@
     "salary_text": "",
     "source": "greenhouse",
     "source_updated_at": "2026-11-23T16:20:34-05:00",
+    "sponsorship_evidence": ""
+  },
+  "greenhouse:Block:5494600008": {
+    "company": "Block",
+    "enriched_at": "2026-11-25T21:40:25.695051+00:00",
+    "external_id": "5494600008",
+    "h1b_mentioned": false,
+    "h1b_status": "unknown",
+    "keywords": [
+      "Python",
+      "SQL",
+      "machine learning",
+      "data science",
+      "audit",
+      "risk management",
+      "legal"
+    ],
+    "salary_currency": "",
+    "salary_max": null,
+    "salary_min": null,
+    "salary_period": "",
+    "salary_text": "",
+    "source": "greenhouse",
+    "source_updated_at": "2026-11-25T12:07:56-05:00",
     "sponsorship_evidence": ""
   },
   "greenhouse:Carvana:5685843": {
@@ -32400,7 +32444,7 @@
   },
   "greenhouse:Carvana:8078189": {
     "company": "Carvana",
-    "enriched_at": "2026-11-06T06:57:00.140503+00:00",
+    "enriched_at": "2026-11-25T21:43:00.587115+00:00",
     "external_id": "8078189",
     "h1b_mentioned": false,
     "h1b_status": "does_not_support_h1b",
@@ -32411,7 +32455,7 @@
     "salary_period": "hour",
     "salary_text": "$16-$17 hourly",
     "source": "greenhouse",
-    "source_updated_at": "2026-11-05T18:28:14-05:00",
+    "source_updated_at": "2026-11-25T06:43:21-05:00",
     "sponsorship_evidence": "</em></strong><em> This role is not eligible for visa sponsorship."
   },
   "greenhouse:Carvana:8078216": {
@@ -37925,7 +37969,7 @@
   },
   "greenhouse:Carvana:8097905": {
     "company": "Carvana",
-    "enriched_at": "2026-10-13T00:53:39.545519+00:00",
+    "enriched_at": "2026-11-25T21:43:00.593189+00:00",
     "external_id": "8097905",
     "h1b_mentioned": false,
     "h1b_status": "does_not_support_h1b",
@@ -37939,7 +37983,7 @@
     "salary_period": "hour",
     "salary_text": "$16-$18 hourly",
     "source": "greenhouse",
-    "source_updated_at": "2026-10-12T13:50:31-04:00",
+    "source_updated_at": "2026-11-25T13:50:01-05:00",
     "sponsorship_evidence": "icle maintenance</li> </ul> <p><strong>Legal Stuff</strong><br><em>This role is not eligible for visa sponsorship."
   },
   "greenhouse:Carvana:8097911": {
@@ -40617,7 +40661,7 @@
   },
   "greenhouse:Carvana:8112178": {
     "company": "Carvana",
-    "enriched_at": "2026-11-25T08:33:20.602340+00:00",
+    "enriched_at": "2026-11-25T21:43:00.295503+00:00",
     "external_id": "8112178",
     "h1b_mentioned": false,
     "h1b_status": "does_not_support_h1b",
@@ -40628,7 +40672,7 @@
     "salary_period": "",
     "salary_text": "",
     "source": "greenhouse",
-    "source_updated_at": "2026-11-24T17:43:18-05:00",
+    "source_updated_at": "2026-11-25T11:19:58-05:00",
     "sponsorship_evidence": "This role is not eligible for visa sponsorship."
   },
   "greenhouse:Carvana:8112401": {
@@ -54935,7 +54979,7 @@
   },
   "greenhouse:Carvana:8154725": {
     "company": "Carvana",
-    "enriched_at": "2026-09-30T22:29:51.195269+00:00",
+    "enriched_at": "2026-11-25T21:43:00.609772+00:00",
     "external_id": "8154725",
     "h1b_mentioned": false,
     "h1b_status": "unknown",
@@ -54949,7 +54993,7 @@
     "salary_period": "",
     "salary_text": "",
     "source": "greenhouse",
-    "source_updated_at": "2026-09-30T17:59:37-04:00",
+    "source_updated_at": "2026-11-25T16:02:36-05:00",
     "sponsorship_evidence": ""
   },
   "greenhouse:Carvana:8154730": {
@@ -78343,7 +78387,7 @@
   },
   "greenhouse:Carvana:8237885": {
     "company": "Carvana",
-    "enriched_at": "2026-11-25T08:33:24.771243+00:00",
+    "enriched_at": "2026-11-25T21:43:00.504244+00:00",
     "external_id": "8237885",
     "h1b_mentioned": false,
     "h1b_status": "does_not_support_h1b",
@@ -78354,7 +78398,7 @@
     "salary_period": "hour",
     "salary_text": "$22 - $24 / Hourly",
     "source": "greenhouse",
-    "source_updated_at": "2026-11-24T17:43:18-05:00",
+    "source_updated_at": "2026-11-25T11:20:06-05:00",
     "sponsorship_evidence": "This role is not eligible for visa sponsorship."
   },
   "greenhouse:Carvana:8237927": {
@@ -83574,7 +83618,7 @@
   },
   "greenhouse:Carvana:8247636": {
     "company": "Carvana",
-    "enriched_at": "2026-10-07T06:15:14.801052+00:00",
+    "enriched_at": "2026-11-25T21:43:00.628115+00:00",
     "external_id": "8247636",
     "h1b_mentioned": false,
     "h1b_status": "does_not_support_h1b",
@@ -83585,7 +83629,7 @@
     "salary_period": "",
     "salary_text": "",
     "source": "greenhouse",
-    "source_updated_at": "2026-10-06T16:49:11-04:00",
+    "source_updated_at": "2026-11-25T15:21:25-05:00",
     "sponsorship_evidence": "This role is not eligible for visa sponsorship."
   },
   "greenhouse:Carvana:8247687": {
@@ -91058,7 +91102,7 @@
   },
   "greenhouse:Carvana:8280071": {
     "company": "Carvana",
-    "enriched_at": "2026-11-25T08:33:30.319661+00:00",
+    "enriched_at": "2026-11-25T21:43:00.727209+00:00",
     "external_id": "8280071",
     "h1b_mentioned": false,
     "h1b_status": "unknown",
@@ -91072,7 +91116,7 @@
     "salary_period": "",
     "salary_text": "",
     "source": "greenhouse",
-    "source_updated_at": "2026-11-24T17:43:18-05:00",
+    "source_updated_at": "2026-11-25T12:43:23-05:00",
     "sponsorship_evidence": ""
   },
   "greenhouse:Carvana:8280144": {
@@ -91681,7 +91725,7 @@
   },
   "greenhouse:Carvana:8285208": {
     "company": "Carvana",
-    "enriched_at": "2026-11-20T07:15:13.250091+00:00",
+    "enriched_at": "2026-11-25T21:43:00.411376+00:00",
     "external_id": "8285208",
     "h1b_mentioned": false,
     "h1b_status": "does_not_support_h1b",
@@ -91692,7 +91736,7 @@
     "salary_period": "hour",
     "salary_text": "$18-$19 hourly",
     "source": "greenhouse",
-    "source_updated_at": "2026-11-19T23:38:56-05:00",
+    "source_updated_at": "2026-11-25T10:07:09-05:00",
     "sponsorship_evidence": "</em></strong><em> This role is not eligible for visa sponsorship."
   },
   "greenhouse:Carvana:8285211": {
@@ -93821,7 +93865,7 @@
   },
   "greenhouse:Carvana:8302303": {
     "company": "Carvana",
-    "enriched_at": "2026-11-06T06:56:54.472422+00:00",
+    "enriched_at": "2026-11-25T21:43:00.374458+00:00",
     "external_id": "8302303",
     "h1b_mentioned": false,
     "h1b_status": "does_not_support_h1b",
@@ -93832,7 +93876,7 @@
     "salary_period": "",
     "salary_text": "",
     "source": "greenhouse",
-    "source_updated_at": "2026-11-05T18:28:14-05:00",
+    "source_updated_at": "2026-11-25T16:33:42-05:00",
     "sponsorship_evidence": "This role is not eligible for visa sponsorship."
   },
   "greenhouse:Carvana:8303128": {
@@ -94184,7 +94228,7 @@
   },
   "greenhouse:Carvana:8303838": {
     "company": "Carvana",
-    "enriched_at": "2026-11-06T06:57:01.027968+00:00",
+    "enriched_at": "2026-11-25T21:43:00.597682+00:00",
     "external_id": "8303838",
     "h1b_mentioned": false,
     "h1b_status": "unknown",
@@ -94198,7 +94242,7 @@
     "salary_period": "",
     "salary_text": "",
     "source": "greenhouse",
-    "source_updated_at": "2026-11-05T18:28:14-05:00",
+    "source_updated_at": "2026-11-25T16:32:50-05:00",
     "sponsorship_evidence": ""
   },
   "greenhouse:Carvana:8303854": {
@@ -94336,7 +94380,7 @@
   },
   "greenhouse:Carvana:8303995": {
     "company": "Carvana",
-    "enriched_at": "2026-11-25T08:33:29.012688+00:00",
+    "enriched_at": "2026-11-25T21:43:00.699224+00:00",
     "external_id": "8303995",
     "h1b_mentioned": false,
     "h1b_status": "does_not_support_h1b",
@@ -94347,7 +94391,7 @@
     "salary_period": "",
     "salary_text": "",
     "source": "greenhouse",
-    "source_updated_at": "2026-11-24T17:43:18-05:00",
+    "source_updated_at": "2026-11-25T15:02:43-05:00",
     "sponsorship_evidence": "This role is not eligible for visa sponsorship."
   },
   "greenhouse:Carvana:8304010": {
@@ -100246,7 +100290,7 @@
   },
   "greenhouse:Carvana:8334787": {
     "company": "Carvana",
-    "enriched_at": "2026-11-25T08:33:22.088922+00:00",
+    "enriched_at": "2026-11-25T21:43:00.388773+00:00",
     "external_id": "8334787",
     "h1b_mentioned": false,
     "h1b_status": "does_not_support_h1b",
@@ -100257,12 +100301,12 @@
     "salary_period": "hour",
     "salary_text": "$23-$27 Hourly",
     "source": "greenhouse",
-    "source_updated_at": "2026-11-24T17:43:18-05:00",
+    "source_updated_at": "2026-11-25T16:42:31-05:00",
     "sponsorship_evidence": "This role is not eligible for visa sponsorship."
   },
   "greenhouse:Carvana:8334789": {
     "company": "Carvana",
-    "enriched_at": "2026-11-18T07:28:51.367596+00:00",
+    "enriched_at": "2026-11-25T21:43:00.513103+00:00",
     "external_id": "8334789",
     "h1b_mentioned": false,
     "h1b_status": "does_not_support_h1b",
@@ -100273,7 +100317,7 @@
     "salary_period": "hour",
     "salary_text": "$21-$24 Hourly",
     "source": "greenhouse",
-    "source_updated_at": "2026-11-18T00:20:03-05:00",
+    "source_updated_at": "2026-11-25T16:42:06-05:00",
     "sponsorship_evidence": "This role is not eligible for visa sponsorship."
   },
   "greenhouse:Carvana:8334791": {
@@ -101063,7 +101107,7 @@
   },
   "greenhouse:Carvana:8335274": {
     "company": "Carvana",
-    "enriched_at": "2026-10-29T22:54:46.326729+00:00",
+    "enriched_at": "2026-11-25T21:43:00.542857+00:00",
     "external_id": "8335274",
     "h1b_mentioned": false,
     "h1b_status": "does_not_support_h1b",
@@ -101074,7 +101118,7 @@
     "salary_period": "",
     "salary_text": "",
     "source": "greenhouse",
-    "source_updated_at": "2026-10-29T17:03:28-04:00",
+    "source_updated_at": "2026-11-25T16:14:41-05:00",
     "sponsorship_evidence": "This role is not eligible for visa sponsorship."
   },
   "greenhouse:Carvana:8335279": {
@@ -101392,7 +101436,7 @@
   },
   "greenhouse:Carvana:8335358": {
     "company": "Carvana",
-    "enriched_at": "2026-11-20T20:18:09.787551+00:00",
+    "enriched_at": "2026-11-25T21:43:00.550373+00:00",
     "external_id": "8335358",
     "h1b_mentioned": false,
     "h1b_status": "does_not_support_h1b",
@@ -101403,7 +101447,7 @@
     "salary_period": "",
     "salary_text": "",
     "source": "greenhouse",
-    "source_updated_at": "2026-11-20T10:49:42-05:00",
+    "source_updated_at": "2026-11-25T11:03:42-05:00",
     "sponsorship_evidence": "This role is not eligible for visa sponsorship."
   },
   "greenhouse:Carvana:8335458": {
@@ -103492,7 +103536,7 @@
   },
   "greenhouse:Carvana:8348053": {
     "company": "Carvana",
-    "enriched_at": "2026-11-25T08:33:28.265772+00:00",
+    "enriched_at": "2026-11-25T21:43:00.648706+00:00",
     "external_id": "8348053",
     "h1b_mentioned": false,
     "h1b_status": "does_not_support_h1b",
@@ -103503,7 +103547,7 @@
     "salary_period": "",
     "salary_text": "",
     "source": "greenhouse",
-    "source_updated_at": "2026-11-24T17:43:18-05:00",
+    "source_updated_at": "2026-11-25T11:44:32-05:00",
     "sponsorship_evidence": "This role is not eligible for visa sponsorship."
   },
   "greenhouse:Carvana:8348056": {
@@ -104808,7 +104852,7 @@
   },
   "greenhouse:Carvana:8349765": {
     "company": "Carvana",
-    "enriched_at": "2026-11-12T00:56:08.355374+00:00",
+    "enriched_at": "2026-11-25T21:43:00.452862+00:00",
     "external_id": "8349765",
     "h1b_mentioned": false,
     "h1b_status": "does_not_support_h1b",
@@ -104823,7 +104867,7 @@
     "salary_period": "hour",
     "salary_text": "$16.00 per hour",
     "source": "greenhouse",
-    "source_updated_at": "2026-11-11T10:34:28-05:00",
+    "source_updated_at": "2026-11-25T11:19:52-05:00",
     "sponsorship_evidence": "This role is not eligible for visa sponsorship."
   },
   "greenhouse:Carvana:8349768": {
@@ -107212,7 +107256,7 @@
   },
   "greenhouse:Carvana:8356896": {
     "company": "Carvana",
-    "enriched_at": "2026-11-25T08:33:20.178764+00:00",
+    "enriched_at": "2026-11-25T21:43:00.253724+00:00",
     "external_id": "8356896",
     "h1b_mentioned": false,
     "h1b_status": "does_not_support_h1b",
@@ -107226,7 +107270,7 @@
     "salary_period": "hour",
     "salary_text": "$17-$18 hourly",
     "source": "greenhouse",
-    "source_updated_at": "2026-11-24T17:43:18-05:00",
+    "source_updated_at": "2026-11-25T10:48:29-05:00",
     "sponsorship_evidence": "&nbsp; This role is not eligible for visa sponsorship."
   },
   "greenhouse:Carvana:8357028": {
@@ -107495,7 +107539,7 @@
   },
   "greenhouse:Carvana:8360006": {
     "company": "Carvana",
-    "enriched_at": "2026-11-06T19:37:43.655809+00:00",
+    "enriched_at": "2026-11-25T21:43:00.242438+00:00",
     "external_id": "8360006",
     "h1b_mentioned": false,
     "h1b_status": "does_not_support_h1b",
@@ -107510,7 +107554,7 @@
     "salary_period": "year",
     "salary_text": "$60,000-$65,000 annually",
     "source": "greenhouse",
-    "source_updated_at": "2026-11-06T14:23:34-05:00",
+    "source_updated_at": "2026-11-25T12:44:39-05:00",
     "sponsorship_evidence": "&nbsp; This role is not eligible for visa sponsorship."
   },
   "greenhouse:Carvana:8360008": {
@@ -108686,7 +108730,7 @@
   },
   "greenhouse:Carvana:8371409": {
     "company": "Carvana",
-    "enriched_at": "2026-11-25T08:33:23.106520+00:00",
+    "enriched_at": "2026-11-25T21:43:00.443801+00:00",
     "external_id": "8371409",
     "h1b_mentioned": false,
     "h1b_status": "does_not_support_h1b",
@@ -108699,7 +108743,7 @@
     "salary_period": "hour",
     "salary_text": "$19-$21 hourly",
     "source": "greenhouse",
-    "source_updated_at": "2026-11-24T17:43:18-05:00",
+    "source_updated_at": "2026-11-25T13:12:52-05:00",
     "sponsorship_evidence": "</em>This role is not eligible for visa sponsorship."
   },
   "greenhouse:Carvana:8371590": {
@@ -109387,7 +109431,7 @@
   },
   "greenhouse:Carvana:8374977": {
     "company": "Carvana",
-    "enriched_at": "2026-11-18T07:28:51.413017+00:00",
+    "enriched_at": "2026-11-25T21:43:00.527420+00:00",
     "external_id": "8374977",
     "h1b_mentioned": false,
     "h1b_status": "does_not_support_h1b",
@@ -109398,7 +109442,7 @@
     "salary_period": "hour",
     "salary_text": "$16.00 - $18.00 hourly",
     "source": "greenhouse",
-    "source_updated_at": "2026-11-17T18:56:50-05:00",
+    "source_updated_at": "2026-11-25T16:18:57-05:00",
     "sponsorship_evidence": "This role is not eligible for visa sponsorship."
   },
   "greenhouse:Carvana:8375110": {
@@ -109422,7 +109466,7 @@
   },
   "greenhouse:Carvana:8375127": {
     "company": "Carvana",
-    "enriched_at": "2026-11-25T08:33:29.018286+00:00",
+    "enriched_at": "2026-11-25T21:43:00.705289+00:00",
     "external_id": "8375127",
     "h1b_mentioned": false,
     "h1b_status": "does_not_support_h1b",
@@ -109433,7 +109477,7 @@
     "salary_period": "",
     "salary_text": "",
     "source": "greenhouse",
-    "source_updated_at": "2026-11-24T17:43:18-05:00",
+    "source_updated_at": "2026-11-25T15:01:04-05:00",
     "sponsorship_evidence": "This role is not eligible for visa sponsorship."
   },
   "greenhouse:Carvana:8375296": {
@@ -111124,7 +111168,7 @@
   },
   "greenhouse:Carvana:8383453": {
     "company": "Carvana",
-    "enriched_at": "2026-11-25T08:33:24.741421+00:00",
+    "enriched_at": "2026-11-25T21:43:00.495569+00:00",
     "external_id": "8383453",
     "h1b_mentioned": false,
     "h1b_status": "does_not_support_h1b",
@@ -111135,7 +111179,7 @@
     "salary_period": "hour",
     "salary_text": "$17.00 - $19.00 per hour",
     "source": "greenhouse",
-    "source_updated_at": "2026-11-24T17:43:18-05:00",
+    "source_updated_at": "2026-11-25T11:20:13-05:00",
     "sponsorship_evidence": "This role is not eligible for visa sponsorship."
   },
   "greenhouse:Carvana:8383455": {
@@ -111352,7 +111396,7 @@
   },
   "greenhouse:Carvana:8383534": {
     "company": "Carvana",
-    "enriched_at": "2026-11-25T08:33:20.587223+00:00",
+    "enriched_at": "2026-11-25T21:43:00.287163+00:00",
     "external_id": "8383534",
     "h1b_mentioned": false,
     "h1b_status": "does_not_support_h1b",
@@ -111363,7 +111407,7 @@
     "salary_period": "",
     "salary_text": "",
     "source": "greenhouse",
-    "source_updated_at": "2026-11-24T17:43:18-05:00",
+    "source_updated_at": "2026-11-25T11:20:20-05:00",
     "sponsorship_evidence": "This role is not eligible for visa sponsorship."
   },
   "greenhouse:Carvana:8383575": {
@@ -114681,7 +114725,7 @@
   },
   "greenhouse:Carvana:8402149": {
     "company": "Carvana",
-    "enriched_at": "2026-11-25T08:33:26.221930+00:00",
+    "enriched_at": "2026-11-25T21:43:00.578829+00:00",
     "external_id": "8402149",
     "h1b_mentioned": false,
     "h1b_status": "does_not_support_h1b",
@@ -114692,7 +114736,7 @@
     "salary_period": "",
     "salary_text": "",
     "source": "greenhouse",
-    "source_updated_at": "2026-11-24T17:43:18-05:00",
+    "source_updated_at": "2026-11-25T10:24:41-05:00",
     "sponsorship_evidence": "This role is not eligible for visa sponsorship."
   },
   "greenhouse:Carvana:8402183": {
@@ -114849,7 +114893,7 @@
   },
   "greenhouse:Carvana:8402397": {
     "company": "Carvana",
-    "enriched_at": "2026-11-25T08:33:30.484948+00:00",
+    "enriched_at": "2026-11-25T21:43:00.742493+00:00",
     "external_id": "8402397",
     "h1b_mentioned": false,
     "h1b_status": "does_not_support_h1b",
@@ -114860,7 +114904,7 @@
     "salary_period": "hour",
     "salary_text": "$22 - $24 / Hourly",
     "source": "greenhouse",
-    "source_updated_at": "2026-11-24T17:43:18-05:00",
+    "source_updated_at": "2026-11-25T11:20:28-05:00",
     "sponsorship_evidence": "This role is not eligible for visa sponsorship."
   },
   "greenhouse:Carvana:8402536": {
@@ -115803,7 +115847,7 @@
   },
   "greenhouse:Carvana:8403511": {
     "company": "Carvana",
-    "enriched_at": "2026-11-19T20:37:02.035568+00:00",
+    "enriched_at": "2026-11-25T21:43:00.641757+00:00",
     "external_id": "8403511",
     "h1b_mentioned": false,
     "h1b_status": "does_not_support_h1b",
@@ -115814,7 +115858,7 @@
     "salary_period": "hour",
     "salary_text": "$17-$18 hourly",
     "source": "greenhouse",
-    "source_updated_at": "2026-11-19T15:02:30-05:00",
+    "source_updated_at": "2026-11-25T10:19:19-05:00",
     "sponsorship_evidence": "This role is not eligible for visa sponsorship."
   },
   "greenhouse:Carvana:8403527": {
@@ -115851,7 +115895,7 @@
   },
   "greenhouse:Carvana:8403531": {
     "company": "Carvana",
-    "enriched_at": "2026-11-23T23:55:01.053011+00:00",
+    "enriched_at": "2026-11-25T21:43:00.365403+00:00",
     "external_id": "8403531",
     "h1b_mentioned": false,
     "h1b_status": "does_not_support_h1b",
@@ -115862,7 +115906,7 @@
     "salary_period": "hour",
     "salary_text": "$18.00 - $22.00 hourly",
     "source": "greenhouse",
-    "source_updated_at": "2026-11-23T14:36:21-05:00",
+    "source_updated_at": "2026-11-25T14:06:27-05:00",
     "sponsorship_evidence": "This role is not eligible for visa sponsorship."
   },
   "greenhouse:Carvana:8403532": {
@@ -115883,7 +115927,7 @@
   },
   "greenhouse:Carvana:8403534": {
     "company": "Carvana",
-    "enriched_at": "2026-11-20T20:18:09.491120+00:00",
+    "enriched_at": "2026-11-25T21:43:00.396074+00:00",
     "external_id": "8403534",
     "h1b_mentioned": false,
     "h1b_status": "does_not_support_h1b",
@@ -115894,7 +115938,7 @@
     "salary_period": "hour",
     "salary_text": "$18.00 - $22.00 hourly",
     "source": "greenhouse",
-    "source_updated_at": "2026-11-20T10:49:32-05:00",
+    "source_updated_at": "2026-11-25T16:33:53-05:00",
     "sponsorship_evidence": "This role is not eligible for visa sponsorship."
   },
   "greenhouse:Carvana:8403535": {
@@ -116472,7 +116516,7 @@
   },
   "greenhouse:Carvana:8404286": {
     "company": "Carvana",
-    "enriched_at": "2026-11-25T08:33:20.609822+00:00",
+    "enriched_at": "2026-11-25T21:43:00.303894+00:00",
     "external_id": "8404286",
     "h1b_mentioned": false,
     "h1b_status": "does_not_support_h1b",
@@ -116483,7 +116527,7 @@
     "salary_period": "",
     "salary_text": "",
     "source": "greenhouse",
-    "source_updated_at": "2026-11-24T17:43:18-05:00",
+    "source_updated_at": "2026-11-25T11:20:36-05:00",
     "sponsorship_evidence": "This role is not eligible for visa sponsorship."
   },
   "greenhouse:Carvana:8404300": {
@@ -117169,7 +117213,7 @@
   },
   "greenhouse:Carvana:8404462": {
     "company": "Carvana",
-    "enriched_at": "2026-11-25T08:33:23.706226+00:00",
+    "enriched_at": "2026-11-25T21:43:00.435426+00:00",
     "external_id": "8404462",
     "h1b_mentioned": false,
     "h1b_status": "does_not_support_h1b",
@@ -117182,7 +117226,7 @@
     "salary_period": "hour",
     "salary_text": "$24-$26 hourly",
     "source": "greenhouse",
-    "source_updated_at": "2026-11-24T17:43:18-05:00",
+    "source_updated_at": "2026-11-25T15:21:19-05:00",
     "sponsorship_evidence": "</em>This roles is not eligible for visa sponsorship."
   },
   "greenhouse:Carvana:8404464": {
@@ -117444,7 +117488,7 @@
   },
   "greenhouse:Carvana:8404980": {
     "company": "Carvana",
-    "enriched_at": "2026-11-25T08:33:28.490190+00:00",
+    "enriched_at": "2026-11-25T21:43:00.668272+00:00",
     "external_id": "8404980",
     "h1b_mentioned": false,
     "h1b_status": "does_not_support_h1b",
@@ -117453,12 +117497,12 @@
       "legal"
     ],
     "salary_currency": "USD",
-    "salary_max": 19.0,
-    "salary_min": 18.0,
+    "salary_max": 18.0,
+    "salary_min": 17.0,
     "salary_period": "hour",
-    "salary_text": "$18-$19 hourly",
+    "salary_text": "$17-$18 hourly",
     "source": "greenhouse",
-    "source_updated_at": "2026-11-24T17:43:18-05:00",
+    "source_updated_at": "2026-11-25T16:02:24-05:00",
     "sponsorship_evidence": "&nbsp; This role is not eligible for visa sponsorship."
   },
   "greenhouse:Carvana:8404999": {
@@ -118688,7 +118732,7 @@
   },
   "greenhouse:Carvana:8412481": {
     "company": "Carvana",
-    "enriched_at": "2026-11-25T08:33:20.748853+00:00",
+    "enriched_at": "2026-11-25T21:43:00.312530+00:00",
     "external_id": "8412481",
     "h1b_mentioned": false,
     "h1b_status": "does_not_support_h1b",
@@ -118699,7 +118743,7 @@
     "salary_period": "",
     "salary_text": "",
     "source": "greenhouse",
-    "source_updated_at": "2026-11-24T17:43:18-05:00",
+    "source_updated_at": "2026-11-25T11:20:42-05:00",
     "sponsorship_evidence": "This role is not eligible for visa sponsorship."
   },
   "greenhouse:Carvana:8412553": {
@@ -119112,7 +119156,7 @@
   },
   "greenhouse:Carvana:8414403": {
     "company": "Carvana",
-    "enriched_at": "2026-11-25T08:33:27.471194+00:00",
+    "enriched_at": "2026-11-25T21:43:00.621617+00:00",
     "external_id": "8414403",
     "h1b_mentioned": false,
     "h1b_status": "does_not_support_h1b",
@@ -119123,7 +119167,7 @@
     "salary_period": "",
     "salary_text": "",
     "source": "greenhouse",
-    "source_updated_at": "2026-11-24T17:43:18-05:00",
+    "source_updated_at": "2026-11-25T11:26:23-05:00",
     "sponsorship_evidence": "This role is not eligible for visa sponsorship."
   },
   "greenhouse:Carvana:8414417": {
@@ -119162,7 +119206,7 @@
   },
   "greenhouse:Carvana:8414582": {
     "company": "Carvana",
-    "enriched_at": "2026-11-25T08:33:20.813084+00:00",
+    "enriched_at": "2026-11-25T21:43:00.320879+00:00",
     "external_id": "8414582",
     "h1b_mentioned": false,
     "h1b_status": "does_not_support_h1b",
@@ -119173,7 +119217,7 @@
     "salary_period": "",
     "salary_text": "",
     "source": "greenhouse",
-    "source_updated_at": "2026-11-24T17:43:18-05:00",
+    "source_updated_at": "2026-11-25T11:11:02-05:00",
     "sponsorship_evidence": "This role is not eligible for visa sponsorship."
   },
   "greenhouse:Carvana:8414599": {
@@ -119280,6 +119324,22 @@
     "source_updated_at": "2026-11-24T17:43:18-05:00",
     "sponsorship_evidence": ""
   },
+  "greenhouse:Carvana:8415047": {
+    "company": "Carvana",
+    "enriched_at": "2026-11-25T21:43:00.423074+00:00",
+    "external_id": "8415047",
+    "h1b_mentioned": false,
+    "h1b_status": "does_not_support_h1b",
+    "keywords": [],
+    "salary_currency": "USD",
+    "salary_max": 18.0,
+    "salary_min": 17.0,
+    "salary_period": "hour",
+    "salary_text": "$17-$18 hourly",
+    "source": "greenhouse",
+    "source_updated_at": "2026-11-25T13:27:19-05:00",
+    "sponsorship_evidence": "</em></strong><em> This role is not eligible for visa sponsorship."
+  },
   "greenhouse:Carvana:8415076": {
     "company": "Carvana",
     "enriched_at": "2026-11-25T08:33:20.911571+00:00",
@@ -119336,7 +119396,7 @@
   },
   "greenhouse:Carvana:8415129": {
     "company": "Carvana",
-    "enriched_at": "2026-11-25T08:33:22.623770+00:00",
+    "enriched_at": "2026-11-25T21:43:00.428973+00:00",
     "external_id": "8415129",
     "h1b_mentioned": false,
     "h1b_status": "does_not_support_h1b",
@@ -119347,7 +119407,7 @@
     "salary_period": "",
     "salary_text": "",
     "source": "greenhouse",
-    "source_updated_at": "2026-11-24T17:43:18-05:00",
+    "source_updated_at": "2026-11-25T11:10:57-05:00",
     "sponsorship_evidence": "This role is not eligible for visa sponsorship."
   },
   "greenhouse:Carvana:8415438": {
@@ -119388,7 +119448,7 @@
   },
   "greenhouse:Carvana:8415591": {
     "company": "Carvana",
-    "enriched_at": "2026-11-25T08:33:24.976668+00:00",
+    "enriched_at": "2026-11-25T21:43:00.520450+00:00",
     "external_id": "8415591",
     "h1b_mentioned": false,
     "h1b_status": "does_not_support_h1b",
@@ -119399,7 +119459,7 @@
     "salary_period": "",
     "salary_text": "",
     "source": "greenhouse",
-    "source_updated_at": "2026-11-24T17:58:29-05:00",
+    "source_updated_at": "2026-11-25T11:29:35-05:00",
     "sponsorship_evidence": "This role is not eligible for visa sponsorship."
   },
   "greenhouse:Carvana:8415592": {
@@ -119442,7 +119502,7 @@
   },
   "greenhouse:Carvana:8415697": {
     "company": "Carvana",
-    "enriched_at": "2026-11-25T08:33:25.704184+00:00",
+    "enriched_at": "2026-11-25T21:43:00.557954+00:00",
     "external_id": "8415697",
     "h1b_mentioned": false,
     "h1b_status": "does_not_support_h1b",
@@ -119453,7 +119513,7 @@
     "salary_period": "hour",
     "salary_text": "$20.00 - $31.00 hourly",
     "source": "greenhouse",
-    "source_updated_at": "2026-11-24T18:38:41-05:00",
+    "source_updated_at": "2026-11-25T11:26:30-05:00",
     "sponsorship_evidence": "This role is not eligible for visa sponsorship."
   },
   "greenhouse:Carvana:8415734": {
@@ -119491,6 +119551,477 @@
     "source": "greenhouse",
     "source_updated_at": "2026-11-24T18:41:26-05:00",
     "sponsorship_evidence": "</em>This role is not eligible for visa sponsorship."
+  },
+  "greenhouse:Carvana:8416875": {
+    "company": "Carvana",
+    "enriched_at": "2026-11-25T21:43:00.466936+00:00",
+    "external_id": "8416875",
+    "h1b_mentioned": false,
+    "h1b_status": "does_not_support_h1b",
+    "keywords": [],
+    "salary_currency": "USD",
+    "salary_max": 16.0,
+    "salary_min": 15.0,
+    "salary_period": "hour",
+    "salary_text": "$15-$16 hourly",
+    "source": "greenhouse",
+    "source_updated_at": "2026-11-25T08:17:14-05:00",
+    "sponsorship_evidence": "</em></strong><em> This role is not eligible for visa sponsorship."
+  },
+  "greenhouse:Carvana:8416878": {
+    "company": "Carvana",
+    "enriched_at": "2026-11-25T21:43:00.472797+00:00",
+    "external_id": "8416878",
+    "h1b_mentioned": false,
+    "h1b_status": "does_not_support_h1b",
+    "keywords": [],
+    "salary_currency": "USD",
+    "salary_max": 20.0,
+    "salary_min": 19.0,
+    "salary_period": "hour",
+    "salary_text": "$19-$20 hourly",
+    "source": "greenhouse",
+    "source_updated_at": "2026-11-25T08:19:19-05:00",
+    "sponsorship_evidence": "</em></strong><em> This role is not eligible for visa sponsorship."
+  },
+  "greenhouse:Carvana:8417017": {
+    "company": "Carvana",
+    "enriched_at": "2026-11-25T21:43:00.352255+00:00",
+    "external_id": "8417017",
+    "h1b_mentioned": false,
+    "h1b_status": "does_not_support_h1b",
+    "keywords": [],
+    "salary_currency": "",
+    "salary_max": null,
+    "salary_min": null,
+    "salary_period": "",
+    "salary_text": "",
+    "source": "greenhouse",
+    "source_updated_at": "2026-11-25T09:36:10-05:00",
+    "sponsorship_evidence": "This role is not eligible for visa sponsorship."
+  },
+  "greenhouse:Carvana:8417028": {
+    "company": "Carvana",
+    "enriched_at": "2026-11-25T21:43:00.345657+00:00",
+    "external_id": "8417028",
+    "h1b_mentioned": false,
+    "h1b_status": "does_not_support_h1b",
+    "keywords": [],
+    "salary_currency": "",
+    "salary_max": null,
+    "salary_min": null,
+    "salary_period": "",
+    "salary_text": "",
+    "source": "greenhouse",
+    "source_updated_at": "2026-11-25T09:41:01-05:00",
+    "sponsorship_evidence": "This role is not eligible for visa sponsorship."
+  },
+  "greenhouse:Carvana:8417121": {
+    "company": "Carvana",
+    "enriched_at": "2026-11-25T21:43:00.417360+00:00",
+    "external_id": "8417121",
+    "h1b_mentioned": false,
+    "h1b_status": "does_not_support_h1b",
+    "keywords": [],
+    "salary_currency": "USD",
+    "salary_max": 18.0,
+    "salary_min": 17.0,
+    "salary_period": "hour",
+    "salary_text": "$17-$18 hourly",
+    "source": "greenhouse",
+    "source_updated_at": "2026-11-25T11:33:00-05:00",
+    "sponsorship_evidence": "</em></strong><em> This role is not eligible for visa sponsorship."
+  },
+  "greenhouse:Carvana:8417159": {
+    "company": "Carvana",
+    "enriched_at": "2026-11-25T21:43:00.677124+00:00",
+    "external_id": "8417159",
+    "h1b_mentioned": false,
+    "h1b_status": "does_not_support_h1b",
+    "keywords": [
+      "recruiting",
+      "compliance",
+      "legal"
+    ],
+    "salary_currency": "",
+    "salary_max": null,
+    "salary_min": null,
+    "salary_period": "",
+    "salary_text": "",
+    "source": "greenhouse",
+    "source_updated_at": "2026-11-25T10:27:43-05:00",
+    "sponsorship_evidence": "&nbsp;</p> <p>This position is not eligible for visa sponsorship."
+  },
+  "greenhouse:Carvana:8417160": {
+    "company": "Carvana",
+    "enriched_at": "2026-11-25T21:43:00.661729+00:00",
+    "external_id": "8417160",
+    "h1b_mentioned": false,
+    "h1b_status": "does_not_support_h1b",
+    "keywords": [
+      "recruiting",
+      "compliance",
+      "legal"
+    ],
+    "salary_currency": "",
+    "salary_max": null,
+    "salary_min": null,
+    "salary_period": "",
+    "salary_text": "",
+    "source": "greenhouse",
+    "source_updated_at": "2026-11-25T10:28:46-05:00",
+    "sponsorship_evidence": "&nbsp;</p> <p>This position is not eligible for visa sponsorship."
+  },
+  "greenhouse:Carvana:8417162": {
+    "company": "Carvana",
+    "enriched_at": "2026-11-25T21:43:00.635197+00:00",
+    "external_id": "8417162",
+    "h1b_mentioned": false,
+    "h1b_status": "does_not_support_h1b",
+    "keywords": [
+      "recruiting",
+      "compliance",
+      "legal"
+    ],
+    "salary_currency": "",
+    "salary_max": null,
+    "salary_min": null,
+    "salary_period": "",
+    "salary_text": "",
+    "source": "greenhouse",
+    "source_updated_at": "2026-11-25T10:29:10-05:00",
+    "sponsorship_evidence": "&nbsp;</p> <p>This position is not eligible for visa sponsorship."
+  },
+  "greenhouse:Carvana:8417226": {
+    "company": "Carvana",
+    "enriched_at": "2026-11-25T21:43:00.276189+00:00",
+    "external_id": "8417226",
+    "h1b_mentioned": false,
+    "h1b_status": "does_not_support_h1b",
+    "keywords": [
+      "logistics",
+      "legal"
+    ],
+    "salary_currency": "",
+    "salary_max": null,
+    "salary_min": null,
+    "salary_period": "",
+    "salary_text": "",
+    "source": "greenhouse",
+    "source_updated_at": "2026-11-25T10:46:03-05:00",
+    "sponsorship_evidence": "&nbsp; This role is not eligible for visa sponsorship."
+  },
+  "greenhouse:Carvana:8417360": {
+    "company": "Carvana",
+    "enriched_at": "2026-11-25T21:43:00.381600+00:00",
+    "external_id": "8417360",
+    "h1b_mentioned": false,
+    "h1b_status": "does_not_support_h1b",
+    "keywords": [],
+    "salary_currency": "",
+    "salary_max": null,
+    "salary_min": null,
+    "salary_period": "",
+    "salary_text": "",
+    "source": "greenhouse",
+    "source_updated_at": "2026-11-25T11:39:05-05:00",
+    "sponsorship_evidence": "This role is not eligible for visa sponsorship."
+  },
+  "greenhouse:Carvana:8417605": {
+    "company": "Carvana",
+    "enriched_at": "2026-11-25T21:43:00.236189+00:00",
+    "external_id": "8417605",
+    "h1b_mentioned": false,
+    "h1b_status": "does_not_support_h1b",
+    "keywords": [],
+    "salary_currency": "",
+    "salary_max": null,
+    "salary_min": null,
+    "salary_period": "",
+    "salary_text": "",
+    "source": "greenhouse",
+    "source_updated_at": "2026-11-25T12:21:20-05:00",
+    "sponsorship_evidence": "This role is not eligible for visa sponsorship."
+  },
+  "greenhouse:Carvana:8417613": {
+    "company": "Carvana",
+    "enriched_at": "2026-11-25T21:43:00.655399+00:00",
+    "external_id": "8417613",
+    "h1b_mentioned": false,
+    "h1b_status": "does_not_support_h1b",
+    "keywords": [
+      "SQL",
+      "Excel",
+      "supply chain",
+      "procurement",
+      "legal"
+    ],
+    "salary_currency": "",
+    "salary_max": null,
+    "salary_min": null,
+    "salary_period": "",
+    "salary_text": "",
+    "source": "greenhouse",
+    "source_updated_at": "2026-11-25T12:23:24-05:00",
+    "sponsorship_evidence": "&nbsp; <em><strong>This role is not eligible for visa sponsorship."
+  },
+  "greenhouse:Carvana:8417617": {
+    "company": "Carvana",
+    "enriched_at": "2026-11-25T21:43:00.405055+00:00",
+    "external_id": "8417617",
+    "h1b_mentioned": false,
+    "h1b_status": "does_not_support_h1b",
+    "keywords": [
+      "supply chain",
+      "procurement",
+      "legal"
+    ],
+    "salary_currency": "",
+    "salary_max": null,
+    "salary_min": null,
+    "salary_period": "",
+    "salary_text": "",
+    "source": "greenhouse",
+    "source_updated_at": "2026-11-25T12:24:01-05:00",
+    "sponsorship_evidence": "&nbsp;</em><strong><em> This role is not eligible for visa sponsorship."
+  },
+  "greenhouse:Carvana:8417654": {
+    "company": "Carvana",
+    "enriched_at": "2026-11-25T21:43:00.265148+00:00",
+    "external_id": "8417654",
+    "h1b_mentioned": false,
+    "h1b_status": "does_not_support_h1b",
+    "keywords": [
+      "logistics",
+      "legal"
+    ],
+    "salary_currency": "",
+    "salary_max": null,
+    "salary_min": null,
+    "salary_period": "",
+    "salary_text": "",
+    "source": "greenhouse",
+    "source_updated_at": "2026-11-25T12:43:45-05:00",
+    "sponsorship_evidence": "&nbsp; This role is not eligible for visa sponsorship."
+  },
+  "greenhouse:Carvana:8417655": {
+    "company": "Carvana",
+    "enriched_at": "2026-11-25T21:43:00.572423+00:00",
+    "external_id": "8417655",
+    "h1b_mentioned": false,
+    "h1b_status": "does_not_support_h1b",
+    "keywords": [],
+    "salary_currency": "",
+    "salary_max": null,
+    "salary_min": null,
+    "salary_period": "",
+    "salary_text": "",
+    "source": "greenhouse",
+    "source_updated_at": "2026-11-25T14:59:00-05:00",
+    "sponsorship_evidence": "This role is not eligible for visa sponsorship."
+  },
+  "greenhouse:Carvana:8417684": {
+    "company": "Carvana",
+    "enriched_at": "2026-11-25T21:43:00.478643+00:00",
+    "external_id": "8417684",
+    "h1b_mentioned": false,
+    "h1b_status": "does_not_support_h1b",
+    "keywords": [
+      "legal"
+    ],
+    "salary_currency": "",
+    "salary_max": null,
+    "salary_min": null,
+    "salary_period": "",
+    "salary_text": "",
+    "source": "greenhouse",
+    "source_updated_at": "2026-11-25T12:57:06-05:00",
+    "sponsorship_evidence": "&nbsp; This role is not eligible for visa sponsorship."
+  },
+  "greenhouse:Carvana:8417687": {
+    "company": "Carvana",
+    "enriched_at": "2026-11-25T21:43:00.487323+00:00",
+    "external_id": "8417687",
+    "h1b_mentioned": false,
+    "h1b_status": "does_not_support_h1b",
+    "keywords": [
+      "logistics",
+      "recruiting",
+      "legal"
+    ],
+    "salary_currency": "",
+    "salary_max": null,
+    "salary_min": null,
+    "salary_period": "",
+    "salary_text": "",
+    "source": "greenhouse",
+    "source_updated_at": "2026-11-25T12:49:52-05:00",
+    "sponsorship_evidence": "&nbsp; This role is not eligible for visa sponsorship."
+  },
+  "greenhouse:Carvana:8417689": {
+    "company": "Carvana",
+    "enriched_at": "2026-11-25T21:43:00.683663+00:00",
+    "external_id": "8417689",
+    "h1b_mentioned": false,
+    "h1b_status": "does_not_support_h1b",
+    "keywords": [
+      "logistics",
+      "recruiting",
+      "legal"
+    ],
+    "salary_currency": "",
+    "salary_max": null,
+    "salary_min": null,
+    "salary_period": "",
+    "salary_text": "",
+    "source": "greenhouse",
+    "source_updated_at": "2026-11-25T12:50:37-05:00",
+    "sponsorship_evidence": "&nbsp; This role is not eligible for visa sponsorship."
+  },
+  "greenhouse:Carvana:8417693": {
+    "company": "Carvana",
+    "enriched_at": "2026-11-25T21:43:00.711677+00:00",
+    "external_id": "8417693",
+    "h1b_mentioned": false,
+    "h1b_status": "does_not_support_h1b",
+    "keywords": [
+      "logistics",
+      "recruiting",
+      "talent acquisition",
+      "legal"
+    ],
+    "salary_currency": "",
+    "salary_max": null,
+    "salary_min": null,
+    "salary_period": "",
+    "salary_text": "",
+    "source": "greenhouse",
+    "source_updated_at": "2026-11-25T12:51:11-05:00",
+    "sponsorship_evidence": "&nbsp; This role is not eligible for visa sponsorship."
+  },
+  "greenhouse:Carvana:8417851": {
+    "company": "Carvana",
+    "enriched_at": "2026-11-25T21:43:00.691670+00:00",
+    "external_id": "8417851",
+    "h1b_mentioned": false,
+    "h1b_status": "does_not_support_h1b",
+    "keywords": [
+      "risk management",
+      "human resources",
+      "compliance",
+      "legal"
+    ],
+    "salary_currency": "",
+    "salary_max": null,
+    "salary_min": null,
+    "salary_period": "",
+    "salary_text": "",
+    "source": "greenhouse",
+    "source_updated_at": "2026-11-25T14:22:39-05:00",
+    "sponsorship_evidence": "&nbsp; This role is not eligible for visa sponsorship."
+  },
+  "greenhouse:Carvana:8417912": {
+    "company": "Carvana",
+    "enriched_at": "2026-11-25T21:43:00.566015+00:00",
+    "external_id": "8417912",
+    "h1b_mentioned": false,
+    "h1b_status": "does_not_support_h1b",
+    "keywords": [],
+    "salary_currency": "",
+    "salary_max": null,
+    "salary_min": null,
+    "salary_period": "",
+    "salary_text": "",
+    "source": "greenhouse",
+    "source_updated_at": "2026-11-25T14:55:25-05:00",
+    "sponsorship_evidence": "This role is not eligible for visa sponsorship."
+  },
+  "greenhouse:Carvana:8418002": {
+    "company": "Carvana",
+    "enriched_at": "2026-11-25T21:43:00.328750+00:00",
+    "external_id": "8418002",
+    "h1b_mentioned": false,
+    "h1b_status": "does_not_support_h1b",
+    "keywords": [
+      "legal"
+    ],
+    "salary_currency": "",
+    "salary_max": null,
+    "salary_min": null,
+    "salary_period": "",
+    "salary_text": "",
+    "source": "greenhouse",
+    "source_updated_at": "2026-11-25T16:31:18-05:00",
+    "sponsorship_evidence": "&nbsp; This role is not eligible for visa sponsorship."
+  },
+  "greenhouse:Carvana:8418008": {
+    "company": "Carvana",
+    "enriched_at": "2026-11-25T21:43:00.358771+00:00",
+    "external_id": "8418008",
+    "h1b_mentioned": false,
+    "h1b_status": "does_not_support_h1b",
+    "keywords": [],
+    "salary_currency": "",
+    "salary_max": null,
+    "salary_min": null,
+    "salary_period": "",
+    "salary_text": "",
+    "source": "greenhouse",
+    "source_updated_at": "2026-11-25T15:34:55-05:00",
+    "sponsorship_evidence": "This role is not eligible for visa sponsorship."
+  },
+  "greenhouse:Carvana:8418071": {
+    "company": "Carvana",
+    "enriched_at": "2026-11-25T21:43:00.337368+00:00",
+    "external_id": "8418071",
+    "h1b_mentioned": false,
+    "h1b_status": "does_not_support_h1b",
+    "keywords": [
+      "legal"
+    ],
+    "salary_currency": "",
+    "salary_max": null,
+    "salary_min": null,
+    "salary_period": "",
+    "salary_text": "",
+    "source": "greenhouse",
+    "source_updated_at": "2026-11-25T16:31:26-05:00",
+    "sponsorship_evidence": "&nbsp; This role is not eligible for visa sponsorship."
+  },
+  "greenhouse:Carvana:8418113": {
+    "company": "Carvana",
+    "enriched_at": "2026-11-25T21:43:00.535400+00:00",
+    "external_id": "8418113",
+    "h1b_mentioned": false,
+    "h1b_status": "does_not_support_h1b",
+    "keywords": [],
+    "salary_currency": "",
+    "salary_max": null,
+    "salary_min": null,
+    "salary_period": "",
+    "salary_text": "",
+    "source": "greenhouse",
+    "source_updated_at": "2026-11-25T16:35:56-05:00",
+    "sponsorship_evidence": "This role is not eligible for visa sponsorship."
+  },
+  "greenhouse:Carvana:8418120": {
+    "company": "Carvana",
+    "enriched_at": "2026-11-25T21:43:00.719202+00:00",
+    "external_id": "8418120",
+    "h1b_mentioned": false,
+    "h1b_status": "does_not_support_h1b",
+    "keywords": [
+      "legal",
+      "contracts"
+    ],
+    "salary_currency": "",
+    "salary_max": null,
+    "salary_min": null,
+    "salary_period": "",
+    "salary_text": "",
+    "source": "greenhouse",
+    "source_updated_at": "2026-11-25T16:37:14-05:00",
+    "sponsorship_evidence": "&nbsp; This role is not eligible for visa sponsorship."
   },
   "greenhouse:Coupang:3887444": {
     "company": "Coupang",
@@ -120395,7 +120926,7 @@
   },
   "greenhouse:Coupang:8063701": {
     "company": "Coupang",
-    "enriched_at": "2026-11-20T07:12:33.471980+00:00",
+    "enriched_at": "2026-11-25T21:40:25.492897+00:00",
     "external_id": "8063701",
     "h1b_mentioned": false,
     "h1b_status": "unknown",
@@ -120405,6 +120936,7 @@
       "data science",
       "analytics",
       "tax",
+      "logistics",
       "recruiting",
       "compliance"
     ],
@@ -120414,7 +120946,7 @@
     "salary_period": "year",
     "salary_text": "$164,000/year",
     "source": "greenhouse",
-    "source_updated_at": "2026-11-19T19:38:07-05:00",
+    "source_updated_at": "2026-11-25T14:36:30-05:00",
     "sponsorship_evidence": ""
   },
   "greenhouse:Coupang:8067901": {
@@ -121533,7 +122065,7 @@
   },
   "greenhouse:Coupang:8304755": {
     "company": "Coupang",
-    "enriched_at": "2026-11-02T05:59:46.605329+00:00",
+    "enriched_at": "2026-11-25T21:40:25.470347+00:00",
     "external_id": "8304755",
     "h1b_mentioned": false,
     "h1b_status": "unknown",
@@ -121544,6 +122076,7 @@
       "audit",
       "tax",
       "risk management",
+      "logistics",
       "recruiting",
       "compliance"
     ],
@@ -121553,12 +122086,12 @@
     "salary_period": "year",
     "salary_text": "$164,000/year",
     "source": "greenhouse",
-    "source_updated_at": "2026-11-01T19:53:48-05:00",
+    "source_updated_at": "2026-11-25T14:18:35-05:00",
     "sponsorship_evidence": ""
   },
   "greenhouse:Coupang:8304757": {
     "company": "Coupang",
-    "enriched_at": "2026-11-02T05:59:46.663977+00:00",
+    "enriched_at": "2026-11-25T21:40:25.482186+00:00",
     "external_id": "8304757",
     "h1b_mentioned": false,
     "h1b_status": "unknown",
@@ -121569,6 +122102,7 @@
       "analytics",
       "tax",
       "risk management",
+      "logistics",
       "recruiting"
     ],
     "salary_currency": "USD",
@@ -121577,7 +122111,7 @@
     "salary_period": "year",
     "salary_text": "$164,000/year",
     "source": "greenhouse",
-    "source_updated_at": "2026-11-01T19:53:48-05:00",
+    "source_updated_at": "2026-11-25T14:20:54-05:00",
     "sponsorship_evidence": ""
   },
   "greenhouse:Coupang:8311094": {
@@ -121724,7 +122258,7 @@
   },
   "greenhouse:Coupang:8356962": {
     "company": "Coupang",
-    "enriched_at": "2026-11-25T08:30:45.116112+00:00",
+    "enriched_at": "2026-11-25T21:40:25.501386+00:00",
     "external_id": "8356962",
     "h1b_mentioned": false,
     "h1b_status": "unknown",
@@ -121735,6 +122269,7 @@
       "data science",
       "tax",
       "electrical engineering",
+      "logistics",
       "recruiting"
     ],
     "salary_currency": "USD",
@@ -121743,7 +122278,7 @@
     "salary_period": "year",
     "salary_text": "$164K/year",
     "source": "greenhouse",
-    "source_updated_at": "2026-11-24T20:10:17-05:00",
+    "source_updated_at": "2026-11-25T15:42:20-05:00",
     "sponsorship_evidence": ""
   },
   "greenhouse:Coupang:8360398": {
@@ -123854,7 +124389,7 @@
   },
   "greenhouse:DoorDash:6842604": {
     "company": "DoorDash",
-    "enriched_at": "2026-11-05T06:44:15.292683+00:00",
+    "enriched_at": "2026-11-25T21:40:26.591476+00:00",
     "external_id": "6842604",
     "h1b_mentioned": false,
     "h1b_status": "unknown",
@@ -123863,7 +124398,8 @@
       "audit",
       "logistics",
       "recruiting",
-      "compliance"
+      "compliance",
+      "legal"
     ],
     "salary_currency": "USD",
     "salary_max": 75.0,
@@ -123871,7 +124407,7 @@
     "salary_period": "month",
     "salary_text": "$75/month",
     "source": "greenhouse",
-    "source_updated_at": "2026-11-04T16:15:15-05:00",
+    "source_updated_at": "2026-11-25T15:47:12-05:00",
     "sponsorship_evidence": ""
   },
   "greenhouse:DoorDash:6900751": {
@@ -125218,6 +125754,31 @@
     "salary_text": "",
     "source": "greenhouse",
     "source_updated_at": "2026-11-04T16:15:15-05:00",
+    "sponsorship_evidence": ""
+  },
+  "greenhouse:DoorDash:7485779": {
+    "company": "DoorDash",
+    "enriched_at": "2026-11-25T21:40:26.607296+00:00",
+    "external_id": "7485779",
+    "h1b_mentioned": false,
+    "h1b_status": "unknown",
+    "keywords": [
+      "Excel",
+      "audit",
+      "logistics",
+      "sales",
+      "CRM",
+      "recruiting",
+      "compliance",
+      "legal"
+    ],
+    "salary_currency": "",
+    "salary_max": null,
+    "salary_min": null,
+    "salary_period": "",
+    "salary_text": "",
+    "source": "greenhouse",
+    "source_updated_at": "2026-11-25T14:34:37-05:00",
     "sponsorship_evidence": ""
   },
   "greenhouse:DoorDash:7488724": {
@@ -127331,6 +127892,31 @@
     "source_updated_at": "2026-11-04T16:15:15-05:00",
     "sponsorship_evidence": ""
   },
+  "greenhouse:DoorDash:7859661": {
+    "company": "DoorDash",
+    "enriched_at": "2026-11-25T21:40:26.575575+00:00",
+    "external_id": "7859661",
+    "h1b_mentioned": false,
+    "h1b_status": "unknown",
+    "keywords": [
+      "Excel",
+      "audit",
+      "logistics",
+      "sales",
+      "CRM",
+      "recruiting",
+      "compliance",
+      "legal"
+    ],
+    "salary_currency": "",
+    "salary_max": null,
+    "salary_min": null,
+    "salary_period": "",
+    "salary_text": "",
+    "source": "greenhouse",
+    "source_updated_at": "2026-11-25T14:34:35-05:00",
+    "sponsorship_evidence": ""
+  },
   "greenhouse:DoorDash:7863361": {
     "company": "DoorDash",
     "enriched_at": "2026-11-21T19:14:27.951924+00:00",
@@ -127593,17 +128179,19 @@
   },
   "greenhouse:DoorDash:7895937": {
     "company": "DoorDash",
-    "enriched_at": "2026-11-05T06:44:12.354776+00:00",
+    "enriched_at": "2026-11-25T21:40:26.456154+00:00",
     "external_id": "7895937",
     "h1b_mentioned": false,
     "h1b_status": "unknown",
     "keywords": [
       "analytics",
       "Excel",
+      "audit",
       "logistics",
       "sales",
       "recruiting",
-      "compliance"
+      "compliance",
+      "legal"
     ],
     "salary_currency": "",
     "salary_max": null,
@@ -127611,7 +128199,7 @@
     "salary_period": "",
     "salary_text": "",
     "source": "greenhouse",
-    "source_updated_at": "2026-11-04T16:15:15-05:00",
+    "source_updated_at": "2026-11-25T11:09:05-05:00",
     "sponsorship_evidence": ""
   },
   "greenhouse:DoorDash:7899497": {
@@ -136566,15 +137154,17 @@
   },
   "greenhouse:DoorDash:8160255": {
     "company": "DoorDash",
-    "enriched_at": "2026-11-05T06:44:13.688501+00:00",
+    "enriched_at": "2026-11-25T21:40:26.497262+00:00",
     "external_id": "8160255",
     "h1b_mentioned": false,
     "h1b_status": "unknown",
     "keywords": [
       "Excel",
+      "audit",
       "logistics",
       "recruiting",
-      "compliance"
+      "compliance",
+      "legal"
     ],
     "salary_currency": "",
     "salary_max": null,
@@ -136582,7 +137172,7 @@
     "salary_period": "",
     "salary_text": "",
     "source": "greenhouse",
-    "source_updated_at": "2026-11-04T16:15:15-05:00",
+    "source_updated_at": "2026-11-25T12:16:03-05:00",
     "sponsorship_evidence": ""
   },
   "greenhouse:DoorDash:8160362": {
@@ -136705,15 +137295,17 @@
   },
   "greenhouse:DoorDash:8161300": {
     "company": "DoorDash",
-    "enriched_at": "2026-11-05T06:44:13.705318+00:00",
+    "enriched_at": "2026-11-25T21:40:26.514935+00:00",
     "external_id": "8161300",
     "h1b_mentioned": false,
     "h1b_status": "unknown",
     "keywords": [
       "Excel",
+      "audit",
       "logistics",
       "recruiting",
-      "compliance"
+      "compliance",
+      "legal"
     ],
     "salary_currency": "",
     "salary_max": null,
@@ -136721,7 +137313,7 @@
     "salary_period": "",
     "salary_text": "",
     "source": "greenhouse",
-    "source_updated_at": "2026-11-04T16:15:15-05:00",
+    "source_updated_at": "2026-11-25T12:15:59-05:00",
     "sponsorship_evidence": ""
   },
   "greenhouse:DoorDash:8161314": {
@@ -137147,7 +137739,7 @@
   },
   "greenhouse:DoorDash:8168866": {
     "company": "DoorDash",
-    "enriched_at": "2026-10-12T15:22:07.979012+00:00",
+    "enriched_at": "2026-11-25T21:40:26.562758+00:00",
     "external_id": "8168866",
     "h1b_mentioned": false,
     "h1b_status": "unknown",
@@ -137171,7 +137763,7 @@
     "salary_period": "",
     "salary_text": "",
     "source": "greenhouse",
-    "source_updated_at": "2026-10-12T09:42:31-04:00",
+    "source_updated_at": "2026-11-25T14:35:31-05:00",
     "sponsorship_evidence": ""
   },
   "greenhouse:DoorDash:8168885": {
@@ -138641,7 +139233,7 @@
   },
   "greenhouse:DoorDash:8201605": {
     "company": "DoorDash",
-    "enriched_at": "2026-11-05T06:44:14.505668+00:00",
+    "enriched_at": "2026-11-25T21:40:26.530124+00:00",
     "external_id": "8201605",
     "h1b_mentioned": false,
     "h1b_status": "unknown",
@@ -138649,9 +139241,11 @@
       "SQL",
       "data science",
       "Excel",
+      "audit",
       "logistics",
       "recruiting",
-      "compliance"
+      "compliance",
+      "legal"
     ],
     "salary_currency": "",
     "salary_max": null,
@@ -138659,7 +139253,7 @@
     "salary_period": "",
     "salary_text": "",
     "source": "greenhouse",
-    "source_updated_at": "2026-11-04T16:15:15-05:00",
+    "source_updated_at": "2026-11-25T12:45:08-05:00",
     "sponsorship_evidence": ""
   },
   "greenhouse:DoorDash:8201618": {
@@ -139804,7 +140398,7 @@
   },
   "greenhouse:DoorDash:8225722": {
     "company": "DoorDash",
-    "enriched_at": "2026-11-24T22:25:18.620945+00:00",
+    "enriched_at": "2026-11-25T21:40:26.400895+00:00",
     "external_id": "8225722",
     "h1b_mentioned": false,
     "h1b_status": "unknown",
@@ -139824,7 +140418,7 @@
     "salary_period": "",
     "salary_text": "",
     "source": "greenhouse",
-    "source_updated_at": "2026-11-24T16:15:54-05:00",
+    "source_updated_at": "2026-11-25T12:17:56-05:00",
     "sponsorship_evidence": ""
   },
   "greenhouse:DoorDash:8226916": {
@@ -140500,16 +141094,18 @@
   },
   "greenhouse:DoorDash:8238670": {
     "company": "DoorDash",
-    "enriched_at": "2026-11-05T06:44:12.199953+00:00",
+    "enriched_at": "2026-11-25T21:40:26.443341+00:00",
     "external_id": "8238670",
     "h1b_mentioned": false,
     "h1b_status": "unknown",
     "keywords": [
       "Excel",
+      "audit",
       "logistics",
       "sales",
       "recruiting",
-      "compliance"
+      "compliance",
+      "legal"
     ],
     "salary_currency": "",
     "salary_max": null,
@@ -140517,7 +141113,7 @@
     "salary_period": "",
     "salary_text": "",
     "source": "greenhouse",
-    "source_updated_at": "2026-11-04T16:15:15-05:00",
+    "source_updated_at": "2026-11-25T11:02:43-05:00",
     "sponsorship_evidence": ""
   },
   "greenhouse:DoorDash:8239753": {
@@ -143287,7 +143883,7 @@
   },
   "greenhouse:DoorDash:8314289": {
     "company": "DoorDash",
-    "enriched_at": "2026-11-06T19:23:29.525642+00:00",
+    "enriched_at": "2026-11-25T21:40:26.545320+00:00",
     "external_id": "8314289",
     "h1b_mentioned": false,
     "h1b_status": "unknown",
@@ -143306,7 +143902,7 @@
     "salary_period": "",
     "salary_text": "",
     "source": "greenhouse",
-    "source_updated_at": "2026-11-06T13:47:11-05:00",
+    "source_updated_at": "2026-11-25T12:15:50-05:00",
     "sponsorship_evidence": ""
   },
   "greenhouse:DoorDash:8315816": {
@@ -145071,7 +145667,7 @@
   },
   "greenhouse:DoorDash:8373664": {
     "company": "DoorDash",
-    "enriched_at": "2026-11-23T23:52:13.318785+00:00",
+    "enriched_at": "2026-11-25T21:40:26.468982+00:00",
     "external_id": "8373664",
     "h1b_mentioned": false,
     "h1b_status": "unknown",
@@ -145091,7 +145687,7 @@
     "salary_period": "",
     "salary_text": "",
     "source": "greenhouse",
-    "source_updated_at": "2026-11-23T17:16:35-05:00",
+    "source_updated_at": "2026-11-25T15:45:17-05:00",
     "sponsorship_evidence": ""
   },
   "greenhouse:DoorDash:8374039": {
@@ -145221,7 +145817,7 @@
   },
   "greenhouse:DoorDash:8383962": {
     "company": "DoorDash",
-    "enriched_at": "2026-11-12T23:37:55.475340+00:00",
+    "enriched_at": "2026-11-25T21:40:26.415347+00:00",
     "external_id": "8383962",
     "h1b_mentioned": false,
     "h1b_status": "unknown",
@@ -145239,7 +145835,7 @@
     "salary_period": "month",
     "salary_text": "$75/month",
     "source": "greenhouse",
-    "source_updated_at": "2026-11-12T14:37:26-05:00",
+    "source_updated_at": "2026-11-25T16:11:13-05:00",
     "sponsorship_evidence": ""
   },
   "greenhouse:DoorDash:8383988": {
@@ -145827,6 +146423,54 @@
     "salary_text": "",
     "source": "greenhouse",
     "source_updated_at": "2026-11-21T04:44:43-05:00",
+    "sponsorship_evidence": ""
+  },
+  "greenhouse:DoorDash:8416784": {
+    "company": "DoorDash",
+    "enriched_at": "2026-11-25T21:40:26.430616+00:00",
+    "external_id": "8416784",
+    "h1b_mentioned": false,
+    "h1b_status": "unknown",
+    "keywords": [
+      "Excel",
+      "audit",
+      "logistics",
+      "sales",
+      "recruiting",
+      "compliance",
+      "legal"
+    ],
+    "salary_currency": "",
+    "salary_max": null,
+    "salary_min": null,
+    "salary_period": "",
+    "salary_text": "",
+    "source": "greenhouse",
+    "source_updated_at": "2026-11-25T07:23:18-05:00",
+    "sponsorship_evidence": ""
+  },
+  "greenhouse:DoorDash:8417670": {
+    "company": "DoorDash",
+    "enriched_at": "2026-11-25T21:40:26.483914+00:00",
+    "external_id": "8417670",
+    "h1b_mentioned": false,
+    "h1b_status": "unknown",
+    "keywords": [
+      "machine learning",
+      "Excel",
+      "audit",
+      "logistics",
+      "recruiting",
+      "compliance",
+      "legal"
+    ],
+    "salary_currency": "",
+    "salary_max": null,
+    "salary_min": null,
+    "salary_period": "",
+    "salary_text": "",
+    "source": "greenhouse",
+    "source_updated_at": "2026-11-25T13:24:43-05:00",
     "sponsorship_evidence": ""
   },
   "greenhouse:Oscar Health:3083308": {
@@ -157863,7 +158507,7 @@
   },
   "greenhouse:Oscar Health:8407145": {
     "company": "Oscar Health",
-    "enriched_at": "2026-11-24T22:28:52.400487+00:00",
+    "enriched_at": "2026-11-25T21:43:01.915398+00:00",
     "external_id": "8407145",
     "h1b_mentioned": false,
     "h1b_status": "unknown",
@@ -157880,12 +158524,12 @@
     "salary_period": "year",
     "salary_text": "$163,944.00 - $215,176.50 per year",
     "source": "greenhouse",
-    "source_updated_at": "2026-11-24T08:30:34-05:00",
+    "source_updated_at": "2026-11-25T13:41:09-05:00",
     "sponsorship_evidence": ""
   },
   "greenhouse:Oscar Health:8407146": {
     "company": "Oscar Health",
-    "enriched_at": "2026-11-24T22:28:52.413345+00:00",
+    "enriched_at": "2026-11-25T21:43:01.904007+00:00",
     "external_id": "8407146",
     "h1b_mentioned": false,
     "h1b_status": "unknown",
@@ -157902,12 +158546,12 @@
     "salary_period": "year",
     "salary_text": "$163,944.00 - $215,176.50 per year",
     "source": "greenhouse",
-    "source_updated_at": "2026-11-24T08:30:34-05:00",
+    "source_updated_at": "2026-11-25T13:41:09-05:00",
     "sponsorship_evidence": ""
   },
   "greenhouse:Oscar Health:8407154": {
     "company": "Oscar Health",
-    "enriched_at": "2026-11-24T22:28:52.426209+00:00",
+    "enriched_at": "2026-11-25T21:43:01.883417+00:00",
     "external_id": "8407154",
     "h1b_mentioned": false,
     "h1b_status": "unknown",
@@ -157924,12 +158568,12 @@
     "salary_period": "year",
     "salary_text": "$163,944.00 - $215,176.50 per year",
     "source": "greenhouse",
-    "source_updated_at": "2026-11-24T08:30:34-05:00",
+    "source_updated_at": "2026-11-25T13:41:09-05:00",
     "sponsorship_evidence": ""
   },
   "greenhouse:Oscar Health:8407160": {
     "company": "Oscar Health",
-    "enriched_at": "2026-11-24T22:28:52.387552+00:00",
+    "enriched_at": "2026-11-25T21:43:01.893662+00:00",
     "external_id": "8407160",
     "h1b_mentioned": false,
     "h1b_status": "unknown",
@@ -157946,7 +158590,7 @@
     "salary_period": "year",
     "salary_text": "$163,944.00 - $215,176.50 per year",
     "source": "greenhouse",
-    "source_updated_at": "2026-11-24T08:30:34-05:00",
+    "source_updated_at": "2026-11-25T13:41:09-05:00",
     "sponsorship_evidence": ""
   },
   "greenhouse:Oscar Health:8407472": {
@@ -158286,13 +158930,11 @@
   },
   "workday:3M:/job/DE-Neuss/Product-Development-Electrical-Engineer--R-D----Electrical-Markets--m-w---_R01172991-2": {
     "company": "3M",
-    "enriched_at": "2026-11-18T07:28:50.343469+00:00",
+    "enriched_at": "2026-11-25T21:42:54.462531+00:00",
     "external_id": "/job/DE-Neuss/Product-Development-Electrical-Engineer--R-D----Electrical-Markets--m-w---_R01172991-2",
     "h1b_mentioned": false,
     "h1b_status": "unknown",
-    "keywords": [
-      "compliance"
-    ],
+    "keywords": [],
     "salary_currency": "",
     "salary_max": null,
     "salary_min": null,
@@ -158551,7 +159193,7 @@
   },
   "workday:3M:/job/IN-BANGALORE/Data-Analyst-and-Auditor-Support---Environment-Health-and-Safety_R01173875": {
     "company": "3M",
-    "enriched_at": "2026-11-18T07:28:50.323459+00:00",
+    "enriched_at": "2026-11-25T21:42:54.442665+00:00",
     "external_id": "/job/IN-BANGALORE/Data-Analyst-and-Auditor-Support---Environment-Health-and-Safety_R01173875",
     "h1b_mentioned": false,
     "h1b_status": "unknown",
@@ -158818,6 +159460,30 @@
     "source_updated_at": "",
     "sponsorship_evidence": ""
   },
+  "workday:3M:/job/IN-BANGALORE/GCC-Quality-Leader_R01171764-1": {
+    "company": "3M",
+    "enriched_at": "2026-11-25T21:42:54.379617+00:00",
+    "external_id": "/job/IN-BANGALORE/GCC-Quality-Leader_R01171764-1",
+    "h1b_mentioned": false,
+    "h1b_status": "unknown",
+    "keywords": [
+      "data science",
+      "analytics",
+      "audit",
+      "risk management",
+      "supply chain",
+      "recruiting",
+      "compliance"
+    ],
+    "salary_currency": "",
+    "salary_max": null,
+    "salary_min": null,
+    "salary_period": "",
+    "salary_text": "",
+    "source": "workday",
+    "source_updated_at": "",
+    "sponsorship_evidence": ""
+  },
   "workday:3M:/job/IN-BANGALORE/Global-Audit-Supervisor_R01173583-1": {
     "company": "3M",
     "enriched_at": "2026-11-22T19:40:34.198677+00:00",
@@ -158972,7 +159638,7 @@
   },
   "workday:3M:/job/IN-BANGALORE/ITGC-SOX-Lead_R01170127-2": {
     "company": "3M",
-    "enriched_at": "2026-11-12T15:32:43.323657+00:00",
+    "enriched_at": "2026-11-25T21:42:54.407879+00:00",
     "external_id": "/job/IN-BANGALORE/ITGC-SOX-Lead_R01170127-2",
     "h1b_mentioned": false,
     "h1b_status": "unknown",
@@ -159151,6 +159817,29 @@
     "source_updated_at": "",
     "sponsorship_evidence": ""
   },
+  "workday:3M:/job/IN-BANGALORE/Quality-Statistician_R01172468-1": {
+    "company": "3M",
+    "enriched_at": "2026-11-25T21:42:54.372289+00:00",
+    "external_id": "/job/IN-BANGALORE/Quality-Statistician_R01172468-1",
+    "h1b_mentioned": false,
+    "h1b_status": "unknown",
+    "keywords": [
+      "Python",
+      "machine learning",
+      "data science",
+      "analytics",
+      "recruiting",
+      "compliance"
+    ],
+    "salary_currency": "",
+    "salary_max": null,
+    "salary_min": null,
+    "salary_period": "",
+    "salary_text": "",
+    "source": "workday",
+    "source_updated_at": "",
+    "sponsorship_evidence": ""
+  },
   "workday:3M:/job/IN-BANGALORE/Quality-System---Senior-Auditor_R01172472": {
     "company": "3M",
     "enriched_at": "2026-11-22T19:40:34.137728+00:00",
@@ -159212,13 +159901,11 @@
   },
   "workday:3M:/job/IN-BANGALORE/SAP-BTP-Developer_R01173897-1": {
     "company": "3M",
-    "enriched_at": "2026-11-16T06:37:12.010306+00:00",
+    "enriched_at": "2026-11-25T21:42:54.462677+00:00",
     "external_id": "/job/IN-BANGALORE/SAP-BTP-Developer_R01173897-1",
     "h1b_mentioned": false,
     "h1b_status": "unknown",
-    "keywords": [
-      "compliance"
-    ],
+    "keywords": [],
     "salary_currency": "",
     "salary_max": null,
     "salary_min": null,
@@ -159345,7 +160032,7 @@
   },
   "workday:3M:/job/IN-BANGALORE/SQE---3PM-SCAR-Management_R01172463": {
     "company": "3M",
-    "enriched_at": "2026-11-18T07:28:50.308556+00:00",
+    "enriched_at": "2026-11-25T21:42:54.421120+00:00",
     "external_id": "/job/IN-BANGALORE/SQE---3PM-SCAR-Management_R01172463",
     "h1b_mentioned": false,
     "h1b_status": "unknown",
@@ -159365,7 +160052,7 @@
   },
   "workday:3M:/job/IN-BANGALORE/SQE---Customer-and-Supplier-PPAP_R01172460": {
     "company": "3M",
-    "enriched_at": "2026-11-18T07:28:50.318543+00:00",
+    "enriched_at": "2026-11-25T21:42:54.435499+00:00",
     "external_id": "/job/IN-BANGALORE/SQE---Customer-and-Supplier-PPAP_R01172460",
     "h1b_mentioned": false,
     "h1b_status": "unknown",
@@ -159384,7 +160071,7 @@
   },
   "workday:3M:/job/IN-BANGALORE/SQE---Supplier-SCAR-Management_R01172462": {
     "company": "3M",
-    "enriched_at": "2026-11-18T07:28:50.313637+00:00",
+    "enriched_at": "2026-11-25T21:42:54.428327+00:00",
     "external_id": "/job/IN-BANGALORE/SQE---Supplier-SCAR-Management_R01172462",
     "h1b_mentioned": false,
     "h1b_status": "unknown",
@@ -159630,7 +160317,7 @@
   },
   "workday:3M:/job/IN-BANGALORE/Sr-Specialist-Corporate-Audit_R01174239-1": {
     "company": "3M",
-    "enriched_at": "2026-11-18T07:28:50.304070+00:00",
+    "enriched_at": "2026-11-25T21:42:54.414735+00:00",
     "external_id": "/job/IN-BANGALORE/Sr-Specialist-Corporate-Audit_R01174239-1",
     "h1b_mentioned": false,
     "h1b_status": "unknown",
@@ -159742,16 +160429,11 @@
   },
   "workday:3M:/job/IN-Bangalore-Kar/Activation-Marketer--Commercial-Branding_R01174075": {
     "company": "3M",
-    "enriched_at": "2026-11-18T07:28:50.348001+00:00",
+    "enriched_at": "2026-11-25T21:42:54.462624+00:00",
     "external_id": "/job/IN-Bangalore-Kar/Activation-Marketer--Commercial-Branding_R01174075",
     "h1b_mentioned": false,
     "h1b_status": "unknown",
-    "keywords": [
-      "analytics",
-      "sales",
-      "CRM",
-      "compliance"
-    ],
+    "keywords": [],
     "salary_currency": "",
     "salary_max": null,
     "salary_min": null,
@@ -159935,6 +160617,25 @@
     "source_updated_at": "",
     "sponsorship_evidence": ""
   },
+  "workday:3M:/job/IN-Delhi-New-Delhi/Area-Sales-Manager---North-EGI_R01173943": {
+    "company": "3M",
+    "enriched_at": "2026-11-25T21:42:54.388772+00:00",
+    "external_id": "/job/IN-Delhi-New-Delhi/Area-Sales-Manager---North-EGI_R01173943",
+    "h1b_mentioned": false,
+    "h1b_status": "unknown",
+    "keywords": [
+      "sales",
+      "compliance"
+    ],
+    "salary_currency": "",
+    "salary_max": null,
+    "salary_min": null,
+    "salary_period": "",
+    "salary_text": "",
+    "source": "workday",
+    "source_updated_at": "",
+    "sponsorship_evidence": ""
+  },
   "workday:3M:/job/IN-Gujarat-Ahmedabad/Key-Accounts-Manager---Rajkot-Gujrat---Abrasive-Systems-Division_R01170772": {
     "company": "3M",
     "enriched_at": "2026-11-06T06:56:50.881836+00:00",
@@ -159956,15 +160657,12 @@
   },
   "workday:3M:/job/IN-Maharashtra-Mumbai/Area-Sales-Manager---Personal-Safety-Division---Mumbai_R01173804": {
     "company": "3M",
-    "enriched_at": "2026-11-16T06:37:12.016710+00:00",
+    "enriched_at": "2026-11-25T21:42:54.462715+00:00",
     "external_id": "/job/IN-Maharashtra-Mumbai/Area-Sales-Manager---Personal-Safety-Division---Mumbai_R01173804",
     "h1b_mentioned": false,
     "h1b_status": "unknown",
     "keywords": [
-      "supply chain",
-      "sales",
-      "CRM",
-      "compliance"
+      "sales"
     ],
     "salary_currency": "",
     "salary_max": null,
@@ -160578,6 +161276,26 @@
     "source_updated_at": "",
     "sponsorship_evidence": ": May be Authorized Must be legally authorized to work in country of employment without sponsorship for employment visa status (e."
   },
+  "workday:3M:/job/US-Minnesota-Cottage-Grove/Manufacturing-Engineer_R01172937": {
+    "company": "3M",
+    "enriched_at": "2026-11-25T21:42:54.399068+00:00",
+    "external_id": "/job/US-Minnesota-Cottage-Grove/Manufacturing-Engineer_R01172937",
+    "h1b_mentioned": true,
+    "h1b_status": "does_not_support_h1b",
+    "keywords": [
+      "recruiting",
+      "compliance",
+      "contracts"
+    ],
+    "salary_currency": "",
+    "salary_max": null,
+    "salary_min": null,
+    "salary_period": "",
+    "salary_text": "",
+    "source": "workday",
+    "source_updated_at": "",
+    "sponsorship_evidence": ": May be authorized Must be legally authorized to work in country of employment without sponsorship for employment visa status (e."
+  },
   "workday:3M:/job/US-Minnesota-Cottage-Grove/Manufacturing-Supervisor---7-days-on-7-days-off-Rotating-Days-Midnights----Cottage-Grove--MN_R01169651": {
     "company": "3M",
     "enriched_at": "2026-09-17T11:53:03.432709+00:00",
@@ -160911,15 +161629,11 @@
   },
   "workday:3M:/job/US-Minnesota-Maplewood/Global-Quality-Assurance-Engineer--Maplewood--MN-_R01173985": {
     "company": "3M",
-    "enriched_at": "2026-11-18T07:28:50.336761+00:00",
+    "enriched_at": "2026-11-25T21:42:54.462461+00:00",
     "external_id": "/job/US-Minnesota-Maplewood/Global-Quality-Assurance-Engineer--Maplewood--MN-_R01173985",
-    "h1b_mentioned": true,
-    "h1b_status": "does_not_support_h1b",
-    "keywords": [
-      "recruiting",
-      "compliance",
-      "contracts"
-    ],
+    "h1b_mentioned": false,
+    "h1b_status": "unknown",
+    "keywords": [],
     "salary_currency": "",
     "salary_max": null,
     "salary_min": null,
@@ -160927,7 +161641,7 @@
     "salary_text": "",
     "source": "workday",
     "source_updated_at": "",
-    "sponsorship_evidence": ": May be authorized Must be legally authorized to work in country of employment without sponsorship for employment visa status (e."
+    "sponsorship_evidence": ""
   },
   "workday:3M:/job/US-Minnesota-Maplewood/Industry-and-Brand-Leader_R01168888": {
     "company": "3M",
@@ -161225,7 +161939,7 @@
   },
   "workday:3M:/job/US-Minnesota-Maplewood/USAC-Procurement-Sr-Specialist--Filling---Chemical-Services_R01169208": {
     "company": "3M",
-    "enriched_at": "2026-11-18T07:28:50.330129+00:00",
+    "enriched_at": "2026-11-25T21:42:54.452667+00:00",
     "external_id": "/job/US-Minnesota-Maplewood/USAC-Procurement-Sr-Specialist--Filling---Chemical-Services_R01169208",
     "h1b_mentioned": true,
     "h1b_status": "does_not_support_h1b",
@@ -1375203,7 +1375917,7 @@
   },
   "workday:Walt Disney:/job/Glendale-CA-USA/Product-Design--Accessories--Intern--Spring-2027_10160436": {
     "company": "Walt Disney",
-    "enriched_at": "2026-10-14T04:55:40.122576+00:00",
+    "enriched_at": "2026-11-25T21:42:00.193917+00:00",
     "external_id": "/job/Glendale-CA-USA/Product-Design--Accessories--Intern--Spring-2027_10160436",
     "h1b_mentioned": false,
     "h1b_status": "unknown",
@@ -1381333,7 +1382047,7 @@
   },
   "workday:Walt Disney:/job/New-York-NY-USA/Sr-Software-Engineer---Media-Platform-Alliance_10145062": {
     "company": "Walt Disney",
-    "enriched_at": "2026-11-15T18:54:14.903128+00:00",
+    "enriched_at": "2026-11-25T21:42:00.202863+00:00",
     "external_id": "/job/New-York-NY-USA/Sr-Software-Engineer---Media-Platform-Alliance_10145062",
     "h1b_mentioned": false,
     "h1b_status": "unknown",

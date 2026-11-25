@@ -1,12 +1,12 @@
 # F500Tracker internships
 
-Last updated: November 25, 2026 at 08:33 UTC
+Last updated: November 25, 2026 at 21:43 UTC
 
-Current internships: 363
+Current internships: 364
 
 ## Categories
 
-[Software & IT (39)](#software-it) · [Data & AI (7)](#data-ai) · [Product & Design (1)](#product-design) · [Engineering (51)](#engineering) · [Finance & Accounting (6)](#finance-accounting) · [Sales & Marketing (9)](#sales-marketing) · [Operations & Supply Chain (24)](#operations-supply-chain) · [People & Legal (1)](#people-legal) · [Other (225)](#other)
+[Software & IT (39)](#software-it) · [Data & AI (7)](#data-ai) · [Product & Design (1)](#product-design) · [Engineering (51)](#engineering) · [Finance & Accounting (6)](#finance-accounting) · [Sales & Marketing (9)](#sales-marketing) · [Operations & Supply Chain (24)](#operations-supply-chain) · [People & Legal (1)](#people-legal) · [Other (226)](#other)
 
 <a id="software-it"></a>
 
@@ -238,7 +238,7 @@ Open positions: 1
 
 ## Other
 
-Open positions: 225
+Open positions: 226
 
 | Rank | Company | Position | Location | Category | Salary | Keywords | Sponsorship | Apply |
 |---:|---|---|---|---|---|---|---|---|
@@ -249,6 +249,7 @@ Open positions: 225
 | 376 | Oscar Health | Mergers and Acquisitions Intern | New York, New York, United States | Other | Not disclosed | artificial intelligence · recruiting · compliance · legal | Not specified | [Apply](https://oscarhealth.com/careers/jobs?gh_jid=8414269) |
 | 191 | Block | Applied Research Intern, Proactive Intelligence & Customer World Models (PhD / Graduate Co-op) | Bay Area, CA, United States of America | Other | Not disclosed | Python · machine learning · legal | Not specified | [Apply](http://block.xyz/careers/jobs/5108007008?gh_jid=5108007008) |
 | 329 | DoorDash | Product Design, Intern (Summer 2027) | San Francisco, CA; New York, NY | Other | Not disclosed | Excel · logistics · recruiting · compliance | Not specified | [Apply](https://job-boards.greenhouse.io/doordashusa/jobs/8176863) |
+| 44 | Walt Disney | Product Design (Accessories) Intern, Spring 2027 | Glendale, CA, USA | Other | $23/hr | Excel · CAD | Not specified | [Apply](https://disney.wd5.myworkdayjobs.com/en-US/disneycareer/job/Glendale-CA-USA/Product-Design--Accessories--Intern--Spring-2027_10160436) |
 | 133 | Hewlett Packard Enterprise | Firmware Engineering Security Intern | Sunnyvale, California, United States of America | Other | Not disclosed | Python · Rust · legal | Not specified | [Apply](https://hpe.wd5.myworkdayjobs.com/en-US/Jobsathpe/job/Sunnyvale-California-United-States-of-America/Firmware-Engineering-Intern_1214254) |
 | 133 | Hewlett Packard Enterprise | PhD Research Intern | Milpitas, California, United States of America | Other | Not disclosed | — | Not specified | [Apply](https://hpe.wd5.myworkdayjobs.com/en-US/Jobsathpe/job/Milpitas-California-United-States-of-America/PhD-Research-Intern_1213426) |
 | 133 | Hewlett Packard Enterprise | Networking Strategy and Execution Intern MBA | Sunnyvale, California, United States of America | Other | Not disclosed | — | Not specified | [Apply](https://hpe.wd5.myworkdayjobs.com/en-US/Jobsathpe/job/Sunnyvale-California-United-States-of-America/Networking-Strategy-and-Execution-Intern-MBA_1214161) |
