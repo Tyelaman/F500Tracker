@@ -1,18 +1,18 @@
 # F500Tracker internships
 
-Last updated: November 24, 2026 at 22:29 UTC
+Last updated: November 25, 2026 at 08:33 UTC
 
-Current internships: 359
+Current internships: 363
 
 ## Categories
 
-[Software & IT (38)](#software-it) · [Data & AI (7)](#data-ai) · [Product & Design (1)](#product-design) · [Engineering (51)](#engineering) · [Finance & Accounting (6)](#finance-accounting) · [Sales & Marketing (9)](#sales-marketing) · [Operations & Supply Chain (24)](#operations-supply-chain) · [People & Legal (1)](#people-legal) · [Other (222)](#other)
+[Software & IT (39)](#software-it) · [Data & AI (7)](#data-ai) · [Product & Design (1)](#product-design) · [Engineering (51)](#engineering) · [Finance & Accounting (6)](#finance-accounting) · [Sales & Marketing (9)](#sales-marketing) · [Operations & Supply Chain (24)](#operations-supply-chain) · [People & Legal (1)](#people-legal) · [Other (225)](#other)
 
 <a id="software-it"></a>
 
 ## Software & IT
 
-Open positions: 38
+Open positions: 39
 
 | Rank | Company | Position | Location | Category | Salary | Keywords | Sponsorship | Apply |
 |---:|---|---|---|---|---|---|---|---|
@@ -20,6 +20,7 @@ Open positions: 38
 | 329 | DoorDash | Software Engineer, Intern - Labs (Summer 2027) | San Francisco, CA; Sunnyvale, CA | Software & IT | Not disclosed | Python · Java · SQL · AWS · machine learning | Not specified | [Apply](https://job-boards.greenhouse.io/doordashusa/jobs/8263774) |
 | 357 | Airbnb | Software Engineering Intern (BS/MS) | San Francisco, California | Software & IT | Not disclosed | Java · C++ · JavaScript · SQL · machine learning | Not specified | [Apply](https://careers.airbnb.com/positions/8360478?gh_jid=8360478) |
 | 329 | DoorDash | Software Engineer, Intern (Summer 2027) - US | New York, NY; San Francisco, CA; Sunnyvale, CA; Los Angeles, CA; Seattle, WA | Software & IT | Not disclosed | Python · Java · SQL · AWS · Excel | Not specified | [Apply](https://job-boards.greenhouse.io/doordashusa/jobs/8171041) |
+| 133 | Hewlett Packard Enterprise | Cloud Security Engagement Intern | Spring, Texas, United States of America | Software & IT | Not disclosed | — | Not specified | [Apply](https://hpe.wd5.myworkdayjobs.com/en-US/Jobsathpe/job/Spring-Texas-United-States-of-America/Cloud-Security-Engagement-Intern_1216079) |
 | 23 | General Motors | 2027 Summer Intern – Software Verification Engineer, AV/AI Platform | Warren, Michigan, United States of America | Software & IT | Not disclosed | Python · electrical engineering | Not specified | [Apply](https://generalmotors.wd5.myworkdayjobs.com/en-US/Careers_GM/job/Warren-Michigan-United-States-of-America/XMLNAME-2027-Summer-Intern---Software-Verification-Engineer--AV-AI-Platform_JR-202621697) |
 | 396 | Analog Devices | Embedded Software Engineer Intern | US, TX, Austin, Plaza on the Lake | Software & IT | Not disclosed | Python · electrical engineering | Not specified | [Apply](https://analogdevices.wd1.myworkdayjobs.com/en-US/External/job/US-TX-Austin-Plaza-on-the-Lake/Embedded-Software-Engineer-Intern_R269548) |
 | 112 | Northrop Grumman | SkillBridge Internship Program is seeking our exceptional enlisted-military talent to join us as a Systems Engineer - 2 | United States-Alabama-Huntsville | Software & IT | Not disclosed | — | Not specified | [Apply](https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-Alabama-Huntsville/SkillBridge-Internship-Program-is-seeking-our-exceptional-enlisted-military-talent-to-join-us-as-a-Systems-Engineer---2_R10260427) |
@@ -237,17 +238,20 @@ Open positions: 1
 
 ## Other
 
-Open positions: 222
+Open positions: 225
 
 | Rank | Company | Position | Location | Category | Salary | Keywords | Sponsorship | Apply |
 |---:|---|---|---|---|---|---|---|---|
+| 220 | Carvana | Customer Experience Intern (Summer 2027) | Tempe, AZ | Other | Not disclosed | — | Not specified | [Apply](https://www.carvana.com/careers/apply?gh_jid=8279204) |
+| 220 | Carvana | Customer Service Intern (Summer 2027) | Tempe, AZ | Other | Not disclosed | — | Not specified | [Apply](https://www.carvana.com/careers/apply?gh_jid=8279255) |
+| 220 | Carvana | Customer Support Intern (Summer 2027) | Tempe, AZ | Other | Not disclosed | — | Not specified | [Apply](https://www.carvana.com/careers/apply?gh_jid=8279263) |
+| 220 | Carvana | Paid Customer Experience Internship (Summer 2027) | Tempe, AZ | Other | Not disclosed | — | Not specified | [Apply](https://www.carvana.com/careers/apply?gh_jid=8279265) |
 | 376 | Oscar Health | Mergers and Acquisitions Intern | New York, New York, United States | Other | Not disclosed | artificial intelligence · recruiting · compliance · legal | Not specified | [Apply](https://oscarhealth.com/careers/jobs?gh_jid=8414269) |
 | 191 | Block | Applied Research Intern, Proactive Intelligence & Customer World Models (PhD / Graduate Co-op) | Bay Area, CA, United States of America | Other | Not disclosed | Python · machine learning · legal | Not specified | [Apply](http://block.xyz/careers/jobs/5108007008?gh_jid=5108007008) |
-| 220 | Carvana | Customer Experience Intern (Summer 2027) | Tempe, AZ | Other | Not disclosed | — | Not specified | [Apply](https://www.carvana.com/careers/apply?gh_jid=8279204) |
-| 220 | Carvana | Paid Customer Experience Internship (Summer 2027) | Tempe, AZ | Other | Not disclosed | — | Not specified | [Apply](https://www.carvana.com/careers/apply?gh_jid=8279265) |
-| 220 | Carvana | Customer Support Intern (Summer 2027) | Tempe, AZ | Other | Not disclosed | — | Not specified | [Apply](https://www.carvana.com/careers/apply?gh_jid=8279263) |
-| 220 | Carvana | Customer Service Intern (Summer 2027) | Tempe, AZ | Other | Not disclosed | — | Not specified | [Apply](https://www.carvana.com/careers/apply?gh_jid=8279255) |
 | 329 | DoorDash | Product Design, Intern (Summer 2027) | San Francisco, CA; New York, NY | Other | Not disclosed | Excel · logistics · recruiting · compliance | Not specified | [Apply](https://job-boards.greenhouse.io/doordashusa/jobs/8176863) |
+| 133 | Hewlett Packard Enterprise | Firmware Engineering Security Intern | Sunnyvale, California, United States of America | Other | Not disclosed | Python · Rust · legal | Not specified | [Apply](https://hpe.wd5.myworkdayjobs.com/en-US/Jobsathpe/job/Sunnyvale-California-United-States-of-America/Firmware-Engineering-Intern_1214254) |
+| 133 | Hewlett Packard Enterprise | PhD Research Intern | Milpitas, California, United States of America | Other | Not disclosed | — | Not specified | [Apply](https://hpe.wd5.myworkdayjobs.com/en-US/Jobsathpe/job/Milpitas-California-United-States-of-America/PhD-Research-Intern_1213426) |
+| 133 | Hewlett Packard Enterprise | Networking Strategy and Execution Intern MBA | Sunnyvale, California, United States of America | Other | Not disclosed | — | Not specified | [Apply](https://hpe.wd5.myworkdayjobs.com/en-US/Jobsathpe/job/Sunnyvale-California-United-States-of-America/Networking-Strategy-and-Execution-Intern-MBA_1214161) |
 | 19 | Centene | Business Analyst Graduate Summer Intern | Remote-MO | Other | Not disclosed | — | Not specified | [Apply](https://centene.wd5.myworkdayjobs.com/en-US/centene_external/job/Remote-MO/Graduate-Summer-Intern_1667776) |
 | 19 | Centene | Managed Care Pharmacy Graduate Summer Intern | Remote-MO | Other | Not disclosed | — | Not specified | [Apply](https://centene.wd5.myworkdayjobs.com/en-US/centene_external/job/Remote-MO/Managed-Care-Pharmacy-Undergraduate-Summer-Intern_1667804) |
 | 19 | Centene | Technology Summer 2027 Intern (Undergraduate) | Remote-FL | Other | Not disclosed | — | Not specified | [Apply](https://centene.wd5.myworkdayjobs.com/en-US/centene_external/job/Remote-FL/Centene-2027-Undergraduate-Summer-Intern_1660476) |
