@@ -1,12 +1,12 @@
 # F500Tracker internships
 
-Last updated: November 26, 2026 at 08:18 UTC
+Last updated: November 26, 2026 at 21:33 UTC
 
 Current internships: 350
 
 ## Categories
 
-[Software & IT (37)](#software-it) · [Data & AI (7)](#data-ai) · [Product & Design (1)](#product-design) · [Engineering (51)](#engineering) · [Finance & Accounting (5)](#finance-accounting) · [Sales & Marketing (7)](#sales-marketing) · [Operations & Supply Chain (24)](#operations-supply-chain) · [People & Legal (1)](#people-legal) · [Other (217)](#other)
+[Software & IT (37)](#software-it) · [Data & AI (7)](#data-ai) · [Product & Design (1)](#product-design) · [Engineering (50)](#engineering) · [Finance & Accounting (5)](#finance-accounting) · [Sales & Marketing (7)](#sales-marketing) · [Operations & Supply Chain (24)](#operations-supply-chain) · [People & Legal (1)](#people-legal) · [Other (218)](#other)
 
 <a id="software-it"></a>
 
@@ -90,13 +90,12 @@ Open positions: 1
 
 ## Engineering
 
-Open positions: 51
+Open positions: 50
 
 | Rank | Company | Position | Location | Category | Salary | Keywords | Sponsorship | Apply |
 |---:|---|---|---|---|---|---|---|---|
 | 329 | DoorDash | Electrical Engineer, Intern - Labs (Summer 2027) | Oakland, CA | Engineering | Not disclosed | Python · C++ · Excel · electrical engineering · logistics | Not specified | [Apply](https://job-boards.greenhouse.io/doordashusa/jobs/8274095) |
 | 329 | DoorDash | Mechanical Engineering, Intern - Labs (Summer 2027) | Oakland, CA | Engineering | Not disclosed | Excel · mechanical engineering · CAD · SolidWorks · logistics | Not specified | [Apply](https://job-boards.greenhouse.io/doordashusa/jobs/8313401) |
-| 84 | HP | Technology & Innovation Organization Electrical Engineering Internship | Corvallis, Oregon, United States of America | Engineering | Not disclosed | electrical engineering | Not specified | [Apply](https://hp.wd5.myworkdayjobs.com/en-US/ExternalCareerSite/job/Corvallis-Oregon-United-States-of-America/Technology---Innovation-Organization-Electrical-Engineering-Internship_3167270-1) |
 | 125 | Micron Technology | Intern - HVM Area Manufacturing Engineer (AME) | Boise, ID - Main Site | Engineering | Not disclosed | Python · SQL | Not specified | [Apply](https://micron.wd1.myworkdayjobs.com/en-US/External/job/Boise-ID---Main-Site/Intern---HVM-Area-Manufacturing-Engineer--AME-_JR116168) |
 | 125 | Micron Technology | Intern - YE-Electrical Failure Analysis Engineer | Boise, ID - ID1 | Engineering | Not disclosed | Python · SQL · machine learning · artificial intelligence · data science | Not specified | [Apply](https://micron.wd1.myworkdayjobs.com/en-US/External/job/Boise-ID---ID1/Intern---YE-Electrical-Failure-Analysis-Engineer_JR114538) |
 | 125 | Micron Technology | Intern - ID1 Manufacturing Engineer | Boise, ID - ID1 | Engineering | Not disclosed | Python · Java · artificial intelligence · analytics · Excel | Not specified | [Apply](https://micron.wd1.myworkdayjobs.com/en-US/External/job/Boise-ID---ID1/Intern---ID1-Manufacturing-Engineer_JR113287) |
@@ -233,7 +232,7 @@ Open positions: 1
 
 ## Other
 
-Open positions: 217
+Open positions: 218
 
 | Rank | Company | Position | Location | Category | Salary | Keywords | Sponsorship | Apply |
 |---:|---|---|---|---|---|---|---|---|
@@ -244,6 +243,7 @@ Open positions: 217
 | 376 | Oscar Health | Mergers and Acquisitions Intern | New York, New York, United States | Other | Not disclosed | artificial intelligence · recruiting · compliance · legal | Not specified | [Apply](https://oscarhealth.com/careers/jobs?gh_jid=8414269) |
 | 191 | Block | Applied Research Intern, Proactive Intelligence & Customer World Models (PhD / Graduate Co-op) | Bay Area, CA, United States of America | Other | Not disclosed | Python · machine learning · legal | Not specified | [Apply](http://block.xyz/careers/jobs/5108007008?gh_jid=5108007008) |
 | 329 | DoorDash | Product Design, Intern (Summer 2027) | San Francisco, CA; New York, NY | Other | Not disclosed | Excel · logistics · recruiting · compliance | Not specified | [Apply](https://job-boards.greenhouse.io/doordashusa/jobs/8176863) |
+| 84 | HP | HP SalesEDGE Rotational Internship Job Description | Rio Rancho, New Mexico, United States of America | Other | $21.85–$30.04/hr | sales | Not specified | [Apply](https://hp.wd5.myworkdayjobs.com/en-US/ExternalCareerSite/job/Rio-Rancho-New-Mexico-United-States-of-America/HP-SalesEDGE-Rotational-Internship-Job-Description_3169060) |
 | 16 | NVIDIA | AI Compiler and Kernel Intern – Summer 2027 | US, TX, Austin | Other | Not disclosed | Python · machine learning · electrical engineering · recruiting | Not specified | [Apply](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-TX-Austin/AI-Compiler-and-Kernel-Intern---Summer-2027_JR2029220-1) |
 | 396 | Analog Devices | Robot Learning Engineer Intern | US, CA, San Jose, Rio Robles | Other | Not disclosed | machine learning | Not specified | [Apply](https://analogdevices.wd1.myworkdayjobs.com/en-US/External/job/US-CA-San-Jose-Rio-Robles/Robot-Learning-Engineer-Intern_R269543) |
 | 476 | Marvell Technology | Applied AI/ML Research Scientist Intern | Santa Clara, CA | Other | Not disclosed | Python · machine learning · data science · electrical engineering | Not specified | [Apply](https://marvell.wd1.myworkdayjobs.com/en-US/MarvellCareers/job/Santa-Clara-CA/Applied-AI-ML-Research-Scientist-Intern_2603847-1) |
