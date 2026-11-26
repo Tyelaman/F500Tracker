@@ -5772,6 +5772,24 @@
     "source_updated_at": "2026-11-18T00:00:14-05:00",
     "sponsorship_evidence": ""
   },
+  "greenhouse:Airbnb:8360678": {
+    "company": "Airbnb",
+    "enriched_at": "2026-11-26T08:14:45.831053+00:00",
+    "external_id": "8360678",
+    "h1b_mentioned": false,
+    "h1b_status": "unknown",
+    "keywords": [
+      "recruiting"
+    ],
+    "salary_currency": "",
+    "salary_max": null,
+    "salary_min": null,
+    "salary_period": "",
+    "salary_text": "",
+    "source": "greenhouse",
+    "source_updated_at": "2026-11-25T19:39:23-05:00",
+    "sponsorship_evidence": ""
+  },
   "greenhouse:Airbnb:8372149": {
     "company": "Airbnb",
     "enriched_at": "2026-11-12T23:37:56.082049+00:00",
@@ -85604,7 +85622,7 @@
   },
   "greenhouse:Carvana:8257323": {
     "company": "Carvana",
-    "enriched_at": "2026-11-12T15:32:44.535011+00:00",
+    "enriched_at": "2026-11-26T08:17:32.117300+00:00",
     "external_id": "8257323",
     "h1b_mentioned": false,
     "h1b_status": "does_not_support_h1b",
@@ -85615,7 +85633,7 @@
     "salary_period": "hour",
     "salary_text": "$20-$22 Hourly",
     "source": "greenhouse",
-    "source_updated_at": "2026-11-12T10:23:25-05:00",
+    "source_updated_at": "2026-11-25T16:43:43-05:00",
     "sponsorship_evidence": "This role is not eligible for visa sponsorship."
   },
   "greenhouse:Carvana:8257328": {
@@ -85700,7 +85718,7 @@
   },
   "greenhouse:Carvana:8257349": {
     "company": "Carvana",
-    "enriched_at": "2026-10-07T06:15:11.384287+00:00",
+    "enriched_at": "2026-11-26T08:17:32.125747+00:00",
     "external_id": "8257349",
     "h1b_mentioned": false,
     "h1b_status": "does_not_support_h1b",
@@ -85711,7 +85729,7 @@
     "salary_period": "",
     "salary_text": "",
     "source": "greenhouse",
-    "source_updated_at": "2026-10-06T16:49:11-04:00",
+    "source_updated_at": "2026-11-25T16:48:22-05:00",
     "sponsorship_evidence": "This role is not eligible for visa sponsorship."
   },
   "greenhouse:Carvana:8257351": {
@@ -97084,7 +97102,7 @@
   },
   "greenhouse:Carvana:8318865": {
     "company": "Carvana",
-    "enriched_at": "2026-11-18T07:28:51.481203+00:00",
+    "enriched_at": "2026-11-26T08:17:32.135328+00:00",
     "external_id": "8318865",
     "h1b_mentioned": false,
     "h1b_status": "does_not_support_h1b",
@@ -97095,7 +97113,7 @@
     "salary_period": "",
     "salary_text": "",
     "source": "greenhouse",
-    "source_updated_at": "2026-11-18T00:20:31-05:00",
+    "source_updated_at": "2026-11-25T16:46:11-05:00",
     "sponsorship_evidence": "This role is not eligible for visa sponsorship."
   },
   "greenhouse:Carvana:8318869": {
@@ -100258,7 +100276,7 @@
   },
   "greenhouse:Carvana:8334776": {
     "company": "Carvana",
-    "enriched_at": "2026-11-18T07:28:51.300127+00:00",
+    "enriched_at": "2026-11-26T08:17:32.109090+00:00",
     "external_id": "8334776",
     "h1b_mentioned": false,
     "h1b_status": "does_not_support_h1b",
@@ -100269,7 +100287,7 @@
     "salary_period": "",
     "salary_text": "",
     "source": "greenhouse",
-    "source_updated_at": "2026-11-18T00:20:19-05:00",
+    "source_updated_at": "2026-11-25T16:46:30-05:00",
     "sponsorship_evidence": "This role is not eligible for visa sponsorship."
   },
   "greenhouse:Carvana:8334784": {
@@ -100406,7 +100424,7 @@
   },
   "greenhouse:Carvana:8334821": {
     "company": "Carvana",
-    "enriched_at": "2026-11-18T07:28:51.289521+00:00",
+    "enriched_at": "2026-11-26T08:17:32.101214+00:00",
     "external_id": "8334821",
     "h1b_mentioned": false,
     "h1b_status": "does_not_support_h1b",
@@ -100417,7 +100435,7 @@
     "salary_period": "",
     "salary_text": "",
     "source": "greenhouse",
-    "source_updated_at": "2026-11-18T00:21:28-05:00",
+    "source_updated_at": "2026-11-25T16:52:48-05:00",
     "sponsorship_evidence": "This role is not eligible for visa sponsorship."
   },
   "greenhouse:Carvana:8334824": {
@@ -101091,7 +101109,7 @@
   },
   "greenhouse:Carvana:8335273": {
     "company": "Carvana",
-    "enriched_at": "2026-11-18T07:28:51.486759+00:00",
+    "enriched_at": "2026-11-26T08:17:32.143962+00:00",
     "external_id": "8335273",
     "h1b_mentioned": false,
     "h1b_status": "does_not_support_h1b",
@@ -101102,7 +101120,7 @@
     "salary_period": "",
     "salary_text": "",
     "source": "greenhouse",
-    "source_updated_at": "2026-11-18T00:21:13-05:00",
+    "source_updated_at": "2026-11-25T16:45:35-05:00",
     "sponsorship_evidence": "This role is not eligible for visa sponsorship."
   },
   "greenhouse:Carvana:8335274": {
@@ -101203,7 +101221,7 @@
   },
   "greenhouse:Carvana:8335289": {
     "company": "Carvana",
-    "enriched_at": "2026-11-19T20:37:01.763226+00:00",
+    "enriched_at": "2026-11-26T08:17:32.152510+00:00",
     "external_id": "8335289",
     "h1b_mentioned": false,
     "h1b_status": "does_not_support_h1b",
@@ -101214,7 +101232,7 @@
     "salary_period": "",
     "salary_text": "",
     "source": "greenhouse",
-    "source_updated_at": "2026-11-19T10:47:39-05:00",
+    "source_updated_at": "2026-11-25T16:45:12-05:00",
     "sponsorship_evidence": "This role is not eligible for visa sponsorship."
   },
   "greenhouse:Carvana:8335290": {
@@ -101254,7 +101272,7 @@
   },
   "greenhouse:Carvana:8335303": {
     "company": "Carvana",
-    "enriched_at": "2026-11-18T07:28:51.220097+00:00",
+    "enriched_at": "2026-11-26T08:17:32.093007+00:00",
     "external_id": "8335303",
     "h1b_mentioned": false,
     "h1b_status": "does_not_support_h1b",
@@ -101265,7 +101283,7 @@
     "salary_period": "hour",
     "salary_text": "$21 - $25 / Hourly",
     "source": "greenhouse",
-    "source_updated_at": "2026-11-17T18:56:20-05:00",
+    "source_updated_at": "2026-11-25T16:43:59-05:00",
     "sponsorship_evidence": "This role is not eligible for visa sponsorship."
   },
   "greenhouse:Carvana:8335309": {
@@ -112619,7 +112637,7 @@
   },
   "greenhouse:Carvana:8393239": {
     "company": "Carvana",
-    "enriched_at": "2026-11-19T07:26:19.700367+00:00",
+    "enriched_at": "2026-11-26T08:17:32.160850+00:00",
     "external_id": "8393239",
     "h1b_mentioned": false,
     "h1b_status": "does_not_support_h1b",
@@ -112630,7 +112648,7 @@
     "salary_period": "",
     "salary_text": "",
     "source": "greenhouse",
-    "source_updated_at": "2026-11-18T23:36:02-05:00",
+    "source_updated_at": "2026-11-25T16:43:35-05:00",
     "sponsorship_evidence": "This role is not eligible for visa sponsorship."
   },
   "greenhouse:Carvana:8393331": {
@@ -115697,7 +115715,7 @@
   },
   "greenhouse:Carvana:8403472": {
     "company": "Carvana",
-    "enriched_at": "2026-11-25T08:33:21.441491+00:00",
+    "enriched_at": "2026-11-26T08:17:32.084958+00:00",
     "external_id": "8403472",
     "h1b_mentioned": false,
     "h1b_status": "does_not_support_h1b",
@@ -115708,7 +115726,7 @@
     "salary_period": "hour",
     "salary_text": "$18 - $21 / Hourly",
     "source": "greenhouse",
-    "source_updated_at": "2026-11-24T17:43:18-05:00",
+    "source_updated_at": "2026-11-25T17:06:37-05:00",
     "sponsorship_evidence": "This role is not eligible for visa sponsorship."
   },
   "greenhouse:Carvana:8403475": {
@@ -120023,6 +120041,25 @@
     "source_updated_at": "2026-11-25T16:37:14-05:00",
     "sponsorship_evidence": "&nbsp; This role is not eligible for visa sponsorship."
   },
+  "greenhouse:Carvana:8418197": {
+    "company": "Carvana",
+    "enriched_at": "2026-11-26T08:17:32.168310+00:00",
+    "external_id": "8418197",
+    "h1b_mentioned": false,
+    "h1b_status": "does_not_support_h1b",
+    "keywords": [
+      "sales",
+      "legal"
+    ],
+    "salary_currency": "USD",
+    "salary_max": 25.0,
+    "salary_min": 20.0,
+    "salary_period": "hour",
+    "salary_text": "$20-$25 hourly",
+    "source": "greenhouse",
+    "source_updated_at": "2026-11-25T17:41:53-05:00",
+    "sponsorship_evidence": "&nbsp; This role is not eligible for visa sponsorship."
+  },
   "greenhouse:Coupang:3887444": {
     "company": "Coupang",
     "enriched_at": "2026-10-01T13:12:16.514579+00:00",
@@ -120452,7 +120489,7 @@
   },
   "greenhouse:Coupang:7892589": {
     "company": "Coupang",
-    "enriched_at": "2026-10-31T05:38:42.424070+00:00",
+    "enriched_at": "2026-11-26T08:14:45.217102+00:00",
     "external_id": "7892589",
     "h1b_mentioned": false,
     "h1b_status": "unknown",
@@ -120466,6 +120503,7 @@
       "audit",
       "tax",
       "risk management",
+      "logistics",
       "recruiting",
       "compliance"
     ],
@@ -120475,7 +120513,7 @@
     "salary_period": "year",
     "salary_text": "$155,000/year",
     "source": "greenhouse",
-    "source_updated_at": "2026-10-30T21:32:46-04:00",
+    "source_updated_at": "2026-11-25T19:33:17-05:00",
     "sponsorship_evidence": ""
   },
   "greenhouse:Coupang:7896508": {
@@ -120712,7 +120750,7 @@
   },
   "greenhouse:Coupang:7977000": {
     "company": "Coupang",
-    "enriched_at": "2026-11-02T05:59:46.726404+00:00",
+    "enriched_at": "2026-11-26T08:14:45.036300+00:00",
     "external_id": "7977000",
     "h1b_mentioned": false,
     "h1b_status": "unknown",
@@ -120725,6 +120763,7 @@
       "data science",
       "tax",
       "electrical engineering",
+      "logistics",
       "sales",
       "recruiting"
     ],
@@ -120734,7 +120773,7 @@
     "salary_period": "year",
     "salary_text": "$152K/year",
     "source": "greenhouse",
-    "source_updated_at": "2026-11-01T19:53:48-05:00",
+    "source_updated_at": "2026-11-25T17:19:14-05:00",
     "sponsorship_evidence": ""
   },
   "greenhouse:Coupang:7977174": {
@@ -120970,7 +121009,7 @@
   },
   "greenhouse:Coupang:8070738": {
     "company": "Coupang",
-    "enriched_at": "2026-10-31T05:38:42.248776+00:00",
+    "enriched_at": "2026-11-26T08:14:45.100101+00:00",
     "external_id": "8070738",
     "h1b_mentioned": false,
     "h1b_status": "unknown",
@@ -120984,6 +121023,7 @@
       "Kubernetes",
       "machine learning",
       "tax",
+      "logistics",
       "recruiting",
       "compliance"
     ],
@@ -120993,7 +121033,7 @@
     "salary_period": "year",
     "salary_text": "$186,000/year",
     "source": "greenhouse",
-    "source_updated_at": "2026-10-30T21:47:12-04:00",
+    "source_updated_at": "2026-11-25T19:40:23-05:00",
     "sponsorship_evidence": ""
   },
   "greenhouse:Coupang:8075427": {
@@ -121069,7 +121109,7 @@
   },
   "greenhouse:Coupang:8081184": {
     "company": "Coupang",
-    "enriched_at": "2026-11-21T07:04:10.470873+00:00",
+    "enriched_at": "2026-11-26T08:14:45.088590+00:00",
     "external_id": "8081184",
     "h1b_mentioned": false,
     "h1b_status": "unknown",
@@ -121081,6 +121121,7 @@
       "machine learning",
       "tax",
       "electrical engineering",
+      "logistics",
       "sales",
       "recruiting"
     ],
@@ -121090,7 +121131,7 @@
     "salary_period": "year",
     "salary_text": "$174,000K/year",
     "source": "greenhouse",
-    "source_updated_at": "2026-11-20T20:17:15-05:00",
+    "source_updated_at": "2026-11-25T17:18:39-05:00",
     "sponsorship_evidence": ""
   },
   "greenhouse:Coupang:8089206": {
@@ -121318,7 +121359,7 @@
   },
   "greenhouse:Coupang:8118774": {
     "company": "Coupang",
-    "enriched_at": "2026-11-25T08:30:45.035796+00:00",
+    "enriched_at": "2026-11-26T08:14:44.960392+00:00",
     "external_id": "8118774",
     "h1b_mentioned": false,
     "h1b_status": "unknown",
@@ -121328,6 +121369,7 @@
       "Excel",
       "financial modeling",
       "tax",
+      "logistics",
       "recruiting"
     ],
     "salary_currency": "USD",
@@ -121336,7 +121378,7 @@
     "salary_period": "year",
     "salary_text": "$132,000/year",
     "source": "greenhouse",
-    "source_updated_at": "2026-11-24T20:09:31-05:00",
+    "source_updated_at": "2026-11-25T20:10:41-05:00",
     "sponsorship_evidence": ""
   },
   "greenhouse:Coupang:8120779": {
@@ -121410,7 +121452,7 @@
   },
   "greenhouse:Coupang:8124210": {
     "company": "Coupang",
-    "enriched_at": "2026-11-25T08:30:45.060935+00:00",
+    "enriched_at": "2026-11-26T08:14:45.048004+00:00",
     "external_id": "8124210",
     "h1b_mentioned": false,
     "h1b_status": "unknown",
@@ -121427,7 +121469,7 @@
     "salary_period": "year",
     "salary_text": "$209,000/year",
     "source": "greenhouse",
-    "source_updated_at": "2026-11-24T20:09:27-05:00",
+    "source_updated_at": "2026-11-25T20:10:38-05:00",
     "sponsorship_evidence": ""
   },
   "greenhouse:Coupang:8140987": {
@@ -121858,7 +121900,7 @@
   },
   "greenhouse:Coupang:8207114": {
     "company": "Coupang",
-    "enriched_at": "2026-10-31T05:38:42.356560+00:00",
+    "enriched_at": "2026-11-26T08:14:45.138322+00:00",
     "external_id": "8207114",
     "h1b_mentioned": false,
     "h1b_status": "unknown",
@@ -121868,6 +121910,7 @@
       "C++",
       "machine learning",
       "tax",
+      "logistics",
       "recruiting"
     ],
     "salary_currency": "USD",
@@ -121876,12 +121919,12 @@
     "salary_period": "year",
     "salary_text": "$174,000K/year",
     "source": "greenhouse",
-    "source_updated_at": "2026-10-30T21:58:50-04:00",
+    "source_updated_at": "2026-11-25T17:19:57-05:00",
     "sponsorship_evidence": ""
   },
   "greenhouse:Coupang:8207116": {
     "company": "Coupang",
-    "enriched_at": "2026-11-17T07:53:34.425239+00:00",
+    "enriched_at": "2026-11-26T08:14:44.988238+00:00",
     "external_id": "8207116",
     "h1b_mentioned": false,
     "h1b_status": "unknown",
@@ -121891,6 +121934,7 @@
       "Kubernetes",
       "analytics",
       "tax",
+      "logistics",
       "recruiting"
     ],
     "salary_currency": "USD",
@@ -121899,7 +121943,7 @@
     "salary_period": "year",
     "salary_text": "$152,000/year",
     "source": "greenhouse",
-    "source_updated_at": "2026-11-16T18:39:29-05:00",
+    "source_updated_at": "2026-11-25T19:39:20-05:00",
     "sponsorship_evidence": ""
   },
   "greenhouse:Coupang:8208567": {
@@ -121977,12 +122021,13 @@
   },
   "greenhouse:Coupang:8274425": {
     "company": "Coupang",
-    "enriched_at": "2026-11-25T08:30:45.046448+00:00",
+    "enriched_at": "2026-11-26T08:14:44.972867+00:00",
     "external_id": "8274425",
     "h1b_mentioned": false,
     "h1b_status": "unknown",
     "keywords": [
       "tax",
+      "logistics",
       "recruiting"
     ],
     "salary_currency": "USD",
@@ -121991,12 +122036,12 @@
     "salary_period": "year",
     "salary_text": "$132,000/year",
     "source": "greenhouse",
-    "source_updated_at": "2026-11-24T20:09:53-05:00",
+    "source_updated_at": "2026-11-25T20:11:00-05:00",
     "sponsorship_evidence": ""
   },
   "greenhouse:Coupang:8275829": {
     "company": "Coupang",
-    "enriched_at": "2026-11-25T08:30:45.073745+00:00",
+    "enriched_at": "2026-11-26T08:14:45.064500+00:00",
     "external_id": "8275829",
     "h1b_mentioned": false,
     "h1b_status": "unknown",
@@ -122014,7 +122059,7 @@
     "salary_period": "year",
     "salary_text": "$159,000/year",
     "source": "greenhouse",
-    "source_updated_at": "2026-11-24T20:09:57-05:00",
+    "source_updated_at": "2026-11-25T20:11:04-05:00",
     "sponsorship_evidence": ""
   },
   "greenhouse:Coupang:8283587": {
@@ -122116,13 +122161,14 @@
   },
   "greenhouse:Coupang:8311094": {
     "company": "Coupang",
-    "enriched_at": "2026-11-24T22:25:17.986876+00:00",
+    "enriched_at": "2026-11-26T08:14:45.179570+00:00",
     "external_id": "8311094",
     "h1b_mentioned": false,
     "h1b_status": "unknown",
     "keywords": [
       "machine learning",
       "tax",
+      "logistics",
       "recruiting"
     ],
     "salary_currency": "USD",
@@ -122131,12 +122177,12 @@
     "salary_period": "year",
     "salary_text": "$174,000K/year",
     "source": "greenhouse",
-    "source_updated_at": "2026-11-24T12:50:34-05:00",
+    "source_updated_at": "2026-11-25T17:20:58-05:00",
     "sponsorship_evidence": ""
   },
   "greenhouse:Coupang:8319602": {
     "company": "Coupang",
-    "enriched_at": "2026-11-25T08:30:45.127540+00:00",
+    "enriched_at": "2026-11-26T08:14:45.190150+00:00",
     "external_id": "8319602",
     "h1b_mentioned": false,
     "h1b_status": "unknown",
@@ -122146,6 +122192,7 @@
       "tax",
       "risk management",
       "supply chain",
+      "logistics",
       "recruiting",
       "compliance",
       "legal"
@@ -122156,18 +122203,19 @@
     "salary_period": "year",
     "salary_text": "$164,000/year",
     "source": "greenhouse",
-    "source_updated_at": "2026-11-24T20:10:02-05:00",
+    "source_updated_at": "2026-11-25T20:11:09-05:00",
     "sponsorship_evidence": ""
   },
   "greenhouse:Coupang:8335707": {
     "company": "Coupang",
-    "enriched_at": "2026-11-25T08:30:45.018730+00:00",
+    "enriched_at": "2026-11-26T08:14:44.908589+00:00",
     "external_id": "8335707",
     "h1b_mentioned": false,
     "h1b_status": "unknown",
     "keywords": [
       "accounting",
       "tax",
+      "logistics",
       "recruiting",
       "compliance",
       "legal",
@@ -122179,7 +122227,7 @@
     "salary_period": "year",
     "salary_text": "$140,000/year",
     "source": "greenhouse",
-    "source_updated_at": "2026-11-24T20:10:10-05:00",
+    "source_updated_at": "2026-11-25T20:11:16-05:00",
     "sponsorship_evidence": ""
   },
   "greenhouse:Coupang:8347854": {
@@ -122235,7 +122283,7 @@
   },
   "greenhouse:Coupang:8354908": {
     "company": "Coupang",
-    "enriched_at": "2026-11-14T06:19:46.691107+00:00",
+    "enriched_at": "2026-11-26T08:14:45.014487+00:00",
     "external_id": "8354908",
     "h1b_mentioned": false,
     "h1b_status": "unknown",
@@ -122243,6 +122291,7 @@
       "accounting",
       "audit",
       "tax",
+      "logistics",
       "recruiting",
       "compliance",
       "legal"
@@ -122253,12 +122302,12 @@
     "salary_period": "year",
     "salary_text": "$155,000/year",
     "source": "greenhouse",
-    "source_updated_at": "2026-11-13T16:11:42-05:00",
+    "source_updated_at": "2026-11-25T19:35:50-05:00",
     "sponsorship_evidence": ""
   },
   "greenhouse:Coupang:8356962": {
     "company": "Coupang",
-    "enriched_at": "2026-11-25T21:40:25.501386+00:00",
+    "enriched_at": "2026-11-26T08:14:45.166078+00:00",
     "external_id": "8356962",
     "h1b_mentioned": false,
     "h1b_status": "unknown",
@@ -122278,17 +122327,18 @@
     "salary_period": "year",
     "salary_text": "$164K/year",
     "source": "greenhouse",
-    "source_updated_at": "2026-11-25T15:42:20-05:00",
+    "source_updated_at": "2026-11-25T20:11:19-05:00",
     "sponsorship_evidence": ""
   },
   "greenhouse:Coupang:8360398": {
     "company": "Coupang",
-    "enriched_at": "2026-11-25T08:30:45.092365+00:00",
+    "enriched_at": "2026-11-26T08:14:45.149138+00:00",
     "external_id": "8360398",
     "h1b_mentioned": false,
     "h1b_status": "unknown",
     "keywords": [
       "tax",
+      "logistics",
       "procurement",
       "recruiting",
       "compliance",
@@ -122300,12 +122350,12 @@
     "salary_period": "year",
     "salary_text": "$155K/year",
     "source": "greenhouse",
-    "source_updated_at": "2026-11-24T20:10:06-05:00",
+    "source_updated_at": "2026-11-25T20:11:13-05:00",
     "sponsorship_evidence": ""
   },
   "greenhouse:Coupang:8364554": {
     "company": "Coupang",
-    "enriched_at": "2026-11-25T08:30:45.027359+00:00",
+    "enriched_at": "2026-11-26T08:14:44.919059+00:00",
     "external_id": "8364554",
     "h1b_mentioned": false,
     "h1b_status": "unknown",
@@ -122314,6 +122364,7 @@
       "data science",
       "analytics",
       "tax",
+      "logistics",
       "recruiting"
     ],
     "salary_currency": "USD",
@@ -122322,12 +122373,12 @@
     "salary_period": "year",
     "salary_text": "$174,000/year",
     "source": "greenhouse",
-    "source_updated_at": "2026-11-24T17:46:36-05:00",
+    "source_updated_at": "2026-11-25T19:26:00-05:00",
     "sponsorship_evidence": ""
   },
   "greenhouse:Coupang:8376965": {
     "company": "Coupang",
-    "enriched_at": "2026-11-21T07:04:10.537996+00:00",
+    "enriched_at": "2026-11-26T08:14:45.201959+00:00",
     "external_id": "8376965",
     "h1b_mentioned": false,
     "h1b_status": "unknown",
@@ -122339,6 +122390,7 @@
       "GCP",
       "Kubernetes",
       "tax",
+      "logistics",
       "recruiting"
     ],
     "salary_currency": "USD",
@@ -122347,7 +122399,7 @@
     "salary_period": "year",
     "salary_text": "$152,000/year",
     "source": "greenhouse",
-    "source_updated_at": "2026-11-20T22:26:29-05:00",
+    "source_updated_at": "2026-11-25T18:45:47-05:00",
     "sponsorship_evidence": ""
   },
   "greenhouse:Coupang:8386063": {
@@ -122373,7 +122425,7 @@
   },
   "greenhouse:Coupang:8386291": {
     "company": "Coupang",
-    "enriched_at": "2026-11-14T06:19:46.649910+00:00",
+    "enriched_at": "2026-11-26T08:14:44.928906+00:00",
     "external_id": "8386291",
     "h1b_mentioned": false,
     "h1b_status": "unknown",
@@ -122391,12 +122443,12 @@
     "salary_period": "year",
     "salary_text": "$155K/year",
     "source": "greenhouse",
-    "source_updated_at": "2026-11-13T16:24:10-05:00",
+    "source_updated_at": "2026-11-25T18:50:13-05:00",
     "sponsorship_evidence": ""
   },
   "greenhouse:Coupang:8393917": {
     "company": "Coupang",
-    "enriched_at": "2026-11-18T07:26:10.849663+00:00",
+    "enriched_at": "2026-11-26T08:14:45.002108+00:00",
     "external_id": "8393917",
     "h1b_mentioned": false,
     "h1b_status": "unknown",
@@ -122409,6 +122461,7 @@
       "GCP",
       "Terraform",
       "tax",
+      "logistics",
       "recruiting"
     ],
     "salary_currency": "USD",
@@ -122417,7 +122470,7 @@
     "salary_period": "year",
     "salary_text": "$89K/year",
     "source": "greenhouse",
-    "source_updated_at": "2026-11-17T18:07:09-05:00",
+    "source_updated_at": "2026-11-25T18:48:56-05:00",
     "sponsorship_evidence": ""
   },
   "greenhouse:DoorDash:3236374": {
@@ -175049,7 +175102,7 @@
   },
   "workday:Analog Devices:/job/US-CA-Milpitas-Tasman/Principal-Engineer--Failure-Analysis-Engineering_R266037": {
     "company": "Analog Devices",
-    "enriched_at": "2026-09-17T11:53:18.003160+00:00",
+    "enriched_at": "2026-11-26T08:17:55.013009+00:00",
     "external_id": "/job/US-CA-Milpitas-Tasman/Principal-Engineer--Failure-Analysis-Engineering_R266037",
     "h1b_mentioned": false,
     "h1b_status": "unknown",
@@ -175435,7 +175488,7 @@
   },
   "workday:Analog Devices:/job/US-CA-San-Jose-Rio-Robles/Design-Evaluation-Engineer---Summer-2027_R266633": {
     "company": "Analog Devices",
-    "enriched_at": "2026-11-13T20:28:58.219438+00:00",
+    "enriched_at": "2026-11-26T08:17:54.991117+00:00",
     "external_id": "/job/US-CA-San-Jose-Rio-Robles/Design-Evaluation-Engineer---Summer-2027_R266633",
     "h1b_mentioned": false,
     "h1b_status": "unknown",
@@ -175928,6 +175981,24 @@
     "source_updated_at": "",
     "sponsorship_evidence": ""
   },
+  "workday:Analog Devices:/job/US-CA-San-Jose-Rio-Robles/Robot-Learning-Engineer-Intern_R269543": {
+    "company": "Analog Devices",
+    "enriched_at": "2026-11-26T08:17:55.036623+00:00",
+    "external_id": "/job/US-CA-San-Jose-Rio-Robles/Robot-Learning-Engineer-Intern_R269543",
+    "h1b_mentioned": false,
+    "h1b_status": "unknown",
+    "keywords": [
+      "machine learning"
+    ],
+    "salary_currency": "",
+    "salary_max": null,
+    "salary_min": null,
+    "salary_period": "",
+    "salary_text": "",
+    "source": "workday",
+    "source_updated_at": "",
+    "sponsorship_evidence": ""
+  },
   "workday:Analog Devices:/job/US-CA-San-Jose-Rio-Robles/Senior-Account-Manager--Key-Accounts_R267482": {
     "company": "Analog Devices",
     "enriched_at": "2026-10-27T22:27:30.519707+00:00",
@@ -176152,6 +176223,24 @@
     "keywords": [
       "electrical engineering",
       "sales"
+    ],
+    "salary_currency": "",
+    "salary_max": null,
+    "salary_min": null,
+    "salary_period": "",
+    "salary_text": "",
+    "source": "workday",
+    "source_updated_at": "",
+    "sponsorship_evidence": ""
+  },
+  "workday:Analog Devices:/job/US-CA-San-Jose-Rio-Robles/Senior-Principal-Engineer--Research-Science-Engineering_R268528": {
+    "company": "Analog Devices",
+    "enriched_at": "2026-11-26T08:17:54.967978+00:00",
+    "external_id": "/job/US-CA-San-Jose-Rio-Robles/Senior-Principal-Engineer--Research-Science-Engineering_R268528",
+    "h1b_mentioned": false,
+    "h1b_status": "unknown",
+    "keywords": [
+      "electrical engineering"
     ],
     "salary_currency": "",
     "salary_max": null,
@@ -177301,6 +177390,22 @@
     "source_updated_at": "",
     "sponsorship_evidence": ""
   },
+  "workday:Analog Devices:/job/US-MA-Chelmsford-Alpha/XMLNAME-2nd-shift-Wirebond-Operator_R267477": {
+    "company": "Analog Devices",
+    "enriched_at": "2026-11-26T08:17:54.983742+00:00",
+    "external_id": "/job/US-MA-Chelmsford-Alpha/XMLNAME-2nd-shift-Wirebond-Operator_R267477",
+    "h1b_mentioned": false,
+    "h1b_status": "unknown",
+    "keywords": [],
+    "salary_currency": "",
+    "salary_max": null,
+    "salary_min": null,
+    "salary_period": "",
+    "salary_text": "",
+    "source": "workday",
+    "source_updated_at": "",
+    "sponsorship_evidence": ""
+  },
   "workday:Analog Devices:/job/US-MA-Chelmsford-Alpha/XMLNAME-3rd-Shift-Manufacturing-Test-Engineer_R266789": {
     "company": "Analog Devices",
     "enriched_at": "2026-10-02T22:26:52.623717+00:00",
@@ -177690,6 +177795,30 @@
     "keywords": [
       "Python",
       "electrical engineering"
+    ],
+    "salary_currency": "",
+    "salary_max": null,
+    "salary_min": null,
+    "salary_period": "",
+    "salary_text": "",
+    "source": "workday",
+    "source_updated_at": "",
+    "sponsorship_evidence": ""
+  },
+  "workday:Analog Devices:/job/US-MA-Wilmington/Associate-Engineer--Quality-Engineering_R267322": {
+    "company": "Analog Devices",
+    "enriched_at": "2026-11-26T08:17:55.003824+00:00",
+    "external_id": "/job/US-MA-Wilmington/Associate-Engineer--Quality-Engineering_R267322",
+    "h1b_mentioned": false,
+    "h1b_status": "unknown",
+    "keywords": [
+      "Python",
+      "JavaScript",
+      "SQL",
+      "Azure",
+      "analytics",
+      "electrical engineering",
+      "compliance"
     ],
     "salary_currency": "",
     "salary_max": null,
@@ -179241,6 +179370,24 @@
     "source_updated_at": "",
     "sponsorship_evidence": ""
   },
+  "workday:Analog Devices:/job/US-MA-Wilmington/Senior-Software-Development-Engineer_R269156": {
+    "company": "Analog Devices",
+    "enriched_at": "2026-11-26T08:17:55.021601+00:00",
+    "external_id": "/job/US-MA-Wilmington/Senior-Software-Development-Engineer_R269156",
+    "h1b_mentioned": false,
+    "h1b_status": "unknown",
+    "keywords": [
+      "electrical engineering"
+    ],
+    "salary_currency": "",
+    "salary_max": null,
+    "salary_min": null,
+    "salary_period": "",
+    "salary_text": "",
+    "source": "workday",
+    "source_updated_at": "",
+    "sponsorship_evidence": ""
+  },
   "workday:Analog Devices:/job/US-MA-Wilmington/Senior-Software-Engineer-Apps_R263257": {
     "company": "Analog Devices",
     "enriched_at": "2026-11-12T15:33:01.616010+00:00",
@@ -179857,7 +180004,7 @@
   },
   "workday:Analog Devices:/job/US-MI-Livonia/Field-Applications-Engineer---Power-Management_R266686": {
     "company": "Analog Devices",
-    "enriched_at": "2026-10-23T17:20:37.950549+00:00",
+    "enriched_at": "2026-11-26T08:17:54.958833+00:00",
     "external_id": "/job/US-MI-Livonia/Field-Applications-Engineer---Power-Management_R266686",
     "h1b_mentioned": false,
     "h1b_status": "unknown",
@@ -180507,6 +180654,26 @@
     "source_updated_at": "",
     "sponsorship_evidence": ""
   },
+  "workday:Analog Devices:/job/US-OR-Beaverton/FIB-Technician-4_R268921": {
+    "company": "Analog Devices",
+    "enriched_at": "2026-11-26T08:17:55.058807+00:00",
+    "external_id": "/job/US-OR-Beaverton/FIB-Technician-4_R268921",
+    "h1b_mentioned": false,
+    "h1b_status": "unknown",
+    "keywords": [
+      "electrical engineering",
+      "CAD",
+      "compliance"
+    ],
+    "salary_currency": "",
+    "salary_max": null,
+    "salary_min": null,
+    "salary_period": "",
+    "salary_text": "",
+    "source": "workday",
+    "source_updated_at": "",
+    "sponsorship_evidence": ""
+  },
   "workday:Analog Devices:/job/US-OR-Beaverton/FIB-Technician-5---Night-Shift_R264426-1": {
     "company": "Analog Devices",
     "enriched_at": "2026-08-20T13:24:09.352302+00:00",
@@ -181071,6 +181238,27 @@
     "source_updated_at": "",
     "sponsorship_evidence": ""
   },
+  "workday:Analog Devices:/job/US-WA-Camas/Associate-Engineer--Industrial-Engineering_R269503-1": {
+    "company": "Analog Devices",
+    "enriched_at": "2026-11-26T08:17:55.045299+00:00",
+    "external_id": "/job/US-WA-Camas/Associate-Engineer--Industrial-Engineering_R269503-1",
+    "h1b_mentioned": false,
+    "h1b_status": "unknown",
+    "keywords": [
+      "Python",
+      "SQL",
+      "analytics",
+      "Excel"
+    ],
+    "salary_currency": "",
+    "salary_max": null,
+    "salary_min": null,
+    "salary_period": "",
+    "salary_text": "",
+    "source": "workday",
+    "source_updated_at": "",
+    "sponsorship_evidence": ""
+  },
   "workday:Analog Devices:/job/US-WA-Camas/Category-Manager--Site-Purchasing_R263588": {
     "company": "Analog Devices",
     "enriched_at": "2026-10-30T22:32:31.179196+00:00",
@@ -181273,7 +181461,7 @@
   },
   "workday:Analog Devices:/job/US-WA-Camas/Senior-Engineer--Facilities-Engineering_R263405": {
     "company": "Analog Devices",
-    "enriched_at": "2026-11-06T19:38:14.023876+00:00",
+    "enriched_at": "2026-11-26T08:17:54.975040+00:00",
     "external_id": "/job/US-WA-Camas/Senior-Engineer--Facilities-Engineering_R263405",
     "h1b_mentioned": false,
     "h1b_status": "unknown",
@@ -425369,6 +425557,26 @@
     "source_updated_at": "",
     "sponsorship_evidence": ""
   },
+  "workday:Hewlett Packard Enterprise:/job/Chippewa-Falls-Wisconsin-United-States-of-America/Thermal---Mechanical-Design-Engineer---Liquid-Cooled-HPC-Systems_1218645": {
+    "company": "Hewlett Packard Enterprise",
+    "enriched_at": "2026-11-26T08:17:45.821271+00:00",
+    "external_id": "/job/Chippewa-Falls-Wisconsin-United-States-of-America/Thermal---Mechanical-Design-Engineer---Liquid-Cooled-HPC-Systems_1218645",
+    "h1b_mentioned": false,
+    "h1b_status": "unknown",
+    "keywords": [
+      "mechanical engineering",
+      "CAD",
+      "legal"
+    ],
+    "salary_currency": "",
+    "salary_max": null,
+    "salary_min": null,
+    "salary_period": "",
+    "salary_text": "",
+    "source": "workday",
+    "source_updated_at": "",
+    "sponsorship_evidence": ""
+  },
   "workday:Hewlett Packard Enterprise:/job/Chippewa-Falls-Wisconsin-United-States-of-America/VLSI-Design-Verification-Internship_1213400": {
     "company": "Hewlett Packard Enterprise",
     "enriched_at": "2026-10-05T05:49:10.612850+00:00",
@@ -425877,6 +426085,26 @@
     "company": "Hewlett Packard Enterprise",
     "enriched_at": "2026-11-16T06:37:24.463405+00:00",
     "external_id": "/job/Durham-North-Carolina-United-States-of-America/Commercial-Virtual-Account-Manager---Michigan-SMB_1218039-2",
+    "h1b_mentioned": false,
+    "h1b_status": "unknown",
+    "keywords": [
+      "sales",
+      "CRM",
+      "legal"
+    ],
+    "salary_currency": "",
+    "salary_max": null,
+    "salary_min": null,
+    "salary_period": "",
+    "salary_text": "",
+    "source": "workday",
+    "source_updated_at": "",
+    "sponsorship_evidence": ""
+  },
+  "workday:Hewlett Packard Enterprise:/job/Durham-North-Carolina-United-States-of-America/Commercial-Virtual-Account-Manager_1218529-1": {
+    "company": "Hewlett Packard Enterprise",
+    "enriched_at": "2026-11-26T08:17:45.806604+00:00",
+    "external_id": "/job/Durham-North-Carolina-United-States-of-America/Commercial-Virtual-Account-Manager_1218529-1",
     "h1b_mentioned": false,
     "h1b_status": "unknown",
     "keywords": [
@@ -426511,6 +426739,22 @@
       "compliance",
       "legal"
     ],
+    "salary_currency": "",
+    "salary_max": null,
+    "salary_min": null,
+    "salary_period": "",
+    "salary_text": "",
+    "source": "workday",
+    "source_updated_at": "",
+    "sponsorship_evidence": ""
+  },
+  "workday:Hewlett Packard Enterprise:/job/Ft-Collins-Colorado-United-States-of-America/Field-Operations---North-America-Enterprise_1217615-2": {
+    "company": "Hewlett Packard Enterprise",
+    "enriched_at": "2026-11-26T08:17:45.769810+00:00",
+    "external_id": "/job/Ft-Collins-Colorado-United-States-of-America/Field-Operations---North-America-Enterprise_1217615-2",
+    "h1b_mentioned": false,
+    "h1b_status": "unknown",
+    "keywords": [],
     "salary_currency": "",
     "salary_max": null,
     "salary_min": null,
@@ -430503,7 +430747,7 @@
   },
   "workday:Hewlett Packard Enterprise:/job/Spring-Texas-United-States-of-America/Engineering-Resolution-Team-Engineer-Graduate_1216553-1": {
     "company": "Hewlett Packard Enterprise",
-    "enriched_at": "2026-10-14T21:54:12.248457+00:00",
+    "enriched_at": "2026-11-26T08:17:45.770150+00:00",
     "external_id": "/job/Spring-Texas-United-States-of-America/Engineering-Resolution-Team-Engineer-Graduate_1216553-1",
     "h1b_mentioned": false,
     "h1b_status": "unknown",
@@ -432746,6 +432990,25 @@
       "Python",
       "electrical engineering",
       "CAD",
+      "legal"
+    ],
+    "salary_currency": "",
+    "salary_max": null,
+    "salary_min": null,
+    "salary_period": "",
+    "salary_text": "",
+    "source": "workday",
+    "source_updated_at": "",
+    "sponsorship_evidence": ""
+  },
+  "workday:Hewlett Packard Enterprise:/job/Sunnyvale-California-United-States-of-America/Executive-Assistant_1218905-1": {
+    "company": "Hewlett Packard Enterprise",
+    "enriched_at": "2026-11-26T08:17:45.790933+00:00",
+    "external_id": "/job/Sunnyvale-California-United-States-of-America/Executive-Assistant_1218905-1",
+    "h1b_mentioned": false,
+    "h1b_status": "unknown",
+    "keywords": [
+      "human resources",
       "legal"
     ],
     "salary_currency": "",
@@ -435046,6 +435309,22 @@
     "source_updated_at": "",
     "sponsorship_evidence": ""
   },
+  "workday:Hewlett Packard Enterprise:/job/Sunnyvale-California-United-States-of-America/Systems-Software-Engineer-3_1219694-2": {
+    "company": "Hewlett Packard Enterprise",
+    "enriched_at": "2026-11-26T08:17:45.806535+00:00",
+    "external_id": "/job/Sunnyvale-California-United-States-of-America/Systems-Software-Engineer-3_1219694-2",
+    "h1b_mentioned": false,
+    "h1b_status": "unknown",
+    "keywords": [],
+    "salary_currency": "",
+    "salary_max": null,
+    "salary_min": null,
+    "salary_period": "",
+    "salary_text": "",
+    "source": "workday",
+    "source_updated_at": "",
+    "sponsorship_evidence": ""
+  },
   "workday:Hewlett Packard Enterprise:/job/Sunnyvale-California-United-States-of-America/Systems-Software-Engineer-III_1205915-2": {
     "company": "Hewlett Packard Enterprise",
     "enriched_at": "2026-08-18T07:14:23.243833+00:00",
@@ -435209,14 +435488,11 @@
   },
   "workday:Hewlett Packard Enterprise:/job/Sunnyvale-California-United-States-of-America/VLSI-Engineer-I---0T1191_1214956": {
     "company": "Hewlett Packard Enterprise",
-    "enriched_at": "2026-10-15T04:51:22.243375+00:00",
+    "enriched_at": "2026-11-26T08:17:45.770092+00:00",
     "external_id": "/job/Sunnyvale-California-United-States-of-America/VLSI-Engineer-I---0T1191_1214956",
     "h1b_mentioned": false,
     "h1b_status": "unknown",
-    "keywords": [
-      "electrical engineering",
-      "legal"
-    ],
+    "keywords": [],
     "salary_currency": "",
     "salary_max": null,
     "salary_min": null,
@@ -435372,6 +435648,22 @@
       "sales",
       "legal"
     ],
+    "salary_currency": "",
+    "salary_max": null,
+    "salary_min": null,
+    "salary_period": "",
+    "salary_text": "",
+    "source": "workday",
+    "source_updated_at": "",
+    "sponsorship_evidence": ""
+  },
+  "workday:Hewlett Packard Enterprise:/job/Washington-District-of-Columbia-United-States-of-America/Operations-and-Administrative-Support-Analyst--Corporate-Affairs_1219006-2": {
+    "company": "Hewlett Packard Enterprise",
+    "enriched_at": "2026-11-26T08:17:45.769991+00:00",
+    "external_id": "/job/Washington-District-of-Columbia-United-States-of-America/Operations-and-Administrative-Support-Analyst--Corporate-Affairs_1219006-2",
+    "h1b_mentioned": false,
+    "h1b_status": "unknown",
+    "keywords": [],
     "salary_currency": "",
     "salary_max": null,
     "salary_min": null,
@@ -606476,6 +606768,28 @@
     "source_updated_at": "",
     "sponsorship_evidence": ""
   },
+  "workday:Marvell Technology:/job/Burlington-VT/Workplace-Service-Specialist_2605358": {
+    "company": "Marvell Technology",
+    "enriched_at": "2026-11-26T08:17:59.920415+00:00",
+    "external_id": "/job/Burlington-VT/Workplace-Service-Specialist_2605358",
+    "h1b_mentioned": false,
+    "h1b_status": "unknown",
+    "keywords": [
+      "audit",
+      "risk management",
+      "CAD",
+      "compliance",
+      "contracts"
+    ],
+    "salary_currency": "",
+    "salary_max": null,
+    "salary_min": null,
+    "salary_period": "",
+    "salary_text": "",
+    "source": "workday",
+    "source_updated_at": "",
+    "sponsorship_evidence": ""
+  },
   "workday:Marvell Technology:/job/CA-ON---Ontario---Toronto/Internship-Program-Operations-and-Events-Co-Op---Winter-2027_2604223": {
     "company": "Marvell Technology",
     "enriched_at": "2026-09-24T21:45:15.590199+00:00",
@@ -606841,6 +607155,26 @@
     "salary_min": 150000.0,
     "salary_period": "year",
     "salary_text": "$150,000.00 - $170,000.00 per year",
+    "source": "workday",
+    "source_updated_at": "",
+    "sponsorship_evidence": ""
+  },
+  "workday:Marvell Technology:/job/Minnetonka-MN/Staff-Analog-IC-Design-Engineer_2605291-1": {
+    "company": "Marvell Technology",
+    "enriched_at": "2026-11-26T08:17:59.974445+00:00",
+    "external_id": "/job/Minnetonka-MN/Staff-Analog-IC-Design-Engineer_2605291-1",
+    "h1b_mentioned": false,
+    "h1b_status": "unknown",
+    "keywords": [
+      "Python",
+      "electrical engineering",
+      "CAD"
+    ],
+    "salary_currency": "",
+    "salary_max": null,
+    "salary_min": null,
+    "salary_period": "",
+    "salary_text": "",
     "source": "workday",
     "source_updated_at": "",
     "sponsorship_evidence": ""
@@ -607470,6 +607804,27 @@
     "source_updated_at": "",
     "sponsorship_evidence": ""
   },
+  "workday:Marvell Technology:/job/Santa-Clara-CA/Applied-AI-ML-Research-Scientist-Intern_2603847-1": {
+    "company": "Marvell Technology",
+    "enriched_at": "2026-11-26T08:17:59.911007+00:00",
+    "external_id": "/job/Santa-Clara-CA/Applied-AI-ML-Research-Scientist-Intern_2603847-1",
+    "h1b_mentioned": false,
+    "h1b_status": "unknown",
+    "keywords": [
+      "Python",
+      "machine learning",
+      "data science",
+      "electrical engineering"
+    ],
+    "salary_currency": "",
+    "salary_max": null,
+    "salary_min": null,
+    "salary_period": "",
+    "salary_text": "",
+    "source": "workday",
+    "source_updated_at": "",
+    "sponsorship_evidence": ""
+  },
   "workday:Marvell Technology:/job/Santa-Clara-CA/Architecture-Intern--MS---Summer-2027_2604436-1": {
     "company": "Marvell Technology",
     "enriched_at": "2026-09-14T22:01:49.764367+00:00",
@@ -607861,16 +608216,11 @@
   },
   "workday:Marvell Technology:/job/Santa-Clara-CA/ERM-Program-Manager_2604757": {
     "company": "Marvell Technology",
-    "enriched_at": "2026-10-28T22:49:55.202755+00:00",
+    "enriched_at": "2026-11-26T08:17:59.984785+00:00",
     "external_id": "/job/Santa-Clara-CA/ERM-Program-Manager_2604757",
     "h1b_mentioned": false,
     "h1b_status": "unknown",
-    "keywords": [
-      "audit",
-      "risk management",
-      "supply chain",
-      "legal"
-    ],
+    "keywords": [],
     "salary_currency": "",
     "salary_max": null,
     "salary_min": null,
@@ -609126,6 +609476,25 @@
     "source_updated_at": "",
     "sponsorship_evidence": ""
   },
+  "workday:Marvell Technology:/job/Santa-Clara-CA/Security-Architect_2605475": {
+    "company": "Marvell Technology",
+    "enriched_at": "2026-11-26T08:17:59.952621+00:00",
+    "external_id": "/job/Santa-Clara-CA/Security-Architect_2605475",
+    "h1b_mentioned": false,
+    "h1b_status": "unknown",
+    "keywords": [
+      "electrical engineering",
+      "supply chain"
+    ],
+    "salary_currency": "",
+    "salary_max": null,
+    "salary_min": null,
+    "salary_period": "",
+    "salary_text": "",
+    "source": "workday",
+    "source_updated_at": "",
+    "sponsorship_evidence": ""
+  },
   "workday:Marvell Technology:/job/Santa-Clara-CA/Security-Specialist_2603490": {
     "company": "Marvell Technology",
     "enriched_at": "2026-11-12T23:52:34.177570+00:00",
@@ -609205,6 +609574,26 @@
       "risk management",
       "electrical engineering",
       "supply chain",
+      "contracts"
+    ],
+    "salary_currency": "",
+    "salary_max": null,
+    "salary_min": null,
+    "salary_period": "",
+    "salary_text": "",
+    "source": "workday",
+    "source_updated_at": "",
+    "sponsorship_evidence": ""
+  },
+  "workday:Marvell Technology:/job/Santa-Clara-CA/Senior-Director--Architecture---Quality---Connectivity-Firmware_2605485": {
+    "company": "Marvell Technology",
+    "enriched_at": "2026-11-26T08:17:59.935630+00:00",
+    "external_id": "/job/Santa-Clara-CA/Senior-Director--Architecture---Quality---Connectivity-Firmware_2605485",
+    "h1b_mentioned": false,
+    "h1b_status": "unknown",
+    "keywords": [
+      "electrical engineering",
+      "compliance",
       "contracts"
     ],
     "salary_currency": "",
@@ -609439,7 +609828,7 @@
   },
   "workday:Marvell Technology:/job/Santa-Clara-CA/Senior-Principal-Switch-Architect_2604929": {
     "company": "Marvell Technology",
-    "enriched_at": "2026-11-12T15:33:08.647423+00:00",
+    "enriched_at": "2026-11-26T08:17:59.893013+00:00",
     "external_id": "/job/Santa-Clara-CA/Senior-Principal-Switch-Architect_2604929",
     "h1b_mentioned": false,
     "h1b_status": "unknown",
@@ -609534,7 +609923,7 @@
   },
   "workday:Marvell Technology:/job/Santa-Clara-CA/Senior-Staff-Engineer--Optics-Reliability-Engineer_2604960": {
     "company": "Marvell Technology",
-    "enriched_at": "2026-10-07T06:15:42.756234+00:00",
+    "enriched_at": "2026-11-26T08:17:59.964494+00:00",
     "external_id": "/job/Santa-Clara-CA/Senior-Staff-Engineer--Optics-Reliability-Engineer_2604960",
     "h1b_mentioned": false,
     "h1b_status": "unknown",
@@ -610551,6 +610940,38 @@
     "source_updated_at": "",
     "sponsorship_evidence": ""
   },
+  "workday:Marvell Technology:/job/Santa-Clara-CA/Vice-President--Custom-Silicon---Electrical-Systems-Engineering_2605538": {
+    "company": "Marvell Technology",
+    "enriched_at": "2026-11-26T08:17:59.984841+00:00",
+    "external_id": "/job/Santa-Clara-CA/Vice-President--Custom-Silicon---Electrical-Systems-Engineering_2605538",
+    "h1b_mentioned": false,
+    "h1b_status": "unknown",
+    "keywords": [],
+    "salary_currency": "",
+    "salary_max": null,
+    "salary_min": null,
+    "salary_period": "",
+    "salary_text": "",
+    "source": "workday",
+    "source_updated_at": "",
+    "sponsorship_evidence": ""
+  },
+  "workday:Marvell Technology:/job/Santa-Clara-CA/Vice-President--Custom-Silicon---Functional-Systems-Engineering_2605492": {
+    "company": "Marvell Technology",
+    "enriched_at": "2026-11-26T08:17:59.984999+00:00",
+    "external_id": "/job/Santa-Clara-CA/Vice-President--Custom-Silicon---Functional-Systems-Engineering_2605492",
+    "h1b_mentioned": false,
+    "h1b_status": "unknown",
+    "keywords": [],
+    "salary_currency": "",
+    "salary_max": null,
+    "salary_min": null,
+    "salary_period": "",
+    "salary_text": "",
+    "source": "workday",
+    "source_updated_at": "",
+    "sponsorship_evidence": ""
+  },
   "workday:Marvell Technology:/job/Santa-Clara-CA/Vice-President--Optical-Sales_2604645": {
     "company": "Marvell Technology",
     "enriched_at": "2026-09-24T05:01:24.842502+00:00",
@@ -610750,6 +611171,22 @@
     "source_updated_at": "",
     "sponsorship_evidence": ""
   },
+  "workday:Marvell Technology:/job/US-CA---Santa-Clara/Manager--Trade-Shows_2605345": {
+    "company": "Marvell Technology",
+    "enriched_at": "2026-11-26T08:17:59.984932+00:00",
+    "external_id": "/job/US-CA---Santa-Clara/Manager--Trade-Shows_2605345",
+    "h1b_mentioned": false,
+    "h1b_status": "unknown",
+    "keywords": [],
+    "salary_currency": "",
+    "salary_max": null,
+    "salary_min": null,
+    "salary_period": "",
+    "salary_text": "",
+    "source": "workday",
+    "source_updated_at": "",
+    "sponsorship_evidence": ""
+  },
   "workday:Marvell Technology:/job/US-CA---Santa-Clara/Principal-Engineer--Thermo-Mechanical_2604991": {
     "company": "Marvell Technology",
     "enriched_at": "2026-10-13T22:59:36.654299+00:00",
@@ -610839,6 +611276,25 @@
     "h1b_status": "unknown",
     "keywords": [
       "compliance"
+    ],
+    "salary_currency": "",
+    "salary_max": null,
+    "salary_min": null,
+    "salary_period": "",
+    "salary_text": "",
+    "source": "workday",
+    "source_updated_at": "",
+    "sponsorship_evidence": ""
+  },
+  "workday:Marvell Technology:/job/Westborough-MA/Senior-Engineer--Design-Verification_2605502": {
+    "company": "Marvell Technology",
+    "enriched_at": "2026-11-26T08:17:59.901039+00:00",
+    "external_id": "/job/Westborough-MA/Senior-Engineer--Design-Verification_2605502",
+    "h1b_mentioned": false,
+    "h1b_status": "unknown",
+    "keywords": [
+      "Python",
+      "electrical engineering"
     ],
     "salary_currency": "",
     "salary_max": null,
@@ -682360,7 +682816,7 @@
   },
   "workday:NVIDIA:/job/US-CA-Santa-Clara/Critical-Facilities-Mechanical-Engineer---Data-Center_JR2029109": {
     "company": "NVIDIA",
-    "enriched_at": "2026-11-03T00:57:24.010651+00:00",
+    "enriched_at": "2026-11-26T08:14:59.339767+00:00",
     "external_id": "/job/US-CA-Santa-Clara/Critical-Facilities-Mechanical-Engineer---Data-Center_JR2029109",
     "h1b_mentioned": false,
     "h1b_status": "unknown",
@@ -682464,7 +682920,7 @@
   },
   "workday:NVIDIA:/job/US-CA-Santa-Clara/DSX-Electrical-Engineer_JR2029082": {
     "company": "NVIDIA",
-    "enriched_at": "2026-11-03T00:57:24.003058+00:00",
+    "enriched_at": "2026-11-26T08:14:59.347563+00:00",
     "external_id": "/job/US-CA-Santa-Clara/DSX-Electrical-Engineer_JR2029082",
     "h1b_mentioned": false,
     "h1b_status": "unknown",
@@ -682483,7 +682939,7 @@
   },
   "workday:NVIDIA:/job/US-CA-Santa-Clara/DSX-Energy-Engineer_JR2028854": {
     "company": "NVIDIA",
-    "enriched_at": "2026-11-03T00:57:24.017669+00:00",
+    "enriched_at": "2026-11-26T08:14:59.355700+00:00",
     "external_id": "/job/US-CA-Santa-Clara/DSX-Energy-Engineer_JR2028854",
     "h1b_mentioned": false,
     "h1b_status": "unknown",
@@ -682840,6 +683296,27 @@
     "source_updated_at": "",
     "sponsorship_evidence": ""
   },
+  "workday:NVIDIA:/job/US-CA-Santa-Clara/Director--Business-Development---Supply-Chain-for-Retail-and-CPG_JR2028337": {
+    "company": "NVIDIA",
+    "enriched_at": "2026-11-26T08:14:59.365555+00:00",
+    "external_id": "/job/US-CA-Santa-Clara/Director--Business-Development---Supply-Chain-for-Retail-and-CPG_JR2028337",
+    "h1b_mentioned": false,
+    "h1b_status": "unknown",
+    "keywords": [
+      "data science",
+      "supply chain",
+      "sales",
+      "recruiting"
+    ],
+    "salary_currency": "",
+    "salary_max": null,
+    "salary_min": null,
+    "salary_period": "",
+    "salary_text": "",
+    "source": "workday",
+    "source_updated_at": "",
+    "sponsorship_evidence": ""
+  },
   "workday:NVIDIA:/job/US-CA-Santa-Clara/Director--Carline-Program-Management---Autonomous-Vehicles_JR2020452": {
     "company": "NVIDIA",
     "enriched_at": "2026-08-30T05:23:27.598385+00:00",
@@ -682927,14 +683404,11 @@
   },
   "workday:NVIDIA:/job/US-CA-Santa-Clara/Director--Finance---Data-Center-Networking_JR2028768": {
     "company": "NVIDIA",
-    "enriched_at": "2026-10-29T22:44:25.766629+00:00",
+    "enriched_at": "2026-11-26T08:14:59.416438+00:00",
     "external_id": "/job/US-CA-Santa-Clara/Director--Finance---Data-Center-Networking_JR2028768",
     "h1b_mentioned": false,
     "h1b_status": "unknown",
-    "keywords": [
-      "accounting",
-      "recruiting"
-    ],
+    "keywords": [],
     "salary_currency": "",
     "salary_max": null,
     "salary_min": null,
@@ -683847,13 +684321,12 @@
   },
   "workday:NVIDIA:/job/US-CA-Santa-Clara/Enterprise-Services-Renewals-Sales-and-Operations-Representative_JR2028935": {
     "company": "NVIDIA",
-    "enriched_at": "2026-11-03T00:57:24.040042+00:00",
+    "enriched_at": "2026-11-26T08:14:59.416510+00:00",
     "external_id": "/job/US-CA-Santa-Clara/Enterprise-Services-Renewals-Sales-and-Operations-Representative_JR2028935",
     "h1b_mentioned": false,
     "h1b_status": "unknown",
     "keywords": [
-      "sales",
-      "recruiting"
+      "sales"
     ],
     "salary_currency": "",
     "salary_max": null,
@@ -683980,16 +684453,11 @@
   },
   "workday:NVIDIA:/job/US-CA-Santa-Clara/Facilities-Services-Manager_JR2026448": {
     "company": "NVIDIA",
-    "enriched_at": "2026-10-30T05:46:29.719513+00:00",
+    "enriched_at": "2026-11-26T08:14:59.416597+00:00",
     "external_id": "/job/US-CA-Santa-Clara/Facilities-Services-Manager_JR2026448",
     "h1b_mentioned": false,
     "h1b_status": "unknown",
-    "keywords": [
-      "logistics",
-      "recruiting",
-      "compliance",
-      "contracts"
-    ],
+    "keywords": [],
     "salary_currency": "",
     "salary_max": null,
     "salary_min": null,
@@ -687116,6 +687584,22 @@
     "source_updated_at": "",
     "sponsorship_evidence": ""
   },
+  "workday:NVIDIA:/job/US-CA-Santa-Clara/Platform-Software-Product-Manager_JR2029995": {
+    "company": "NVIDIA",
+    "enriched_at": "2026-11-26T08:14:59.319431+00:00",
+    "external_id": "/job/US-CA-Santa-Clara/Platform-Software-Product-Manager_JR2029995",
+    "h1b_mentioned": false,
+    "h1b_status": "unknown",
+    "keywords": [],
+    "salary_currency": "",
+    "salary_max": null,
+    "salary_min": null,
+    "salary_period": "",
+    "salary_text": "",
+    "source": "workday",
+    "source_updated_at": "",
+    "sponsorship_evidence": ""
+  },
   "workday:NVIDIA:/job/US-CA-Santa-Clara/Post-Silicon-Validation-and-Methodology-Engineer_JR2018268": {
     "company": "NVIDIA",
     "enriched_at": "2026-11-03T00:57:23.995060+00:00",
@@ -687941,6 +688425,22 @@
       "legal",
       "contracts"
     ],
+    "salary_currency": "",
+    "salary_max": null,
+    "salary_min": null,
+    "salary_period": "",
+    "salary_text": "",
+    "source": "workday",
+    "source_updated_at": "",
+    "sponsorship_evidence": ""
+  },
+  "workday:NVIDIA:/job/US-CA-Santa-Clara/Product-Data-Operations-Engineering-Systems-Analyst_JR2013016": {
+    "company": "NVIDIA",
+    "enriched_at": "2026-11-26T08:14:59.333291+00:00",
+    "external_id": "/job/US-CA-Santa-Clara/Product-Data-Operations-Engineering-Systems-Analyst_JR2013016",
+    "h1b_mentioned": false,
+    "h1b_status": "unknown",
+    "keywords": [],
     "salary_currency": "",
     "salary_max": null,
     "salary_min": null,
@@ -688939,7 +689439,7 @@
   },
   "workday:NVIDIA:/job/US-CA-Santa-Clara/Senior-AI-Agent-Test-Developer--SDET_JR2029313": {
     "company": "NVIDIA",
-    "enriched_at": "2026-11-03T23:22:22.189052+00:00",
+    "enriched_at": "2026-11-26T08:14:59.372438+00:00",
     "external_id": "/job/US-CA-Santa-Clara/Senior-AI-Agent-Test-Developer--SDET_JR2029313",
     "h1b_mentioned": false,
     "h1b_status": "unknown",
@@ -690352,6 +690852,26 @@
     "source_updated_at": "",
     "sponsorship_evidence": ""
   },
+  "workday:NVIDIA:/job/US-CA-Santa-Clara/Senior-Cosmos-Research-Scientist--Agentic-AI-for-3D-and-Robotics_JR2030744": {
+    "company": "NVIDIA",
+    "enriched_at": "2026-11-26T08:14:59.325866+00:00",
+    "external_id": "/job/US-CA-Santa-Clara/Senior-Cosmos-Research-Scientist--Agentic-AI-for-3D-and-Robotics_JR2030744",
+    "h1b_mentioned": false,
+    "h1b_status": "unknown",
+    "keywords": [
+      "Python",
+      "electrical engineering",
+      "recruiting"
+    ],
+    "salary_currency": "",
+    "salary_max": null,
+    "salary_min": null,
+    "salary_period": "",
+    "salary_text": "",
+    "source": "workday",
+    "source_updated_at": "",
+    "sponsorship_evidence": ""
+  },
   "workday:NVIDIA:/job/US-CA-Santa-Clara/Senior-Counsel--Business-Partnerships-and-Strategic-Transactions_JR2028445": {
     "company": "NVIDIA",
     "enriched_at": "2026-10-21T04:44:36.712761+00:00",
@@ -691265,7 +691785,7 @@
   },
   "workday:NVIDIA:/job/US-CA-Santa-Clara/Senior-Digital-Design-Verification-Engineer---Hardware_JR2028075": {
     "company": "NVIDIA",
-    "enriched_at": "2026-11-06T19:23:37.482897+00:00",
+    "enriched_at": "2026-11-26T08:14:59.378518+00:00",
     "external_id": "/job/US-CA-Santa-Clara/Senior-Digital-Design-Verification-Engineer---Hardware_JR2028075",
     "h1b_mentioned": false,
     "h1b_status": "unknown",
@@ -691646,6 +692166,22 @@
       "financial modeling",
       "recruiting"
     ],
+    "salary_currency": "",
+    "salary_max": null,
+    "salary_min": null,
+    "salary_period": "",
+    "salary_text": "",
+    "source": "workday",
+    "source_updated_at": "",
+    "sponsorship_evidence": ""
+  },
+  "workday:NVIDIA:/job/US-CA-Santa-Clara/Senior-Financial-Analyst--Operations-and-Manufacturing_JR2030264": {
+    "company": "NVIDIA",
+    "enriched_at": "2026-11-26T08:14:59.319590+00:00",
+    "external_id": "/job/US-CA-Santa-Clara/Senior-Financial-Analyst--Operations-and-Manufacturing_JR2030264",
+    "h1b_mentioned": false,
+    "h1b_status": "unknown",
+    "keywords": [],
     "salary_currency": "",
     "salary_max": null,
     "salary_min": null,
@@ -692939,7 +693475,7 @@
   },
   "workday:NVIDIA:/job/US-CA-Santa-Clara/Senior-Manager--Material-Planning_JR2025906": {
     "company": "NVIDIA",
-    "enriched_at": "2026-11-03T00:57:24.065398+00:00",
+    "enriched_at": "2026-11-26T08:14:59.385749+00:00",
     "external_id": "/job/US-CA-Santa-Clara/Senior-Manager--Material-Planning_JR2025906",
     "h1b_mentioned": false,
     "h1b_status": "unknown",
@@ -693378,7 +693914,7 @@
   },
   "workday:NVIDIA:/job/US-CA-Santa-Clara/Senior-Mask-Design-Engineer---Hardware_JR2028947-1": {
     "company": "NVIDIA",
-    "enriched_at": "2026-11-02T15:48:47.398696+00:00",
+    "enriched_at": "2026-11-26T08:14:59.392109+00:00",
     "external_id": "/job/US-CA-Santa-Clara/Senior-Mask-Design-Engineer---Hardware_JR2028947-1",
     "h1b_mentioned": false,
     "h1b_status": "unknown",
@@ -694393,6 +694929,22 @@
       "Kubernetes",
       "recruiting"
     ],
+    "salary_currency": "",
+    "salary_max": null,
+    "salary_min": null,
+    "salary_period": "",
+    "salary_text": "",
+    "source": "workday",
+    "source_updated_at": "",
+    "sponsorship_evidence": ""
+  },
+  "workday:NVIDIA:/job/US-CA-Santa-Clara/Senior-Product-Manager--Digital-Twin-Automation-and-Robotics_JR2030510": {
+    "company": "NVIDIA",
+    "enriched_at": "2026-11-26T08:14:59.333438+00:00",
+    "external_id": "/job/US-CA-Santa-Clara/Senior-Product-Manager--Digital-Twin-Automation-and-Robotics_JR2030510",
+    "h1b_mentioned": false,
+    "h1b_status": "unknown",
+    "keywords": [],
     "salary_currency": "",
     "salary_max": null,
     "salary_min": null,
@@ -696590,6 +697142,22 @@
     "source_updated_at": "",
     "sponsorship_evidence": ""
   },
+  "workday:NVIDIA:/job/US-CA-Santa-Clara/Senior-Software-Engineer--Distributed-Systems_JR2030254": {
+    "company": "NVIDIA",
+    "enriched_at": "2026-11-26T08:14:59.333371+00:00",
+    "external_id": "/job/US-CA-Santa-Clara/Senior-Software-Engineer--Distributed-Systems_JR2030254",
+    "h1b_mentioned": false,
+    "h1b_status": "unknown",
+    "keywords": [],
+    "salary_currency": "",
+    "salary_max": null,
+    "salary_min": null,
+    "salary_period": "",
+    "salary_text": "",
+    "source": "workday",
+    "source_updated_at": "",
+    "sponsorship_evidence": ""
+  },
   "workday:NVIDIA:/job/US-CA-Santa-Clara/Senior-Software-Engineer--Full-Stack_JR2022263": {
     "company": "NVIDIA",
     "enriched_at": "2026-10-08T23:20:31.320995+00:00",
@@ -697809,6 +698377,22 @@
     "source_updated_at": "",
     "sponsorship_evidence": ""
   },
+  "workday:NVIDIA:/job/US-CA-Santa-Clara/Senior-System-Software-Engineer---AV-Platform_JR2030679": {
+    "company": "NVIDIA",
+    "enriched_at": "2026-11-26T08:14:59.333514+00:00",
+    "external_id": "/job/US-CA-Santa-Clara/Senior-System-Software-Engineer---AV-Platform_JR2030679",
+    "h1b_mentioned": false,
+    "h1b_status": "unknown",
+    "keywords": [],
+    "salary_currency": "",
+    "salary_max": null,
+    "salary_min": null,
+    "salary_period": "",
+    "salary_text": "",
+    "source": "workday",
+    "source_updated_at": "",
+    "sponsorship_evidence": ""
+  },
   "workday:NVIDIA:/job/US-CA-Santa-Clara/Senior-System-Software-Engineer---Autonomous-Vehicles_JR2016469": {
     "company": "NVIDIA",
     "enriched_at": "2026-10-27T18:00:32.187981+00:00",
@@ -698558,7 +699142,7 @@
   },
   "workday:NVIDIA:/job/US-CA-Santa-Clara/Senior-Systems-Software-Engineer---GPU-Diagnostics_JR2012287": {
     "company": "NVIDIA",
-    "enriched_at": "2026-10-13T22:44:15.713221+00:00",
+    "enriched_at": "2026-11-26T08:14:59.319678+00:00",
     "external_id": "/job/US-CA-Santa-Clara/Senior-Systems-Software-Engineer---GPU-Diagnostics_JR2012287",
     "h1b_mentioned": false,
     "h1b_status": "unknown",
@@ -699161,7 +699745,7 @@
   },
   "workday:NVIDIA:/job/US-CA-Santa-Clara/Senior-Technical-Program-Manager--DGX-Cloud-Software-Products-and-Services_JR2028926": {
     "company": "NVIDIA",
-    "enriched_at": "2026-11-03T00:57:24.026664+00:00",
+    "enriched_at": "2026-11-26T08:14:59.396454+00:00",
     "external_id": "/job/US-CA-Santa-Clara/Senior-Technical-Program-Manager--DGX-Cloud-Software-Products-and-Services_JR2028926",
     "h1b_mentioned": false,
     "h1b_status": "unknown",
@@ -699318,6 +699902,27 @@
     "source_updated_at": "",
     "sponsorship_evidence": ""
   },
+  "workday:NVIDIA:/job/US-CA-Santa-Clara/Senior-Test-Infrastructure-Engineer_JR2023429": {
+    "company": "NVIDIA",
+    "enriched_at": "2026-11-26T08:14:59.405025+00:00",
+    "external_id": "/job/US-CA-Santa-Clara/Senior-Test-Infrastructure-Engineer_JR2023429",
+    "h1b_mentioned": false,
+    "h1b_status": "unknown",
+    "keywords": [
+      "Python",
+      "Terraform",
+      "recruiting",
+      "contracts"
+    ],
+    "salary_currency": "",
+    "salary_max": null,
+    "salary_min": null,
+    "salary_period": "",
+    "salary_text": "",
+    "source": "workday",
+    "source_updated_at": "",
+    "sponsorship_evidence": ""
+  },
   "workday:NVIDIA:/job/US-CA-Santa-Clara/Senior-Thermal-Design-Engineer_JR2019916-1": {
     "company": "NVIDIA",
     "enriched_at": "2026-09-01T21:01:57.840194+00:00",
@@ -699461,14 +700066,11 @@
   },
   "workday:NVIDIA:/job/US-CA-Santa-Clara/Senior-Vision-Language-Model-Engineer_JR2029400": {
     "company": "NVIDIA",
-    "enriched_at": "2026-11-04T19:44:49.547802+00:00",
+    "enriched_at": "2026-11-26T08:14:59.411653+00:00",
     "external_id": "/job/US-CA-Santa-Clara/Senior-Vision-Language-Model-Engineer_JR2029400",
     "h1b_mentioned": false,
     "h1b_status": "unknown",
-    "keywords": [
-      "Python",
-      "recruiting"
-    ],
+    "keywords": [],
     "salary_currency": "",
     "salary_max": null,
     "salary_min": null,
@@ -700258,6 +700860,25 @@
       "Terraform",
       "artificial intelligence",
       "analytics",
+      "recruiting"
+    ],
+    "salary_currency": "",
+    "salary_max": null,
+    "salary_min": null,
+    "salary_period": "",
+    "salary_text": "",
+    "source": "workday",
+    "source_updated_at": "",
+    "sponsorship_evidence": ""
+  },
+  "workday:NVIDIA:/job/US-CA-Santa-Clara/Staff-Software-Engineer---Agentic-Automation_JR2028169": {
+    "company": "NVIDIA",
+    "enriched_at": "2026-11-26T08:14:59.411720+00:00",
+    "external_id": "/job/US-CA-Santa-Clara/Staff-Software-Engineer---Agentic-Automation_JR2028169",
+    "h1b_mentioned": false,
+    "h1b_status": "unknown",
+    "keywords": [
+      "Excel",
       "recruiting"
     ],
     "salary_currency": "",
@@ -702307,7 +702928,7 @@
   },
   "workday:NVIDIA:/job/US-TX-Austin/AI-Compiler-and-Kernel-Intern---Summer-2027_JR2029220-1": {
     "company": "NVIDIA",
-    "enriched_at": "2026-11-03T14:11:26.665034+00:00",
+    "enriched_at": "2026-11-26T08:14:59.333580+00:00",
     "external_id": "/job/US-TX-Austin/AI-Compiler-and-Kernel-Intern---Summer-2027_JR2029220-1",
     "h1b_mentioned": false,
     "h1b_status": "unknown",
@@ -1173049,6 +1173670,22 @@
     "source_updated_at": "",
     "sponsorship_evidence": ""
   },
+  "workday:S&P Global:/job/CA---TORONTO-22-ADELAIDE-STREET-WEST/Operations-Analyst--ETF---Benchmark-Solutions_332583-1": {
+    "company": "S&P Global",
+    "enriched_at": "2026-11-26T08:15:54.582305+00:00",
+    "external_id": "/job/CA---TORONTO-22-ADELAIDE-STREET-WEST/Operations-Analyst--ETF---Benchmark-Solutions_332583-1",
+    "h1b_mentioned": false,
+    "h1b_status": "unknown",
+    "keywords": [],
+    "salary_currency": "",
+    "salary_max": null,
+    "salary_min": null,
+    "salary_period": "",
+    "salary_text": "",
+    "source": "workday",
+    "source_updated_at": "",
+    "sponsorship_evidence": ""
+  },
   "workday:S&P Global:/job/Charlottesville-VA/Divisional-Account-Manager_332283-1": {
     "company": "S&P Global",
     "enriched_at": "2026-10-24T04:38:25.065828+00:00",
@@ -1173343,6 +1173980,22 @@
       "supply chain",
       "compliance"
     ],
+    "salary_currency": "",
+    "salary_max": null,
+    "salary_min": null,
+    "salary_period": "",
+    "salary_text": "",
+    "source": "workday",
+    "source_updated_at": "",
+    "sponsorship_evidence": ""
+  },
+  "workday:S&P Global:/job/Dallas-TX/Project-Management---Professional-Services_332796-2": {
+    "company": "S&P Global",
+    "enriched_at": "2026-11-26T08:15:54.582225+00:00",
+    "external_id": "/job/Dallas-TX/Project-Management---Professional-Services_332796-2",
+    "h1b_mentioned": false,
+    "h1b_status": "unknown",
+    "keywords": [],
     "salary_currency": "",
     "salary_max": null,
     "salary_min": null,
@@ -1173887,6 +1174540,22 @@
     "source_updated_at": "",
     "sponsorship_evidence": ""
   },
+  "workday:S&P Global:/job/IN---HYDERABAD-ORION/Lead--Data-Engineering_330178-2": {
+    "company": "S&P Global",
+    "enriched_at": "2026-11-26T08:15:54.564737+00:00",
+    "external_id": "/job/IN---HYDERABAD-ORION/Lead--Data-Engineering_330178-2",
+    "h1b_mentioned": false,
+    "h1b_status": "unknown",
+    "keywords": [],
+    "salary_currency": "",
+    "salary_max": null,
+    "salary_min": null,
+    "salary_period": "",
+    "salary_text": "",
+    "source": "workday",
+    "source_updated_at": "",
+    "sponsorship_evidence": ""
+  },
   "workday:S&P Global:/job/IN---HYDERABAD-SKYVIEW/Data-Analyst_329166-1": {
     "company": "S&P Global",
     "enriched_at": "2026-10-30T22:21:08.459339+00:00",
@@ -1174291,6 +1174960,33 @@
       "accounting",
       "supply chain",
       "compliance"
+    ],
+    "salary_currency": "",
+    "salary_max": null,
+    "salary_min": null,
+    "salary_period": "",
+    "salary_text": "",
+    "source": "workday",
+    "source_updated_at": "",
+    "sponsorship_evidence": ""
+  },
+  "workday:S&P Global:/job/IN---MUMBAI-PHOENIX-PARAGON-PLAZA/Lead-Software-Engineer--Data-Engineer-_325737-1": {
+    "company": "S&P Global",
+    "enriched_at": "2026-11-26T08:15:54.564925+00:00",
+    "external_id": "/job/IN---MUMBAI-PHOENIX-PARAGON-PLAZA/Lead-Software-Engineer--Data-Engineer-_325737-1",
+    "h1b_mentioned": false,
+    "h1b_status": "unknown",
+    "keywords": [
+      "Python",
+      "Java",
+      "C#",
+      "SQL",
+      "AWS",
+      "analytics",
+      "risk management",
+      "supply chain",
+      "compliance",
+      "contracts"
     ],
     "salary_currency": "",
     "salary_max": null,
@@ -1175595,16 +1176291,12 @@
   },
   "workday:S&P Global:/job/New-York-NY/Equities-Sales-Specialist--Associate-Director_332303-1": {
     "company": "S&P Global",
-    "enriched_at": "2026-10-26T04:48:10.673636+00:00",
+    "enriched_at": "2026-11-26T08:15:54.564868+00:00",
     "external_id": "/job/New-York-NY/Equities-Sales-Specialist--Associate-Director_332303-1",
     "h1b_mentioned": false,
     "h1b_status": "unknown",
     "keywords": [
-      "analytics",
-      "supply chain",
-      "sales",
-      "compliance",
-      "contracts"
+      "sales"
     ],
     "salary_currency": "",
     "salary_max": null,
@@ -1176858,6 +1177550,28 @@
     "source_updated_at": "",
     "sponsorship_evidence": ""
   },
+  "workday:S&P Global:/job/New-York-NY/Senior-Analyst---High-Technology--New-York-City--NY-_332839-1": {
+    "company": "S&P Global",
+    "enriched_at": "2026-11-26T08:15:54.582372+00:00",
+    "external_id": "/job/New-York-NY/Senior-Analyst---High-Technology--New-York-City--NY-_332839-1",
+    "h1b_mentioned": false,
+    "h1b_status": "unknown",
+    "keywords": [
+      "analytics",
+      "accounting",
+      "risk management",
+      "supply chain",
+      "compliance"
+    ],
+    "salary_currency": "",
+    "salary_max": null,
+    "salary_min": null,
+    "salary_period": "",
+    "salary_text": "",
+    "source": "workday",
+    "source_updated_at": "",
+    "sponsorship_evidence": ""
+  },
   "workday:S&P Global:/job/New-York-NY/Senior-Analyst---Insurance-Ratings--Denver-or-New-York-City_331462-1": {
     "company": "S&P Global",
     "enriched_at": "2026-09-29T05:46:37.363672+00:00",
@@ -1177768,17 +1178482,11 @@
   },
   "workday:S&P Global:/job/US---CO---ENGLEWOOD-15-INVERNESS-WAY-EAST/Senior-Analyst--Infrastructure---Project-Finance---Denver_331694-1": {
     "company": "S&P Global",
-    "enriched_at": "2026-09-21T12:50:01.331705+00:00",
+    "enriched_at": "2026-11-26T08:15:54.600586+00:00",
     "external_id": "/job/US---CO---ENGLEWOOD-15-INVERNESS-WAY-EAST/Senior-Analyst--Infrastructure---Project-Finance---Denver_331694-1",
     "h1b_mentioned": false,
     "h1b_status": "unknown",
-    "keywords": [
-      "analytics",
-      "accounting",
-      "risk management",
-      "supply chain",
-      "compliance"
-    ],
+    "keywords": [],
     "salary_currency": "",
     "salary_max": null,
     "salary_min": null,
@@ -1348821,6 +1349529,27 @@
     "source_updated_at": "",
     "sponsorship_evidence": ""
   },
+  "workday:Visa:/job/CA---Toronto-Canada/Product-Manager_REF090878W": {
+    "company": "Visa",
+    "enriched_at": "2026-11-26T08:15:41.765796+00:00",
+    "external_id": "/job/CA---Toronto-Canada/Product-Manager_REF090878W",
+    "h1b_mentioned": false,
+    "h1b_status": "unknown",
+    "keywords": [
+      "artificial intelligence",
+      "analytics",
+      "CAD",
+      "sales"
+    ],
+    "salary_currency": "",
+    "salary_max": null,
+    "salary_min": null,
+    "salary_period": "",
+    "salary_text": "",
+    "source": "workday",
+    "source_updated_at": "",
+    "sponsorship_evidence": ""
+  },
   "workday:Visa:/job/CA---Toronto-Canada/Senior-Consultant--Service-Experience_REF088296W": {
     "company": "Visa",
     "enriched_at": "2026-09-11T16:30:14.247699+00:00",
@@ -1349272,6 +1350001,25 @@
     "company": "Visa",
     "enriched_at": "2026-10-29T05:48:34.971889+00:00",
     "external_id": "/job/CO---Bogota-Colombia/Client-Care-Consultant---Technical-Solutions_REF089650W",
+    "h1b_mentioned": false,
+    "h1b_status": "unknown",
+    "keywords": [
+      "sales",
+      "legal"
+    ],
+    "salary_currency": "",
+    "salary_max": null,
+    "salary_min": null,
+    "salary_period": "",
+    "salary_text": "",
+    "source": "workday",
+    "source_updated_at": "",
+    "sponsorship_evidence": ""
+  },
+  "workday:Visa:/job/CO---Bogota-Colombia/Client-Care-Consultant---Technical-Solutions_REF089651W": {
+    "company": "Visa",
+    "enriched_at": "2026-11-26T08:15:41.775645+00:00",
+    "external_id": "/job/CO---Bogota-Colombia/Client-Care-Consultant---Technical-Solutions_REF089651W",
     "h1b_mentioned": false,
     "h1b_status": "unknown",
     "keywords": [
@@ -1350530,7 +1351278,7 @@
   },
   "workday:Visa:/job/CO---Bogota-Colombia/Workforce-Planning-Associate--Client-Care-Ops_REF088964W": {
     "company": "Visa",
-    "enriched_at": "2026-10-16T21:09:57.186070+00:00",
+    "enriched_at": "2026-11-26T08:15:41.711708+00:00",
     "external_id": "/job/CO---Bogota-Colombia/Workforce-Planning-Associate--Client-Care-Ops_REF088964W",
     "h1b_mentioned": false,
     "h1b_status": "unknown",
@@ -1350548,7 +1351296,7 @@
   },
   "workday:Visa:/job/DE---Berlin-Germany/Senior-Manager-Digital-Payments-and-Banking--German-Speaking-_REF088266W": {
     "company": "Visa",
-    "enriched_at": "2026-09-18T11:14:58.951799+00:00",
+    "enriched_at": "2026-11-26T08:15:41.813367+00:00",
     "external_id": "/job/DE---Berlin-Germany/Senior-Manager-Digital-Payments-and-Banking--German-Speaking-_REF088266W",
     "h1b_mentioned": false,
     "h1b_status": "unknown",
@@ -1351082,6 +1351830,22 @@
     "source_updated_at": "",
     "sponsorship_evidence": ""
   },
+  "workday:Visa:/job/IN---Bengaluru-India/Consultant--Workday-Time-tracking-and-Payroll-5-yrs--8-yrs_REF090666W": {
+    "company": "Visa",
+    "enriched_at": "2026-11-26T08:15:41.719124+00:00",
+    "external_id": "/job/IN---Bengaluru-India/Consultant--Workday-Time-tracking-and-Payroll-5-yrs--8-yrs_REF090666W",
+    "h1b_mentioned": false,
+    "h1b_status": "unknown",
+    "keywords": [],
+    "salary_currency": "",
+    "salary_max": null,
+    "salary_min": null,
+    "salary_period": "",
+    "salary_text": "",
+    "source": "workday",
+    "source_updated_at": "",
+    "sponsorship_evidence": ""
+  },
   "workday:Visa:/job/IN---Bengaluru-India/Cybersecurity-Analyst_REF088028W-1": {
     "company": "Visa",
     "enriched_at": "2026-09-07T12:32:45.199604+00:00",
@@ -1351108,17 +1351872,11 @@
   },
   "workday:Visa:/job/IN---Bengaluru-India/Data---Insights-Consultant_REF089061W": {
     "company": "Visa",
-    "enriched_at": "2026-10-07T06:01:13.764847+00:00",
+    "enriched_at": "2026-11-26T08:15:41.775582+00:00",
     "external_id": "/job/IN---Bengaluru-India/Data---Insights-Consultant_REF089061W",
     "h1b_mentioned": false,
     "h1b_status": "unknown",
-    "keywords": [
-      "Python",
-      "SQL",
-      "machine learning",
-      "analytics",
-      "Excel"
-    ],
+    "keywords": [],
     "salary_currency": "",
     "salary_max": null,
     "salary_min": null,
@@ -1352108,6 +1352866,29 @@
     "source_updated_at": "",
     "sponsorship_evidence": ""
   },
+  "workday:Visa:/job/IN---Bengaluru-India/SW-Engineer--1---2-years-of-exp-as-Full-Stack-Developers-Python---Java---Angular---React-and-GenAI-_REF090567W": {
+    "company": "Visa",
+    "enriched_at": "2026-11-26T08:15:41.695801+00:00",
+    "external_id": "/job/IN---Bengaluru-India/SW-Engineer--1---2-years-of-exp-as-Full-Stack-Developers-Python---Java---Angular---React-and-GenAI-_REF090567W",
+    "h1b_mentioned": false,
+    "h1b_status": "unknown",
+    "keywords": [
+      "Python",
+      "Java",
+      "React",
+      "machine learning",
+      "artificial intelligence",
+      "analytics"
+    ],
+    "salary_currency": "",
+    "salary_max": null,
+    "salary_min": null,
+    "salary_period": "",
+    "salary_text": "",
+    "source": "workday",
+    "source_updated_at": "",
+    "sponsorship_evidence": ""
+  },
   "workday:Visa:/job/IN---Bengaluru-India/SW-Engineer--1---2-years-of-exp-in-Net---Python--Full-stack-development--Angular---React--GenAI-_REF083082W": {
     "company": "Visa",
     "enriched_at": "2026-08-27T09:48:49.435155+00:00",
@@ -1352149,6 +1352930,29 @@
       "Azure",
       "GCP",
       "Docker"
+    ],
+    "salary_currency": "",
+    "salary_max": null,
+    "salary_min": null,
+    "salary_period": "",
+    "salary_text": "",
+    "source": "workday",
+    "source_updated_at": "",
+    "sponsorship_evidence": ""
+  },
+  "workday:Visa:/job/IN---Bengaluru-India/SW-Engineer-SW-Engineer--1---2-years-of-exp-as-Full-Stack-Developers-Python---Java---Angular---React-and-GenAI-_REF090566W": {
+    "company": "Visa",
+    "enriched_at": "2026-11-26T08:15:41.703695+00:00",
+    "external_id": "/job/IN---Bengaluru-India/SW-Engineer-SW-Engineer--1---2-years-of-exp-as-Full-Stack-Developers-Python---Java---Angular---React-and-GenAI-_REF090566W",
+    "h1b_mentioned": false,
+    "h1b_status": "unknown",
+    "keywords": [
+      "Python",
+      "Java",
+      "React",
+      "machine learning",
+      "artificial intelligence",
+      "analytics"
     ],
     "salary_currency": "",
     "salary_max": null,
@@ -1352459,6 +1353263,29 @@
     "keywords": [
       "data science",
       "analytics"
+    ],
+    "salary_currency": "",
+    "salary_max": null,
+    "salary_min": null,
+    "salary_period": "",
+    "salary_text": "",
+    "source": "workday",
+    "source_updated_at": "",
+    "sponsorship_evidence": ""
+  },
+  "workday:Visa:/job/IN---Bengaluru-India/Senior-Manager---Data--AI-and-Analytics--VCA-X--Visa-Consulting-and-Analytics_REF090509W": {
+    "company": "Visa",
+    "enriched_at": "2026-11-26T08:15:41.684879+00:00",
+    "external_id": "/job/IN---Bengaluru-India/Senior-Manager---Data--AI-and-Analytics--VCA-X--Visa-Consulting-and-Analytics_REF090509W",
+    "h1b_mentioned": false,
+    "h1b_status": "unknown",
+    "keywords": [
+      "Python",
+      "SQL",
+      "machine learning",
+      "data science",
+      "analytics",
+      "compliance"
     ],
     "salary_currency": "",
     "salary_max": null,
@@ -1356981,6 +1357808,34 @@
     "source_updated_at": "",
     "sponsorship_evidence": ""
   },
+  "workday:Visa:/job/US---Austin-TX/Associate-Data-Engineer--AI-Studio_REF090692W": {
+    "company": "Visa",
+    "enriched_at": "2026-11-26T08:15:41.848172+00:00",
+    "external_id": "/job/US---Austin-TX/Associate-Data-Engineer--AI-Studio_REF090692W",
+    "h1b_mentioned": false,
+    "h1b_status": "unknown",
+    "keywords": [
+      "Python",
+      "Java",
+      "Go",
+      "Rust",
+      "AWS",
+      "Azure",
+      "GCP",
+      "machine learning",
+      "data science",
+      "audit",
+      "sales"
+    ],
+    "salary_currency": "",
+    "salary_max": null,
+    "salary_min": null,
+    "salary_period": "",
+    "salary_text": "",
+    "source": "workday",
+    "source_updated_at": "",
+    "sponsorship_evidence": ""
+  },
   "workday:Visa:/job/US---Austin-TX/Associate-Product-Manager--APM---New-College-Graduate-Rotational-Program--2027_REF088601W-1": {
     "company": "Visa",
     "enriched_at": "2026-09-17T04:54:09.680098+00:00",
@@ -1357816,6 +1358671,34 @@
       "sales",
       "compliance",
       "legal"
+    ],
+    "salary_currency": "",
+    "salary_max": null,
+    "salary_min": null,
+    "salary_period": "",
+    "salary_text": "",
+    "source": "workday",
+    "source_updated_at": "",
+    "sponsorship_evidence": ""
+  },
+  "workday:Visa:/job/US---Austin-TX/Principal-ML-Engineer--AI-Studio_REF090736W": {
+    "company": "Visa",
+    "enriched_at": "2026-11-26T08:15:41.821533+00:00",
+    "external_id": "/job/US---Austin-TX/Principal-ML-Engineer--AI-Studio_REF090736W",
+    "h1b_mentioned": false,
+    "h1b_status": "unknown",
+    "keywords": [
+      "Python",
+      "Go",
+      "Rust",
+      "AWS",
+      "Azure",
+      "GCP",
+      "machine learning",
+      "data science",
+      "audit",
+      "sales",
+      "compliance"
     ],
     "salary_currency": "",
     "salary_max": null,
@@ -1358803,6 +1359686,22 @@
     "source_updated_at": "",
     "sponsorship_evidence": ""
   },
+  "workday:Visa:/job/US---Austin-TX/Sr-ML-Engineer--AI-Studio_REF090690W": {
+    "company": "Visa",
+    "enriched_at": "2026-11-26T08:15:41.834872+00:00",
+    "external_id": "/job/US---Austin-TX/Sr-ML-Engineer--AI-Studio_REF090690W",
+    "h1b_mentioned": false,
+    "h1b_status": "unknown",
+    "keywords": [],
+    "salary_currency": "",
+    "salary_max": null,
+    "salary_min": null,
+    "salary_period": "",
+    "salary_text": "",
+    "source": "workday",
+    "source_updated_at": "",
+    "sponsorship_evidence": ""
+  },
   "workday:Visa:/job/US---Austin-TX/Sr-ML-Engineer_REF088545W": {
     "company": "Visa",
     "enriched_at": "2026-10-02T22:15:56.519055+00:00",
@@ -1359114,6 +1360013,34 @@
     "h1b_mentioned": false,
     "h1b_status": "unknown",
     "keywords": [
+      "sales",
+      "compliance"
+    ],
+    "salary_currency": "",
+    "salary_max": null,
+    "salary_min": null,
+    "salary_period": "",
+    "salary_text": "",
+    "source": "workday",
+    "source_updated_at": "",
+    "sponsorship_evidence": ""
+  },
+  "workday:Visa:/job/US---Austin-TX/Staff-ML-Engineer--AI-Studio_REF090688W": {
+    "company": "Visa",
+    "enriched_at": "2026-11-26T08:15:41.834931+00:00",
+    "external_id": "/job/US---Austin-TX/Staff-ML-Engineer--AI-Studio_REF090688W",
+    "h1b_mentioned": false,
+    "h1b_status": "unknown",
+    "keywords": [
+      "Python",
+      "Go",
+      "Rust",
+      "AWS",
+      "Azure",
+      "GCP",
+      "machine learning",
+      "data science",
+      "audit",
       "sales",
       "compliance"
     ],
@@ -1360392,6 +1361319,24 @@
     "source_updated_at": "",
     "sponsorship_evidence": ""
   },
+  "workday:Visa:/job/US---Denver-CO/Senior-Product-Manager_REF090880W": {
+    "company": "Visa",
+    "enriched_at": "2026-11-26T08:15:41.747620+00:00",
+    "external_id": "/job/US---Denver-CO/Senior-Product-Manager_REF090880W",
+    "h1b_mentioned": false,
+    "h1b_status": "unknown",
+    "keywords": [
+      "sales"
+    ],
+    "salary_currency": "",
+    "salary_max": null,
+    "salary_min": null,
+    "salary_period": "",
+    "salary_text": "",
+    "source": "workday",
+    "source_updated_at": "",
+    "sponsorship_evidence": ""
+  },
   "workday:Visa:/job/US---Denver-CO/Software-Development-Engineer--Product-Reliability-Engineering_REF089580W": {
     "company": "Visa",
     "enriched_at": "2026-11-07T05:59:19.547250+00:00",
@@ -1361590,6 +1362535,27 @@
     "source_updated_at": "",
     "sponsorship_evidence": ""
   },
+  "workday:Visa:/job/US---Foster-City-CA/Finance-Manager--Technology-Finance---Infrastructure_REF090831W": {
+    "company": "Visa",
+    "enriched_at": "2026-11-26T08:15:41.783727+00:00",
+    "external_id": "/job/US---Foster-City-CA/Finance-Manager--Technology-Finance---Infrastructure_REF090831W",
+    "h1b_mentioned": false,
+    "h1b_status": "unknown",
+    "keywords": [
+      "analytics",
+      "financial modeling",
+      "sales",
+      "contracts"
+    ],
+    "salary_currency": "",
+    "salary_max": null,
+    "salary_min": null,
+    "salary_period": "",
+    "salary_text": "",
+    "source": "workday",
+    "source_updated_at": "",
+    "sponsorship_evidence": ""
+  },
   "workday:Visa:/job/US---Foster-City-CA/Financial-Analyst---Global-Revenue-Operations_REF087376W": {
     "company": "Visa",
     "enriched_at": "2026-11-12T15:16:47.821564+00:00",
@@ -1362731,6 +1363697,25 @@
     "source_updated_at": "",
     "sponsorship_evidence": ""
   },
+  "workday:Visa:/job/US---Foster-City-CA/Sr-Director--Compensation-Consulting_REF090910W": {
+    "company": "Visa",
+    "enriched_at": "2026-11-26T08:15:41.803825+00:00",
+    "external_id": "/job/US---Foster-City-CA/Sr-Director--Compensation-Consulting_REF090910W",
+    "h1b_mentioned": false,
+    "h1b_status": "unknown",
+    "keywords": [
+      "Excel",
+      "sales"
+    ],
+    "salary_currency": "",
+    "salary_max": null,
+    "salary_min": null,
+    "salary_period": "",
+    "salary_text": "",
+    "source": "workday",
+    "source_updated_at": "",
+    "sponsorship_evidence": ""
+  },
   "workday:Visa:/job/US---Foster-City-CA/Sr-Director--Flex---Installment-Products_REF088306W-1": {
     "company": "Visa",
     "enriched_at": "2026-09-08T21:11:53.850505+00:00",
@@ -1362795,6 +1363780,44 @@
     "source_updated_at": "",
     "sponsorship_evidence": ""
   },
+  "workday:Visa:/job/US---Foster-City-CA/Sr-Director--Technology-Finance---Corporate-IT---Tech-Platforms-Planning---Ops_REF090830W": {
+    "company": "Visa",
+    "enriched_at": "2026-11-26T08:15:41.791068+00:00",
+    "external_id": "/job/US---Foster-City-CA/Sr-Director--Technology-Finance---Corporate-IT---Tech-Platforms-Planning---Ops_REF090830W",
+    "h1b_mentioned": false,
+    "h1b_status": "unknown",
+    "keywords": [],
+    "salary_currency": "",
+    "salary_max": null,
+    "salary_min": null,
+    "salary_period": "",
+    "salary_text": "",
+    "source": "workday",
+    "source_updated_at": "",
+    "sponsorship_evidence": ""
+  },
+  "workday:Visa:/job/US---Foster-City-CA/Sr-Director--Technology-Finance---Infrastructure_REF090828W": {
+    "company": "Visa",
+    "enriched_at": "2026-11-26T08:15:41.791187+00:00",
+    "external_id": "/job/US---Foster-City-CA/Sr-Director--Technology-Finance---Infrastructure_REF090828W",
+    "h1b_mentioned": false,
+    "h1b_status": "unknown",
+    "keywords": [
+      "analytics",
+      "accounting",
+      "procurement",
+      "sales",
+      "legal"
+    ],
+    "salary_currency": "",
+    "salary_max": null,
+    "salary_min": null,
+    "salary_period": "",
+    "salary_text": "",
+    "source": "workday",
+    "source_updated_at": "",
+    "sponsorship_evidence": ""
+  },
   "workday:Visa:/job/US---Foster-City-CA/Sr-Director_REF089669W": {
     "company": "Visa",
     "enriched_at": "2026-10-22T17:12:49.123352+00:00",
@@ -1362846,6 +1363869,22 @@
       "financial modeling",
       "sales"
     ],
+    "salary_currency": "",
+    "salary_max": null,
+    "salary_min": null,
+    "salary_period": "",
+    "salary_text": "",
+    "source": "workday",
+    "source_updated_at": "",
+    "sponsorship_evidence": ""
+  },
+  "workday:Visa:/job/US---Foster-City-CA/Sr-Manager--Technology-Finance---Cloud-and-Gen-AI_REF090971W": {
+    "company": "Visa",
+    "enriched_at": "2026-11-26T08:15:41.790935+00:00",
+    "external_id": "/job/US---Foster-City-CA/Sr-Manager--Technology-Finance---Cloud-and-Gen-AI_REF090971W",
+    "h1b_mentioned": false,
+    "h1b_status": "unknown",
+    "keywords": [],
     "salary_currency": "",
     "salary_max": null,
     "salary_min": null,
@@ -1363054,7 +1364093,7 @@
   },
   "workday:Visa:/job/US---Foster-City-CA/Sr-Service-Experience-Consultant--Client-Services-Go-to-Market-Services_REF090079W-1": {
     "company": "Visa",
-    "enriched_at": "2026-11-06T19:26:27.055681+00:00",
+    "enriched_at": "2026-11-26T08:15:41.727698+00:00",
     "external_id": "/job/US---Foster-City-CA/Sr-Service-Experience-Consultant--Client-Services-Go-to-Market-Services_REF090079W-1",
     "h1b_mentioned": false,
     "h1b_status": "unknown",
@@ -1363916,6 +1364955,28 @@
       "accounting",
       "sales",
       "legal"
+    ],
+    "salary_currency": "",
+    "salary_max": null,
+    "salary_min": null,
+    "salary_period": "",
+    "salary_text": "",
+    "source": "workday",
+    "source_updated_at": "",
+    "sponsorship_evidence": ""
+  },
+  "workday:Visa:/job/US---Miami-FL/Manager--Sales-Planning---Discipline_REF090668W-1": {
+    "company": "Visa",
+    "enriched_at": "2026-11-26T08:15:41.740080+00:00",
+    "external_id": "/job/US---Miami-FL/Manager--Sales-Planning---Discipline_REF090668W-1",
+    "h1b_mentioned": false,
+    "h1b_status": "unknown",
+    "keywords": [
+      "analytics",
+      "Excel",
+      "sales",
+      "CRM",
+      "recruiting"
     ],
     "salary_currency": "",
     "salary_max": null,
@@ -1365629,6 +1366690,25 @@
     "h1b_status": "unknown",
     "keywords": [
       "risk management",
+      "sales"
+    ],
+    "salary_currency": "",
+    "salary_max": null,
+    "salary_min": null,
+    "salary_period": "",
+    "salary_text": "",
+    "source": "workday",
+    "source_updated_at": "",
+    "sponsorship_evidence": ""
+  },
+  "workday:Visa:/job/US---San-Francisco-CA/Learner-Experience---Enablement-Advisor--Global-Sales-Enablement-_REF090709W": {
+    "company": "Visa",
+    "enriched_at": "2026-11-26T08:15:41.755470+00:00",
+    "external_id": "/job/US---San-Francisco-CA/Learner-Experience---Enablement-Advisor--Global-Sales-Enablement-_REF090709W",
+    "h1b_mentioned": false,
+    "h1b_status": "unknown",
+    "keywords": [
+      "logistics",
       "sales"
     ],
     "salary_currency": "",
