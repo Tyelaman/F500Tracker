@@ -1,12 +1,12 @@
 # F500Tracker internships
 
-Last updated: November 27, 2026 at 08:31 UTC
+Last updated: November 27, 2026 at 21:17 UTC
 
-Current internships: 350
+Current internships: 349
 
 ## Categories
 
-[Software & IT (37)](#software-it) · [Data & AI (7)](#data-ai) · [Product & Design (1)](#product-design) · [Engineering (50)](#engineering) · [Finance & Accounting (5)](#finance-accounting) · [Sales & Marketing (7)](#sales-marketing) · [Operations & Supply Chain (24)](#operations-supply-chain) · [People & Legal (1)](#people-legal) · [Other (218)](#other)
+[Software & IT (37)](#software-it) · [Data & AI (7)](#data-ai) · [Product & Design (1)](#product-design) · [Engineering (50)](#engineering) · [Finance & Accounting (5)](#finance-accounting) · [Sales & Marketing (7)](#sales-marketing) · [Operations & Supply Chain (24)](#operations-supply-chain) · [People & Legal (1)](#people-legal) · [Other (217)](#other)
 
 <a id="software-it"></a>
 
@@ -232,7 +232,7 @@ Open positions: 1
 
 ## Other
 
-Open positions: 218
+Open positions: 217
 
 | Rank | Company | Position | Location | Category | Salary | Keywords | Sponsorship | Apply |
 |---:|---|---|---|---|---|---|---|---|
@@ -247,7 +247,6 @@ Open positions: 218
 | 44 | Walt Disney | Product Design (Accessories) Intern, Spring 2027 | Glendale, CA, USA | Other | $23/hr | Excel · CAD | Not specified | [Apply](https://disney.wd5.myworkdayjobs.com/en-US/disneycareer/job/Glendale-CA-USA/Product-Design--Accessories--Intern--Spring-2027_10160436) |
 | 160 | Applied Materials | Internship Program Manager - B4 | Santa Clara,CA | Other | Not disclosed | analytics · risk management · sales · human resources · recruiting | Not specified | [Apply](https://amat.wd1.myworkdayjobs.com/en-US/External/job/Santa-ClaraCA/Internship-Program-Manager---B4_R2631565) |
 | 84 | HP | HP SalesEDGE Rotational Internship Job Description | Rio Rancho, New Mexico, United States of America | Other | $21.85–$30.04/hr | sales | Not specified | [Apply](https://hp.wd5.myworkdayjobs.com/en-US/ExternalCareerSite/job/Rio-Rancho-New-Mexico-United-States-of-America/HP-SalesEDGE-Rotational-Internship-Job-Description_3169060) |
-| 16 | NVIDIA | AI Compiler and Kernel Intern – Summer 2027 | US, TX, Austin | Other | Not disclosed | Python · machine learning · electrical engineering · recruiting | Not specified | [Apply](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-TX-Austin/AI-Compiler-and-Kernel-Intern---Summer-2027_JR2029220-1) |
 | 396 | Analog Devices | Robot Learning Engineer Intern | US, CA, San Jose, Rio Robles | Other | Not disclosed | machine learning | Not specified | [Apply](https://analogdevices.wd1.myworkdayjobs.com/en-US/External/job/US-CA-San-Jose-Rio-Robles/Robot-Learning-Engineer-Intern_R269543) |
 | 476 | Marvell Technology | Applied AI/ML Research Scientist Intern | Santa Clara, CA | Other | Not disclosed | Python · machine learning · data science · electrical engineering | Not specified | [Apply](https://marvell.wd1.myworkdayjobs.com/en-US/MarvellCareers/job/Santa-Clara-CA/Applied-AI-ML-Research-Scientist-Intern_2603847-1) |
 | 19 | Centene | Business Analyst Graduate Summer Intern | Remote-MO | Other | Not disclosed | — | Not specified | [Apply](https://centene.wd5.myworkdayjobs.com/en-US/centene_external/job/Remote-MO/Graduate-Summer-Intern_1667776) |
