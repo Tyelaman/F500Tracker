@@ -1,12 +1,12 @@
 # F500Tracker internships
 
-Last updated: November 28, 2026 at 07:47 UTC
+Last updated: November 28, 2026 at 20:03 UTC
 
-Current internships: 349
+Current internships: 347
 
 ## Categories
 
-[Software & IT (37)](#software-it) · [Data & AI (7)](#data-ai) · [Product & Design (1)](#product-design) · [Engineering (50)](#engineering) · [Finance & Accounting (5)](#finance-accounting) · [Sales & Marketing (7)](#sales-marketing) · [Operations & Supply Chain (24)](#operations-supply-chain) · [People & Legal (1)](#people-legal) · [Other (217)](#other)
+[Software & IT (37)](#software-it) · [Data & AI (7)](#data-ai) · [Product & Design (1)](#product-design) · [Engineering (50)](#engineering) · [Finance & Accounting (5)](#finance-accounting) · [Sales & Marketing (7)](#sales-marketing) · [Operations & Supply Chain (25)](#operations-supply-chain) · [People & Legal (1)](#people-legal) · [Other (214)](#other)
 
 <a id="software-it"></a>
 
@@ -185,12 +185,13 @@ Open positions: 7
 
 ## Operations & Supply Chain
 
-Open positions: 24
+Open positions: 25
 
 | Rank | Company | Position | Location | Category | Salary | Keywords | Sponsorship | Apply |
 |---:|---|---|---|---|---|---|---|---|
 | 329 | DoorDash | Drone Operations, Intern - Labs (Summer 2027) | San Francisco, CA | Operations & Supply Chain | Not disclosed | Excel · logistics · recruiting | Not specified | [Apply](https://job-boards.greenhouse.io/doordashusa/jobs/8312381) |
 | 329 | DoorDash | Operations Research Intern (PhD), Summer 2027 | Sunnyvale, CA | Operations & Supply Chain | Not disclosed | Java · SQL · machine learning · Excel · logistics | Not specified | [Apply](https://job-boards.greenhouse.io/doordashusa/jobs/8273965) |
+| 19 | Centene | Digital Design Operations Intern (Master's - Summer 2027) | Remote-MO | Operations & Supply Chain | Not disclosed | legal | Not specified | [Apply](https://centene.wd5.myworkdayjobs.com/en-US/centene_external/job/Remote-MO/Digital-Design-Operations-Intern--Master-s---Summer-2027-_1667736) |
 | 23 | General Motors | 2027 Summer Intern – Business Operations & Cost Optimization, Cadillac Racing Program Management | Milford, Michigan, United States of America | Operations & Supply Chain | Not disclosed | — | Not specified | [Apply](https://generalmotors.wd5.myworkdayjobs.com/en-US/Careers_GM/job/Milford-Michigan-United-States-of-America/XMLNAME-2027-Summer-Intern---Business-Operations---Cost-Optimization--Cadillac-Racing-Program-Management_JR-202619989) |
 | 125 | Micron Technology | Intern - Revenue Operations | Boise, ID - Main Site | Operations & Supply Chain | Not disclosed | data science · analytics · Excel · supply chain · sales | Not specified | [Apply](https://micron.wd1.myworkdayjobs.com/en-US/External/job/Boise-ID---Main-Site/Intern---Revenue-Operations_JR117383) |
 | 125 | Micron Technology | Intern – Procurement Cost Analyst | Boise, ID - North Office | Operations & Supply Chain | Not disclosed | analytics · Excel · mechanical engineering · electrical engineering · supply chain | Not specified | [Apply](https://micron.wd1.myworkdayjobs.com/en-US/External/job/Boise-ID---North-Office/Intern---Procurement-Cost-Analyst_JR112690) |
@@ -232,7 +233,7 @@ Open positions: 1
 
 ## Other
 
-Open positions: 217
+Open positions: 214
 
 | Rank | Company | Position | Location | Category | Salary | Keywords | Sponsorship | Apply |
 |---:|---|---|---|---|---|---|---|---|
@@ -243,15 +244,12 @@ Open positions: 217
 | 376 | Oscar Health | Mergers and Acquisitions Intern | New York, New York, United States | Other | Not disclosed | artificial intelligence · recruiting · compliance · legal | Not specified | [Apply](https://oscarhealth.com/careers/jobs?gh_jid=8414269) |
 | 191 | Block | Applied Research Intern, Proactive Intelligence & Customer World Models (PhD / Graduate Co-op) | Bay Area, CA, United States of America | Other | Not disclosed | Python · machine learning · legal | Not specified | [Apply](http://block.xyz/careers/jobs/5108007008?gh_jid=5108007008) |
 | 329 | DoorDash | Product Design, Intern (Summer 2027) | San Francisco, CA; New York, NY | Other | Not disclosed | Excel · logistics · recruiting · compliance | Not specified | [Apply](https://job-boards.greenhouse.io/doordashusa/jobs/8176863) |
+| 19 | Centene | Corporate Functions Summer 2027 Intern (Undergraduate) | Remote-MO | Other | Not disclosed | — | Not specified | [Apply](https://centene.wd5.myworkdayjobs.com/en-US/centene_external/job/Remote-MO/Corporate-Functions-Summer-2027-Intern--Undergraduate-_1660521) |
+| 19 | Centene | Pharmacy Undergraduate Summer Intern | Remote-MO | Other | Not disclosed | — | Not specified | [Apply](https://centene.wd5.myworkdayjobs.com/en-US/centene_external/job/Remote-MO/Pharmacy-Undergraduate-Summer-Intern_1667799) |
 | 39 | Morgan Stanley | Intern | Winter Park, Florida, United States of America | Other | Not disclosed | — | Not specified | [Apply](https://ms.wd5.myworkdayjobs.com/en-US/External/job/Winter-Park-Florida-United-States-of-America/Intern_JR045797) |
 | 44 | Walt Disney | Product Design (Accessories) Intern, Spring 2027 | Glendale, CA, USA | Other | $23/hr | Excel · CAD | Not specified | [Apply](https://disney.wd5.myworkdayjobs.com/en-US/disneycareer/job/Glendale-CA-USA/Product-Design--Accessories--Intern--Spring-2027_10160436) |
 | 160 | Applied Materials | Internship Program Manager - B4 | Santa Clara,CA | Other | Not disclosed | analytics · risk management · sales · human resources · recruiting | Not specified | [Apply](https://amat.wd1.myworkdayjobs.com/en-US/External/job/Santa-ClaraCA/Internship-Program-Manager---B4_R2631565) |
-| 84 | HP | HP SalesEDGE Rotational Internship Job Description | Rio Rancho, New Mexico, United States of America | Other | $21.85–$30.04/hr | sales | Not specified | [Apply](https://hp.wd5.myworkdayjobs.com/en-US/ExternalCareerSite/job/Rio-Rancho-New-Mexico-United-States-of-America/HP-SalesEDGE-Rotational-Internship-Job-Description_3169060) |
-| 396 | Analog Devices | Robot Learning Engineer Intern | US, CA, San Jose, Rio Robles | Other | Not disclosed | machine learning | Not specified | [Apply](https://analogdevices.wd1.myworkdayjobs.com/en-US/External/job/US-CA-San-Jose-Rio-Robles/Robot-Learning-Engineer-Intern_R269543) |
 | 476 | Marvell Technology | Applied AI/ML Research Scientist Intern | Santa Clara, CA | Other | Not disclosed | Python · machine learning · data science · electrical engineering | Not specified | [Apply](https://marvell.wd1.myworkdayjobs.com/en-US/MarvellCareers/job/Santa-Clara-CA/Applied-AI-ML-Research-Scientist-Intern_2603847-1) |
-| 19 | Centene | Business Analyst Graduate Summer Intern | Remote-MO | Other | Not disclosed | — | Not specified | [Apply](https://centene.wd5.myworkdayjobs.com/en-US/centene_external/job/Remote-MO/Graduate-Summer-Intern_1667776) |
-| 19 | Centene | Managed Care Pharmacy Graduate Summer Intern | Remote-MO | Other | Not disclosed | — | Not specified | [Apply](https://centene.wd5.myworkdayjobs.com/en-US/centene_external/job/Remote-MO/Managed-Care-Pharmacy-Undergraduate-Summer-Intern_1667804) |
-| 19 | Centene | Technology Summer 2027 Intern (Undergraduate) | Remote-FL | Other | Not disclosed | — | Not specified | [Apply](https://centene.wd5.myworkdayjobs.com/en-US/centene_external/job/Remote-FL/Centene-2027-Undergraduate-Summer-Intern_1660476) |
 | 33 | Freddie Mac | Risk Management Graduate Intern – Business Summer 2027 | McLean, VA | Other | Not disclosed | risk management | Not specified | [Apply](https://freddiemac.wd5.myworkdayjobs.com/en-US/External/job/McLean-VA/Risk-Management-Graduate-Intern---Business-Summer-2027_JR17554) |
 | 33 | Freddie Mac | Risk Management Graduate Intern – Quantitative Summer 2027 | McLean, VA | Other | Not disclosed | risk management | Not specified | [Apply](https://freddiemac.wd5.myworkdayjobs.com/en-US/External/job/McLean-VA/Risk-Management-Graduate-Intern---Quantitative-Summer-2027_JR17553) |
 | 112 | Northrop Grumman | 2027 Manufacturing Engineering Intern - Sunnyvale CA | United States-California-Sunnyvale | Other | $21.5–$39/hr | mechanical engineering | Not specified | [Apply](https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-California-Sunnyvale/XMLNAME-2027-Manufacturing-Engineering-Intern---Sunnyvale-CA_R10260394) |

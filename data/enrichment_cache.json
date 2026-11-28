@@ -181596,6 +181596,22 @@
     "source_updated_at": "",
     "sponsorship_evidence": ""
   },
+  "workday:Analog Devices:/job/US-WA-Camas/Analyst--Manufacturing-IT--Camas-_R265303": {
+    "company": "Analog Devices",
+    "enriched_at": "2026-11-28T20:03:15.361211+00:00",
+    "external_id": "/job/US-WA-Camas/Analyst--Manufacturing-IT--Camas-_R265303",
+    "h1b_mentioned": false,
+    "h1b_status": "unknown",
+    "keywords": [],
+    "salary_currency": "",
+    "salary_max": null,
+    "salary_min": null,
+    "salary_period": "",
+    "salary_text": "",
+    "source": "workday",
+    "source_updated_at": "",
+    "sponsorship_evidence": ""
+  },
   "workday:Analog Devices:/job/US-WA-Camas/Analyst--Manufacturing-IT_R265300-1": {
     "company": "Analog Devices",
     "enriched_at": "2026-10-06T18:40:29.823494+00:00",
@@ -306583,6 +306599,22 @@
     "source_updated_at": "",
     "sponsorship_evidence": ""
   },
+  "workday:Centene:/job/Granite-City-Illinois62040/LTSS-Service-Care-Coordinator_1667423": {
+    "company": "Centene",
+    "enriched_at": "2026-11-28T20:01:30.513160+00:00",
+    "external_id": "/job/Granite-City-Illinois62040/LTSS-Service-Care-Coordinator_1667423",
+    "h1b_mentioned": false,
+    "h1b_status": "unknown",
+    "keywords": [],
+    "salary_currency": "",
+    "salary_max": null,
+    "salary_min": null,
+    "salary_period": "",
+    "salary_text": "",
+    "source": "workday",
+    "source_updated_at": "",
+    "sponsorship_evidence": ""
+  },
   "workday:Centene:/job/Harrison-Arkansas72601/Care-Coordinator-II_1664942": {
     "company": "Centene",
     "enriched_at": "2026-10-07T06:02:45.908692+00:00",
@@ -306696,6 +306728,22 @@
     "salary_min": 17.84,
     "salary_period": "hour",
     "salary_text": "$17.84 - $28.02 per hour",
+    "source": "workday",
+    "source_updated_at": "",
+    "sponsorship_evidence": ""
+  },
+  "workday:Centene:/job/Lansing-Illinois60438/LTSS-Service-Care-Coordinator_1678076-1": {
+    "company": "Centene",
+    "enriched_at": "2026-11-28T20:01:30.528261+00:00",
+    "external_id": "/job/Lansing-Illinois60438/LTSS-Service-Care-Coordinator_1678076-1",
+    "h1b_mentioned": false,
+    "h1b_status": "unknown",
+    "keywords": [],
+    "salary_currency": "",
+    "salary_max": null,
+    "salary_min": null,
+    "salary_period": "",
+    "salary_text": "",
     "source": "workday",
     "source_updated_at": "",
     "sponsorship_evidence": ""
@@ -307471,6 +307519,22 @@
     "source_updated_at": "",
     "sponsorship_evidence": ""
   },
+  "workday:Centene:/job/Remote-AZ/Psychologist-Reviewer_1678157": {
+    "company": "Centene",
+    "enriched_at": "2026-11-28T20:01:30.523791+00:00",
+    "external_id": "/job/Remote-AZ/Psychologist-Reviewer_1678157",
+    "h1b_mentioned": false,
+    "h1b_status": "unknown",
+    "keywords": [],
+    "salary_currency": "USD",
+    "salary_max": 157800.0,
+    "salary_min": 87700.0,
+    "salary_period": "year",
+    "salary_text": "$87,700.00 - $157,800.00 per year",
+    "source": "workday",
+    "source_updated_at": "",
+    "sponsorship_evidence": ""
+  },
   "workday:Centene:/job/Remote-AZ/Quality-Care-Member-Advocate_1665330": {
     "company": "Centene",
     "enriched_at": "2026-10-19T22:25:08.079016+00:00",
@@ -307540,6 +307604,22 @@
     "salary_min": 56200.0,
     "salary_period": "year",
     "salary_text": "$56,200.00 - $101,000.00 per year",
+    "source": "workday",
+    "source_updated_at": "",
+    "sponsorship_evidence": ""
+  },
+  "workday:Centene:/job/Remote-AZ/Supervisor--Correspondence_1676475": {
+    "company": "Centene",
+    "enriched_at": "2026-11-28T20:01:30.523750+00:00",
+    "external_id": "/job/Remote-AZ/Supervisor--Correspondence_1676475",
+    "h1b_mentioned": false,
+    "h1b_status": "unknown",
+    "keywords": [],
+    "salary_currency": "",
+    "salary_max": null,
+    "salary_min": null,
+    "salary_period": "",
+    "salary_text": "",
     "source": "workday",
     "source_updated_at": "",
     "sponsorship_evidence": ""
@@ -307837,6 +307917,38 @@
     "salary_min": 19.43,
     "salary_period": "hour",
     "salary_text": "$19.43 - $32.98 per hour",
+    "source": "workday",
+    "source_updated_at": "",
+    "sponsorship_evidence": ""
+  },
+  "workday:Centene:/job/Remote-CA/Grievance---Appeals-Coordinator-I_1677357": {
+    "company": "Centene",
+    "enriched_at": "2026-11-28T20:01:30.528178+00:00",
+    "external_id": "/job/Remote-CA/Grievance---Appeals-Coordinator-I_1677357",
+    "h1b_mentioned": false,
+    "h1b_status": "unknown",
+    "keywords": [],
+    "salary_currency": "",
+    "salary_max": null,
+    "salary_min": null,
+    "salary_period": "",
+    "salary_text": "",
+    "source": "workday",
+    "source_updated_at": "",
+    "sponsorship_evidence": ""
+  },
+  "workday:Centene:/job/Remote-CA/Grievance---Appeals-Coordinator-I_1677909": {
+    "company": "Centene",
+    "enriched_at": "2026-11-28T20:01:30.528220+00:00",
+    "external_id": "/job/Remote-CA/Grievance---Appeals-Coordinator-I_1677909",
+    "h1b_mentioned": false,
+    "h1b_status": "unknown",
+    "keywords": [],
+    "salary_currency": "",
+    "salary_max": null,
+    "salary_min": null,
+    "salary_period": "",
+    "salary_text": "",
     "source": "workday",
     "source_updated_at": "",
     "sponsorship_evidence": ""
@@ -308427,6 +308539,22 @@
     "salary_min": 17.84,
     "salary_period": "hour",
     "salary_text": "$17.84 - $28.02 per hour",
+    "source": "workday",
+    "source_updated_at": "",
+    "sponsorship_evidence": ""
+  },
+  "workday:Centene:/job/Remote-FL/Care-Management-Support-Coordinator-II_1677901": {
+    "company": "Centene",
+    "enriched_at": "2026-11-28T20:01:30.548862+00:00",
+    "external_id": "/job/Remote-FL/Care-Management-Support-Coordinator-II_1677901",
+    "h1b_mentioned": false,
+    "h1b_status": "unknown",
+    "keywords": [],
+    "salary_currency": "",
+    "salary_max": null,
+    "salary_min": null,
+    "salary_period": "",
+    "salary_text": "",
     "source": "workday",
     "source_updated_at": "",
     "sponsorship_evidence": ""
@@ -309238,6 +309366,22 @@
     "source_updated_at": "",
     "sponsorship_evidence": ""
   },
+  "workday:Centene:/job/Remote-FL/Pharmacy-Resident_1677335": {
+    "company": "Centene",
+    "enriched_at": "2026-11-28T20:01:30.513031+00:00",
+    "external_id": "/job/Remote-FL/Pharmacy-Resident_1677335",
+    "h1b_mentioned": false,
+    "h1b_status": "unknown",
+    "keywords": [],
+    "salary_currency": "",
+    "salary_max": null,
+    "salary_min": null,
+    "salary_period": "",
+    "salary_text": "",
+    "source": "workday",
+    "source_updated_at": "",
+    "sponsorship_evidence": ""
+  },
   "workday:Centene:/job/Remote-FL/Product-Operations-Specialist_1655860": {
     "company": "Centene",
     "enriched_at": "2026-09-14T04:58:10.649763+00:00",
@@ -309430,6 +309574,24 @@
     "company": "Centene",
     "enriched_at": "2026-10-29T22:48:21.873149+00:00",
     "external_id": "/job/Remote-FL/Quality-Program-Strategist-II_1655859-1",
+    "h1b_mentioned": false,
+    "h1b_status": "unknown",
+    "keywords": [
+      "compliance"
+    ],
+    "salary_currency": "USD",
+    "salary_max": 126200.0,
+    "salary_min": 70100.0,
+    "salary_period": "year",
+    "salary_text": "$70,100.00 - $126,200.00 per year",
+    "source": "workday",
+    "source_updated_at": "",
+    "sponsorship_evidence": ""
+  },
+  "workday:Centene:/job/Remote-FL/Quality-Program-Strategist-II_1677906": {
+    "company": "Centene",
+    "enriched_at": "2026-11-28T20:01:30.544424+00:00",
+    "external_id": "/job/Remote-FL/Quality-Program-Strategist-II_1677906",
     "h1b_mentioned": false,
     "h1b_status": "unknown",
     "keywords": [
@@ -310846,6 +311008,25 @@
     "source_updated_at": "",
     "sponsorship_evidence": ""
   },
+  "workday:Centene:/job/Remote-IL/Care-Manager_1677853": {
+    "company": "Centene",
+    "enriched_at": "2026-11-28T20:01:30.519031+00:00",
+    "external_id": "/job/Remote-IL/Care-Manager_1677853",
+    "h1b_mentioned": true,
+    "h1b_status": "unknown",
+    "keywords": [
+      "compliance",
+      "contracts"
+    ],
+    "salary_currency": "",
+    "salary_max": null,
+    "salary_min": null,
+    "salary_period": "",
+    "salary_text": "",
+    "source": "workday",
+    "source_updated_at": "",
+    "sponsorship_evidence": ""
+  },
   "workday:Centene:/job/Remote-IL/Chief-Operating-Officer--Illinois-Health-Practice-Alliance_1639288": {
     "company": "Centene",
     "enriched_at": "2026-10-13T00:42:50.695799+00:00",
@@ -311125,6 +311306,22 @@
     "source_updated_at": "",
     "sponsorship_evidence": ""
   },
+  "workday:Centene:/job/Remote-IL/LTSS-Service-Care-Coordinator_1678159": {
+    "company": "Centene",
+    "enriched_at": "2026-11-28T20:01:30.528086+00:00",
+    "external_id": "/job/Remote-IL/LTSS-Service-Care-Coordinator_1678159",
+    "h1b_mentioned": false,
+    "h1b_status": "unknown",
+    "keywords": [],
+    "salary_currency": "",
+    "salary_max": null,
+    "salary_min": null,
+    "salary_period": "",
+    "salary_text": "",
+    "source": "workday",
+    "source_updated_at": "",
+    "sponsorship_evidence": ""
+  },
   "workday:Centene:/job/Remote-IL/Lead-Grievance---Appeals-Coordinator_1649674": {
     "company": "Centene",
     "enriched_at": "2026-08-20T01:54:36.910196+00:00",
@@ -311258,6 +311455,24 @@
     "source_updated_at": "",
     "sponsorship_evidence": ""
   },
+  "workday:Centene:/job/Remote-IL/Senior-Care-Navigator_1677621-1": {
+    "company": "Centene",
+    "enriched_at": "2026-11-28T20:01:30.548910+00:00",
+    "external_id": "/job/Remote-IL/Senior-Care-Navigator_1677621-1",
+    "h1b_mentioned": true,
+    "h1b_status": "unknown",
+    "keywords": [
+      "compliance"
+    ],
+    "salary_currency": "USD",
+    "salary_max": 48.55,
+    "salary_min": 27.02,
+    "salary_period": "hour",
+    "salary_text": "$27.02 - $48.55 per hour",
+    "source": "workday",
+    "source_updated_at": "",
+    "sponsorship_evidence": ""
+  },
   "workday:Centene:/job/Remote-IL/Senior-Strategy-Manager_1660110-1": {
     "company": "Centene",
     "enriched_at": "2026-09-17T21:25:34.162611+00:00",
@@ -311274,6 +311489,24 @@
     "salary_min": 87700.0,
     "salary_period": "year",
     "salary_text": "$87,700.00 - $157,800.00 per year",
+    "source": "workday",
+    "source_updated_at": "",
+    "sponsorship_evidence": ""
+  },
+  "workday:Centene:/job/Remote-IL/Sr-Care-Manager--RN-_1677210-1": {
+    "company": "Centene",
+    "enriched_at": "2026-11-28T20:01:30.513208+00:00",
+    "external_id": "/job/Remote-IL/Sr-Care-Manager--RN-_1677210-1",
+    "h1b_mentioned": true,
+    "h1b_status": "unknown",
+    "keywords": [
+      "compliance"
+    ],
+    "salary_currency": "",
+    "salary_max": null,
+    "salary_min": null,
+    "salary_period": "",
+    "salary_text": "",
     "source": "workday",
     "source_updated_at": "",
     "sponsorship_evidence": ""
@@ -312952,6 +313185,22 @@
     "source_updated_at": "",
     "sponsorship_evidence": ""
   },
+  "workday:Centene:/job/Remote-MO/Absence-Management-Specialist_1677375": {
+    "company": "Centene",
+    "enriched_at": "2026-11-28T20:01:30.512983+00:00",
+    "external_id": "/job/Remote-MO/Absence-Management-Specialist_1677375",
+    "h1b_mentioned": false,
+    "h1b_status": "unknown",
+    "keywords": [],
+    "salary_currency": "",
+    "salary_max": null,
+    "salary_min": null,
+    "salary_period": "",
+    "salary_text": "",
+    "source": "workday",
+    "source_updated_at": "",
+    "sponsorship_evidence": ""
+  },
   "workday:Centene:/job/Remote-MO/Account-Relations-Manager-II_1658931": {
     "company": "Centene",
     "enriched_at": "2026-09-15T17:03:11.971409+00:00",
@@ -312986,6 +313235,26 @@
     "salary_min": 63600.0,
     "salary_period": "year",
     "salary_text": "$63,600.00 - $114,600.00 per year",
+    "source": "workday",
+    "source_updated_at": "",
+    "sponsorship_evidence": ""
+  },
+  "workday:Centene:/job/Remote-MO/Accountant-II---Healthcare_1678128": {
+    "company": "Centene",
+    "enriched_at": "2026-11-28T20:01:30.537749+00:00",
+    "external_id": "/job/Remote-MO/Accountant-II---Healthcare_1678128",
+    "h1b_mentioned": false,
+    "h1b_status": "unknown",
+    "keywords": [
+      "Excel",
+      "accounting",
+      "audit"
+    ],
+    "salary_currency": "USD",
+    "salary_max": 101000.0,
+    "salary_min": 56200.0,
+    "salary_period": "year",
+    "salary_text": "$56,200.00 - $101,000.00 per year",
     "source": "workday",
     "source_updated_at": "",
     "sponsorship_evidence": ""
@@ -313330,6 +313599,42 @@
     "salary_min": 70100.0,
     "salary_period": "year",
     "salary_text": "$70,100.00 - $126,200.00 per year",
+    "source": "workday",
+    "source_updated_at": "",
+    "sponsorship_evidence": ""
+  },
+  "workday:Centene:/job/Remote-MO/Business-Process-Improvement-Manager_1674530": {
+    "company": "Centene",
+    "enriched_at": "2026-11-28T20:01:30.513071+00:00",
+    "external_id": "/job/Remote-MO/Business-Process-Improvement-Manager_1674530",
+    "h1b_mentioned": false,
+    "h1b_status": "unknown",
+    "keywords": [],
+    "salary_currency": "",
+    "salary_max": null,
+    "salary_min": null,
+    "salary_period": "",
+    "salary_text": "",
+    "source": "workday",
+    "source_updated_at": "",
+    "sponsorship_evidence": ""
+  },
+  "workday:Centene:/job/Remote-MO/Business-Solutions-Developer-III_1655694": {
+    "company": "Centene",
+    "enriched_at": "2026-11-28T20:01:30.507572+00:00",
+    "external_id": "/job/Remote-MO/Business-Solutions-Developer-III_1655694",
+    "h1b_mentioned": false,
+    "h1b_status": "unknown",
+    "keywords": [
+      "Python",
+      "SQL",
+      "compliance"
+    ],
+    "salary_currency": "USD",
+    "salary_max": 157800.0,
+    "salary_min": 87700.0,
+    "salary_period": "year",
+    "salary_text": "$87,700.00 - $157,800.00 per year",
     "source": "workday",
     "source_updated_at": "",
     "sponsorship_evidence": ""
@@ -314405,16 +314710,11 @@
   },
   "workday:Centene:/job/Remote-MO/Corporate-Functions-Summer-2027-Intern--Undergraduate-_1660521": {
     "company": "Centene",
-    "enriched_at": "2026-10-28T22:38:48.678207+00:00",
+    "enriched_at": "2026-11-28T20:01:30.512844+00:00",
     "external_id": "/job/Remote-MO/Corporate-Functions-Summer-2027-Intern--Undergraduate-_1660521",
-    "h1b_mentioned": true,
+    "h1b_mentioned": false,
     "h1b_status": "unknown",
-    "keywords": [
-      "procurement",
-      "human resources",
-      "compliance",
-      "legal"
-    ],
+    "keywords": [],
     "salary_currency": "",
     "salary_max": null,
     "salary_min": null,
@@ -314785,7 +315085,7 @@
   },
   "workday:Centene:/job/Remote-MO/Digital-Design-Operations-Intern--Master-s---Summer-2027-_1667736": {
     "company": "Centene",
-    "enriched_at": "2026-10-28T22:38:48.696026+00:00",
+    "enriched_at": "2026-11-28T20:01:30.540779+00:00",
     "external_id": "/job/Remote-MO/Digital-Design-Operations-Intern--Master-s---Summer-2027-_1667736",
     "h1b_mentioned": true,
     "h1b_status": "unknown",
@@ -316647,6 +316947,22 @@
     "source_updated_at": "",
     "sponsorship_evidence": ""
   },
+  "workday:Centene:/job/Remote-MO/Pharmacy-Undergraduate-Summer-Intern_1667799": {
+    "company": "Centene",
+    "enriched_at": "2026-11-28T20:01:30.512913+00:00",
+    "external_id": "/job/Remote-MO/Pharmacy-Undergraduate-Summer-Intern_1667799",
+    "h1b_mentioned": false,
+    "h1b_status": "unknown",
+    "keywords": [],
+    "salary_currency": "",
+    "salary_max": null,
+    "salary_min": null,
+    "salary_period": "",
+    "salary_text": "",
+    "source": "workday",
+    "source_updated_at": "",
+    "sponsorship_evidence": ""
+  },
   "workday:Centene:/job/Remote-MO/Portfolio-Data-Analyst-Intern--Undergraduate---Summer-2027-_1667733-1": {
     "company": "Centene",
     "enriched_at": "2026-10-29T22:48:21.857954+00:00",
@@ -317768,6 +318084,22 @@
     "salary_min": 87000.0,
     "salary_period": "year",
     "salary_text": "$87,000.00 - $161,300.00 per year",
+    "source": "workday",
+    "source_updated_at": "",
+    "sponsorship_evidence": ""
+  },
+  "workday:Centene:/job/Remote-MO/Senior-Data-Engineer_1678376": {
+    "company": "Centene",
+    "enriched_at": "2026-11-28T20:01:30.513126+00:00",
+    "external_id": "/job/Remote-MO/Senior-Data-Engineer_1678376",
+    "h1b_mentioned": false,
+    "h1b_status": "unknown",
+    "keywords": [],
+    "salary_currency": "",
+    "salary_max": null,
+    "salary_min": null,
+    "salary_period": "",
+    "salary_text": "",
     "source": "workday",
     "source_updated_at": "",
     "sponsorship_evidence": ""
@@ -319120,6 +319452,22 @@
     "source_updated_at": "",
     "sponsorship_evidence": ""
   },
+  "workday:Centene:/job/Remote-MS/Clinical-Review-Nurse---Concurrent-Review--RN-_1678100": {
+    "company": "Centene",
+    "enriched_at": "2026-11-28T20:01:30.528127+00:00",
+    "external_id": "/job/Remote-MS/Clinical-Review-Nurse---Concurrent-Review--RN-_1678100",
+    "h1b_mentioned": false,
+    "h1b_status": "unknown",
+    "keywords": [],
+    "salary_currency": "",
+    "salary_max": null,
+    "salary_min": null,
+    "salary_period": "",
+    "salary_text": "",
+    "source": "workday",
+    "source_updated_at": "",
+    "sponsorship_evidence": ""
+  },
   "workday:Centene:/job/Remote-MS/Clinical-Review-Nurse---Concurrent-Review_1660440": {
     "company": "Centene",
     "enriched_at": "2026-09-28T13:56:05.554908+00:00",
@@ -320296,6 +320644,22 @@
     "salary_min": 56200.0,
     "salary_period": "year",
     "salary_text": "$56,200.00 - $101,000.00 per year",
+    "source": "workday",
+    "source_updated_at": "",
+    "sponsorship_evidence": ""
+  },
+  "workday:Centene:/job/Remote-NJ/Provider-Engagement-Account-Manager_1678307": {
+    "company": "Centene",
+    "enriched_at": "2026-11-28T20:01:30.528039+00:00",
+    "external_id": "/job/Remote-NJ/Provider-Engagement-Account-Manager_1678307",
+    "h1b_mentioned": false,
+    "h1b_status": "unknown",
+    "keywords": [],
+    "salary_currency": "",
+    "salary_max": null,
+    "salary_min": null,
+    "salary_period": "",
+    "salary_text": "",
     "source": "workday",
     "source_updated_at": "",
     "sponsorship_evidence": ""
@@ -323533,6 +323897,24 @@
     "source_updated_at": "",
     "sponsorship_evidence": ""
   },
+  "workday:Centene:/job/Remote-TX/Senior-LTSS-Service-Care-Manager--RN-_1678113": {
+    "company": "Centene",
+    "enriched_at": "2026-11-28T20:01:30.554297+00:00",
+    "external_id": "/job/Remote-TX/Senior-LTSS-Service-Care-Manager--RN-_1678113",
+    "h1b_mentioned": false,
+    "h1b_status": "unknown",
+    "keywords": [
+      "compliance"
+    ],
+    "salary_currency": "USD",
+    "salary_max": 65.09,
+    "salary_min": 36.21,
+    "salary_period": "hour",
+    "salary_text": "$36.21 - $65.09 per hour",
+    "source": "workday",
+    "source_updated_at": "",
+    "sponsorship_evidence": ""
+  },
   "workday:Centene:/job/Remote-TX/Senior-Manager--Quality-Improvement--HEDIS-Audit_1657445": {
     "company": "Centene",
     "enriched_at": "2026-09-09T20:59:32.755241+00:00",
@@ -323692,6 +324074,54 @@
     "company": "Centene",
     "enriched_at": "2026-10-02T12:36:14.191966+00:00",
     "external_id": "/job/Remote-TX/Utilization-Review-Clinician---Behavioral-Health_1663248",
+    "h1b_mentioned": false,
+    "h1b_status": "unknown",
+    "keywords": [],
+    "salary_currency": "USD",
+    "salary_max": 48.55,
+    "salary_min": 27.02,
+    "salary_period": "hour",
+    "salary_text": "$27.02 - $48.55 per hour",
+    "source": "workday",
+    "source_updated_at": "",
+    "sponsorship_evidence": ""
+  },
+  "workday:Centene:/job/Remote-TX/Utilization-Review-Clinician---Behavioral-Health_1670503": {
+    "company": "Centene",
+    "enriched_at": "2026-11-28T20:01:30.540720+00:00",
+    "external_id": "/job/Remote-TX/Utilization-Review-Clinician---Behavioral-Health_1670503",
+    "h1b_mentioned": false,
+    "h1b_status": "unknown",
+    "keywords": [],
+    "salary_currency": "",
+    "salary_max": null,
+    "salary_min": null,
+    "salary_period": "",
+    "salary_text": "",
+    "source": "workday",
+    "source_updated_at": "",
+    "sponsorship_evidence": ""
+  },
+  "workday:Centene:/job/Remote-TX/Utilization-Review-Clinician---Behavioral-Health_1677917": {
+    "company": "Centene",
+    "enriched_at": "2026-11-28T20:01:30.532876+00:00",
+    "external_id": "/job/Remote-TX/Utilization-Review-Clinician---Behavioral-Health_1677917",
+    "h1b_mentioned": false,
+    "h1b_status": "unknown",
+    "keywords": [],
+    "salary_currency": "USD",
+    "salary_max": 48.55,
+    "salary_min": 27.02,
+    "salary_period": "hour",
+    "salary_text": "$27.02 - $48.55 per hour",
+    "source": "workday",
+    "source_updated_at": "",
+    "sponsorship_evidence": ""
+  },
+  "workday:Centene:/job/Remote-TX/Utilization-Review-Clinician---Behavioral-Health_1677965": {
+    "company": "Centene",
+    "enriched_at": "2026-11-28T20:01:30.528298+00:00",
+    "external_id": "/job/Remote-TX/Utilization-Review-Clinician---Behavioral-Health_1677965",
     "h1b_mentioned": false,
     "h1b_status": "unknown",
     "keywords": [],
@@ -670277,6 +670707,22 @@
     "source_updated_at": "",
     "sponsorship_evidence": ""
   },
+  "workday:Morgan Stanley:/job/Dallas-Texas-United-States-of-America/Private-Wealth-Management-Business-Development-Associate_JR046823": {
+    "company": "Morgan Stanley",
+    "enriched_at": "2026-11-28T20:01:59.107383+00:00",
+    "external_id": "/job/Dallas-Texas-United-States-of-America/Private-Wealth-Management-Business-Development-Associate_JR046823",
+    "h1b_mentioned": false,
+    "h1b_status": "unknown",
+    "keywords": [],
+    "salary_currency": "",
+    "salary_max": null,
+    "salary_min": null,
+    "salary_period": "",
+    "salary_text": "",
+    "source": "workday",
+    "source_updated_at": "",
+    "sponsorship_evidence": ""
+  },
   "workday:Morgan Stanley:/job/Dallas-Texas-United-States-of-America/Program-Manager--Corporate-Real-Estate_PT-JR044142-1": {
     "company": "Morgan Stanley",
     "enriched_at": "2026-10-01T22:45:26.976626+00:00",
@@ -671091,6 +671537,22 @@
       "recruiting",
       "compliance"
     ],
+    "salary_currency": "",
+    "salary_max": null,
+    "salary_min": null,
+    "salary_period": "",
+    "salary_text": "",
+    "source": "workday",
+    "source_updated_at": "",
+    "sponsorship_evidence": ""
+  },
+  "workday:Morgan Stanley:/job/Greenwood-Village-Colorado-United-States-of-America/Fiduciary-Consulting-Group---Institutional-Retirement-Consultant---Executive-Director_PT-JR047091": {
+    "company": "Morgan Stanley",
+    "enriched_at": "2026-11-28T20:01:59.107297+00:00",
+    "external_id": "/job/Greenwood-Village-Colorado-United-States-of-America/Fiduciary-Consulting-Group---Institutional-Retirement-Consultant---Executive-Director_PT-JR047091",
+    "h1b_mentioned": false,
+    "h1b_status": "unknown",
+    "keywords": [],
     "salary_currency": "",
     "salary_max": null,
     "salary_min": null,
@@ -679713,6 +680175,24 @@
     "salary_min": 190000.0,
     "salary_period": "year",
     "salary_text": "$190,000 per year",
+    "source": "workday",
+    "source_updated_at": "",
+    "sponsorship_evidence": ""
+  },
+  "workday:Morgan Stanley:/job/Purchase-New-York-United-States-of-America/Wealth-Management-Non-Financial---Operational-Risk-Governance-and-Analytics--Assistant-Vice-President_PT-JR046910": {
+    "company": "Morgan Stanley",
+    "enriched_at": "2026-11-28T20:01:59.107107+00:00",
+    "external_id": "/job/Purchase-New-York-United-States-of-America/Wealth-Management-Non-Financial---Operational-Risk-Governance-and-Analytics--Assistant-Vice-President_PT-JR046910",
+    "h1b_mentioned": false,
+    "h1b_status": "unknown",
+    "keywords": [
+      "analytics"
+    ],
+    "salary_currency": "",
+    "salary_max": null,
+    "salary_min": null,
+    "salary_period": "",
+    "salary_text": "",
     "source": "workday",
     "source_updated_at": "",
     "sponsorship_evidence": ""
@@ -914192,7 +914672,7 @@
   },
   "workday:Prudential Financial:/job/Dallas-TX-USA/PGIM-Real-Estate-Senior-Asset-Manager--Hybrid-_R-125455-2": {
     "company": "Prudential Financial",
-    "enriched_at": "2026-11-19T20:36:26.061769+00:00",
+    "enriched_at": "2026-11-28T20:02:28.724165+00:00",
     "external_id": "/job/Dallas-TX-USA/PGIM-Real-Estate-Senior-Asset-Manager--Hybrid-_R-125455-2",
     "h1b_mentioned": false,
     "h1b_status": "unknown",
@@ -914235,15 +914715,11 @@
   },
   "workday:Prudential Financial:/job/Fort-Washington-PA-USA/Executive-Assistant--Group-Insurance-Claims---Service--Hybrid-_R-125436-1": {
     "company": "Prudential Financial",
-    "enriched_at": "2026-11-19T20:36:26.077678+00:00",
+    "enriched_at": "2026-11-28T20:02:28.734709+00:00",
     "external_id": "/job/Fort-Washington-PA-USA/Executive-Assistant--Group-Insurance-Claims---Service--Hybrid-_R-125436-1",
     "h1b_mentioned": false,
     "h1b_status": "unknown",
-    "keywords": [
-      "Excel",
-      "logistics",
-      "legal"
-    ],
+    "keywords": [],
     "salary_currency": "",
     "salary_max": null,
     "salary_min": null,
@@ -914513,15 +914989,11 @@
   },
   "workday:Prudential Financial:/job/Newark-NJ-USA/Analyst--PGIM-Investment-Operations---Hybrid--Newark-NJ-_R-125450-2": {
     "company": "Prudential Financial",
-    "enriched_at": "2026-11-19T20:36:26.048426+00:00",
+    "enriched_at": "2026-11-28T20:02:28.724099+00:00",
     "external_id": "/job/Newark-NJ-USA/Analyst--PGIM-Investment-Operations---Hybrid--Newark-NJ-_R-125450-2",
     "h1b_mentioned": false,
     "h1b_status": "unknown",
-    "keywords": [
-      "accounting",
-      "audit",
-      "legal"
-    ],
+    "keywords": [],
     "salary_currency": "",
     "salary_max": null,
     "salary_min": null,
@@ -914673,17 +915145,11 @@
   },
   "workday:Prudential Financial:/job/Newark-NJ-USA/Associate-Manager--Enterprise-Expense-Optimization_R-125136-1": {
     "company": "Prudential Financial",
-    "enriched_at": "2026-11-19T20:36:26.114521+00:00",
+    "enriched_at": "2026-11-28T20:02:28.734846+00:00",
     "external_id": "/job/Newark-NJ-USA/Associate-Manager--Enterprise-Expense-Optimization_R-125136-1",
     "h1b_mentioned": false,
     "h1b_status": "unknown",
-    "keywords": [
-      "analytics",
-      "Excel",
-      "financial modeling",
-      "accounting",
-      "legal"
-    ],
+    "keywords": [],
     "salary_currency": "",
     "salary_max": null,
     "salary_min": null,
@@ -916706,14 +917172,11 @@
   },
   "workday:Prudential Financial:/job/Newark-NJ-USA/PGIM-Marketing--Executive-Director--Head-of-Content-and-Editorial_R-125427-1": {
     "company": "Prudential Financial",
-    "enriched_at": "2026-11-19T20:36:26.089652+00:00",
+    "enriched_at": "2026-11-28T20:02:28.734780+00:00",
     "external_id": "/job/Newark-NJ-USA/PGIM-Marketing--Executive-Director--Head-of-Content-and-Editorial_R-125427-1",
     "h1b_mentioned": false,
     "h1b_status": "unknown",
-    "keywords": [
-      "SEO",
-      "legal"
-    ],
+    "keywords": [],
     "salary_currency": "",
     "salary_max": null,
     "salary_min": null,
@@ -916754,6 +917217,26 @@
       "Excel",
       "logistics",
       "compliance",
+      "legal"
+    ],
+    "salary_currency": "",
+    "salary_max": null,
+    "salary_min": null,
+    "salary_period": "",
+    "salary_text": "",
+    "source": "workday",
+    "source_updated_at": "",
+    "sponsorship_evidence": ""
+  },
+  "workday:Prudential Financial:/job/Newark-NJ-USA/PGIM-Quantitative-Solutions--Trader_R-125459-1": {
+    "company": "Prudential Financial",
+    "enriched_at": "2026-11-28T20:02:28.715675+00:00",
+    "external_id": "/job/Newark-NJ-USA/PGIM-Quantitative-Solutions--Trader_R-125459-1",
+    "h1b_mentioned": false,
+    "h1b_status": "unknown",
+    "keywords": [
+      "Excel",
+      "accounting",
       "legal"
     ],
     "salary_currency": "",
@@ -917546,11 +918029,33 @@
   },
   "workday:Prudential Financial:/job/Thousand-Oaks-CA-USA/Senior-Customer-Service-Associate_R-125058-1": {
     "company": "Prudential Financial",
-    "enriched_at": "2026-10-07T06:12:58.279628+00:00",
+    "enriched_at": "2026-11-28T20:02:28.709051+00:00",
     "external_id": "/job/Thousand-Oaks-CA-USA/Senior-Customer-Service-Associate_R-125058-1",
     "h1b_mentioned": false,
     "h1b_status": "unknown",
     "keywords": [
+      "legal"
+    ],
+    "salary_currency": "",
+    "salary_max": null,
+    "salary_min": null,
+    "salary_period": "",
+    "salary_text": "",
+    "source": "workday",
+    "source_updated_at": "",
+    "sponsorship_evidence": ""
+  },
+  "workday:Prudential Financial:/job/Troy-MI-USA/Sales-Support-Administrator_R-125466-1": {
+    "company": "Prudential Financial",
+    "enriched_at": "2026-11-28T20:02:28.702126+00:00",
+    "external_id": "/job/Troy-MI-USA/Sales-Support-Administrator_R-125466-1",
+    "h1b_mentioned": false,
+    "h1b_status": "unknown",
+    "keywords": [
+      "Excel",
+      "sales",
+      "recruiting",
+      "compliance",
       "legal"
     ],
     "salary_currency": "",
@@ -1389410,7 +1389915,7 @@
   },
   "workday:Workday:/job/USA-CA-Pleasanton/Principal-Software-Development-Engineer_JR-0111151-1": {
     "company": "Workday",
-    "enriched_at": "2026-10-27T22:12:49.705449+00:00",
+    "enriched_at": "2026-11-28T20:00:19.360195+00:00",
     "external_id": "/job/USA-CA-Pleasanton/Principal-Software-Development-Engineer_JR-0111151-1",
     "h1b_mentioned": false,
     "h1b_status": "unknown",
@@ -1389435,7 +1389940,7 @@
   },
   "workday:Workday:/job/USA-CA-Pleasanton/Principal-Software-Engineer--Agentic-UX_JR-0110769": {
     "company": "Workday",
-    "enriched_at": "2026-11-05T06:44:21.602808+00:00",
+    "enriched_at": "2026-11-28T20:00:19.380464+00:00",
     "external_id": "/job/USA-CA-Pleasanton/Principal-Software-Engineer--Agentic-UX_JR-0110769",
     "h1b_mentioned": false,
     "h1b_status": "unknown",
@@ -1389560,13 +1390065,11 @@
   },
   "workday:Workday:/job/USA-CA-Pleasanton/Product-Manager_JR-0110789": {
     "company": "Workday",
-    "enriched_at": "2026-11-18T07:26:19.537634+00:00",
+    "enriched_at": "2026-11-28T20:00:19.380431+00:00",
     "external_id": "/job/USA-CA-Pleasanton/Product-Manager_JR-0110789",
     "h1b_mentioned": false,
     "h1b_status": "unknown",
-    "keywords": [
-      "recruiting"
-    ],
+    "keywords": [],
     "salary_currency": "",
     "salary_max": null,
     "salary_min": null,
@@ -1390740,6 +1391243,22 @@
     "source_updated_at": "",
     "sponsorship_evidence": ""
   },
+  "workday:Workday:/job/USA-CA-Pleasanton/Sr-Manager--AI-Engineering---Agent-Factory_JR-0111915": {
+    "company": "Workday",
+    "enriched_at": "2026-11-28T20:00:19.360014+00:00",
+    "external_id": "/job/USA-CA-Pleasanton/Sr-Manager--AI-Engineering---Agent-Factory_JR-0111915",
+    "h1b_mentioned": false,
+    "h1b_status": "unknown",
+    "keywords": [],
+    "salary_currency": "",
+    "salary_max": null,
+    "salary_min": null,
+    "salary_period": "",
+    "salary_text": "",
+    "source": "workday",
+    "source_updated_at": "",
+    "sponsorship_evidence": ""
+  },
   "workday:Workday:/job/USA-CA-Pleasanton/Sr-Principal--GRC_JR-IC-000030-1": {
     "company": "Workday",
     "enriched_at": "2026-10-15T16:59:46.667956+00:00",
@@ -1391539,6 +1392058,22 @@
       "recruiting",
       "compliance"
     ],
+    "salary_currency": "",
+    "salary_max": null,
+    "salary_min": null,
+    "salary_period": "",
+    "salary_text": "",
+    "source": "workday",
+    "source_updated_at": "",
+    "sponsorship_evidence": ""
+  },
+  "workday:Workday:/job/USA-GA-Atlanta/BT-Change-Enablement-Coordinator_JR-0111373-1": {
+    "company": "Workday",
+    "enriched_at": "2026-11-28T20:00:19.389824+00:00",
+    "external_id": "/job/USA-GA-Atlanta/BT-Change-Enablement-Coordinator_JR-0111373-1",
+    "h1b_mentioned": false,
+    "h1b_status": "unknown",
+    "keywords": [],
     "salary_currency": "",
     "salary_max": null,
     "salary_min": null,
@@ -1392569,7 +1393104,7 @@
   },
   "workday:Workday:/job/USA-Remote/Payroll--Time-Tracking----Absence-Consultant--Higher-Education---Nonprofit_JR-0111499": {
     "company": "Workday",
-    "enriched_at": "2026-11-18T07:26:19.507948+00:00",
+    "enriched_at": "2026-11-28T20:00:19.369644+00:00",
     "external_id": "/job/USA-Remote/Payroll--Time-Tracking----Absence-Consultant--Higher-Education---Nonprofit_JR-0111499",
     "h1b_mentioned": false,
     "h1b_status": "unknown",
@@ -1392761,14 +1393296,11 @@
   },
   "workday:Workday:/job/USA-Remote/Senior-Technical-Consultant--Integrations---Higher-Education---Nonprofit_JR-0111391": {
     "company": "Workday",
-    "enriched_at": "2026-11-11T14:26:36.092012+00:00",
+    "enriched_at": "2026-11-28T20:00:19.369569+00:00",
     "external_id": "/job/USA-Remote/Senior-Technical-Consultant--Integrations---Higher-Education---Nonprofit_JR-0111391",
     "h1b_mentioned": false,
     "h1b_status": "unknown",
-    "keywords": [
-      "Excel",
-      "recruiting"
-    ],
+    "keywords": [],
     "salary_currency": "",
     "salary_max": null,
     "salary_min": null,
@@ -1393808,22 +1394340,11 @@
   },
   "workday:Workday:/job/USAVAReston/Senior-Software-Development-Engineer--US-Federal-_JR-0105427": {
     "company": "Workday",
-    "enriched_at": "2026-10-05T14:35:52.513854+00:00",
+    "enriched_at": "2026-11-28T20:00:19.389768+00:00",
     "external_id": "/job/USAVAReston/Senior-Software-Development-Engineer--US-Federal-_JR-0105427",
     "h1b_mentioned": false,
     "h1b_status": "unknown",
-    "keywords": [
-      "Python",
-      "C#",
-      "Go",
-      "Rust",
-      "AWS",
-      "Kubernetes",
-      "Terraform",
-      "recruiting",
-      "compliance",
-      "contracts"
-    ],
+    "keywords": [],
     "salary_currency": "",
     "salary_max": null,
     "salary_min": null,
@@ -1394222,7 +1394743,7 @@
   },
   "workday:Workday:/job/USAVAReston/Software-Development-Engineer---US-Federal_JR-0111286": {
     "company": "Workday",
-    "enriched_at": "2026-11-13T19:40:37.398520+00:00",
+    "enriched_at": "2026-11-28T20:00:19.369773+00:00",
     "external_id": "/job/USAVAReston/Software-Development-Engineer---US-Federal_JR-0111286",
     "h1b_mentioned": false,
     "h1b_status": "unknown",
@@ -1394244,16 +1394765,11 @@
   },
   "workday:Workday:/job/USAVAReston/Software-Development-Engineer---US-Federal_JR-0111561": {
     "company": "Workday",
-    "enriched_at": "2026-11-18T07:26:19.518232+00:00",
+    "enriched_at": "2026-11-28T20:00:19.369722+00:00",
     "external_id": "/job/USAVAReston/Software-Development-Engineer---US-Federal_JR-0111561",
     "h1b_mentioned": false,
     "h1b_status": "unknown",
-    "keywords": [
-      "Python",
-      "Java",
-      "C#",
-      "recruiting"
-    ],
+    "keywords": [],
     "salary_currency": "",
     "salary_max": null,
     "salary_min": null,
@@ -1394474,6 +1394990,22 @@
       "compliance",
       "contracts"
     ],
+    "salary_currency": "",
+    "salary_max": null,
+    "salary_min": null,
+    "salary_period": "",
+    "salary_text": "",
+    "source": "workday",
+    "source_updated_at": "",
+    "sponsorship_evidence": ""
+  },
+  "workday:Workday:/job/USAVAReston/Software-Development-Engineer--US-Federal-_JR-0111899": {
+    "company": "Workday",
+    "enriched_at": "2026-11-28T20:00:19.369509+00:00",
+    "external_id": "/job/USAVAReston/Software-Development-Engineer--US-Federal-_JR-0111899",
+    "h1b_mentioned": false,
+    "h1b_status": "unknown",
+    "keywords": [],
     "salary_currency": "",
     "salary_max": null,
     "salary_min": null,
